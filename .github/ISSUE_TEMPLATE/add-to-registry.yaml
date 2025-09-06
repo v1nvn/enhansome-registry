@@ -1,0 +1,41 @@
+name: Add a new Awesome List to the Index
+description: Request to add your Awesome List to the Enhansome registry.
+title: "[New List]: owner/repo-name"
+labels: ["new-list-request", "enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your interest in adding your Awesome List to the Enhansome Index! 
+        Please complete the following fields. A maintainer will review your submission.
+
+  - type: input
+    id: repo-url
+    attributes:
+      label: Repository URL
+      description: "The full URL of your Awesome List repository."
+      placeholder: "e.g., https://github.com/sindresorhus/awesome"
+    validations:
+      required: true
+
+  - type: input
+    id: json-path
+    attributes:
+      label: Full Path to your data.json file
+      description: "Provide the full path from the root of your repository to your generated `data.json` file, in the format `owner/repo/path/to/file.json`."
+      placeholder: "e.g., sindresorhus/awesome/data.json"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: "Requirements Checklist"
+      description: "Please confirm the following before submitting."
+      options:
+        - label: "My repository is a high-quality, curated 'Awesome List'."
+          required: true
+        - label: "I have a GitHub Action workflow in my repository that automatically generates and commits the `data.json` file."
+          required: true
+        - label: "The `data.json` file is present in my repository's default branch at the path specified above."
+          required: true
