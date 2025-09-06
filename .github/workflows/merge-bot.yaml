@@ -13,7 +13,7 @@ permissions:
 jobs:
   validate-and-merge:
     # IMPORTANT: Change this to your repository to prevent the action from running on forks.
-    if: github.repository == 'YOUR_USERNAME/enhansome-registry'
+    if: github.repository == 'v1nvn/enhansome-registry'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
