@@ -1,0 +1,32 @@
+name: 'Auto-Discover Enhansome Repositories'
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Run weekly on Sundays at 6:00 AM UTC
+    - cron: '0 6 * * 0'
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  discover-and-create-issues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.25'
+
+      - name: Run Auto-Discovery
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          go run ./cmd/auto-discover \
+            -allowlist ./allowlist.txt \
+            -denylist ./denylist.txt
