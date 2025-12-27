@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"net/url"
 	"os"
 	"strings"
 	"sync"
@@ -26,6 +27,8 @@ type Config struct {
 	DenylistPath  string
 	DryRun        bool
 	Workers       int
+	BaseURL       string
+	PerPage       int
 }
 
 type Discoverer struct {
@@ -62,6 +65,14 @@ type NewIssue struct {
 func NewDiscoverer(config *Config) *Discoverer {
 	if config.Workers <= 0 {
 		config.Workers = defaultWorkers
+	}
+
+	if config.BaseURL == "" {
+		config.BaseURL = "https://api.github.com"
+	}
+
+	if config.PerPage <= 0 {
+		config.PerPage = 100
 	}
 
 	return &Discoverer{
@@ -175,38 +186,21 @@ func (d *Discoverer) loadDenylist() error {
 
 func (d *Discoverer) searchRepositories(ctx context.Context) ([]string, error) {
 	query := "filename:.enhansome.jsonc path:/ registryIndexing"
-	url := fmt.Sprintf("https://api.github.com/search/code?q=%s&per_page=100", query)
-
-	req, err := http.NewRequestWithContext(ctx, http.MethodGet, url, nil)
-	if err != nil {
-		return nil, fmt.Errorf("creating search request: %w", err)
-	}
-
-	req.Header.Set("Authorization", "token "+d.config.Token)
-	req.Header.Set("Accept", "application/vnd.github.v3+json")
-
-	resp, err := d.httpClient.Do(req)
-	if err != nil {
-		return nil, fmt.Errorf("executing search request: %w", err)
-	}
-	defer resp.Body.Close()
-
-	if resp.StatusCode != http.StatusOK {
-		body, _ := io.ReadAll(resp.Body)
-		return nil, fmt.Errorf("GitHub API returned %d: %s", resp.StatusCode, string(body))
-	}
-
-	var result struct {
-		Items []CodeSearchResult `json:"items"`
-	}
-	if decodeErr := json.NewDecoder(resp.Body).Decode(&result); decodeErr != nil {
-		return nil, fmt.Errorf("decoding search results: %w", decodeErr)
-	}
-
-	// Extract unique repository names
 	repoMap := make(map[string]bool)
-	for _, item := range result.Items {
-		repoMap[item.Repository.FullName] = true
+
+	for page := 1; ; page++ {
+		pageResults, hasMore, err := d.searchRepositoriesPage(ctx, query, page, d.config.PerPage)
+		if err != nil {
+			return nil, err
+		}
+
+		for _, repo := range pageResults {
+			repoMap[repo] = true
+		}
+
+		if !hasMore {
+			break
+		}
 	}
 
 	repos := make([]string, 0, len(repoMap))
@@ -217,11 +211,59 @@ func (d *Discoverer) searchRepositories(ctx context.Context) ([]string, error) {
 	return repos, nil
 }
 
+func (d *Discoverer) searchRepositoriesPage(
+	ctx context.Context,
+	query string,
+	page, perPage int,
+) ([]string, bool, error) {
+	searchURL := fmt.Sprintf(
+		"%s/search/code?q=%s&per_page=%d&page=%d",
+		d.config.BaseURL, url.QueryEscape(query), perPage, page,
+	)
+
+	req, err := http.NewRequestWithContext(ctx, http.MethodGet, searchURL, nil)
+	if err != nil {
+		return nil, false, fmt.Errorf("creating search request: %w", err)
+	}
+
+	req.Header.Set("Authorization", "token "+d.config.Token)
+	req.Header.Set("Accept", "application/vnd.github.v3+json")
+
+	resp, err := d.httpClient.Do(req)
+	if err != nil {
+		return nil, false, fmt.Errorf("executing search request: %w", err)
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		body, _ := io.ReadAll(resp.Body)
+
+		return nil, false, fmt.Errorf("GitHub API returned %d: %s", resp.StatusCode, string(body))
+	}
+
+	var result struct {
+		Items      []CodeSearchResult `json:"items"`
+		TotalCount int                `json:"total_count"`
+	}
+
+	if decodeErr := json.NewDecoder(resp.Body).Decode(&result); decodeErr != nil {
+		return nil, false, fmt.Errorf("decoding search results: %w", decodeErr)
+	}
+
+	repos := make([]string, 0, len(result.Items))
+	for _, item := range result.Items {
+		repos = append(repos, item.Repository.FullName)
+	}
+
+	hasMore := len(result.Items) == perPage && page*perPage < result.TotalCount
+
+	return repos, hasMore, nil
+}
+
 func (d *Discoverer) filterRepositories(repos []string) []string {
 	var newRepos []string
 
 	for _, repo := range repos {
-		// Check if already in allowlist
 		if d.allowlist[repo] {
 			fmt.Printf("⏭️  Skipping %s (already in allowlist)\n", repo)
 			continue
@@ -241,11 +283,40 @@ func (d *Discoverer) filterRepositories(repos []string) []string {
 }
 
 func (d *Discoverer) getExistingIssues(ctx context.Context) (map[string]bool, error) {
-	url := fmt.Sprintf("https://api.github.com/repos/%s/issues?state=open&labels=auto-discovery", d.config.Repository)
+	existingIssues := make(map[string]bool)
+
+	for page := 1; ; page++ {
+		issues, hasMore, err := d.getExistingIssuesPage(ctx, page, d.config.PerPage)
+		if err != nil {
+			return nil, err
+		}
+
+		for _, issue := range issues {
+			if repo, found := strings.CutPrefix(issue.Title, "Auto-Discovery: "); found {
+				existingIssues[repo] = true
+			}
+		}
+
+		if !hasMore {
+			break
+		}
+	}
+
+	return existingIssues, nil
+}
+
+func (d *Discoverer) getExistingIssuesPage(
+	ctx context.Context,
+	page, perPage int,
+) ([]Issue, bool, error) {
+	url := fmt.Sprintf(
+		"%s/repos/%s/issues?state=open&labels=auto-discovery&per_page=%d&page=%d",
+		d.config.BaseURL, d.config.Repository, perPage, page,
+	)
 
 	req, err := http.NewRequestWithContext(ctx, http.MethodGet, url, nil)
 	if err != nil {
-		return nil, fmt.Errorf("creating issues request: %w", err)
+		return nil, false, fmt.Errorf("creating issues request: %w", err)
 	}
 
 	req.Header.Set("Authorization", "token "+d.config.Token)
@@ -253,29 +324,24 @@ func (d *Discoverer) getExistingIssues(ctx context.Context) (map[string]bool, er
 
 	resp, err := d.httpClient.Do(req)
 	if err != nil {
-		return nil, fmt.Errorf("executing issues request: %w", err)
+		return nil, false, fmt.Errorf("executing issues request: %w", err)
 	}
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
 		body, _ := io.ReadAll(resp.Body)
-		return nil, fmt.Errorf("GitHub API returned %d: %s", resp.StatusCode, string(body))
+
+		return nil, false, fmt.Errorf("GitHub API returned %d: %s", resp.StatusCode, string(body))
 	}
 
 	var issues []Issue
 	if decodeErr := json.NewDecoder(resp.Body).Decode(&issues); decodeErr != nil {
-		return nil, fmt.Errorf("decoding issues: %w", decodeErr)
+		return nil, false, fmt.Errorf("decoding issues: %w", decodeErr)
 	}
 
-	existingIssues := make(map[string]bool)
-	for _, issue := range issues {
-		// Extract repo name from issue title "Auto-Discovery: owner/repo"
-		if repo, found := strings.CutPrefix(issue.Title, "Auto-Discovery: "); found {
-			existingIssues[repo] = true
-		}
-	}
+	hasMore := len(issues) == perPage
 
-	return existingIssues, nil
+	return issues, hasMore, nil
 }
 
 type repoTask struct {
@@ -374,7 +440,6 @@ func (d *Discoverer) processRepoWorker(
 	for task := range tasks {
 		repo := task.repo
 
-		// Check if issue already exists
 		if existingIssues[repo] {
 			results <- repoResult{
 				repo:       repo,

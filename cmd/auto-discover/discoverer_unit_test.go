@@ -21,6 +21,270 @@ var _ = Describe("Discoverer Unit Tests", func() {
 		discoverer = NewDiscoverer(config)
 	})
 
+	Describe("Search Repositories Pagination", func() {
+		var server *httptest.Server
+
+		AfterEach(func() {
+			if server != nil {
+				server.Close()
+			}
+		})
+
+		Context("when searching repositories with pagination", func() {
+			It("should fetch all pages when total exceeds per_page", func() {
+				requestCount := 0
+				server = httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+					requestCount++
+					page := r.URL.Query().Get("page")
+
+					var response string
+					switch page {
+					case "1":
+						// First page: 3 items, total 5 (simulating per_page=3)
+						response = `{
+							"total_count": 5,
+							"items": [
+								{"repository": {"full_name": "owner1/repo1"}},
+								{"repository": {"full_name": "owner2/repo2"}},
+								{"repository": {"full_name": "owner3/repo3"}}
+							]
+						}`
+					case "2":
+						// Second page: 2 items (less than per_page, signals end)
+						response = `{
+							"total_count": 5,
+							"items": [
+								{"repository": {"full_name": "owner4/repo4"}},
+								{"repository": {"full_name": "owner5/repo5"}}
+							]
+						}`
+					default:
+						response = `{"total_count": 5, "items": []}`
+					}
+					w.Header().Set("Content-Type", "application/json")
+					w.WriteHeader(http.StatusOK)
+					_, _ = w.Write([]byte(response))
+				}))
+
+				// Configure discoverer to use test server
+				config = &Config{
+					Token:   "test-token",
+					BaseURL: server.URL,
+				}
+				discoverer = NewDiscoverer(config)
+
+				ctx := context.Background()
+
+				// Test first page
+				repos1, hasMore1, err := discoverer.searchRepositoriesPage(ctx, "test", 1, 3)
+				Expect(err).NotTo(HaveOccurred())
+				Expect(repos1).To(HaveLen(3))
+				Expect(hasMore1).To(BeTrue()) // 3 items == perPage && 1*3 < 5
+
+				// Test second page
+				repos2, hasMore2, err := discoverer.searchRepositoriesPage(ctx, "test", 2, 3)
+				Expect(err).NotTo(HaveOccurred())
+				Expect(repos2).To(HaveLen(2))
+				Expect(hasMore2).To(BeFalse()) // 2 items < perPage
+
+				Expect(requestCount).To(Equal(2))
+			})
+
+			It("should stop when receiving empty results", func() {
+				server = httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+					response := `{"total_count": 0, "items": []}`
+					w.Header().Set("Content-Type", "application/json")
+					w.WriteHeader(http.StatusOK)
+					_, _ = w.Write([]byte(response))
+				}))
+
+				config = &Config{
+					Token:   "test-token",
+					BaseURL: server.URL,
+				}
+				discoverer = NewDiscoverer(config)
+
+				ctx := context.Background()
+				repos, hasMore, err := discoverer.searchRepositoriesPage(ctx, "test", 1, 100)
+				Expect(err).NotTo(HaveOccurred())
+				Expect(repos).To(BeEmpty())
+				Expect(hasMore).To(BeFalse())
+			})
+
+			It("should deduplicate repositories across pages", func() {
+				requestCount := 0
+				server = httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+					requestCount++
+					page := r.URL.Query().Get("page")
+
+					var response string
+					switch page {
+					case "1":
+						response = `{
+							"total_count": 4,
+							"items": [
+								{"repository": {"full_name": "owner1/repo1"}},
+								{"repository": {"full_name": "owner2/repo2"}}
+							]
+						}`
+					case "2":
+						// Include a duplicate
+						response = `{
+							"total_count": 4,
+							"items": [
+								{"repository": {"full_name": "owner1/repo1"}},
+								{"repository": {"full_name": "owner3/repo3"}}
+							]
+						}`
+					default:
+						response = `{"total_count": 4, "items": []}`
+					}
+					w.Header().Set("Content-Type", "application/json")
+					w.WriteHeader(http.StatusOK)
+					_, _ = w.Write([]byte(response))
+				}))
+
+				config = &Config{
+					Token:   "test-token",
+					BaseURL: server.URL,
+					PerPage: 2, // Use small page size to test pagination
+				}
+				discoverer = NewDiscoverer(config)
+
+				ctx := context.Background()
+				repos, err := discoverer.searchRepositories(ctx)
+				Expect(err).NotTo(HaveOccurred())
+				// Should have 3 unique repos, not 4
+				Expect(repos).To(HaveLen(3))
+				Expect(repos).To(ContainElements("owner1/repo1", "owner2/repo2", "owner3/repo3"))
+			})
+		})
+	})
+
+	Describe("Get Existing Issues Pagination", func() {
+		var server *httptest.Server
+
+		AfterEach(func() {
+			if server != nil {
+				server.Close()
+			}
+		})
+
+		Context("when fetching existing issues with pagination", func() {
+			It("should fetch all pages of issues", func() {
+				requestCount := 0
+				server = httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+					requestCount++
+					page := r.URL.Query().Get("page")
+
+					var response string
+					switch page {
+					case "1":
+						// First page: 2 items (simulating per_page=2)
+						response = `[
+							{"title": "Auto-Discovery: owner1/repo1"},
+							{"title": "Auto-Discovery: owner2/repo2"}
+						]`
+					case "2":
+						// Second page: 1 item (less than per_page)
+						response = `[
+							{"title": "Auto-Discovery: owner3/repo3"}
+						]`
+					default:
+						response = `[]`
+					}
+					w.Header().Set("Content-Type", "application/json")
+					w.WriteHeader(http.StatusOK)
+					_, _ = w.Write([]byte(response))
+				}))
+
+				config = &Config{
+					Token:      "test-token",
+					Repository: "test/registry",
+					BaseURL:    server.URL,
+				}
+				discoverer = NewDiscoverer(config)
+
+				ctx := context.Background()
+
+				// Test first page
+				issues1, hasMore1, err := discoverer.getExistingIssuesPage(ctx, 1, 2)
+				Expect(err).NotTo(HaveOccurred())
+				Expect(issues1).To(HaveLen(2))
+				Expect(hasMore1).To(BeTrue()) // 2 items == perPage
+
+				// Test second page
+				issues2, hasMore2, err := discoverer.getExistingIssuesPage(ctx, 2, 2)
+				Expect(err).NotTo(HaveOccurred())
+				Expect(issues2).To(HaveLen(1))
+				Expect(hasMore2).To(BeFalse()) // 1 item < perPage
+			})
+
+			It("should extract repo names from issue titles across pages", func() {
+				server = httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+					page := r.URL.Query().Get("page")
+
+					var response string
+					switch page {
+					case "1":
+						response = `[
+							{"title": "Auto-Discovery: owner1/repo1"},
+							{"title": "Some other issue"},
+							{"title": "Auto-Discovery: owner2/repo2"}
+						]`
+					case "2":
+						response = `[
+							{"title": "Auto-Discovery: owner3/repo3"}
+						]`
+					default:
+						response = `[]`
+					}
+					w.Header().Set("Content-Type", "application/json")
+					w.WriteHeader(http.StatusOK)
+					_, _ = w.Write([]byte(response))
+				}))
+
+				config = &Config{
+					Token:      "test-token",
+					Repository: "test/registry",
+					BaseURL:    server.URL,
+					PerPage:    3, // Use small page size to test pagination
+				}
+				discoverer = NewDiscoverer(config)
+
+				ctx := context.Background()
+				existingIssues, err := discoverer.getExistingIssues(ctx)
+				Expect(err).NotTo(HaveOccurred())
+
+				// Should have 3 repos extracted (ignoring "Some other issue")
+				Expect(existingIssues).To(HaveLen(3))
+				Expect(existingIssues["owner1/repo1"]).To(BeTrue())
+				Expect(existingIssues["owner2/repo2"]).To(BeTrue())
+				Expect(existingIssues["owner3/repo3"]).To(BeTrue())
+			})
+
+			It("should handle empty issues list", func() {
+				server = httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+					w.Header().Set("Content-Type", "application/json")
+					w.WriteHeader(http.StatusOK)
+					_, _ = w.Write([]byte(`[]`))
+				}))
+
+				config = &Config{
+					Token:      "test-token",
+					Repository: "test/registry",
+					BaseURL:    server.URL,
+				}
+				discoverer = NewDiscoverer(config)
+
+				ctx := context.Background()
+				existingIssues, err := discoverer.getExistingIssues(ctx)
+				Expect(err).NotTo(HaveOccurred())
+				Expect(existingIssues).To(BeEmpty())
+			})
+		})
+	})
+
 	Describe("Loading Lists", func() {
 		Context("when loading allowlist", func() {
 			It("should parse allowlist file correctly", func() {
