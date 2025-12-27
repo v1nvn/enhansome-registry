@@ -425,7 +425,7 @@ malicious/repo
 				repo := "testuser/testrepo"
 				awesomeListName := "Awesome Test"
 				description := "A test awesome list"
-				configContent := `{"registryIndexing": true}`
+				configContent := `{"discoverable": true}`
 
 				body := discoverer.buildIssueBody(repo, awesomeListName, description, configContent)
 
@@ -458,7 +458,7 @@ malicious/repo
 
 			It("should format configuration as code block", func() {
 				repo := "testuser/testrepo"
-				configContent := `{"registryIndexing": true, "enabled": false}`
+				configContent := `{"discoverable": true, "enabled": false}`
 				body := discoverer.buildIssueBody(repo, "Test", "Description", configContent)
 
 				Expect(body).To(ContainSubstring("```jsonc"))
@@ -513,7 +513,7 @@ malicious/repo
 				server = httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 					if r.URL.Path == "/test/repo/main/.enhansome.jsonc" {
 						w.WriteHeader(http.StatusOK)
-						w.Write([]byte(`{"registryIndexing": true}`))
+						w.Write([]byte(`{"discoverable": true}`))
 					} else {
 						w.WriteHeader(http.StatusNotFound)
 					}

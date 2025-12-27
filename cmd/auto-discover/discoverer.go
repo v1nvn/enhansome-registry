@@ -185,7 +185,7 @@ func (d *Discoverer) loadDenylist() error {
 }
 
 func (d *Discoverer) searchRepositories(ctx context.Context) ([]string, error) {
-	query := "filename:.enhansome.jsonc path:/ registryIndexing"
+	query := "filename:.enhansome.jsonc path:/ discoverable"
 	repoMap := make(map[string]bool)
 
 	for page := 1; ; page++ {

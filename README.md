@@ -18,7 +18,7 @@ The registry automatically discovers repositories with Enhansome configuration:
    ```jsonc
    {
      // Enable registry indexing
-     "registryIndexing": true
+     "discoverable": true
    }
    ```
 
