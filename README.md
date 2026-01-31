@@ -8,30 +8,9 @@ Enhansome is a GitHub Action that transforms awesome lists into structured, sear
 
 ## Getting Added to the Registry
 
-There are two ways to get your awesome list added to the Enhansome Registry:
+### Using the Setup Script (Recommended)
 
-### Option 1: Automatic Discovery (Recommended)
-
-The registry automatically discovers repositories with Enhansome configuration:
-
-1. **Add `.enhansome.jsonc` to your repository root:**
-   ```jsonc
-   {
-     // Enable registry indexing
-     "discoverable": true
-   }
-   ```
-
-2. **Ensure `README.json` exists** (created by the Enhansome action)
-
-3. **Wait for discovery:**
-   - Auto-discovery runs weekly (Sundays at 6:00 AM UTC)
-   - An issue will be created for maintainer review
-   - Once approved, your list will be indexed daily
-
-### Option 2: Using the Setup Script
-
-Use the Enhansome setup script to quickly configure your repository:
+Use the Enhansome setup script to configure your repository and create a registration PR:
 
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/v1nvn/enhansome/main/setup.sh)"
@@ -40,11 +19,11 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/v1nvn/enhansome/main/set
 This script will:
 - Set up the Enhansome GitHub Action
 - Create the `.enhansome.jsonc` configuration file
-- Enable registry indexing
+- Create a pull request to register your list with the registry
 
-### Option 3: Manual Request
+### Manual Registration
 
-If you prefer manual submission:
+If you prefer manual registration:
 
 1. Fork this repository
 2. Add your repository to `allowlist.txt` in the format: `owner/repo/README.json`
@@ -72,25 +51,15 @@ Each indexed repository generates a JSON file containing:
 ```
 enhansome-registry/
 ├── allowlist.txt           # Approved repositories
-├── denylist.txt            # Blocked repositories
 ├── data/                   # Aggregated JSON data (auto-generated)
 │   ├── owner_repo1.json
 │   └── owner_repo2.json
 ├── .github/
 │   └── workflows/
-│       ├── indexer.yaml          # Daily data aggregation
-│       └── auto-discover.yaml    # Weekly repository discovery
-├── MAINTAINING.md          # Maintainer guide
-└── README.md               # This file
+│       └── indexer.yaml    # Daily data aggregation
+├── README.md               # This file
+└── Makefile                # Build and test targets
 ```
-
-## For Maintainers
-
-See [MAINTAINING.md](./MAINTAINING.md) for instructions on:
-- Reviewing auto-discovery issues
-- Approving repositories
-- Rejecting/blocking repositories
-- Managing the allowlist and denylist
 
 ## Current Registry
 
@@ -109,13 +78,6 @@ All indexed repositories undergo:
 2. **Security check:** Verifies `source_repository` matches expected source
 3. **Content review:** Maintainer approval before indexing
 
-### Denylist
-
-Repositories can be blocked from discovery by adding them to `denylist.txt`. This prevents:
-- Spam or low-quality lists
-- Malicious content
-- Inappropriate repositories
-
 ## API Access
 
 The aggregated data is available in the `/data` directory and can be accessed via GitHub's raw content URL:
@@ -130,7 +92,7 @@ We welcome contributions! Here's how you can help:
 
 1. **Add Your List:** Follow the steps in "Getting Added to the Registry"
 2. **Report Issues:** Found a problem? Open an issue
-3. **Improve Documentation:** Submit PRs to improve this README or MAINTAINING.md
+3. **Improve Documentation:** Submit PRs to improve this README
 
 ## License
 
@@ -144,5 +106,4 @@ This registry and its aggregated data are provided as-is. Individual awesome lis
 ## Questions?
 
 - **For repository owners:** Questions about getting listed? Open an issue
-- **For maintainers:** See [MAINTAINING.md](./MAINTAINING.md)
 - **For developers:** Check out the workflow files in `.github/workflows/`

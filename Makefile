@@ -28,8 +28,7 @@ GO_PACKAGES := ./...
 
 # Explicitly list all phony targets. This helps prevent conflicts with filenames
 # and clearly documents the available commands.
-.PHONY: help lint lint-fix test test-coverage test-unit test-concurrency \
-	build run clean
+.PHONY: help lint lint-fix clean
 
 .DEFAULT_GOAL := help
 
@@ -49,38 +48,6 @@ lint: ## Run golangci-lint on the codebase
 lint-fix: ## Run golangci-lint and auto-fix issues
 	@$(GOLANGCI_LINT) run --fix -v --timeout=5m $(GO_PACKAGES)
 
-# --- Build and Run Targets ---
-
-build: ## Build the auto-discover binary
-	@echo "🔨 Building auto-discover..."
-	@$(GO) build -o ./bin/auto-discover ./cmd/auto-discover
-	@echo "✅ Build complete: ./bin/auto-discover"
-
-run: build ## Build and run the auto-discover tool
-	@./bin/auto-discover -allowlist ./allowlist.txt -denylist ./denylist.txt
-
 clean: ## Remove built binaries
 	@echo "🧹 Cleaning up binaries..."
 	@rm -rf ./bin
-
-# --- Test Targets ---
-
-test: ## Run all tests
-	@echo "🧪 Running all tests..."
-	@$(GO) test -v -race -timeout 30s ./...
-
-test-unit: ## Run unit tests only
-	@echo "🧪 Running unit tests..."
-	@$(GO) test -v -race -timeout 30s -run "TestUnit" ./...
-
-test-concurrency: ## Run concurrency tests only
-	@echo "🧪 Running concurrency tests..."
-	@$(GO) test -v -race -timeout 30s -run "TestConcurrency" ./...
-
-test-coverage: ## Run tests with coverage report
-	@echo "🧪 Running tests with coverage..."
-	@$(GO) test -coverprofile=coverage.out -covermode=atomic ./...
-	@$(GO) tool cover -func=coverage.out
-	@echo ""
-	@echo "📊 To view HTML coverage report, run:"
-	@echo "   go tool cover -html=coverage.out"
