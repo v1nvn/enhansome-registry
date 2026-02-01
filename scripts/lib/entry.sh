@@ -3,6 +3,9 @@
 # Library functions for parsing and validating registry entries
 set -euo pipefail
 
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$SCRIPT_DIR/log.sh"
+
 # ============================================================================
 # PURE FUNCTIONS (tested in tests/lib/entry_test.sh)
 # ============================================================================
@@ -16,6 +19,7 @@ set -euo pipefail
 #   0 on success, 1 on error
 parse_repo_from_entry() {
   local entry="$1"
+  log_debug "parse_repo_from_entry: entry=$entry"
 
   if [[ -z "$entry" ]]; then
     echo "Error: entry is required" >&2
@@ -56,6 +60,7 @@ parse_file_path_from_entry() {
 #   0 on success, 1 on error
 validate_entry_format() {
   local entry="$1"
+  log_debug "validate_entry_format: validating entry=$entry"
 
   if [[ -z "$entry" ]]; then
     echo "false"

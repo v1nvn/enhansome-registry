@@ -4,6 +4,7 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$SCRIPT_DIR/lib/log.sh"
 source "$SCRIPT_DIR/lib/entry.sh"
 
 # ============================================================================
@@ -54,9 +55,9 @@ main() {
     gh pr edit "$pr_number" \
       --repo "$repo" \
       --add-label "trusted-author"
-    echo "Trusted author: $author — trusted-author label added"
+    log_info "Trusted author: $author — trusted-author label added"
   else
-    echo "Author $author is not in trusted users list"
+    log_info "Author $author is not in trusted users list"
   fi
 }
 

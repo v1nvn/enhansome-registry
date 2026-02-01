@@ -4,6 +4,7 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$SCRIPT_DIR/lib/log.sh"
 source "$SCRIPT_DIR/lib/entry.sh"
 source "$SCRIPT_DIR/lib/validation.sh"
 source "$SCRIPT_DIR/lib/matrix.sh"
@@ -29,7 +30,7 @@ main() {
       main_aggregate
       ;;
     *)
-      echo "Error: invalid mode: $mode" >&2
+      log_error "Invalid mode: $mode"
       exit 1
       ;;
   esac
@@ -42,7 +43,7 @@ main_matrix() {
   local json
   json=$(generate_matrix_json "$allowlist_file")
   echo "json=$json" >> "$GITHUB_OUTPUT"
-  echo "Generated matrix with $(echo "$json" | jq 'length') entries"
+  log_info "Generated matrix with $(echo "$json" | jq 'length') entries"
 }
 
 # Parse target into repo, file_path, and safe_filename
@@ -50,7 +51,7 @@ main_parse() {
   local target="${TARGET:-}"
 
   if [[ -z "$target" ]]; then
-    echo "Error: TARGET environment variable is required" >&2
+    log_error "TARGET environment variable is required"
     exit 1
   fi
 
@@ -65,7 +66,7 @@ main_parse() {
     echo "safe_filename=$safe_filename"
   } >> "$GITHUB_OUTPUT"
 
-  echo "Parsed: repo=$repo, file_path=$file_path, safe_filename=$safe_filename"
+  log_info "Parsed: repo=$repo, file_path=$file_path, safe_filename=$safe_filename"
 }
 
 # Fetch and validate a single data file
@@ -75,14 +76,14 @@ main_fetch() {
   local safe_filename="${SAFE_FILENAME:-}"
 
   if [[ -z "$repo" ]] || [[ -z "$file_path" ]]; then
-    echo "Error: REPO and FILE_PATH environment variables are required" >&2
+    log_error "REPO and FILE_PATH environment variables are required"
     exit 1
   fi
 
   local url
   url=$(build_raw_url "$repo" "$file_path")
 
-  echo "Fetching from $url"
+  log_info "Fetching from $url"
 
   # Fetch file
   if ! curl -s -f -L -o "$safe_filename" "$url"; then
@@ -95,7 +96,7 @@ main_fetch() {
     echo "::error::Validation failed: The file '$safe_filename' is not valid JSON."
     exit 1
   fi
-  echo "✅ File is valid JSON."
+  log_info "File is valid JSON"
 
   # Security check: ensure source_repository matches
   local source_in_file
@@ -105,7 +106,7 @@ main_fetch() {
     echo "::error::Validation failed: The 'source_repository' field ('$source_in_file') does not match the expected source ('$repo')."
     exit 1
   fi
-  echo "✅ Security check passed."
+  log_info "Security check passed"
 }
 
 # Aggregate and commit all downloaded data files
@@ -120,7 +121,7 @@ main_aggregate() {
   # Move files out of artifact subdirectories
   find "$temp_dir" -type f -name "*.json" -exec mv {} "$data_dir/" \;
 
-  echo "Data aggregation complete."
+  log_info "Data aggregation complete"
 }
 
 if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then

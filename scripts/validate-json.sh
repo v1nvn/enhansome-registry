@@ -4,6 +4,7 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$SCRIPT_DIR/lib/log.sh"
 source "$SCRIPT_DIR/lib/entry.sh"
 source "$SCRIPT_DIR/lib/validation.sh"
 source "$SCRIPT_DIR/lib/diff.sh"
@@ -61,7 +62,7 @@ main() {
   elif [[ "$mode" == "cron" ]]; then
     main_cron "$repo"
   else
-    echo "Error: invalid mode: $mode" >&2
+    log_error "Invalid mode: $mode"
     exit 1
   fi
 }
@@ -81,7 +82,7 @@ main_pr() {
   entry=$(get_entry_from_diff "$diff")
 
   if [[ -z "$entry" ]]; then
-    echo "No new entries detected"
+    log_info "No new entries detected"
     exit 0
   fi
 
@@ -102,12 +103,12 @@ main_cron() {
     --jq '.[] | select(.labels | map(.name) | index("json-ok") | not) | .number')
 
   if [[ -z "$pr_numbers" ]]; then
-    echo "No PRs need json-ok retry"
+    log_info "No PRs need json-ok retry"
     exit 0
   fi
 
   while IFS= read -r pr_number; do
-    echo "Retrying PR #$pr_number"
+    log_info "Retrying PR #$pr_number"
 
     # Extract entry from PR diff
     local diff entry
@@ -115,7 +116,7 @@ main_cron() {
     entry=$(get_entry_from_diff "$diff")
 
     if [[ -z "$entry" ]]; then
-      echo "  No entry found, skipping"
+      log_debug "  No entry found, skipping"
       continue
     fi
 
@@ -135,7 +136,7 @@ validate_entry() {
   file_path=$(parse_file_path_from_entry "$entry")
   file_url=$(build_raw_url "$entry_repo" "$file_path")
 
-  echo "Checking: $file_url"
+  log_info "Checking: $file_url"
 
   # Check if valid JSON
   local valid
@@ -143,7 +144,7 @@ validate_entry() {
 
   if [[ "$valid" != "true" ]]; then
     if [[ "$mode" == "cron" ]]; then
-      echo "  Still not available, will retry next hour"
+      log_info "  Still not available, will retry next hour"
       return 0
     fi
 
@@ -152,7 +153,7 @@ validate_entry() {
       --body "## JSON Validation Failed
 
 File \`$file_path\` in \`$entry_repo\` is not valid JSON."
-    echo "Invalid JSON: $file_path"
+    log_info "Invalid JSON: $file_path"
     exit 0
   fi
 
@@ -169,7 +170,7 @@ File \`$file_path\` in \`$entry_repo\` is not valid JSON."
 File \`$file_path\` in \`$entry_repo\` is now valid. Added \`json-ok\` label."
   fi
 
-  echo "JSON validation passed — json-ok label added"
+  log_info "JSON validation passed — json-ok label added"
 }
 
 if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then

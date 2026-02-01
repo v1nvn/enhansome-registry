@@ -3,6 +3,9 @@
 # Library functions for JSON validation and URL building
 set -euo pipefail
 
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$SCRIPT_DIR/log.sh"
+
 # ============================================================================
 # PURE FUNCTIONS (tested in tests/lib/validation_test.sh)
 # ============================================================================
@@ -41,6 +44,7 @@ validate_json_string() {
 #   0 on success, 1 on error
 validate_json_file() {
   local file="$1"
+  log_debug "validate_json_file: validating $file"
 
   if [[ -z "$file" ]]; then
     echo "false"

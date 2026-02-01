@@ -4,6 +4,7 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$SCRIPT_DIR/lib/log.sh"
 source "$SCRIPT_DIR/lib/entry.sh"
 source "$SCRIPT_DIR/lib/diff.sh"
 
@@ -30,7 +31,7 @@ main() {
 
   # Check if there's anything to validate
   if [[ -z "$entry" ]]; then
-    echo "No new entries detected"
+    log_info "No new entries detected"
     exit 0
   fi
 
@@ -44,11 +45,11 @@ main() {
       --body "## Entry Validation Failed
 
 Only one entry per PR is allowed. Found $entry_count entries. Please split into separate PRs."
-    echo "Multiple entries detected: $entry_count"
+    log_info "Multiple entries detected: $entry_count"
     exit 0
   fi
 
-  echo "Entry: $entry"
+  log_info "Entry: $entry"
 
   # Validate format
   local valid_format
@@ -62,14 +63,14 @@ Only one entry per PR is allowed. Found $entry_count entries. Please split into 
 Invalid format: \`$entry\`
 
 Expected format: \`owner/repo/path/to/file.json\`"
-    echo "Invalid format: $entry"
+    log_info "Invalid format: $entry"
     exit 0
   fi
 
   # Extract owner/repo
   local entry_repo
   entry_repo=$(parse_repo_from_entry "$entry")
-  echo "Repository: $entry_repo"
+  log_info "Repository: $entry_repo"
 
   # Check if repository exists
   if ! gh repo view "$entry_repo" --json name > /dev/null 2>&1; then
@@ -78,7 +79,7 @@ Expected format: \`owner/repo/path/to/file.json\`"
       --body "## Entry Validation Failed
 
 Repository \`$entry_repo\` not found or inaccessible."
-    echo "Repository not found: $entry_repo"
+    log_info "Repository not found: $entry_repo"
     exit 0
   fi
 
@@ -87,7 +88,7 @@ Repository \`$entry_repo\` not found or inaccessible."
     --repo "$repo" \
     --add-label "repo-ok"
 
-  echo "Validation passed — repo-ok label added"
+  log_info "Validation passed — repo-ok label added"
 }
 
 if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then

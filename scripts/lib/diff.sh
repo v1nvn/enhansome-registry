@@ -3,6 +3,9 @@
 # Library functions for parsing git diffs
 set -euo pipefail
 
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$SCRIPT_DIR/log.sh"
+
 # ============================================================================
 # PURE FUNCTIONS (tested in tests/lib/diff_test.sh)
 # ============================================================================
@@ -14,6 +17,7 @@ set -euo pipefail
 #   Net new lines (additions not also removed), one per line
 extract_net_new_additions() {
   local diff="$1"
+  log_debug "extract_net_new_additions: processing diff"
 
   # Extract deletions and additions separately
   local deletions additions

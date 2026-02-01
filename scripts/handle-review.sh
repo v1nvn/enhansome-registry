@@ -4,6 +4,7 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$SCRIPT_DIR/lib/log.sh"
 source "$SCRIPT_DIR/lib/entry.sh"
 
 # ============================================================================
@@ -73,7 +74,7 @@ main() {
   lgtm=$(is_lgtm_comment "$comment_body")
 
   if [[ "$lgtm" != "true" ]]; then
-    echo "Comment is not 'lgtm', ignoring"
+    log_info "Comment is not 'lgtm', ignoring"
     exit 0
   fi
 
@@ -82,7 +83,7 @@ main() {
   maintainer=$(is_maintainer "$comment_author" "$maintainers")
 
   if [[ "$maintainer" != "true" ]]; then
-    echo "Comment author $comment_author is not a maintainer"
+    log_info "Comment author $comment_author is not a maintainer"
     exit 0
   fi
 
@@ -91,7 +92,7 @@ main() {
     --repo "$repo" \
     --add-label "lgtm"
 
-  echo "Maintainer $comment_author approved — lgtm label added"
+  log_info "Maintainer $comment_author approved — lgtm label added"
 }
 
 if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then

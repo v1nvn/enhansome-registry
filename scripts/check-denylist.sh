@@ -4,6 +4,7 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$SCRIPT_DIR/lib/log.sh"
 source "$SCRIPT_DIR/lib/entry.sh"
 source "$SCRIPT_DIR/lib/diff.sh"
 
@@ -61,14 +62,14 @@ main() {
   entry=$(get_entry_from_diff "$diff")
 
   if [[ -z "$entry" ]]; then
-    echo "No new entries detected"
+    log_info "No new entries detected"
     exit 0
   fi
 
   # Extract owner/repo
   local check_repo
   check_repo=$(extract_repo_from_entry "$entry")
-  echo "Checking repository: $check_repo"
+  log_info "Checking repository: $check_repo"
 
   # Check against denylist
   local denied
@@ -80,7 +81,7 @@ main() {
       --body "## Denylist Check Failed
 
 Repository \`$check_repo\` is in the denylist. Open an issue to discuss."
-    echo "Repository is in denylist: $check_repo"
+    log_info "Repository is in denylist: $check_repo"
     exit 0
   fi
 
@@ -89,7 +90,7 @@ Repository \`$check_repo\` is in the denylist. Open an issue to discuss."
     --repo "$repo" \
     --add-label "no-deny"
 
-  echo "Denylist check passed — no-deny label added"
+  log_info "Denylist check passed — no-deny label added"
 }
 
 if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then

@@ -3,6 +3,9 @@
 # Library functions for generating GitHub Actions matrix JSON
 set -euo pipefail
 
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$SCRIPT_DIR/log.sh"
+
 # ============================================================================
 # PURE FUNCTIONS (tested in tests/lib/matrix_test.sh)
 # ============================================================================
@@ -16,6 +19,7 @@ set -euo pipefail
 #   0 on success, 1 on error
 generate_matrix_json() {
   local allowlist_file="$1"
+  log_debug "generate_matrix_json: reading from $allowlist_file"
 
   if [[ ! -f "$allowlist_file" ]]; then
     echo "Error: allowlist file not found: $allowlist_file" >&2

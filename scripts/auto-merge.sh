@@ -3,6 +3,9 @@
 # Auto-merge PRs when all required labels are present
 set -euo pipefail
 
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$SCRIPT_DIR/lib/log.sh"
+
 # ============================================================================
 # PURE FUNCTION (tested in tests/auto-merge_test.sh)
 # ============================================================================
@@ -72,14 +75,14 @@ main() {
     --json labels \
     --jq '.labels | map(.name) | join(",")')
 
-  echo "Current labels: $labels"
+  log_info "Current labels: $labels"
 
   # Check if all requirements are met
   local ready
   ready=$(check_merge_requirements "$labels")
 
   if [[ "$ready" != "true" ]]; then
-    echo "Missing required labels — not ready"
+    log_info "Missing required labels — not ready"
     exit 0
   fi
 
@@ -88,7 +91,7 @@ main() {
     "repos/$repo/pulls/$pr_number/reviews" \
     -f event="APPROVE" \
     -f body="Auto-approved by workflow" \
-    2>/dev/null || echo "Already approved or approval not needed"
+    2>/dev/null || log_debug "Already approved or approval not needed"
 
   # Squash merge
   gh pr merge "$pr_number" \
@@ -97,7 +100,7 @@ main() {
     --subject "Merge allowlist.txt update" \
     --body "Auto-merged by workflow from $pr_author"
 
-  echo "PR #$pr_number merged successfully"
+  log_info "PR #$pr_number merged successfully"
 }
 
 if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
