@@ -15,30 +15,13 @@ jobs:
     if: github.event.issue.pull_request
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Check for lgtm from maintainer
         env:
           GH_TOKEN: ${{ secrets.BOT_TOKEN }}
           PR_NUMBER: ${{ github.event.issue.number }}
           COMMENT_BODY: ${{ github.event.comment.body }}
           COMMENT_AUTHOR: ${{ github.event.comment.user.login }}
-        run: |
-          # Check if comment is "lgtm" (case-insensitive, trimmed)
-          TRIMMED=$(echo "$COMMENT_BODY" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' | tr '[:upper:]' '[:lower:]')
-
-          if [ "$TRIMMED" != "lgtm" ]; then
-            echo "Comment is not 'lgtm', ignoring"
-            exit 0
-          fi
-
-          # Check if author is a maintainer
-          if ! echo "$MAINTAINERS" | grep -qFx "$COMMENT_AUTHOR"; then
-            echo "Comment author $COMMENT_AUTHOR is not a maintainer"
-            exit 0
-          fi
-
-          # Add lgtm label
-          gh pr edit "$PR_NUMBER" \
-            --repo "${{ github.repository }}" \
-            --add-label "lgtm"
-
-          echo "Maintainer $COMMENT_AUTHOR approved — lgtm label added"
+        run: ./scripts/handle-review.sh

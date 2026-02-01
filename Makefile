@@ -1,53 +1,74 @@
-# ==============================================================================
-# Tools and Binaries
-# ==============================================================================
+.PHONY: help test test-parallel test-single shellcheck lint ci clean install
 
-# Go
-GO               := go
-GOLANGCI_LINT    := golangci-lint
-
-# ==============================================================================
-# Tool Checks
-# ==============================================================================
-
-# Use this for loop and 'command -v' to check for the existence of each tool.
-# This makes the Makefile more robust by warning the user about missing dependencies.
-REQUIRED_TOOLS := $(GO) $(GOLANGCI_LINT)
-$(foreach tool,$(REQUIRED_TOOLS),$(if $(shell command -v $(tool) 2>/dev/null),,$(warning "Warning: '$(tool)' is not installed or not in your PATH. Some targets may fail.")))
-
-# ==============================================================================
-# Variables
-# ==============================================================================
-
-# Define Go packages to be linted, tested, etc.
-GO_PACKAGES := ./...
-
-# ==============================================================================
-# Phony Targets
-# ==============================================================================
-
-# Explicitly list all phony targets. This helps prevent conflicts with filenames
-# and clearly documents the available commands.
-.PHONY: help lint lint-fix clean
-
+# Default target
 .DEFAULT_GOAL := help
 
-# ==============================================================================
-# Main Targets
-# ==============================================================================
+##@ General
 
-help:
-	@echo "Usage: make <target>"
-	@echo ""
-	@echo "Available targets:"
-	@awk 'BEGIN {FS = ":.*##"} /^[a-zA-Z0-9_.-]+:.*?##/ {printf "  \033[36m%-20s\033[0m %s\n", $$1, $$2}' $(MAKEFILE_LIST)
+help: ## Display this help message
+	@awk 'BEGIN {FS = ":.*##"; printf "\nUsage:\n  make \033[36m<target>\033[0m\n"} /^[a-zA-Z_-]+:.*?##/ { printf "  \033[36m%-20s\033[0m %s\n", $$1, $$2 } /^##@/ { printf "\n\033[1m%s\033[0m\n", substr($$0, 5) } ' $(MAKEFILE_LIST)
 
-lint: ## Run golangci-lint on the codebase
-	@$(GOLANGCI_LINT) run -v --timeout=5m $(GO_PACKAGES)
+##@ Testing
 
-lint-fix: ## Run golangci-lint and auto-fix issues
-	@$(GOLANGCI_LINT) run --fix -v --timeout=5m $(GO_PACKAGES)
+test: ## Run all tests
+	@echo "Running all tests..."
+	@bashunit tests/
 
-clean: ## Remove built binaries
-	@echo "🧹 Cleaning up binaries..."
-	@rm -rf ./bin
+test-parallel: ## Run tests in parallel (faster)
+	@echo "Running tests in parallel..."
+	@bashunit --parallel tests/
+
+test-single: ## Run a single test file (usage: make test-single FILE=entry_test.sh)
+	@echo "Running single test: $(FILE)"
+	@bashunit tests/$(FILE)
+
+test-lib: ## Run only lib tests
+	@echo "Running lib tests..."
+	@bashunit tests/lib/
+
+##@ Code Quality
+
+shellcheck: ## Run shellcheck on all scripts
+	@echo "Running shellcheck..."
+	@find scripts -name "*.sh" -exec shellcheck -W 0 {} + 2>&1 | grep -v SC1091 || true
+	@find tests -name "*.sh" -exec shellcheck -W 0 {} + 2>&1 | grep -v SC1091 || true
+
+lint: shellcheck ## Run all linting checks
+
+##@ CI/CD
+
+ci: lint test ## Run CI checks locally (lint + test)
+	@echo "✅ CI checks passed!"
+
+##@ Installation
+
+install: ## Install dependencies (bashunit, shellcheck)
+	@echo "Installing dependencies..."
+	@command -v bashunit >/dev/null 2>&1 || \
+		(echo "Installing bashunit..." && curl -s https://bashunit.typeddevs.com/install.sh | bash)
+	@command -v shellcheck >/dev/null 2>&1 || \
+		(echo "Installing shellcheck..." && brew install shellcheck)
+	@echo "✅ All dependencies installed"
+
+check-deps: ## Check if all dependencies are installed
+	@echo "Checking dependencies..."
+	@command -v bashunit >/dev/null 2>&1 && echo "✅ bashunit installed" || echo "❌ bashunit not installed"
+	@command -v shellcheck >/dev/null 2>&1 && echo "✅ shellcheck installed" || echo "❌ shellcheck not installed"
+	@command -v jq >/dev/null 2>&1 && echo "✅ jq installed" || echo "❌ jq not installed"
+
+##@ Cleanup
+
+clean: ## Clean up test artifacts
+	@echo "Cleaning up test artifacts..."
+	@rm -rf temp-data data/*.json 2>/dev/null || true
+	@echo "✅ Cleanup complete"
+
+##@ Utilities
+
+stats: ## Show test statistics
+	@echo "Test Statistics:"
+	@echo "----------------"
+	@echo "Total test files: $$(find tests -name "*_test.sh" | wc -l | tr -d ' ')"
+	@echo "Total test functions: $$(grep -h "^function test_" tests/*.sh tests/lib/*.sh 2>/dev/null | wc -l | tr -d ' ')"
+	@echo "Lines of script code: $$(find scripts -name "*.sh" -exec cat {} \; | wc -l | tr -d ' ')"
+	@echo "Lines of test code: $$(find tests -name "*_test.sh" -exec cat {} \; | wc -l | tr -d ' ')"

@@ -18,126 +18,25 @@ jobs:
     if: github.event_name == 'pull_request_target'
     runs-on: ubuntu-latest
     steps:
-      - name: Remove json-ok label
-        env:
-          GH_TOKEN: ${{ secrets.BOT_TOKEN }}
-          PR_NUMBER: ${{ github.event.pull_request.number }}
-        run: |
-          gh pr edit "$PR_NUMBER" \
-            --repo "${{ github.repository }}" \
-            --remove-label "json-ok" 2>/dev/null || true
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Validate JSON file
         env:
           GH_TOKEN: ${{ secrets.BOT_TOKEN }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
-        run: |
-          # Extract entry from PR diff
-          DIFF=$(gh api "repos/${{ github.repository }}/pulls/$PR_NUMBER/files" \
-            --jq '.[] | select(.filename == "allowlist.txt") | .patch')
-
-          ENTRY=$(echo "$DIFF" | grep '^+' | grep -v '^+++' | sed 's/^+//' | grep -v '^#' | grep -v '^$')
-
-          if [ -z "$ENTRY" ]; then
-            echo "No new entries detected"
-            exit 0
-          fi
-
-          # Parse owner/repo and file path
-          REPO=$(echo "$ENTRY" | cut -d/ -f1,2)
-          FILE_PATH=$(echo "$ENTRY" | cut -d/ -f3-)
-          FILE_URL="https://raw.githubusercontent.com/$REPO/main/$FILE_PATH"
-
-          echo "Checking: $FILE_URL"
-
-          # Check if file exists
-          HTTP_STATUS=$(curl -s -o /tmp/json_response -w "%{http_code}" "$FILE_URL")
-
-          if [ "$HTTP_STATUS" != "200" ]; then
-            echo "JSON file not available yet (HTTP $HTTP_STATUS) — cron will retry"
-            exit 0
-          fi
-
-          # Validate JSON
-          if ! jq '.' /tmp/json_response > /dev/null 2>&1; then
-            gh pr comment "$PR_NUMBER" \
-              --repo "${{ github.repository }}" \
-              --body "## JSON Validation Failed
-
-          File \`$FILE_PATH\` in \`$REPO\` is not valid JSON."
-            echo "Invalid JSON: $FILE_PATH"
-            exit 0
-          fi
-
-          # Valid JSON — add label
-          gh pr edit "$PR_NUMBER" \
-            --repo "${{ github.repository }}" \
-            --add-label "json-ok"
-
-          echo "JSON validation passed — json-ok label added"
+          MODE: pr
+        run: ./scripts/validate-json.sh
 
   validate-json-cron:
     if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Retry pending PRs
         env:
           GH_TOKEN: ${{ secrets.BOT_TOKEN }}
-        run: |
-          # Find open PRs that have repo-ok and no-deny but NOT json-ok
-          PR_NUMBERS=$(gh pr list \
-            --repo "${{ github.repository }}" \
-            --state open \
-            --label "repo-ok" \
-            --label "no-deny" \
-            --json number,labels \
-            --jq '.[] | select(.labels | map(.name) | index("json-ok") | not) | .number')
-
-          if [ -z "$PR_NUMBERS" ]; then
-            echo "No PRs need json-ok retry"
-            exit 0
-          fi
-
-          while IFS= read -r PR_NUMBER; do
-            echo "Retrying PR #$PR_NUMBER"
-
-            # Extract entry from PR diff
-            DIFF=$(gh api "repos/${{ github.repository }}/pulls/$PR_NUMBER/files" \
-              --jq '.[] | select(.filename == "allowlist.txt") | .patch')
-
-            ENTRY=$(echo "$DIFF" | grep '^+' | grep -v '^+++' | sed 's/^+//' | grep -v '^#' | grep -v '^$')
-
-            if [ -z "$ENTRY" ]; then
-              echo "  No entry found, skipping"
-              continue
-            fi
-
-            REPO=$(echo "$ENTRY" | cut -d/ -f1,2)
-            FILE_PATH=$(echo "$ENTRY" | cut -d/ -f3-)
-            FILE_URL="https://raw.githubusercontent.com/$REPO/main/$FILE_PATH"
-
-            HTTP_STATUS=$(curl -s -o /tmp/json_response -w "%{http_code}" "$FILE_URL")
-
-            if [ "$HTTP_STATUS" != "200" ]; then
-              echo "  Still not available (HTTP $HTTP_STATUS), will retry next hour"
-              continue
-            fi
-
-            if ! jq '.' /tmp/json_response > /dev/null 2>&1; then
-              echo "  Invalid JSON, skipping"
-              continue
-            fi
-
-            # Valid — add label and comment
-            gh pr edit "$PR_NUMBER" \
-              --repo "${{ github.repository }}" \
-              --add-label "json-ok"
-
-            gh pr comment "$PR_NUMBER" \
-              --repo "${{ github.repository }}" \
-              --body "## JSON Now Available
-
-          File \`$FILE_PATH\` in \`$REPO\` is now valid. Added \`json-ok\` label."
-
-            echo "  json-ok added to PR #$PR_NUMBER"
-          done <<< "$PR_NUMBERS"
+          MODE: cron
+        run: ./scripts/validate-json.sh

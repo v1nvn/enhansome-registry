@@ -21,10 +21,10 @@ jobs:
 
       - name: Generate Matrix from allowlist.txt
         id: set-matrix
-        run: |
-          # Read the allowlist, filter out comments and empty lines, and format as a JSON array.
-          json=$(jq -R . allowlist.txt | jq -s -c 'map(select(length > 0 and startswith("#") | not))')
-          echo "json=$json" >> $GITHUB_OUTPUT
+        env:
+          MODE: matrix
+          GITHUB_OUTPUT: ${{ github.output }}
+        run: ./scripts/indexer.sh
 
   # This job runs in parallel for every entry in the allowlist.
   fetch-and-validate:
@@ -38,54 +38,24 @@ jobs:
         target: ${{ fromJSON(needs.setup-matrix.outputs.targets) }}
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Parse Target Path
         id: parse
-        run: |
-          TARGET="${{ matrix.target }}"
-          # Extract the owner/repo part
-          REPO=$(echo "$TARGET" | cut -d/ -f1,2)
-          # Extract the path to the file within the repo
-          FILE_PATH=$(echo "$TARGET" | cut -d/ -f3-)
-          # Create a safe filename for the artifact
-          SAFE_FILENAME=$(echo "$REPO" | tr '/' '_').json
+        env:
+          MODE: parse
+          TARGET: ${{ matrix.target }}
+          GITHUB_OUTPUT: ${{ github.output }}
+        run: ./scripts/indexer.sh
 
-          echo "repo=$REPO" >> $GITHUB_OUTPUT
-          echo "file_path=$FILE_PATH" >> $GITHUB_OUTPUT
-          echo "safe_filename=$SAFE_FILENAME" >> $GITHUB_OUTPUT
-
-      - name: Fetch Data File
-        id: fetch
-        run: |
-          URL="https://raw.githubusercontent.com/${{ steps.parse.outputs.repo }}/main/${{ steps.parse.outputs.file_path }}"
-          echo "Fetching from $URL"
-          
-          # Use curl to fetch the file. --fail makes it exit with an error on 404s.
-          # -o specifies the output file name.
-          if ! curl -s -f -L -o "${{ steps.parse.outputs.safe_filename }}" "$URL"; then
-            echo "::error::Failed to fetch file from $URL. The file may not exist or the repository is private."
-            exit 1
-          fi
-
-      - name: Validate Fetched Data
-        run: |
-          FILENAME="${{ steps.parse.outputs.safe_filename }}"
-          
-          # 1. Check if the file contains valid JSON
-          if ! jq '.' "$FILENAME" > /dev/null 2>&1; then
-            echo "::error::Validation failed: The file '$FILENAME' is not valid JSON."
-            exit 1
-          fi
-          echo "✅ File is valid JSON."
-
-          # 2. Security Check: Ensure the source repo in the file matches the expected source
-          SOURCE_IN_FILE=$(jq -r '.metadata.source_repository' "$FILENAME")
-          EXPECTED_SOURCE="${{ steps.parse.outputs.repo }}"
-
-          if [ "$SOURCE_IN_FILE" != "$EXPECTED_SOURCE" ]; then
-            echo "::error::Validation failed: The 'source_repository' field ('$SOURCE_IN_FILE') does not match the expected source ('$EXPECTED_SOURCE')."
-            exit 1
-          fi
-          echo "✅ Security check passed."
+      - name: Fetch and Validate Data File
+        env:
+          MODE: fetch
+          REPO: ${{ steps.parse.outputs.repo }}
+          FILE_PATH: ${{ steps.parse.outputs.file_path }}
+          SAFE_FILENAME: ${{ steps.parse.outputs.safe_filename }}
+        run: ./scripts/indexer.sh
 
       - name: Upload Validated JSON as Artifact
         uses: actions/upload-artifact@v4
@@ -97,7 +67,6 @@ jobs:
   aggregate-and-commit:
     needs: fetch-and-validate
     runs-on: ubuntu-latest
-    # This job should not run if the fetch-and-validate jobs had no targets or all failed
     if: success()
 
     steps:
@@ -110,22 +79,16 @@ jobs:
           path: ./temp-data
 
       - name: Organize and Commit Data
-        run: |
-          # Ensure the final /data directory exists and is empty
-          rm -rf ./data
-          mkdir -p ./data
-          
-          # The download action creates a subdirectory for each artifact.
-          # We need to move the file *out* of that subdirectory.
-          # Example: ./temp-data/v1nvn_enhansome-go.json/v1nvn_enhansome-go.json
-          find ./temp-data -type f -name "*.json" -exec mv {} ./data/ \;
-          
-          echo "Data aggregation complete."
+        env:
+          MODE: aggregate
+          TEMP_DIR: ./temp-data
+          DATA_DIR: ./data
+        run: ./scripts/indexer.sh
 
       - name: Commit files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "feat(data): ✨ Daily data aggregation"
+          commit_message: "chore(data): Daily data aggregation"
           file_pattern: 'data/*.json'
           commit_user_name: Enhansome Bot
           commit_user_email: bot@enhansome.dev
