@@ -1,0 +1,67 @@
+name: 'Check denylist'
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+    paths:
+      - 'allowlist.txt'
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  check-denylist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Remove no-deny label
+        env:
+          GH_TOKEN: ${{ secrets.BOT_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          gh pr edit "$PR_NUMBER" \
+            --repo "${{ github.repository }}" \
+            --remove-label "no-deny" 2>/dev/null || true
+
+      - name: Checkout base branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.base_ref }}
+
+      - name: Check denylist
+        env:
+          GH_TOKEN: ${{ secrets.BOT_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          # Extract entry from PR diff
+          DIFF=$(gh api "repos/${{ github.repository }}/pulls/$PR_NUMBER/files" \
+            --jq '.[] | select(.filename == "allowlist.txt") | .patch')
+
+          ENTRY=$(echo "$DIFF" | grep '^+' | grep -v '^+++' | sed 's/^+//' | grep -v '^#' | grep -v '^$')
+
+          if [ -z "$ENTRY" ]; then
+            echo "No new entries detected"
+            exit 0
+          fi
+
+          # Extract owner/repo
+          REPO=$(echo "$ENTRY" | cut -d/ -f1,2)
+          echo "Checking repository: $REPO"
+
+          # Check against denylist
+          if [ -f "denylist.txt" ] && grep -qFx "$REPO" denylist.txt; then
+            gh pr comment "$PR_NUMBER" \
+              --repo "${{ github.repository }}" \
+              --body "## Denylist Check Failed
+
+          Repository \`$REPO\` is in the denylist. Open an issue to discuss."
+            echo "Repository is in denylist: $REPO"
+            exit 0
+          fi
+
+          # Not in denylist — add label
+          gh pr edit "$PR_NUMBER" \
+            --repo "${{ github.repository }}" \
+            --add-label "no-deny"
+
+          echo "Denylist check passed — no-deny label added"

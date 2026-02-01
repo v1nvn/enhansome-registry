@@ -1,0 +1,90 @@
+name: 'Validate repository entry'
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+    paths:
+      - 'allowlist.txt'
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  validate-repo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Remove repo-ok label
+        env:
+          GH_TOKEN: ${{ secrets.BOT_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          gh pr edit "$PR_NUMBER" \
+            --repo "${{ github.repository }}" \
+            --remove-label "repo-ok" 2>/dev/null || true
+
+      - name: Extract and validate entry
+        env:
+          GH_TOKEN: ${{ secrets.BOT_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          # Extract new entries from PR diff
+          DIFF=$(gh api "repos/${{ github.repository }}/pulls/$PR_NUMBER/files" \
+            --jq '.[] | select(.filename == "allowlist.txt") | .patch')
+
+          ENTRY=$(echo "$DIFF" | grep '^+' | grep -v '^+++' | sed 's/^+//' | grep -v '^#' | grep -v '^$')
+
+          # Count entries
+          ENTRY_COUNT=$(echo "$ENTRY" | grep -c '.' || true)
+
+          if [ "$ENTRY_COUNT" -eq 0 ]; then
+            echo "No new entries detected"
+            exit 0
+          fi
+
+          if [ "$ENTRY_COUNT" -ne 1 ]; then
+            gh pr comment "$PR_NUMBER" \
+              --repo "${{ github.repository }}" \
+              --body "## Entry Validation Failed
+
+          Only one entry per PR is allowed. Found $ENTRY_COUNT entries. Please split into separate PRs."
+            echo "Multiple entries detected: $ENTRY_COUNT"
+            exit 0
+          fi
+
+          echo "Entry: $ENTRY"
+
+          # Validate format: owner/repo/path/to/file.json
+          if [[ ! "$ENTRY" =~ ^[a-zA-Z0-9_-]+/[a-zA-Z0-9_.-]+/.+\.json$ ]]; then
+            gh pr comment "$PR_NUMBER" \
+              --repo "${{ github.repository }}" \
+              --body "## Entry Validation Failed
+
+          Invalid format: \`$ENTRY\`
+
+          Expected format: \`owner/repo/path/to/file.json\`"
+            echo "Invalid format: $ENTRY"
+            exit 0
+          fi
+
+          # Extract owner/repo
+          REPO=$(echo "$ENTRY" | cut -d/ -f1,2)
+          echo "Repository: $REPO"
+
+          # Check if repository exists
+          if ! gh repo view "$REPO" --json name > /dev/null 2>&1; then
+            gh pr comment "$PR_NUMBER" \
+              --repo "${{ github.repository }}" \
+              --body "## Entry Validation Failed
+
+          Repository \`$REPO\` not found or inaccessible."
+            echo "Repository not found: $REPO"
+            exit 0
+          fi
+
+          # All checks passed — add label
+          gh pr edit "$PR_NUMBER" \
+            --repo "${{ github.repository }}" \
+            --add-label "repo-ok"
+
+          echo "Validation passed — repo-ok label added"

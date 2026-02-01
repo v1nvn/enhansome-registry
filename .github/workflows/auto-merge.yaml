@@ -1,0 +1,74 @@
+name: 'Auto-merge when ready'
+
+on:
+  pull_request_target:
+    types: [labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check labels and merge
+        env:
+          GH_TOKEN: ${{ secrets.BOT_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+        run: |
+          # Fetch current labels as comma-delimited string
+          LABELS=$(gh pr view "$PR_NUMBER" \
+            --repo "${{ github.repository }}" \
+            --json labels \
+            --jq '.labels | map(.name) | join(",")')
+
+          echo "Current labels: $LABELS"
+
+          # Helper: check for exact label in comma-delimited list
+          has_label() {
+            echo ",$LABELS," | grep -q ",$1,"
+          }
+
+          # Check required labels
+          if ! has_label "repo-ok"; then
+            echo "Missing repo-ok — not ready"
+            exit 0
+          fi
+
+          if ! has_label "no-deny"; then
+            echo "Missing no-deny — not ready"
+            exit 0
+          fi
+
+          if ! has_label "json-ok"; then
+            echo "Missing json-ok — not ready"
+            exit 0
+          fi
+
+          # Check trust OR lgtm
+          if has_label "trusted-author"; then
+            echo "All required labels present (trusted-author path)"
+          elif has_label "lgtm"; then
+            echo "All required labels present (lgtm path)"
+          else
+            echo "Missing trusted-author or lgtm — not ready"
+            exit 0
+          fi
+
+          # Approve the PR
+          gh api \
+            "repos/${{ github.repository }}/pulls/$PR_NUMBER/reviews" \
+            -f event="APPROVE" \
+            -f body="Auto-approved by workflow" \
+            2>/dev/null || echo "Already approved or approval not needed"
+
+          # Squash merge
+          gh pr merge "$PR_NUMBER" \
+            --repo "${{ github.repository }}" \
+            --squash \
+            --subject "Merge allowlist.txt update" \
+            --body "Auto-merged by workflow from $PR_AUTHOR"
+
+          echo "PR #$PR_NUMBER merged successfully"
