@@ -5,6 +5,7 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 source "$SCRIPT_DIR/lib/entry.sh"
+source "$SCRIPT_DIR/lib/diff.sh"
 
 # ============================================================================
 # PURE FUNCTION (tested in tests/check-denylist_test.sh)
@@ -56,10 +57,8 @@ main() {
 
   # Extract entry from PR diff
   local diff entry
-  diff=$(gh api "repos/$repo/pulls/$pr_number/files" \
-    --jq '.[] | select(.filename == "allowlist.txt") | .patch')
-
-  entry=$(echo "$diff" | grep '^+' | grep -v '^+++' | sed 's/^+//' | grep -v '^#' | grep -v '^$')
+  diff=$(get_pr_diff_for_file "$pr_number" "$repo")
+  entry=$(get_entry_from_diff "$diff")
 
   if [[ -z "$entry" ]]; then
     echo "No new entries detected"

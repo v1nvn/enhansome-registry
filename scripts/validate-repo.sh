@@ -5,6 +5,7 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 source "$SCRIPT_DIR/lib/entry.sh"
+source "$SCRIPT_DIR/lib/diff.sh"
 
 # ============================================================================
 # MAIN - gh calls (NOT tested)
@@ -19,21 +20,23 @@ main() {
     --repo "$repo" \
     --remove-label "repo-ok" 2>/dev/null || true
 
-  # Extract new entries from PR diff
+  # Get PR diff ignoring whitespace changes
+  # This handles the case where a line is only modified by adding a newline
   local diff entry
-  diff=$(gh api "repos/$repo/pulls/$pr_number/files" \
-    --jq '.[] | select(.filename == "allowlist.txt") | .patch')
+  diff=$(get_pr_diff_for_file "$pr_number" "$repo")
 
-  entry=$(echo "$diff" | grep '^+' | grep -v '^+++' | sed 's/^+//' | grep -v '^#' | grep -v '^$')
+  # Extract net new entries (additions not also removed)
+  entry=$(get_entry_from_diff "$diff")
 
-  # Count entries
-  local entry_count
-  entry_count=$(echo "$entry" | grep -c '.' || true)
-
-  if [[ "$entry_count" -eq 0 ]]; then
+  # Check if there's anything to validate
+  if [[ -z "$entry" ]]; then
     echo "No new entries detected"
     exit 0
   fi
+
+  # Count total additions using the pure function
+  local entry_count
+  entry_count=$(count_net_new_additions "$diff")
 
   if [[ "$entry_count" -ne 1 ]]; then
     gh pr comment "$pr_number" \
