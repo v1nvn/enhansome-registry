@@ -5,6 +5,7 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 source "$SCRIPT_DIR/lib/log.sh"
+source "$SCRIPT_DIR/lib/dry_run.sh"
 source "$SCRIPT_DIR/lib/entry.sh"
 
 # ============================================================================
@@ -88,11 +89,14 @@ main() {
   fi
 
   # Add lgtm label
-  gh pr edit "$pr_number" \
-    --repo "$repo" \
-    --add-label "lgtm"
-
-  log_info "Maintainer $comment_author approved — lgtm label added"
+  if [[ "$(is_dry_run)" == "true" ]]; then
+    dry_run_log "add lgtm label to PR #$pr_number"
+  else
+    gh pr edit "$pr_number" \
+      --repo "$repo" \
+      --add-label "lgtm"
+    log_info "Maintainer $comment_author approved — lgtm label added"
+  fi
 }
 
 if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then

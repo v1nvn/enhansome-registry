@@ -85,9 +85,11 @@ get_pr_diff_for_file() {
   local pr_number="$1"
   local repo="$2"
   local filename="${3:-allowlist.txt}"
-  local diff_opts="${4:---ignore-all-space}"
+  # Note: diff_opts removed - gh pr diff doesn't support git flags with path filtering
+  # Use get_pr_diff_for_file_api instead for path-filtered diffs
 
-  gh pr diff "$pr_number" --repo "$repo" -- $diff_opts -- "$filename" || true
+  gh api "repos/$repo/pulls/$pr_number/files" \
+    --jq ".[] | select(.filename == \"$filename\") | .patch" || true
 }
 
 # Get diff for a specific file from a PR using GitHub API

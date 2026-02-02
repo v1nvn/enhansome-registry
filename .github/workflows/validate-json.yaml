@@ -8,6 +8,12 @@ on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run mode (skip adding labels)'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -26,6 +32,7 @@ jobs:
           GH_TOKEN: ${{ secrets.BOT_TOKEN }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
           MODE: pr
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
         run: ./scripts/validate-json.sh
 
   validate-json-cron:
@@ -39,4 +46,5 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.BOT_TOKEN }}
           MODE: cron
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
         run: ./scripts/validate-json.sh

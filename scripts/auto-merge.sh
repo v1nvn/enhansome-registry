@@ -5,6 +5,7 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 source "$SCRIPT_DIR/lib/log.sh"
+source "$SCRIPT_DIR/lib/dry_run.sh"
 
 # ============================================================================
 # PURE FUNCTION (tested in tests/auto-merge_test.sh)
@@ -87,20 +88,27 @@ main() {
   fi
 
   # Approve the PR
-  gh api \
-    "repos/$repo/pulls/$pr_number/reviews" \
-    -f event="APPROVE" \
-    -f body="Auto-approved by workflow" \
-    2>/dev/null || log_debug "Already approved or approval not needed"
+  if [[ "$(is_dry_run)" == "true" ]]; then
+    dry_run_log "approve PR #$pr_number"
+  else
+    gh api \
+      "repos/$repo/pulls/$pr_number/reviews" \
+      -f event="APPROVE" \
+      -f body="Auto-approved by workflow" \
+      2>/dev/null || log_debug "Already approved or approval not needed"
+  fi
 
   # Squash merge
-  gh pr merge "$pr_number" \
-    --repo "$repo" \
-    --squash \
-    --subject "Merge allowlist.txt update" \
-    --body "Auto-merged by workflow from $pr_author"
-
-  log_info "PR #$pr_number merged successfully"
+  if [[ "$(is_dry_run)" == "true" ]]; then
+    dry_run_log "merge PR #$pr_number"
+  else
+    gh pr merge "$pr_number" \
+      --repo "$repo" \
+      --squash \
+      --subject "Merge allowlist.txt update" \
+      --body "Auto-merged by workflow from $pr_author"
+    log_info "PR #$pr_number merged successfully"
+  fi
 }
 
 if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then

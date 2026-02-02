@@ -5,6 +5,13 @@ on:
     types: [opened, synchronize, reopened]
     paths:
       - 'allowlist.txt'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run mode (skip adding labels)'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -21,4 +28,5 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.BOT_TOKEN }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
         run: ./scripts/validate-repo.sh

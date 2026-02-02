@@ -5,6 +5,7 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 source "$SCRIPT_DIR/lib/log.sh"
+source "$SCRIPT_DIR/lib/dry_run.sh"
 source "$SCRIPT_DIR/lib/entry.sh"
 source "$SCRIPT_DIR/lib/validation.sh"
 source "$SCRIPT_DIR/lib/diff.sh"
@@ -72,9 +73,13 @@ main_pr() {
   local repo="$2"
 
   # Remove json-ok label first
-  gh pr edit "$pr_number" \
-    --repo "$repo" \
-    --remove-label "json-ok" 2>/dev/null || true
+  if [[ "$(is_dry_run)" == "true" ]]; then
+    dry_run_log "remove json-ok label from PR #$pr_number"
+  else
+    gh pr edit "$pr_number" \
+      --repo "$repo" \
+      --remove-label "json-ok" 2>/dev/null || true
+  fi
 
   # Extract entry from PR diff
   local diff entry
@@ -148,29 +153,40 @@ validate_entry() {
       return 0
     fi
 
-    gh pr comment "$pr_number" \
-      --repo "$repo" \
-      --body "## JSON Validation Failed
+    if [[ "$(is_dry_run)" == "true" ]]; then
+      dry_run_log "comment on PR #$pr_number about JSON validation failure"
+    else
+      gh pr comment "$pr_number" \
+        --repo "$repo" \
+        --body "## JSON Validation Failed
 
 File \`$file_path\` in \`$entry_repo\` is not valid JSON."
+    fi
     log_info "Invalid JSON: $file_path"
     exit 0
   fi
 
   # Valid JSON — add label
-  gh pr edit "$pr_number" \
-    --repo "$repo" \
-    --add-label "json-ok"
-
-  if [[ "$mode" == "cron" ]]; then
-    gh pr comment "$pr_number" \
+  if [[ "$(is_dry_run)" == "true" ]]; then
+    dry_run_log "add json-ok label to PR #$pr_number"
+  else
+    gh pr edit "$pr_number" \
       --repo "$repo" \
-      --body "## JSON Now Available
-
-File \`$file_path\` in \`$entry_repo\` is now valid. Added \`json-ok\` label."
+      --add-label "json-ok"
+    log_info "JSON validation passed — json-ok label added"
   fi
 
-  log_info "JSON validation passed — json-ok label added"
+  if [[ "$mode" == "cron" ]]; then
+    if [[ "$(is_dry_run)" == "true" ]]; then
+      dry_run_log "comment on PR #$pr_number about JSON now available"
+    else
+      gh pr comment "$pr_number" \
+        --repo "$repo" \
+        --body "## JSON Now Available
+
+File \`$file_path\` in \`$entry_repo\` is now valid. Added \`json-ok\` label."
+    fi
+  fi
 }
 
 if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then

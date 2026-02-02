@@ -5,6 +5,7 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 source "$SCRIPT_DIR/lib/log.sh"
+source "$SCRIPT_DIR/lib/dry_run.sh"
 source "$SCRIPT_DIR/lib/entry.sh"
 source "$SCRIPT_DIR/lib/validation.sh"
 source "$SCRIPT_DIR/lib/matrix.sh"
@@ -121,6 +122,9 @@ main_aggregate() {
   # Move files out of artifact subdirectories
   find "$temp_dir" -type f -name "*.json" -exec mv {} "$data_dir/" \;
 
+  if [[ "$(is_dry_run)" == "true" ]]; then
+    dry_run_log "commit data files"
+  fi
   log_info "Data aggregation complete"
 }
 

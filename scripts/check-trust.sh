@@ -5,6 +5,7 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 source "$SCRIPT_DIR/lib/log.sh"
+source "$SCRIPT_DIR/lib/dry_run.sh"
 source "$SCRIPT_DIR/lib/entry.sh"
 
 # ============================================================================
@@ -43,19 +44,27 @@ main() {
   local trusted_users="${TRUSTED_USERS:-}"
 
   # Remove the label first (idempotent)
-  gh pr edit "$pr_number" \
-    --repo "$repo" \
-    --remove-label "trusted-author" 2>/dev/null || true
+  if [[ "$(is_dry_run)" == "true" ]]; then
+    dry_run_log "remove trusted-author label from PR #$pr_number"
+  else
+    gh pr edit "$pr_number" \
+      --repo "$repo" \
+      --remove-label "trusted-author" 2>/dev/null || true
+  fi
 
   # Check if author is trusted
   local trusted
   trusted=$(is_author_trusted "$author" "$trusted_users")
 
   if [[ "$trusted" == "true" ]]; then
-    gh pr edit "$pr_number" \
-      --repo "$repo" \
-      --add-label "trusted-author"
-    log_info "Trusted author: $author — trusted-author label added"
+    if [[ "$(is_dry_run)" == "true" ]]; then
+      dry_run_log "add trusted-author label to PR #$pr_number"
+    else
+      gh pr edit "$pr_number" \
+        --repo "$repo" \
+        --add-label "trusted-author"
+      log_info "Trusted author: $author — trusted-author label added"
+    fi
   else
     log_info "Author $author is not in trusted users list"
   fi

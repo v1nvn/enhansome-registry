@@ -5,6 +5,7 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 source "$SCRIPT_DIR/lib/log.sh"
+source "$SCRIPT_DIR/lib/dry_run.sh"
 source "$SCRIPT_DIR/lib/entry.sh"
 source "$SCRIPT_DIR/lib/diff.sh"
 
@@ -52,9 +53,13 @@ main() {
   local repo="${GITHUB_REPOSITORY:-}"
 
   # Remove the label first (idempotent)
-  gh pr edit "$pr_number" \
-    --repo "$repo" \
-    --remove-label "no-deny" 2>/dev/null || true
+  if [[ "$(is_dry_run)" == "true" ]]; then
+    dry_run_log "remove no-deny label from PR #$pr_number"
+  else
+    gh pr edit "$pr_number" \
+      --repo "$repo" \
+      --remove-label "no-deny" 2>/dev/null || true
+  fi
 
   # Extract entry from PR diff
   local diff entry
@@ -76,21 +81,28 @@ main() {
   denied=$(is_repo_in_denylist "$check_repo" "denylist.txt")
 
   if [[ "$denied" == "true" ]]; then
-    gh pr comment "$pr_number" \
-      --repo "$repo" \
-      --body "## Denylist Check Failed
+    if [[ "$(is_dry_run)" == "true" ]]; then
+      dry_run_log "comment on PR #$pr_number about denylist failure"
+    else
+      gh pr comment "$pr_number" \
+        --repo "$repo" \
+        --body "## Denylist Check Failed
 
 Repository \`$check_repo\` is in the denylist. Open an issue to discuss."
+    fi
     log_info "Repository is in denylist: $check_repo"
     exit 0
   fi
 
   # Not in denylist — add label
-  gh pr edit "$pr_number" \
-    --repo "$repo" \
-    --add-label "no-deny"
-
-  log_info "Denylist check passed — no-deny label added"
+  if [[ "$(is_dry_run)" == "true" ]]; then
+    dry_run_log "add no-deny label to PR #$pr_number"
+  else
+    gh pr edit "$pr_number" \
+      --repo "$repo" \
+      --add-label "no-deny"
+    log_info "Denylist check passed — no-deny label added"
+  fi
 }
 
 if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then

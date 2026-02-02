@@ -46,6 +46,13 @@ function test_validation_guard_prevents_re_sourcing() {
   assert_equals "0" "0"
 }
 
+function test_dry_run_guard_prevents_re_sourcing() {
+  source "$SCRIPT_DIR/../../scripts/lib/dry_run.sh"
+  source "$SCRIPT_DIR/../../scripts/lib/dry_run.sh"
+
+  assert_equals "0" "0"
+}
+
 function test_all_libs_can_be_sourced_together() {
   # Source all libs in sequence - simulates real script behavior
   source "$SCRIPT_DIR/../../scripts/lib/log.sh"
@@ -53,6 +60,7 @@ function test_all_libs_can_be_sourced_together() {
   source "$SCRIPT_DIR/../../scripts/lib/entry.sh"
   source "$SCRIPT_DIR/../../scripts/lib/matrix.sh"
   source "$SCRIPT_DIR/../../scripts/lib/validation.sh"
+  source "$SCRIPT_DIR/../../scripts/lib/dry_run.sh"
 
   assert_equals "0" "0"
 }
@@ -154,6 +162,13 @@ function test_validation_guard_variable_set() {
   assert_equals "true" "$_VALIDATION_SH_SOURCED"
 }
 
+function test_dry_run_guard_variable_set() {
+  [[ -z "${_DRY_RUN_SH_SOURCED:-}" ]] || true
+  source "$SCRIPT_DIR/../../scripts/lib/dry_run.sh"
+
+  assert_equals "true" "$_DRY_RUN_SH_SOURCED"
+}
+
 # ============================================================================
 # Tests: Library functions are still accessible after sourcing
 # ============================================================================
@@ -214,4 +229,16 @@ function test_diff_functions_work_after_sourcing() {
   local result
   result=$(get_entry_from_diff "$diff")
   assert_equals "new/entry/file.json" "$result"
+}
+
+function test_dry_run_functions_work_after_sourcing() {
+  source "$SCRIPT_DIR/../../scripts/lib/dry_run.sh"
+
+  # Test is_dry_run returns false by default
+  DRY_RUN=false
+  assert_equals "false" "$(is_dry_run)"
+
+  # Test is_dry_run returns true when set
+  DRY_RUN=true
+  assert_equals "true" "$(is_dry_run)"
 }

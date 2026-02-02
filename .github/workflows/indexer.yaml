@@ -2,6 +2,12 @@ name: 'Build and Index Awesome List Data'
 
 on:
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run mode (skip committing data files)'
+        required: false
+        type: boolean
+        default: false
   schedule:
     # Run daily at 5:00 AM UTC
     - cron: '0 5 * * *'
@@ -83,9 +89,11 @@ jobs:
           MODE: aggregate
           TEMP_DIR: ./temp-data
           DATA_DIR: ./data
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
         run: ./scripts/indexer.sh
 
       - name: Commit files
+        if: ${{ inputs.dry_run != 'true' }}
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(data): Daily data aggregation"
@@ -93,3 +101,7 @@ jobs:
           commit_user_name: Enhansome Bot
           commit_user_email: bot@enhansome.dev
           commit_author: Enhansome Bot <bot@enhansome.dev>
+
+      - name: Dry run notice
+        if: ${{ inputs.dry_run == 'true' }}
+        run: echo "[DRY RUN] Would commit data files"

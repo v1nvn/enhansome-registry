@@ -5,6 +5,13 @@ on:
     types: [opened, synchronize, reopened]
     paths:
       - 'allowlist.txt'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run mode (skip adding labels)'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   pull-requests: read
@@ -24,4 +31,5 @@ jobs:
           GH_TOKEN: ${{ secrets.BOT_TOKEN }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
           PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
         run: ./scripts/check-trust.sh
