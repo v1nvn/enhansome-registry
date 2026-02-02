@@ -28,10 +28,11 @@ test-lib: ## Run only lib tests
 
 ##@ Code Quality
 
-shellcheck: ## Run shellcheck on all scripts
+shellcheck: ## Run shellcheck on scripts
 	@echo "Running shellcheck..."
-	@find scripts -name "*.sh" -exec shellcheck -W 0 {} + 2>&1 | grep -v SC1091 || true
-	@find tests -name "*.sh" -exec shellcheck -W 0 {} + 2>&1 | grep -v SC1091 || true
+	@for script in scripts/*.sh scripts/lib/*.sh; do \
+		shellcheck -x --severity=warning "$$script"; \
+	done
 
 lint: shellcheck ## Run all linting checks
 

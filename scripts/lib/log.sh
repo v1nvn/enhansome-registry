@@ -26,11 +26,11 @@ readonly LOG_CURRENT_LEVEL="${LOG_LEVEL:-INFO}"
 # Get numeric level from string
 _get_log_level_num() {
   case "$1" in
-    DEBUG) echo 0 ;;
-    INFO)  echo 1 ;;
-    WARN)  echo 2 ;;
-    ERROR) echo 3 ;;
-    *) echo 1 ;;
+    DEBUG) echo "$LOG_DEBUG" ;;
+    INFO)  echo "$LOG_INFO" ;;
+    WARN)  echo "$LOG_WARN" ;;
+    ERROR) echo "$LOG_ERROR" ;;
+    *) echo "$LOG_INFO" ;;
   esac
 }
 
