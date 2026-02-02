@@ -3,8 +3,13 @@
 # Library functions for parsing git diffs
 set -euo pipefail
 
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-source "$SCRIPT_DIR/log.sh"
+# Guard against multiple sourcing
+[[ -n "${_DIFF_SH_SOURCED:-}" ]] && return 0
+readonly _DIFF_SH_SOURCED=true
+
+# Use local variable name to avoid conflicts with parent scripts
+_DIFF_LIB_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$_DIFF_LIB_DIR/log.sh"
 
 # ============================================================================
 # PURE FUNCTIONS (tested in tests/lib/diff_test.sh)

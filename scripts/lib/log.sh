@@ -3,6 +3,14 @@
 # Centralized logging library for shell scripts
 set -euo pipefail
 
+# Guard against multiple sourcing - readonly variables cannot be redeclared
+[[ -n "${_LOG_SH_SOURCED:-}" ]] && return 0
+readonly _LOG_SH_SOURCED=true
+
+# Note: log.sh does not set _LOG_LIB_DIR since it doesn't source other libraries
+# Other libs use unique directory variables (e.g., _DIFF_LIB_DIR) to avoid
+# overwriting the parent script's SCRIPT_DIR when sourcing log.sh
+
 # ============================================================================
 # LOG LEVELS
 # ============================================================================

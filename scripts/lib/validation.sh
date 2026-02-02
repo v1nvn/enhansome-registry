@@ -3,8 +3,13 @@
 # Library functions for JSON validation and URL building
 set -euo pipefail
 
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-source "$SCRIPT_DIR/log.sh"
+# Guard against multiple sourcing
+[[ -n "${_VALIDATION_SH_SOURCED:-}" ]] && return 0
+readonly _VALIDATION_SH_SOURCED=true
+
+# Use local variable name to avoid conflicts with parent scripts
+_VALIDATION_LIB_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$_VALIDATION_LIB_DIR/log.sh"
 
 # ============================================================================
 # PURE FUNCTIONS (tested in tests/lib/validation_test.sh)
