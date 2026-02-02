@@ -87,17 +87,6 @@ main() {
     exit 0
   fi
 
-  # Approve the PR
-  if [[ "$(is_dry_run)" == "true" ]]; then
-    dry_run_log "approve PR #$pr_number"
-  else
-    gh api \
-      "repos/$repo/pulls/$pr_number/reviews" \
-      -f event="APPROVE" \
-      -f body="Auto-approved by workflow" \
-      2>/dev/null || log_debug "Already approved or approval not needed"
-  fi
-
   # Squash merge
   if [[ "$(is_dry_run)" == "true" ]]; then
     dry_run_log "merge PR #$pr_number"

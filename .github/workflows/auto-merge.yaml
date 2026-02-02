@@ -9,7 +9,7 @@ on:
         description: 'Dry run mode (skip actual merges)'
         required: false
         type: boolean
-        default: true
+        default: false
 
 permissions:
   contents: write
