@@ -1,0 +1,1494 @@
+{
+  "items": [
+    {
+      "description": "Add-ons that provide content-types or additional functionality for content",
+      "items": [
+        {
+          "children": [],
+          "description": "Reports accessibility issues to your site editors when a page is saved.",
+          "title": "collective.a11ycheck",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-09T20:05:23Z",
+            "owner": "collective",
+            "repo": "collective.a11ycheck",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides generic and extensible BBCode markup integration for Plone.",
+          "title": "collective.bbcodesnippets",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-18T10:17:09Z",
+            "owner": "collective",
+            "repo": "collective.bbcodesnippets",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Ask users for consent to different topics, before they can continue.",
+          "title": "collective.consent",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-19T14:44:27Z",
+            "owner": "collective",
+            "repo": "collective.consent",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Dynamic SearchableText index for dexterity content types. For Plone 6 this was merged into Plone core.",
+          "title": "collective.dexteritytextindexer",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-27T15:35:41Z",
+            "owner": "collective",
+            "repo": "collective.dexteritytextindexer",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Generate Documents (.odt, .pdf, .doc) from content based on appy framework () and OpenOffice/LibreOffice.",
+          "title": "collective.documentgenerator",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T14:44:24Z",
+            "owner": "collective",
+            "repo": "collective.documentgenerator",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Very nice document viewer that integrates DocumentCloud viewer and PDF processing into Plone.",
+          "title": "collective.documentviewer",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-04T13:45:49Z",
+            "owner": "collective",
+            "repo": "collective.documentviewer",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "Creates Plone content objects from EasyForm submissions.",
+          "title": "collective.easyformplugin.createdx",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-18T16:28:53Z",
+            "owner": "collective",
+            "repo": "collective.easyformplugin.createdx",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "A content type to embed remote HTML pages in Plone Classic and Volto.",
+          "title": "collective.embeddedpage",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-03T20:35:14Z",
+            "owner": "collective",
+            "repo": "collective.embeddedpage",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Traverse to first item in folder.",
+          "title": "collective.folderishtraverse",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-08T22:53:07Z",
+            "owner": "collective",
+            "repo": "collective.folderishtraverse",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides the types \"Folderish Event\", \"Folderish News Item\" and \"Folderish Document\" as replacements for default types. Those types are able to hold any other content, like a Folder.",
+          "title": "collective.folderishtypes",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-15T00:20:28Z",
+            "owner": "collective",
+            "repo": "collective.folderishtypes",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Geotagging for Plone content using LeafletJS.",
+          "title": "collective.geolocationbehavior",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-19T17:49:13Z",
+            "owner": "collective",
+            "repo": "collective.geolocationbehavior",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Content type to define a glossary and its terms.",
+          "title": "collective.glossary",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-27T11:33:40Z",
+            "owner": "collective",
+            "repo": "collective.glossary",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Create content immediatly and skip the add form.",
+          "title": "collective.immediatecreate",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-12T14:04:46Z",
+            "owner": "collective",
+            "repo": "collective.immediatecreate",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Subsites: Turns subfolders of a Plone site to appear as autonomous Plone sites. There is also a whole ecosystem off addons specific to subsites.",
+          "title": "collective.lineage",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-20T11:25:30Z",
+            "owner": "collective",
+            "repo": "collective.lineage",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "MailChimp newsletter integration for Plone.",
+          "title": "collective.mailchimp",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-15T16:34:00Z",
+            "owner": "collective",
+            "repo": "collective.mailchimp",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "A content type that mirrors the content of any other container.",
+          "title": "collective.mirror",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-03T14:05:07Z",
+            "owner": "collective",
+            "repo": "collective.mirror",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Tracking user views on content that are marked as must-read.",
+          "title": "collective.mustread",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-06T15:24:32Z",
+            "owner": "collective",
+            "repo": "collective.mustread",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "A content type to represent a person, with an optional behavior to connect it to a Plone user.",
+          "title": "collective.person",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-11T10:32:25Z",
+            "owner": "collective",
+            "repo": "collective.person",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Proxy for remote content. All remote URLs for which a local proxy was created are replaced in the resulting content.",
+          "title": "collective.remoteproxy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-05T16:21:08Z",
+            "owner": "collective",
+            "repo": "collective.remoteproxy",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Allows you to restrict the available portlets that non-Managers can add.",
+          "title": "collective.restrictportlets",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-21T15:16:20Z",
+            "owner": "collective",
+            "repo": "collective.restrictportlets",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Formatable description field for Plone.",
+          "title": "collective.richdescription",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-19T10:04:25Z",
+            "owner": "collective",
+            "repo": "collective.richdescription",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Easily manage 'membership' in specific areas of a Plone Site. It allows to grant people access to areas of content using a membership group rather than local roles for each user, and to delegate control over that group to people who don't have access to the site-wide user/group control panel.",
+          "title": "collective.workspace",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-17T07:23:41Z",
+            "owner": "collective",
+            "repo": "collective.workspace",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Enables content to be used as users and groups in Plone sites.",
+          "title": "dexterity.membrane",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-07T06:32:55Z",
+            "owner": "collective",
+            "repo": "dexterity.membrane",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Generic PDF export functionality for Plone content.",
+          "title": "plone.pdfexport",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-21T20:12:44Z",
+            "owner": "plone",
+            "repo": "plone.pdfexport",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Powerful newsletter/mailing product for Plone.",
+          "title": "Products.EasyNewsletter",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-20T04:55:16Z",
+            "owner": "collective",
+            "repo": "Products.EasyNewsletter",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Creates demo content and demo images for Plone.",
+          "title": "zopyx.ipsumplone",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-24T14:59:46Z",
+            "owner": "zopyx",
+            "repo": "zopyx.ipsumplone",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Content and utilities for content"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Rate content using up- and down-thumbs.",
+          "title": "cioppino.twothumbs",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-14T23:12:52Z",
+            "owner": "collective",
+            "repo": "cioppino.twothumbs",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Bookmarks/ favorites/ wish-list for Plone.",
+          "title": "collective.bookmarks",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-13T11:38:50Z",
+            "owner": "collective",
+            "repo": "collective.bookmarks",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Faceted navigation filter for collection or contentlisting tiles.",
+          "title": "collective.collectionfilter",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-02T18:41:28Z",
+            "owner": "collective",
+            "repo": "collective.collectionfilter",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Use Elasticsearch as the search backend for Plone.",
+          "title": "collective.elasticsearch",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-26T13:12:13Z",
+            "owner": "collective",
+            "repo": "collective.elasticsearch",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Elasticsearch Integration for Plone content.",
+          "title": "collective.elastic.plone",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-02T16:42:33Z",
+            "owner": "collective",
+            "repo": "collective.elastic.plone",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Find and replace text in Plone content objects.",
+          "title": "collective.searchandreplace",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-23T09:29:26Z",
+            "owner": "collective",
+            "repo": "collective.searchandreplace",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Solr search engine integration for Plone.",
+          "title": "collective.solr",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-08T13:52:40Z",
+            "owner": "collective",
+            "repo": "collective.solr",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "Create, edit and use hierarchical taxonomies to categorize content.",
+          "title": "collective.taxonomy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-30T08:24:36Z",
+            "owner": "collective",
+            "repo": "collective.taxonomy",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Very powerful interface to improve search without programming skills. Configuration is done through-the-web and lets you gradually select and explore different facets (metadata/properties) of the content and narrow down you search quickly and dynamically.",
+          "title": "eea.facetednavigation",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-22T10:10:03Z",
+            "owner": "collective",
+            "repo": "eea.facetednavigation",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Change, merge and delete keywords/tags/subjects).",
+          "title": "Products.PloneKeywordManager",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-12T13:54:04Z",
+            "owner": "collective",
+            "repo": "Products.PloneKeywordManager",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Plone integration with the external Typesense search server (open-source). This is an alternative to collective.solr or Elasticsearch.",
+          "title": "zopyx.typesense",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-08T08:52:27Z",
+            "owner": "zopyx",
+            "repo": "zopyx.typesense",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Searching and Categorizing"
+    },
+    {
+      "description": "Products and resources that help developers and users to create and manage site layouts.",
+      "items": [
+        {
+          "children": [],
+          "description": "Powerful and extendable editor that allows users to compose the content of a page with different tiles.",
+          "title": "plone.app.mosaic",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-02T18:40:58Z",
+            "owner": "plone",
+            "repo": "plone.app.mosaic",
+            "stars": 36
+          }
+        },
+        {
+          "children": [],
+          "description": "Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.",
+          "title": "collective.cover",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-22T19:40:14Z",
+            "owner": "collective",
+            "repo": "collective.cover",
+            "stars": 47
+          }
+        },
+        {
+          "children": [],
+          "description": "Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.",
+          "title": "collective.contentsections",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-26T09:35:34Z",
+            "owner": "collective",
+            "repo": "collective.contentsections",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Layout"
+    },
+    {
+      "description": "Add-ons that extend the layout editor plone.app.mosaic.",
+      "items": [
+        {
+          "children": [],
+          "description": "A set of standard tiles used by Mosaic, but can be used from any other tile manager.",
+          "title": "plone.app.standardtiles",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-02T18:42:14Z",
+            "owner": "plone",
+            "repo": "plone.app.standardtiles",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "A slider tile for plone.app.mosaic based on the carousel component of Bootstrap 5.",
+          "title": "collective.tiles.carousel",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-15T03:15:34Z",
+            "owner": "collective",
+            "repo": "collective.tiles.carousel",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "A tile that shows html text (similar to the static text portlet), with some additional configuration like the possibility to add custom css classes.",
+          "title": "collective.tiles.advancedstatic",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-09T08:54:23Z",
+            "owner": "collective",
+            "repo": "collective.tiles.advancedstatic",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "A tile that shows a set of collection results with possibility to choose (and develop) custom layouts.",
+          "title": "collective.tiles.collection",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-15T16:29:34Z",
+            "owner": "collective",
+            "repo": "collective.tiles.collection",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Tiles"
+    },
+    {
+      "description": "Add-ons that handle events and calendars.",
+      "items": [
+        {
+          "children": [],
+          "description": "Add a behavior to collective.easyform to manage registration forms for events.",
+          "title": "collective.easyformplugin.registration",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-26T10:45:40Z",
+            "owner": "collective",
+            "repo": "collective.easyformplugin.registration",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Display events in a nice calendar UI using .",
+          "title": "collective.fullcalendar",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-21T11:45:42Z",
+            "owner": "collective",
+            "repo": "collective.fullcalendar",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Venue type with geolocation support for use with events or any other location specific content.",
+          "title": "collective.venue",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-19T17:41:12Z",
+            "owner": "collective",
+            "repo": "collective.venue",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Events"
+    },
+    {
+      "description": "Add-ons that allow generating and using forms.",
+      "items": [
+        {
+          "children": [],
+          "description": "EasyForm provides a Plone form builder through-the-web using fields, widgets, actions and validators. Form input can be saved or emailed. A simple and user-friendly interface allows non-programmers to create custom forms.",
+          "title": "collective.easyform",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-28T15:16:21Z",
+            "owner": "collective",
+            "repo": "collective.easyform",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "A flexible form to edit selected fields of a content type.",
+          "title": "collective.fieldedit",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-02T21:26:49Z",
+            "owner": "collective",
+            "repo": "collective.fieldedit",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Honeypot protection for forms.",
+          "title": "collective.honeypot",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-24T16:17:51Z",
+            "owner": "collective",
+            "repo": "collective.honeypot",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "A field with a datagrid (table), where each row is a sub form.",
+          "title": "collective.z3cform.datagridfield",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T23:03:20Z",
+            "owner": "collective",
+            "repo": "collective.z3cform.datagridfield",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "A \"human\" captcha widget based on a list of questions/answers.",
+          "title": "collective.z3cform.norobots",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-05T08:24:04Z",
+            "owner": "collective",
+            "repo": "collective.z3cform.norobots",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "HCaptcha widget to protect Plone from bots, spam, and other forms of automated abuse.",
+          "title": "plone.formwidgets.hcaptcha",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-23T08:30:59Z",
+            "owner": "plone",
+            "repo": "plone.formwidget.hcaptcha",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Yafowil is a form library for Python. This is its Plone Integration package.",
+          "title": "yafowil.plone",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-05T07:51:40Z",
+            "owner": "bluedynamics",
+            "repo": "yafowil.plone",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Forms"
+    },
+    {
+      "description": "Add-ons to help manage multilingual sites.",
+      "items": [
+        {
+          "children": [],
+          "description": "Multilingual Tags for Plone.",
+          "title": "collective.linguatags",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-14T07:53:15Z",
+            "owner": "collective",
+            "repo": "collective.linguatags",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Indexes optimized to query multilingual content made with plone.app.multilingual.",
+          "title": "plone.app.multilingualindexes",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-22T15:47:19Z",
+            "owner": "plone",
+            "repo": "plone.app.multilingualindexes",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Configure a language to be used when editing your Plone site, independent to the site language.",
+          "title": "cs.adminlanguage",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-23T09:14:38Z",
+            "owner": "codesyntax",
+            "repo": "cs.adminlanguage",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Multilingual"
+    },
+    {
+      "description": "Add-ons that handle image, video and audio content.",
+      "items": [
+        {
+          "children": [],
+          "description": "Automatic scaling of large images. Useful to reduce your database size when editors upload too large images.",
+          "title": "collective.autoscaling",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-01T09:00:53Z",
+            "owner": "collective",
+            "repo": "collective.autoscaling",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "A behavior to create banners and sliders from banners.",
+          "title": "collective.behavior.banner",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-09T13:32:14Z",
+            "owner": "collective",
+            "repo": "collective.behavior.banner",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A behavior to create/upload/manage media relations (Image, File) for content types.",
+          "title": "collective.behavior.relatedmedia",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-15T11:52:52Z",
+            "owner": "collective",
+            "repo": "collective.behavior.relatedmedia",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Integration of lazysizes, a lightweight lazy loader, into Plone.",
+          "title": "collective.lazysizes",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-01T00:02:57Z",
+            "owner": "collective",
+            "repo": "collective.lazysizes",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Implementation of  audio player for Plone.",
+          "title": "collective.wavesurfer",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-15T16:29:02Z",
+            "owner": "collective",
+            "repo": "collective.wavesurfer",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Crops Images in Plone manually using cropper JS library.",
+          "title": "plone.app.imagecropping",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-15T18:47:22Z",
+            "owner": "collective",
+            "repo": "plone.app.imagecropping",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Photo gallery view for Plone.",
+          "title": "plone.gallery",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-05T16:39:37Z",
+            "owner": "plone",
+            "repo": "plone.gallery",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Adds a gallery view with a carousel made with slick.",
+          "title": "redturtle.gallery",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-19T13:26:14Z",
+            "owner": "RedTurtle",
+            "repo": "redturtle.gallery",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides audio and video content types and behaviors.",
+          "title": "wildcard.media",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-22T12:30:03Z",
+            "owner": "collective",
+            "repo": "wildcard.media",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Flickr photo gallery support for Plone.",
+          "title": "cs_flickrgallery",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-07T11:45:32Z",
+            "owner": "codesyntax",
+            "repo": "cs_flickrgallery",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Media"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Disallow access to acquired content outside the current path.",
+          "title": "collective.explicitacquisition",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-23T10:46:05Z",
+            "owner": "collective",
+            "repo": "collective.explicitacquisition",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Graceful E-mail Obfuscation for Plone.",
+          "title": "collective.geotransform",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-02T21:45:55Z",
+            "owner": "collective",
+            "repo": "collective.geotransform",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Disables the default  form or protect it with .",
+          "title": "collective.contactformprotection",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-15T02:20:29Z",
+            "owner": "collective",
+            "repo": "collective.contactformprotection",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "Add-ons for search engine optimization.",
+      "items": [
+        {
+          "children": [],
+          "description": "Google Tag Manager Integration.",
+          "title": "bda.plone.gtm",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-22T08:42:15Z",
+            "owner": "bluedynamics",
+            "repo": "bda.plone.gtm",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Adds extra fields used for SEO optimisation.",
+          "title": "collective.behavior.seo",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-13T11:47:20Z",
+            "owner": "collective",
+            "repo": "collective.behavior.seo",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides a cached split sitemap on big public sites.",
+          "title": "collective.splitsitemap",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-14T13:31:01Z",
+            "owner": "collective",
+            "repo": "collective.splitsitemap",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "SEO"
+    },
+    {
+      "description": "A list of authentication plugins, to integrate Plone with external user , Importsources and Migrations.import",
+      "items": [
+        {
+          "children": [],
+          "description": "Provides users and groups from a LDAP directory.",
+          "title": "pas.plugins.ldap",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-15T05:17:01Z",
+            "owner": "collective",
+            "repo": "pas.plugins.ldap",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Authomatic OAuth1/OAuth2/OpenID Login Integration with Plone.",
+          "title": "pas.plugins.authomatic",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-15T17:43:44Z",
+            "owner": "collective",
+            "repo": "pas.plugins.authomatic",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides user and group enumeration on top of pas.plugins.authomatic, with support for Microsoft Entra ID. Includes user and group synchronization.",
+          "title": "pas.plugins.eea",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-25T12:20:11Z",
+            "owner": "collective",
+            "repo": "pas.plugins.eea",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Reject unconditionnally anonymous users from a Plone site, without any change in your security policy matrix or workflows. The basic use case is an extranet, where all visitors must be authenticated.",
+          "title": "iw.rejectanonymous",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-11T13:50:08Z",
+            "owner": "collective",
+            "repo": "iw.rejectanonymous",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Reads request headers and uses them for authentication. Think SAML headers that are set by a front web server like Apache or nginx.",
+          "title": "pas.plugins.headers",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-15T08:31:58Z",
+            "owner": "collective",
+            "repo": "pas.plugins.headers",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Supports SAML2 based Single Sign-On.",
+          "title": "dm.zope.saml2"
+        },
+        {
+          "children": [],
+          "description": "Allow administrators to impersonate another user. Useful for verifying workflow/permission set up on real content.",
+          "title": "collective.impersonate",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-14T22:00:02Z",
+            "owner": "collective",
+            "repo": "collective.impersonate",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Provideds methods for stronger user passwords in Plone and password attack protection.",
+          "title": "collective.pwexpiry",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T00:19:48Z",
+            "owner": "collective",
+            "repo": "collective.pwexpiry",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Login using OIDC providers.",
+          "title": "pas.plugins.oidc",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-30T13:41:48Z",
+            "owner": "collective",
+            "repo": "pas.plugins.oidc",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Login using SAML providers.",
+          "title": "wcs.samlauth",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-17T17:03:38Z",
+            "owner": "collective",
+            "repo": "wcs.samlauth",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Authentication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Export and import content and a lot of other data from and to Plone. The main solution for all kinds of migrations based on plone.restapi.",
+          "title": "collective.exportimport",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-30T15:34:41Z",
+            "owner": "collective",
+            "repo": "collective.exportimport",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Helpers and examples to use during migrations.",
+          "title": "collective.migrationhelpers",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-05T04:54:24Z",
+            "owner": "collective",
+            "repo": "collective.migrationhelpers",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Export Plone content to JSON.",
+          "title": "collective.jsonify",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-10T14:59:50Z",
+            "owner": "collective",
+            "repo": "collective.jsonify",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "A configurable pipeline, aimed at transforming content for import and export.",
+          "title": "collective.transmogrifier",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-24T13:27:43Z",
+            "owner": "collective",
+            "repo": "collective.transmogrifier",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Export, Import and Migrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Tokyo Theme for Plone implements Bootstrap 4 into Plone, with an emphasis on keeping things as close to \"default\" as possible.",
+          "title": "plonetheme.tokyo",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-07-07T22:04:49Z",
+            "owner": "collective",
+            "repo": "plonetheme.tokyo",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "A kitten inspired theme for Plone 6.",
+          "title": "plonetheme.grueezibuesi",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-10-31T19:49:56Z",
+            "owner": "collective",
+            "repo": "plonetheme.grueezibuesi",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "A sidebar that consolidates toolbar and navigation.",
+          "title": "collective.sidebar",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-04T14:12:51Z",
+            "owner": "collective",
+            "repo": "collective.sidebar",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "A customizable navigation menu for Plone.",
+          "title": "collective.editablemenu",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-28T14:53:28Z",
+            "owner": "RedTurtle",
+            "repo": "collective.editablemenu",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Themes"
+    },
+    {
+      "description": "Add-ons that help developing Plone",
+      "items": [
+        {
+          "children": [],
+          "description": "Post-mortem debugging: open a pdb session whenever an exception occurs so you you can find out what is going wrong. Plus: By adding /pdb to a url you end up you in a pdb session on the current context. A killer tool for developers.",
+          "title": "Products.PDBDebugMode",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-23T07:32:50Z",
+            "owner": "collective",
+            "repo": "Products.PDBDebugMode",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "A toolbar that shows a wealth of debug information about a running Plone site and the content you are inspecting. Also includes a interactive python-shell, a TALES-expression evaluator and and code-reload.",
+          "title": "plone.app.debugtoolbar",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-23T07:24:20Z",
+            "owner": "plone",
+            "repo": "plone.app.debugtoolbar",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Code and configuration reload without server restarts.",
+          "title": "plone.reload",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-15T08:28:45Z",
+            "owner": "plone",
+            "repo": "plone.reload",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Log mail messages instead of sending mail.",
+          "title": "Products.PrintingMailHost",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-23T07:44:44Z",
+            "owner": "collective",
+            "repo": "Products.PrintingMailHost",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Gracefully handle missing binary files in Plone.",
+          "title": "experimental.gracefulblobmissing",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-27T17:01:45Z",
+            "owner": "collective",
+            "repo": "experimental.gracefulblobmissing",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "A great companion for keeping track of patched or overridden files.",
+          "title": "collective.patchwatcher",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-08T16:20:58Z",
+            "owner": "collective",
+            "repo": "collective.patchwatcher",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Helpers to manage, create, export and rebuild relations in Plone 5.x. For Plone 6 this was merged into Plone core.",
+          "title": "collective.relationhelpers",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-01T16:37:55Z",
+            "owner": "collective",
+            "repo": "collective.relationhelpers",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Develop"
+    },
+    {
+      "description": "Add-ons that help admins deploying and maintaining Plone",
+      "items": [
+        {
+          "children": [],
+          "description": "Removes data from the catalog that no longer belong to an actual object.",
+          "title": "collective.catalogcleanup",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-30T19:04:18Z",
+            "owner": "collective",
+            "repo": "collective.catalogcleanup",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Keeps track of different events and write them down to an audit log.",
+          "title": "collective.fingerpointing",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-18T09:41:51Z",
+            "owner": "collective",
+            "repo": "collective.fingerpointing",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Enables any Plone site to play in the IFTTT ecosystem. For example when a news item is published, then tweet about it or post it on Facebook.",
+          "title": "collective.ifttt",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-27T13:30:08Z",
+            "owner": "collective",
+            "repo": "collective.ifttt",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Use tag-based cache invalidation in Plone (e.g. with Varnish's xkey module).",
+          "title": "collective.purgebyid",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-12T14:36:57Z",
+            "owner": "collective",
+            "repo": "collective.purgebyid",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Powerful and flexible backup/restore solution for Plone.",
+          "title": "collective.recipe.backup",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T00:04:49Z",
+            "owner": "collective",
+            "repo": "collective.recipe.backup",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Override registry settings using environment variables.",
+          "title": "collective.regenv",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-15T22:27:35Z",
+            "owner": "collective",
+            "repo": "collective.regenv",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Manage Products.CMFEditions histories that can bloat your database.",
+          "title": "collective.revisionmanager",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-15T19:00:54Z",
+            "owner": "collective",
+            "repo": "collective.revisionmanager",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Sentry integration to aggregate errors and help finding their causes.",
+          "title": "collective.sentry",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-19T12:53:05Z",
+            "owner": "collective",
+            "repo": "collective.sentry",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Access any historical state of your database. Can be useful to find out what happened to objects in the past and to restore accidentally deleted or modified objects.",
+          "title": "dm.historical"
+        },
+        {
+          "children": [],
+          "description": "Detailed request logging functionality on top of the publication events. Useful to find out what takes longer than it should.",
+          "title": "haufe.requestmonitoring",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-16T10:50:17Z",
+            "owner": "collective",
+            "repo": "haufe.requestmonitoring",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Sysadmin"
+    },
+    {
+      "description": "Contributions are welcome! Read the contribution guidelines.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-04T04:11:24.154Z",
+    "original_repository": "collective/awesome-plone",
+    "source_repository": "v1nvn/enhansome-plone",
+    "source_repository_description": "",
+    "title": "Awesome Plone with stars"
+  }
+}
