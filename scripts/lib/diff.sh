@@ -66,8 +66,8 @@ get_entry_from_pr() {
 
     # Get the file content via Contents API with PR head SHA
     local content
-    content=$(gh api "repos/$repo/contents/$index_file" \
-      -f ref="$head_sha" --jq '.content' 2>/dev/null | base64 --decode 2>/dev/null || true)
+    content=$(gh api "repos/$repo/contents/$index_file?ref=$head_sha" \
+      --jq '.content' 2>/dev/null | base64 --decode 2>/dev/null || true)
 
     if [[ -n "$content" ]]; then
       # Extract filename from JSON content
