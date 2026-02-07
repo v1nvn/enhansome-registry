@@ -69,14 +69,20 @@ main() {
   local repo="${GITHUB_REPOSITORY:-}"
   local pr_author="${PR_AUTHOR:-}"
 
-  # Fetch current labels as comma-delimited string
-  local labels
-  labels=$(gh pr view "$pr_number" \
+  # Fetch PR data (labels and title) in one call
+  local pr_data
+  pr_data=$(gh pr view "$pr_number" \
     --repo "$repo" \
-    --json labels \
-    --jq '.labels | map(.name) | join(",")')
+    --json labels,title)
+
+  local labels
+  labels=$(echo "$pr_data" | jq -r '.labels | map(.name) | join(",")')
+
+  local pr_title
+  pr_title=$(echo "$pr_data" | jq -r '.title')
 
   log_info "Current labels: $labels"
+  log_info "PR title: $pr_title"
 
   # Check if all requirements are met
   local ready
@@ -94,7 +100,7 @@ main() {
     gh pr merge "$pr_number" \
       --repo "$repo" \
       --squash \
-      --subject "Merge registry update" \
+      --subject "$pr_title" \
       --body "Auto-merged by workflow from $pr_author"
     log_info "PR #$pr_number merged successfully"
   fi
