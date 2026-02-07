@@ -49,11 +49,11 @@ main() {
     --state open \
     --json number,title,author,labels \
     --limit 1000 \
-    --jq '.[] | select(.labels | map(.name) | index("repo-ok")) |
+    --jq '[.[] | select(.labels | map(.name) | index("repo-ok")) |
                     select(.labels | map(.name) | index("no-deny")) |
                     select(.labels | map(.name) | index("json-ok")) |
                     select(.labels | map(.name) | index("trusted-author") or index("lgtm")) |
-                    {number, title, author: .author.login, labels}')
+                    {number, title, author: .author.login, labels}]')
 
   if [[ -z "$pr_data" ]]; then
     log_info "No PRs with all required labels found"
