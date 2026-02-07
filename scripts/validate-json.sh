@@ -98,13 +98,14 @@ main_cron() {
 
   # Find open PRs that have repo-ok and no-deny but NOT json-ok
   local pr_numbers
+  # This api does not support pagination
   pr_numbers=$(gh pr list \
     --repo "$repo" \
     --state open \
     --label "repo-ok" \
     --label "no-deny" \
     --json number,labels \
-    --limit 1000 \ # This api does not support pagination
+    --limit 1000 \
     --jq '.[] | select(.labels | map(.name) | index("json-ok") | not) | .number')
 
   if [[ -z "$pr_numbers" ]]; then
