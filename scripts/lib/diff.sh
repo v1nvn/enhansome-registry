@@ -12,99 +12,105 @@ _DIFF_LIB_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 source "$_DIFF_LIB_DIR/log.sh"
 
 # ============================================================================
-# PURE FUNCTIONS (tested in tests/lib/diff_test.sh)
+# FUNCTIONS
 # ============================================================================
 
-# Extract net new additions from a diff patch
+# Get added/modified index.json files from a PR
 # Args:
-#   $1 - Diff patch content (with + and - lines)
+#   $1 - PR number
+#   $2 - Repository (e.g., "owner/repo")
 # Output:
-#   Net new lines (additions not also removed), one per line
-extract_net_new_additions() {
-  local diff="$1"
-  log_debug "extract_net_new_additions: processing diff"
+#   List of index.json file paths (one per line), e.g., "repos/v1nvn/enhansome-go/index.json"
+# Returns:
+#   0 on success
+get_pr_index_files() {
+  local pr_number="$1"
+  local repo="$2"
 
-  # Extract deletions and additions separately
-  local deletions additions
-  deletions=$(echo "$diff" | grep '^-' | grep -v '^---' | sed 's/^-//' | grep -v '^#' | grep -v '^$' || true)
-  additions=$(echo "$diff" | grep '^+' | grep -v '^+++' | sed 's/^+//' | grep -v '^#' | grep -v '^$' || true)
+  gh api "repos/$repo/pulls/$pr_number/files" \
+    --jq '.[] | select(.filename | endswith("/index.json")) | .filename' || true
+}
 
-  # Handle empty additions early
-  [[ -z "$additions" ]] && return 0
+# Get entry string from a PR
+# Fetches PR files, finds the first index.json, reads content, returns entry like "v1nvn/repo/README.json"
+# Args:
+#   $1 - PR number
+#   $2 - Repository (e.g., "owner/repo")
+# Output:
+#   Entry string (e.g., "v1nvn/enhansome-go/README.json") - returns the first entry found only
+# Returns:
+#   0 on success
+get_entry_from_pr() {
+  local pr_number="$1"
+  local repo="$2"
 
-  # Filter additions - only keep lines not in deletions
-  local IFS=$'\n'
-  for line in $additions; do
-    [[ -z "$line" ]] && continue
-    if ! echo "$deletions" | grep -qx "$line"; then
-      echo "$line"
+  # Get all index.json files from the PR
+  local index_files
+  index_files=$(get_pr_index_files "$pr_number" "$repo")
+
+  if [[ -z "$index_files" ]]; then
+    return 0
+  fi
+
+  # Get PR head SHA once to avoid N+1 API calls
+  local head_sha
+  head_sha=$(gh api "repos/$repo/pulls/$pr_number" --jq '.head.sha' 2>/dev/null || true)
+  if [[ -z "$head_sha" ]]; then
+    return 0
+  fi
+
+  # Get the first index.json file and extract the entry
+  local index_file filename
+  while IFS= read -r index_file; do
+    [[ -z "$index_file" ]] && continue
+
+    # Get the file content via Contents API with PR head SHA
+    local content
+    content=$(gh api "repos/$repo/contents/$index_file" \
+      -f ref="$head_sha" --jq '.content' 2>/dev/null | base64 --decode 2>/dev/null || true)
+
+    if [[ -n "$content" ]]; then
+      # Extract filename from JSON content
+      filename=$(echo "$content" | jq -r '.filename // empty' || true)
+      if [[ -n "$filename" ]]; then
+        # Parse owner/repo from index_file path
+        # "repos/v1nvn/enhansome-go/index.json" -> "v1nvn/enhansome-go"
+        local owner_repo
+        owner_repo=$(echo "$index_file" | sed 's|^repos/||' | sed 's|/index.json$||')
+        echo "${owner_repo}/${filename}"
+        return 0
+      fi
     fi
-  done
+  done <<< "$index_files"
+
+  return 0
 }
 
-# Count net new additions from a diff patch
+# Count new index.json files in a PR
 # Args:
-#   $1 - Diff patch content (with + and - lines)
+#   $1 - PR number
+#   $2 - Repository (e.g., "owner/repo")
 # Output:
-#   Number of net new lines (additions not also removed)
-count_net_new_additions() {
-  local diff="$1"
+#   Number of index.json files in the PR
+# Returns:
+#   0 on success
+count_entries_from_pr() {
+  local pr_number="$1"
+  local repo="$2"
+
+  local index_files
+  index_files=$(get_pr_index_files "$pr_number" "$repo")
+
+  if [[ -z "$index_files" ]]; then
+    echo "0"
+    return 0
+  fi
+
   local count=0
-  local IFS=$'\n'
-  local result
-  result=$(extract_net_new_additions "$diff")
-  for line in $result; do
+  while IFS= read -r line; do
     [[ -n "$line" ]] && ((count++))
-  done
+  done <<< "$index_files"
+
   echo "$count"
-}
-
-# Get the first net new entry from a diff patch
-# Args:
-#   $1 - Diff patch content (with + and - lines)
-# Output:
-#   First net new line, or empty string if none
-get_entry_from_diff() {
-  local diff="$1"
-  extract_net_new_additions "$diff" | head -n1 || true
-}
-
-# ============================================================================
-# MAIN - gh calls (NOT tested)
-# ============================================================================
-
-# Get diff for a specific file from a PR
-# Args:
-#   $1 - PR number
-#   $2 - Repository (e.g., "owner/repo")
-#   $3 - Filename to get diff for (default: "allowlist.txt")
-#   $4 - Extra diff options (default: "--ignore-all-space")
-# Output:
-#   Diff patch content for the specified file
-get_pr_diff_for_file() {
-  local pr_number="$1"
-  local repo="$2"
-  local filename="${3:-allowlist.txt}"
-  # Note: diff_opts removed - gh pr diff doesn't support git flags with path filtering
-  # Use get_pr_diff_for_file_api instead for path-filtered diffs
-
-  gh api "repos/$repo/pulls/$pr_number/files" \
-    --jq ".[] | select(.filename == \"$filename\") | .patch" || true
-}
-
-# Get diff for a specific file from a PR using GitHub API
-# This is an alternative to get_pr_diff_for_file that uses the API instead
-# Args:
-#   $1 - PR number
-#   $2 - Repository (e.g., "owner/repo")
-#   $3 - Filename to get diff for (default: "allowlist.txt")
-# Output:
-#   Diff patch content for the specified file
-get_pr_diff_for_file_api() {
-  local pr_number="$1"
-  local repo="$2"
-  local filename="${3:-allowlist.txt}"
-
-  gh api "repos/$repo/pulls/$pr_number/files" \
-    --jq ".[] | select(.filename == \"$filename\") | .patch" || true
+  return 0
 }

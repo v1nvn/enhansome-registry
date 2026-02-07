@@ -147,3 +147,71 @@ function test_is_file_in_list_with_comments() {
   assert_equals "true" "$(is_file_in_list "# This is a comment" "$temp_file")"
   rm -f "$temp_file"
 }
+
+# ============================================================================
+# Tests for repos/ directory structure functions
+# ============================================================================
+
+function test_parse_repo_from_index_path() {
+  assert_equals "v1nvn/enhansome-go" "$(parse_repo_from_index_path "repos/v1nvn/enhansome-go/index.json")"
+}
+
+function test_parse_repo_from_index_path_with_underscores() {
+  assert_equals "owner_name/repo_name" "$(parse_repo_from_index_path "repos/owner_name/repo_name/index.json")"
+}
+
+function test_parse_repo_from_index_path_with_hyphens() {
+  assert_equals "owner-name/repo-name" "$(parse_repo_from_index_path "repos/owner-name/repo-name/index.json")"
+}
+
+function test_parse_repo_from_index_path_with_dots() {
+  assert_equals "owner/repo.name" "$(parse_repo_from_index_path "repos/owner/repo.name/index.json")"
+}
+
+function test_parse_repo_from_index_path_empty() {
+  assert_general_error "$(parse_repo_from_index_path "" 2>&1 >/dev/null)"
+}
+
+function test_parse_repo_from_index_path_invalid_format() {
+  assert_general_error "$(parse_repo_from_index_path "invalid/path.json" 2>&1 >/dev/null)"
+}
+
+function test_build_entry_from_index() {
+  assert_equals "v1nvn/enhansome-go/README.json" "$(build_entry_from_index "repos/v1nvn/enhansome-go/index.json" "README.json")"
+}
+
+function test_build_entry_from_index_nested_path() {
+  assert_equals "owner/repo/path/to/file.json" "$(build_entry_from_index "repos/owner/repo/index.json" "path/to/file.json")"
+}
+
+function test_build_entry_from_index_empty_filename() {
+  assert_general_error "$(build_entry_from_index "repos/owner/repo/index.json" "" 2>&1 >/dev/null)"
+}
+
+function test_build_entry_from_index_empty_path() {
+  assert_general_error "$(build_entry_from_index "" "README.json" 2>&1 >/dev/null)"
+}
+
+function test_validate_index_path_format_valid() {
+  assert_equals "true" "$(validate_index_path_format "repos/v1nvn/enhansome-go/index.json")"
+}
+
+function test_validate_index_path_format_with_special_chars() {
+  assert_equals "true" "$(validate_index_path_format "repos/owner-name/repo.name/index.json")"
+}
+
+function test_validate_index_path_format_invalid_no_repos_dir() {
+  assert_equals "false" "$(validate_index_path_format "data/owner/repo/index.json")"
+}
+
+function test_validate_index_path_format_invalid_not_index_json() {
+  assert_equals "false" "$(validate_index_path_format "repos/owner/repo/data.json")"
+}
+
+function test_validate_index_path_format_invalid_missing_parts() {
+  assert_equals "false" "$(validate_index_path_format "repos/owner/index.json")"
+}
+
+function test_validate_index_path_format_invalid_empty() {
+  assert_equals "false" "$(validate_index_path_format "")"
+}

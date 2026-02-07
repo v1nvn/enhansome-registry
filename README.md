@@ -26,7 +26,7 @@ This script will:
 If you prefer manual registration:
 
 1. Fork this repository
-2. Add your repository to `allowlist.txt` in the format: `owner/repo/README.json`
+2. Create `repos/<owner>/<repo>/index.json` with contents `{"filename": "README.json"}`
 3. Create a pull request
 
 ## How It Works
@@ -37,7 +37,7 @@ Once your repository is approved:
 1. The indexer workflow runs daily at 5:00 AM UTC
 2. Fetches `README.json` from approved repositories
 3. Validates the data format and security
-4. Aggregates all data into the `/data` directory
+4. Aggregates data into `repos/<owner>/<repo>/data.json` files
 
 ### Data Format
 
@@ -50,13 +50,30 @@ Each indexed repository generates a JSON file containing:
 
 ```
 enhansome-registry/
-├── allowlist.txt           # Approved repositories
-├── data/                   # Aggregated JSON data (auto-generated)
-│   ├── owner_repo1.json
-│   └── owner_repo2.json
+├── repos/                  # Registry entries per repository
+│   └── v1nvn/
+│       ├── enhansome-go/
+│       │   └── index.json  # Points to README.json
+│       └── enhansome-mcp-servers/
+│           ├── index.json  # Points to README.json
+│           └── data.json   # Aggregated data (auto-generated)
+├── denylist.txt            # Blocked repositories
 ├── .github/
 │   └── workflows/
-│       └── indexer.yaml    # Daily data aggregation
+│       ├── indexer.yaml    # Daily data aggregation
+│       ├── validate-json.yaml
+│       └── validate-repo.yaml
+├── scripts/
+│   ├── indexer.sh
+│   ├── lib/
+│   │   ├── entry.sh
+│   │   ├── diff.sh
+│   │   └── matrix.sh
+│   └── validate-repo.sh
+├── tests/
+│   ├── lib/
+│   │   └── *_test.sh
+│   └── validate-repo_test.sh
 ├── README.md               # This file
 └── Makefile                # Build and test targets
 ```
@@ -80,10 +97,10 @@ All indexed repositories undergo:
 
 ## API Access
 
-The aggregated data is available in the `/data` directory and can be accessed via GitHub's raw content URL:
+The aggregated data is available in the `repos/` directory and can be accessed via GitHub's raw content URL:
 
 ```
-https://raw.githubusercontent.com/v1nvn/enhansome-registry/main/data/owner_repo.json
+https://raw.githubusercontent.com/v1nvn/enhansome-registry/main/repos/<owner>/<repo>/data.json
 ```
 
 ## Contributing

@@ -26,13 +26,9 @@ main() {
       --remove-label "repo-ok" 2>/dev/null || true
   fi
 
-  # Get PR diff ignoring whitespace changes
-  # This handles the case where a line is only modified by adding a newline
-  local diff entry
-  diff=$(get_pr_diff_for_file "$pr_number" "$repo")
-
-  # Extract net new entries (additions not also removed)
-  entry=$(get_entry_from_diff "$diff")
+  # Get entry from PR index.json files
+  local entry
+  entry=$(get_entry_from_pr "$pr_number" "$repo")
 
   # Check if there's anything to validate
   if [[ -z "$entry" ]]; then
@@ -40,9 +36,9 @@ main() {
     exit 0
   fi
 
-  # Count total additions using the pure function
+  # Count total entries using the new PR-based function
   local entry_count
-  entry_count=$(count_net_new_additions "$diff")
+  entry_count=$(count_entries_from_pr "$pr_number" "$repo")
 
   if [[ "$entry_count" -ne 1 ]]; then
     if [[ "$(is_dry_run)" == "true" ]]; then

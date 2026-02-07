@@ -222,13 +222,10 @@ function test_matrix_functions_work_after_sourcing() {
 function test_diff_functions_work_after_sourcing() {
   source "$SCRIPT_DIR/../../scripts/lib/diff.sh"
 
-  local diff='@@ -1,2 +1,3 @@
- line1
-+new/entry/file.json'
-
-  local result
-  result=$(get_entry_from_diff "$diff")
-  assert_equals "new/entry/file.json" "$result"
+  # Verify remaining diff functions are defined
+  command -v get_pr_index_files >/dev/null || fail "get_pr_index_files not found"
+  command -v get_entry_from_pr >/dev/null || fail "get_entry_from_pr not found"
+  command -v count_entries_from_pr >/dev/null || fail "count_entries_from_pr not found"
 }
 
 function test_dry_run_functions_work_after_sourcing() {

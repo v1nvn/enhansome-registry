@@ -1,6 +1,6 @@
 #!/bin/bash
 # scripts/indexer.sh
-# Build and index awesome list data from allowlist
+# Build and index awesome list data from repos/ directory structure
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -37,12 +37,12 @@ main() {
   esac
 }
 
-# Generate matrix JSON from allowlist.txt
+# Generate matrix JSON from repos/ directory
 main_matrix() {
-  local allowlist_file="${ALLOWLIST_FILE:-allowlist.txt}"
+  local repos_dir="${REPOS_DIR:-./repos}"
 
   local json
-  json=$(generate_matrix_json "$allowlist_file")
+  json=$(generate_matrix_from_repos "$repos_dir")
   echo "json=$json" >> "$GITHUB_OUTPUT"
   log_info "Generated matrix with $(echo "$json" | jq 'length') entries"
 }
@@ -111,16 +111,32 @@ main_fetch() {
 }
 
 # Aggregate and commit all downloaded data files
+# For each repos/*/*/index.json, find its artifact in temp-data by safe_filename, copy to repos/<owner>/<repo>/data.json
 main_aggregate() {
   local temp_dir="${TEMP_DIR:-./temp-data}"
-  local data_dir="${DATA_DIR:-./data}"
+  local repos_dir="${REPOS_DIR:-./repos}"
 
-  # Ensure the data directory exists and is empty
-  rm -rf "$data_dir"
-  mkdir -p "$data_dir"
+  # Find all index.json files and copy corresponding data files
+  local relative_path owner repo
+  while IFS= read -r -d '' index_file; do
+    # Extract owner and repo from index file path
+    relative_path="${index_file#$repos_dir/}"
+    owner=$(echo "$relative_path" | cut -d/ -f1)
+    repo=$(echo "$relative_path" | cut -d/ -f2)
 
-  # Move files out of artifact subdirectories
-  find "$temp_dir" -type f -name "*.json" -exec mv {} "$data_dir/" \;
+    # Build safe filename for lookup in temp_dir
+    local safe_filename="${owner}_${repo}.json"
+    local source_file="$temp_dir/$safe_filename"
+    local dest_file="$repos_dir/$owner/$repo/data.json"
+
+    # Copy the data file if it exists
+    if [[ -f "$source_file" ]]; then
+      cp "$source_file" "$dest_file"
+      log_info "Copied $safe_filename to repos/$owner/$repo/data.json"
+    else
+      log_warn "No data file found for $owner/$repo (expected $safe_filename)"
+    fi
+  done < <(find "$repos_dir" -type f -name "index.json" -print0)
 
   if [[ "$(is_dry_run)" == "true" ]]; then
     dry_run_log "commit data files"

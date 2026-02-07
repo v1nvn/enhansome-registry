@@ -143,3 +143,104 @@ is_file_in_list() {
 
   return 0
 }
+
+# ============================================================================
+# PURE FUNCTIONS for repos/ directory structure (tested in tests/lib/entry_test.sh)
+# ============================================================================
+
+# Parse owner/repo from an index.json path
+# Args:
+#   $1 - Path to index.json file (e.g., "repos/v1nvn/enhansome-go/index.json")
+# Output:
+#   owner/repo string (e.g., "v1nvn/enhansome-go")
+# Returns:
+#   0 on success, 1 on error
+parse_repo_from_index_path() {
+  local path="$1"
+  log_debug "parse_repo_from_index_path: path=$path"
+
+  if [[ -z "$path" ]]; then
+    echo "Error: path is required" >&2
+    return 1
+  fi
+
+  # Validate format first: repos/owner/repo/index.json
+  local is_valid
+  is_valid=$(validate_index_path_format "$path")
+  if [[ "$is_valid" != "true" ]]; then
+    echo "Error: invalid index.json path format: $path" >&2
+    return 1
+  fi
+
+  # Extract owner/repo (remove "repos/" prefix and "/index.json" suffix)
+  echo "$path" | sed 's|^repos/||' | sed 's|/index.json$||'
+  return 0
+}
+
+# Build full entry string from index.json path + filename
+# Args:
+#   $1 - Path to index.json file (e.g., "repos/v1nvn/enhansome-go/index.json")
+#   $2 - Filename to append (e.g., "README.json")
+# Output:
+#   Full entry string (e.g., "v1nvn/enhansome-go/README.json")
+# Returns:
+#   0 on success, 1 on error
+build_entry_from_index() {
+  local index_path="$1"
+  local filename="$2"
+  log_debug "build_entry_from_index: index_path=$index_path, filename=$filename"
+
+  if [[ -z "$index_path" ]]; then
+    echo "Error: index_path is required" >&2
+    return 1
+  fi
+
+  if [[ -z "$filename" ]]; then
+    echo "Error: filename is required" >&2
+    return 1
+  fi
+
+  # Validate index path format
+  local is_valid
+  is_valid=$(validate_index_path_format "$index_path")
+  if [[ "$is_valid" != "true" ]]; then
+    echo "Error: invalid index.json path format: $index_path" >&2
+    return 1
+  fi
+
+  # Parse owner/repo from index path and build entry
+  local repo
+  repo=$(parse_repo_from_index_path "$index_path")
+  echo "${repo}/${filename}"
+  return 0
+}
+
+# Validate index.json path format
+# Args:
+#   $1 - Path to validate
+# Output:
+#   "true" if valid format (repos/owner/repo/index.json), "false" otherwise
+# Returns:
+#   0 on success
+validate_index_path_format() {
+  local path="$1"
+  log_debug "validate_index_path_format: validating path=$path"
+
+  if [[ -z "$path" ]]; then
+    echo "false"
+    return 0
+  fi
+
+  # Format: repos/owner/repo/index.json
+  # - Must start with "repos/"
+  # - owner: alphanumeric, underscore, hyphen
+  # - repo: alphanumeric, underscore, dot, hyphen
+  # - Must end with "/index.json"
+  if [[ ! "$path" =~ ^repos/[a-zA-Z0-9_-]+/[a-zA-Z0-9_.-]+/index\.json$ ]]; then
+    echo "false"
+    return 0
+  fi
+
+  echo "true"
+  return 0
+}

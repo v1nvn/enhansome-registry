@@ -61,10 +61,9 @@ main() {
       --remove-label "no-deny" 2>/dev/null || true
   fi
 
-  # Extract entry from PR diff
-  local diff entry
-  diff=$(get_pr_diff_for_file "$pr_number" "$repo")
-  entry=$(get_entry_from_diff "$diff")
+  # Extract entry from PR index.json files
+  local entry
+  entry=$(get_entry_from_pr "$pr_number" "$repo")
 
   if [[ -z "$entry" ]]; then
     log_info "No new entries detected"

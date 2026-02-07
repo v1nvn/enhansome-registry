@@ -16,7 +16,7 @@ permissions:
   contents: write
 
 jobs:
-  # This job reads the allowlist and prepares a JSON array for the matrix strategy.
+  # This job reads the repos/ directory and prepares a JSON array for the matrix strategy.
   setup-matrix:
     runs-on: ubuntu-latest
     outputs:
@@ -25,14 +25,15 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Matrix from allowlist.txt
+      - name: Generate Matrix from repos/
         id: set-matrix
         env:
           MODE: matrix
+          REPOS_DIR: ./repos
           GITHUB_OUTPUT: ${{ github.output }}
         run: ./scripts/indexer.sh
 
-  # This job runs in parallel for every entry in the allowlist.
+  # This job runs in parallel for every entry in the registry.
   fetch-and-validate:
     needs: setup-matrix
     runs-on: ubuntu-latest
@@ -83,12 +84,13 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           path: ./temp-data
+          merge-multiple: true
 
       - name: Organize and Commit Data
         env:
           MODE: aggregate
           TEMP_DIR: ./temp-data
-          DATA_DIR: ./data
+          REPOS_DIR: ./repos
           DRY_RUN: ${{ inputs.dry_run || 'false' }}
         run: ./scripts/indexer.sh
 
@@ -97,7 +99,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(data): Daily data aggregation"
-          file_pattern: 'data/*.json'
+          file_pattern: 'repos/**/data.json'
           commit_user_name: Enhansome Bot
           commit_user_email: bot@enhansome.dev
           commit_author: Enhansome Bot <bot@enhansome.dev>

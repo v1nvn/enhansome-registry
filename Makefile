@@ -61,7 +61,7 @@ check-deps: ## Check if all dependencies are installed
 
 clean: ## Clean up test artifacts
 	@echo "Cleaning up test artifacts..."
-	@rm -rf temp-data data/*.json 2>/dev/null || true
+	@rm -rf temp-data repos/*/*/data.json 2>/dev/null || true
 	@echo "✅ Cleanup complete"
 
 ##@ Utilities

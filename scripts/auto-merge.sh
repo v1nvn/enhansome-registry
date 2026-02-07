@@ -94,7 +94,7 @@ main() {
     gh pr merge "$pr_number" \
       --repo "$repo" \
       --squash \
-      --subject "Merge allowlist.txt update" \
+      --subject "Merge registry update" \
       --body "Auto-merged by workflow from $pr_author"
     log_info "PR #$pr_number merged successfully"
   fi

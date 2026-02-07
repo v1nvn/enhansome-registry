@@ -81,10 +81,9 @@ main_pr() {
       --remove-label "json-ok" 2>/dev/null || true
   fi
 
-  # Extract entry from PR diff
-  local diff entry
-  diff=$(get_pr_diff_for_file "$pr_number" "$repo")
-  entry=$(get_entry_from_diff "$diff")
+  # Extract entry from PR index.json files
+  local entry
+  entry=$(get_entry_from_pr "$pr_number" "$repo")
 
   if [[ -z "$entry" ]]; then
     log_info "No new entries detected"
@@ -115,10 +114,9 @@ main_cron() {
   while IFS= read -r pr_number; do
     log_info "Retrying PR #$pr_number"
 
-    # Extract entry from PR diff
-    local diff entry
-    diff=$(get_pr_diff_for_file "$pr_number" "$repo")
-    entry=$(get_entry_from_diff "$diff")
+    # Extract entry from PR index.json files
+    local entry
+    entry=$(get_entry_from_pr "$pr_number" "$repo")
 
     if [[ -z "$entry" ]]; then
       log_debug "  No entry found, skipping"
