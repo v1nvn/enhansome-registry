@@ -104,6 +104,7 @@ main_cron() {
     --label "repo-ok" \
     --label "no-deny" \
     --json number,labels \
+    --limit 1000 \ # This api does not support pagination
     --jq '.[] | select(.labels | map(.name) | index("json-ok") | not) | .number')
 
   if [[ -z "$pr_numbers" ]]; then
