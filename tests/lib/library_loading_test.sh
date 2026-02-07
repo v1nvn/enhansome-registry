@@ -53,6 +53,13 @@ function test_dry_run_guard_prevents_re_sourcing() {
   assert_equals "0" "0"
 }
 
+function test_merge_requirements_guard_prevents_re_sourcing() {
+  source "$SCRIPT_DIR/../../scripts/lib/merge_requirements.sh"
+  source "$SCRIPT_DIR/../../scripts/lib/merge_requirements.sh"
+
+  assert_equals "0" "0"
+}
+
 function test_all_libs_can_be_sourced_together() {
   # Source all libs in sequence - simulates real script behavior
   source "$SCRIPT_DIR/../../scripts/lib/log.sh"
@@ -61,6 +68,7 @@ function test_all_libs_can_be_sourced_together() {
   source "$SCRIPT_DIR/../../scripts/lib/matrix.sh"
   source "$SCRIPT_DIR/../../scripts/lib/validation.sh"
   source "$SCRIPT_DIR/../../scripts/lib/dry_run.sh"
+  source "$SCRIPT_DIR/../../scripts/lib/merge_requirements.sh"
 
   assert_equals "0" "0"
 }
@@ -169,6 +177,13 @@ function test_dry_run_guard_variable_set() {
   assert_equals "true" "$_DRY_RUN_SH_SOURCED"
 }
 
+function test_merge_requirements_guard_variable_set() {
+  [[ -z "${_MERGE_REQUIREMENTS_SH_SOURCED:-}" ]] || true
+  source "$SCRIPT_DIR/../../scripts/lib/merge_requirements.sh"
+
+  assert_equals "true" "$_MERGE_REQUIREMENTS_SH_SOURCED"
+}
+
 # ============================================================================
 # Tests: Library functions are still accessible after sourcing
 # ============================================================================
@@ -238,4 +253,17 @@ function test_dry_run_functions_work_after_sourcing() {
   # Test is_dry_run returns true when set
   DRY_RUN=true
   assert_equals "true" "$(is_dry_run)"
+}
+
+function test_merge_requirements_functions_work_after_sourcing() {
+  source "$SCRIPT_DIR/../../scripts/lib/merge_requirements.sh"
+
+  # Test check_merge_requirements with all labels
+  local result
+  result=$(check_merge_requirements "repo-ok,no-deny,json-ok,trusted-author")
+  assert_equals "true" "$result"
+
+  # Test check_merge_requirements missing labels
+  result=$(check_merge_requirements "repo-ok,no-deny")
+  assert_equals "false" "$result"
 }
