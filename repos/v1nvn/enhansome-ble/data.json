@@ -1,0 +1,429 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Contents"
+    },
+    {
+      "description": "Framework useful to develop your BLE peripherals.",
+      "items": [
+        {
+          "children": [],
+          "description": "Matter",
+          "title": "Matter",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-08T01:01:45Z",
+            "owner": "project-chip",
+            "repo": "connectedhomeip",
+            "stars": 8567
+          }
+        },
+        {
+          "children": [],
+          "description": "Zephyr",
+          "title": "Zephyr",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-07T23:23:04Z",
+            "owner": "zephyrproject-rtos",
+            "repo": "zephyr",
+            "stars": 14405
+          }
+        }
+      ],
+      "title": "Framework"
+    },
+    {
+      "description": "Software libraries and frameworks for integrating Bluetooth Low Energy (BLE) functionality into various platforms, including mobile, embedded systems, and IoT devices.",
+      "items": [
+        {
+          "children": [],
+          "description": "A Python interface for Bluetooth LE on Linux.",
+          "title": "bluepy",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-24T07:01:06Z",
+            "owner": "IanHarvey",
+            "repo": "bluepy",
+            "stars": 1636
+          }
+        },
+        {
+          "children": [],
+          "description": "Bluetooth is a Swift multiplatform package with multiple libraries supporting the Bluetooth SIG specifications.",
+          "title": "Bluetooth",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-10-02T02:48:45Z",
+            "owner": "PureSwift",
+            "repo": "Bluetooth",
+            "stars": 219
+          }
+        },
+        {
+          "children": [],
+          "description": "The official Linux Bluetooth protocol stack.",
+          "title": "bluez"
+        },
+        {
+          "children": [],
+          "description": "Bumble is a full-featured Bluetooth stack written entirely in Python.",
+          "title": "bumble",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T03:25:44Z",
+            "owner": "google",
+            "repo": "bumble",
+            "stars": 473
+          }
+        },
+        {
+          "children": [],
+          "description": "A Python library for interacting with BLE devices.",
+          "title": "pygatt",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-03T16:31:46Z",
+            "owner": "peplin",
+            "repo": "pygatt",
+            "stars": 534
+          }
+        },
+        {
+          "children": [],
+          "description": "The all-in-one C/C++/Python/Rust Bluetooth LE library for MacOS, iOS, Windows, and Linux.",
+          "title": "SimpleBLE",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-07T08:34:19Z",
+            "owner": "OpenBluetoothToolbox",
+            "repo": "SimpleBLE",
+            "stars": 1030
+          }
+        },
+        {
+          "children": [],
+          "description": "JavaScript libraries and tools for microcontrollers development. Includes BLE functionality.",
+          "title": "Moddable",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-16T18:07:08Z",
+            "owner": "Moddable-OpenSource",
+            "repo": "moddable",
+            "stars": 1487
+          }
+        }
+      ],
+      "title": "Library"
+    },
+    {
+      "description": "iOS libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications on Apple devices.",
+      "items": [
+        {
+          "children": [],
+          "description": "A small library that adds concurrency to CoreBluetooth APIs.",
+          "title": "AsyncBluetooth",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-01-25T16:55:02Z",
+            "owner": "manolofdez",
+            "repo": "AsyncBluetooth",
+            "stars": 195
+          }
+        },
+        {
+          "children": [],
+          "description": "CombineCoreBluetooth is a library that bridges Apple's CoreBluetooth framework and Apple's Combine framework.",
+          "title": "CombineCoreBluetooth",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-10-31T16:57:45Z",
+            "owner": "StarryInternet",
+            "repo": "CombineCoreBluetooth",
+            "stars": 143
+          }
+        },
+        {
+          "children": [],
+          "description": "DFU application allows to flash new firmware on the DK.",
+          "title": "iOS DFU Library",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-06-10T08:10:34Z",
+            "owner": "NordicSemiconductor",
+            "repo": "IOS-DFU-Library",
+            "stars": 578
+          }
+        },
+        {
+          "children": [],
+          "description": "RxBluetoothKit is a Bluetooth library that makes interaction with BLE devices much more pleasant using RxSwift.",
+          "title": "Rx Bluetooth Kit",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-03-05T05:34:14Z",
+            "owner": "Polidea",
+            "repo": "RxBluetoothKit",
+            "stars": 1432
+          }
+        },
+        {
+          "children": [],
+          "description": "Bluetooth LE Sensor Manager for iOS and macOS.",
+          "title": "Swifty Sensors",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-12-18T14:30:24Z",
+            "owner": "codeinversion",
+            "repo": "sensors-swift",
+            "stars": 57
+          }
+        },
+        {
+          "children": [],
+          "description": "Connect and communicate with Bluetooth devices using modern programming paradigms.",
+          "title": "SpeziBluetooth",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-09-13T22:19:09Z",
+            "owner": "StanfordSpezi",
+            "repo": "SpeziBluetooth",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "iOS"
+    },
+    {
+      "description": "Resources and libraries for building Bluetooth Low Energy (BLE) applications using the Kotlin Multiplatform Mobile (KMM) framework.",
+      "items": [
+        {
+          "children": [],
+          "description": "A Bluetooth kotlin multiplatform \"Cross-Platform\" library for iOS and Android.",
+          "title": "BlueFalcon",
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-03T20:52:16Z",
+            "owner": "Reedyuk",
+            "repo": "blue-falcon",
+            "stars": 435
+          }
+        },
+        {
+          "children": [],
+          "description": "Kotlin Asynchronous Bluetooth Low Energy provides a simple Coroutines-powered API for interacting with Bluetooth Low Energy devices.",
+          "title": "Kable",
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-05T02:03:31Z",
+            "owner": "JuulLabs",
+            "repo": "kable",
+            "stars": 1119
+          }
+        }
+      ],
+      "title": "KMM"
+    },
+    {
+      "description": "Android libraries, tools, and resources for integrating Bluetooth Low Energy (BLE) functionality into Android applications.",
+      "items": [
+        {
+          "children": [],
+          "description": "An example application demonstrating how to use BluetoothGatt API on Android.",
+          "title": "Android BluetoothGatt Sample",
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2025-07-10T15:23:23Z",
+            "owner": "android",
+            "repo": "connectivity-samples",
+            "stars": 1769
+          }
+        },
+        {
+          "children": [],
+          "description": "An Android Bluetooth chat application.",
+          "title": "android-BluetoothChat",
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2019-09-10T21:52:23Z",
+            "owner": "googlesamples",
+            "repo": "android-BluetoothChat",
+            "stars": 1005
+          }
+        },
+        {
+          "children": [],
+          "description": "An Android Bluetooth Low Energy (BLE) fast development framework.",
+          "title": "FastBle",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-07-27T09:20:44Z",
+            "owner": "Jasonchenlijian",
+            "repo": "FastBle",
+            "stars": 5474
+          }
+        },
+        {
+          "children": [],
+          "description": "Official Bluetooth Low Energy SDK provided by Nordic Semiconductor for Android development.",
+          "title": "Nordic Semiconductor BLE SDK for Android",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-05T09:43:30Z",
+            "owner": "NordicSemiconductor",
+            "repo": "Android-BLE-Library",
+            "stars": 2329
+          }
+        },
+        {
+          "children": [],
+          "description": "An Android Bluetooth Low Energy (BLE) Library with RxJava3 interface.",
+          "title": "RxAndroidBle",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-06-06T20:33:07Z",
+            "owner": "dariuszseweryn",
+            "repo": "RxAndroidBle",
+            "stars": 3541
+          }
+        },
+        {
+          "children": [],
+          "description": "SmartGattLib is a Java library that simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0). It provides all UUIDs of the adopted GATT specification and an convenient way to interpret the characteristics (e.g. Heart Rate, BatteryLevel).",
+          "title": "SmartGattLib",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-11-23T08:31:38Z",
+            "owner": "movisens",
+            "repo": "SmartGattLib",
+            "stars": 284
+          }
+        }
+      ],
+      "title": "Android"
+    },
+    {
+      "description": "Flutter libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications using the Flutter framework for both iOS and Android.",
+      "items": [
+        {
+          "children": [],
+          "description": "Flutter Blue Plus is a bluetooth plugin for Flutter, a new app SDK to help developers build modern multi-platform apps.",
+          "title": "Flutter Blue Plus",
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-12-29T21:06:00Z",
+            "owner": "boskokg",
+            "repo": "flutter_blue_plus",
+            "stars": 979
+          }
+        },
+        {
+          "children": [],
+          "description": "Flutter Reactive BLE is a Flutter library that handles BLE operations for multiple devices.",
+          "title": "Flutter Reactive BLE",
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-02-07T15:00:27Z",
+            "owner": "PhilipsHue",
+            "repo": "flutter_reactive_ble",
+            "stars": 719
+          }
+        },
+        {
+          "children": [],
+          "description": "Bluetooth Low Energy library for Flutter with support for simulating peripherals.",
+          "title": "Flutter BLELib",
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-07-29T07:28:27Z",
+            "owner": "dotintent",
+            "repo": "FlutterBleLib",
+            "stars": 550
+          }
+        }
+      ],
+      "title": "Flutter"
+    },
+    {
+      "description": "Development and testing tools for Bluetooth Low Energy (BLE) applications, including analyzers, debuggers, and simulators.",
+      "items": [
+        {
+          "children": [],
+          "description": "A easily extensible and portable framework for security researchers to test BLE security.",
+          "title": "Bettercap",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-31T15:33:55Z",
+            "owner": "bettercap",
+            "repo": "bettercap",
+            "stars": 18811
+          }
+        },
+        {
+          "children": [],
+          "description": "An application framework for developing, testing, and provisioning devices based on Nordic Semiconductor chips.",
+          "title": "nRF Connect",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T16:05:06Z",
+            "owner": "NordicSemiconductor",
+            "repo": "pc-nrfconnect-core",
+            "stars": 207
+          }
+        },
+        {
+          "children": [],
+          "description": "A mobile app able to clone BLE devices and script their interaction. Useful to debug and quick prototyping.",
+          "title": "BLE Simulator"
+        },
+        {
+          "children": [],
+          "description": "A macOS tool to capture BLE packets and HCI logs from iOS devices, useful for debugging Bluetooth communication and protocol issues.",
+          "title": "PacketLogger"
+        }
+      ],
+      "title": "Tool"
+    },
+    {
+      "description": "Please take a quick look at the contribution guidelines first.\nIf you see an entry longer maintained or is not a good fit, please submit a pull request to improve this file.\nThank you to all contributors; you rock!",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:32:39.137Z",
+    "original_repository": "dotintent/awesome-ble",
+    "source_repository": "v1nvn/enhansome-ble",
+    "source_repository_description": null,
+    "title": "Awesome BLE with stars"
+  }
+}

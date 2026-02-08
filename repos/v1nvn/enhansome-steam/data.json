@@ -1,0 +1,1081 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Packages"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Node.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Interface directly with Steam servers from Node.js.",
+          "title": "steam",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-06-05T15:24:30Z",
+            "owner": "seishun",
+            "repo": "node-steam",
+            "stars": 1002
+          }
+        },
+        {
+          "children": [],
+          "description": "API-compatible fork of node-steam's SteamClient.",
+          "title": "steam-client",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-09-14T05:09:08Z",
+            "owner": "DoctorMcKay",
+            "repo": "node-steam-client",
+            "stars": 55
+          }
+        },
+        {
+          "children": [],
+          "description": "Feature-rich easy-to-use Steam client.",
+          "title": "steam-user",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-04T11:57:18Z",
+            "owner": "DoctorMcKay",
+            "repo": "node-steam-user",
+            "stars": 1054
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight Steam client framework.",
+          "title": "vapor",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-12-11T13:20:49Z",
+            "owner": "scholtzm",
+            "repo": "vapor",
+            "stars": 110
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple base class for a Steam bot.",
+          "title": "steam-parentbot",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-04-24T22:06:47Z",
+            "owner": "dragonbanshee",
+            "repo": "node-steam-parentbot",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Complete WebAPI wrapper with support for extra HTTP headers sent by Steam.",
+          "title": "steam-webapi",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-18T17:16:11Z",
+            "owner": "DoctorMcKay",
+            "repo": "node-steam-webapi",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "A nice Steam API wrapper.",
+          "title": "steamapi",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-23T20:14:38Z",
+            "owner": "lloti",
+            "repo": "node-steamapi",
+            "stars": 199
+          }
+        }
+      ],
+      "title": "WebAPI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Node.js wrapper around Steam live trading.",
+          "title": "steam-trade",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-05-07T16:25:20Z",
+            "owner": "seishun",
+            "repo": "node-steam-trade",
+            "stars": 162
+          }
+        },
+        {
+          "children": [],
+          "description": "Steam Trade Offers for Node.js.",
+          "title": "steam-tradeoffers",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-02-20T02:38:30Z",
+            "owner": "Alex7Kom",
+            "repo": "node-steam-tradeoffers",
+            "stars": 291
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple and sane Steam trade offer management.",
+          "title": "steam-tradeoffer-manager",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-18T18:49:39Z",
+            "owner": "DoctorMcKay",
+            "repo": "node-steam-tradeoffer-manager",
+            "stars": 591
+          }
+        },
+        {
+          "children": [],
+          "description": "Fetch inventories as readable streams.",
+          "title": "steam-inventory-stream",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-15T11:11:53Z",
+            "owner": "timvandam",
+            "repo": "steam-inventory-stream",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "A Steam Inventory API wrapper with advanced features such as retries and proxy support.",
+          "title": "steam-inventory-api-ng",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-28T13:52:56Z",
+            "owner": "itsjfx",
+            "repo": "node-steam-inventory-api-ng",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Trading"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Steam client handler for Gameserver and AnonGameserver account types.",
+          "title": "steam-gameserver",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T23:20:27Z",
+            "owner": "DoctorMcKay",
+            "repo": "node-steam-gameserver",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "Interact directly with TF2 game coordinator.",
+          "title": "tf2",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-12T07:57:51Z",
+            "owner": "DoctorMcKay",
+            "repo": "node-tf2",
+            "stars": 61
+          }
+        },
+        {
+          "children": [],
+          "description": "Interact directly with CS:GO game coordinator.",
+          "title": "csgo",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-27T00:59:51Z",
+            "owner": "joshuaferrara",
+            "repo": "node-csgo",
+            "stars": 469
+          }
+        },
+        {
+          "children": [],
+          "description": "Interact directly with Dota 2 game coordinator.",
+          "title": "dota2",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-06-08T17:30:59Z",
+            "owner": "RJacksonm1",
+            "repo": "node-dota2",
+            "stars": 554
+          }
+        }
+      ],
+      "title": "Game Interaction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Interact with steamcommunity.com. Also allows to confirm trade offers.",
+          "title": "steamcommunity",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-19T09:01:26Z",
+            "owner": "DoctorMcKay",
+            "repo": "node-steamcommunity",
+            "stars": 545
+          }
+        },
+        {
+          "children": [],
+          "description": "Interact with store.steampowered.com.",
+          "title": "steamstore",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-03T02:21:59Z",
+            "owner": "DoctorMcKay",
+            "repo": "node-steamstore",
+            "stars": 70
+          }
+        },
+        {
+          "children": [],
+          "description": "Retrieve SteamCommunity cookies if you are running Steam network client.",
+          "title": "steam-weblogon",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-01-28T17:29:29Z",
+            "owner": "Alex7Kom",
+            "repo": "node-steam-weblogon",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "Automatically registers and retrieves Steam API key.",
+          "title": "steam-web-api-key",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-01-28T15:23:07Z",
+            "owner": "Alex7Kom",
+            "repo": "node-steam-web-api-key",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "Disable parental lock.",
+          "title": "steam-parental",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2015-09-20T13:46:05Z",
+            "owner": "Alex7Kom",
+            "repo": "node-steam-parental",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Community & Store Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Simple Connect / Express Steam authentication library.",
+          "title": "steam-login",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-18T14:30:42Z",
+            "owner": "cpancake",
+            "repo": "steam-login",
+            "stars": 64
+          }
+        },
+        {
+          "children": [],
+          "description": "Steam (OpenID) authentication strategy for Passport and Node.js.",
+          "title": "passport-steam",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T23:04:28Z",
+            "owner": "liamcurry",
+            "repo": "passport-steam",
+            "stars": 357
+          }
+        },
+        {
+          "children": [],
+          "description": "Steam OpenID integration for Meteor Accounts.",
+          "title": "meteor-accounts-steam",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-10T08:49:35Z",
+            "owner": "scholtzm",
+            "repo": "meteor-accounts-steam",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Authentication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Steam's enums, protobufs and structs.",
+          "title": "steam-resources",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-06-04T19:14:19Z",
+            "owner": "seishun",
+            "repo": "node-steam-resources",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "Node.js implementation of Steam crypto.",
+          "title": "steam-crypto",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-04-11T00:20:48Z",
+            "owner": "seishun",
+            "repo": "node-steam-crypto",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Custom node-steam handler which provides group functions.",
+          "title": "steam-groups",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-08-05T14:22:50Z",
+            "owner": "scholtzm",
+            "repo": "node-steam-groups",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "SteamID usage and conversion made easy.",
+          "title": "steamid",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-20T14:47:07Z",
+            "owner": "DoctorMcKay",
+            "repo": "node-steamid",
+            "stars": 71
+          }
+        },
+        {
+          "children": [],
+          "description": "Easily generate 2FA codes used by Steam.",
+          "title": "steam-totp",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-15T06:55:33Z",
+            "owner": "DoctorMcKay",
+            "repo": "node-steam-totp",
+            "stars": 255
+          }
+        },
+        {
+          "children": [],
+          "description": "Simplified interface for a steam chat bot.",
+          "title": "steam-chat-bot",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-08-10T07:25:33Z",
+            "owner": "Steam-Chat-Bot",
+            "repo": "node-steam-chat-bot",
+            "stars": 106
+          }
+        },
+        {
+          "children": [],
+          "description": "vdf to object and vice versa.",
+          "title": "vdf",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-01-22T10:10:33Z",
+            "owner": "RJacksonm1",
+            "repo": "node-vdf",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "Check user's SteamRep reputation.",
+          "title": "steamrep",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-08-21T16:37:53Z",
+            "owner": "scholtzm",
+            "repo": "node-steamrep",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Check user's rep.tf reputation.",
+          "title": "reptf",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-08-21T16:44:14Z",
+            "owner": "scholtzm",
+            "repo": "node-reptf",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Module to use the API of .",
+          "title": "steamapis",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-25T11:34:04Z",
+            "owner": "itsjfx",
+            "repo": "node-steamapis",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "C#"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "NET library designed to interoperate with Valve's Steam network.",
+          "title": "SteamKit2",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-20T00:24:21Z",
+            "owner": "SteamRE",
+            "repo": "SteamKit",
+            "stars": 2988
+          }
+        },
+        {
+          "children": [],
+          "description": "A C# library that provides vital Steam Mobile Authenticator functionality.",
+          "title": "SteamAuth",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-20T00:37:35Z",
+            "owner": "geel9",
+            "repo": "SteamAuth",
+            "stars": 310
+          }
+        },
+        {
+          "children": [],
+          "description": "Automated bot software for interacting with steam trade.",
+          "title": "SteamBot",
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2019-02-24T00:37:05Z",
+            "owner": "Jessecar96",
+            "repo": "SteamBot",
+            "stars": 1367
+          }
+        },
+        {
+          "children": [],
+          "description": "SteamBot fork which focuses on trade offers.",
+          "title": "SteamTradeOffersBot",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-08-19T02:23:59Z",
+            "owner": "waylaidwanderer",
+            "repo": "SteamTradeOffersBot",
+            "stars": 50
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of .NET Standard libraries using common types that provide functionality in one or more parts of Steam.",
+          "title": "SteamStandardProject",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-02-21T20:53:30Z",
+            "owner": "ObsidianMinor",
+            "repo": "SteamStandardProject",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A .NET Standard library for logging into backpack.tf using Steam credentials.",
+          "title": "BackpackLogin",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-04-23T15:59:48Z",
+            "owner": "igeligel",
+            "repo": "BackpackLogin",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "A .NET Standard class library which allows user to interact with TF2Outpost.",
+          "title": "TeamFortressOutpostApi",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-04-23T00:48:18Z",
+            "owner": "igeligel",
+            "repo": "TeamFortressOutpostApi",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A .NET Standard 2.0 library to automatically use the API of .",
+          "title": "SteamGaugesApi",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-11-04T10:14:57Z",
+            "owner": "igeligel",
+            "repo": "SteamGaugesApi",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A PHP library for interacting with the Steam Community website.",
+          "title": "SteamCommunity",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-10-25T08:53:47Z",
+            "owner": "waylaidwanderer",
+            "repo": "PHP-SteamCommunity",
+            "stars": 78
+          }
+        },
+        {
+          "children": [],
+          "description": "Steam OpenID authentication with PHP.",
+          "title": "SteamAuthentication",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-01-12T13:18:55Z",
+            "owner": "SmItH197",
+            "repo": "SteamAuthentication",
+            "stars": 446
+          }
+        },
+        {
+          "children": [],
+          "description": "An object-oriented alternative to SteamAuthentication.",
+          "title": "SteamAuthOOP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-01-08T08:57:28Z",
+            "owner": "BlackCetha",
+            "repo": "SteamAuthOOP",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP wrapper for the Steam API.",
+          "title": "steam-api",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2020-11-28T14:16:55Z",
+            "owner": "DaMitchell",
+            "repo": "steam-api-php",
+            "stars": 80
+          }
+        },
+        {
+          "children": [],
+          "description": "SteamID class for PHP.",
+          "title": "steamid",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-09-10T03:43:42Z",
+            "owner": "DoctorMcKay",
+            "repo": "php-steamid",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "PHP library to deal with Steam's proprietary TOTP algorithm.",
+          "title": "steam-totp",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-10-31T00:07:48Z",
+            "owner": "DoctorMcKay",
+            "repo": "php-steam-totp",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "An alternative Steam authentication library with Composer support.",
+          "title": "steam-auth",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-12T14:34:48Z",
+            "owner": "vikas5914",
+            "repo": "steam-auth",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Simple steam library for trading in Go.",
+          "title": "steam",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-12-10T16:51:14Z",
+            "owner": "0xAozora",
+            "repo": "steam",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "Steam's protocol in Go.",
+          "title": "go-steam",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-03-13T21:30:56Z",
+            "owner": "Philipp15b",
+            "repo": "go-steam",
+            "stars": 423
+          }
+        },
+        {
+          "children": [],
+          "description": "Port of SteamAuth in Go.",
+          "title": "steam-mobileauth",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-01-07T16:34:10Z",
+            "owner": "YellowOrWhite",
+            "repo": "go-steam-mobileauth",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Module for various interactions with Steam.",
+          "title": "steam",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-03T10:10:48Z",
+            "owner": "ValvePython",
+            "repo": "steam",
+            "stars": 1242
+          }
+        },
+        {
+          "children": [],
+          "description": "Steam tools library.",
+          "title": "steamodd",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-16T05:16:53Z",
+            "owner": "Lagg",
+            "repo": "steamodd",
+            "stars": 80
+          }
+        },
+        {
+          "children": [],
+          "description": "Fully automated Steam trade offers library with SteamGuard support.",
+          "title": "steampy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-23T22:20:02Z",
+            "owner": "bukson",
+            "repo": "steampy",
+            "stars": 662
+          }
+        },
+        {
+          "children": [],
+          "description": "An object-oriented Python 2.7+ library for accessing the Steam Web API.",
+          "title": "SteamAPI",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-12-19T13:20:40Z",
+            "owner": "smiley",
+            "repo": "steamapi",
+            "stars": 465
+          }
+        },
+        {
+          "children": [],
+          "description": "An asynchronous, event-based trade library.",
+          "title": "Steam-Trade",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-04-17T20:58:15Z",
+            "owner": "Zwork101",
+            "repo": "steam-trade",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "Trade and interact with Steam market, WebAPI, SteamGuard.",
+          "title": "aiosteampy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-19T00:26:54Z",
+            "owner": "somespecialone",
+            "repo": "aiosteampy",
+            "stars": 82
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Python module for interacting with CSGO's Game Coordinator.",
+          "title": "csgo",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-03T23:55:38Z",
+            "owner": "ValvePython",
+            "repo": "csgo",
+            "stars": 131
+          }
+        },
+        {
+          "children": [],
+          "description": "Python module for interacting with Dota 2's Game Coordinator.",
+          "title": "dota2",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-02T22:48:53Z",
+            "owner": "ValvePython",
+            "repo": "dota2",
+            "stars": 220
+          }
+        }
+      ],
+      "title": "Game Interaction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Python module for working with Valve's Pack format.",
+          "title": "vpk",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-20T20:33:49Z",
+            "owner": "ValvePython",
+            "repo": "vpk",
+            "stars": 182
+          }
+        },
+        {
+          "children": [],
+          "description": "Python module for working with Valve's KeyValue format.",
+          "title": "vdf",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-30T21:49:30Z",
+            "owner": "ValvePython",
+            "repo": "vdf",
+            "stars": 206
+          }
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Java port of SteamKit.",
+          "title": "SteamKit-Java",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-07-18T16:52:55Z",
+            "owner": "Top-Cat",
+            "repo": "SteamKit-Java",
+            "stars": 49
+          }
+        },
+        {
+          "children": [],
+          "description": "Java library that provides an interface to directly interact with Valve's Steam servers.",
+          "title": "JavaSteam",
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-12-29T16:12:54Z",
+            "owner": "Longi94",
+            "repo": "JavaSteam",
+            "stars": 129
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Creating a Steam Trade Bot with Node.js"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Charred's node.js Guide to Steam Bots",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-08T01:41:12Z",
+            "owner": "charredgrass",
+            "repo": "nodejs-bot-guide",
+            "stars": 47
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "In-depth Steam Bot Guide with Node.js",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-05T15:48:04Z",
+            "owner": "andrewda",
+            "repo": "node-steam-guide",
+            "stars": 713
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Retrieving 2FA Keys from iOS Device"
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Intercept Steam client's network messages.",
+          "title": "NetHook2",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-20T00:24:21Z",
+            "owner": "SteamRE",
+            "repo": "SteamKit",
+            "stars": 2988
+          }
+        },
+        {
+          "children": [],
+          "description": "Inspect messages dumped by NetHook2.",
+          "title": "NetHook2 Analyzer",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-20T00:24:21Z",
+            "owner": "SteamRE",
+            "repo": "SteamKit",
+            "stars": 2988
+          }
+        },
+        {
+          "children": [],
+          "description": "Generate 2FA codes directly in your web browser.",
+          "title": "steam-auth-web-util"
+        },
+        {
+          "children": [],
+          "description": "Desktop implementation of Steam's mobile authenticator app.",
+          "title": "SteamDesktopAuthenticator",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-20T21:53:42Z",
+            "owner": "Jessecar96",
+            "repo": "SteamDesktopAuthenticator",
+            "stars": 3713
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple Proton version and prefix management.",
+          "title": "protonenv",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-07T14:56:53Z",
+            "owner": "rizkiarm",
+            "repo": "protonenv",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Steam desktop authenticator.",
+          "title": "steam-desktop-authenticator-multiplatform",
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-07-20T08:47:36Z",
+            "owner": "tre3p",
+            "repo": "steam-desktop-authenticator-multiplatform",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Standalone Tools"
+    },
+    {
+      "description": "To the extent possible under law, the author and contributors of this text have waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:32:15.853Z",
+    "original_repository": "scholtzm/awesome-steam",
+    "source_repository": "v1nvn/enhansome-steam",
+    "source_repository_description": null,
+    "title": "Awesome Steam with stars"
+  }
+}

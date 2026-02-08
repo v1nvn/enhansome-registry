@@ -1,0 +1,726 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "This is an ansible role for tor relay operators.",
+          "title": "ansible-relayor",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-10-14T19:01:39Z",
+            "owner": "nusenu",
+            "repo": "ansible-relayor",
+            "stars": 256
+          }
+        },
+        {
+          "children": [],
+          "description": "Go library for accessing and embedding Tor clients and servers.",
+          "title": "bine",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-07-28T08:24:22Z",
+            "owner": "cretz",
+            "repo": "bine",
+            "stars": 806
+          }
+        },
+        {
+          "children": [],
+          "description": "Peer-to-peer messaging that bypasses centralized servers. Connect via Bluetooth, Wi-Fi, or Tor.",
+          "title": "Briar"
+        },
+        {
+          "children": [],
+          "description": "Identify Tor exit nodes by showing exit node IPv4 and fingerprint information.",
+          "title": "Bulk Tor Exit Exporter"
+        },
+        {
+          "children": [],
+          "description": "Configures a Tor network, launches and monitors it, and then runs tests on it.",
+          "title": "Chutney"
+        },
+        {
+          "children": [],
+          "description": "A flexible DNS proxy, with support for encrypted DNS protocols.",
+          "title": "dnscrypt-proxy",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T03:52:35Z",
+            "owner": "DNSCrypt",
+            "repo": "dnscrypt-proxy",
+            "stars": 12959
+          }
+        },
+        {
+          "children": [],
+          "description": "Proof of concept denial of service over Tor stress test tool.",
+          "title": "dos-over-tor",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-07-21T01:44:41Z",
+            "owner": "skizap",
+            "repo": "dos-over-tor",
+            "stars": 42
+          }
+        },
+        {
+          "children": [],
+          "description": "A notification service that monitors newly published descriptor information for issues.",
+          "title": "DocTor"
+        },
+        {
+          "children": [],
+          "description": "Tool for deploying HTTP/Onion sites to provide official, onion-networking for popular websites.",
+          "title": "eotk",
+          "repo_info": {
+            "archived": false,
+            "language": "Awk",
+            "last_commit": "2024-02-09T02:12:54Z",
+            "owner": "alecmuffett",
+            "repo": "eotk",
+            "stars": 787
+          }
+        },
+        {
+          "children": [],
+          "description": "Scanner for Tor to detect bad exits (spoiled onions).",
+          "title": "exitmap"
+        },
+        {
+          "children": [],
+          "description": "A Haskell implementation of the Tor protocol.",
+          "title": "haskell-tor",
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2017-11-03T23:50:56Z",
+            "owner": "GaloisInc",
+            "repo": "haskell-tor",
+            "stars": 274
+          }
+        },
+        {
+          "children": [],
+          "description": "Only allows the browser to connect using HTTPS, built-in Tor.",
+          "title": "HTTPS Everywhere"
+        },
+        {
+          "children": [],
+          "description": "Shell script to create a transparent proxy through Tor for Kali Linux OS.",
+          "title": "kalitorify",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-04-18T07:11:44Z",
+            "owner": "brainfucksec",
+            "repo": "kalitorify",
+            "stars": 1199
+          }
+        },
+        {
+          "children": [],
+          "description": "Adjustable graphs to visualize the statistics of Tor.",
+          "title": "Tor Metrics"
+        },
+        {
+          "children": [],
+          "description": "Create multiple Tor instances with load balancing.",
+          "title": "multitor",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-11-19T14:06:47Z",
+            "owner": "trimstray",
+            "repo": "multitor",
+            "stars": 1139
+          }
+        },
+        {
+          "children": [],
+          "description": "Smallest application size while accessing internet content and hidden service content.",
+          "title": "mini-tor",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-04-09T16:44:16Z",
+            "owner": "wbenny",
+            "repo": "mini-tor",
+            "stars": 407
+          }
+        },
+        {
+          "children": [],
+          "description": "JavaScript open-source implementation of the Tor protocol on the server side and browsers.",
+          "title": "node-Tor",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-29T20:09:15Z",
+            "owner": "Ayms",
+            "repo": "node-Tor",
+            "stars": 721
+          }
+        },
+        {
+          "children": [],
+          "description": "CLI interface which includes detailed real-time information about your relay.",
+          "title": "nyx"
+        },
+        {
+          "children": [],
+          "description": "Bind/Reverse Shells, SOCKS, etc over Tor in Go.",
+          "title": "offensive-tor-toolkit",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-07-03T00:59:16Z",
+            "owner": "atorrescogollo",
+            "repo": "offensive-tor-toolkit",
+            "stars": 61
+          }
+        },
+        {
+          "children": [],
+          "description": "Whitelisting filter for dangerous Tor control protocol commands.",
+          "title": "onion-grater",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-11T16:45:33Z",
+            "owner": "Whonix",
+            "repo": "onion-grater",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "A way to load balance onion services across multiple backend Tor instances.",
+          "title": "Onionbalance"
+        },
+        {
+          "children": [],
+          "description": "A web-based protocol to learn about currently running Tor relays and bridges.",
+          "title": "Onionoo"
+        },
+        {
+          "children": [],
+          "description": "Help operators of hidden services find and fix operational security issues with their services.",
+          "title": "OnionScan"
+        },
+        {
+          "children": [],
+          "description": "Anonymously share files, host website, and chat using the Tor network.",
+          "title": "OnionShare"
+        },
+        {
+          "children": [],
+          "description": "Test the blocking of websites and apps. Measure the speed and performance of your network.",
+          "title": "OONI"
+        },
+        {
+          "children": [],
+          "description": "Tor on Android.",
+          "title": "Orbot"
+        },
+        {
+          "children": [],
+          "description": "Modified Tor browser for Android. Requires Orbot.",
+          "title": "Orfox"
+        },
+        {
+          "children": [],
+          "description": "TorControl is a PHP library to control a Tor server.",
+          "title": "php-torcontrol",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-08-09T13:01:50Z",
+            "owner": "dunglas",
+            "repo": "php-torcontrol",
+            "stars": 88
+          }
+        },
+        {
+          "children": [],
+          "description": "Easy way to search for information about relays.",
+          "title": "Relay Search"
+        },
+        {
+          "children": [],
+          "description": "Ricochet Refresh is a peer-to-peer messenger app that uses Tor to connect clients.",
+          "title": "Ricochet Refresh"
+        },
+        {
+          "children": [],
+          "description": "Rotating Tor proxy with Docker.",
+          "title": "rotating-proxy",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-04-25T07:50:11Z",
+            "owner": "mattes",
+            "repo": "rotating-proxy",
+            "stars": 1202
+          }
+        },
+        {
+          "children": [],
+          "description": "A Tor bandwidth scanner that generates bandwidth files to be used by Directory Authorities.",
+          "title": "sbws"
+        },
+        {
+          "children": [],
+          "description": "Stormy is a wizard that helps people create Tor Onion Services with just a few clicks.",
+          "title": "Stormy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-06-03T17:29:57Z",
+            "owner": "glamrock",
+            "repo": "stormy",
+            "stars": 40
+          }
+        },
+        {
+          "children": [],
+          "description": "Set up your GitHub Actions workflow with a specific version of Tor.",
+          "title": "setup-tor",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-29T03:16:48Z",
+            "owner": "tor-actions",
+            "repo": "setup-tor",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Stem is a Python controller library for Tor.",
+          "title": "Stem"
+        },
+        {
+          "children": [],
+          "description": "Shadow is a discrete-event network simulator that runs the real Tor software as a plug-in.",
+          "title": "Shadow"
+        },
+        {
+          "children": [],
+          "description": "A program that redirects all outbound traffic from a Windows machine via the Tor anonymity network.",
+          "title": "Tallow",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-09-11T21:03:14Z",
+            "owner": "basil00",
+            "repo": "TorWall",
+            "stars": 555
+          }
+        },
+        {
+          "children": [],
+          "description": "An all-inclusive Tor configuration for Raspberry Pi, that serves as a relay and personal Tor network.",
+          "title": "tor_box",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-04-17T20:08:43Z",
+            "owner": "CMoncur",
+            "repo": "tor_box",
+            "stars": 113
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides a .JAR and an .AAR file for embedding Tor into a Java or Android Program.",
+          "title": "Tor_Onion_Proxy",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-06-09T09:20:40Z",
+            "owner": "thaliproject",
+            "repo": "Tor_Onion_Proxy_Library",
+            "stars": 185
+          }
+        },
+        {
+          "children": [],
+          "description": "Command that allows SSH access using Tor to any server.",
+          "title": "tor_ssh.sh"
+        },
+        {
+          "children": [],
+          "description": "A Python library to automate Tor Browser with Selenium WebDriver.",
+          "title": "tor-browser-selenium",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-26T23:59:19Z",
+            "owner": "webfp",
+            "repo": "tor-browser-selenium",
+            "stars": 586
+          }
+        },
+        {
+          "children": [],
+          "description": "Run Tor Onion Services on Kubernetes.",
+          "title": "tor-controller",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-09-26T12:13:33Z",
+            "owner": "kragniz",
+            "repo": "tor-controller",
+            "stars": 536
+          }
+        },
+        {
+          "children": [],
+          "description": "Docker container made for Onion Services in v2 or v3.",
+          "title": "tor-hidden-service"
+        },
+        {
+          "children": [],
+          "description": "Script to bootstrap a Debian server to be a set-and-forget Tor relay.",
+          "title": "tor-relay-bootstrap",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-09-01T11:14:14Z",
+            "owner": "coldhakca",
+            "repo": "tor-relay-bootstrap",
+            "stars": 146
+          }
+        },
+        {
+          "children": [],
+          "description": "Tor.framework is the easiest way to embed Tor in your iOS application.",
+          "title": "Tor.framework",
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-02-04T14:23:38Z",
+            "owner": "iCepa",
+            "repo": "Tor.framework",
+            "stars": 251
+          }
+        },
+        {
+          "children": [],
+          "description": "This is a Ruby library for interacting with the Tor anonymity network.",
+          "title": "tor.rb",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-07-07T20:39:35Z",
+            "owner": "dryruby",
+            "repo": "tor.rb",
+            "stars": 117
+          }
+        },
+        {
+          "children": [],
+          "description": "HTTP proxy software that enables access to Tor Hidden Services through common web browsers.",
+          "title": "Tor2web",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-24T11:51:09Z",
+            "owner": "tor2web",
+            "repo": "Tor2web",
+            "stars": 745
+          }
+        },
+        {
+          "children": [],
+          "description": "Onion site crawler for data collection.",
+          "title": "TorBot",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-08T06:16:42Z",
+            "owner": "DedSecInside",
+            "repo": "TorBot",
+            "stars": 3762
+          }
+        },
+        {
+          "children": [],
+          "description": "macOS native TorChat client.",
+          "title": "TorChat-Mac"
+        },
+        {
+          "children": [],
+          "description": "Decentralized anonymous instant messenger on top of Tor Hidden Services.",
+          "title": "TorChat",
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2018-10-22T20:13:23Z",
+            "owner": "prof7bit",
+            "repo": "TorChat",
+            "stars": 985
+          }
+        },
+        {
+          "children": [],
+          "description": "Determines if a visitor is using Tor or not.",
+          "title": "TorCheck"
+        },
+        {
+          "children": [],
+          "description": "TorDDos is a Python tool to automatize DDoS attacks on a website from the Tor network.",
+          "title": "torDDoS",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-27T15:02:19Z",
+            "owner": "r3nt0n",
+            "repo": "torDDoS",
+            "stars": 391
+          }
+        },
+        {
+          "children": [],
+          "description": "An anonymizer that sets up iptables and Tor to route all traffic through the Tor network.",
+          "title": "toriptabkes2",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-31T02:15:06Z",
+            "owner": "ruped24",
+            "repo": "toriptables2",
+            "stars": 487
+          }
+        },
+        {
+          "children": [],
+          "description": "The Tor Path Simulator (TorPS) is a tool for efficiently simulating path selection in Tor.",
+          "title": "torps",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-01-16T15:03:36Z",
+            "owner": "torps",
+            "repo": "torps",
+            "stars": 87
+          }
+        },
+        {
+          "children": [],
+          "description": "Allows you to use most applications safely with Tor.",
+          "title": "Torsocks"
+        },
+        {
+          "children": [],
+          "description": "Tool that securely, anonymously, and transparently routes all TCP/IP and DNS traffic through Tor.",
+          "title": "Tortilla"
+        },
+        {
+          "children": [],
+          "description": "Rust library that creates a utun (userspace tunnel) interface, and connects it to a stream-based proxy.",
+          "title": "tun2tor",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-11-14T21:33:30Z",
+            "owner": "iCepa",
+            "repo": "tun2tor",
+            "stars": 105
+          }
+        },
+        {
+          "children": [],
+          "description": "An implementation of the control-spec for Tor using the Twisted networking library for Python.",
+          "title": "txtorcon"
+        },
+        {
+          "children": [],
+          "description": "This addon protects against guard discovery and related traffic analysis attacks.",
+          "title": "Vanguards",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-06T01:04:46Z",
+            "owner": "mikeperry-tor",
+            "repo": "vanguards",
+            "stars": 240
+          }
+        },
+        {
+          "children": [],
+          "description": "OS designed for advanced security and privacy using the desktop-wide use of the Tor network.",
+          "title": "Whonix"
+        },
+        {
+          "children": [],
+          "description": "Free and uncensorable websites, using Bitcoin cryptography, the BitTorrent network, and Tor support.",
+          "title": "ZeroNet"
+        }
+      ],
+      "title": "Other applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A proxy software to help circumvent the Great Firewall.",
+          "title": "Firefly",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-11-14T09:18:47Z",
+            "owner": "yinghuocho",
+            "repo": "firefly-proxy",
+            "stars": 4838
+          }
+        },
+        {
+          "children": [],
+          "description": "An anti-censorship HTTP proxy with built-in shadowsocks support.",
+          "title": "FWlite",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-17T04:36:45Z",
+            "owner": "v3aqb",
+            "repo": "fwlite",
+            "stars": 138
+          }
+        },
+        {
+          "children": [],
+          "description": "Great phone solution that allows calls, text messaging, and use of cellular data that bypasses China's Great Firewall.",
+          "title": "Google Fi Wireless"
+        },
+        {
+          "children": [],
+          "description": "Censorship circumvention tool available for free download on any operating system.",
+          "title": "Lantern",
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-02-07T08:17:43Z",
+            "owner": "getlantern",
+            "repo": "lantern",
+            "stars": 15219
+          }
+        },
+        {
+          "children": [],
+          "description": "Allows users in censored areas to connect to Telegram.",
+          "title": "MTProxy",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-04T11:03:19Z",
+            "owner": "TelegramMessenger",
+            "repo": "MTProxy",
+            "stars": 5645
+          }
+        },
+        {
+          "children": [],
+          "description": "NaïveProxy uses Chromium's network stack to camouflage traffic with strong censorship resistance and low detectability.",
+          "title": "NaïveProxy",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-17T00:47:49Z",
+            "owner": "klzgrad",
+            "repo": "naiveproxy",
+            "stars": 7574
+          }
+        },
+        {
+          "children": [],
+          "description": "Host your copy of nodeunblocker.com using Node.js to bypass censorship on the internet.",
+          "title": "nodeunblocker",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-10-17T21:14:43Z",
+            "owner": "nfriedly",
+            "repo": "nodeunblocker.com",
+            "stars": 174
+          }
+        },
+        {
+          "children": [],
+          "description": "VPN that is based in Switzerland and follows Swiss privacy laws. Bypasses even in China.",
+          "title": "PrivadoVPN"
+        },
+        {
+          "children": [],
+          "description": "VPN that allows for circumvention of censorship even in China. Free plan bypasses along with multiple servers and protocols. No logs policy.",
+          "title": "ProtonVPN"
+        },
+        {
+          "children": [],
+          "description": "Go to  section. Follow the instructions.",
+          "title": "Private Bridges"
+        },
+        {
+          "children": [],
+          "description": "A browser extension for Chromium and Firefox that helps to bypass censorship in Russia.",
+          "title": "Runet Censorship Bypass",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-13T23:48:04Z",
+            "owner": "anticensority",
+            "repo": "runet-censorship-bypass",
+            "stars": 2296
+          }
+        },
+        {
+          "children": [],
+          "description": "A Camouflage Proxy for the Tor Anonymity System.",
+          "title": "StegoTorus",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-07-22T20:02:32Z",
+            "owner": "SRI-CSL",
+            "repo": "stegotorus",
+            "stars": 88
+          }
+        },
+        {
+          "children": [],
+          "description": "An unidentifiable mechanism that helps you bypass GFW.",
+          "title": "trojan",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-21T09:27:36Z",
+            "owner": "trojan-gfw",
+            "repo": "trojan",
+            "stars": 19622
+          }
+        }
+      ],
+      "title": "Bypass Censorship"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:25:04.143Z",
+    "original_repository": "polycarbohydrate/awesome-tor",
+    "source_repository": "v1nvn/enhansome-tor",
+    "source_repository_description": null,
+    "title": ""
+  }
+}

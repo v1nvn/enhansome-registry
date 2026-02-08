@@ -1,0 +1,1224 @@
+{
+  "items": [
+    {
+      "description": "This list of tools and software is intended to briefly describe some of the most important and widely-used tools related to web archiving. For more details, we recommend you refer to (and contribute to!) these excellent resources from other groups:",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Comparison of web archiving software",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-09-27T04:01:34Z",
+            "owner": "archivers-space",
+            "repo": "research",
+            "stars": 98
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome Website Change Monitoring",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-17T17:21:27Z",
+            "owner": "edgi-govdata-archiving",
+            "repo": "awesome-website-change-monitoring",
+            "stars": 513
+          }
+        }
+      ],
+      "title": "Tools & Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly ).",
+          "title": "ArchiveBox",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-31T09:35:24Z",
+            "owner": "ArchiveBox",
+            "repo": "ArchiveBox",
+            "stars": 26784
+          }
+        },
+        {
+          "children": [],
+          "description": "A  to push web resources into on-demand web archives.",
+          "title": "archivenow",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-23T17:39:56Z",
+            "owner": "oduwsdl",
+            "repo": "archivenow",
+            "stars": 430
+          }
+        },
+        {
+          "children": [],
+          "description": "A plugin for Chrome and other Chromium based browsers that lets you interactively archive web pages, replay them, and export them as WARC & WACZ files. Also available as an Electron based desktop application.",
+          "title": "ArchiveWeb.Page"
+        },
+        {
+          "children": [],
+          "description": "Python script to automatically archive social media posts, videos, and images from a Google Sheets document. Read the .",
+          "title": "Auto Archiver",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T00:11:02Z",
+            "owner": "bellingcat",
+            "repo": "auto-archiver",
+            "stars": 1035
+          }
+        },
+        {
+          "children": [],
+          "description": "A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container.",
+          "title": "Browsertrix Crawler",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T06:22:44Z",
+            "owner": "webrecorder",
+            "repo": "browsertrix-crawler",
+            "stars": 969
+          }
+        },
+        {
+          "children": [],
+          "description": "A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links.",
+          "title": "Brozzler",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T23:19:14Z",
+            "owner": "internetarchive",
+            "repo": "brozzler",
+            "stars": 784
+          }
+        },
+        {
+          "children": [],
+          "description": "A npm package and CLI tool for saving webpages.",
+          "title": "Cairn",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T04:06:42Z",
+            "owner": "wabarc",
+            "repo": "cairn",
+            "stars": 49
+          }
+        },
+        {
+          "children": [],
+          "description": "Web browser with record and replay functionality.",
+          "title": "Chronicler",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-01-14T22:45:19Z",
+            "owner": "CGamesPlay",
+            "repo": "chronicler",
+            "stars": 92
+          }
+        },
+        {
+          "children": [],
+          "description": "Open Twitter Database and API with tools and resources for building on archived Twitter data.",
+          "title": "Community Archive"
+        },
+        {
+          "children": [],
+          "description": "crau is the way (most) Brazilians pronounce crawl, it's the easiest command-line tool for archiving the Web and playing archives: you just need a list of URLs.",
+          "title": "crau",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-19T17:38:33Z",
+            "owner": "turicas",
+            "repo": "crau",
+            "stars": 64
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple web crawler in Golang.",
+          "title": "Crawl"
+        },
+        {
+          "children": [],
+          "description": "Crawl websites using headless Google Chrome/Chromium and save resources, static DOM snapshot and page screenshots to WARC files.",
+          "title": "crocoite",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-12-30T11:02:46Z",
+            "owner": "PromyLOPh",
+            "repo": "crocoite",
+            "stars": 46
+          }
+        },
+        {
+          "children": [],
+          "description": "A non-WARC-based tool which hooks into the Chrome browser and archives everything you browse making it available for offline replay.",
+          "title": "DiskerNet",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-04T20:12:32Z",
+            "owner": "DO-SAY-GO",
+            "repo": "dn",
+            "stars": 3860
+          }
+        },
+        {
+          "children": [],
+          "description": "A commandline tool and Python library for archiving data from  using the .",
+          "title": "F(b)arc",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-01-29T13:49:55Z",
+            "owner": "justinlittman",
+            "repo": "fbarc",
+            "stars": 78
+          }
+        },
+        {
+          "children": [],
+          "description": "JavaScript library to turn page into static, self-contained HTML document; useful for browser extensions.",
+          "title": "freeze-dry",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-09-18T15:22:13Z",
+            "owner": "WebMemex",
+            "repo": "freeze-dry",
+            "stars": 301
+          }
+        },
+        {
+          "children": [],
+          "description": "The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns.",
+          "title": "grab-site",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-23T09:57:06Z",
+            "owner": "ArchiveTeam",
+            "repo": "grab-site",
+            "stars": 1549
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "A discussion forum for asking questions and getting answers about using Heritrix.",
+              "title": "Heritrix Q&A",
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-02-06T14:57:44Z",
+                "owner": "internetarchive",
+                "repo": "heritrix3",
+                "stars": 3182
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "Heritrix Walkthrough",
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2016-06-10T00:05:11Z",
+                "owner": "web-archive-group",
+                "repo": "heritrix-walkthrough",
+                "stars": 10
+              }
+            }
+          ],
+          "description": "An open source, extensible, web-scale, archival quality web crawler.",
+          "title": "Heritrix",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T14:57:44Z",
+            "owner": "internetarchive",
+            "repo": "heritrix3",
+            "stars": 3182
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple script to convert offline data into a single WARC file.",
+          "title": "html2warc",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-11T18:17:59Z",
+            "owner": "steffenfritz",
+            "repo": "html2warc",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "An open source website copying utility.",
+          "title": "HTTrack"
+        },
+        {
+          "children": [],
+          "description": "CLI tool to save a web page as a single HTML file.",
+          "title": "monolith",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-05T18:44:04Z",
+            "owner": "Y2Z",
+            "repo": "monolith",
+            "stars": 14722
+          }
+        },
+        {
+          "children": [],
+          "description": "Go package and CLI tool for saving web page as single HTML file.",
+          "title": "Obelisk",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-01T07:04:04Z",
+            "owner": "go-shiori",
+            "repo": "obelisk",
+            "stars": 308
+          }
+        },
+        {
+          "children": [],
+          "description": "High-fidelity, browser-based, single-page web archiving library and CLI for witnessing the web.",
+          "title": "Scoop",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-03T18:27:26Z",
+            "owner": "harvard-lil",
+            "repo": "scoop",
+            "stars": 186
+          }
+        },
+        {
+          "children": [],
+          "description": "Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file.",
+          "title": "SingleFile",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-05T00:54:51Z",
+            "owner": "gildas-lormeau",
+            "repo": "SingleFile",
+            "stars": 20173
+          }
+        },
+        {
+          "children": [],
+          "description": "A transactional archive that selectively captures and stores transactions that take place between a web client (browser) and a web server.",
+          "title": "SiteStory"
+        },
+        {
+          "children": [],
+          "description": "Open source software that enables users to create social media collections from Twitter, Tumblr, Flickr, and Sina Weibo public APIs.",
+          "title": "Social Feed Manager"
+        },
+        {
+          "children": [],
+          "description": "An  archival crawler that uses Chrome or Chrome Headless directly.",
+          "title": "Squidwarc",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-19T04:31:59Z",
+            "owner": "N0taN3rd",
+            "repo": "Squidwarc",
+            "stars": 172
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of resources for building low-latency, scalable web crawlers on Apache Storm.",
+          "title": "StormCrawler"
+        },
+        {
+          "children": [],
+          "description": "A command line tool and Python library for archiving Twitter JSON data.",
+          "title": "twarc",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-31T18:03:47Z",
+            "owner": "DocNow",
+            "repo": "twarc",
+            "stars": 1389
+          }
+        },
+        {
+          "children": [],
+          "description": "A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; , .",
+          "title": "WAIL",
+          "repo_info": {
+            "archived": false,
+            "language": "Roff",
+            "last_commit": "2025-03-12T22:18:18Z",
+            "owner": "machawk1",
+            "repo": "wail",
+            "stars": 388
+          }
+        },
+        {
+          "children": [],
+          "description": "WARC-writing MITM HTTP/S proxy.",
+          "title": "Warcprox",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T17:31:39Z",
+            "owner": "internetarchive",
+            "repo": "warcprox",
+            "stars": 441
+          }
+        },
+        {
+          "children": [],
+          "description": "A  extension for archiving an individual webpage or website to a WARC file.",
+          "title": "WARCreate"
+        },
+        {
+          "children": [],
+          "description": "An open source, dockerized, queued, high fidelity web archiver based on Squidwarc with a simple web GUI.",
+          "title": "Warcworker",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-09T07:58:44Z",
+            "owner": "peterk",
+            "repo": "warcworker",
+            "stars": 61
+          }
+        },
+        {
+          "children": [],
+          "description": "A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond.",
+          "title": "Wayback",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-02T21:03:51Z",
+            "owner": "wabarc",
+            "repo": "wayback",
+            "stars": 2132
+          }
+        },
+        {
+          "children": [],
+          "description": "Wayback Machine Save, CDX and availability API interface in Python and a command-line tool",
+          "title": "Waybackpy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-26T00:15:49Z",
+            "owner": "akamhy",
+            "repo": "waybackpy",
+            "stars": 560
+          }
+        },
+        {
+          "children": [],
+          "description": "An easy-to-use and highly customizable crawler that enables anyone to create their own little Web archives (WARC/CDX).",
+          "title": "Web2Warc",
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2017-10-09T12:15:00Z",
+            "owner": "helgeho",
+            "repo": "Web2Warc",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source workflow management for selective web archiving.",
+          "title": "Web Curator Tool"
+        },
+        {
+          "children": [],
+          "description": "Browser extension for Firefox and Chrome which lets you archive web pages you visit.",
+          "title": "WebMemex"
+        },
+        {
+          "children": [],
+          "description": "An open source file retrieval utility that of .",
+          "title": "Wget"
+        },
+        {
+          "children": [],
+          "description": "Wget with Lua extension.",
+          "title": "Wget-lua",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-12-17T13:49:55Z",
+            "owner": "alard",
+            "repo": "wget-lua",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "A Wget-compatible (or remake/clone/replacement/alternative) web downloader and crawler.",
+          "title": "Wpull",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-04-29T12:41:59Z",
+            "owner": "ArchiveTeam",
+            "repo": "wpull",
+            "stars": 599
+          }
+        }
+      ],
+      "title": "Acquisition"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Web Archive (WARC) indexing and replay using .",
+          "title": "InterPlanetary Wayback (ipwb)",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-10T16:25:10Z",
+            "owner": "oduwsdl",
+            "repo": "ipwb",
+            "stars": 648
+          }
+        },
+        {
+          "children": [],
+          "description": "The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser.",
+          "title": "OpenWayback",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-01-03T23:55:02Z",
+            "owner": "iipc",
+            "repo": "openwayback",
+            "stars": 511
+          }
+        },
+        {
+          "children": [],
+          "description": "A Python 3 implementation of web archival replay tools, sometimes also known as 'Wayback Machine'.",
+          "title": "PYWB",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T23:53:47Z",
+            "owner": "webrecorder",
+            "repo": "pywb",
+            "stars": 1612
+          }
+        },
+        {
+          "children": [],
+          "description": "Reconstructive is a ServiceWorker module for client-side reconstruction of composite mementos by rerouting resource requests to corresponding archived copies (JavaScript).",
+          "title": "Reconstructive"
+        },
+        {
+          "children": [],
+          "description": "A browser-based, fully client-side replay engine for both local and remote WARC & WACZ files. Also available as an Electron based desktop application.",
+          "title": "ReplayWeb.page"
+        },
+        {
+          "children": [],
+          "description": "Converts WARC files to static HTML suitable for browsing offline or rehosting.",
+          "title": "warc2html",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-09-18T06:10:20Z",
+            "owner": "iipc",
+            "repo": "warc2html",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "Replay"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A webcrawler built for research uses with a graphical user interface in order to build web corpuses made of lists of web actors and maps of links between them.",
+          "title": "hyphe",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-16T11:12:40Z",
+            "owner": "medialab",
+            "repo": "hyphe",
+            "stars": 369
+          }
+        },
+        {
+          "children": [],
+          "description": "A  extension for querying Memento aggregators while browsing and integrating live-archived web navigation.",
+          "title": "Mink",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-27T20:18:28Z",
+            "owner": "machawk1",
+            "repo": "Mink",
+            "stars": 58
+          }
+        },
+        {
+          "children": [],
+          "description": "A desktop research software to be plugged on a Solr endpoint to query, retrieve, normalize and visually explore web archives.",
+          "title": "PANDORÆ",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-09T14:44:52Z",
+            "owner": "Guillaume-Levrier",
+            "repo": "PANDORAE",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "A toolkit for searching archived webpages from , ,  and beyond.",
+          "title": "playback",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-19T13:11:33Z",
+            "owner": "wabarc",
+            "repo": "playback",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Web based archive for WHOIS and DNS records. REST API available free of charge.",
+          "title": "SecurityTrails"
+        },
+        {
+          "children": [],
+          "description": "Temporal web archive search based on  tags.",
+          "title": "Tempas v1"
+        },
+        {
+          "children": [],
+          "description": "Temporal web archive search based on links and anchor texts extracted from the German web from 1996 to 2013 (results are not limited to German pages, e.g., ).",
+          "title": "Tempas v2"
+        },
+        {
+          "children": [],
+          "description": "WARC and ARC full-text indexing and discovery tools, with a number of associated tools capable of using the index shown below.",
+          "title": "webarchive-discovery",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-11-21T19:21:00Z",
+            "owner": "ukwa",
+            "repo": "webarchive-discovery",
+            "stars": 132
+          }
+        },
+        {
+          "children": [],
+          "description": "A prototype web archives exploration UI, developed with researchers as part of the .",
+          "title": "Shine",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-06-03T21:45:36Z",
+            "owner": "ukwa",
+            "repo": "shine",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": "A backend Java and frontend VUE JS project with freetext search and a build in playback engine. Require Warc files has been index with the Warc-Indexer. The web application also has a wide range of data visualization tools and data export tools that can be used on the whole webarchive.  contains all the software and dependencies in an out-of-the box solution that is easy to install.",
+          "title": "SolrWayback",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-03T09:59:12Z",
+            "owner": "netarchivesuite",
+            "repo": "solrwayback",
+            "stars": 134
+          }
+        },
+        {
+          "children": [],
+          "description": "A Project Blacklight based Rails engine that supports the discovery of web archives held in the WARC and ARC formats.",
+          "title": "Warclight",
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2023-06-13T14:08:59Z",
+            "owner": "archivesunleashed",
+            "repo": "warclight",
+            "stars": 50
+          }
+        },
+        {
+          "children": [],
+          "description": "A fully functional prototype of a personal .",
+          "title": "Wasp",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-10-14T06:16:41Z",
+            "owner": "webis-de",
+            "repo": "wasp",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "Other possible options for builting a front-end are listed on in the  wiki, .",
+          "title": "here",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-11-21T19:21:00Z",
+            "owner": "ukwa",
+            "repo": "webarchive-discovery",
+            "stars": 132
+          }
+        }
+      ],
+      "title": "Search & Discovery"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Collection of tools to extract and interact with WARC files (Python).",
+          "title": "ArchiveTools",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-06T19:37:55Z",
+            "owner": "recrm",
+            "repo": "ArchiveTools",
+            "stars": 78
+          }
+        },
+        {
+          "children": [],
+          "description": "Library and CLI to consult cdx indexes and create WARC extractions of subsets. Abstracts away Common Crawl's unusual crawl structure.",
+          "title": "cdx-toolkit"
+        },
+        {
+          "children": [],
+          "description": "DuckDB extension to query the Internet Archive and CommonCrawl CDX APIs directly from SQL.",
+          "title": "duckdb-web-archive-cdx",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-03T08:28:03Z",
+            "owner": "midwork-finds-jobs",
+            "repo": "duckdb-web-archive",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Extract web archive data using  and .",
+          "title": "Go Get Crawl",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-11-04T08:25:29Z",
+            "owner": "karust",
+            "repo": "gogetcrawl",
+            "stars": 171
+          }
+        },
+        {
+          "children": [],
+          "description": "based capture index (CDX) and WARC record server, used to index and serve WARC files (Go).",
+          "title": "gowarcserver",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-03-31T12:53:39Z",
+            "owner": "nlnwa",
+            "repo": "gowarcserver",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Convert HTTP Archive (HAR) -> Web Archive (WARC) format (Python).",
+          "title": "har2warc",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-10-21T05:01:44Z",
+            "owner": "webrecorder",
+            "repo": "har2warc",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A high-performance WARC parsing library (Python).",
+          "title": "FastWARC",
+          "repo_info": {
+            "archived": false,
+            "language": "Cython",
+            "last_commit": "2025-10-15T15:45:23Z",
+            "owner": "chatnoir-eu",
+            "repo": "chatnoir-resiliparse",
+            "stars": 129
+          }
+        },
+        {
+          "children": [],
+          "description": "A Splitable Hadoop InputFormat for Concatenated GZIP Files (and ).",
+          "title": "HadoopConcatGz",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-02-07T14:31:16Z",
+            "owner": "helgeho",
+            "repo": "HadoopConcatGz",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Read and write WARC files with a type safe API (Java).",
+          "title": "jwarc",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-22T22:39:03Z",
+            "owner": "iipc",
+            "repo": "jwarc",
+            "stars": 54
+          }
+        },
+        {
+          "children": [],
+          "description": "Libraries for reading/writing/validating WARC/ARC/GZIP files (Java).",
+          "title": "Jwat",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-13T00:00:44Z",
+            "owner": "netarchivesuite",
+            "repo": "jwat",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Tools for reading/writing/validating WARC/ARC/GZIP files (Java).",
+          "title": "Jwat-Tools",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-13T14:45:05Z",
+            "owner": "netarchivesuite",
+            "repo": "jwat-tools",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Parse WARC files or create WARC files using either  or  (Node.js).",
+          "title": "node-warc",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-29T01:33:08Z",
+            "owner": "N0taN3rd",
+            "repo": "node-warc",
+            "stars": 103
+          }
+        },
+        {
+          "children": [],
+          "description": "Internet Archive's Sparkling Data Processing Library.",
+          "title": "Sparkling",
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-02-06T09:15:48Z",
+            "owner": "internetarchive",
+            "repo": "Sparkling",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Command line interface to unzip WARC and WACZ files (Python).",
+          "title": "Unwarcit",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-07T17:20:07Z",
+            "owner": "emmadickson",
+            "repo": "unwarcit",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "A Rust library for reading and writing WARC files.",
+          "title": "warc",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-11-27T04:39:18Z",
+            "owner": "jedireza",
+            "repo": "warc",
+            "stars": 59
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool and library for handling Web ARChive (WARC) files (Python).",
+          "title": "Warcat",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-11T09:28:20Z",
+            "owner": "chfoo",
+            "repo": "warcat",
+            "stars": 164
+          }
+        },
+        {
+          "children": [],
+          "description": "Command-line tool and Rust library for handling Web ARChive (WARC) files.",
+          "title": "Warcat-rs",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-02T09:09:54Z",
+            "owner": "chfoo",
+            "repo": "warcat-rs",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "Streaming WARC/ARC library for fast web archive IO (Python).",
+          "title": "warcio",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-10T21:31:14Z",
+            "owner": "webrecorder",
+            "repo": "warcio",
+            "stars": 446
+          }
+        },
+        {
+          "children": [],
+          "description": "Library to work with ARC and WARC files (Python).",
+          "title": "warctools",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-18T22:15:47Z",
+            "owner": "internetarchive",
+            "repo": "warctools",
+            "stars": 169
+          }
+        },
+        {
+          "children": [],
+          "description": "Golang readers for ARC and WARC webarchive formats (Golang).",
+          "title": "webarchive",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-04-03T22:31:12Z",
+            "owner": "richardlehane",
+            "repo": "webarchive",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "WARC I/O Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Web application for distributed compute analysis of Archive-It web archive collections.",
+          "title": "Archives Research Compute Hub",
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-10-09T20:35:04Z",
+            "owner": "internetarchive",
+            "repo": "arch",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation.",
+          "title": "ArchiveSpark",
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-10-08T20:12:43Z",
+            "owner": "helgeho",
+            "repo": "ArchiveSpark",
+            "stars": 156
+          }
+        },
+        {
+          "children": [],
+          "description": "Notebooks for working with web archives with the Archives Unleashed Toolkit, and derivatives generated by the Archives Unleashed Toolkit.",
+          "title": "Archives Unleashed Notebooks",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-12-05T21:05:56Z",
+            "owner": "archivesunleashed",
+            "repo": "notebooks",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "Archives Unleashed Toolkit (AUT) is an open-source platform for analyzing web archives with Apache Spark.",
+          "title": "Archives Unleashed Toolkit",
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-12-05T02:26:14Z",
+            "owner": "archivesunleashed",
+            "repo": "aut",
+            "stars": 153
+          }
+        },
+        {
+          "children": [],
+          "description": "SQL-queryable index, with CDX info plus language classification.",
+          "title": "Common Crawl Columnar Index"
+        },
+        {
+          "children": [],
+          "description": "A host or domain-level graph of the web, with ranking information.",
+          "title": "Common Crawl Web Graph"
+        },
+        {
+          "children": [],
+          "description": "A collection of notebooks using Common Crawl's various datasets.",
+          "title": "Common Crawl Jupyter notebooks",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-22T15:42:08Z",
+            "owner": "commoncrawl",
+            "repo": "cc-notebooks",
+            "stars": 62
+          }
+        },
+        {
+          "children": [],
+          "description": "An open-source toolkit for analyzing line-oriented JSON Twitter archives with Apache Spark.",
+          "title": "Tweet Archvies Unleashed Toolkit",
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2024-12-11T21:11:59Z",
+            "owner": "archivesunleashed",
+            "repo": "twut",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Structured data extracted from Common Crawl.",
+          "title": "Web Data Commons"
+        }
+      ],
+      "title": "Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Browser extension: a link checker with more options.",
+          "title": "Chrome Check My Links"
+        },
+        {
+          "children": [],
+          "description": "Browser extension: basic link checker.",
+          "title": "Chrome link checker"
+        },
+        {
+          "children": [],
+          "description": "Browser extension: link harvester on a page.",
+          "title": "Chrome link gopher"
+        },
+        {
+          "children": [],
+          "description": "Browser extension: opens multiple URLs and also extracts URLs from text.",
+          "title": "Chrome Open Multiple URLs"
+        },
+        {
+          "children": [],
+          "description": "Browser extension: switches between browser tabs.",
+          "title": "Chrome Revolver"
+        },
+        {
+          "children": [],
+          "description": "Screen capture and annotation on Ubuntu.",
+          "title": "FlameShot",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-07T15:39:22Z",
+            "owner": "flameshot-org",
+            "repo": "flameshot",
+            "stars": 29245
+          }
+        },
+        {
+          "children": [],
+          "description": "For running Xenu and Notepad++ on Ubuntu.",
+          "title": "PlayOnLinux"
+        },
+        {
+          "children": [],
+          "description": "For running Xenu and Notepad++ on macOS.",
+          "title": "PlayOnMac"
+        },
+        {
+          "children": [],
+          "description": "Windows built-in for partial screen capture and annotation. On macOS you can use Command + Shift + 4 (keyboard shortcut for taking partial screen capture).",
+          "title": "Windows Snipping Tool"
+        },
+        {
+          "children": [],
+          "description": "For running Xenu and Notepad++ on macOS.",
+          "title": "WineBottler"
+        },
+        {
+          "children": [],
+          "description": "Click automation on Ubuntu.",
+          "title": "xDoTool",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-06T06:26:26Z",
+            "owner": "jordansissel",
+            "repo": "xdotool",
+            "stars": 3706
+          }
+        },
+        {
+          "children": [],
+          "description": "Desktop link checker for Windows.",
+          "title": "Xenu"
+        }
+      ],
+      "title": "Quality Assurance"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Web Archiving Community",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-31T09:35:24Z",
+            "owner": "ArchiveBox",
+            "repo": "ArchiveBox",
+            "stars": 26784
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome Memento",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-04T19:57:40Z",
+            "owner": "machawk1",
+            "repo": "awesome-memento",
+            "stars": 105
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "The WARC Ecosystem"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "The Web Crawl section of COPTR"
+        }
+      ],
+      "title": "Other Awesome Lists"
+    },
+    {
+      "description": "The intention is that we only list services that allow web archives to be exported in standard formats (WARC or WACZ). But this is not an endorsement of these services, and readers should check and evaluate these options based on their needs.",
+      "items": [],
+      "title": "Web Archiving Service Providers"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:37:19.299Z",
+    "original_repository": "iipc/awesome-web-archiving",
+    "source_repository": "v1nvn/enhansome-web-archiving",
+    "source_repository_description": null,
+    "title": "Awesome Web Archiving with stars"
+  }
+}

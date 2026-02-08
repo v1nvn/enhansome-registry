@@ -1,0 +1,734 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": ":hammer_and_wrench: Libraries and SDKs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A .NET library designed to make building bots for Slack fast, easy, and fun",
+          "title": "margiebot",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-23T00:17:24Z",
+            "owner": "jammerware",
+            "repo": "margiebot",
+            "stars": 123
+          }
+        },
+        {
+          "children": [],
+          "description": "A library to work with Slack webhooks more easily",
+          "title": "Slack.Webhooks",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-07T18:24:43Z",
+            "owner": "nerdfury",
+            "repo": "Slack.Webhooks",
+            "stars": 173
+          }
+        },
+        {
+          "children": [],
+          "description": "A third-party implementation of Slack's API written in C#",
+          "title": "SlackAPI",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-08-31T01:14:12Z",
+            "owner": "Inumedia",
+            "repo": "SlackAPI",
+            "stars": 453
+          }
+        }
+      ],
+      "title": "C#"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Slack's official Java framework for building Slack apps",
+          "title": "java-slack-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-04T03:00:41Z",
+            "owner": "slackapi",
+            "repo": "java-slack-sdk",
+            "stars": 598
+          }
+        },
+        {
+          "children": [],
+          "description": "A Slack client library in Java",
+          "title": "simple-slack-api",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-10-04T15:37:21Z",
+            "owner": "Ullink",
+            "repo": "simple-slack-api",
+            "stars": 473
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Slack's official JavaScript framework for building Slack apps",
+          "title": "bolt-js",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T21:03:58Z",
+            "owner": "slackapi",
+            "repo": "bolt-js",
+            "stars": 2889
+          }
+        },
+        {
+          "children": [],
+          "description": "Build JSON object for Slack Block Kit surfaces from JSX",
+          "title": "jsx-slack",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-02T04:06:32Z",
+            "owner": "yhatt",
+            "repo": "jsx-slack",
+            "stars": 494
+          }
+        },
+        {
+          "children": [],
+          "description": "Slack's official SDK for Node.js",
+          "title": "node-slack-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-05T22:09:49Z",
+            "owner": "slackapi",
+            "repo": "node-slack-sdk",
+            "stars": 3358
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI",
+          "title": "slack-block-builder",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-18T08:05:17Z",
+            "owner": "raycharius",
+            "repo": "slack-block-builder",
+            "stars": 618
+          }
+        }
+      ],
+      "title": "JavaScript/TypeScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "SlackBundle for Symfony2",
+          "title": "SlackBundle",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2022-07-04T17:22:30Z",
+            "owner": "DZunke",
+            "repo": "SlackBundle",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "Robust PHP framework for building Slack apps in PHP",
+          "title": "slack-php-app-framework",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-10-05T09:52:58Z",
+            "owner": "slack-php",
+            "repo": "slack-php-app-framework",
+            "stars": 49
+          }
+        },
+        {
+          "children": [],
+          "description": "Fluent interface for composing Slack Block Kit messages and modals in PHP",
+          "title": "slack-php-block-kit",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-27T22:34:35Z",
+            "owner": "jeremeamia",
+            "repo": "slack-block-kit",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "A Socket Mode implementation for",
+          "title": "slack-php-socket-mode",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-11-12T00:22:49Z",
+            "owner": "slack-php",
+            "repo": "slack-php-socket-mode",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Dependency-free micro-framework for building Slack apps in PHP",
+          "title": "slack-php-slick",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-06-11T20:10:43Z",
+            "owner": "slack-php",
+            "repo": "slack-php-slick",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A fast way to build Block Kit interfaces in Python",
+          "title": "blockkit",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-18T14:08:47Z",
+            "owner": "imryche",
+            "repo": "blockkit",
+            "stars": 101
+          }
+        },
+        {
+          "children": [],
+          "description": "Slack's official Python framework for building Slack apps",
+          "title": "bolt-python",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T17:02:24Z",
+            "owner": "slackapi",
+            "repo": "bolt-python",
+            "stars": 1277
+          }
+        },
+        {
+          "children": [],
+          "description": "Slack integration for Django, using the templating engine to generate messages",
+          "title": "django-slack",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-11T19:49:42Z",
+            "owner": "lamby",
+            "repo": "django-slack",
+            "stars": 245
+          }
+        },
+        {
+          "children": [],
+          "description": "Slack OAuth module for Django",
+          "title": "django-slack-oauth",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-19T08:18:44Z",
+            "owner": "izdi",
+            "repo": "django-slack-oauth",
+            "stars": 55
+          }
+        },
+        {
+          "children": [],
+          "description": "Slack Events API adapter for Python",
+          "title": "python-slack-events-api",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-14T18:26:01Z",
+            "owner": "slackapi",
+            "repo": "python-slack-events-api",
+            "stars": 342
+          }
+        },
+        {
+          "children": [],
+          "description": "Slack's official SDK for Python",
+          "title": "python-slack-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T04:22:10Z",
+            "owner": "slackapi",
+            "repo": "python-slack-sdk",
+            "stars": 3996
+          }
+        },
+        {
+          "children": [],
+          "description": "Python API for building Slack Block Kit messages",
+          "title": "slackblocks",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-03T14:24:34Z",
+            "owner": "nicklambourne",
+            "repo": "slackblocks",
+            "stars": 73
+          }
+        },
+        {
+          "children": [],
+          "description": "PHP Slack client based on the official OpenAPI specification",
+          "title": "slack-php-api",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-01T15:57:50Z",
+            "owner": "jolicode",
+            "repo": "slack-php-api",
+            "stars": 252
+          }
+        },
+        {
+          "children": [],
+          "description": "Messages to slack from the command line",
+          "title": "slacker-cli",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-13T13:12:16Z",
+            "owner": "juanpabloaj",
+            "repo": "slacker-cli",
+            "stars": 186
+          }
+        },
+        {
+          "children": [],
+          "description": "An easy way to create slash commands using AWS Lambda functions",
+          "title": "slashbot",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-31T18:37:22Z",
+            "owner": "ebrassell",
+            "repo": "slashbot",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Extensions to Slack's bolt framework: expandable GUIs, easier callbacks, richer CLIs",
+          "title": "boltworks",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-21T05:47:02Z",
+            "owner": "YSaxon",
+            "repo": "boltworks",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A simple wrapper for posting to Slack",
+          "title": "slack-notifier",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-04-24T07:03:26Z",
+            "owner": "stevenosloan",
+            "repo": "slack-notifier",
+            "stars": 1491
+          }
+        },
+        {
+          "children": [],
+          "description": "Send notifications to Slack",
+          "title": "slack-notify",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2020-12-23T22:35:44Z",
+            "owner": "sosedoff",
+            "repo": "slack-notify",
+            "stars": 94
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple gem to post messages on Slack using webhooks",
+          "title": "slack-poster",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2021-06-21T09:22:12Z",
+            "owner": "rikas",
+            "repo": "slack-poster",
+            "stars": 51
+          }
+        },
+        {
+          "children": [],
+          "description": "A ruby wrapper for Slack's Block Kit",
+          "title": "slack-ruby-block-kit",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-02-24T10:31:36Z",
+            "owner": "CGA1123",
+            "repo": "slack-ruby-block-kit",
+            "stars": 75
+          }
+        },
+        {
+          "children": [],
+          "description": "The easiest way to write a Slack bot in Ruby",
+          "title": "slack-ruby-bot",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-09-22T11:52:44Z",
+            "owner": "dblock",
+            "repo": "slack-ruby-bot",
+            "stars": 49
+          }
+        },
+        {
+          "children": [],
+          "description": "Ruby library for building Slack applications",
+          "title": "slack-ruby-bot-server",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-12-30T18:37:06Z",
+            "owner": "slack-ruby",
+            "repo": "slack-ruby-bot-server",
+            "stars": 270
+          }
+        },
+        {
+          "children": [],
+          "description": "A Ruby client for the Slack Web and RealTime Messaging APIs",
+          "title": "slack-ruby-client",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-12-30T18:24:33Z",
+            "owner": "dblock",
+            "repo": "slack-ruby-client",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":gear: Open-Source Slack Apps and Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A Slack client library in Java",
+          "title": "simple-slack-api",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-10-04T15:37:21Z",
+            "owner": "Ullink",
+            "repo": "simple-slack-api",
+            "stars": 473
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple task management app produced by Slack",
+          "title": "tasks-app",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-09-20T20:18:31Z",
+            "owner": "slackapi",
+            "repo": "tasks-app",
+            "stars": 102
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "App for storing and accessing company-specific phrases",
+          "title": "definition-app",
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-07-18T20:15:39Z",
+            "owner": "slackapi",
+            "repo": "definition-app",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "Send data into Slack using this GitHub Action",
+          "title": "slack-github-action",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-04T18:24:10Z",
+            "owner": "slackapi",
+            "repo": "slack-github-action",
+            "stars": 1278
+          }
+        },
+        {
+          "children": [],
+          "description": "App that allows team members to report offensive messages",
+          "title": "slack-reporting-tool",
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-07-12T01:10:12Z",
+            "owner": "slackapi",
+            "repo": "slack-reporting-tool",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Track your Tesla from Slack",
+          "title": "tesla-slack",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-01-05T15:18:57Z",
+            "owner": "heikkipora",
+            "repo": "tesla-slack",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple task management app produced by Slack",
+          "title": "tasks-app",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-09-20T20:18:31Z",
+            "owner": "slackapi",
+            "repo": "tasks-app",
+            "stars": 102
+          }
+        }
+      ],
+      "title": "JavaScript/Typescript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "MantisBT plugin to send bug updates to Slack",
+          "title": "MantisBT-Slack",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-06-10T23:54:07Z",
+            "owner": "infojunkie",
+            "repo": "MantisBT-Slack",
+            "stars": 48
+          }
+        },
+        {
+          "children": [],
+          "description": "Sends your logs to Slack",
+          "title": "monolog",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-01T13:14:31Z",
+            "owner": "Seldaek",
+            "repo": "monolog",
+            "stars": 21386
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A chat bot for Slack",
+          "title": "slackbot",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-14T14:41:57Z",
+            "owner": "lins05",
+            "repo": "slackbot",
+            "stars": 1282
+          }
+        },
+        {
+          "children": [],
+          "description": "Messages to slack from the command line",
+          "title": "slacker-cli",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-13T13:12:16Z",
+            "owner": "juanpabloaj",
+            "repo": "slacker-cli",
+            "stars": 186
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple task management app produced by Slack",
+          "title": "tasks-app",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-09-20T20:18:31Z",
+            "owner": "slackapi",
+            "repo": "tasks-app",
+            "stars": 102
+          }
+        },
+        {
+          "children": [],
+          "description": "A WeeChat plugin for Slack",
+          "title": "wee-slack",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-07T19:51:20Z",
+            "owner": "rawdigits",
+            "repo": "wee-slack",
+            "stars": 2593
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A game bot for Slack",
+          "title": "slack-gamebot",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-10-10T20:05:36Z",
+            "owner": "dblock",
+            "repo": "slack-gamebot",
+            "stars": 130
+          }
+        },
+        {
+          "children": [],
+          "description": "Sinatra-based Markov bot for Slack",
+          "title": "snarkov",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-03-16T05:38:25Z",
+            "owner": "gesteves",
+            "repo": "snarkov",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple team time tracking reminder",
+          "title": "tickbot",
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2023-03-16T05:38:48Z",
+            "owner": "barryf",
+            "repo": "tickbot",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "A Jeopardy! bot for Slack",
+          "title": "trebekbot",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-12-18T14:37:44Z",
+            "owner": "gesteves",
+            "repo": "trebekbot",
+            "stars": 160
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "Contributions are always welcome! Please read the contribution guidelines first.",
+      "items": [],
+      "title": ":busts_in_silhouette: Contributions"
+    },
+    {
+      "description": "To the extent possible under law, Matias Singers has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": ":classical_building: License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:34:50.572Z",
+    "original_repository": "matiassingers/awesome-slack",
+    "source_repository": "v1nvn/enhansome-slack",
+    "source_repository_description": null,
+    "title": "Untitled"
+  }
+}

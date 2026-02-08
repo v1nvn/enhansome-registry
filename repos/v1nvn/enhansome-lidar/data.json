@@ -1,0 +1,2265 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2023-06-11T23:19:29Z",
+                "owner": "Ford",
+                "repo": "AVData",
+                "stars": 309
+              }
+            }
+          ],
+          "description": "The dataset is time-stamped and contains raw data from all the sensors, calibration values, pose trajectory, ground truth pose, and 3D maps. The data is Robot Operating System (ROS) compatible.",
+          "title": "Ford Dataset",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-06-11T23:19:29Z",
+            "owner": "Ford",
+            "repo": "AVData",
+            "stars": 309
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            }
+          ],
+          "description": "The dataset features 2D semantic segmentation, 3D point clouds, 3D bounding boxes, and vehicle bus data.",
+          "title": "Audi A2D2 Dataset"
+        },
+        {
+          "children": [],
+          "description": "The dataset contains independently-generated labels for lidar and camera data, not simply projections.",
+          "title": "Waymo Open Dataset"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube channel"
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            }
+          ],
+          "description": "The Oxford RobotCar Dataset contains over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year.",
+          "title": "Oxford RobotCar"
+        },
+        {
+          "children": [],
+          "description": "This dataset was collected with our robocar (in human driving mode of course), equipped up to eleven heterogeneous sensors, in the downtown (for long-term data) and a suburb (for roundabout data) of Montbéliard in France. The vehicle speed was limited to 50 km/h following the French traffic rules.",
+          "title": "EU Long-term Dataset"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            }
+          ],
+          "description": "Public large-scale dataset for autonomous driving.",
+          "title": "NuScenes"
+        },
+        {
+          "children": [],
+          "description": "Public dataset collected by a fleet of Ford Fusion vehicles equipped with LIDAR and camera.",
+          "title": "Lyft"
+        },
+        {
+          "children": [],
+          "description": "Widespread public dataset, pirmarily focusing on computer vision applications, but also contains LIDAR point cloud.",
+          "title": "KITTI"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Dataset for semantic and panoptic scene segmentation.",
+          "title": "Semantic KITTI"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            }
+          ],
+          "description": "Public large-scale dataset for autonomous driving in adverse weather conditions (snowy weather).",
+          "title": "CADC - Canadian Adverse Driving Conditions Dataset"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            }
+          ],
+          "description": "University of Toronto, aUToronto's self-driving car dataset, which contains GPS/IMU, 3D LIDAR, and Monocular camera data. It can be used for 3D pedestrian detection.",
+          "title": "UofTPed50 Dataset"
+        },
+        {
+          "children": [],
+          "description": "Public large-scale dataset for autonomous driving provided by Hesai & Scale. It enables researchers to study challenging urban driving situations using the full sensor suit of a real self-driving-car.",
+          "title": "PandaSet Open Dataset"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            }
+          ],
+          "description": "A public datatset from non-uniform distribution of LIDAR scanning patterns with emphasis on long range. In this dataset Luminar Hydra LIDAR is used. The dataset is available at the Volvo Cars Innovation Portal.",
+          "title": "Cirrus dataset"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            }
+          ],
+          "description": "Long-term, large-scale dataset collected over the period of 1.5 years on a weekly basis over the University of Sydney campus and surrounds. It includes multiple sensor modalities and covers various environmental conditions. ROS compatible",
+          "title": "USyd Dataset- The Univerisity of Sydney Campus- Dataset"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Navigation and localisation dataset for self driving cars and autonomous robots in Brno, Czechia.",
+          "title": "Brno Urban Dataset",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-11-15T09:56:22Z",
+            "owner": "Robotics-BUT",
+            "repo": "Brno-Urban-Dataset",
+            "stars": 163
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "A dataset designed to support autonomous vehicle perception tasks including 3D tracking and motion forecasting collected in Pittsburgh, Pennsylvania and Miami, Florida, USA.",
+          "title": "Argoverse"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper 📰"
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-12-05T21:05:17Z",
+                "owner": "utiasASRL",
+                "repo": "pyboreas",
+                "stars": 113
+              }
+            }
+          ],
+          "description": "The Boreas dataset was collected by driving a repeated route over the course of 1 year resulting in stark seasonal variations. In total, Boreas contains over 350km of driving data including several sequences with adverse weather conditions such as rain and heavy snow. The Boreas data-taking platform features a unique high-quality sensor suite with a 128-channel Velodyne Alpha Prime lidar, a 360-degree Navtech radar, and accurate ground truth poses obtained from an Applanix POSLV GPS/IMU.",
+          "title": "Boreas Dataset",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-05T21:05:17Z",
+            "owner": "utiasASRL",
+            "repo": "pyboreas",
+            "stars": 113
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-02-05T19:48:54Z",
+                "owner": "PointCloudLibrary",
+                "repo": "pcl",
+                "stars": 10860
+              }
+            }
+          ],
+          "description": "Popular highly parallel programming library, with numerous industrial and research use-cases.",
+          "title": "Point Cloud Library (PCL)",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-05T19:48:54Z",
+            "owner": "PointCloudLibrary",
+            "repo": "pcl",
+            "stars": 10860
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-01-28T23:27:20Z",
+                "owner": "intel-isl",
+                "repo": "Open3D",
+                "stars": 13302
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube channel"
+            }
+          ],
+          "description": "Open3D library contanins 3D data processing and visualization algorithms. It is open-source and supports both C++ and Python.",
+          "title": "Open3D library",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-28T23:27:20Z",
+            "owner": "intel-isl",
+            "repo": "Open3D",
+            "stars": 13302
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-07T09:09:48Z",
+                "owner": "rusty1s",
+                "repo": "pytorch_geometric",
+                "stars": 23458
+              }
+            }
+          ],
+          "description": "A geometric deep learning extension library for PyTorch.",
+          "title": "PyTorch Geometric",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T09:09:48Z",
+            "owner": "rusty1s",
+            "repo": "pytorch_geometric",
+            "stars": 23458
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-14T17:00:16Z",
+                "owner": "facebookresearch",
+                "repo": "pytorch3d",
+                "stars": 9787
+              }
+            }
+          ],
+          "description": "PyTorch3d is a library for deep learning with 3D data written and maintained by the Facebook AI Research Computer Vision Team.",
+          "title": "PyTorch3d",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-14T17:00:16Z",
+            "owner": "facebookresearch",
+            "repo": "pytorch3d",
+            "stars": 9787
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-22T00:06:07Z",
+                "owner": "NVIDIAGameWorks",
+                "repo": "kaolin",
+                "stars": 5035
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            }
+          ],
+          "description": "Kaolin is a PyTorch Library for Accelerating 3D Deep Learning Research written by NVIDIA Technologies for game and application developers.",
+          "title": "Kaolin",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-22T00:06:07Z",
+            "owner": "NVIDIAGameWorks",
+            "repo": "kaolin",
+            "stars": 5035
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-08T04:29:28Z",
+                "owner": "pyvista",
+                "repo": "pyvista",
+                "stars": 3507
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            }
+          ],
+          "description": "3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit.",
+          "title": "PyVista",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T04:29:28Z",
+            "owner": "pyvista",
+            "repo": "pyvista",
+            "stars": 3507
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-28T14:28:34Z",
+                "owner": "daavoo",
+                "repo": "pyntcloud",
+                "stars": 1496
+              }
+            }
+          ],
+          "description": "Pyntcloud is a Python 3 library for working with 3D point clouds leveraging the power of the Python scientific stack.",
+          "title": "pyntcloud",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-28T14:28:34Z",
+            "owner": "daavoo",
+            "repo": "pyntcloud",
+            "stars": 1496
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-05-22T08:43:24Z",
+                "owner": "virtual-vehicle",
+                "repo": "pointcloudset",
+                "stars": 51
+              }
+            }
+          ],
+          "description": "Python library for efficient analysis of large datasets of point clouds recorded over time.",
+          "title": "pointcloudset",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-22T08:43:24Z",
+            "owner": "virtual-vehicle",
+            "repo": "pointcloudset",
+            "stars": 51
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-01-26T10:00:42Z",
+                "owner": "LAStools",
+                "repo": "LAStools",
+                "stars": 1034
+              }
+            }
+          ],
+          "description": "C++ library and command-line tools for pointcloud processing and data compressing.",
+          "title": "LAStools",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-26T10:00:42Z",
+            "owner": "LAStools",
+            "repo": "LAStools",
+            "stars": 1034
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub oragnization"
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            }
+          ],
+          "description": "Popular framework in academic and research applications of autonomous vehicles.",
+          "title": "Autoware"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-02-02T03:32:21Z",
+                "owner": "ApolloAuto",
+                "repo": "apollo",
+                "stars": 26426
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube channel"
+            }
+          ],
+          "description": "Apollo is a popular framework which accelerates the development, testing, and deployment of Autonomous Vehicles.",
+          "title": "Baidu Apollo",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-02T03:32:21Z",
+            "owner": "ApolloAuto",
+            "repo": "apollo",
+            "stars": 26426
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Verilog",
+                "last_commit": "2025-06-16T12:59:32Z",
+                "owner": "alfa-project",
+                "repo": "alfa-framework",
+                "stars": 18
+              }
+            }
+          ],
+          "description": "An open-source framework for developing processing algorithms, with a focus on embedded platforms and hardware acceleration.",
+          "title": "ALFA Framework",
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2025-06-16T12:59:32Z",
+            "owner": "alfa-project",
+            "repo": "alfa-framework",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Algorithms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "simpleICP C++ /Julia / Matlab / Octave / Python implementation.",
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-01-11T17:39:36Z",
+                "owner": "pglira",
+                "repo": "simpleICP",
+                "stars": 343
+              }
+            },
+            {
+              "children": [],
+              "description": "libpointmatcher, a modular library implementing the ICP algorithm.",
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-10-29T18:18:13Z",
+                "owner": "ethz-asl",
+                "repo": "libpointmatcher",
+                "stars": 1783
+              }
+            },
+            {
+              "children": [],
+              "description": "libpointmatcher: Comparing ICP variants on real-world data sets.",
+              "title": "Paper"
+            }
+          ],
+          "description": "The must-have algorithm for feature matching applications (ICP).",
+          "title": "Iterative closest point (ICP)",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-11T17:39:36Z",
+            "owner": "pglira",
+            "repo": "simpleICP",
+            "stars": 343
+          }
+        },
+        {
+          "children": [],
+          "description": "More recent massively-parallel approach to feature matching (NDT).",
+          "title": "Normal distributions transform"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-01-05T13:50:07Z",
+                "owner": "PRBonn",
+                "repo": "kiss-icp",
+                "stars": 2062
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            }
+          ],
+          "description": "In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done the Right Way.",
+          "title": "KISS-ICP",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-05T13:50:07Z",
+            "owner": "PRBonn",
+            "repo": "kiss-icp",
+            "stars": 2062
+          }
+        }
+      ],
+      "title": "Basic matching algorithms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2022-07-11T09:33:33Z",
+                "owner": "PRBonn",
+                "repo": "rangenet_lib",
+                "stars": 348
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Fast and Accurate LiDAR Sematnic Segmentation with fully convolutional network.",
+          "title": "RangeNet++",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-07-11T09:33:33Z",
+            "owner": "PRBonn",
+            "repo": "rangenet_lib",
+            "stars": 348
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-05-19T17:08:17Z",
+                "owner": "edwardzhou130",
+                "repo": "PolarSeg",
+                "stars": 414
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation.",
+          "title": "PolarNet",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-19T17:08:17Z",
+            "owner": "edwardzhou130",
+            "repo": "PolarSeg",
+            "stars": 414
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-03-24T20:42:38Z",
+                "owner": "charlesq34",
+                "repo": "frustum-pointnets",
+                "stars": 1659
+              }
+            }
+          ],
+          "description": "Frustum PointNets for 3D Object Detection from RGB-D Data.",
+          "title": "Frustum PointNets",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-24T20:42:38Z",
+            "owner": "charlesq34",
+            "repo": "frustum-pointnets",
+            "stars": 1659
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository"
+            }
+          ],
+          "description": "Scan-based Semantic Segmentation of LiDAR Point Clouds: An Experimental Study IV 2020.",
+          "title": "Study of LIDAR Semantic Segmentation"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-12-21T12:52:58Z",
+                "owner": "PRBonn",
+                "repo": "LiDAR-MOS",
+                "stars": 672
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Moving Object Segmentation in 3D LIDAR Data",
+          "title": "LIDAR-MOS",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-21T12:52:58Z",
+            "owner": "PRBonn",
+            "repo": "LiDAR-MOS",
+            "stars": 672
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-07-19T20:50:48Z",
+                "owner": "loicland",
+                "repo": "superpoint_graph",
+                "stars": 797
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs",
+          "title": "SuperPoint Graph",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-19T20:50:48Z",
+            "owner": "loicland",
+            "repo": "superpoint_graph",
+            "stars": 797
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-05T08:38:35Z",
+                "owner": "drprojects",
+                "repo": "superpoint_transformer",
+                "stars": 945
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Efficient 3D Semantic Segmentation with Superpoint Transformer",
+          "title": "SuperPoint Transformer",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T08:38:35Z",
+            "owner": "drprojects",
+            "repo": "superpoint_transformer",
+            "stars": 945
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-07-11T22:42:23Z",
+                "owner": "QingyongHu",
+                "repo": "RandLA-Net",
+                "stars": 1510
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Efficient Semantic Segmentation of Large-Scale Point Clouds",
+          "title": "RandLA-Net",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-11T22:42:23Z",
+            "owner": "QingyongHu",
+            "repo": "RandLA-Net",
+            "stars": 1510
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-02-15T10:06:42Z",
+                "owner": "Amsterdam-AI-Team",
+                "repo": "Urban_PointCloud_Processing",
+                "stars": 189
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Automatic labelling of urban point clouds using data fusion",
+          "title": "Automatic labelling",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-15T10:06:42Z",
+            "owner": "Amsterdam-AI-Team",
+            "repo": "Urban_PointCloud_Processing",
+            "stars": 189
+          }
+        }
+      ],
+      "title": "Semantic segmentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.",
+          "title": "Plane Seg",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-12-08T18:10:50Z",
+            "owner": "ori-drs",
+            "repo": "plane_seg",
+            "stars": 181
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2024-07-26T16:25:41Z",
+                "owner": "lorenwel",
+                "repo": "linefit_ground_segmentation",
+                "stars": 785
+              }
+            }
+          ],
+          "description": "Line fitting-based fast ground segmentation for horizontal 3D LiDAR data",
+          "title": "LineFit Graph",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-26T16:25:41Z",
+            "owner": "lorenwel",
+            "repo": "linefit_ground_segmentation",
+            "stars": 785
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-08-11T20:59:52Z",
+                "owner": "LimHyungTae",
+                "repo": "patchwork",
+                "stars": 575
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Region-wise plane fitting-based robust and fast ground segmentation for 3D LiDAR data",
+          "title": "Patchwork",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-11T20:59:52Z",
+            "owner": "LimHyungTae",
+            "repo": "patchwork",
+            "stars": 575
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2024-05-30T17:00:48Z",
+                "owner": "url-kaist",
+                "repo": "patchwork-plusplus-ros",
+                "stars": 417
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Improved version of Patchwork. Patchwork++ provides pybinding as well for deep learning users",
+          "title": "Patchwork++",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-30T17:00:48Z",
+            "owner": "url-kaist",
+            "repo": "patchwork-plusplus-ros",
+            "stars": 417
+          }
+        }
+      ],
+      "title": "Ground segmentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "LOAM: Lidar Odometry and Mapping in Real-time.",
+          "title": "LOAM J. Zhang and S. Singh"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            },
+            {
+              "children": [],
+              "description": "ROS 2 verison on different repo:",
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2024-04-11T06:37:37Z",
+                "owner": "eperdices",
+                "repo": "LeGO-LOAM-SR",
+                "stars": 61
+              }
+            }
+          ],
+          "description": "A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs.",
+          "title": "LeGO-LOAM",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-17T07:20:25Z",
+            "owner": "RobustFieldAutonomyLab",
+            "repo": "LeGO-LOAM",
+            "stars": 2689
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.",
+          "title": "Cartographer",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-05T19:21:01Z",
+            "owner": "cartographer-project",
+            "repo": "cartographer",
+            "stars": 7776
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2024-03-12T16:31:46Z",
+                "owner": "PRBonn",
+                "repo": "semantic_suma",
+                "stars": 995
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "LiDAR-based Semantic SLAM.",
+          "title": "SuMa++",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-12T16:31:46Z",
+            "owner": "PRBonn",
+            "repo": "semantic_suma",
+            "stars": 995
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-03-24T22:59:34Z",
+                "owner": "PRBonn",
+                "repo": "OverlapNet",
+                "stars": 717
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Loop Closing for LiDAR-based SLAM.",
+          "title": "OverlapNet",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T22:59:34Z",
+            "owner": "PRBonn",
+            "repo": "OverlapNet",
+            "stars": 717
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-02-14T10:05:51Z",
+                "owner": "TixiaoShan",
+                "repo": "LIO-SAM",
+                "stars": 4523
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.",
+          "title": "LIO-SAM",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-14T10:05:51Z",
+            "owner": "TixiaoShan",
+            "repo": "LIO-SAM",
+            "stars": 4523
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2022-01-19T23:55:30Z",
+                "owner": "irapkaist",
+                "repo": "removert",
+                "stars": 622
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Remove, then Revert: Static Point cloud Map Construction using Multiresolution Range Images.",
+          "title": "Removert",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-01-19T23:55:30Z",
+            "owner": "irapkaist",
+            "repo": "removert",
+            "stars": 622
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-01-09T13:50:52Z",
+                "owner": "ASIG-X",
+                "repo": "RESPLE",
+                "stars": 208
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Recursive Spline Estimation for LiDAR-Based Odometry",
+          "title": "RESPLE",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-09T13:50:52Z",
+            "owner": "ASIG-X",
+            "repo": "RESPLE",
+            "stars": 208
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-12-05T13:04:41Z",
+                "owner": "PRBonn",
+                "repo": "kiss-slam",
+                "stars": 485
+              }
+            }
+          ],
+          "description": "KISS-SLAM is a simple, robust, and accurate 3D LiDAR SLAM system that just works.",
+          "title": "KISS-SLAM",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-05T13:04:41Z",
+            "owner": "PRBonn",
+            "repo": "kiss-slam",
+            "stars": 485
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-01-15T10:23:34Z",
+                "owner": "hku-mars",
+                "repo": "FAST_LIO",
+                "stars": 4294
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Fast LiDAR-Inertial Odometry is a computationally efficient and robust LiDAR-inertial odometry package",
+          "title": "FAST-LIO2",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-15T10:23:34Z",
+            "owner": "hku-mars",
+            "repo": "FAST_LIO",
+            "stars": 4294
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-02-01T19:18:58Z",
+                "owner": "MOLAorg",
+                "repo": "mola",
+                "stars": 861
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Modular system for Localization and Mapping, providing LiDAR Odometry (LO), LiDAR-inertial Odometry (LIO), SLAM, localization-only modes, and geo-referencing.",
+          "title": "MOLA",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-01T19:18:58Z",
+            "owner": "MOLAorg",
+            "repo": "mola",
+            "stars": 861
+          }
+        }
+      ],
+      "title": "Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-04-09T12:21:08Z",
+                "owner": "peiyunh",
+                "repo": "opcseg",
+                "stars": 25
+              }
+            }
+          ],
+          "description": "By Peiyun Hu, David Held, and Deva Ramanan at Carnegie Mellon University. IEEE Robotics and Automation Letters, 2020.",
+          "title": "Learning to Optimally Segment Point Clouds",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-09T12:21:08Z",
+            "owner": "peiyunh",
+            "repo": "opcseg",
+            "stars": 25
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "By Di Feng, Lars Rosenbaum, Fabian Timm, Klaus Dietmayer. 30th IEEE Intelligent Vehicles Symposium, 2019.",
+          "title": "Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-10-23T20:57:46Z",
+                "owner": "peiyunh",
+                "repo": "WYSIWYG",
+                "stars": 118
+              }
+            }
+          ],
+          "description": "By Peiyun Hu, Jason Ziglar, David Held, Deva Ramanan, 2019.",
+          "title": "What You See is What You Get: Exploiting Visibility for 3D Object Detection",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-23T20:57:46Z",
+            "owner": "peiyunh",
+            "repo": "WYSIWYG",
+            "stars": 118
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-07-08T10:53:53Z",
+                "owner": "jkk-research",
+                "repo": "urban_road_filter",
+                "stars": 347
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles",
+          "title": "urban_road_filter",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-08T10:53:53Z",
+            "owner": "jkk-research",
+            "repo": "urban_road_filter",
+            "stars": 347
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub"
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "3D-LIDAR Multi Object Tracking for Autonomous Driving: Multi-target Detection and Tracking under Urban Road Uncertainties, also used in Autoware Universe",
+          "title": "detection_by_tracker"
+        }
+      ],
+      "title": "Object detection and object tracking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-01-02T11:17:25Z",
+                "owner": "koide3",
+                "repo": "direct_visual_lidar_calibration",
+                "stars": 1328
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            }
+          ],
+          "description": "General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox",
+          "title": "direct_visual_lidar_calibration",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-02T11:17:25Z",
+            "owner": "koide3",
+            "repo": "direct_visual_lidar_calibration",
+            "stars": 1328
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            }
+          ],
+          "description": "A Multi-sensor Calibration Toolbox for Autonomous Driving",
+          "title": "OpenCalib",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-17T09:06:58Z",
+            "owner": "PJLab-ADG",
+            "repo": "SensorsCalibration",
+            "stars": 3017
+          }
+        }
+      ],
+      "title": "LIDAR-other-sensor calibration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube channel"
+            }
+          ],
+          "description": "Cross-platform general-purpose robotic simulator (formerly known as V-REP).",
+          "title": "CoppeliaSim"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": true,
+                "language": "C++",
+                "last_commit": "2024-12-03T13:17:30Z",
+                "owner": "osrf",
+                "repo": "gazebo",
+                "stars": 1326
+              }
+            }
+          ],
+          "description": "OGRE-based general-purpose robotic simulator, ROS/ROS 2 compatible.",
+          "title": "OSRF Gazebo",
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-12-03T13:17:30Z",
+            "owner": "osrf",
+            "repo": "gazebo",
+            "stars": 1326
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-02-07T13:27:56Z",
+                "owner": "carla-simulator",
+                "repo": "carla",
+                "stars": 13564
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube channel"
+            }
+          ],
+          "description": "Unreal Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.",
+          "title": "CARLA",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-07T13:27:56Z",
+            "owner": "carla-simulator",
+            "repo": "carla",
+            "stars": 13564
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2023-04-04T21:17:55Z",
+                "owner": "lgsvl",
+                "repo": "simulator",
+                "stars": 2416
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube channel"
+            }
+          ],
+          "description": "Unity Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.  LG has made the difficult decision to  active development of SVL Simulator.",
+          "title": "LGSVL / SVL",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-04-04T21:17:55Z",
+            "owner": "lgsvl",
+            "repo": "simulator",
+            "stars": 2416
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2023-04-10T22:06:10Z",
+                "owner": "OSSDC",
+                "repo": "OSSDC-SIM",
+                "stars": 87
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Unity Engine based simulator for automotive applications, based on the suspended LGSVL simulator, but an active development. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.",
+          "title": "OSSDC SIM",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-04-10T22:06:10Z",
+            "owner": "OSSDC",
+            "repo": "OSSDC-SIM",
+            "stars": 87
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-05-15T20:28:58Z",
+                "owner": "microsoft",
+                "repo": "AirSim",
+                "stars": 17935
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Unreal Engine based simulator for drones and automotive. Compatible with ROS.",
+          "title": "AirSim",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-15T20:28:58Z",
+            "owner": "microsoft",
+            "repo": "AirSim",
+            "stars": 17935
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2025-12-06T15:47:43Z",
+                "owner": "tier4",
+                "repo": "AWSIM",
+                "stars": 672
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "Unity Engine based simulator for automotive applications. Compatible with Autoware and ROS 2.",
+          "title": "AWSIM",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-06T15:47:43Z",
+            "owner": "tier4",
+            "repo": "AWSIM",
+            "stars": 672
+          }
+        }
+      ],
+      "title": "Simulators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome point cloud analysis",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-19T04:34:48Z",
+            "owner": "Yochengliu",
+            "repo": "awesome-point-cloud-analysis",
+            "stars": 4202
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome robotics",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-22T20:24:10Z",
+            "owner": "Kiloreux",
+            "repo": "awesome-robotics",
+            "stars": 6035
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome robotics libraries",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T00:21:19Z",
+            "owner": "jslee02",
+            "repo": "awesome-robotics-libraries",
+            "stars": 2788
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome ROS 2",
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2023-08-18T07:40:50Z",
+            "owner": "fkromer",
+            "repo": "awesome-ros2",
+            "stars": 2020
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome artificial intelligence",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-12T11:48:08Z",
+            "owner": "owainlewis",
+            "repo": "awesome-artificial-intelligence",
+            "stars": 12936
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome computer vision",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-17T14:24:27Z",
+            "owner": "jbhuang0604",
+            "repo": "awesome-computer-vision",
+            "stars": 23044
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome machine learning",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-29T18:16:50Z",
+            "owner": "josephmisiti",
+            "repo": "awesome-machine-learning",
+            "stars": 71613
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome deep learning",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-26T12:28:00Z",
+            "owner": "ChristosChristofidis",
+            "repo": "awesome-deep-learning",
+            "stars": 27494
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome reinforcement learning",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-25T22:25:44Z",
+            "owner": "aikorea",
+            "repo": "awesome-rl",
+            "stars": 9569
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome SLAM datasets",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-13T04:29:23Z",
+            "owner": "youngguncho",
+            "repo": "awesome-slam-datasets",
+            "stars": 1907
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome electronics",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-05T18:43:02Z",
+            "owner": "kitspace",
+            "repo": "awesome-electronics",
+            "stars": 7350
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome vehicle security and car hacking",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-30T18:08:17Z",
+            "owner": "jaredthecoder",
+            "repo": "awesome-vehicle-security",
+            "stars": 4107
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome LIDAR-Camera calibration",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-20T01:42:49Z",
+            "owner": "Deephome",
+            "repo": "Awesome-LiDAR-Camera-Calibration",
+            "stars": 1206
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome LiDAR Place Recognition",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-02T00:29:04Z",
+            "owner": "hogyun2",
+            "repo": "awesome-lidar-place-recognition",
+            "stars": 203
+          }
+        },
+        {
+          "children": [],
+          "description": "Moving Object Segmentation",
+          "title": "Awesome-LiDAR-MOS",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-06T12:45:39Z",
+            "owner": "neng-wang",
+            "repo": "Awesome-LiDAR-MOS",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome-LiDAR-Visual-SLAM",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-14T06:45:08Z",
+            "owner": "sjtuyinjie",
+            "repo": "awesome-LiDAR-Visual-SLAM",
+            "stars": 276
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome LIDAR",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-22T09:45:57Z",
+            "owner": "szenergy",
+            "repo": "awesome-lidar",
+            "stars": 1217
+          }
+        }
+      ],
+      "title": "Related awesome"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on .",
+          "title": "ARHeadsetKit",
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2023-07-01T23:45:13Z",
+            "owner": "philipturner",
+            "repo": "ARHeadsetKit",
+            "stars": 129
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.",
+          "title": "Pointcloudprinter",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-17T00:58:10Z",
+            "owner": "marian42",
+            "repo": "pointcloudprinter",
+            "stars": 163
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository"
+            }
+          ],
+          "description": "CloudCompare is a free, cross-platform point cloud editor software.",
+          "title": "CloudCompare"
+        },
+        {
+          "children": [],
+          "description": "Point cloud importer/renderer for Unity.",
+          "title": "Pcx",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-08-23T11:11:53Z",
+            "owner": "keijiro",
+            "repo": "Pcx",
+            "stars": 1485
+          }
+        },
+        {
+          "children": [],
+          "description": "Point cloud importer/renderer/editor for Blender, Point Cloud visualizer.",
+          "title": "Bpy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-04T22:23:57Z",
+            "owner": "uhlik",
+            "repo": "bpy",
+            "stars": 1066
+          }
+        },
+        {
+          "children": [],
+          "description": "Point cloud and image semantic segmentation editor by Hitachi Automotive And Industry Laboratory, point cloud annotator / labeling.",
+          "title": "Semantic Segmentation Editor",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-18T15:04:01Z",
+            "owner": "Hitachi-Automotive-And-Industry-Lab",
+            "repo": "semantic-segmentation-editor",
+            "stars": 1942
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "Paper"
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube video"
+            }
+          ],
+          "description": "3D BAT: A Semi-Automatic, Web-based 3D Annotation Toolbox for Full-Surround, Multi-Modal Data Streams, point cloud annotator / labeling.",
+          "title": "3D Bounding Box Annotation Tool",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-07T21:28:53Z",
+            "owner": "walzimmer",
+            "repo": "3d-bat",
+            "stars": 796
+          }
+        },
+        {
+          "children": [],
+          "description": "Blender addon to import reconstruction results of several libraries.",
+          "title": "Photogrammetry importer",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-08T10:10:51Z",
+            "owner": "SBCV",
+            "repo": "Blender-Addon-Photogrammetry-Importer",
+            "stars": 1251
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": true,
+                "language": null,
+                "last_commit": "2024-07-18T21:29:12Z",
+                "owner": "foxglove",
+                "repo": "studio",
+                "stars": 66
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube channel"
+            }
+          ],
+          "description": "Foxglove Studio is an integrated visualization and diagnosis tool for robotics, available in your browser or for download as a desktop app on Linux, Windows, and macOS.",
+          "title": "Foxglove",
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-07-18T21:29:12Z",
+            "owner": "foxglove",
+            "repo": "studio",
+            "stars": 66
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-02-06T15:23:49Z",
+                "owner": "lichtblick-suite",
+                "repo": "lichtblick",
+                "stars": 722
+              }
+            }
+          ],
+          "description": "Lichtblick is an open-source alternative to Foxglove Studio for visualizing and analyzing robotics data.",
+          "title": "Lichtblick suite",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T15:23:49Z",
+            "owner": "lichtblick-suite",
+            "repo": "lichtblick",
+            "stars": 722
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-02-07T12:53:07Z",
+                "owner": "rerun-io",
+                "repo": "rerun",
+                "stars": 10159
+              }
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "YouTube channel"
+            }
+          ],
+          "description": "Rerun is a tool for time-aware multimodal data stack and visualizations.",
+          "title": "Rerun",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-07T12:53:07Z",
+            "owner": "rerun-io",
+            "repo": "rerun",
+            "stars": 10159
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-02-03T12:05:04Z",
+                "owner": "cnr-isti-vclab",
+                "repo": "meshlab",
+                "stars": 5555
+              }
+            }
+          ],
+          "description": "MeshLab is an open source, portable, and extensible system for the processing and editing 3D triangular meshes and pointcloud.",
+          "title": "MeshLab",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-03T12:05:04Z",
+            "owner": "cnr-isti-vclab",
+            "repo": "meshlab",
+            "stars": 5555
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "GitHub repository",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2024-10-20T19:56:35Z",
+                "owner": "Geekgineer",
+                "repo": "CloudPeek",
+                "stars": 126
+              }
+            }
+          ],
+          "description": "is a lightweight, c++ single-header, cross-platform point cloud viewer, designed for simplicity and efficiency without relying on heavy external libraries like PCL or Open3D.",
+          "title": "CloudPeek",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-10-20T19:56:35Z",
+            "owner": "Geekgineer",
+            "repo": "CloudPeek",
+            "stars": 126
+          }
+        },
+        {
+          "children": [],
+          "description": "Slambotics -  Choosing the Right SLAM Algorithm",
+          "title": "Which SLAM Algorithm Should I Choose?"
+        }
+      ],
+      "title": "Others"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:35:00.982Z",
+    "original_repository": "szenergy/awesome-lidar",
+    "source_repository": "v1nvn/enhansome-lidar",
+    "source_repository_description": null,
+    "title": "Awesome LIDAR with stars"
+  }
+}

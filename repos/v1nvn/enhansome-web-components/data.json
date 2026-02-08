@@ -1,0 +1,2437 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Standards"
+    },
+    {
+      "description": "Custom Elements provide a way for authors to build their own fully-featured DOM elements.",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "A Guide to Custom Elements for React Developers"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "All about HTML Custom Elements",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-03-04T12:39:59Z",
+            "owner": "shawnbot",
+            "repo": "custom-elements",
+            "stars": 203
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Custom elements"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Custom Elements v1: Reusable Web Components"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Handling properties in custom element upgrades"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Handy Custom Elements' Patterns"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "HTML Living Standard: Custom elements"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "MDN - Using Custom Elements"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "web-platform-tests",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-08T03:33:39Z",
+            "owner": "web-platform-tests",
+            "repo": "wpt",
+            "stars": 5768
+          }
+        }
+      ],
+      "title": "Custom Elements"
+    },
+    {
+      "description": "Shadow DOM describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "A complete guide on shadow DOM and event propagation"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "DOM Living Standard: Shadow tree"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "MDN - Using Shadow DOM"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Mind the document.activeElement!"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Open vs. Closed Shadow DOM"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Shadow DOM"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Shadow DOM and events"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Shadow DOM in depth",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-26T07:33:02Z",
+            "owner": "praveenpuglia",
+            "repo": "shadow-dom-in-depth",
+            "stars": 237
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Shadow DOM slots, composition"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Shadow DOM styling"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Shadow DOM v1: Self-Contained Web Components"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "The Rise of Shadow DOM"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Understanding Slot Updates with Web Components"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "What is the Shadow DOM?"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Who doesn't love some slots?"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Your Content in Shadow DOM Portals"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "web-platform-tests",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-08T03:33:39Z",
+            "owner": "web-platform-tests",
+            "repo": "wpt",
+            "stars": 5768
+          }
+        }
+      ],
+      "title": "Shadow DOM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Guides"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Collection of generic web components with a focus on accessibility, and ease of use.",
+          "title": "generic-components",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-21T13:25:46Z",
+            "owner": "thepassle",
+            "repo": "generic-components",
+            "stars": 574
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of web components that implement common web UI patterns.",
+          "title": "howto-components",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-16T23:30:47Z",
+            "owner": "GoogleChromeLabs",
+            "repo": "howto-components",
+            "stars": 874
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of accessible, customizable, ultra-light web components.",
+          "title": "Nude UI",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-23T18:40:08Z",
+            "owner": "LeaVerou",
+            "repo": "nudeui",
+            "stars": 232
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of best practices and design patterns for developing web components.",
+          "title": "open-wc code examples"
+        },
+        {
+          "children": [],
+          "description": "Vanilla JS UI component library of HTML deprecated tags.",
+          "title": "vanilla-retro-js",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T07:14:44Z",
+            "owner": "martine-dowden",
+            "repo": "vanilla-retro-js",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Series of web components examples, related to the MDN web components documentation.",
+          "title": "web-components-examples",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-13T10:37:27Z",
+            "owner": "mdn",
+            "repo": "web-components-examples",
+            "stars": 3355
+          }
+        }
+      ],
+      "title": "Examples"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Articles"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Real World"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Editable table web component.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-13T13:22:34Z",
+            "owner": "OvidijusParsiunas",
+            "repo": "active-table",
+            "stars": 308
+          }
+        },
+        {
+          "children": [],
+          "description": "API documentation and live playground for Web Components.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-22T07:05:02Z",
+            "owner": "web-padawan",
+            "repo": "api-viewer-element",
+            "stars": 283
+          }
+        },
+        {
+          "children": [],
+          "description": "Standalone chess board web component.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-22T22:30:32Z",
+            "owner": "justinfagnani",
+            "repo": "chessboard-element",
+            "stars": 121
+          }
+        },
+        {
+          "children": [],
+          "description": "Web component for drawing patterns with CSS.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-22T02:40:00Z",
+            "owner": "css-doodle",
+            "repo": "css-doodle",
+            "stars": 5886
+          }
+        },
+        {
+          "children": [],
+          "description": "Custom element that allows to create a dark mode toggle or switch.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-22T00:08:47Z",
+            "owner": "GoogleChromeLabs",
+            "repo": "dark-mode-toggle",
+            "stars": 1212
+          }
+        },
+        {
+          "children": [],
+          "description": "Web component for chat with AI capabilities.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-05T11:18:05Z",
+            "owner": "OvidijusParsiunas",
+            "repo": "deep-chat",
+            "stars": 3518
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight emoji picker, distributed as a web component.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T23:17:24Z",
+            "owner": "nolanlawson",
+            "repo": "emoji-picker-element",
+            "stars": 1715
+          }
+        },
+        {
+          "children": [],
+          "description": "Accessible modal dialog web component.",
+          "title": "",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-10-20T20:42:31Z",
+            "owner": "filamentgroup",
+            "repo": "fg-modal",
+            "stars": 72
+          }
+        },
+        {
+          "children": [],
+          "description": "Web component built with Svelte to view files.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-12T10:22:41Z",
+            "owner": "avipunes",
+            "repo": "file-viewer",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "Web component to visualize JSON data in a tree view.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-03T14:48:41Z",
+            "owner": "alenaksu",
+            "repo": "json-viewer",
+            "stars": 233
+          }
+        },
+        {
+          "children": [],
+          "description": "Lite YouTube embed with a focus on visual performance.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-11-10T19:06:57Z",
+            "owner": "paulirish",
+            "repo": "lite-youtube-embed",
+            "stars": 6282
+          }
+        },
+        {
+          "children": [],
+          "description": "MIDI file player and visualizer web components.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-06T11:09:19Z",
+            "owner": "cifkao",
+            "repo": "html-midi-player",
+            "stars": 850
+          }
+        },
+        {
+          "children": [],
+          "description": "Web component for rendering interactive 3D models.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-03T20:49:47Z",
+            "owner": "google",
+            "repo": "model-viewer",
+            "stars": 7890
+          }
+        },
+        {
+          "children": [],
+          "description": "Media player web component.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-19T22:49:11Z",
+            "owner": "playerxo",
+            "repo": "playerx",
+            "stars": 121
+          }
+        },
+        {
+          "children": [],
+          "description": "Custom element to progressively enhance image placeholders.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-04T06:32:39Z",
+            "owner": "andreruffert",
+            "repo": "progressive-image-element",
+            "stars": 273
+          }
+        },
+        {
+          "children": [],
+          "description": "Web component for rendering customizable, animate-able, SVG-based QR codes.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-28T22:38:55Z",
+            "owner": "bitjson",
+            "repo": "qr-code",
+            "stars": 1377
+          }
+        },
+        {
+          "children": [],
+          "description": "Accessible range slider custom element with keyboard support.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-26T03:03:05Z",
+            "owner": "andreruffert",
+            "repo": "range-slider-element",
+            "stars": 87
+          }
+        },
+        {
+          "children": [],
+          "description": "Web component for creating documentation from OpenAPI Specification.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T08:38:39Z",
+            "owner": "mrin9",
+            "repo": "RapiDoc",
+            "stars": 1880
+          }
+        },
+        {
+          "children": [],
+          "description": "Web component for writing and rendering shaders.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T03:34:23Z",
+            "owner": "halvves",
+            "repo": "shader-doodle",
+            "stars": 580
+          }
+        },
+        {
+          "children": [],
+          "description": "Animated toggle button to switch between light, dark, and system theme.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-14T07:10:29Z",
+            "owner": "mahozad",
+            "repo": "theme-switch",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "Rich text editor custom element for everyday writing.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-09T18:06:31Z",
+            "owner": "basecamp",
+            "repo": "trix",
+            "stars": 19902
+          }
+        },
+        {
+          "children": [],
+          "description": "Customizable, extensible, accessible and framework agnostic media player.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-17T10:34:11Z",
+            "owner": "vime-js",
+            "repo": "vime",
+            "stars": 2840
+          }
+        },
+        {
+          "children": [],
+          "description": "Bring  quickly into your page using custom elements.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-15T05:05:17Z",
+            "owner": "stefanjudis",
+            "repo": "web-vitals-element",
+            "stars": 186
+          }
+        }
+      ],
+      "title": "Components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A CLI-based UI component library that copies Lit web components directly into your project. Full React and Vue wrappers for native framework experience.",
+          "title": "AgnosticUI",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T15:17:02Z",
+            "owner": "AgnosticUI",
+            "repo": "agnosticui",
+            "stars": 768
+          }
+        },
+        {
+          "children": [],
+          "description": "Web component framework for easily creating user-first websites, stories, ads, emails and more.",
+          "title": "AMP",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-17T08:02:23Z",
+            "owner": "ampproject",
+            "repo": "amphtml",
+            "stars": 14919
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of rich web components that includes framework bindings. Created with StencilJS.",
+          "title": "AnywhereUI",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-06T19:38:21Z",
+            "owner": "adaleks",
+            "repo": "anywhere-ui",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "Custom elements for using Apollo GraphQL with various web components libraries.",
+          "title": "Apollo Elements",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-01T19:21:09Z",
+            "owner": "apollo-elements",
+            "repo": "apollo-elements",
+            "stars": 423
+          }
+        },
+        {
+          "children": [],
+          "description": "AXA CH UI components library built with Web Components.",
+          "title": "AXA Pattern Library",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-04T13:54:22Z",
+            "owner": "axa-ch-webhub-cloud",
+            "repo": "pattern-library",
+            "stars": 128
+          }
+        },
+        {
+          "children": [],
+          "description": "Web components for creating interfaces by Blackstone Publishing.",
+          "title": "Blackstone UI",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-08T23:08:13Z",
+            "owner": "kjantzer",
+            "repo": "bui",
+            "stars": 108
+          }
+        },
+        {
+          "children": [],
+          "description": "Set of web components powered by Blaze CSS.",
+          "title": "Blaze UI Atoms",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-20T15:07:47Z",
+            "owner": "BlazeSoftware",
+            "repo": "atoms",
+            "stars": 1560
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of web components for building Brightspace applications.",
+          "title": "Brightspace UI core",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T20:49:01Z",
+            "owner": "BrightspaceUI",
+            "repo": "core",
+            "stars": 77
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of Web Components made by Clever Cloud.",
+          "title": "Clever components",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-04T13:24:51Z",
+            "owner": "CleverCloud",
+            "repo": "clever-components",
+            "stars": 238
+          }
+        },
+        {
+          "children": [],
+          "description": "Web components for creating interactive scientific articles.",
+          "title": "Curvenote",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-14T21:50:42Z",
+            "owner": "curvenote",
+            "repo": "article",
+            "stars": 193
+          }
+        },
+        {
+          "children": [],
+          "description": "Standalone Components for SPA routing, displaying data from web services, and more.",
+          "title": "DataFormsJS",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-31T16:43:39Z",
+            "owner": "dataformsjs",
+            "repo": "dataformsjs",
+            "stars": 197
+          }
+        },
+        {
+          "children": [],
+          "description": "General use Web Components for websites and applications.",
+          "title": "Dile Components",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T19:19:14Z",
+            "owner": "Polydile",
+            "repo": "dile-components",
+            "stars": 98
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of custom elements for \"a la carte\" web development.",
+          "title": "elements-sk",
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2023-04-28T19:41:50Z",
+            "owner": "google",
+            "repo": "elements-sk",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "GitHub's Web Component collection.",
+          "title": "github-elements",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-08T18:46:47Z",
+            "owner": "github",
+            "repo": "github-elements",
+            "stars": 2897
+          }
+        },
+        {
+          "children": [],
+          "description": "High-quality, customizable web components for common user interface patterns.",
+          "title": "Elix",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-01T16:56:38Z",
+            "owner": "elix",
+            "repo": "elix",
+            "stars": 835
+          }
+        },
+        {
+          "children": [],
+          "description": "Enterprise ready set of web components which work best with Eclipse Furo.",
+          "title": "Furo Webcomponents",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T08:06:00Z",
+            "owner": "eclipse",
+            "repo": "eclipsefuro-web",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Ser of web components used by Equinor Fusion.",
+          "title": "Fusion Web Components",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T07:54:09Z",
+            "owner": "equinor",
+            "repo": "fusion-web-components",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Complete library of UI components from Infragistics.",
+          "title": "Ignite UI Web Components",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T14:31:50Z",
+            "owner": "IgniteUI",
+            "repo": "igniteui-webcomponents",
+            "stars": 168
+          }
+        },
+        {
+          "children": [],
+          "description": "Set of web components for embedding immersive (VR & AR) content.",
+          "title": "Immersive Custom Elements",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-11-28T00:59:49Z",
+            "owner": "MozillaReality",
+            "repo": "immersive-custom-elements",
+            "stars": 134
+          }
+        },
+        {
+          "children": [],
+          "description": "Compilation of Joomla 4 Custom Elements.",
+          "title": "Joomla UI custom elements",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-25T22:30:58Z",
+            "owner": "joomla-projects",
+            "repo": "custom-elements",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "Web components library for Sme.UP.",
+          "title": "Ketch.UP",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-05T16:48:26Z",
+            "owner": "smeup",
+            "repo": "ketchup",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight, customizable loading animations/spinners.",
+          "title": "LDRS",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-22T16:12:07Z",
+            "owner": "GriffinJohnston",
+            "repo": "ldrs",
+            "stars": 2148
+          }
+        },
+        {
+          "children": [],
+          "description": "Set of highly performant, accessible and flexible Web Components.",
+          "title": "Lion Web Components",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T22:07:09Z",
+            "owner": "ing-bank",
+            "repo": "lion",
+            "stars": 1929
+          }
+        },
+        {
+          "children": [],
+          "description": "ELMS:LN produced web components for any project.",
+          "title": "LRNWebComponents",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T18:14:55Z",
+            "owner": "elmsln",
+            "repo": "lrnwebcomponents",
+            "stars": 269
+          }
+        },
+        {
+          "children": [],
+          "description": "Custom elements for 3D graphics. Built with Three.js for WebGL/WebGPU rendering, and Solid.js for reactivity and templating.",
+          "title": "Lume",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T06:19:02Z",
+            "owner": "lume",
+            "repo": "lume",
+            "stars": 1487
+          }
+        },
+        {
+          "children": [],
+          "description": "Web Components for rapid development of openEHR and FHIR systems.",
+          "title": "Medblocks UI",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-29T11:46:19Z",
+            "owner": "medblocks",
+            "repo": "medblocks-ui",
+            "stars": 67
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of web components for the Microsoft Graph.",
+          "title": "Microsoft Graph Toolkit",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T10:34:02Z",
+            "owner": "microsoftgraph",
+            "repo": "microsoft-graph-toolkit",
+            "stars": 1041
+          }
+        },
+        {
+          "children": [],
+          "description": "A schema for mutation testing results with the web components to visualize it.",
+          "title": "Mutation testing elements",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T21:25:01Z",
+            "owner": "stryker-mutator",
+            "repo": "mutation-testing-elements",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "Data visualisation web components for the life sciences.",
+          "title": "Nightingale",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-17T21:14:38Z",
+            "owner": "ebi-webcomponents",
+            "repo": "nightingale",
+            "stars": 143
+          }
+        },
+        {
+          "children": [],
+          "description": "Components for building web applications with Nuxeo using Web Components.",
+          "title": "Nuxeo Elements",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T06:35:39Z",
+            "owner": "nuxeo",
+            "repo": "nuxeo-elements",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "Set of web components for Red Hat One Platform.",
+          "title": "One Platform Components",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T09:12:43Z",
+            "owner": "1-Platform",
+            "repo": "op-components",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of web components designed for business applications.",
+          "title": "Open Business Application Platform Web Components",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T05:03:33Z",
+            "owner": "openbap",
+            "repo": "obap-elements",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Re-usable web components dedicated to data annotation tasks.",
+          "title": "Pixano Elements",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-22T13:34:00Z",
+            "owner": "pixano",
+            "repo": "pixano-elements",
+            "stars": 42
+          }
+        },
+        {
+          "children": [],
+          "description": "Serverless code experiences with web components.",
+          "title": "Playground Elements",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-02T22:51:25Z",
+            "owner": "PolymerLabs",
+            "repo": "playground-elements",
+            "stars": 640
+          }
+        },
+        {
+          "children": [],
+          "description": "A forward-thinking library of web components.",
+          "title": "Shoelace",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-29T15:47:10Z",
+            "owner": "shoelace-style",
+            "repo": "shoelace",
+            "stars": 13846
+          }
+        },
+        {
+          "children": [],
+          "description": "Web components for business applications.",
+          "title": "Smart Web Components",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-02-03T22:12:57Z",
+            "owner": "HTMLElements",
+            "repo": "smart-webcomponents",
+            "stars": 471
+          }
+        },
+        {
+          "children": [],
+          "description": "Custom Element Wrapper for Stripe.js v3 Elements.",
+          "title": "Stripe Elements",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-06T11:40:38Z",
+            "owner": "bennypowers",
+            "repo": "stripe-elements",
+            "stars": 84
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of web components used by TEI Publisher and apps generated by it.",
+          "title": "TEI Publisher Components",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-26T10:41:26Z",
+            "owner": "eeditiones",
+            "repo": "tei-publisher-components",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of lightweight web components used by Leavitt Group Enterprises.",
+          "title": "Titanium Elements",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T01:23:07Z",
+            "owner": "LeavittSoftware",
+            "repo": "titanium-elements",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "Reusable Tradeshift UI Components as Web Components.",
+          "title": "Tradeshift Elements",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-02T10:21:07Z",
+            "owner": "Tradeshift",
+            "repo": "elements",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Components to generate simple, light and responsive charts.",
+          "title": "TrendChart Elements",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T16:05:25Z",
+            "owner": "WebLogin",
+            "repo": "trendchart-elements",
+            "stars": 63
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of user interface web components for Umbraco CMS.",
+          "title": "Umbraco UI Components",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-02T01:23:19Z",
+            "owner": "umbraco",
+            "repo": "Umbraco.UI",
+            "stars": 142
+          }
+        },
+        {
+          "children": [],
+          "description": "Evolving set of high-quality web components for building business web applications.",
+          "title": "Vaadin components",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T15:04:45Z",
+            "owner": "vaadin",
+            "repo": "web-components",
+            "stars": 551
+          }
+        },
+        {
+          "children": [],
+          "description": "Components for creating VSCode extensions which use the Webview API.",
+          "title": "VSCode Webview Elements",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-01-01T23:33:38Z",
+            "owner": "bendera",
+            "repo": "vscode-webview-elements",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of charting web components for Warp 10.",
+          "title": "Warp View",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-05-04T08:38:01Z",
+            "owner": "senx",
+            "repo": "warpview",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Set of Webmarkets' public web components.",
+          "title": "Webmarkets web components",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-10T22:23:17Z",
+            "owner": "Webmarkets",
+            "repo": "wm-web-components",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Set of common UI elements with a hand-drawn, sketchy look.",
+          "title": "Wired Elements",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-07T20:59:18Z",
+            "owner": "wiredjs",
+            "repo": "wired-elements",
+            "stars": 10749
+          }
+        },
+        {
+          "children": [],
+          "description": "Web Components for Arduino and various electronic parts.",
+          "title": "Wokwi Elements",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T16:29:07Z",
+            "owner": "wokwi",
+            "repo": "wokwi-elements",
+            "stars": 224
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of web components implementing portions of the OpenWeatherMap API.",
+          "title": "XWeather",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-02T00:16:46Z",
+            "owner": "kherrick",
+            "repo": "x-weather",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Component Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Set of components to build rich space app experiences with established interaction patterns.",
+          "title": "Astro Space UX Design System",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T14:53:05Z",
+            "owner": "RocketCommunicationsInc",
+            "repo": "astro",
+            "stars": 149
+          }
+        },
+        {
+          "children": [],
+          "description": "Alaska Airlines design system to innovate on ideas and collaborate on the future.",
+          "title": "Auro Design System"
+        },
+        {
+          "children": [],
+          "description": "Web Component based design system with flexible and lightweight components.",
+          "title": "Blueprint UI"
+        },
+        {
+          "children": [],
+          "description": "Twig and Web Component-powered UI components, reusable visual styles and tooling.",
+          "title": "Bolt Design System"
+        },
+        {
+          "children": [],
+          "description": "Shared Web Components for Esri's Calcite design framework.",
+          "title": "Calcite Components",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T03:50:02Z",
+            "owner": "Esri",
+            "repo": "calcite-components",
+            "stars": 346
+          }
+        },
+        {
+          "children": [],
+          "description": "Carbon Design System variant on top of Web Components.",
+          "title": "Carbon Web Components",
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-03-08T16:19:08Z",
+            "owner": "carbon-design-system",
+            "repo": "carbon-web-components",
+            "stars": 474
+          }
+        },
+        {
+          "children": [],
+          "description": "Suite of web components from the Clarity Design System.",
+          "title": "Clarity Core Web Components",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-02T11:56:52Z",
+            "owner": "vmware-clarity",
+            "repo": "core",
+            "stars": 184
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of web components that adheres to the Freshworks Design System.",
+          "title": "Crayons",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-05T10:53:12Z",
+            "owner": "freshdesk",
+            "repo": "crayons",
+            "stars": 236
+          }
+        },
+        {
+          "children": [],
+          "description": "Library of Web Components based on the FAST design language.",
+          "title": "FAST Components",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T10:33:24Z",
+            "owner": "microsoft",
+            "repo": "fast",
+            "stars": 9612
+          }
+        },
+        {
+          "children": [],
+          "description": "Library of Web Components that supports Microsoft's Fluent design language.",
+          "title": "Fluent UI Web Components",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T14:52:35Z",
+            "owner": "microsoft",
+            "repo": "fluentui",
+            "stars": 19841
+          }
+        },
+        {
+          "children": [],
+          "description": "Library of Web Components adhering to the Forge Design System.",
+          "title": "Forge Components",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T23:13:18Z",
+            "owner": "tyler-technologies-oss",
+            "repo": "forge",
+            "stars": 63
+          }
+        },
+        {
+          "children": [],
+          "description": "Set of encapsulated web components consuming the GOV.UK Design System.",
+          "title": "GOV.UK Web Components",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-02-08T22:04:39Z",
+            "owner": "tgreyuk",
+            "repo": "govuk-webcomponents",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Web Component library for the Helix Design System.",
+          "title": "Helix UI",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T01:56:51Z",
+            "owner": "HelixDesignSystem",
+            "repo": "helix-ui",
+            "stars": 64
+          }
+        },
+        {
+          "children": [],
+          "description": "UI component library based on the Liquid Design System.",
+          "title": "Liquid",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-01T17:16:11Z",
+            "owner": "emdgroup-liquid",
+            "repo": "liquid",
+            "stars": 84
+          }
+        },
+        {
+          "children": [],
+          "description": "Building blocks of the Lyne Design System are based on Web Components.",
+          "title": "Lyne Components",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T01:15:31Z",
+            "owner": "lyne-design-system",
+            "repo": "lyne-components",
+            "stars": 59
+          }
+        },
+        {
+          "children": [],
+          "description": "Material Design implemented as Web Components.",
+          "title": "Material Web Components",
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-02-02T22:35:17Z",
+            "owner": "material-components",
+            "repo": "material-web",
+            "stars": 10724
+          }
+        },
+        {
+          "children": [],
+          "description": "Set of UI components based on Momentum Design.",
+          "title": "Momentum UI Web Components",
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-01-30T17:41:11Z",
+            "owner": "momentum-design",
+            "repo": "momentum-ui",
+            "stars": 211
+          }
+        },
+        {
+          "children": [],
+          "description": "Nordhealth’s design system for products, digital experiences and brand.",
+          "title": "Nord"
+        },
+        {
+          "children": [],
+          "description": "HTML Framework and Design System based on Web Components and runtime CSS generation.",
+          "title": "NuML | NUDE Elements",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T04:17:36Z",
+            "owner": "tenphi",
+            "repo": "numl",
+            "stars": 338
+          }
+        },
+        {
+          "children": [],
+          "description": "Web component based design system starter kit.",
+          "title": "OutlineJS",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-11T15:46:08Z",
+            "owner": "phase2",
+            "repo": "outline",
+            "stars": 131
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of flexible and lightweight Web Components based on the Unified Design Kit.",
+          "title": "PatternFly Elements",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T20:31:50Z",
+            "owner": "patternfly",
+            "repo": "patternfly-elements",
+            "stars": 385
+          }
+        },
+        {
+          "children": [],
+          "description": "JSTOR's design system to create cohesive, supportive, and beautiful experiences.",
+          "title": "Pharos Design System",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T22:20:54Z",
+            "owner": "ithaka",
+            "repo": "pharos",
+            "stars": 129
+          }
+        },
+        {
+          "children": [],
+          "description": "Web components for building uniform experiences with the Red Hat brand.",
+          "title": "Red Hat Design System",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-06T22:33:30Z",
+            "owner": "RedHat-UX",
+            "repo": "red-hat-design-system",
+            "stars": 135
+          }
+        },
+        {
+          "children": [],
+          "description": "Web Components implementing Siemens iX design system.",
+          "title": "Siemens iX Web Components",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T12:35:34Z",
+            "owner": "siemens",
+            "repo": "ix",
+            "stars": 319
+          }
+        },
+        {
+          "children": [],
+          "description": "Adobe Spectrum design language implementation built with Web Components.",
+          "title": "Spectrum Web Components",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T23:58:43Z",
+            "owner": "adobe",
+            "repo": "spectrum-web-components",
+            "stars": 1484
+          }
+        },
+        {
+          "children": [],
+          "description": "Set of reusable UI elements implementing SAP Fiori Design Guidelines.",
+          "title": "UI5 Web Components",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T00:33:40Z",
+            "owner": "SAP",
+            "repo": "ui5-webcomponents",
+            "stars": 1719
+          }
+        },
+        {
+          "children": [],
+          "description": "University of Michigan Library Design System.",
+          "title": "U-M Library Design System"
+        },
+        {
+          "children": [],
+          "description": "Set of web components that implement Z+ shop style guide.",
+          "title": "Zooplus web components",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-29T16:36:16Z",
+            "owner": "zooplus",
+            "repo": "zoo-web-components",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "Design Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Progressive Web Components library.",
+          "title": "DNA",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-28T10:58:05Z",
+            "owner": "chialab",
+            "repo": "dna",
+            "stars": 59
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple and lightweight base classes for web components with a beautiful API.",
+          "title": "element-js",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-26T13:43:28Z",
+            "owner": "webtides",
+            "repo": "element-js",
+            "stars": 30
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight library for building performant, memory-efficient, standards-compliant Web Components.",
+          "title": "FAST Element",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T10:33:24Z",
+            "owner": "microsoft",
+            "repo": "fast",
+            "stars": 9612
+          }
+        },
+        {
+          "children": [],
+          "description": "Building blocks and utilities that are used when building Forge Web Components.",
+          "title": "Forge Core",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-22T03:17:53Z",
+            "owner": "tyler-technologies-oss",
+            "repo": "forge-core",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Set of small libraries designed to add the bare minimum to web components to make you productive.",
+          "title": "Joist",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T00:42:45Z",
+            "owner": "joist-framework",
+            "repo": "joist",
+            "stars": 135
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple library for building fast, lightweight web components.",
+          "title": "Lit"
+        },
+        {
+          "children": [],
+          "description": "blazing fast, enterprise-grade Web Components foundation.",
+          "title": "Lightning Web Components",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T21:10:41Z",
+            "owner": "salesforce",
+            "repo": "lwc",
+            "stars": 1752
+          }
+        },
+        {
+          "children": [],
+          "description": "Write custom elements with reactivity and templating powered by Solid.js signals and effects.",
+          "title": "Lume Element",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T06:20:56Z",
+            "owner": "lume",
+            "repo": "element",
+            "stars": 183
+          }
+        },
+        {
+          "children": [],
+          "description": "Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).",
+          "title": "Omi",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-10T11:28:35Z",
+            "owner": "Tencent",
+            "repo": "omi",
+            "stars": 13261
+          }
+        },
+        {
+          "children": [],
+          "description": "Web Components + Virtual DOM: web standards for powerful UIs.",
+          "title": "Panel",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-29T04:40:19Z",
+            "owner": "mixpanel",
+            "repo": "panel",
+            "stars": 277
+          }
+        },
+        {
+          "children": [],
+          "description": "Write custom element classes with decorators. No dependencies.",
+          "title": "ReadyMade",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-10T22:27:36Z",
+            "owner": "readymade-ui",
+            "repo": "readymade",
+            "stars": 67
+          }
+        },
+        {
+          "children": [],
+          "description": "Fast & Robust Front-End Micro-framework based on modern standards.",
+          "title": "slim.js",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-09-06T15:36:01Z",
+            "owner": "slimjs",
+            "repo": "slim.js",
+            "stars": 1038
+          }
+        },
+        {
+          "children": [],
+          "description": "Compiler for generating Web Components.",
+          "title": "Stencil",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T19:55:14Z",
+            "owner": "ionic-team",
+            "repo": "stencil",
+            "stars": 13019
+          }
+        },
+        {
+          "children": [],
+          "description": "Minimalist, stable, audit friendly component framework.",
+          "title": "Tonic",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T20:23:39Z",
+            "owner": "optoolco",
+            "repo": "tonic",
+            "stars": 889
+          }
+        },
+        {
+          "children": [],
+          "description": "Web Components engine based on VDOM, JSX, MobX & TypeScript.",
+          "title": "WebCell",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-28T19:46:13Z",
+            "owner": "EasyWebApp",
+            "repo": "WebCell",
+            "stars": 180
+          }
+        }
+      ],
+      "title": "Class Based"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Small library for the creation of interfaces based on web components using functions and hooks.",
+          "title": "atomico",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-26T15:38:50Z",
+            "owner": "atomicojs",
+            "repo": "atomico",
+            "stars": 1260
+          }
+        },
+        {
+          "children": [],
+          "description": "A lightweight library for building functional web components using signals and Lit.",
+          "title": "Elemento",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-08T10:19:14Z",
+            "owner": "dsolimando",
+            "repo": "elemento",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "React's Hooks API implemented for web components.",
+          "title": "haunted",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-24T10:01:22Z",
+            "owner": "matthewp",
+            "repo": "haunted",
+            "stars": 2701
+          }
+        },
+        {
+          "children": [],
+          "description": "UI library for creating Web Components with simple and functional API.",
+          "title": "hybrids",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-07T12:27:55Z",
+            "owner": "hybridsjs",
+            "repo": "hybrids",
+            "stars": 3168
+          }
+        },
+        {
+          "children": [],
+          "description": "Library that extends Solid adding Custom Web Components and extensions.",
+          "title": "Solid Element",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-26T17:10:03Z",
+            "owner": "solidjs",
+            "repo": "solid",
+            "stars": 35065
+          }
+        }
+      ],
+      "title": "Functional"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Render Ember and Glimmer components using custom elements.",
+          "title": "ember-custom-elements",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-05T04:26:34Z",
+            "owner": "Ravenstine",
+            "repo": "ember-custom-elements",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Generate/register a custom element from a preact component.",
+          "title": "preact-custom-element",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-18T02:14:36Z",
+            "owner": "preactjs",
+            "repo": "preact-custom-element",
+            "stars": 400
+          }
+        },
+        {
+          "children": [],
+          "description": "Automate the wrapping of a React component in a custom element.",
+          "title": "@adobe/react-webcomponent",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-10T00:39:44Z",
+            "owner": "adobe",
+            "repo": "react-webcomponent",
+            "stars": 104
+          }
+        },
+        {
+          "children": [],
+          "description": "Export your project components as custom elements for integration into external pages.",
+          "title": "nuxt-custom-elements",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-08T00:43:08Z",
+            "owner": "GrabarzUndPartner",
+            "repo": "nuxt-custom-elements",
+            "stars": 83
+          }
+        },
+        {
+          "children": [],
+          "description": "Utilise Shadow DOM in React with all the benefits of style encapsulation.",
+          "title": "react-shadow",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-09T16:26:14Z",
+            "owner": "Wildhoney",
+            "repo": "ReactShadow",
+            "stars": 1377
+          }
+        },
+        {
+          "children": [],
+          "description": "Use web components with React properties and functions.",
+          "title": "reactify-wc",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-06T17:27:26Z",
+            "owner": "BBKolton",
+            "repo": "reactify-wc",
+            "stars": 178
+          }
+        },
+        {
+          "children": [],
+          "description": "Mount React components to the DOM using custom elements.",
+          "title": "remount",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-08T07:41:22Z",
+            "owner": "rstacruz",
+            "repo": "remount",
+            "stars": 724
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple API to create vanilla custom elements with Riot.js.",
+          "title": "@riotjs/custom-elements",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T23:43:59Z",
+            "owner": "riot",
+            "repo": "custom-elements",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Ecosystem"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Web component framework to easily create user-first experiences for the web.",
+          "title": "AMP",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-17T08:02:23Z",
+            "owner": "ampproject",
+            "repo": "amphtml",
+            "stars": 14919
+          }
+        },
+        {
+          "children": [],
+          "description": "Web standards-based HTML framework for building lightweight web applications.",
+          "title": "Enhance"
+        },
+        {
+          "children": [],
+          "description": "SSR framework that makes working with the WebComponents standard a breeze.",
+          "title": "luna-js",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-10T13:03:31Z",
+            "owner": "webtides",
+            "repo": "luna-js",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Modern web setup for static sites with a sprinkle of JavaScript.",
+          "title": "Rocket"
+        },
+        {
+          "children": [],
+          "description": "Compiler to make server-side rendering of native web components easier.",
+          "title": "Web Components Compiler",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-08T02:32:50Z",
+            "owner": "ProjectEvergreen",
+            "repo": "wcc",
+            "stars": 120
+          }
+        },
+        {
+          "children": [],
+          "description": "Framework-independent standalone HTML serializer for generating markup for web components.",
+          "title": "WebC",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-02T16:44:41Z",
+            "owner": "11ty",
+            "repo": "webc",
+            "stars": 1405
+          }
+        }
+      ],
+      "title": "Meta Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Web component project scaffolding.",
+          "title": "Create Open Web Components"
+        },
+        {
+          "children": [],
+          "description": "Boilerplate for creating a custom element.",
+          "title": "custom-element-boilerplate",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-30T13:30:59Z",
+            "owner": "github",
+            "repo": "custom-element-boilerplate",
+            "stars": 176
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple starter hello world web component written in TypeScript.",
+          "title": "hello-web-components",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T17:45:37Z",
+            "owner": "fernandopasik",
+            "repo": "hello-web-components",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "Build, test, and publish vanilla Web Components with a little spice.",
+          "title": "nutmeg",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-16T14:28:29Z",
+            "owner": "abraham",
+            "repo": "nutmeg",
+            "stars": 117
+          }
+        }
+      ],
+      "title": "Starter Kits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Ruby gem that adds basic support for the Shadow DOM to Capybara.",
+          "title": "capybara-shadowdom",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-07-05T13:13:00Z",
+            "owner": "yuki24",
+            "repo": "capybara-shadowdom",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "How to run component tests for a Lit web component with Cypress.",
+          "title": "Cypress component tests for Lit"
+        },
+        {
+          "children": [],
+          "description": "Test your Lit elements and native web components in Cypress with all the modern browsers.",
+          "title": "cypress-lit",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T18:25:34Z",
+            "owner": "simonireilly",
+            "repo": "cypress-lit",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Using @web/test-runner for testing web components in a real browser.",
+          "title": "Developing Components: Testing"
+        },
+        {
+          "children": [],
+          "description": "Locating Shadow DOM elements using Selenium WebDriver in a Maven project.",
+          "title": "How To Automate Shadow DOM In Selenium WebDriver"
+        },
+        {
+          "children": [],
+          "description": "Shadow DOM and open-source testing frameworks.",
+          "title": "Native Automation support for Shadow DOM"
+        },
+        {
+          "children": [],
+          "description": "Opinionated package that combines and configures testing libraries.",
+          "title": "Open Web Components: Testing"
+        },
+        {
+          "children": [],
+          "description": "querySelector that can pierce Shadow DOM roots, useful for automated testing.",
+          "title": "query-selector-shadow-dom",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-27T03:46:13Z",
+            "owner": "webdriverio",
+            "repo": "query-selector-shadow-dom",
+            "stars": 260
+          }
+        },
+        {
+          "children": [],
+          "description": "Shadow DOM automation using Selenium.",
+          "title": "shadow-automation-selenium",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-07T18:53:32Z",
+            "owner": "sukgu",
+            "repo": "shadow-automation-selenium",
+            "stars": 116
+          }
+        },
+        {
+          "children": [],
+          "description": "In Selenium 4, there is now a way to access Shadow DOM nodes.",
+          "title": "Testing Shadow DOM elements in Selenium"
+        },
+        {
+          "children": [],
+          "description": "So you’ve created a native web component or two. How do you test them in popular browsers?",
+          "title": "Test web components with Playwright"
+        },
+        {
+          "children": [],
+          "description": "Shadow DOM tree and its interaction with the W3C Webdriver.",
+          "title": "W3C Webdriver conquering automation of Shadow DOM"
+        }
+      ],
+      "title": "Testing Solutions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "With collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems.",
+          "title": "Backlight"
+        },
+        {
+          "children": [],
+          "description": "Chrome extension to find custom elements on a page.",
+          "title": "Custom Elements Locator",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-03T12:53:16Z",
+            "owner": "open-wc",
+            "repo": "locator",
+            "stars": 38
+          }
+        },
+        {
+          "children": [],
+          "description": "UI development environment for plain web-component snippets.",
+          "title": "@storybook/web-components"
+        },
+        {
+          "children": [],
+          "description": "Component IDE for web platform developers.",
+          "title": "webcomponents.dev"
+        },
+        {
+          "children": [],
+          "description": "CLI that analyzes web components and emits documentation / diagnostics.",
+          "title": "web-component-analyzer",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-24T19:02:05Z",
+            "owner": "runem",
+            "repo": "web-component-analyzer",
+            "stars": 518
+          }
+        },
+        {
+          "children": [],
+          "description": "Codemods for Web Components.",
+          "title": "Web Components Codemods",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T00:57:49Z",
+            "owner": "kcmr",
+            "repo": "web-components-codemods",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Insights"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Proposals"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Specification Draft"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "web-platform-tests",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-08T03:33:39Z",
+            "owner": "web-platform-tests",
+            "repo": "wpt",
+            "stars": 5768
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Explainer",
+          "repo_info": {
+            "archived": false,
+            "language": "Bikeshed",
+            "last_commit": "2022-10-14T21:07:28Z",
+            "owner": "WICG",
+            "repo": "construct-stylesheets",
+            "stars": 136
+          }
+        },
+        {
+          "children": [],
+          "description": "Feature in Chrome platform status.",
+          "title": "Constructable Stylesheets"
+        }
+      ],
+      "title": "Constructable Stylesheet Objects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Archive"
+    },
+    {
+      "description": "Modern browsers supports web components standards without any of the polyfills listed below.\nThe only notable exception is that customized built-in elements are rejected by WebKit (Safari).",
+      "items": [],
+      "title": "Polyfills"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Custom Elements polyfill by Polymer team.",
+          "title": "@webcomponents/custom-elements",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-24T01:32:17Z",
+            "owner": "webcomponents",
+            "repo": "polyfills",
+            "stars": 1180
+          }
+        },
+        {
+          "children": [],
+          "description": "Custom Elements polyfill by Andrea Giammarchi.",
+          "title": "document-register-element",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-10-07T14:38:28Z",
+            "owner": "WebReflection",
+            "repo": "document-register-element",
+            "stars": 1127
+          }
+        }
+      ],
+      "title": "Custom Elements polyfills"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Customized built-in elements polyfill by .",
+          "title": "@corpuscule/custom-builtin-elements",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-10T12:59:28Z",
+            "owner": "corpusculejs",
+            "repo": "custom-builtin-elements",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Customized built-in elements polyfill by .",
+          "title": "@ungap/custom-elements-builtin",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-05-06T06:31:11Z",
+            "owner": "ungap",
+            "repo": "custom-elements-builtin",
+            "stars": 103
+          }
+        }
+      ],
+      "title": "Customized Built-in Elements polyfills"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "ShadowDOM v1 shim.",
+          "title": "@webcomponents/shadydom",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-24T01:32:17Z",
+            "owner": "webcomponents",
+            "repo": "polyfills",
+            "stars": 1180
+          }
+        },
+        {
+          "children": [],
+          "description": "ShadowDOM style encapsulation shim.",
+          "title": "@webcomponents/shadycss",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-24T01:32:17Z",
+            "owner": "webcomponents",
+            "repo": "polyfills",
+            "stars": 1180
+          }
+        },
+        {
+          "children": [],
+          "description": "Shadow DOM polyfill by .",
+          "title": "@lwc/synthetic-shadow",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T21:10:41Z",
+            "owner": "salesforce",
+            "repo": "lwc",
+            "stars": 1752
+          }
+        }
+      ],
+      "title": "Shadow DOM shims"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Minimal polyfill for .",
+          "title": "@webcomponents/template",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-24T01:32:17Z",
+            "owner": "webcomponents",
+            "repo": "polyfills",
+            "stars": 1180
+          }
+        },
+        {
+          "children": [],
+          "description": "An  polyfill for IE11 by .",
+          "title": "@ungap/import-node",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-01T01:05:54Z",
+            "owner": "ungap",
+            "repo": "import-node",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "HTML Templates polyfills"
+    },
+    {
+      "description": "The articles below represent a long story of the Web Components specifications on the way towards the standardization.\nSome of them refer to earlier, so-called \"v0\" Shadow DOM and Custom Elements specs, and abandoned HTML Imports spec.\nThese materials are here for historical reasons only, they are grouped by years and listed in chronological order.",
+      "items": [],
+      "title": "History"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Who To Follow"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:37:24.027Z",
+    "original_repository": "web-padawan/awesome-web-components",
+    "source_repository": "v1nvn/enhansome-web-components",
+    "source_repository_description": null,
+    "title": "Awesome Web Components with stars"
+  }
+}

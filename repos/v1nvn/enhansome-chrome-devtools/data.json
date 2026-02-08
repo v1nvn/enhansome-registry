@@ -1,0 +1,928 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "DevTools tooling and ecosystem"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Can instrument your JS with hooks, and then generate a   of the of the complete (non-sampled) execution. View either time or call counts.",
+          "title": "call-trace",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-01T01:50:53Z",
+            "owner": "brendankenny",
+            "repo": "call-trace",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": "Converts output of various profiling/sampling tools to the  format.",
+          "title": "cpuprofilify",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-20T14:35:08Z",
+            "owner": "thlorenz",
+            "repo": "cpuprofilify",
+            "stars": 169
+          }
+        },
+        {
+          "children": [],
+          "description": "Profiling data can export as .",
+          "title": "Wishbone Python framework"
+        }
+      ],
+      "title": "CPU profile"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Breakpoint debugging in VS Code.",
+          "title": "VS Code - Debugger for Chrome",
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-12-02T15:12:33Z",
+            "owner": "Microsoft",
+            "repo": "vscode-chrome-debug",
+            "stars": 2209
+          }
+        },
+        {
+          "children": [],
+          "description": "Elements panel inside VS Code.",
+          "title": "VS Code - Elements for Microsoft Edge",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T16:58:49Z",
+            "owner": "microsoft",
+            "repo": "vscode-edge-devtools",
+            "stars": 802
+          }
+        },
+        {
+          "children": [],
+          "description": "Within Sublime Text, use the Chrome console.",
+          "title": "ChromeREPL",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-12T20:47:36Z",
+            "owner": "acarabott",
+            "repo": "ChromeREPL",
+            "stars": 355
+          }
+        },
+        {
+          "children": [],
+          "description": "JavaScript Breakpoint debugging right in Sublime Text.",
+          "title": "Sublime Web Inspector"
+        },
+        {
+          "children": [],
+          "description": "The WebStorm IDE can debug JavaScript, view the DOM tree, and edit HTML, CSS and JS live.",
+          "title": "WebStorm/JetBrains Chrome Extension"
+        }
+      ],
+      "title": "Chrome Debugger integration with Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Many useful recipes.",
+          "title": "chrome-remote-interface Wiki",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-18T09:59:01Z",
+            "owner": "cyrus-and",
+            "repo": "chrome-remote-interface",
+            "stars": 4489
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool for debugging clients using devtools protocol.",
+          "title": "Chrome Protocol Proxy",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-01-31T09:09:45Z",
+            "owner": "wendigo",
+            "repo": "chrome-protocol-proxy",
+            "stars": 246
+          }
+        }
+      ],
+      "title": "Developing with the protocol"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also .",
+          "title": "Puppeteer",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T04:02:25Z",
+            "owner": "GoogleChrome",
+            "repo": "puppeteer",
+            "stars": 93520
+          }
+        },
+        {
+          "children": [],
+          "description": "Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also .",
+          "title": "Playwright",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T04:13:43Z",
+            "owner": "microsoft",
+            "repo": "playwright",
+            "stars": 82292
+          }
+        }
+      ],
+      "title": "The big two automation libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "JavaScript/Node.js:",
+          "title": "chrome-remote-interface",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-18T09:59:01Z",
+            "owner": "cyrus-and",
+            "repo": "chrome-remote-interface",
+            "stars": 4489
+          }
+        },
+        {
+          "children": [],
+          "description": "TypeScript/Node.js:",
+          "title": "chrome-debugging-client",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-21T23:22:00Z",
+            "owner": "TracerBench",
+            "repo": "chrome-debugging-client",
+            "stars": 134
+          }
+        },
+        {
+          "children": [],
+          "description": "TypeScript/Node.js:  - A proxy-based implementation to expose the CDP as its API.",
+          "title": "noice-json-rpc"
+        },
+        {
+          "children": [],
+          "description": "TypeScript/Node.js:",
+          "title": "Taiko",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-28T23:45:19Z",
+            "owner": "getgauge",
+            "repo": "taiko",
+            "stars": 3661
+          }
+        },
+        {
+          "children": [],
+          "description": "Rust:",
+          "title": "Rust Headless Chrome",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-08T17:15:13Z",
+            "owner": "atroche",
+            "repo": "rust-headless-chrome",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "Java:",
+          "title": "chrome-devtools-java-client",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-25T14:53:44Z",
+            "owner": "kklisura",
+            "repo": "chrome-devtools-java-client",
+            "stars": 239
+          }
+        },
+        {
+          "children": [],
+          "description": "Java:   - Headless Chrome For Java",
+          "title": "jvppeteer",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-03T00:41:11Z",
+            "owner": "fanyong920",
+            "repo": "jvppeteer",
+            "stars": 803
+          }
+        },
+        {
+          "children": [],
+          "description": "Python:  - Pure-Python, sans-IO wrappers. See also the",
+          "title": "PyCDP",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-22T21:53:53Z",
+            "owner": "hyperiongray",
+            "repo": "python-chrome-devtools-protocol",
+            "stars": 133
+          }
+        },
+        {
+          "children": [],
+          "description": "Python:  - drop-in replacement for the  service",
+          "title": "chromewhip",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-29T20:30:19Z",
+            "owner": "chuckus",
+            "repo": "chromewhip",
+            "stars": 120
+          }
+        },
+        {
+          "children": [],
+          "description": "Python:  - Puppeteer port",
+          "title": "pyppeteer",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-29T14:49:45Z",
+            "owner": "pyppeteer",
+            "repo": "pyppeteer",
+            "stars": 3937
+          }
+        },
+        {
+          "children": [],
+          "description": "Python:  - high-level browser mgmt",
+          "title": "ChromeController",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-25T08:10:00Z",
+            "owner": "fake-name",
+            "repo": "ChromeController",
+            "stars": 228
+          }
+        },
+        {
+          "children": [],
+          "description": "Go:  - High-level actions and tasks for driving browsers",
+          "title": "chromedp",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-07T20:10:59Z",
+            "owner": "chromedp",
+            "repo": "chromedp",
+            "stars": 12712
+          }
+        },
+        {
+          "children": [],
+          "description": "Go:",
+          "title": "cdp",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-07T23:12:56Z",
+            "owner": "mafredri",
+            "repo": "cdp",
+            "stars": 780
+          }
+        },
+        {
+          "children": [],
+          "description": "Go:",
+          "title": "gcd",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-10-16T04:05:44Z",
+            "owner": "wirepair",
+            "repo": "gcd",
+            "stars": 186
+          }
+        },
+        {
+          "children": [],
+          "description": "Go:",
+          "title": "godet",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-10T03:07:54Z",
+            "owner": "raff",
+            "repo": "godet",
+            "stars": 401
+          }
+        },
+        {
+          "children": [],
+          "description": "Go:",
+          "title": "Rod",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-09-29T02:06:18Z",
+            "owner": "go-rod",
+            "repo": "rod",
+            "stars": 6621
+          }
+        },
+        {
+          "children": [],
+          "description": "C#/.NET:  - Puppeteer port",
+          "title": "Puppeteer Sharp",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-06T15:55:40Z",
+            "owner": "hardkoded",
+            "repo": "puppeteer-sharp",
+            "stars": 3844
+          }
+        },
+        {
+          "children": [],
+          "description": "C#/dotnet:  - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.",
+          "title": "chrome-dev-tools",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-11-23T00:38:18Z",
+            "owner": "BaristaLabs",
+            "repo": "chrome-dev-tools",
+            "stars": 81
+          }
+        },
+        {
+          "children": [],
+          "description": "C#/.NET:  - A runtime library and schema code generation tools for Chrome DevTools Protocol support in C#/.NET.",
+          "title": "dotnet-chrome-protocol",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-24T14:57:20Z",
+            "owner": "seclerp",
+            "repo": "dotnet-chrome-protocol",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "Ruby:  - high-level API to control Chrome in Ruby",
+          "title": "Ferrum",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-12-25T13:32:16Z",
+            "owner": "route",
+            "repo": "ferrum",
+            "stars": 1969
+          }
+        },
+        {
+          "children": [],
+          "description": "Ruby:  - Capybara driver",
+          "title": "Cuprite",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-05-11T08:57:11Z",
+            "owner": "machinio",
+            "repo": "cuprite",
+            "stars": 1353
+          }
+        },
+        {
+          "children": [],
+          "description": "Kotlin:  - reactive (rxjava 2.x), low-level client library in Kotlin",
+          "title": "chrome-reactive-kotlin",
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2021-11-04T15:21:18Z",
+            "owner": "wendigo",
+            "repo": "chrome-reactive-kotlin",
+            "stars": 77
+          }
+        },
+        {
+          "children": [],
+          "description": "Kotlin:  - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.",
+          "title": "chrome-devtools-kotlin",
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-07T05:12:55Z",
+            "owner": "joffrey-bion",
+            "repo": "chrome-devtools-kotlin",
+            "stars": 56
+          }
+        },
+        {
+          "children": [],
+          "description": "Clojure:  - The CDP wrapper API is autogenerated and will be updated when CDP protocol changes.",
+          "title": "clj-chrome-devtools",
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-09-16T06:09:07Z",
+            "owner": "tatut",
+            "repo": "clj-chrome-devtools",
+            "stars": 133
+          }
+        },
+        {
+          "children": [],
+          "description": "Clojure:  - Providing a high-level API for UI test automation over the DevTools Protocol.",
+          "title": "cuic",
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-02-11T03:04:48Z",
+            "owner": "milankinen",
+            "repo": "cuic",
+            "stars": 38
+          }
+        },
+        {
+          "children": [],
+          "description": "PHP:  - A PHP client library for the protocol.",
+          "title": "chrome-devtools-protocol",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-08T03:01:57Z",
+            "owner": "jakubkulhan",
+            "repo": "chrome-devtools-protocol",
+            "stars": 183
+          }
+        },
+        {
+          "children": [],
+          "description": "PHP:  - PHP bridge to node Puppeteer",
+          "title": "PuPHPeteer",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-01-01T15:05:38Z",
+            "owner": "rialto-php",
+            "repo": "puphpeteer",
+            "stars": 1338
+          }
+        }
+      ],
+      "title": "Libraries for driving the protocol (or a layer above)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Using DevTools frontend with other platforms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Native Android debugging with Chrome DevTools.",
+          "title": "Facebook Stetho",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-10-26T03:44:45Z",
+            "owner": "facebook",
+            "repo": "stetho",
+            "stars": 12715
+          }
+        },
+        {
+          "children": [],
+          "description": "Debugging JavaScript running in  with Chrome DevTools.",
+          "title": "j2v8-debugger",
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-02-04T11:02:27Z",
+            "owner": "AlexTrotsenko",
+            "repo": "j2v8-debugger",
+            "stars": 93
+          }
+        }
+      ],
+      "title": "Android"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "An improved Node.js debugging experience with the DevTools Frontend.",
+          "title": "ndb",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-05-26T07:03:35Z",
+            "owner": "GoogleChromeLabs",
+            "repo": "ndb",
+            "stars": 10890
+          }
+        },
+        {
+          "children": [],
+          "description": "Guide on using the full debugging and profiling support in Node v6.3+.",
+          "title": "Debugging Node.js with Chrome DevTools"
+        },
+        {
+          "children": [],
+          "description": "CPU, memory, coverage, type profiling with Node.",
+          "title": "thetool",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T21:45:35Z",
+            "owner": "sfninja",
+            "repo": "thetool",
+            "stars": 223
+          }
+        },
+        {
+          "children": [],
+          "description": "Mirror of the frontend that ships in Chrome.",
+          "title": "chrome-devtools-frontend"
+        }
+      ],
+      "title": "Node.js"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Embed Chrome in a web page, largely powered by DevTools and supporting multiuser browsing, remote DevTools, audio, and documents like , , and more.",
+          "title": "BrowserBox",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-05T08:59:32Z",
+            "owner": "BrowserBox",
+            "repo": "BrowserBox",
+            "stars": 3779
+          }
+        },
+        {
+          "children": [],
+          "description": "A proof-of-concept web browser built with Puppeteer, written in Node.js, HTML and CSS, with 0% client-side JavaScript.",
+          "title": "Puppetromium",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-23T11:50:18Z",
+            "owner": "dosyago",
+            "repo": "puppetromium",
+            "stars": 59
+          }
+        }
+      ],
+      "title": "Browsers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "DevTools Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "View PHP application profiling data.",
+          "title": "Clockwork"
+        },
+        {
+          "children": [],
+          "description": "Experiment with multiple devices being emulated at the same time.",
+          "title": "Emulated Device Lab"
+        },
+        {
+          "children": [],
+          "description": "View Ruby on Rails application profiling data.",
+          "title": "RailsPanel"
+        },
+        {
+          "children": [],
+          "description": "Inspect the React component hierarchies.",
+          "title": "React Developer Tools"
+        },
+        {
+          "children": [],
+          "description": "Allows you to inspect Ember.js objects in your application.",
+          "title": "Ember.js Inspector"
+        },
+        {
+          "children": [],
+          "description": "Inspect Vue.js components and manipulate their data.",
+          "title": "Vue.js Developer Tools",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-11T14:49:24Z",
+            "owner": "vuejs",
+            "repo": "vue-devtools",
+            "stars": 24791
+          }
+        },
+        {
+          "children": [],
+          "description": "Debugging and Profiling for Angular applications.",
+          "title": "Angular DevTools"
+        },
+        {
+          "children": [],
+          "description": "Inspect a Marionette application's views, events, and live data.",
+          "title": "Marionette Inspector"
+        },
+        {
+          "children": [],
+          "description": "Inspect a Backbone application's views, models, events, and routes.",
+          "title": "Backbone Debugger"
+        },
+        {
+          "children": [],
+          "description": "Inspect a Sencha ExtJS/Touch application's component tree, data stores, events, and layouts.",
+          "title": "App Inspector for Sencha"
+        },
+        {
+          "children": [],
+          "description": "Inspect Redux with actions history, undo and replay.",
+          "title": "Redux Devtools"
+        },
+        {
+          "children": [],
+          "description": "Edit any three.js project.",
+          "title": "Three.js"
+        },
+        {
+          "children": [],
+          "description": "A WebGL debugging toolkit which enables more productive WebGL development and more efficient WebGL applications.",
+          "title": "Insight",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-30T16:30:40Z",
+            "owner": "3Dparallax",
+            "repo": "insight",
+            "stars": 919
+          }
+        },
+        {
+          "children": [],
+          "description": "Inspect BEM entities expressed in  framework.",
+          "title": "BEM devtools",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-26T10:35:34Z",
+            "owner": "escaton",
+            "repo": "bem-chrome-devtools",
+            "stars": 47
+          }
+        },
+        {
+          "children": [],
+          "description": "Inspect the Metal component hierarchies.",
+          "title": "Metal.js Developer Tools"
+        },
+        {
+          "children": [],
+          "description": "Inspect, modify and observe Web Components on page.",
+          "title": "Web Component DevTools"
+        }
+      ],
+      "title": "Workflow"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Chrome extension allows to enable and save CPU and network throttling for selected tabs.",
+          "title": "sloth",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-03T21:41:27Z",
+            "owner": "denar90",
+            "repo": "sloth",
+            "stars": 200
+          }
+        },
+        {
+          "children": [],
+          "description": "A controlled performance benchmarking tool for web applications, providing clear, actionable and usable insights into performance deltas.",
+          "title": "TracerBench",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-26T00:56:24Z",
+            "owner": "TracerBench",
+            "repo": "tracerbench",
+            "stars": 249
+          }
+        }
+      ],
+      "title": "Performance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Standalone Puppeteer playground in browser's developer tools.",
+          "title": "Puppeteer IDE",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-13T10:25:49Z",
+            "owner": "gajananpp",
+            "repo": "puppeteer-ide-extension",
+            "stars": 241
+          }
+        },
+        {
+          "children": [],
+          "description": "Browser automation and end-to-end web testing tool that interacts with browsers and collects frontend performance metrics.",
+          "title": "k6 browser",
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-01-30T22:06:01Z",
+            "owner": "grafana",
+            "repo": "xk6-browser",
+            "stars": 361
+          }
+        }
+      ],
+      "title": "Automation"
+    },
+    {
+      "description": "Old projects, likely not maintained any longer… But still cool.",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Multiuser DevTools:  - Remotely debug someone else's browser.",
+              "title": "DevTools Remote",
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2017-04-10T23:43:50Z",
+                "owner": "auchenberg",
+                "repo": "devtools-remote",
+                "stars": 701
+              }
+            }
+          ],
+          "description": "Allows you to connect a client to multiple browsers at once.",
+          "title": "Remote Debug Gateway",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-04T17:48:19Z",
+            "owner": "RemoteDebug",
+            "repo": "remotedebug-gateway",
+            "stars": 95
+          }
+        },
+        {
+          "children": [],
+          "description": "Standalone implementation of the Chrome DevTools backend to debug arbitrary web environments.",
+          "title": "DevTools Backend",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-01T18:50:59Z",
+            "owner": "christian-bromann",
+            "repo": "devtools-backend",
+            "stars": 147
+          }
+        },
+        {
+          "children": [],
+          "description": "Python CDP driver:  - low level CDP transport handler",
+          "title": "pychrome",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-17T16:55:43Z",
+            "owner": "fate0",
+            "repo": "pychrome",
+            "stars": 643
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP.",
+              "title": "Remote Debug iOS WebKit adapter",
+              "repo_info": {
+                "archived": true,
+                "language": "TypeScript",
+                "last_commit": "2021-03-03T05:09:06Z",
+                "owner": "RemoteDebug",
+                "repo": "remotedebug-ios-webkit-adapter",
+                "stars": 2743
+              }
+            }
+          ],
+          "description": "Exposes Mobile Safari & UIWebView instances via the CDP.",
+          "title": "ios-webkit-debug-proxy",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-02T07:34:34Z",
+            "owner": "google",
+            "repo": "ios-webkit-debug-proxy",
+            "stars": 6138
+          }
+        },
+        {
+          "children": [],
+          "description": "Protocol adaptor for Microsoft IE 11 to CDP.",
+          "title": "IE Diagnostics Adapter",
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2016-06-02T17:08:30Z",
+            "owner": "Microsoft",
+            "repo": "IEDiagnosticsAdapter",
+            "stars": 572
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "go-debugger-devtools",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-07-26T09:07:37Z",
+            "owner": "allada",
+            "repo": "go-debugger-devtools",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Alumni"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:35:01.163Z",
+    "original_repository": "ChromeDevTools/awesome-chrome-devtools",
+    "source_repository": "v1nvn/enhansome-chrome-devtools",
+    "source_repository_description": null,
+    "title": "Awesome Chrome DevTools with stars"
+  }
+}

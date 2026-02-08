@@ -1,0 +1,2190 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "F# main repository",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-02-07T20:45:16Z",
+            "owner": "dotnet",
+            "repo": "fsharp",
+            "stars": 4248
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "F# projects"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "F# suggestions",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-27T11:39:14Z",
+            "owner": "fsharp",
+            "repo": "fslang-suggestions",
+            "stars": 368
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "F# RFCs",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-02-04T14:27:07Z",
+            "owner": "fsharp",
+            "repo": "fslang-design",
+            "stars": 546
+          }
+        }
+      ],
+      "title": "Main Language-Related Repositories"
+    },
+    {
+      "description": "Looking to have a more enjoyable experience when consuming a popular .NET library? Here is a quick table.",
+      "items": [],
+      "title": "F# Wrappers for Popular .NET Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Community-driven port of the popular Java/Scala framework Akka to .NET.",
+          "title": "Akka.NET",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-29T15:55:02Z",
+            "owner": "akkadotnet",
+            "repo": "akka.net",
+            "stars": 5018
+          }
+        },
+        {
+          "children": [],
+          "description": "F# typed API for Akka.NET.",
+          "title": "Akkling",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-02-12T09:32:00Z",
+            "owner": "Horusiath",
+            "repo": "Akkling",
+            "stars": 233
+          }
+        },
+        {
+          "children": [],
+          "description": "Functional extension for Microsoft Orleans framework.",
+          "title": "Orleankka",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-15T21:25:35Z",
+            "owner": "OrleansContrib",
+            "repo": "Orleankka",
+            "stars": 505
+          }
+        },
+        {
+          "children": [],
+          "description": "Distributed virtual actor model.",
+          "title": "Orleans",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-07T00:44:59Z",
+            "owner": "dotnet",
+            "repo": "orleans",
+            "stars": 10712
+          }
+        },
+        {
+          "children": [],
+          "description": "Cross-platform actor framework for .NET, Go, Java and Kotlin.",
+          "title": "Proto.actor",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-18T10:48:55Z",
+            "owner": "AsynkronIT",
+            "repo": "protoactor-dotnet",
+            "stars": 1874
+          }
+        }
+      ],
+      "title": "Actor Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "F# Make\" is a cross platform build automation system.",
+          "title": "FAKE",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-11-26T21:05:56Z",
+            "owner": "fsharp",
+            "repo": "FAKE",
+            "stars": 1328
+          }
+        },
+        {
+          "children": [],
+          "description": "Another Make utility implementation on F#, fully declarative with no-brain parallelism, inspired by Shake.",
+          "title": "Xake",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-06-29T17:27:03Z",
+            "owner": "OlegZee",
+            "repo": "Xake",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Build Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "An F# library which contains HelperFunctions for reporting, logging and Azure cloud operations.",
+          "title": "Chia",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-01-06T15:36:30Z",
+            "owner": "DanpowerGruppe",
+            "repo": "Chia",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Repeatable Azure deployments with ARM templates made easy.",
+          "title": "Farmer",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-12-10T19:30:46Z",
+            "owner": "CompositionalIT",
+            "repo": "farmer",
+            "stars": 548
+          }
+        },
+        {
+          "children": [],
+          "description": "Functional F# library to access Firestore database hosted on Google Cloud Platform (GCP) or Firebase.",
+          "title": "FsFirestore",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2021-04-11T20:08:10Z",
+            "owner": "mrbandler",
+            "repo": "FsFirestore",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "F# computational expressions to reduce boilerplate in Pulumi code.",
+          "title": "Pulumi.FSharp.Extensions",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-05-22T11:19:18Z",
+            "owner": "UnoSD",
+            "repo": "Pulumi.FSharp.Extensions",
+            "stars": 98
+          }
+        }
+      ],
+      "title": "Cloud"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A dotnet CLI tool to generate type-safe F# clients from OpenAPI/Swagger services.",
+          "title": "Hawaii",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-04-08T13:02:00Z",
+            "owner": "Zaid-Ajaj",
+            "repo": "Hawaii",
+            "stars": 159
+          }
+        },
+        {
+          "children": [],
+          "description": "A pre-compilation code generator.",
+          "title": "Myriad",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-09-26T13:57:55Z",
+            "owner": "MoiraeSoftware",
+            "repo": "myriad",
+            "stars": 373
+          }
+        }
+      ],
+      "title": "Code Generation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "F# to JavaScript compiler.",
+          "title": "Fable",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-02-03T14:07:48Z",
+            "owner": "fable-compiler",
+            "repo": "Fable",
+            "stars": 3059
+          }
+        },
+        {
+          "children": [],
+          "description": "F# to Erlang compiler.",
+          "title": "Fez",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2019-05-16T08:43:48Z",
+            "owner": "kjnilsson",
+            "repo": "fez",
+            "stars": 284
+          }
+        },
+        {
+          "children": [],
+          "description": "F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider.",
+          "title": "FunScript",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2017-02-14T14:25:32Z",
+            "owner": "ZachBray",
+            "repo": "FunScript",
+            "stars": 445
+          }
+        },
+        {
+          "children": [],
+          "description": "Functional Reactive Programming for the Arduino and other microcontrollers.",
+          "title": "Juniper",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-11-16T04:23:56Z",
+            "owner": "calebh",
+            "repo": "Juniper",
+            "stars": 102
+          }
+        }
+      ],
+      "title": "Compilers for Other Platforms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A type-safe, highly concurrent and asynchronous library for F# based on pure functional programming.",
+          "title": "FIO",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-01-27T17:39:50Z",
+            "owner": "iyyel",
+            "repo": "fio",
+            "stars": 75
+          }
+        },
+        {
+          "children": [],
+          "description": "Asynchronous sequence support, integration with .",
+          "title": "FSharp.Control.AsyncSeq",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-01-21T23:15:01Z",
+            "owner": "fsprojects",
+            "repo": "FSharp.Control.AsyncSeq",
+            "stars": 171
+          }
+        },
+        {
+          "children": [],
+          "description": "F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.",
+          "title": "FSharp.Control.FusionTasks",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2022-11-12T13:57:38Z",
+            "owner": "kekyo",
+            "repo": "FSharp.Control.FusionTasks",
+            "stars": 162
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of asynchronous programming utilities for F#.",
+          "title": "FSharpx.Async",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-01-12T23:08:05Z",
+            "owner": "fsprojects",
+            "repo": "FSharpx.Async",
+            "stars": 95
+          }
+        },
+        {
+          "children": [],
+          "description": "Concurrent ML style concurrent programming library for F#.",
+          "title": "Hopac",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2022-02-24T01:59:05Z",
+            "owner": "Hopac",
+            "repo": "Hopac",
+            "stars": 534
+          }
+        },
+        {
+          "children": [],
+          "description": "Cold tasks, cancellable tasks, and extensions for the  workflow.",
+          "title": "IcedTasks",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-11-21T04:45:54Z",
+            "owner": "TheAngryByrd",
+            "repo": "IcedTasks",
+            "stars": 148
+          }
+        },
+        {
+          "children": [],
+          "description": "High performance System.Threading.(Value)Task computation expressions for F#.",
+          "title": "Ply",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2022-11-30T21:17:59Z",
+            "owner": "crowded",
+            "repo": "ply",
+            "stars": 245
+          }
+        },
+        {
+          "children": [],
+          "description": "An implementation of Async Observables in F# for .NET and Fable.",
+          "title": "Reaction.AsyncRx",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2023-01-06T01:49:32Z",
+            "owner": "dbrattli",
+            "repo": "Reaction",
+            "stars": 143
+          }
+        },
+        {
+          "children": [],
+          "description": "F# computation expression builder for System.Threading.Tasks.",
+          "title": "TaskBuilder.fs",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2021-01-31T05:54:05Z",
+            "owner": "rspeele",
+            "repo": "TaskBuilder.fs",
+            "stars": 235
+          }
+        }
+      ],
+      "title": "Concurrent, Asynchronous, and Parallel Programming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Declarative CLI argument/XML configuration parser for F# applications.",
+          "title": "Argu",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-01-29T19:08:57Z",
+            "owner": "fsprojects",
+            "repo": "Argu",
+            "stars": 478
+          }
+        },
+        {
+          "children": [],
+          "description": "F# library for reading configuration data from environment variables and AppSettings with type safety.",
+          "title": "FsConfig",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2023-10-24T18:00:25Z",
+            "owner": "demystifyfp",
+            "repo": "FsConfig",
+            "stars": 169
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple, single-file portable CLI utility for configuration templating.",
+          "title": "Skid",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2022-08-16T19:49:28Z",
+            "owner": "Meyhem",
+            "repo": "Skid",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Command line arguments parser, F# port of .",
+          "title": "docopt.fs",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2020-01-15T15:18:51Z",
+            "owner": "docopt",
+            "repo": "docopt.fs",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Configuration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Exploratory data library for .NET.",
+          "title": "Deedle",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-07-07T21:30:20Z",
+            "owner": "BlueMountainCapital",
+            "repo": "Deedle",
+            "stars": 981
+          }
+        },
+        {
+          "children": [],
+          "description": "Functional automatic differentiation (AD) library.",
+          "title": "DiffSharp",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-04-15T20:25:41Z",
+            "owner": "DiffSharp",
+            "repo": "DiffSharp",
+            "stars": 609
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of libraries for data-science. It provides a rapid development environment that lets you write advanced analysis with few lines of production-quality code.",
+          "title": "FsLab",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-04-19T07:45:04Z",
+            "owner": "fslaborg",
+            "repo": "FsLab",
+            "stars": 33
+          }
+        },
+        {
+          "children": [],
+          "description": "F# for Jupyter Notebooks.",
+          "title": "IfSharp",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-03-17T09:11:27Z",
+            "owner": "fsprojects",
+            "repo": "IfSharp",
+            "stars": 443
+          }
+        },
+        {
+          "children": [],
+          "description": "Methods and algorithms for numerical computations in science, engineering and every day use. F# specific bindings available.",
+          "title": "Math.NET Numerics",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-03T21:39:46Z",
+            "owner": "mathnet",
+            "repo": "mathnet-numerics",
+            "stars": 3716
+          }
+        },
+        {
+          "children": [],
+          "description": "A basic open source computer algebra library for .NET, Silverlight and Mono written entirely in F#.",
+          "title": "Math.NET Symbolics",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-01-15T18:54:49Z",
+            "owner": "mathnet",
+            "repo": "mathnet-symbolics",
+            "stars": 369
+          }
+        },
+        {
+          "children": [],
+          "description": "SIMD enhanced Array extensions for faster computation.",
+          "title": "SIMDArray",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2022-05-24T20:50:23Z",
+            "owner": "jackmott",
+            "repo": "SIMDArray",
+            "stars": 136
+          }
+        },
+        {
+          "children": [],
+          "description": "Neural network library in F#.",
+          "title": "Synapses",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-09-23T20:55:47Z",
+            "owner": "mrdimosthenis",
+            "repo": "Synapses",
+            "stars": 73
+          }
+        },
+        {
+          "children": [],
+          "description": "A CLI tool to transpile trained classic ML models into a native F# code with zero dependencies.",
+          "title": "m2cgen",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-03T17:30:36Z",
+            "owner": "BayesWitnesses",
+            "repo": "m2cgen",
+            "stars": 2954
+          }
+        }
+      ],
+      "title": "Data Science"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Development Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "F# support in Emacs (including Intellisense and Interactive mode).",
+          "title": "Emacs F# mode",
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2025-11-07T19:51:09Z",
+            "owner": "fsharp",
+            "repo": "emacs-fsharp-mode",
+            "stars": 213
+          }
+        },
+        {
+          "children": [],
+          "description": "F# support for Far Manager.",
+          "title": "FSharpFar",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-08T03:25:23Z",
+            "owner": "nightroman",
+            "repo": "FarNet",
+            "stars": 144
+          }
+        },
+        {
+          "children": [],
+          "description": "F# code linter.",
+          "title": "FSharpLint",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-02-04T18:03:31Z",
+            "owner": "fsprojects",
+            "repo": "FSharpLint",
+            "stars": 321
+          }
+        },
+        {
+          "children": [],
+          "description": "F# code formatter.",
+          "title": "Fantomas",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-12-30T09:37:03Z",
+            "owner": "fsprojects",
+            "repo": "fantomas",
+            "stars": 819
+          }
+        },
+        {
+          "children": [],
+          "description": "Atom Editor and Visual Studio Code package suite for cross platform F# development.",
+          "title": "Ionide"
+        },
+        {
+          "children": [],
+          "description": "F# support for Vim.",
+          "title": "Vim F#",
+          "repo_info": {
+            "archived": true,
+            "language": "Vim script",
+            "last_commit": "2020-11-22T12:29:33Z",
+            "owner": "fsharp",
+            "repo": "vim-fsharp",
+            "stars": 142
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool to control Vim with your voice using speech recognition.",
+          "title": "VimSpeak",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2020-09-09T20:17:17Z",
+            "owner": "AshleyF",
+            "repo": "VimSpeak",
+            "stars": 418
+          }
+        },
+        {
+          "children": [],
+          "description": "Data science notebook for F# Interactive.",
+          "title": "fsharp-notebook",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-03-03T14:16:56Z",
+            "owner": "pablofrommars",
+            "repo": "fsharp-notebook",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Basic F# support for (Neo)Vim.",
+          "title": "neofsharp.vim",
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-04-06T20:33:28Z",
+            "owner": "adelarsq",
+            "repo": "neofsharp.vim",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Editor Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Optics library for F#, similar to the Haskell Data.Lens package.",
+          "title": "Aether",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2021-10-12T21:33:40Z",
+            "owner": "xyncro",
+            "repo": "aether",
+            "stars": 181
+          }
+        },
+        {
+          "children": [],
+          "description": "Railway-oriented programming.",
+          "title": "Chessie",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2018-08-26T17:18:27Z",
+            "owner": "fsprojects",
+            "repo": "Chessie",
+            "stars": 188
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple F# interface for ADO.NET.",
+          "title": "Donald",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-12-02T12:39:29Z",
+            "owner": "pimbrouwers",
+            "repo": "Donald",
+            "stars": 194
+          }
+        },
+        {
+          "children": [],
+          "description": "Thin F# API for SqlClient for easy data access to ms sql server with functional seasoning on top.",
+          "title": "DustyTables",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-01-16T19:41:28Z",
+            "owner": "Zaid-Ajaj",
+            "repo": "DustyTables",
+            "stars": 81
+          }
+        },
+        {
+          "children": [],
+          "description": "Extended core library for F#.",
+          "title": "ExtCore",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2021-11-07T15:47:24Z",
+            "owner": "jack-pappas",
+            "repo": "ExtCore",
+            "stars": 182
+          }
+        },
+        {
+          "children": [],
+          "description": "An F# wrapper around the CosmosDB SDK, making it more functional-friendly.",
+          "title": "FSharp.CosmosDb",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-09-03T22:15:52Z",
+            "owner": "aaronpowell",
+            "repo": "fsharp.cosmosdb",
+            "stars": 82
+          }
+        },
+        {
+          "children": [],
+          "description": "Fast hash-based immutable map and set.",
+          "title": "FSharp.HashCollections",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-04-07T19:41:46Z",
+            "owner": "mvkara",
+            "repo": "fsharp-hashcollections",
+            "stars": 68
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight utilities for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization.",
+          "title": "FSharpLu",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-06-11T20:01:41Z",
+            "owner": "Microsoft",
+            "repo": "fsharplu",
+            "stars": 373
+          }
+        },
+        {
+          "children": [],
+          "description": "Extensions for F#.",
+          "title": "FSharpPlus",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-02-07T10:49:37Z",
+            "owner": "gmpl",
+            "repo": "FSharpPlus",
+            "stars": 936
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of libraries and tools for use with F#.",
+          "title": "FSharpx.Extras",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-12-20T13:22:24Z",
+            "owner": "fsprojects",
+            "repo": "FSharpx.Extras",
+            "stars": 702
+          }
+        },
+        {
+          "children": [],
+          "description": "Computational expression to run system processes and manage their output.",
+          "title": "Fli",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-09-22T13:11:00Z",
+            "owner": "CaptnCodr",
+            "repo": "Fli",
+            "stars": 215
+          }
+        },
+        {
+          "children": [],
+          "description": "Significantly reduces boilerplate needed to efficiently save/load complex domain entities to/from multiple tables.",
+          "title": "Fling",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-12-19T14:03:58Z",
+            "owner": "cmeeren",
+            "repo": "Fling",
+            "stars": 48
+          }
+        },
+        {
+          "children": [],
+          "description": "Clear, simple and powerful error handling with railway-oriented programming. Inspired by Chessie.",
+          "title": "FsToolkit.ErrorHandling",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-09-26T19:31:56Z",
+            "owner": "demystifyfp",
+            "repo": "FsToolkit.ErrorHandling",
+            "stars": 528
+          }
+        },
+        {
+          "children": [],
+          "description": "Thin F# API for SQLite for easy data access to SQLite database with functional seasoning on top.",
+          "title": "Fumble",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-12-05T21:58:20Z",
+            "owner": "tforkmann",
+            "repo": "Fumble",
+            "stars": 114
+          }
+        },
+        {
+          "children": [],
+          "description": "F# Support for , an embedded single file database for .NET.",
+          "title": "LiteDB.FSharp",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2022-12-08T15:21:43Z",
+            "owner": "Zaid-Ajaj",
+            "repo": "LiteDB.FSharp",
+            "stars": 184
+          }
+        },
+        {
+          "children": [],
+          "description": "Thin F# wrapper around , the PostgreSQL database driver.",
+          "title": "Npgsql.FSharp",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-07-18T04:10:40Z",
+            "owner": "Zaid-Ajaj",
+            "repo": "Npgsql.FSharp",
+            "stars": 338
+          }
+        },
+        {
+          "children": [],
+          "description": "Suite of NuGet packages for working with databases in F# including query expressions and code generation tools (for generating strongly typed F# DTO record types based on your database tables). Supports MySQL, PostgreSQL, Oracle, SQL Server, and SQLite.",
+          "title": "SqlHydra",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-02-03T15:11:04Z",
+            "owner": "JordanMarr",
+            "repo": "SqlHydra",
+            "stars": 257
+          }
+        },
+        {
+          "children": [],
+          "description": "Small, extensible F# library for practical generic programming.",
+          "title": "TypeShape",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-02-07T13:44:31Z",
+            "owner": "eiriktsarpalis",
+            "repo": "TypeShape",
+            "stars": 318
+          }
+        },
+        {
+          "children": [],
+          "description": "A composable validation library for F#, with built-in validators for most primitive types and easily extended through custom validators.",
+          "title": "Validus",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-05-16T17:34:54Z",
+            "owner": "pimbrouwers",
+            "repo": "Validus",
+            "stars": 158
+          }
+        },
+        {
+          "children": [],
+          "description": "Generic F# ADO provider wrapper (SqlServer, PostgreSQL, SQLite).",
+          "title": "Vp.FSharp.Sql",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-11-25T13:39:11Z",
+            "owner": "veepee-oss",
+            "repo": "Vp.FSharp.Sql",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "General Purpose Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "F# libraries, tools, and plugins for the Unity game engine.",
+          "title": "FsUnity"
+        },
+        {
+          "children": [],
+          "description": "Lightweight game composition library for F# with entity-component-system (ECS) and actor-like messaging features.",
+          "title": "Garnet",
+          "repo_info": {
+            "archived": true,
+            "language": "F#",
+            "last_commit": "2024-12-24T16:38:58Z",
+            "owner": "bcarruthers",
+            "repo": "garnet",
+            "stars": 169
+          }
+        },
+        {
+          "children": [],
+          "description": "Tutorial how to use F# with Godot.",
+          "title": "Godot"
+        },
+        {
+          "children": [],
+          "description": "Cross-platform F# 2D game engine built in the functional style. Uses SDL2 and Farseer Physics.",
+          "title": "Nu Game Engine",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-02-07T11:28:26Z",
+            "owner": "bryanedds",
+            "repo": "Nu",
+            "stars": 1305
+          }
+        }
+      ],
+      "title": "Game Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Develop cross-platform MVU GUI Applications using F# and Avalonia.",
+          "title": "Avalonia.FuncUI",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-11-13T09:26:37Z",
+            "owner": "fsprojects",
+            "repo": "Avalonia.FuncUI",
+            "stars": 1185
+          }
+        },
+        {
+          "children": [],
+          "description": "Elmish (or MVU) approach to WPF programming.",
+          "title": "Elmish.WPF",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-10-01T21:20:06Z",
+            "owner": "elmish",
+            "repo": "Elmish.WPF",
+            "stars": 458
+          }
+        },
+        {
+          "children": [],
+          "description": "An independent flexible XAML MVVM library for .NET.",
+          "title": "Epoxy",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-12-10T04:32:37Z",
+            "owner": "kekyo",
+            "repo": "epoxy",
+            "stars": 255
+          }
+        },
+        {
+          "children": [],
+          "description": "F# functional app development, using declarative dynamic UI.",
+          "title": "Fabulous",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-11-14T16:15:20Z",
+            "owner": "fabulous-dev",
+            "repo": "Fabulous",
+            "stars": 1248
+          }
+        }
+      ],
+      "title": "GUI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A convenient library for consuming HTTP/REST endpoints via F#.",
+          "title": "FsHttp",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-10-03T16:10:15Z",
+            "owner": "ronaldschlenker",
+            "repo": "FsHttp",
+            "stars": 495
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple, functional HTTP client library for F#.",
+          "title": "Http.fs",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-08-02T07:52:16Z",
+            "owner": "haf",
+            "repo": "Http.fs",
+            "stars": 319
+          }
+        },
+        {
+          "children": [],
+          "description": "A high performance .NET cross-platform functional HTTP request handler library for writing HTTP clients and orchestrating web requests.",
+          "title": "Oryx",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-01-20T11:06:10Z",
+            "owner": "cognitedata",
+            "repo": "oryx",
+            "stars": 212
+          }
+        }
+      ],
+      "title": "HTTP Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A single file you can copy and paste or add through Paket GitHub dependencies to provide your F# library with a logging abstraction.",
+          "title": "FsLibLog",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2023-03-14T17:55:23Z",
+            "owner": "TheAngryByrd",
+            "repo": "FsLibLog",
+            "stars": 58
+          }
+        },
+        {
+          "children": [],
+          "description": "High performance, multi-target logging, metric, tracing and health-check library for mono and .NET.",
+          "title": "Logary",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2023-05-18T19:29:50Z",
+            "owner": "logary",
+            "repo": "logary",
+            "stars": 533
+          }
+        }
+      ],
+      "title": "Logging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The parser combinator library for F#.",
+          "title": "FParsec",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2023-11-13T01:57:14Z",
+            "owner": "stephan-tolksdorf",
+            "repo": "fparsec",
+            "stars": 558
+          }
+        },
+        {
+          "children": [],
+          "description": "Port of Bryan O'Sullivan's attoparsec from Haskell to F#.",
+          "title": "FsAttoparsec",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2018-02-04T15:22:33Z",
+            "owner": "haf",
+            "repo": "FsAttoparsec",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Extensible, type-and-source-polymorphic, non-linear applicative parser combinator library for F# 3.0 and 4.0.",
+          "title": "XParsec",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2018-03-14T20:34:47Z",
+            "owner": "corsis",
+            "repo": "XParsec",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Parsing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Reflection-based serialization library.",
+          "title": "FSharp.Json",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-08-30T13:26:44Z",
+            "owner": "vsapronov",
+            "repo": "FSharp.Json",
+            "stars": 227
+          }
+        },
+        {
+          "children": [],
+          "description": "System.Text.Json extensions for F# types.",
+          "title": "FSharp.SystemTextJson",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-06-13T17:57:42Z",
+            "owner": "Tarmil",
+            "repo": "FSharp.SystemTextJson",
+            "stars": 364
+          }
+        },
+        {
+          "children": [],
+          "description": "JSON mapper for F#. It simplifies mapping from a Json library's JsonValue onto your types, and mapping from your types onto JsonValue.",
+          "title": "Fleece",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2023-10-22T16:32:33Z",
+            "owner": "mausch",
+            "repo": "Fleece",
+            "stars": 201
+          }
+        },
+        {
+          "children": [],
+          "description": "F# Event-Union Contract Encoding with versioning tolerant converters.",
+          "title": "FsCodec",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-11-04T11:57:07Z",
+            "owner": "jet",
+            "repo": "FsCodec",
+            "stars": 82
+          }
+        },
+        {
+          "children": [],
+          "description": "Fast, multi-format messaging serializer for .NET.",
+          "title": "FsPickler",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2022-03-21T14:46:17Z",
+            "owner": "mbraceproject",
+            "repo": "FsPickler",
+            "stars": 326
+          }
+        },
+        {
+          "children": [],
+          "description": "F# Yaml 1.2 parser.",
+          "title": "Legivel",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2023-08-01T10:59:02Z",
+            "owner": "fjoppe",
+            "repo": "Legivel",
+            "stars": 63
+          }
+        },
+        {
+          "children": [],
+          "description": "JSON encoder/decoder library inspired by Elm.",
+          "title": "Thoth.Json"
+        }
+      ],
+      "title": "Serialization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Smooth testing framework for F# with tests-as-values and parallelism by default.",
+          "title": "Expecto",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-12-15T18:05:45Z",
+            "owner": "haf",
+            "repo": "expecto",
+            "stars": 730
+          }
+        },
+        {
+          "children": [],
+          "description": "Fantastic fluent assertions for your F# tests and domain code.",
+          "title": "Faqt",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-12-19T14:01:08Z",
+            "owner": "cmeeren",
+            "repo": "Faqt",
+            "stars": 76
+          }
+        },
+        {
+          "children": [],
+          "description": "Random testing for .NET.",
+          "title": "FsCheck",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-02-02T07:59:42Z",
+            "owner": "fscheck",
+            "repo": "FsCheck",
+            "stars": 1210
+          }
+        },
+        {
+          "children": [],
+          "description": "Makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework.",
+          "title": "FsUnit",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-07-11T09:10:57Z",
+            "owner": "fsprojects",
+            "repo": "FsUnit",
+            "stars": 446
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple load testing framework for Pull and Push scenarios.",
+          "title": "NBomber",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-02-05T16:36:44Z",
+            "owner": "PragmaticFlow",
+            "repo": "NBomber",
+            "stars": 2215
+          }
+        },
+        {
+          "children": [],
+          "description": "Unit test framework for F# using computation expressions.",
+          "title": "Persimmon",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2022-03-05T07:10:29Z",
+            "owner": "persimmon-projects",
+            "repo": "Persimmon",
+            "stars": 41
+          }
+        },
+        {
+          "children": [],
+          "description": "Cross-platform coverage gathering and processing tool set for .NET/.NET core and Mono.",
+          "title": "altcover",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-01-31T19:48:46Z",
+            "owner": "SteveGilham",
+            "repo": "altcover",
+            "stars": 529
+          }
+        },
+        {
+          "children": [],
+          "description": "F# web automation and testing framework.",
+          "title": "canopy",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2022-08-08T03:18:45Z",
+            "owner": "lefthandedgoat",
+            "repo": "canopy",
+            "stars": 510
+          }
+        },
+        {
+          "children": [],
+          "description": "Property-based testing system for F#.",
+          "title": "fsharp-hedgehog",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-01-13T22:49:19Z",
+            "owner": "hedgehogqa",
+            "repo": "fsharp-hedgehog",
+            "stars": 284
+          }
+        },
+        {
+          "children": [],
+          "description": "Write F# unit test assertions as quoted expressions.",
+          "title": "unquote",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-12-01T02:53:35Z",
+            "owner": "swensensoftware",
+            "repo": "unquote",
+            "stars": 297
+          }
+        },
+        {
+          "children": [],
+          "description": "Free, open source, community-focused unit testing tool for the .NET Framework.",
+          "title": "xUnit.net"
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "F# Azure type provider which can be used to explore Blob, Table and Queue Azure Storage assets and easily apply CRUD operations on them.",
+          "title": "AzureStorageTypeProvider",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2020-04-21T22:14:30Z",
+            "owner": "fsprojects",
+            "repo": "AzureStorageTypeProvider",
+            "stars": 83
+          }
+        },
+        {
+          "children": [],
+          "description": "Type provider for Microsoft Dynamics CRM 2011.",
+          "title": "DynamicsCRMProvider",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2020-07-19T21:39:47Z",
+            "owner": "fsprojects",
+            "repo": "DynamicsCRMProvider",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Type provider to provide a typed representation of files and directories based on your project structure or a virtual file system.",
+          "title": "EasyBuild.FileSystemProvider",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-01-14T13:40:38Z",
+            "owner": "easybuild-org",
+            "repo": "EasyBuild.FileSystemProvider",
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "Excel type provider.",
+          "title": "ExcelProvider",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-10-30T09:53:14Z",
+            "owner": "fsprojects",
+            "repo": "ExcelProvider",
+            "stars": 147
+          }
+        },
+        {
+          "children": [],
+          "description": "The project contains type providers for the configuration of .NET projects. Handles AppSettings, ResX, Yaml and Ini files.",
+          "title": "FSharp.Configuration",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-05-03T15:04:46Z",
+            "owner": "fsprojects",
+            "repo": "FSharp.Configuration",
+            "stars": 115
+          }
+        },
+        {
+          "children": [],
+          "description": "F# type providers library on a top of well-known Npgsql ADO.NET client library.",
+          "title": "FSharp.Data.Npgsql",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2022-09-04T17:33:26Z",
+            "owner": "demetrixbio",
+            "repo": "FSharp.Data.Npgsql",
+            "stars": 127
+          }
+        },
+        {
+          "children": [],
+          "description": "F# type provider for statically typed access to T-SQL command parameters and result set.",
+          "title": "FSharp.Data.SqlClient",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-04-30T21:38:09Z",
+            "owner": "fsprojects",
+            "repo": "FSharp.Data.SqlClient",
+            "stars": 204
+          }
+        },
+        {
+          "children": [],
+          "description": "TDMS support for F#.",
+          "title": "FSharp.Data.Tdms",
+          "repo_info": {
+            "archived": true,
+            "language": "F#",
+            "last_commit": "2022-12-26T12:18:41Z",
+            "owner": "mettekou",
+            "repo": "FSharp.Data.Tdms",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for various data access APIs based on FSharp.Data. The library currently includes the Twitter type provider for access to Twitter users and feeds, and SAS type provider to read SAS dataset files.",
+          "title": "FSharp.Data.Toolbox",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2021-11-24T21:59:31Z",
+            "owner": "fsprojects",
+            "repo": "FSharp.Data.Toolbox",
+            "stars": 57
+          }
+        },
+        {
+          "children": [],
+          "description": "Library that contains type providers for  files,  files, WSDL services, OData services, and SQL databases.",
+          "title": "FSharp.Data.TypeProviders",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2021-11-20T14:21:17Z",
+            "owner": "fsprojects",
+            "repo": "FSharp.Data.TypeProviders",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "Data science library that contains type providers for CSV, HTML, JSON, XML, and WorldBank data.",
+          "title": "FSharp.Data",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-09-01T14:56:47Z",
+            "owner": "fsharp",
+            "repo": "FSharp.Data",
+            "stars": 862
+          }
+        },
+        {
+          "children": [],
+          "description": "The project contains various type providers for the management of the machine. Handles file system, registry,  Windows Management Instrumentation, PowerShell and SystemTimeZones.",
+          "title": "FSharp.Management",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2019-06-17T19:25:56Z",
+            "owner": "fsprojects",
+            "repo": "FSharp.Management",
+            "stars": 93
+          }
+        },
+        {
+          "children": [],
+          "description": "Type provider for regular expressions.",
+          "title": "FSharp.Text.RegexProvider",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2019-10-11T13:55:45Z",
+            "owner": "fsprojects",
+            "repo": "FSharp.Text.RegexProvider",
+            "stars": 77
+          }
+        },
+        {
+          "children": [],
+          "description": "Generates F# data access source code from SQL queries and stored procedures.",
+          "title": "Facil",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-02-02T19:12:11Z",
+            "owner": "cmeeren",
+            "repo": "Facil",
+            "stars": 152
+          }
+        },
+        {
+          "children": [],
+          "description": "F# Tools for working with XAML Projects.",
+          "title": "FsXaml",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2019-12-06T22:18:54Z",
+            "owner": "fsprojects",
+            "repo": "FsXaml",
+            "stars": 171
+          }
+        },
+        {
+          "children": [],
+          "description": "Typed Yaml library for F#.",
+          "title": "FsYaml",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2022-06-20T14:19:32Z",
+            "owner": "bleis-tift",
+            "repo": "FsYaml",
+            "stars": 37
+          }
+        },
+        {
+          "children": [],
+          "description": "state machine type provider.",
+          "title": "GraphProvider",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2016-04-04T19:48:09Z",
+            "owner": "fsprojects",
+            "repo": "GraphProvider",
+            "stars": 36
+          }
+        },
+        {
+          "children": [],
+          "description": "Erased type provider for  files (binary MATLAB format files).",
+          "title": "MatDataProvider",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2018-02-28T12:41:07Z",
+            "owner": "fsprojects",
+            "repo": "matprovider",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Type provider to interop with R.",
+          "title": "R Type Provider",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2023-04-11T14:12:37Z",
+            "owner": "BlueMountainCapital",
+            "repo": "FSharpRProvider",
+            "stars": 240
+          }
+        },
+        {
+          "children": [],
+          "description": "Statically typed SQL for F#.",
+          "title": "Rezoom.SQL",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2020-07-13T15:13:20Z",
+            "owner": "rspeele",
+            "repo": "Rezoom.SQL",
+            "stars": 678
+          }
+        },
+        {
+          "children": [],
+          "description": "Experimental type provider for Amazon S3.",
+          "title": "S3Provider",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2016-04-04T19:51:22Z",
+            "owner": "fsprojects",
+            "repo": "S3Provider",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "General F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, CRUD operations and much more besides.",
+          "title": "SQLProvider",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-11-16T12:33:43Z",
+            "owner": "fsprojects",
+            "repo": "SQLProvider",
+            "stars": 619
+          }
+        },
+        {
+          "children": [],
+          "description": "Generative type provider for Swagger.",
+          "title": "SwaggerProvider",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-02-01T14:00:33Z",
+            "owner": "fsprojects",
+            "repo": "SwaggerProvider",
+            "stars": 271
+          }
+        }
+      ],
+      "title": "Type Providers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Charting library suitable for interactive F# scripting.",
+          "title": "FSharp.Charting",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2020-07-06T16:08:07Z",
+            "owner": "fslaborg",
+            "repo": "FSharp.Charting",
+            "stars": 209
+          }
+        },
+        {
+          "children": [],
+          "description": "Visualization library for data scientists.",
+          "title": "GG.Net",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-06T19:40:17Z",
+            "owner": "pablofrommars",
+            "repo": "GGNet",
+            "stars": 87
+          }
+        },
+        {
+          "children": [],
+          "description": "A Plotly-based general purpose plotting library for F#.",
+          "title": "Plotly.NET",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-08-09T11:05:08Z",
+            "owner": "plotly",
+            "repo": "Plotly.NET",
+            "stars": 834
+          }
+        },
+        {
+          "children": [],
+          "description": "Create SVG vector graphics in F#.",
+          "title": "SharpVG",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-10-11T16:07:06Z",
+            "owner": "ChrisNikkel",
+            "repo": "SharpVG",
+            "stars": 79
+          }
+        },
+        {
+          "children": [],
+          "description": "A plotting library for the F# programming language.",
+          "title": "XPlot",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-12-26T19:25:34Z",
+            "owner": "fslaborg",
+            "repo": "XPlot",
+            "stars": 288
+          }
+        }
+      ],
+      "title": "Visualization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "F# in WebAssembly, develop SPAs with the full power of F# and .NET Blazor.",
+          "title": "Bolero",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-10-26T18:25:29Z",
+            "owner": "fsbolero",
+            "repo": "Bolero",
+            "stars": 1128
+          }
+        },
+        {
+          "children": [],
+          "description": "A functional-first toolkit for building brilliant ASP.NET Core applications using F#.",
+          "title": "Falco",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-02-07T22:51:39Z",
+            "owner": "pimbrouwers",
+            "repo": "Falco",
+            "stars": 620
+          }
+        },
+        {
+          "children": [],
+          "description": "Boilerplate-free, idiomatic JSON:API for your beautiful, idiomatic F# domain model.",
+          "title": "Felicity",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-12-19T14:03:56Z",
+            "owner": "cmeeren",
+            "repo": "Felicity",
+            "stars": 95
+          }
+        },
+        {
+          "children": [],
+          "description": "A fresh retake of the React API in Fable and a collection of high-quality components to build React applications in F#.",
+          "title": "Feliz",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-01-01T12:10:12Z",
+            "owner": "Zaid-Ajaj",
+            "repo": "Feliz",
+            "stars": 589
+          }
+        },
+        {
+          "children": [],
+          "description": "Cross-platform website generator and server using F#, Suave and PostgreSQL or MS SQL Server.",
+          "title": "Genit",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-03-01T02:43:32Z",
+            "owner": "lefthandedgoat",
+            "repo": "genit",
+            "stars": 67
+          }
+        },
+        {
+          "children": [],
+          "description": "Native functional ASP.NET Core web framework for F# developers.",
+          "title": "Giraffe",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-01-26T22:27:42Z",
+            "owner": "giraffe-fsharp",
+            "repo": "Giraffe",
+            "stars": 2229
+          }
+        },
+        {
+          "children": [],
+          "description": "ASP.NET Core based F# framework + supporting tools (ViewEngine, Htmx, OpenApi).",
+          "title": "Oxpecker",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-02-06T22:29:21Z",
+            "owner": "Lanayx",
+            "repo": "Oxpecker",
+            "stars": 399
+          }
+        },
+        {
+          "children": [],
+          "description": "Opinionated, web development framework for F# which implements the server-side, functional MVC pattern.",
+          "title": "Saturn",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-07-31T12:04:48Z",
+            "owner": "SaturnFramework",
+            "repo": "Saturn",
+            "stars": 725
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition.",
+          "title": "Suave",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-01-16T23:46:54Z",
+            "owner": "SuaveIO",
+            "repo": "suave",
+            "stars": 1343
+          }
+        },
+        {
+          "children": [],
+          "description": "F#-based web programming platform including a compiler from F# code to JavaScript.",
+          "title": "WebSharper",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-12-23T20:33:09Z",
+            "owner": "intellifactory",
+            "repo": "websharper",
+            "stars": 624
+          }
+        }
+      ],
+      "title": "Web Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "ASP.NET Core WebAPI F# Template",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2019-07-08T04:01:42Z",
+            "owner": "MNie",
+            "repo": "FSharpNetCoreWebApiTemplate",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Expecto Template",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-03-12T10:30:28Z",
+            "owner": "MNie",
+            "repo": "Expecto.Template",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Fable, F# |> Babel"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Fable-elmish",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-01-02T15:43:39Z",
+            "owner": "fable-compiler",
+            "repo": "fable-elmish",
+            "stars": 890
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Giraffe Template",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-08-19T21:38:19Z",
+            "owner": "giraffe-fsharp",
+            "repo": "giraffe-template",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "F# Template for creating and publishing libraries targeting .NET Full (net45) and Core (netstandard1.6),",
+          "title": "MiniScaffold",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-11-13T04:19:58Z",
+            "owner": "TheAngryByrd",
+            "repo": "MiniScaffold",
+            "stars": 273
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "NancyFx Template",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2019-11-29T17:47:30Z",
+            "owner": "MNie",
+            "repo": "NancyFxCore",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "SAFE Stack Template",
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-11-15T10:40:12Z",
+            "owner": "SAFE-Stack",
+            "repo": "SAFE-template",
+            "stars": 291
+          }
+        }
+      ],
+      "title": ".NET Core Templates"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Share your snippets of F# code.",
+          "title": "F# Snips"
+        },
+        {
+          "children": [],
+          "description": "Quick reference for the main language features.",
+          "title": "F# cheatsheet"
+        },
+        {
+          "children": [],
+          "description": "Official language tour from Microsoft.",
+          "title": "F# tour"
+        },
+        {
+          "children": [],
+          "description": "A 30-minute F# tutorial for C# programmers, with back-to-back code snippets.",
+          "title": "Guide for C# devs to learn F#",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-07T12:32:22Z",
+            "owner": "knocte",
+            "repo": "2fsharp",
+            "stars": 168
+          }
+        },
+        {
+          "children": [],
+          "description": "A 30-minute F# tutorial for Python programmers, with back-to-back code snippets.",
+          "title": "Guide for Python devs to learn F#",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-07T12:32:22Z",
+            "owner": "knocte",
+            "repo": "2fsharp",
+            "stars": 168
+          }
+        },
+        {
+          "children": [],
+          "description": "Informal manual for users of Rust and F# to read through to learn about the other language.",
+          "title": "Guide for Rust devs to learn F#",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-14T21:11:11Z",
+            "owner": "Dhghomon",
+            "repo": "rust-fsharp",
+            "stars": 263
+          }
+        },
+        {
+          "children": [],
+          "description": "A guide recommended to quickly start programming in F#.",
+          "title": "Learn F# in Y minutes"
+        }
+      ],
+      "title": "Cheatsheets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Collection of awesome .NET libraries, tools, frameworks and software.",
+          "title": "Awesome .NET!",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-16T00:31:13Z",
+            "owner": "quozd",
+            "repo": "awesome-dotnet",
+            "stars": 21080
+          }
+        },
+        {
+          "children": [],
+          "description": "Community curated list of companies that use F# (maybe useful if you're looking for a job?)",
+          "title": "Companies using F#",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-26T13:13:04Z",
+            "owner": "fsprojects",
+            "repo": "fsharp-companies",
+            "stars": 408
+          }
+        },
+        {
+          "children": [],
+          "description": "Everything produced by the F# community.",
+          "title": "F# Community Projects"
+        },
+        {
+          "children": [],
+          "description": "A directory to discover F# tools, libraries and resources.",
+          "title": "FSharpest"
+        },
+        {
+          "children": [],
+          "description": "A curated list of useful Fable-related tutorials, libraries and software.",
+          "title": "Fable Resources"
+        }
+      ],
+      "title": "Other Lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:31:09.769Z",
+    "original_repository": "fsprojects/awesome-fsharp",
+    "source_repository": "v1nvn/enhansome-fsharp",
+    "source_repository_description": null,
+    "title": "Awesome F# with stars"
+  }
+}

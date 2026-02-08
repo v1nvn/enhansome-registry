@@ -1,0 +1,1002 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.",
+          "title": "Nigiri",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-29T18:01:35Z",
+            "owner": "vulpemventures",
+            "repo": "nigiri",
+            "stars": 325
+          }
+        },
+        {
+          "children": [],
+          "description": "Bitcoin CLI swiss-army-knife (based on rust-bitcoin).",
+          "title": "hal",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-11-20T22:08:26Z",
+            "owner": "stevenroose",
+            "repo": "hal",
+            "stars": 213
+          }
+        },
+        {
+          "children": [],
+          "description": "Live USB for airgapped transactions and Bitcoin swiss army knife.",
+          "title": "BitKey"
+        },
+        {
+          "children": [],
+          "description": "Python-based Bitcoin and alt-coin utility library.",
+          "title": "Pycoin",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-28T20:33:59Z",
+            "owner": "richardkiss",
+            "repo": "pycoin",
+            "stars": 1439
+          }
+        },
+        {
+          "children": [],
+          "description": "Bitcoin Command Line Tool.",
+          "title": "bx",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-01T22:16:22Z",
+            "owner": "libbitcoin",
+            "repo": "libbitcoin-explorer",
+            "stars": 633
+          }
+        },
+        {
+          "children": [],
+          "description": "Dead man's switch for crypto using Shamir's Secret Sharing to protect seed phrases and ensure inheritance.",
+          "title": "Deadhand Protocol"
+        },
+        {
+          "children": [],
+          "description": "A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.",
+          "title": "txwatcher",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-04T20:18:20Z",
+            "owner": "tsileo",
+            "repo": "txwatcher",
+            "stars": 50
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.",
+          "title": "hellobitcoin",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-03-22T15:56:37Z",
+            "owner": "prettymuchbryce",
+            "repo": "hellobitcoin",
+            "stars": 255
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Mining visualization"
+        },
+        {
+          "children": [],
+          "description": "Find all used addresses in your Bitcoin HD wallets bypassing gap limits.",
+          "title": "HD Wallet Scanner",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-11T21:41:34Z",
+            "owner": "alexk111",
+            "repo": "HD-Wallet-Scanner",
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "A no-framework, no-dependencies, customizable, animate-able, SVG-based  web component.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-28T22:38:55Z",
+            "owner": "bitjson",
+            "repo": "qr-code",
+            "stars": 1377
+          }
+        },
+        {
+          "children": [],
+          "description": "Bitcoin dashboard with real-time price data, a chart, orderbook, market summary, Twitter/X insights, and halving countdown data.",
+          "title": "BTC Tooling",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T17:46:15Z",
+            "owner": "douvy",
+            "repo": "btc-tooling",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Fastest ad-free universal block explorer.",
+          "title": "3xpl.com"
+        },
+        {
+          "children": [],
+          "description": "Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool.",
+          "title": "Bitquery.io"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "block.io"
+        },
+        {
+          "children": [],
+          "description": "Universal blockchain explorer and search engine.",
+          "title": "blockchair.com"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "BlockCypher"
+        },
+        {
+          "children": [],
+          "description": "Self-hosted blockchain explorer.",
+          "title": "Esplora",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-04T19:44:50Z",
+            "owner": "Blockstream",
+            "repo": "esplora",
+            "stars": 1195
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Insight"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Chain.com"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Coinbase Wallet"
+        },
+        {
+          "children": [],
+          "description": "Blockchain Explorer API for Chainradar.",
+          "title": "Chainradar API",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-01T01:54:57Z",
+            "owner": "yasaricli",
+            "repo": "chainradar-api",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "A better way to share your Bitcoin address.",
+          "title": "One-Time Address",
+          "repo_info": {
+            "archived": false,
+            "language": "Handlebars",
+            "last_commit": "2022-12-11T04:04:50Z",
+            "owner": "alexk111",
+            "repo": "One-Time-Address",
+            "stars": 82
+          }
+        },
+        {
+          "children": [],
+          "description": "Bitcoin wallet monitoring and blockchain alerts.",
+          "title": "Cryptocurrency Alerting"
+        },
+        {
+          "children": [],
+          "description": "Unified Bitcoin Layer-1 and Layer-2 wallet connection and account abstraction.",
+          "title": "BTC Connect"
+        },
+        {
+          "children": [],
+          "description": "The blockchain development platform to build Web3 application. The go-to blockchain data API for Web3 developers.",
+          "title": "Tatum"
+        },
+        {
+          "children": [],
+          "description": "Open source and self hostable REST, WebSocket and Electrum RPC API",
+          "title": "mempool.space"
+        },
+        {
+          "children": [],
+          "description": "An open source Bitcoin Core data extractor and visualizer (aka FOSS Glassnode)",
+          "title": "kibō.money"
+        },
+        {
+          "children": [],
+          "description": "A high-performance Bitcoin RPC and UTXO indexer API that powers applications with real-time blockchain data, mempool monitoring, and event notifications.",
+          "title": "Maestro"
+        }
+      ],
+      "title": "Blockchain API and Web services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Awesome CryptoCoinJS",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-02-17T14:23:29Z",
+            "owner": "cryptocoinjs",
+            "repo": "awesome-cryptocoinjs",
+            "stars": 62
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Bitcore Library",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-05T22:21:48Z",
+            "owner": "bitpay",
+            "repo": "bitcore",
+            "stars": 4983
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Bitcoinjs-lib",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-07T15:35:51Z",
+            "owner": "bitcoinjs",
+            "repo": "bitcoinjs-lib",
+            "stars": 5969
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Cryptocoin"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "BlockTrail SDK NodeJS",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-09T10:45:58Z",
+            "owner": "blocktrail",
+            "repo": "blocktrail-sdk-nodejs",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "Javascript bitcoin library for node.js and browsers.",
+          "title": "bcoin",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-12T16:30:12Z",
+            "owner": "bcoin-org",
+            "repo": "bcoin",
+            "stars": 3065
+          }
+        },
+        {
+          "children": [],
+          "description": "A lightweight, zero-dependency, JavaScript/TypeScript bitcoin library.",
+          "title": "Libauth"
+        },
+        {
+          "children": [],
+          "description": "audited implementation of secp256k1 + schnorr in pure typescript",
+          "title": "noble-curves",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-13T01:04:38Z",
+            "owner": "paulmillr",
+            "repo": "noble-curves",
+            "stars": 881
+          }
+        },
+        {
+          "children": [],
+          "description": "alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work",
+          "title": "noble-secp256k1",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-11T03:04:42Z",
+            "owner": "paulmillr",
+            "repo": "noble-secp256k1",
+            "stars": 864
+          }
+        },
+        {
+          "children": [],
+          "description": "audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.",
+          "title": "scure-btc-signer",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-13T00:42:12Z",
+            "owner": "paulmillr",
+            "repo": "scure-btc-signer",
+            "stars": 232
+          }
+        },
+        {
+          "children": [],
+          "description": "Bitcoin TypeScript/JavaScript Library for NodeJS, Browser and Mobile. Segwit & Taproot support.",
+          "title": "bitcoin-sdk-js",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-24T11:41:38Z",
+            "owner": "ChrisCho-H",
+            "repo": "bitcoin-sdk-js",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "JavaScript Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "PHP-OP_RETURN",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-03-09T03:48:54Z",
+            "owner": "coinspark",
+            "repo": "php-OP_RETURN",
+            "stars": 83
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "BlockTrail PHP SDK",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-28T20:33:33Z",
+            "owner": "blocktrail",
+            "repo": "blocktrail-sdk-php",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "PHP Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Bitcoin-ruby",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-08-19T18:41:11Z",
+            "owner": "lian",
+            "repo": "bitcoin-ruby",
+            "stars": 928
+          }
+        },
+        {
+          "children": [],
+          "description": "Ruby bitcoin library including script interpreter.",
+          "title": "bitcoinrb",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-02-07T07:01:30Z",
+            "owner": "chaintope",
+            "repo": "bitcoinrb",
+            "stars": 67
+          }
+        },
+        {
+          "children": [],
+          "description": "Bech32 and Bech32m encode/decode library.",
+          "title": "bech32rb",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-01-21T08:49:47Z",
+            "owner": "azuchi",
+            "repo": "bech32rb",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "Schnorr signature library for Bitcoin.",
+          "title": "bip-schnorrrb",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-12-30T02:05:53Z",
+            "owner": "chaintope",
+            "repo": "bip-schnorrrb",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Ruby Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "With BDK, you can seamlessly build cross platform mobile wallets",
+          "title": "Bitcoin Dev Kit (BDK)"
+        },
+        {
+          "children": [],
+          "description": "support for de/serialization, parsing and executing on data-structures and network messages.",
+          "title": "Rust Bitcoin",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-08T02:32:21Z",
+            "owner": "rust-bitcoin",
+            "repo": "rust-bitcoin",
+            "stars": 2561
+          }
+        },
+        {
+          "children": [],
+          "description": "Complete Lightning implementation packaged as an SDK",
+          "title": "Lightning Dev Kit (LDK)"
+        },
+        {
+          "children": [],
+          "description": "A High-Level, Imperative Language for Bitcoin Smart Contracts, featuring an LR(1) parser with static analysis for compile-time safety.",
+          "title": "Bithoven",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-06T10:22:19Z",
+            "owner": "ChrisCho-H",
+            "repo": "bithoven",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Rust Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "BlockTrail SDK Python",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-27T07:51:30Z",
+            "owner": "blocktrail",
+            "repo": "blocktrail-sdk-python",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple library to store/retrieve information in bitcoin transactions using OP_RETURN.",
+          "title": "btctxstore",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-02T11:35:34Z",
+            "owner": "F483",
+            "repo": "btctxstore",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Python library for Bitcoin signatures and transactions from Vitalik Buterin. Project discontinued.",
+          "title": "pybitcointools",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-03T07:01:58Z",
+            "owner": "vbuterin",
+            "repo": "pybitcointools",
+            "stars": 1332
+          }
+        },
+        {
+          "children": [],
+          "description": "Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx).",
+          "title": "pycoin",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-28T20:33:59Z",
+            "owner": "richardkiss",
+            "repo": "pycoin",
+            "stars": 1439
+          }
+        },
+        {
+          "children": [],
+          "description": "Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.",
+          "title": "bitcoin_tools",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-30T09:47:26Z",
+            "owner": "sr-gi",
+            "repo": "bitcoin_tools",
+            "stars": 314
+          }
+        },
+        {
+          "children": [],
+          "description": "A secure Bitcoin utility library for Python.",
+          "title": "oogway"
+        },
+        {
+          "children": [],
+          "description": "Python BTC is an experimental project that aims to provide human-friendly interfaces for common BTC operations.",
+          "title": "pybtc",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T03:26:36Z",
+            "owner": "mohanson",
+            "repo": "pybtc",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Python Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "BitcoinJ"
+        },
+        {
+          "children": [],
+          "description": "Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.",
+          "title": "XChange",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-26T13:01:21Z",
+            "owner": "knowm",
+            "repo": "XChange",
+            "stars": 4050
+          }
+        },
+        {
+          "children": [],
+          "description": "Bitcoin integration for Spring Boot applications.",
+          "title": "Bitcoin Spring Boot Starter",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-03T16:06:10Z",
+            "owner": "theborakompanioni",
+            "repo": "bitcoin-spring-boot-starter",
+            "stars": 80
+          }
+        }
+      ],
+      "title": "Java Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Comprehensive Bitcoin library for the .NET framework.",
+          "title": "NBitcoin",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-28T12:31:43Z",
+            "owner": "MetacoSA",
+            "repo": "NBitcoin",
+            "stars": 1947
+          }
+        },
+        {
+          "children": [],
+          "description": "The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.",
+          "title": "BitcoinLib",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T00:57:39Z",
+            "owner": "cryptean",
+            "repo": "bitcoinlib",
+            "stars": 417
+          }
+        }
+      ],
+      "title": ".Net Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Script Playground"
+        },
+        {
+          "children": [],
+          "description": "Bitcoin Script for dummies.",
+          "title": "Bitcoin IDE",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-30T21:36:24Z",
+            "owner": "siminchen",
+            "repo": "bitcoinIDE",
+            "stars": 220
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Script Debugger",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-09T03:21:22Z",
+            "owner": "kallewoof",
+            "repo": "btcdeb",
+            "stars": 46
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Bitcore Playground"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Mnemonic Code generator"
+        },
+        {
+          "children": [],
+          "description": "A web-based demonstration of blockchain concepts.",
+          "title": "blockchain-demo",
+          "repo_info": {
+            "archived": false,
+            "language": "Pug",
+            "last_commit": "2026-01-01T13:35:03Z",
+            "owner": "anders94",
+            "repo": "blockchain-demo",
+            "stars": 5637
+          }
+        },
+        {
+          "children": [],
+          "description": "Visualize Bitcoin script execution for real transactions.",
+          "title": "Bitcoin Script Debugger",
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2023-11-29T06:14:14Z",
+            "owner": "liuhongchao",
+            "repo": "bitcoin4s",
+            "stars": 57
+          }
+        },
+        {
+          "children": [],
+          "description": "An interactive development environment for Bitcoin contracts.",
+          "title": "Bitauth IDE"
+        },
+        {
+          "children": [],
+          "description": "Run select bitcoin RPC API calls and read full RPC docs in your browser.",
+          "title": "ChainQuery Bitcoin RPC"
+        },
+        {
+          "children": [],
+          "description": "Web IDE for Bithoven, A High-Level, Imperative Language for Bitcoin Smart Contracts.",
+          "title": "Bithoven IDE"
+        }
+      ],
+      "title": "Playgrounds"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "These are postgres database dumps of the bitcoin-ruby-blockchain database generated by webbtc.com.",
+          "title": "WebBTC"
+        },
+        {
+          "children": [],
+          "description": "A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database.",
+          "title": "BitcoinDatabaseGenerator",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-04-30T05:07:36Z",
+            "owner": "ladimolnar",
+            "repo": "BitcoinDatabaseGenerator",
+            "stars": 127
+          }
+        },
+        {
+          "children": [],
+          "description": "Fast, quick and dirty bitcoin blockchain parser.",
+          "title": "Blockparser+SQL",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-10-05T09:20:58Z",
+            "owner": "mcdee",
+            "repo": "blockparser",
+            "stars": 60
+          }
+        },
+        {
+          "children": [],
+          "description": "Abe: block browser for Bitcoin and similar currencies.",
+          "title": "BitcoinABE",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-26T04:16:54Z",
+            "owner": "bitcoin-abe",
+            "repo": "bitcoin-abe",
+            "stars": 981
+          }
+        },
+        {
+          "children": [],
+          "description": "A multi-node blockchain indexer and GraphQL API.",
+          "title": "Chaingraph",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-16T01:53:02Z",
+            "owner": "bitauth",
+            "repo": "chaingraph",
+            "stars": 58
+          }
+        }
+      ],
+      "title": "Blockchain dump"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Go-based full node since 2013.",
+          "title": "btcd",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-13T02:34:13Z",
+            "owner": "btcsuite",
+            "repo": "btcd",
+            "stars": 6665
+          }
+        },
+        {
+          "children": [],
+          "description": "bitcoin node based on bitcoin-ruby-blockchain.",
+          "title": "Bitcoin-ruby-node",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2016-04-23T20:11:00Z",
+            "owner": "mhanne",
+            "repo": "bitcoin-ruby-node",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "Javascript implementation of bitcoin.",
+          "title": "Fullnode",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-16T21:35:26Z",
+            "owner": "moneybutton",
+            "repo": "yours-bitcoin",
+            "stars": 196
+          }
+        },
+        {
+          "children": [],
+          "description": "bitcoind linked to node.js by BitPay.",
+          "title": "Bitcore Node",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-08T08:32:19Z",
+            "owner": "bitpay",
+            "repo": "bitcore-node",
+            "stars": 352
+          }
+        },
+        {
+          "children": [],
+          "description": "Formerly just a Nodejs library, now a full node.",
+          "title": "Bitcore",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-05T22:21:48Z",
+            "owner": "bitpay",
+            "repo": "bitcore",
+            "stars": 4983
+          }
+        },
+        {
+          "children": [],
+          "description": "direct descendant of the original Bitcoin implementation in C++",
+          "title": "Bitcoin Core"
+        }
+      ],
+      "title": "Full nodes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "A Gentle Introduction to Bitcoin Core Development"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Mastering Bitcoin",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-12-26T18:18:32Z",
+            "owner": "bitcoinbook",
+            "repo": "bitcoinbook",
+            "stars": 25079
+          }
+        },
+        {
+          "children": [],
+          "description": "An in-depth technical book with rich illustrations.",
+          "title": "Grokking Bitcoin"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Bitcoin Stackexchange"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Elliptic Curve Cryptography A Gentle Introduction"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Bitcoin Programming with BitcoinJS and Bitcoin Core CLI",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-01-10T22:24:02Z",
+            "owner": "bitcoin-studio",
+            "repo": "Bitcoin-Programming-with-BitcoinJS",
+            "stars": 163
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Bitcoin Protocol Development Curriculum - Chaincode Labs",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-23T20:49:32Z",
+            "owner": "chaincodelabs",
+            "repo": "bitcoin-curriculum",
+            "stars": 687
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Lightning Network Protocol Development Curriculum - Chaincode Labs",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-07T21:25:32Z",
+            "owner": "chaincodelabs",
+            "repo": "lightning-curriculum",
+            "stars": 371
+          }
+        },
+        {
+          "children": [],
+          "description": "Find useful resources, guides and reference material for developers.",
+          "title": "btcinformation.org / Developer Documentation"
+        }
+      ],
+      "title": "Read"
+    },
+    {
+      "description": "To the extent possible under law, Igor Barinov has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:32:45.055Z",
+    "original_repository": "igorbarinov/awesome-bitcoin",
+    "source_repository": "v1nvn/enhansome-bitcoin",
+    "source_repository_description": null,
+    "title": "Awesome Bitcoin"
+  }
+}

@@ -1,0 +1,1466 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A module for simple integration with Atlassian HipChat via the HipChat API.",
+          "title": "HipChatAdmin",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2018-10-02T20:02:54Z",
+            "owner": "cofonseca",
+            "repo": "HipChatAdmin",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Module contains commands to manage GitHub through its REST API.",
+          "title": "PSGitHub",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2022-03-16T01:03:41Z",
+            "owner": "pcgeek86",
+            "repo": "PSGitHub",
+            "stars": 190
+          }
+        },
+        {
+          "children": [],
+          "description": "Cmdlets that expose the GitHub API.",
+          "title": "Posh-GitHub",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2016-08-10T13:42:41Z",
+            "owner": "Iristyle",
+            "repo": "Posh-GitHub",
+            "stars": 73
+          }
+        },
+        {
+          "children": [],
+          "description": "Cmdlets for interacting with GitHub Gist.",
+          "title": "Posh-Gist",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2016-02-12T21:34:43Z",
+            "owner": "dfinke",
+            "repo": "Posh-Gist",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "A module to work with GitHub Gists.",
+          "title": "PSGist",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2016-09-14T20:36:46Z",
+            "owner": "dotps1",
+            "repo": "PSGist",
+            "stars": 46
+          }
+        },
+        {
+          "children": [],
+          "description": "A module to interact with the AppVeyor REST API.",
+          "title": "PSAppVeyor",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2017-01-04T19:36:54Z",
+            "owner": "dotps1",
+            "repo": "PSAppVeyor",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Module for simple Slack integration.",
+          "title": "PSSlack",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2022-12-01T17:58:38Z",
+            "owner": "RamblingCookieMonster",
+            "repo": "PSSlack",
+            "stars": 274
+          }
+        },
+        {
+          "children": [],
+          "description": "A module for interacting with Atlassian's Confluence in powershell (by using the API).",
+          "title": "ConfluencePS"
+        },
+        {
+          "children": [],
+          "description": "A module for interacting with Atlassian's Jira in powershell (by using the API).",
+          "title": "JiraPS"
+        },
+        {
+          "children": [],
+          "description": "Module for Telegram APIs",
+          "title": "PSTelegramAPI",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2019-02-05T15:00:11Z",
+            "owner": "mkellerman",
+            "repo": "PSTelegramAPI",
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "A module for sending formatted messages to a Microsoft Teams Channel.",
+          "title": "PSTeams",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-08-08T15:25:12Z",
+            "owner": "EvotecIT",
+            "repo": "PSTeams",
+            "stars": 436
+          }
+        },
+        {
+          "children": [],
+          "description": "A module for  that is a service to scan and analyze websites.",
+          "title": "PSURLScanio",
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2021-02-22T09:12:24Z",
+            "owner": "sysgoblin",
+            "repo": "PSURLScanio",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "API Wrapper"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Build automation tool inspired by rake (aka make in Ruby) and bake (aka make in Boo).",
+          "title": "psake",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-09-04T23:26:14Z",
+            "owner": "psake",
+            "repo": "psake",
+            "stars": 1603
+          }
+        },
+        {
+          "children": [],
+          "description": "Build and test automation tool inspired by psake.",
+          "title": "Invoke-Build",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-01-28T12:52:07Z",
+            "owner": "nightroman",
+            "repo": "Invoke-Build",
+            "stars": 714
+          }
+        },
+        {
+          "children": [],
+          "description": "Module built for the purpose of simplifying multiple types of deployments.",
+          "title": "PSDeploy",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2021-01-13T22:00:55Z",
+            "owner": "RamblingCookieMonster",
+            "repo": "PSDeploy",
+            "stars": 350
+          }
+        },
+        {
+          "children": [],
+          "description": "Variety of helper functions for CI/CD scenarios.",
+          "title": "BuildHelpers",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-08-11T15:04:37Z",
+            "owner": "RamblingCookieMonster",
+            "repo": "BuildHelpers",
+            "stars": 221
+          }
+        },
+        {
+          "children": [],
+          "description": "Build and deployment framework aimed at .NET projects.",
+          "title": "YDeliver",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2015-05-22T17:00:52Z",
+            "owner": "manojlds",
+            "repo": "YDeliver",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Build Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Provides directory specific environments through .env files, similar to direnv.",
+          "title": "Dotenv",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-08-31T19:03:45Z",
+            "owner": "insomnimus",
+            "repo": "ps-dotenv",
+            "stars": 79
+          }
+        },
+        {
+          "children": [],
+          "description": "Set of PowerShell scripts which provide Git/PowerShell integration.",
+          "title": "posh-git",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-09-02T15:03:06Z",
+            "owner": "dahlbyk",
+            "repo": "posh-git",
+            "stars": 8143
+          }
+        },
+        {
+          "children": [],
+          "description": "Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.",
+          "title": "PSReadLine",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-20T19:05:11Z",
+            "owner": "lzybkr",
+            "repo": "PSReadLine",
+            "stars": 4179
+          }
+        },
+        {
+          "children": [],
+          "description": "PowerShell module to make customizing tab completion easier and add a library of custom argument completers.",
+          "title": "TabExpansionPlusPlus",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2019-01-11T00:24:41Z",
+            "owner": "lzybkr",
+            "repo": "TabExpansionPlusPlus",
+            "stars": 202
+          }
+        },
+        {
+          "children": [],
+          "description": "PowerShell  that reads your mind.  implementation for PowerShell.",
+          "title": "Jump-Location",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-09-26T16:48:36Z",
+            "owner": "tkellogg",
+            "repo": "Jump-Location",
+            "stars": 471
+          }
+        },
+        {
+          "children": [],
+          "description": "implementation for PowerShell. Similar to Jump-Location.",
+          "title": "Zlocation",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-05-22T09:08:05Z",
+            "owner": "vors",
+            "repo": "ZLocation",
+            "stars": 612
+          }
+        },
+        {
+          "children": [],
+          "description": "Magnificent app which corrects your previous console command (by typing ).",
+          "title": "thefuck",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-19T14:56:13Z",
+            "owner": "nvbn",
+            "repo": "thefuck",
+            "stars": 95421
+          }
+        },
+        {
+          "children": [],
+          "description": "a PowerShell module that wraps , a fuzzy file finder for the command line.",
+          "title": "PSFzf",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-01-24T22:01:52Z",
+            "owner": "kelleyma49",
+            "repo": "PSFzf",
+            "stars": 1073
+          }
+        },
+        {
+          "children": [],
+          "description": "LINQ (LINQ2Objects) for PowerShell.",
+          "title": "pslinq",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-11-29T21:59:27Z",
+            "owner": "manojlds",
+            "repo": "pslinq",
+            "stars": 76
+          }
+        },
+        {
+          "children": [],
+          "description": "Command prefixing for continuous workflow using a single tool.",
+          "title": "posh-with",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2016-08-25T06:09:59Z",
+            "owner": "JanJoris",
+            "repo": "posh-with",
+            "stars": 73
+          }
+        },
+        {
+          "children": [],
+          "description": "implementation. Interactive filtering tool.",
+          "title": "poco",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-11-09T23:31:18Z",
+            "owner": "peco",
+            "repo": "peco",
+            "stars": 7855
+          }
+        },
+        {
+          "children": [],
+          "description": "DirTags are relative paths that appear as variables in the PowerShell prompt that update as you navigate. Saves keystrokes when navigating folder structures.",
+          "title": "PSDirTag",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2017-12-10T13:44:59Z",
+            "owner": "wtjones",
+            "repo": "PSDirTag",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "Designed to make the user's console life more convenient. It includes shortcuts, aliases, key bindings and convenience functions geared towards greater efficiency and less typing.",
+          "title": "PSUtil",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-05-31T12:02:20Z",
+            "owner": "PowershellFrameworkCollective",
+            "repo": "PSUtil",
+            "stars": 157
+          }
+        },
+        {
+          "children": [],
+          "description": "Get parameter completion for native Unix utilities. Requires zsh or bash.",
+          "title": "Microsoft.PowerShell.UnixCompleters",
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2021-09-24T13:24:36Z",
+            "owner": "PowerShell",
+            "repo": "Modules",
+            "stars": 112
+          }
+        },
+        {
+          "children": [],
+          "description": "PowerShell Dependency Handler",
+          "title": "PSDepend",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-09-07T15:52:12Z",
+            "owner": "RamblingCookieMonster",
+            "repo": "PSDepend",
+            "stars": 292
+          }
+        },
+        {
+          "children": [],
+          "description": "A set of of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console.",
+          "title": "PSScriptTools",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-03-26T18:02:52Z",
+            "owner": "jdhitsolutions",
+            "repo": "PSScriptTools",
+            "stars": 988
+          }
+        },
+        {
+          "children": [],
+          "description": "A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.",
+          "title": "zoxide",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-07T06:47:21Z",
+            "owner": "ajeetdsouza",
+            "repo": "zoxide",
+            "stars": 33223
+          }
+        }
+      ],
+      "title": "Commandline Productivity"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Simple powershell module for conversion between  and JSON.",
+          "title": "hjson-powershell",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2019-10-09T13:35:00Z",
+            "owner": "TomasBouda",
+            "repo": "hjson-powershell",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Module to import/export Excel spreadsheets, without Excel.",
+          "title": "ImportExcel",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-12-26T21:33:04Z",
+            "owner": "dfinke",
+            "repo": "ImportExcel",
+            "stars": 2687
+          }
+        },
+        {
+          "children": [],
+          "description": "PowerShell CmdLets for YAML format manipulation.",
+          "title": "powershell-yaml",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-01-05T20:47:32Z",
+            "owner": "cloudbase",
+            "repo": "powershell-yaml",
+            "stars": 493
+          }
+        },
+        {
+          "children": [],
+          "description": "PSWriteHTML is a PowerShell module allowing you to create HTML easily.",
+          "title": "PSWriteHTML",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-12-29T07:42:32Z",
+            "owner": "EvotecIT",
+            "repo": "PSWriteHTML",
+            "stars": 980
+          }
+        },
+        {
+          "children": [],
+          "description": "Module to create, edit, split, merge PDF files on Windows / Linux and MacOS.",
+          "title": "PSWritePDF",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-09T16:58:27Z",
+            "owner": "EvotecIT",
+            "repo": "PSWritePDF",
+            "stars": 226
+          }
+        },
+        {
+          "children": [],
+          "description": "Module to create Microsoft Word documents without Microsoft Word installed.",
+          "title": "PSWriteWord",
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2022-04-11T19:24:45Z",
+            "owner": "EvotecIT",
+            "repo": "PSWriteWord",
+            "stars": 238
+          }
+        }
+      ],
+      "title": "Data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Write PowerShell External Help in Markdown.",
+          "title": "platyPS",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-31T22:57:14Z",
+            "owner": "PowerShell",
+            "repo": "platyPS",
+            "stars": 855
+          }
+        },
+        {
+          "children": [],
+          "description": "PowerShell function to create a HTML help file for a module and all it's commands.",
+          "title": "Invoke-CreateModuleHelpFile",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2014-10-18T17:48:49Z",
+            "owner": "gravejester",
+            "repo": "Invoke-CreateModuleHelpFile",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "PowerShell documentation framework what can create HTML, Word, text files based on PowerShell-based DSL (domain specific language).",
+          "title": "PScribo",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-03-07T08:59:18Z",
+            "owner": "iainbrighton",
+            "repo": "PScribo",
+            "stars": 250
+          }
+        }
+      ],
+      "title": "Documentation Helper"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Powerful PowerShell IDE with module, help, and user interface development tools, high DPI support and regular updates.",
+          "title": "PowerShell Studio"
+        },
+        {
+          "children": [],
+          "description": "Provides IntelliSense, code navigations, script analysis, script debugging, and more for the  editor.",
+          "title": "PowerShell for Visual Studio Code"
+        },
+        {
+          "children": [],
+          "description": "Official PowerShell development environment included with Microsoft Windows.",
+          "title": "PowerShell ISE"
+        },
+        {
+          "children": [],
+          "description": "Add-on for the PowerShell ISE which provides a rich set of additional features to complete the ISE development experience.",
+          "title": "ISE Steroids"
+        },
+        {
+          "children": [],
+          "description": "All in one IDE.",
+          "title": "PowerShell Plus"
+        },
+        {
+          "children": [],
+          "description": "PowerShell language support for Sublime Text.",
+          "title": "SublimeText package",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-01-29T19:39:26Z",
+            "owner": "SublimeText",
+            "repo": "PowerShell",
+            "stars": 335
+          }
+        },
+        {
+          "children": [],
+          "description": "PowerShell language support for Atom.",
+          "title": "Atom package",
+          "repo_info": {
+            "archived": true,
+            "language": "CoffeeScript",
+            "last_commit": "2018-10-09T18:25:28Z",
+            "owner": "jugglingnutcase",
+            "repo": "language-powershell",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Editors and IDEs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "DevOps for automating the configuration of Windows computers.",
+          "title": "Carbon"
+        },
+        {
+          "children": [],
+          "description": "Powerful server management framework.",
+          "title": "PowerShell PowerUp",
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2025-04-08T16:08:35Z",
+            "owner": "janikvonrotz",
+            "repo": "PowerShell-PowerUp",
+            "stars": 122
+          }
+        },
+        {
+          "children": [],
+          "description": "PowerShell Community Extensions - Useful set of additional cmdlets.",
+          "title": "PSCX",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-01T15:50:18Z",
+            "owner": "Pscx",
+            "repo": "Pscx",
+            "stars": 773
+          }
+        },
+        {
+          "children": [],
+          "description": "Easily add configurations, logging and more to your own PowerShell module.",
+          "title": "PSFramework",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-01-13T11:18:40Z",
+            "owner": "PowershellFrameworkCollective",
+            "repo": "psframework",
+            "stars": 477
+          }
+        },
+        {
+          "children": [],
+          "description": "Incident response framework.",
+          "title": "Kansa",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2022-11-22T02:14:29Z",
+            "owner": "davehull",
+            "repo": "Kansa",
+            "stars": 1638
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.",
+          "title": "PSKoans",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-09-03T22:08:21Z",
+            "owner": "vexx32",
+            "repo": "PSKoans",
+            "stars": 1828
+          }
+        },
+        {
+          "children": [],
+          "description": "Jupyter Kernel for PowerShell.",
+          "title": "Jupyter-PowerShell",
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-11-17T05:22:33Z",
+            "owner": "Jaykul",
+            "repo": "Jupyter-PowerShell",
+            "stars": 110
+          }
+        }
+      ],
+      "title": "Interactive Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Plaster is a template-based file and project generator written in PowerShell.",
+          "title": "Plaster",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-08-04T14:36:30Z",
+            "owner": "PowerShell",
+            "repo": "Plaster",
+            "stars": 738
+          }
+        },
+        {
+          "children": [],
+          "description": "Get started using module templates in 2 minutes with this module's low entry barrier and casual convenience.",
+          "title": "PSModuleDevelopment",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-01-18T17:02:45Z",
+            "owner": "PowershellFrameworkCollective",
+            "repo": "PSModuleDevelopment",
+            "stars": 146
+          }
+        },
+        {
+          "children": [],
+          "description": "Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.",
+          "title": "Catesta",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-03-10T14:33:55Z",
+            "owner": "techthoughts2",
+            "repo": "Catesta",
+            "stars": 190
+          }
+        }
+      ],
+      "title": "Module Development Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "PowerShellGet is the Package Manager for PowerShell. Packages are available on .",
+          "title": "PowerShellGet",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-06-26T22:42:31Z",
+            "owner": "powershell",
+            "repo": "powershellget",
+            "stars": 82
+          }
+        },
+        {
+          "children": [],
+          "description": "The package manager for Windows. The sane way to manage software on Windows.",
+          "title": "Chocolatey"
+        },
+        {
+          "children": [],
+          "description": "Use a GitLab server as Package Provider.",
+          "title": "GitLab",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2018-12-22T17:02:14Z",
+            "owner": "akamac",
+            "repo": "GitLabProvider",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "A command-line installer for Windows.",
+          "title": "Scoop"
+        },
+        {
+          "children": [],
+          "description": "Provides a set of functions to perform common application deployment tasks and to interact with the user during a deployment.",
+          "title": "PowerShell App Deployment Toolkit"
+        }
+      ],
+      "title": "Package Managers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Provides an alternative to PSJobs with greater performance and less overhead to run commands in the background.",
+          "title": "PoshRSJob",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2020-08-31T06:31:46Z",
+            "owner": "proxb",
+            "repo": "PoshRSJob",
+            "stars": 551
+          }
+        },
+        {
+          "children": [],
+          "description": "This function will take in a script or scriptblock, and run it against specified objects(s) in parallel.",
+          "title": "Invoke-Parallel",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2022-02-17T15:02:48Z",
+            "owner": "RamblingCookieMonster",
+            "repo": "Invoke-Parallel",
+            "stars": 394
+          }
+        },
+        {
+          "children": [],
+          "description": "Module for running concurrent jobs based on threads rather than processes.",
+          "title": "PSThreadJob",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-04-24T16:24:43Z",
+            "owner": "PaulHigin",
+            "repo": "PSThreadJob",
+            "stars": 180
+          }
+        }
+      ],
+      "title": "Parallel Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Module used to aid a reverse engineer.",
+          "title": "PowerShellArsenal",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2021-08-20T08:41:50Z",
+            "owner": "mattifestation",
+            "repo": "PowerShellArsenal",
+            "stars": 891
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of projects with a focus on offensive operations.",
+          "title": "PowerTools",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2021-12-28T21:00:42Z",
+            "owner": "Veil-Framework",
+            "repo": "PowerTools",
+            "stars": 2177
+          }
+        },
+        {
+          "children": [],
+          "description": "Popular live disk forensics platform for windows.",
+          "title": "PowerForensics",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-11-16T10:31:37Z",
+            "owner": "Invoke-IR",
+            "repo": "PowerForensics",
+            "stars": 1428
+          }
+        },
+        {
+          "children": [],
+          "description": "Post-exploitation framework.",
+          "title": "PowerSploit",
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2020-08-17T23:19:49Z",
+            "owner": "PowerShellMafia",
+            "repo": "PowerSploit",
+            "stars": 12862
+          }
+        },
+        {
+          "children": [],
+          "description": "Post-exploitation agent.",
+          "title": "PowerShellEmpire",
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2020-01-19T22:50:59Z",
+            "owner": "PowerShellEmpire",
+            "repo": "Empire",
+            "stars": 7796
+          }
+        },
+        {
+          "children": [],
+          "description": "Easily define in-memory enums, structs, and Win32 functions in PowerShell. Useful for attacks, .",
+          "title": "PSReflect",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2018-10-14T17:26:20Z",
+            "owner": "mattifestation",
+            "repo": "PSReflect",
+            "stars": 227
+          }
+        },
+        {
+          "children": [],
+          "description": "Easily identify highly complex attack paths that would otherwise be impossible to quickly identify.",
+          "title": "BloodHound",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-08-01T14:34:03Z",
+            "owner": "BloodHoundAD",
+            "repo": "BloodHound",
+            "stars": 10535
+          }
+        },
+        {
+          "children": [],
+          "description": "Enables scripting for red team, penetration testing, and offensive security.",
+          "title": "Nishang",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-04-25T19:39:44Z",
+            "owner": "samratashok",
+            "repo": "nishang",
+            "stars": 9730
+          }
+        },
+        {
+          "children": [],
+          "description": "Interactive remote PowerShell Payload.",
+          "title": "Harness",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-01-21T19:10:14Z",
+            "owner": "Rich5",
+            "repo": "Harness",
+            "stars": 78
+          }
+        },
+        {
+          "children": [],
+          "description": "PowerShell Obfuscator.",
+          "title": "Invoke-Obfuscation",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-08-10T23:49:06Z",
+            "owner": "danielbohannon",
+            "repo": "Invoke-Obfuscation",
+            "stars": 4190
+          }
+        },
+        {
+          "children": [],
+          "description": "PowerShell Runspace Post Exploitation Toolkit.",
+          "title": "p0wnedShell",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-08-02T16:24:39Z",
+            "owner": "Cn33liz",
+            "repo": "p0wnedShell",
+            "stars": 1547
+          }
+        },
+        {
+          "children": [],
+          "description": "Module to check if a Windows binary (EXE/DLL) has been compiled with ASLR, DEP, SafeSEH, StrongNaming, and Authenticode.",
+          "title": "PESecurity",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-07-31T09:53:02Z",
+            "owner": "NetSPI",
+            "repo": "PESecurity",
+            "stars": 662
+          }
+        },
+        {
+          "children": [],
+          "description": "Powershell scripts used for general hackery.",
+          "title": "Powershellery",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-12-04T21:20:49Z",
+            "owner": "nullbind",
+            "repo": "Powershellery",
+            "stars": 581
+          }
+        },
+        {
+          "children": [],
+          "description": "Toolkit for Attacking SQL Server.",
+          "title": "PowerUpSQL",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-12-12T18:09:39Z",
+            "owner": "NetSPI",
+            "repo": "PowerUpSQL",
+            "stars": 2680
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Automated SharePoint 2010-2019 installation script.",
+          "title": "AutoSPInstaller"
+        },
+        {
+          "children": [],
+          "description": "SPReplicator helps replicate SharePoint list data to/from CSV, SQL Server, SharePoint itself and more.",
+          "title": "SPReplicator",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2021-09-24T10:51:43Z",
+            "owner": "potatoqualitee",
+            "repo": "SPReplicator",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "PowerShell module to help you auto-load all SharePoint 2019 cmdlets.",
+          "title": "SharePoint2019Commands",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2022-09-13T05:50:34Z",
+            "owner": "sassdawe",
+            "repo": "SharePoint2019Commands",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "SharePoint"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "PowerShell BDD style testing framework.",
+          "title": "Pester",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-01-29T11:50:16Z",
+            "owner": "pester",
+            "repo": "Pester",
+            "stars": 3257
+          }
+        },
+        {
+          "children": [],
+          "description": "PowerShell module for documenting Pester's results - exports Pester results to HTML, Word, text files using .",
+          "title": "Format-Pester",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2019-01-09T10:40:18Z",
+            "owner": "equelin",
+            "repo": "format-pester",
+            "stars": 85
+          }
+        },
+        {
+          "children": [],
+          "description": "PowerShell module to run a Selenium WebDriver.",
+          "title": "Selenium",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-08-29T00:36:29Z",
+            "owner": "adamdriscoll",
+            "repo": "selenium-powershell",
+            "stars": 476
+          }
+        },
+        {
+          "children": [],
+          "description": "PSScriptAnalyzer provides script analysis and checks for potential code defects in the scripts by applying a group of built-in or customized rules on the scripts being analyzed.",
+          "title": "PSScriptAnalyzer",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-03T20:22:04Z",
+            "owner": "PowerShell",
+            "repo": "PSScriptAnalyzer",
+            "stars": 2085
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme).",
+          "title": "Oh-My-Posh",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T06:51:09Z",
+            "owner": "jandedobbeleer",
+            "repo": "oh-my-posh",
+            "stars": 21453
+          }
+        },
+        {
+          "children": [],
+          "description": "Colour output from common commands with support for custom themes.",
+          "title": "PoshColor",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2020-12-27T05:28:17Z",
+            "owner": "JustABearOz",
+            "repo": "PoshColor",
+            "stars": 63
+          }
+        },
+        {
+          "children": [],
+          "description": "PowerShell Classes for richer output and prompts.",
+          "title": "Powerline",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-09-04T05:49:32Z",
+            "owner": "Jaykul",
+            "repo": "PowerLine",
+            "stars": 578
+          }
+        },
+        {
+          "children": [],
+          "description": "The minimal, blazing fast, and extremely customizable prompt for any shell.",
+          "title": "Starship",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-06T21:56:00Z",
+            "owner": "starship",
+            "repo": "starship",
+            "stars": 53981
+          }
+        }
+      ],
+      "title": "Themes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Designed to facilitate script input/output with an easily customizable WPF window.",
+          "title": "AnyBox",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2022-09-06T13:37:35Z",
+            "owner": "dm3ll3n",
+            "repo": "AnyBox",
+            "stars": 228
+          }
+        },
+        {
+          "children": [],
+          "description": "Module for creating and displaying Toast Notifications on Microsoft Windows 10.",
+          "title": "BurntToast",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-11-17T23:41:27Z",
+            "owner": "Windos",
+            "repo": "BurntToast",
+            "stars": 1629
+          }
+        },
+        {
+          "children": [],
+          "description": "Module to plot colorful console 2D Graphs (Scatter, Bar, Line).",
+          "title": "Graphical",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-11-30T17:03:47Z",
+            "owner": "PrateekKumarSingh",
+            "repo": "graphical",
+            "stars": 359
+          }
+        },
+        {
+          "children": [],
+          "description": "A module that mixes PowerShell and GUIs! - built on Avalonia and gui.cs.",
+          "title": "GraphicalTools",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-13T01:31:57Z",
+            "owner": "PowerShell",
+            "repo": "GraphicalTools",
+            "stars": 932
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple module to render interactive console menu.",
+          "title": "PS-Menu",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-03-03T21:38:37Z",
+            "owner": "chrisseroka",
+            "repo": "ps-menu",
+            "stars": 274
+          }
+        },
+        {
+          "children": [],
+          "description": "Write-Color is a wrapper around Write-Host allowing you to create nice looking scripts, with colorized output.",
+          "title": "PSWriteColor",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-04-21T16:46:33Z",
+            "owner": "EvotecIT",
+            "repo": "PSWriteColor",
+            "stars": 189
+          }
+        },
+        {
+          "children": [],
+          "description": "Module to show file and folder icons in the terminal.",
+          "title": "Terminal-Icons",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-08-06T15:47:02Z",
+            "owner": "devblackops",
+            "repo": "Terminal-Icons",
+            "stars": 2826
+          }
+        },
+        {
+          "children": [],
+          "description": "Write inline progress bars in PowerShell.",
+          "title": "psInlineProgress",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2016-04-30T20:27:26Z",
+            "owner": "gravejester",
+            "repo": "psInlineProgress",
+            "stars": 104
+          }
+        }
+      ],
+      "title": "UI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Web microframework for Windows PowerShell.",
+          "title": "Flancy",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2016-01-20T19:32:36Z",
+            "owner": "toenuff",
+            "repo": "flancy",
+            "stars": 192
+          }
+        },
+        {
+          "children": [],
+          "description": "Pode is a Cross-Platform PowerShell framework for creating web servers to host REST APIs, Web Sites, and TCP/SMTP Servers.",
+          "title": "Pode",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-02-04T22:27:50Z",
+            "owner": "Badgerati",
+            "repo": "Pode",
+            "stars": 1022
+          }
+        },
+        {
+          "children": [],
+          "description": "A cross-platform, minimalist web framework for PowerShell.",
+          "title": "Polaris",
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2020-08-10T15:58:38Z",
+            "owner": "PowerShell",
+            "repo": "Polaris",
+            "stars": 512
+          }
+        },
+        {
+          "children": [],
+          "description": "Run scripts and view results, in a friendly web GUI or via a web service.",
+          "title": "WebCommander",
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2018-08-28T14:02:21Z",
+            "owner": "vmware",
+            "repo": "webcommander",
+            "stars": 167
+          }
+        }
+      ],
+      "title": "Webserver"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A PowerShell front-end for the Windows debugger engine.",
+          "title": "DbgShell",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-04-03T21:19:10Z",
+            "owner": "Microsoft",
+            "repo": "DbgShell",
+            "stars": 694
+          }
+        },
+        {
+          "children": [],
+          "description": "A CLI tool to transpile trained classic ML models into a native PowerShell code with zero dependencies.",
+          "title": "m2cgen",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-03T17:30:36Z",
+            "owner": "BayesWitnesses",
+            "repo": "m2cgen",
+            "stars": 2954
+          }
+        },
+        {
+          "children": [],
+          "description": "Crazy cool reflection module for PowerShell.\nExplore and invoke private APIs like nobody is watching.\nUseful for security research, testing and quick hacks.",
+          "title": "poke",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-11-24T21:13:55Z",
+            "owner": "oising",
+            "repo": "poke",
+            "stars": 93
+          }
+        },
+        {
+          "children": [],
+          "description": "Windows Server rapid lab deployment scripts.",
+          "title": "WSLab",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-10-21T13:38:35Z",
+            "owner": "microsoft",
+            "repo": "WSLab",
+            "stars": 1280
+          }
+        },
+        {
+          "children": [],
+          "description": "Powershell-based bot framework.",
+          "title": "PoshBot",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-04-04T20:45:06Z",
+            "owner": "poshbotio",
+            "repo": "PoshBot",
+            "stars": 546
+          }
+        },
+        {
+          "children": [],
+          "description": "Module for working with  databases.",
+          "title": "PoShKeePass",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2020-01-18T23:42:01Z",
+            "owner": "PSKeePass",
+            "repo": "PoShKeePass",
+            "stars": 255
+          }
+        }
+      ],
+      "title": "Misc"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:35:43.828Z",
+    "original_repository": "janikvonrotz/awesome-powershell",
+    "source_repository": "v1nvn/enhansome-powershell",
+    "source_repository_description": null,
+    "title": "Awesome PowerShell with stars"
+  }
+}

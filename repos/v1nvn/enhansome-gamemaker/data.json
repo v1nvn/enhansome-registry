@@ -1,0 +1,3206 @@
+{
+  "items": [
+    {
+      "description": "This includes data structures and file formats that do not fit into a more specific category.",
+      "items": [
+        {
+          "children": [],
+          "description": "A constructor library for operating the primary functionalities of GameMaker.",
+          "title": "GML-OOP",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-21T18:56:40Z",
+            "owner": "Mtax-Development",
+            "repo": "GML-OOP",
+            "stars": 32
+          }
+        },
+        {
+          "children": [],
+          "description": "Another project that adds OOP functionality to GameMaker.",
+          "title": "GML-Classes",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2024-05-08T06:58:06Z",
+            "owner": "Nikko-the-cat",
+            "repo": "GML-Classes",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Allows you to use ds_* types such as lists and maps inside of structs.",
+          "title": "Destructors",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2022-10-24T18:33:09Z",
+            "owner": "DatZach",
+            "repo": "Destructors",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Easy data format saving and loading. Please note that newer versions of GameMaker contain  and . However, if you are converting csv, ini, xml, etc, you may find this very useful.",
+          "title": "SNAP",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-19T08:50:45Z",
+            "owner": "JujuAdams",
+            "repo": "SNAP",
+            "stars": 95
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight objects using structs.",
+          "title": "LWO",
+          "repo_info": {
+            "archived": true,
+            "language": "Yacc",
+            "last_commit": "2021-07-07T04:47:42Z",
+            "owner": "tabularelf",
+            "repo": "lwo",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "String and file encryption.",
+          "title": "Lock And Key",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2020-09-07T12:36:12Z",
+            "owner": "AlubJ",
+            "repo": "Lock-And-Key",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Hash table implementations.",
+          "title": "Map",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-06-14T13:02:16Z",
+            "owner": "GameMakerDiscord",
+            "repo": "Map.gml",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of matrix handling scripts.",
+          "title": "Matrices",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2024-02-18T11:12:02Z",
+            "owner": "JujuAdams",
+            "repo": "matrices",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Data structure manipulation.",
+          "title": "gm-stream",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2022-03-02T15:30:17Z",
+            "owner": "daikon-games",
+            "repo": "gm-stream",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "An adaptation of JavaScript Promises.",
+          "title": "Promises",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2023-07-21T11:42:09Z",
+            "owner": "YAL-GameMaker",
+            "repo": "Promise.gml",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Adds a foreach implementation for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs.",
+          "title": "ForEach",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2020-10-13T10:58:24Z",
+            "owner": "KeeVeeGames",
+            "repo": "foreach.gml",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "Deep clone class instances / constructed structs, anonymous structs and arrays nested in any order!",
+          "title": "DeepCopy",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2023-03-18T16:47:08Z",
+            "owner": "KeeVeeGames",
+            "repo": "DeepCopy.gml",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Safe surfaces without memory leaks.",
+          "title": "Cottonwool",
+          "repo_info": {
+            "archived": true,
+            "language": "Game Maker Language",
+            "last_commit": "2024-07-12T12:58:02Z",
+            "owner": "JujuAdams",
+            "repo": "Cottonwool",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Save and load GML structured data in binary files, skirting memory and performance concerns associated with loading JSON as a string.",
+          "title": "BSONGML",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-03-22T04:27:41Z",
+            "owner": "LAGameStudio",
+            "repo": "BSONGML",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "A binary search library for efficient lookups on large datasets.",
+          "title": "Binder",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-06-19T10:21:13Z",
+            "owner": "Homunculus84",
+            "repo": "Binder",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Game file archive tool.",
+          "title": "Airkiver",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-20T17:37:10Z",
+            "owner": "AlubJ",
+            "repo": "Airkiver",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "An okay color manager for implementing OKLab/OKLCH colors.",
+          "title": "OKColor",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-18T22:35:29Z",
+            "owner": "KeeVeeGames",
+            "repo": "OKColor.gml",
+            "stars": 47
+          }
+        },
+        {
+          "children": [],
+          "description": "A base class for custom exceptions.",
+          "title": "Exception",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-03-29T07:24:26Z",
+            "owner": "KeeVeeGames",
+            "repo": "Exception.gml",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "The most complete list class. Garbage collected, fast sort function, [] accessor and referencing as an array.",
+          "title": "ArrayList",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2020-12-03T07:55:49Z",
+            "owner": "KeeVeeGames",
+            "repo": "ArrayList.gml",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Read and write buffers with per-bit granularity.",
+          "title": "Bit Buffers"
+        },
+        {
+          "children": [],
+          "description": "Dynamically load animated GIFs as sprites.",
+          "title": "sprite_add_gif"
+        },
+        {
+          "children": [],
+          "description": "Async memory & resources manager (texture groups, audio groups, etc). 💸",
+          "title": "Managix"
+        },
+        {
+          "children": [],
+          "description": "Lightweight n-gram library for fuzzy search, predictive text or token sequence modeling.",
+          "title": "Ngrams",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-12-10T07:58:18Z",
+            "owner": "tinkerer-red",
+            "repo": "Ngrams",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Data Manipulation"
+    },
+    {
+      "description": "These work on specific platform(s) and enable the games to do something that would be impossible, impractical, or inefficient to do in GML alone. Native extensions related to a specific task (e.g. input handling) can be found in those sections.",
+      "items": [
+        {
+          "children": [],
+          "description": "Simple compression/decompression functions.",
+          "title": "zlib functions"
+        },
+        {
+          "children": [],
+          "description": "Windows only. Flash the game window border and/or its taskbar button.",
+          "title": "Window Taskbar"
+        },
+        {
+          "children": [],
+          "description": "A template project for building DLLs for GameMaker.",
+          "title": "GMSDLL",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-15T18:39:52Z",
+            "owner": "YAL-GameMaker",
+            "repo": "GMSDLL",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "A suite of various extensions.",
+          "title": "Extension Collection"
+        },
+        {
+          "children": [],
+          "description": "Custom window caption and border for Windows.",
+          "title": "gameframe",
+          "repo_info": {
+            "archived": false,
+            "language": "Haxe",
+            "last_commit": "2024-09-15T09:44:56Z",
+            "owner": "YAL-GameMaker",
+            "repo": "gameframe",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "A DLL for interfacing with Windows Direct3D.",
+          "title": "GMD3D11",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-17T20:14:03Z",
+            "owner": "blueburncz",
+            "repo": "GMD3D11",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Cross-platform extension for getting system information and resource usage.",
+          "title": "GM Sysinfo",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-12T00:32:02Z",
+            "owner": "SpikeHD",
+            "repo": "gm-sysinfo",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Play videos. However, the latest version of GMS has video support.",
+          "title": "Video Player Extension"
+        },
+        {
+          "children": [],
+          "description": "Webcam capture.",
+          "title": "GMESCAPI"
+        },
+        {
+          "children": [],
+          "description": "Unmaintained projects from the Rousr team (in case anyone asks where OutsideTheBox/Dissonance went).",
+          "title": "Rousr Release"
+        },
+        {
+          "children": [],
+          "description": "Custom-shaped windows on Windows. 💸",
+          "title": "window_shape"
+        },
+        {
+          "children": [],
+          "description": "Multiple windows on Windows. 💸",
+          "title": "Windows' windows"
+        },
+        {
+          "children": [],
+          "description": "Native menus on Windows. 💸",
+          "title": "winMenu"
+        },
+        {
+          "children": [],
+          "description": "Change window and/or taskbar icons on Windows.",
+          "title": "window_set_icon"
+        },
+        {
+          "children": [],
+          "description": "Accept drag-and-dropping files onto a game window on Windows.",
+          "title": "file_dropper"
+        },
+        {
+          "children": [],
+          "description": "Drag-and-drop files  of the game window on Windows.",
+          "title": "file_dragger",
+          "repo_info": {
+            "archived": false,
+            "language": "Batchfile",
+            "last_commit": "2024-06-11T10:43:40Z",
+            "owner": "YAL-GameMaker",
+            "repo": "file_dragger",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Dispatch/intercept window controls like Minimize (and other window-related functions).",
+          "title": "Window Commands"
+        },
+        {
+          "children": [],
+          "description": "A way to use JS extensions in GX/WASM games.",
+          "title": "wasm-bridge",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-28T09:28:13Z",
+            "owner": "Sidorakh",
+            "repo": "wasm-bridge",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "A dynamic texture page loading system for HTML5.",
+          "title": "Web Dynamic Textures"
+        },
+        {
+          "children": [],
+          "description": "Windows 11 backdrop materials.",
+          "title": "GMWinBackdrop"
+        },
+        {
+          "children": [],
+          "description": "Example on how to make native DLL extensions in Rust.",
+          "title": "GMSDLL.rs",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-14T18:41:27Z",
+            "owner": "YAL-GameMaker",
+            "repo": "GMSDLL.rs",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Native Extensions"
+    },
+    {
+      "description": "Custom timers, timelines, and task scheduling.",
+      "items": [
+        {
+          "children": [],
+          "description": "Lightweight timestep library.",
+          "title": "Iota",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-10-20T12:32:42Z",
+            "owner": "JujuAdams",
+            "repo": "iota",
+            "stars": 47
+          }
+        },
+        {
+          "children": [],
+          "description": "GameMaker alarm replacement.",
+          "title": "Stopwatch",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2022-10-28T23:58:53Z",
+            "owner": "Lojemiru",
+            "repo": "Stopwatch",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Robust alternative for alarms.",
+          "title": "wTimer"
+        },
+        {
+          "children": [],
+          "description": "Another easy alternative to GameMaker alarms.",
+          "title": "FrogAlarm",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2022-03-26T19:57:52Z",
+            "owner": "colmeye",
+            "repo": "FrogAlarms",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Easy-to-use timer system.",
+          "title": "fuwafuwa",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2022-07-28T01:49:22Z",
+            "owner": "kemonologic",
+            "repo": "fuwafuwa",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Timer methods based on setTimeout and setInterval from JS.",
+          "title": "Timer",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2020-04-24T17:46:21Z",
+            "owner": "nommiin",
+            "repo": "Timers",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A pure code alternative to GameMaker timelines.",
+          "title": "GMTimeLine",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2022-11-03T22:35:32Z",
+            "owner": "TimVN",
+            "repo": "GMTimeLine",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Schedule and delay the execution of callbacks.",
+          "title": "Agenda",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2023-07-01T05:23:35Z",
+            "owner": "benal20",
+            "repo": "Agenda.gml",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Timing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.",
+          "title": "gm-core"
+        },
+        {
+          "children": [],
+          "description": "Flexible Assistant Toolkit. Similar to gm-core but comes with input and resolution handling.",
+          "title": "FAST",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2022-01-10T21:38:22Z",
+            "owner": "Hyomoto",
+            "repo": "FAST",
+            "stars": 32
+          }
+        },
+        {
+          "children": [],
+          "description": "General purpose game editor.",
+          "title": "DDDEditor",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-22T02:57:41Z",
+            "owner": "DragoniteSpam",
+            "repo": "DDDEditorGMS2",
+            "stars": 33
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of Juju's libraries in one convenient project.",
+          "title": "handytools",
+          "repo_info": {
+            "archived": true,
+            "language": "Game Maker Language",
+            "last_commit": "2025-01-18T12:39:19Z",
+            "owner": "JujuAdams",
+            "repo": "handytools",
+            "stars": 65
+          }
+        },
+        {
+          "children": [],
+          "description": "Another cool all-encompassing template with a focus on building low-res, tile-based games.",
+          "title": "GameMaker Scaffolding",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2023-12-28T20:28:39Z",
+            "owner": "babaganosch",
+            "repo": "GameMakerScaffolding",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Event handling library.",
+          "title": "Broadcast",
+          "repo_info": {
+            "archived": true,
+            "language": "Game Maker Language",
+            "last_commit": "2022-07-04T13:06:22Z",
+            "owner": "JulianDicken",
+            "repo": "Broadcast",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Interpolation functions.",
+          "title": "Polarca",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2024-03-11T11:58:22Z",
+            "owner": "VitorEstevam",
+            "repo": "polarca",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Easing function similar to lerp().",
+          "title": "Twerp"
+        },
+        {
+          "children": [],
+          "description": "Asynchronous functions for GameMaker.",
+          "title": "Coroutines",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-06-29T13:00:27Z",
+            "owner": "JujuAdams",
+            "repo": "Coroutines",
+            "stars": 82
+          }
+        },
+        {
+          "children": [],
+          "description": "Dynamic data loader.",
+          "title": "Dynamo",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-26T13:54:54Z",
+            "owner": "JujuAdams",
+            "repo": "Dynamo",
+            "stars": 33
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple deep file search function.",
+          "title": "Gumshoe",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2024-03-04T13:57:11Z",
+            "owner": "JujuAdams",
+            "repo": "Gumshoe",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of math scripts.",
+          "title": "Mathematical Scripts",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2023-06-12T03:12:13Z",
+            "owner": "adam-rumpf",
+            "repo": "game-maker-scripts",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of scripts to improve the GML programming experience.",
+          "title": "Seedpod",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2023-07-18T23:12:25Z",
+            "owner": "daikon-games",
+            "repo": "gm-seedpod",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "Juices up your game with useful functions.",
+          "title": "Trixscript"
+        },
+        {
+          "children": [],
+          "description": "A collection of CC0 programming libraries. (archived)",
+          "title": "CoreExtension",
+          "repo_info": {
+            "archived": true,
+            "language": "Game Maker Language",
+            "last_commit": "2022-01-27T17:54:57Z",
+            "owner": "blueburncz",
+            "repo": "CoreExtension",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Additional GML helper functions. Some may be out of date with 2.3+ syntax.",
+          "title": "Voxeledphoton's FreeGMScripts",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-10T19:55:59Z",
+            "owner": "vphoton",
+            "repo": "FreeGMScripts",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides replacement methods for built-in motion variables.",
+          "title": "Motion Scripts"
+        },
+        {
+          "children": [],
+          "description": "Another great solution for surface management.",
+          "title": "Canvas",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-12-31T06:41:34Z",
+            "owner": "tabularelf",
+            "repo": "Canvas",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "Functional programming in GML.",
+          "title": "GMLodash",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2021-11-28T13:25:29Z",
+            "owner": "DatZach",
+            "repo": "GMLodash",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "Automatically handles resizing the game view across different display and window sizes.",
+          "title": "Autoframer",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2021-05-02T22:06:05Z",
+            "owner": "mstop4",
+            "repo": "auto-framer",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "A script collection with a goal to \"fill the gaps\" in GML. 💸",
+          "title": "GML+"
+        },
+        {
+          "children": [],
+          "description": "Livecoding / interactive programming. 💸",
+          "title": "GMLive"
+        },
+        {
+          "children": [],
+          "description": "Highscore and trophy system.",
+          "title": "gml-highscorer",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2024-09-01T13:08:27Z",
+            "owner": "Grisgram",
+            "repo": "gml-highscorer",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple file saving system.",
+          "title": "SSave",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-10-13T19:53:44Z",
+            "owner": "stoozey",
+            "repo": "SSave",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "Cross-platform programming language for modding support.",
+          "title": "Catspeak",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-11-20T01:24:09Z",
+            "owner": "katsaii",
+            "repo": "catspeak-lang",
+            "stars": 121
+          }
+        },
+        {
+          "children": [],
+          "description": "Improves Catspeak performance.",
+          "title": "JITSpeak",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-11-08T05:47:55Z",
+            "owner": "BenjaminUrquhart",
+            "repo": "JITSpeak",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool to benchmark GML code.",
+          "title": "GMBenchmark",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-08-30T19:03:49Z",
+            "owner": "DragoniteSpam",
+            "repo": "GMBenchmark",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "A proof of concept for multiprocessing.",
+          "title": "GML-Multiprocessing",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-10-09T02:30:28Z",
+            "owner": "tinkerer-red",
+            "repo": "GML-Multiprocessing",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Centralized and persistent live configs for seamless game tuning and balancing.",
+          "title": "Figgy",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-28T10:38:26Z",
+            "owner": "glebtsereteli",
+            "repo": "Figgy",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "Organize your game's rendering into a customizable order.",
+          "title": "RenderStack",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-12-17T17:24:59Z",
+            "owner": "FoxyOfJungle",
+            "repo": "RenderStack",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "Things that work with project files or GameMaker itself rather than being something that's used in-game.",
+      "items": [
+        {
+          "children": [],
+          "description": "Edit GameMaker projects in VSCode.",
+          "title": "Stitch for VSCode"
+        },
+        {
+          "children": [],
+          "description": "Code editor to use in conjunction with GameMaker.",
+          "title": "GMEdit",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-25T18:54:24Z",
+            "owner": "YellowAfterlife",
+            "repo": "GMEdit",
+            "stars": 358
+          }
+        },
+        {
+          "children": [],
+          "description": "Makes  files for you.",
+          "title": "YYP Maker"
+        },
+        {
+          "children": [],
+          "description": "Compile GameMaker projects via the command line. Here's a  on how to use it.",
+          "title": "Rubber",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-02-20T04:12:08Z",
+            "owner": "GameMakerDiscord",
+            "repo": "Rubber",
+            "stars": 33
+          }
+        },
+        {
+          "children": [],
+          "description": "Experimental tool to define unlimited code snippets in the IDE.",
+          "title": "GMSnip"
+        },
+        {
+          "children": [],
+          "description": "High quality Vim syntax highlighting for GameMaker.",
+          "title": "vim-GML",
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2022-10-04T12:54:30Z",
+            "owner": "JafarDakhan",
+            "repo": "vim-gml",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Generate GML code from strongly-typed Haxe.",
+          "title": "sfGML"
+        },
+        {
+          "children": [],
+          "description": "Makes games made in new GM versions run on Windows 7.",
+          "title": "Win7 patcher for GM2024.11+"
+        },
+        {
+          "children": [],
+          "description": "Organizes audio files compiled games into subdirectories. 💸",
+          "title": "RerouteAudio"
+        },
+        {
+          "children": [],
+          "description": "Runtime compiler and interpreter to load, compile, and execute GML code at runtime.",
+          "title": "GMLC",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-12-24T21:36:34Z",
+            "owner": "tinkerer-red",
+            "repo": "GMLC",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc.",
+          "title": "rt-shell",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2023-07-11T23:25:18Z",
+            "owner": "daikon-games",
+            "repo": "rt-shell",
+            "stars": 92
+          }
+        },
+        {
+          "children": [],
+          "description": "Testing Framework.",
+          "title": "Olympus",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2024-05-13T19:18:28Z",
+            "owner": "bscotch",
+            "repo": "olympus",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "Unit testing in GameMaker.",
+          "title": "Crispy",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-11-26T21:33:34Z",
+            "owner": "bfrymire",
+            "repo": "crispy",
+            "stars": 42
+          }
+        },
+        {
+          "children": [],
+          "description": "Crash and logging system.",
+          "title": "Snitch",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-09-09T17:31:21Z",
+            "owner": "JujuAdams",
+            "repo": "Snitch",
+            "stars": 36
+          }
+        },
+        {
+          "children": [],
+          "description": "Small log writer.",
+          "title": "DeerLog"
+        },
+        {
+          "children": [],
+          "description": "Unit testing framework.",
+          "title": "gms2-test",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2022-12-27T00:45:00Z",
+            "owner": "pmarincak",
+            "repo": "gms2-test",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "Runtime asset inspector.",
+          "title": "Meta",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2020-08-15T07:56:02Z",
+            "owner": "nommiin",
+            "repo": "meta",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Pretty framerate display.",
+          "title": "FPS Speedometer"
+        },
+        {
+          "children": [],
+          "description": "A fast GML analyzer to enforce code styling and detect errors.",
+          "title": "Duck",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-05T14:20:25Z",
+            "owner": "imlazyeye",
+            "repo": "duck",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "An opinionated code formatter for GML.",
+          "title": "Gobo",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-21T17:57:54Z",
+            "owner": "Pizzaandy",
+            "repo": "Gobo",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "A fluent API for easily creating GameMaker debug views.",
+          "title": "Inspectron",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2024-06-19T19:32:47Z",
+            "owner": "shdwcat",
+            "repo": "Inspectron",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "A runtime inspector and control panel. 💸",
+          "title": "GMPulse"
+        },
+        {
+          "children": [],
+          "description": "Helpful debug overlay views.",
+          "title": "Lookout",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-28T10:41:09Z",
+            "owner": "glebtsereteli",
+            "repo": "Lookout",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Debugging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "No nonsense gamepad/keyboard library.",
+          "title": "Input",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-29T09:22:44Z",
+            "owner": "JujuAdams",
+            "repo": "input",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Another library to handle multiple inputs for a single action.",
+          "title": "XeroInput"
+        },
+        {
+          "children": [],
+          "description": "Similar to Input as it acts as a wrapper for SDL, with actions and signalling, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals, as well as pre-built end-user configuration menus that can be easily restyled.",
+          "title": "InputCandy",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-03-14T17:02:09Z",
+            "owner": "LAGameStudio",
+            "repo": "InputCandy",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Device vibration.",
+          "title": "Good Vibes",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2022-11-24T19:03:54Z",
+            "owner": "mrdaneeyul",
+            "repo": "good-vibes",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "Tracks the Windows mouse pointer with high precision.",
+          "title": "Mouse Queue",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-07-14T19:35:09Z",
+            "owner": "YAL-GameMaker",
+            "repo": "window_mouse_queue",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "System-level custom cursors. 💸",
+          "title": "Native Cursors"
+        },
+        {
+          "children": [],
+          "description": "System-level mouse locking. 💸",
+          "title": "Native Mouselock"
+        },
+        {
+          "children": [],
+          "description": "Use multiple mice and keyboards. 💸",
+          "title": "Raw Input"
+        }
+      ],
+      "title": "Input Handling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Efficient multi-effects text renderer.",
+          "title": "Scribble",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-29T22:13:05Z",
+            "owner": "JujuAdams",
+            "repo": "scribble",
+            "stars": 392
+          }
+        },
+        {
+          "children": [],
+          "description": "Another easy to use, highly compatible text renderer.",
+          "title": "Scripture"
+        },
+        {
+          "children": [],
+          "description": "Narrative scripting tool.",
+          "title": "Chatterbox",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-02-04T20:56:39Z",
+            "owner": "JujuAdams",
+            "repo": "chatterbox",
+            "stars": 166
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple textboxes.",
+          "title": "Textboxy",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2023-03-05T19:21:41Z",
+            "owner": "glitchroy",
+            "repo": "textboxy",
+            "stars": 65
+          }
+        },
+        {
+          "children": [],
+          "description": "An interactive dialogue editor for writers and programmers.",
+          "title": "Crochet",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-22T17:45:48Z",
+            "owner": "FaultyFunctions",
+            "repo": "Crochet",
+            "stars": 98
+          }
+        },
+        {
+          "children": [],
+          "description": "Notifications in GameMaker.",
+          "title": "NotificationSystem",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2023-12-28T13:36:21Z",
+            "owner": "babaganosch",
+            "repo": "NotificationSystem",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "A UI system with live reloading, template system, data binding, and a drag and drop feature.",
+          "title": "YUI",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-06T02:52:30Z",
+            "owner": "shdwcat",
+            "repo": "YUI",
+            "stars": 63
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple immediate mode GUI framework.",
+          "title": "Guido",
+          "repo_info": {
+            "archived": true,
+            "language": "Game Maker Language",
+            "last_commit": "2019-06-15T04:58:24Z",
+            "owner": "JujuAdams",
+            "repo": "Guido",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "A pure GML solution to structure and control your menus, drawing parallels to .NET UI.",
+          "title": "GMUI-Framework",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2021-07-20T23:45:32Z",
+            "owner": "AlertStudios",
+            "repo": "GMUI-Framework",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Immediate mode GameMaker UI library, tons of UI components.",
+          "title": "GMUI",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-06T17:54:35Z",
+            "owner": "erkan612",
+            "repo": "GMUI",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Surface-based GUI that allows 100% control over UI styling and functionality.",
+          "title": "MajorGUI",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-12-02T00:24:03Z",
+            "owner": "erkan612",
+            "repo": "MajorGUI_GML",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "A Library Full of useful scripts for implementing your UI designs in GameMaker.",
+          "title": "GMS2-UI-Library",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2018-01-11T00:11:41Z",
+            "owner": "nabilatsoulcade",
+            "repo": "GMS2-UI-Library",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).",
+          "title": "Emu UI",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-12-29T20:15:00Z",
+            "owner": "DragoniteSpam",
+            "repo": "Emu",
+            "stars": 40
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple implementation to have a menu up and running in seconds. Seems like a great fit if you're not looking for a bigger solution like GMUI.",
+          "title": "Easy And Fast Menu"
+        },
+        {
+          "children": [],
+          "description": "Another smaller implementation but has a cool animation between menu options.",
+          "title": "Pause Menu"
+        },
+        {
+          "children": [],
+          "description": "Generic Inventory System.",
+          "title": "Magpie"
+        },
+        {
+          "children": [],
+          "description": "DLL/GML wrapper of Dear ImGui.",
+          "title": "ImGuiGML"
+        },
+        {
+          "children": [],
+          "description": "GUI implementation from Niris Games.",
+          "title": "GUI Framework"
+        },
+        {
+          "children": [],
+          "description": "FriendlyCosmonaut.",
+          "title": "Menu Tutorial"
+        },
+        {
+          "children": [],
+          "description": "Pixelated Pope.",
+          "title": "Smart Clickable GUI"
+        },
+        {
+          "children": [],
+          "description": "Another interesting, Dear ImGui-inspired GUI toolkit. In development, but worth keeping an eye on.",
+          "title": "zitk",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2022-06-26T02:35:08Z",
+            "owner": "TandyRum1024",
+            "repo": "zitk",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Sprite-based UI Library for GameMaker LTS.",
+          "title": "gooey"
+        },
+        {
+          "children": [],
+          "description": "Minimalistic UI framework.",
+          "title": "SimpleUI",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2024-05-07T09:04:16Z",
+            "owner": "evolutionleo",
+            "repo": "SimpleUI",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Flexpanel system for modern, touch-friendly interfaces.",
+          "title": "LimeUI",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-09-29T17:49:49Z",
+            "owner": "Limekys",
+            "repo": "LimeUI",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "User Interface"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Localization library.",
+          "title": "polyglot",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2024-02-03T16:12:12Z",
+            "owner": "daikon-games",
+            "repo": "polyglot",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "Internationalization of texts simply and quickly, using JSON files.",
+          "title": "gm-i18n",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2023-02-04T18:38:28Z",
+            "owner": "CreativeHandOficial",
+            "repo": "gm-i18n",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "Another localization solution focused on simplifying implementation.",
+          "title": "lexicon",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-12-22T19:11:18Z",
+            "owner": "tabularelf",
+            "repo": "lexicon",
+            "stars": 50
+          }
+        },
+        {
+          "children": [],
+          "description": "Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file.",
+          "title": "GMLocalize",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-07-05T04:23:35Z",
+            "owner": "DragoniteSpam",
+            "repo": "GMLocalize2",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Similar export tool to GMLocalize but exports to a csv.",
+          "title": "Small Pentapop Localization Tool",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-23T22:09:40Z",
+            "owner": "AntonBergaker",
+            "repo": "small_pp_localization_tool",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Mofile reader used for localization.",
+          "title": "gms2-mofile",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-28T18:36:20Z",
+            "owner": "pmarincak",
+            "repo": "gms2-mofile",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Localization library with a text extractor, short syntax, and ICU/pluralization support. 💸",
+          "title": "cmnLoc"
+        },
+        {
+          "children": [],
+          "description": "A localization system with a web-based strings editor.",
+          "title": "MythLoco"
+        },
+        {
+          "children": [],
+          "description": "A localization system with real-time Google Sheets API synchronization.",
+          "title": "Krug's Localize System"
+        }
+      ],
+      "title": "Localization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A robust, pixel-perfect collision engine.",
+          "title": "Loj Hadron Collider",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2022-10-28T23:55:08Z",
+            "owner": "Lojemiru",
+            "repo": "Loj-Hadron-Collider",
+            "stars": 40
+          }
+        },
+        {
+          "children": [],
+          "description": "A tutorial to implement 45° slopes.",
+          "title": "On Slopes and Grids"
+        },
+        {
+          "children": [],
+          "description": "GameMaker implementation by Ben Allen and an expansion on Shaun Spalding's original 1.4 platformer tutorial.",
+          "title": "GMS2 Platforming System"
+        },
+        {
+          "children": [],
+          "description": "A library for working with inverse kinematics.",
+          "title": "Inverse Kinematics Extension",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-12-26T20:26:15Z",
+            "owner": "tonystr",
+            "repo": "Inverse-Kinematics-Extension-for-Gamemaker",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Verlet integration by Sarek Lambert.",
+          "title": "Verlet Integration Library"
+        },
+        {
+          "children": [],
+          "description": "Verlet integration example used for visuals.",
+          "title": "GMVerlet-Integration",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2021-06-10T04:40:41Z",
+            "owner": "tabularelf",
+            "repo": "GMVerlet-Integration",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Robust object-based collision system from Pixelated Pope.",
+          "title": "Top-Down Movement & Collision"
+        },
+        {
+          "children": [],
+          "description": "Adds NVIDIA PhysX to GameMaker for physics-based 2D/3D games. 💸",
+          "title": "GMPhysX"
+        }
+      ],
+      "title": "Physics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A sprite playback system.",
+          "title": "AESnips",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-04T00:45:55Z",
+            "owner": "angelwire",
+            "repo": "AESnips",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Placeholder asset generation.",
+          "title": "phgen",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2021-11-16T00:23:03Z",
+            "owner": "squircledev",
+            "repo": "phgen",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A spriter skeletal animation at runtime.",
+          "title": "Disarm",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2023-07-02T16:33:04Z",
+            "owner": "NuxiiGit",
+            "repo": "disarm",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "Utilities for creating art asset pipelines.",
+          "title": "SpriteSource",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-11T18:53:02Z",
+            "owner": "bscotch",
+            "repo": "stitch",
+            "stars": 149
+          }
+        },
+        {
+          "children": [],
+          "description": "Pixel art upscaling shader for awkward resolutions for GameMaker.",
+          "title": "PixelUpscaler",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2024-12-31T20:38:58Z",
+            "owner": "JujuAdams",
+            "repo": "Pixel-Art-Upscaling",
+            "stars": 36
+          }
+        },
+        {
+          "children": [],
+          "description": "Automatically syncs aesprite files in GameMaker.",
+          "title": "ASESync"
+        },
+        {
+          "children": [],
+          "description": "Similar to ASESync. Export Aesprite files to GameMaker sprites.",
+          "title": "conveyorbelt",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-08T03:34:52Z",
+            "owner": "imissmyfriends",
+            "repo": "conveyorbelt",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility.",
+          "title": "Collage",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-12-28T06:06:18Z",
+            "owner": "tabularelf",
+            "repo": "Collage",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Sprite animation manager.",
+          "title": "GM Animate",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-31T19:40:31Z",
+            "owner": "KormexGit",
+            "repo": "GM-Animate",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Sprites"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Official support for FMOD in GameMaker.",
+          "title": "GMEXT-FMOD",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-12-22T12:42:36Z",
+            "owner": "YoYoGames",
+            "repo": "GMEXT-FMOD",
+            "stars": 72
+          }
+        },
+        {
+          "children": [],
+          "description": "GameMaker bindings for the FMOD Studio API.",
+          "title": "FML",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-03-08T11:05:06Z",
+            "owner": "Nikkilae",
+            "repo": "fml",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Optimized delay effect. 💸",
+          "title": "Echo/Delay Effect"
+        },
+        {
+          "children": [],
+          "description": "Demonstrates how to externally load .wav files.",
+          "title": "wavload",
+          "repo_info": {
+            "archived": false,
+            "language": "NSIS",
+            "last_commit": "2020-10-05T10:58:24Z",
+            "owner": "nkrapivin",
+            "repo": "wavload",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Sound External Loader/Unloader Manager.",
+          "title": "audioExt",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2024-12-07T14:37:59Z",
+            "owner": "tabularelf",
+            "repo": "audioExt",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Load external .wav files at runtime.",
+          "title": "ExternalAudio",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-02-27T19:49:03Z",
+            "owner": "NuxiiGit",
+            "repo": "ExternalAudio",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Compact audio system. Great for dynamic music!",
+          "title": "Phonix",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2022-06-18T10:29:36Z",
+            "owner": "Andre-404",
+            "repo": "Phonix",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Live updating audio system.",
+          "title": "Vinyl",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-28T22:44:26Z",
+            "owner": "JujuAdams",
+            "repo": "Vinyl",
+            "stars": 56
+          }
+        },
+        {
+          "children": [],
+          "description": "Audio helper functions.",
+          "title": "LineAudio",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2023-11-08T13:45:57Z",
+            "owner": "WangleLine",
+            "repo": "LineAudio",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "An engine for desiging and implementing good audio in GameMaker. Updated to make use of the more recent GameMaker audio effects.",
+          "title": "Bard",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2024-09-16T20:16:53Z",
+            "owner": "gl326",
+            "repo": "bard-audio",
+            "stars": 40
+          }
+        },
+        {
+          "children": [],
+          "description": "A fully-featured musical synthesizer for GameMaker.",
+          "title": "SynthEngine"
+        },
+        {
+          "children": [],
+          "description": "Convenient music theory utilities for GameMaker.",
+          "title": "MusicTheoryLib"
+        },
+        {
+          "children": [],
+          "description": "Render audio wave forms from audio buffers in GameMaker.",
+          "title": "WaveForm"
+        },
+        {
+          "children": [],
+          "description": "Read and write WAV files in GameMaker.",
+          "title": "WaveWrite"
+        },
+        {
+          "children": [],
+          "description": "Read and write MIDI files in GameMaker.",
+          "title": "GMMidi"
+        },
+        {
+          "children": [],
+          "description": "Instant preset audio effects for GameMaker.",
+          "title": "EZAFX"
+        },
+        {
+          "children": [],
+          "description": "Perfectly sync game elements to the rhythm of your music.",
+          "title": "GMSync"
+        },
+        {
+          "children": [],
+          "description": "Easily monitor microphone volume in real time in GameMaker. 💸",
+          "title": "MicVol"
+        }
+      ],
+      "title": "Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "LDtk Importer.",
+          "title": "LDtk to GMS"
+        },
+        {
+          "children": [],
+          "description": "Advanced LDtk Importer.",
+          "title": "LDtkParser",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-08-14T15:15:32Z",
+            "owner": "evolutionleo",
+            "repo": "LDtkParser",
+            "stars": 60
+          }
+        },
+        {
+          "children": [],
+          "description": "Collects room data and stores it into a JSON for later use.",
+          "title": "Room Data Inspector",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2022-01-05T11:33:07Z",
+            "owner": "heygleeson",
+            "repo": "GM-RoomInspector",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Combines user-defined chambers to create a dungeon.",
+          "title": "Random Dungeon Generator",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2020-06-30T06:29:03Z",
+            "owner": "BlaXun",
+            "repo": "Random-Dungeon-Generator-GMS-2.3",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "A random level generation example (similar to Nuclear Throne) using GameMaker.",
+          "title": "Random Level Generator",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2018-03-03T05:24:01Z",
+            "owner": "GameMakerDiscord",
+            "repo": "random-level-gen-gms2",
+            "stars": 54
+          }
+        },
+        {
+          "children": [],
+          "description": "Generates a random tile map but not production ready in its current state.",
+          "title": "Wave Function Collapse"
+        },
+        {
+          "children": [],
+          "description": "An example of collidable, destructible terrain in GameMaker Studio using surfaces and grids.",
+          "title": "Destructible Terrain",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2023-04-17T15:53:20Z",
+            "owner": "niksudan",
+            "repo": "gms2-destructible-terrain",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "Generates huge caves in a few hundred milliseconds.",
+          "title": "Cellular Automata Caves"
+        },
+        {
+          "children": [],
+          "description": "Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation.",
+          "title": "GMRoomLoader",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-13T23:53:10Z",
+            "owner": "glebtsereteli",
+            "repo": "GMRoomLoader",
+            "stars": 105
+          }
+        }
+      ],
+      "title": "Levels"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Create particles with an easy UI and export into GML code.",
+          "title": "Particle Editor"
+        },
+        {
+          "children": [],
+          "description": "A simplistic particle system wrapper that is designed to make creating particles fun and easy.",
+          "title": "Particles Wrapper",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2022-08-21T18:14:01Z",
+            "owner": "GamemakerCasts",
+            "repo": "particles",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "A particle implementation that comes with it's own delta timing methods.",
+          "title": "Advanced Particles"
+        },
+        {
+          "children": [],
+          "description": "A library to create more complex particle emitters, systems and particles.",
+          "title": "Pulse",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-12-14T23:21:55Z",
+            "owner": "Delfos1",
+            "repo": "Pulse",
+            "stars": 23
+          }
+        },
+        {
+          "children": [],
+          "description": "Built-in particle system that uses the particle asset built into the IDE.",
+          "title": "Burrn",
+          "repo_info": {
+            "archived": true,
+            "language": "Yacc",
+            "last_commit": "2024-06-15T05:37:36Z",
+            "owner": "FoxyOfJungle",
+            "repo": "Burrn",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Particles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "2D lighting and shadows.",
+          "title": "Bulb",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-11-17T15:58:44Z",
+            "owner": "JujuAdams",
+            "repo": "Bulb",
+            "stars": 103
+          }
+        },
+        {
+          "children": [],
+          "description": "Tile-based Lighting Engine that projects shadows.",
+          "title": "GameMaker Lighting Engine",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2019-02-15T02:18:49Z",
+            "owner": "bilouw",
+            "repo": "Gamemaker-Lighting-Engine",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "Very fast dynamic 2D lighting implementation from GrizzliusMaximus using shadow casting.",
+          "title": "Lighting Systems"
+        },
+        {
+          "children": [],
+          "description": "Complete and efficient 2D lighting & shadows solution. 💸",
+          "title": "Crystal"
+        }
+      ],
+      "title": "Lighting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Transition Library.",
+          "title": "TransFX"
+        },
+        {
+          "children": [],
+          "description": "50+ high-quality, customizable effects. 💸",
+          "title": "Post-Processing FX"
+        },
+        {
+          "children": [],
+          "description": "Useful FOV depth effect. 💸",
+          "title": "Lens Distortion FOV"
+        },
+        {
+          "children": [],
+          "description": "Fast alpha blur shader effect in two lines of code. 💸",
+          "title": "Fast Blur Area"
+        },
+        {
+          "children": [],
+          "description": "42 customizable transitions. 💸",
+          "title": "Transitions Pro"
+        },
+        {
+          "children": [],
+          "description": "Turn your game visuals into a drawing/sketch style. 💸",
+          "title": "Sketch Cartoon Shader"
+        },
+        {
+          "children": [],
+          "description": "Customizable water object to easily display reflections. 💸",
+          "title": "2D Water Reflections"
+        },
+        {
+          "children": [],
+          "description": "Zik's CRT Utility Shader.",
+          "title": "BJRTFX"
+        },
+        {
+          "children": [],
+          "description": "Glitch shader.",
+          "title": "bktGlitch"
+        },
+        {
+          "children": [],
+          "description": "VHS Shader.",
+          "title": "H O R R I - F I"
+        },
+        {
+          "children": [],
+          "description": "Example project to demonstrate shader-based depth sorting sillouettes. Tested on PC, Mac, HTML5, and Android.",
+          "title": "Depth Sorted Sillouettes"
+        },
+        {
+          "children": [],
+          "description": "Shader tutorials from Xor. Originally hosted at \"xorshaders.com\".",
+          "title": "GMShaders.com"
+        },
+        {
+          "children": [],
+          "description": "Blur Shader with adjustable radius.",
+          "title": "1PassBlur",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-15T16:18:57Z",
+            "owner": "XorDev",
+            "repo": "1PassBlur",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Extension of the 1PassBlur which provides a different look. Similar to a real lens blur. Although it's much slower than 1Pass or Dual-Kawase.",
+          "title": "Bokeh Blur",
+          "repo_info": {
+            "archived": false,
+            "language": "GLSL",
+            "last_commit": "2024-03-02T18:16:55Z",
+            "owner": "XorDev",
+            "repo": "Bokeh",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Blur Shader that limits radius but is very efficient.",
+          "title": "Dual-Kawase",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2024-02-20T04:03:21Z",
+            "owner": "XorDev",
+            "repo": "Dual-Kawase",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "A wonderful, versitile halftone shader. Lots of tweakable settings.",
+          "title": "Xor's Halftone"
+        },
+        {
+          "children": [],
+          "description": "Sampled pixels on a Voronoi diagram.",
+          "title": "Voronoi",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2022-05-18T13:52:35Z",
+            "owner": "XorDev",
+            "repo": "GMS-Voronoi-Pixels",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Some fun magic fireballs.",
+          "title": "Fire-Fun",
+          "repo_info": {
+            "archived": false,
+            "language": "GLSL",
+            "last_commit": "2022-01-11T16:09:37Z",
+            "owner": "XorDev",
+            "repo": "Fire-Fun",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Jump Flooding Algorithm for GameMaker made with shaders.",
+          "title": "Jump Flooding"
+        },
+        {
+          "children": [],
+          "description": "Outline shader.",
+          "title": "Outline Shader",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2024-10-16T09:12:09Z",
+            "owner": "Grisgram",
+            "repo": "gml-outline-shader-drawer",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "Palette Swapper.",
+          "title": "Chameleon",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2022-10-28T23:58:06Z",
+            "owner": "Lojemiru",
+            "repo": "Chameleon",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Include code from external files in your shaders.",
+          "title": "Xpanda",
+          "repo_info": {
+            "archived": false,
+            "language": "GLSL",
+            "last_commit": "2025-12-28T17:59:28Z",
+            "owner": "GameMakerDiscord",
+            "repo": "Xpanda",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Convert shadertoy.com shaders to run in GameMaker (GLSL ES).",
+          "title": "Shadertoy to GameMaker",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-10T00:13:20Z",
+            "owner": "jfkn1ght",
+            "repo": "Shadertoy2GM",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Gaming Reverends.",
+          "title": "Shader Tutorials"
+        },
+        {
+          "children": [],
+          "description": "DragoniteSpam.",
+          "title": "Shader Tutorials"
+        }
+      ],
+      "title": "Shaders"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Official tool to turn 3D models into 2D sprites.",
+          "title": "3D-2D",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2023-03-27T07:34:53Z",
+            "owner": "YoYoGames",
+            "repo": "3D-2D",
+            "stars": 48
+          }
+        },
+        {
+          "children": [],
+          "description": "3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more.",
+          "title": "BBMOD",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-02-07T20:54:01Z",
+            "owner": "blueburn-cz",
+            "repo": "BBMOD",
+            "stars": 112
+          }
+        },
+        {
+          "children": [],
+          "description": "3D Collision Library from TheSnidr.",
+          "title": "ColMesh"
+        },
+        {
+          "children": [],
+          "description": "Import BSP files into GameMaker. Currently just a demo but worth keeping an eye on.",
+          "title": "BSP 4 GMS"
+        },
+        {
+          "children": [],
+          "description": "Lightweight .obj/.mtl 3D model loader written in native GML.",
+          "title": "dotobj",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-10-12T14:14:21Z",
+            "owner": "JujuAdams",
+            "repo": "dotobj",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "Example of how to build 3D world models from a 2D grid.",
+          "title": "Bronze Box",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2022-07-23T16:55:40Z",
+            "owner": "cicadian",
+            "repo": "Bronze-Box",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Extensive WAD manager to load DOOM maps in GameMaker.",
+          "title": "DopeFish Respawned"
+        },
+        {
+          "children": [],
+          "description": "A collection of scripts to export and import Blender models to and from GameMaker.",
+          "title": "Blender to GameMaker"
+        },
+        {
+          "children": [],
+          "description": "Import/Export tools to load vertex buffer data out of Blender and into GMS.",
+          "title": "DmrVBM",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-12-24T20:15:01Z",
+            "owner": "Dreamer13sq",
+            "repo": "DmrVBM-blender-to-gms2",
+            "stars": 42
+          }
+        },
+        {
+          "children": [],
+          "description": "3D model conversion tool.",
+          "title": "Penguin"
+        },
+        {
+          "children": [],
+          "description": "Source for a GameMaker 3D game.",
+          "title": "Three Mice In a Trench Coat",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2021-06-25T14:49:45Z",
+            "owner": "XorDev",
+            "repo": "ThreeMiceInaTrenchcoat",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "3D Particle System from TheSnidr.",
+          "title": "sPart"
+        },
+        {
+          "children": [],
+          "description": "Terrain editor. Exports to gm models, obj, or vertex buffers.",
+          "title": "Terrain Editor"
+        },
+        {
+          "children": [],
+          "description": "3D Snow Shader.",
+          "title": "Snowy Snow"
+        },
+        {
+          "children": [],
+          "description": "3D collision system that works with native GML.",
+          "title": "Collisions"
+        },
+        {
+          "children": [],
+          "description": "3D point lights using shaders. 💸",
+          "title": "3D Fragment Point Lights"
+        },
+        {
+          "children": [],
+          "description": "DragoniteSpam.",
+          "title": "3D GameMaker Playlist"
+        },
+        {
+          "children": [],
+          "description": "DragoniteSpam.",
+          "title": "3D Collisions Playlist"
+        },
+        {
+          "children": [],
+          "description": "DragoniteSpam.",
+          "title": "3D Optimization Playlist"
+        },
+        {
+          "children": [],
+          "description": "A model loader with support for animations.",
+          "title": "glTF parser"
+        }
+      ],
+      "title": "3D"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A feature-rich framework for multiplayer games, written in GameMaker and Node.js.",
+          "title": "Warp",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-22T04:52:30Z",
+            "owner": "evolutionleo",
+            "repo": "Warp",
+            "stars": 141
+          }
+        },
+        {
+          "children": [],
+          "description": "Host/client implementation with a chat feature.",
+          "title": "EZ Networking"
+        },
+        {
+          "children": [],
+          "description": "The network library from gm-core if you want to use this implementation without the entire gm-core suite.",
+          "title": "Patchwire-GM",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2020-09-13T15:00:16Z",
+            "owner": "gm-core",
+            "repo": "patchwire-gm",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "A Gist demonstrating a network handshake.",
+          "title": "GMHandshake"
+        },
+        {
+          "children": [],
+          "description": "Recieve GET requests and upload files in GML.",
+          "title": "HTTP GML",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2024-11-06T04:17:15Z",
+            "owner": "Sidorakh",
+            "repo": "http.gml",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Socket.IO extension for HTML5 games.",
+          "title": "GMNest",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-11T23:22:00Z",
+            "owner": "TimVN",
+            "repo": "GMNest",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Non-dll, multiple client launcher for network development.",
+          "title": "MultiClient",
+          "repo_info": {
+            "archived": false,
+            "language": "Batchfile",
+            "last_commit": "2026-01-06T18:15:31Z",
+            "owner": "tabularelf",
+            "repo": "MultiClient",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Wizirdi.",
+          "title": "Multiplayer Networking Tutorial"
+        },
+        {
+          "children": [],
+          "description": "Rollback netcode library.",
+          "title": "Good GameMaker Rollback"
+        },
+        {
+          "children": [],
+          "description": "Very simple network code demonstration.",
+          "title": "GM Networking",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2023-08-06T20:55:07Z",
+            "owner": "gmclan-org",
+            "repo": "gm_networking",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Network library which mimics pre-GM:Studio favorite networking extension 39dll using GM native functions.",
+          "title": "Boomers Networking",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2023-08-06T23:55:10Z",
+            "owner": "gmclan-org",
+            "repo": "gm_boomers_networking",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Easy low-code multiplayer engine.",
+          "title": "Rocket Networking Engine"
+        }
+      ],
+      "title": "Networking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Discord integration.",
+          "title": "DHook",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2024-05-07T01:13:14Z",
+            "owner": "tabularelf",
+            "repo": "DHook",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Another Discord integration.",
+          "title": "GMS2_RPC",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-07T21:53:55Z",
+            "owner": "Mtax-Development",
+            "repo": "GMS2_RPC",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Oops, all Discord integration.",
+          "title": "NekoPresence"
+        },
+        {
+          "children": [],
+          "description": "We really like Discord integration.",
+          "title": "GMHook",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-12-04T15:27:37Z",
+            "owner": "Kruger0",
+            "repo": "GMHook",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Various expansions to Steamworks SDK support in GameMaker: Studio.",
+          "title": "Steamworks.gml",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-07-31T11:24:38Z",
+            "owner": "YAL-GameMaker",
+            "repo": "steamworks.gml",
+            "stars": 91
+          }
+        },
+        {
+          "children": [],
+          "description": "Additional functionality for the YYG Steamworks extension.",
+          "title": "Parworks",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2022-06-30T13:16:57Z",
+            "owner": "nkrapivin",
+            "repo": "Parworks",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A native extension for GOG.com SDK support.",
+          "title": "GOG.gml",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-07-30T09:20:07Z",
+            "owner": "GameMakerDiscord",
+            "repo": "GOG.gml",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Twitch integration.",
+          "title": "GMTwitch",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2022-01-03T22:53:34Z",
+            "owner": "GameMakerDiscord",
+            "repo": "GMTwitch",
+            "stars": 68
+          }
+        },
+        {
+          "children": [],
+          "description": "GitHub REST API",
+          "title": "Github.gml",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-20T17:36:22Z",
+            "owner": "AlubJ",
+            "repo": "GitHub.gml",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Pixelated Pope's guide on GameMaker's camera system.",
+          "title": "GameMaker Cameras: As Simple as Possible"
+        },
+        {
+          "children": [],
+          "description": "Getting started with cameras in GameMaker.",
+          "title": "Camera System Guide"
+        },
+        {
+          "children": [],
+          "description": "An example of pixel-perfect yet smooth camera.",
+          "title": "Pixel Perfect Smooth Camera",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2020-12-10T01:03:50Z",
+            "owner": "YAL-GameMaker",
+            "repo": "pixel-perfect-smooth-camera",
+            "stars": 38
+          }
+        },
+        {
+          "children": [],
+          "description": "Local multiplayer split screen implementation that merges the camera when players are close.",
+          "title": "Dynamic Splitscreen"
+        },
+        {
+          "children": [],
+          "description": "Camera and resolution manager.",
+          "title": "STANNcam",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-01-25T22:56:07Z",
+            "owner": "jack27121",
+            "repo": "STANNcam",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": "Editor, screenshake, view-resizing, follow modes, screen effects, etc. 💸",
+          "title": "Camera All-In-One"
+        },
+        {
+          "children": [],
+          "description": "Complete resolution & screen manager (with split-screen support). 💸",
+          "title": "REZOL"
+        }
+      ],
+      "title": "Camera"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Robust finite state machine.",
+          "title": "SnowState",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-06-29T15:46:31Z",
+            "owner": "sohomsahaun",
+            "repo": "SnowState",
+            "stars": 166
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight alternative to SnowState.",
+          "title": "FastSM",
+          "repo_info": {
+            "archived": true,
+            "language": "Game Maker Language",
+            "last_commit": "2024-02-16T07:08:05Z",
+            "owner": "JulianDicken",
+            "repo": "FastSM",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Another Easy-to-use Finite State Machine library.",
+          "title": "wFSM"
+        },
+        {
+          "children": [],
+          "description": "Feature-rich finite state machine to handle complex objects.",
+          "title": "True State"
+        },
+        {
+          "children": [],
+          "description": "State-based animation system.",
+          "title": "Pinocchio",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2024-03-04T13:57:21Z",
+            "owner": "JujuAdams",
+            "repo": "Pinocchio",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple behavior tree system.",
+          "title": "BehaviorTree",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2023-12-18T14:58:11Z",
+            "owner": "Gizmo199",
+            "repo": "BehaviorTree",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Finite state machine for NPC AI.",
+          "title": "FSM AI",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2021-09-21T17:51:18Z",
+            "owner": "gmclan-org",
+            "repo": "FSM-AI-module",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "State Machines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A* Pathfinding implementation.",
+          "title": "Aquila"
+        },
+        {
+          "children": [],
+          "description": "Another A* pathfinding implementation.",
+          "title": "A-Star-Pathing",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2021-02-06T05:23:09Z",
+            "owner": "helloalbertdang",
+            "repo": "A-Star-Pathing",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Flexible pathfinding system with 3 different algorithms.",
+          "title": "Grid-based Pathfinding Scripts"
+        },
+        {
+          "children": [],
+          "description": "Shortest pathfinding system in (weighted) graph, using Dijkstra algorithm.",
+          "title": "Pathfinding in graph",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2023-08-09T18:26:50Z",
+            "owner": "gmclan-org",
+            "repo": "dijkstra-graph",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Enhance GameMaker Paths with CatmullRom and Bezier Interpolations.",
+          "title": "PathPlus"
+        }
+      ],
+      "title": "Pathing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Vertex-animated flag.",
+          "title": "Animated Flag",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2024-05-30T08:55:18Z",
+            "owner": "Grisgram",
+            "repo": "gml-animated-flag",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Bullet hell engine.",
+          "title": "Danmaku Project",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2021-05-03T01:48:13Z",
+            "owner": "OmegaX1000",
+            "repo": "DanmakuProject",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Accurate framework to make classic Sonic games.",
+          "title": "OrbinautFramework",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-12-12T22:42:32Z",
+            "owner": "TrianglyRU",
+            "repo": "OrbinautFramework",
+            "stars": 114
+          }
+        },
+        {
+          "children": [],
+          "description": "Shows how to trace a line with primitives to create a colorful trail.",
+          "title": "Mouse Trail Effect"
+        },
+        {
+          "children": [],
+          "description": "A script to generate starfields in GameMaker's GML language.",
+          "title": "Starfield Generator",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2022-06-13T14:40:15Z",
+            "owner": "PixelProphecy",
+            "repo": "gml_starfield_generator",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "Antialiased primitives library for GameMaker.",
+          "title": "CleanShapes",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-02-03T21:46:22Z",
+            "owner": "JujuAdams",
+            "repo": "Clean-Shapes",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "Dozens of helper scripts, organized similarly to the official documentation.",
+          "title": "GMLScripts.com"
+        },
+        {
+          "children": [],
+          "description": "Free resources from the community to become better at GameMaker Studio, game development and game jams.",
+          "title": "GM48 Resources"
+        },
+        {
+          "children": [],
+          "description": "Another great resource for open source libraries, assets, and snippets.",
+          "title": "GameMaker Kitchen"
+        },
+        {
+          "children": [],
+          "description": "A dark theme for the IDE.",
+          "title": "Dracula Theme",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-21T11:22:32Z",
+            "owner": "dracula",
+            "repo": "gamemaker-studio",
+            "stars": 90
+          }
+        },
+        {
+          "children": [],
+          "description": "A retro groove theme for the IDE.",
+          "title": "Gruvbox Theme",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-12T17:50:05Z",
+            "owner": "heygleeson",
+            "repo": "Gruvbox-GMTheme",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "A full guide of the syntax features/changes in GML from Yal.",
+          "title": "2.3 Syntax in Detail"
+        },
+        {
+          "children": [],
+          "description": "How garbage collection works in GML.",
+          "title": "GameMaker Garbage Collection"
+        },
+        {
+          "children": [],
+          "description": "Tell GitHub your repo is all GML, not Yacc.",
+          "title": "GitHub Yacc to GML Fix"
+        },
+        {
+          "children": [],
+          "description": "Fancy badges to add to your README files.",
+          "title": "GameMaker Repo Badges",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-13T12:47:33Z",
+            "owner": "matthiaszarzecki",
+            "repo": "MadeWithGameMakerStudioBadges",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Have you made a gamemaker tool you want to share? Consider submitting it to the official Discord's GitHub.",
+          "title": "GameMaker Discord Community GitHub"
+        },
+        {
+          "children": [],
+          "description": "FriendlyCosmonaut.",
+          "title": "Source Control with Git & GameMaker"
+        },
+        {
+          "children": [],
+          "description": "Pixelated Pope.",
+          "title": "Game Resolution & Aspect Ratio Management"
+        },
+        {
+          "children": [],
+          "description": "MicahTheManiac.",
+          "title": "Setting up a Virtual Machine for GameMaker"
+        },
+        {
+          "children": [],
+          "description": "Blobfish.",
+          "title": "Making Attacks Feel Good"
+        },
+        {
+          "children": [],
+          "description": "Automatically generate documentation sites from GameMaker projects.",
+          "title": "Tome",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-02-03T03:02:41Z",
+            "owner": "chesrowe",
+            "repo": "Tome",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Example of playing intrument notes by changing pitch, using only one audio file.",
+          "title": "Piano example",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2023-02-17T12:19:50Z",
+            "owner": "gmclan-org",
+            "repo": "piano_example",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Scripts that are used by GM when importing GM:S 1.4 projects, taken directly from runtime files.",
+          "title": "Compatibility scripts",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2022-04-11T16:40:42Z",
+            "owner": "gmclan-org",
+            "repo": "compatibility-scripts",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple example of a pause screen without using surfaces.",
+          "title": "Pause example",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2021-09-21T22:04:45Z",
+            "owner": "gmclan-org",
+            "repo": "pause_no_surface",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Tutorial on using GitHub Actions as a CI/CD pipeline to automate building games.",
+          "title": "Build Automation, CI/CD"
+        },
+        {
+          "children": [],
+          "description": "A visual novel engine.",
+          "title": "BROKVN"
+        },
+        {
+          "children": [],
+          "description": "Subtitle support for video playback.",
+          "title": "AssParser",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-12-01T09:08:34Z",
+            "owner": "DecadeDecaf",
+            "repo": "AssParser",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Excellent forum thread on GameMaker optimization.",
+          "title": "Ultimate Optimization Tier List"
+        }
+      ],
+      "title": "Useful Extras"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community"
+    },
+    {
+      "description": "JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick Ver Voort, Pixelated Pope, Tony Strømsnæs, HeartBeast, Xor, Gaming Reverends, Matharoo, YellowAfterlife, Gizmo199, Avis, Josh Wilson, Lojemiru",
+      "items": [],
+      "title": "Special Thanks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "This is based on a list from  and from Gleb Tsereteli with additional links/details.",
+          "title": "GameMaker Libraries",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-09T10:22:47Z",
+            "owner": "FaultyFunctions",
+            "repo": "GameMakerLibraries",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A majority of linked resources will only work with  due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂",
+          "title": "A majority of linked resources will only work with due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂"
+        },
+        {
+          "children": [],
+          "description": "If you need more general game development resources, check out  or .",
+          "title": "Awesome Gamedev",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-05T22:02:27Z",
+            "owner": "Calinou",
+            "repo": "awesome-gamedev",
+            "stars": 2891
+          }
+        }
+      ],
+      "title": "Footnotes"
+    },
+    {
+      "description": "Have something awesome to share? Check out the Contributing Guidelines.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GameMaker Keybindings"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:34:53.526Z",
+    "original_repository": "bytecauldron/awesome-gamemaker",
+    "source_repository": "v1nvn/enhansome-gamemaker",
+    "source_repository_description": null,
+    "title": "Awesome GameMaker with stars"
+  }
+}

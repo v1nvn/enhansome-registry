@@ -1,0 +1,1121 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The main PocketBase server.",
+          "title": "Golang Server",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-01T08:09:48Z",
+            "owner": "pocketbase",
+            "repo": "pocketbase",
+            "stars": 55947
+          }
+        },
+        {
+          "children": [],
+          "description": "Browser and Node.js for interacting with the PocketBase API.",
+          "title": "JavaScript SDK",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-29T18:52:31Z",
+            "owner": "pocketbase",
+            "repo": "js-sdk",
+            "stars": 2799
+          }
+        },
+        {
+          "children": [],
+          "description": "Multi-platform SDK for interacting with the PocketBase Web API.",
+          "title": "Dart SDK",
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-01-14T18:14:14Z",
+            "owner": "pocketbase",
+            "repo": "dart-sdk",
+            "stars": 682
+          }
+        }
+      ],
+      "title": "Official Packages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Pro PocketBase hosting.",
+          "title": "pockethost.io"
+        },
+        {
+          "children": [],
+          "description": "Generate TypeScript types from the SQLite db file.",
+          "title": "PocketBase Typegen",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-06T19:10:28Z",
+            "owner": "patmood",
+            "repo": "pocketbase-typegen",
+            "stars": 782
+          }
+        },
+        {
+          "children": [],
+          "description": "Docker setup supporting multiple architectures and automatically updated with PocketBase releases.",
+          "title": "PocketBase Docker",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-04T08:46:50Z",
+            "owner": "muchobien",
+            "repo": "pocketbase-docker",
+            "stars": 506
+          }
+        },
+        {
+          "children": [],
+          "description": "Go extended PocketBase for Stripe subscription integration.",
+          "title": "PocketBase+Stripe",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-12-06T02:57:57Z",
+            "owner": "mrwyndham",
+            "repo": "pocketbase-stripe",
+            "stars": 213
+          }
+        },
+        {
+          "children": [],
+          "description": "Go extended PocketBase for Lemonsqueezy subscription integration.",
+          "title": "PocketBase+Lemonsqueezy",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-05T06:40:20Z",
+            "owner": "mrwyndham",
+            "repo": "pocketbase-lemonsqueezy",
+            "stars": 48
+          }
+        },
+        {
+          "children": [],
+          "description": "A starter-kit showing how to use customized PocketBase as a backend to SvelteKit frontend.",
+          "title": "SvelteKit Starter",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-12-11T16:12:31Z",
+            "owner": "spinspire",
+            "repo": "pocketbase-sveltekit-starter",
+            "stars": 481
+          }
+        },
+        {
+          "children": [],
+          "description": "This project is designed as a sample implementation reference for getting authentication setup using SvelteKit.",
+          "title": "SvelteKit Auth",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-06T02:04:25Z",
+            "owner": "danawoodman",
+            "repo": "sveltekit-auth-example",
+            "stars": 121
+          }
+        },
+        {
+          "children": [],
+          "description": "Demo login and registration pages with examples.",
+          "title": "SvelteKit PocketBase Auth",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-02-06T20:52:37Z",
+            "owner": "jianyuan",
+            "repo": "pocketbase-sveltekit-auth",
+            "stars": 230
+          }
+        }
+      ],
+      "title": "Top PocketBase-specific Projects (>100 stars)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "One-Time Passwords for <=v0.22.*",
+          "title": "pocketbase-otp",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-13T22:09:52Z",
+            "owner": "benallfree",
+            "repo": "pocketbase-otp",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Server-side EJS pages for PocketBase.",
+          "title": "pocketpages",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-08-07T21:23:57Z",
+            "owner": "benallfree",
+            "repo": "pocketpages",
+            "stars": 275
+          }
+        },
+        {
+          "children": [],
+          "description": "Serve file uploads from presigned S3 URLs.",
+          "title": "pocketbase-presigned-urls",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-03T10:25:22Z",
+            "owner": "benallfree",
+            "repo": "pocketbase-presigned-urls",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "JSVM Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Add Telegram auth (Widget button and WebApp).",
+          "title": "Telegram auth",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-04T18:32:16Z",
+            "owner": "iamelevich",
+            "repo": "pocketbase-plugin-telegram-auth",
+            "stars": 48
+          }
+        },
+        {
+          "children": [],
+          "description": "Expose local PocketBase to the internet with ngrok.",
+          "title": "Ngrok",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-04T18:42:12Z",
+            "owner": "iamelevich",
+            "repo": "pocketbase-plugin-ngrok",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Proxy requests to another other host. Can be useful when you want to use separate server as frontend (like Next.js), but serve everything with same port.",
+          "title": "Proxy",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-04T18:17:45Z",
+            "owner": "iamelevich",
+            "repo": "pocketbase-plugin-proxy",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "Add webhook support in the admin UI to send ,  and  events on selected collections via POST request to other systems.",
+          "title": "Webhooks"
+        },
+        {
+          "children": [],
+          "description": "Typescript generator standalone / library with auto generation hook or command",
+          "title": "Typescript Generator",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-17T11:17:40Z",
+            "owner": "Vogeslu",
+            "repo": "pocketbase-ts-generator",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "Generate data model structs from a PocketBase schema.",
+          "title": "pocketbase-gogen",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-25T15:32:16Z",
+            "owner": "Snonky",
+            "repo": "pocketbase-gogen",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Enhanced PocketBase server with monitoring, logging & API docs.",
+          "title": "pb-ext",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-19T09:12:09Z",
+            "owner": "magooney-loon",
+            "repo": "pb-ext",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "Go Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Unofficial React SDK (React, React Native, Expo) for interacting with the PocketBase JavaScript SDK.",
+          "title": "PocketBase React",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-24T11:41:15Z",
+            "owner": "tobicrain",
+            "repo": "pocketbase-react",
+            "stars": 86
+          }
+        },
+        {
+          "children": [],
+          "description": "PocketBase Next.js Template with server & browser client using cookies.",
+          "title": "PocketBase Next.js App Template",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-16T02:30:50Z",
+            "owner": "tsensei",
+            "repo": "nextjs-pocketbase-starter-template",
+            "stars": 36
+          }
+        },
+        {
+          "children": [],
+          "description": "Sample Next.js 15 application with PocketBase integration, a typed client, server-side and client-side rendering techniques, and server actions.",
+          "title": "Next.js PocketBase Auth",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T00:49:27Z",
+            "owner": "jianyuan",
+            "repo": "pocketbase-nextjs-auth",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "A lightweight authentication wrapper for Next.js applications, providing easy-to-use utilities for handling user session in both client and server components.",
+          "title": "next-pocketbase-auth",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-30T07:34:50Z",
+            "owner": "g12i",
+            "repo": "next-pocketbase-auth",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "A type-safe TanStack DB adapter to easily create LiveQueries with real-time subscriptions.",
+          "title": "pbtsdb",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-27T19:40:56Z",
+            "owner": "nathanstitt",
+            "repo": "pbtsdb",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "React"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "TanStack Query wrappers around PocketBase for Svelte and SvelteKit that updates the query cache in realtime.",
+          "title": "svelte-query-pocketbase",
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-03-14T00:43:07Z",
+            "owner": "goknsh",
+            "repo": "svelte-query-pocketbase",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "A minimalist template with configured authorization featuring a single Docker image (from 55 MB) for deploying.",
+          "title": "pocketbase-sveltekit-static",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-26T08:23:39Z",
+            "owner": "Egor-S",
+            "repo": "pocketbase-sveltekit-static",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Svelte"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A starter kit for Vue 3 + Vite + PocketBase.",
+          "title": "Vue 3 + Vite starter kit",
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-11-30T20:03:17Z",
+            "owner": "StefanVDWeide",
+            "repo": "pocketbase-vue",
+            "stars": 30
+          }
+        },
+        {
+          "children": [],
+          "description": "Vue 3 tutorial.",
+          "title": "Tutorial"
+        },
+        {
+          "children": [],
+          "description": "Pocketbase with Quasar.",
+          "title": "Quasar starter kit",
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-04-01T19:32:08Z",
+            "owner": "aaronblondeau",
+            "repo": "pocketbase_quasar_starter",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "A Nuxt3 PocketBase starter that builds into a single binary.",
+          "title": "PocketNuxt",
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-07-12T18:47:36Z",
+            "owner": "j-wil",
+            "repo": "pocket-nuxt",
+            "stars": 106
+          }
+        }
+      ],
+      "title": "Vue"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A PocketBase client cached with Drift.",
+          "title": "PocketBase Drift",
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-11-19T15:38:42Z",
+            "owner": "rodydavis",
+            "repo": "pocketbase_drift",
+            "stars": 60
+          }
+        },
+        {
+          "children": [],
+          "description": "Generate type safe client SDKs for use in local SQLite, JSON or GraphQL resolvers.",
+          "title": "Dart Generator",
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-10-31T17:12:12Z",
+            "owner": "rodydavis",
+            "repo": "pocketbase_dart_generator",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "A Flutter plugin to run PocketBase server directly from Android/iOS.",
+          "title": "PocketBase Server Flutter",
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-02-14T03:06:31Z",
+            "owner": "rohitsangwan01",
+            "repo": "pocketbase_server_flutter",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "Dart/Flutter"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "An ORM to manage your PocketBase Application.",
+          "title": "ORM and code generator",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-16T10:35:17Z",
+            "owner": "iluvadev",
+            "repo": "PocketBaseClient-csharp",
+            "stars": 58
+          }
+        },
+        {
+          "children": [],
+          "description": "C# SDK for PocketBase and demo Blazor WASM webapp.",
+          "title": "C# SDK",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-24T15:38:17Z",
+            "owner": "PSCourtney",
+            "repo": "PocketBaseSharp",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "C#"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "PocketBase Client in Golang.",
+          "title": "Go",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-01-22T07:43:29Z",
+            "owner": "pluja",
+            "repo": "pocketbase",
+            "stars": 82
+          }
+        },
+        {
+          "children": [],
+          "description": "PocketBase Client in Kotlin.",
+          "title": "Kotlin",
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-12-24T02:42:38Z",
+            "owner": "agrevster",
+            "repo": "pocketbase-kotlin",
+            "stars": 60
+          }
+        },
+        {
+          "children": [],
+          "description": "PocketBase Client in Kotlin.",
+          "title": "Kotlin (Multiplatform)",
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-07-20T11:06:24Z",
+            "owner": "IdanAizikNissim",
+            "repo": "pocketbase-kt",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "PocketBase Client in Python.",
+          "title": "Python (Sync)",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-27T15:04:11Z",
+            "owner": "vaphes",
+            "repo": "pocketbase",
+            "stars": 526
+          }
+        },
+        {
+          "children": [],
+          "description": "PocketBase Client in Python.",
+          "title": "Python (Async)",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-23T19:09:41Z",
+            "owner": "thijsmie",
+            "repo": "pocketbase",
+            "stars": 71
+          }
+        },
+        {
+          "children": [],
+          "description": "PocketBase Client in C#.",
+          "title": "C#",
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-11-13T21:17:53Z",
+            "owner": "PRCV1",
+            "repo": "pocketbase-csharp-sdk",
+            "stars": 63
+          }
+        },
+        {
+          "children": [],
+          "description": "PocketBase Client in Rust.",
+          "title": "Rust",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-05-03T00:07:05Z",
+            "owner": "sreedevk",
+            "repo": "pocketbase-sdk-rust",
+            "stars": 69
+          }
+        },
+        {
+          "children": [],
+          "description": "PocketBase client for Unity 3D game engine.",
+          "title": "Unity (Multiplatform)",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-13T09:40:18Z",
+            "owner": "Sov3rain",
+            "repo": "pocketbase-unity",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Unofficial PocketBase Clients (SDKs)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Guide to deploy in a Droplet.",
+          "title": "DigitalOcean",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-01T08:09:48Z",
+            "owner": "pocketbase",
+            "repo": "pocketbase",
+            "stars": 55947
+          }
+        },
+        {
+          "children": [],
+          "description": "Guide to deploy for free in Fly.io.",
+          "title": "Fly.io",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-01T08:09:48Z",
+            "owner": "pocketbase",
+            "repo": "pocketbase",
+            "stars": 55947
+          }
+        },
+        {
+          "children": [],
+          "description": "Guide to deploy on Railway.",
+          "title": "Railway",
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2025-11-23T01:01:54Z",
+            "owner": "metruzanca",
+            "repo": "pocketbase_railway",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Guide to deploy to AWS Lightsail.",
+          "title": "AWS Lightsail",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-16T20:42:17Z",
+            "owner": "boustanihani",
+            "repo": "pocketbase-lightsail-hosting",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Allow public access to a localhost instance.",
+          "title": "LocalXpose"
+        },
+        {
+          "children": [],
+          "description": "Docker images supporting multiple architectures and updated with latest PocketBase releases.",
+          "title": "PocketBase Docker",
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2025-06-13T16:04:27Z",
+            "owner": "kdpuvvadi",
+            "repo": "pocketbase",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Deploy PocketBase instances on Dokku effortlessly.",
+          "title": "PocketBase on Dokku",
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2025-06-05T22:56:00Z",
+            "owner": "blockshiftnetwork",
+            "repo": "dokku-pocketbase",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Manage PocketBase instances — fast, lightweight, open source.",
+          "title": "PBLauncher",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-07T21:39:28Z",
+            "owner": "user0608",
+            "repo": "pb_launcher",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "Automates the lifecycle of deploying PocketBase apps to production",
+          "title": "pb-deployer",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-11-25T21:11:44Z",
+            "owner": "magooney-loon",
+            "repo": "pb-deployer",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Self Hosting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "JSVM typings.",
+          "title": "pocketbase-jsvm",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-08T19:37:51Z",
+            "owner": "benallfree",
+            "repo": "pocketbase-jsvm",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Build PocketBase JavaScript hooks using TypeScript.",
+          "title": "pb_hooks starter kit",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-21T11:31:56Z",
+            "owner": "benallfree",
+            "repo": "ts-pb-hooks-starter",
+            "stars": 23
+          }
+        },
+        {
+          "children": [],
+          "description": "Generate types from your PocketBase instance and enjoy fully type-safe queries.",
+          "title": "typed-pocketbase",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-04T20:07:38Z",
+            "owner": "david-plugge",
+            "repo": "typed-pocketbase",
+            "stars": 112
+          }
+        },
+        {
+          "children": [],
+          "description": "SDK wrapper with more readable  syntax and full type-safety.",
+          "title": "pocketbase-ts",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-01T15:06:46Z",
+            "owner": "satohshi",
+            "repo": "pocketbase-ts",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "A TypeScript-based query builder designed to generate complex filter queries for PocketBase. It allows for easy construction of queries using various operators while maintaining a fluent and chainable API.",
+          "title": "pocketbase-query",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-25T21:32:19Z",
+            "owner": "emresandikci",
+            "repo": "pocketbase-query",
+            "stars": 60
+          }
+        },
+        {
+          "children": [],
+          "description": "JS hook for automatically generating schema files. (Zod/TS interfaces)",
+          "title": "pocketbase-schema-generator",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-29T17:03:16Z",
+            "owner": "satohshi",
+            "repo": "pocketbase-schema-generator",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "A flexible, strongly-typed query builder with useful helpers to simplify the querying process, featuring examples, documentation, and full autocompletion based on your schema, directly in the IDE.",
+          "title": "pb-query",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-04T20:37:49Z",
+            "owner": "sergio9929",
+            "repo": "pb-query",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "TypeScript tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A distributed SQLite replicator .",
+          "title": "Marmot",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T13:45:10Z",
+            "owner": "maxpert",
+            "repo": "marmot",
+            "stars": 2694
+          }
+        },
+        {
+          "children": [],
+          "description": "Streaming SQLite replication.",
+          "title": "Litestream"
+        },
+        {
+          "children": [],
+          "description": "Template showing Litestream running with PocketBase.",
+          "title": "PocketBase+Litestream example",
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2022-09-25T06:05:47Z",
+            "owner": "TylerSustare",
+            "repo": "pocketbase-framework-litestream",
+            "stars": 83
+          }
+        },
+        {
+          "children": [],
+          "description": "Docker example of PocketBase saving/restoring from Litestream.",
+          "title": "PocketBase with Litestream",
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2023-09-21T20:24:02Z",
+            "owner": "bscott",
+            "repo": "pocketbase-litestream",
+            "stars": 80
+          }
+        },
+        {
+          "children": [],
+          "description": "Import data from SQLite Databases as well as CSV and TSV files.",
+          "title": "pb-import",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-09T18:34:05Z",
+            "owner": "burggraf",
+            "repo": "pb-import",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "SQLite tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A free, open-source web application that generates UML diagrams based on PocketBase databases.",
+          "title": "PocketBaseUML"
+        },
+        {
+          "children": [],
+          "description": "Android and iOS frameworks for running PocketBase from mobile.",
+          "title": "PocketBaseMobile",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-01-26T03:15:04Z",
+            "owner": "rohitsangwan01",
+            "repo": "pocketbase_mobile",
+            "stars": 42
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for serializing and deserializing PocketBase filter syntax.",
+          "title": "pbf",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-13T14:46:13Z",
+            "owner": "nedpals",
+            "repo": "pbf",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "A open-source collection of PocketBase schemas to quickly get started.",
+          "title": "PocketBase Templates",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-04T07:21:45Z",
+            "owner": "Pocket-Space",
+            "repo": "pocketbase-templates",
+            "stars": 52
+          }
+        },
+        {
+          "children": [],
+          "description": "A type-safe queue for background tasks using PocketBase.",
+          "title": "pocketbase-queue",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-31T17:16:05Z",
+            "owner": "joseferben",
+            "repo": "pocketbase-queue",
+            "stars": 60
+          }
+        },
+        {
+          "children": [],
+          "description": "A GPT that has all of PocketBase's documentation uploaded to it, to give more accurate and up-to-date answers.",
+          "title": "PocketBase GPT"
+        },
+        {
+          "children": [],
+          "description": "A free, open-source web application that makes it easy to generate API rules for PocketBase collections visually.",
+          "title": "PocketBase API Rule Builder"
+        },
+        {
+          "children": [],
+          "description": "Pocketbase LLM docs scraper",
+          "title": "pb-llm",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-15T11:27:58Z",
+            "owner": "magooney-loon",
+            "repo": "pb-llm",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Other tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A realtime WASM game where Vim commands are used as controller inputs.",
+          "title": "Vimsnake",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-13T10:50:44Z",
+            "owner": "patmood",
+            "repo": "vim_snake",
+            "stars": 151
+          }
+        },
+        {
+          "children": [],
+          "description": "React-based To-Do demo app.",
+          "title": "ToDo",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-16T04:39:22Z",
+            "owner": "rajesh6161",
+            "repo": "pocketbaseTodo",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "A React-based realtime blog demo.",
+          "title": "Realtime Blog",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-05T02:24:18Z",
+            "owner": "rajesh6161",
+            "repo": "pbRealtimeBlog",
+            "stars": 30
+          }
+        },
+        {
+          "children": [],
+          "description": "A React-based oAuth demo.",
+          "title": "oAuth",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-22T03:36:01Z",
+            "owner": "rajesh6161",
+            "repo": "pocketbase-oauth-demo",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "A chat app using PocketBase in Flutter.",
+          "title": "Flutter Chat App",
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-05-26T12:19:25Z",
+            "owner": "rohitsangwan01",
+            "repo": "flutter_pocketbase_chat",
+            "stars": 70
+          }
+        },
+        {
+          "children": [],
+          "description": "A keyboard-first note-taking full-featured Progressive Web App.  /",
+          "title": "JustJot",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-17T03:08:14Z",
+            "owner": "JunoNgx",
+            "repo": "justjot-frontend",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "A demo of cookie based authentication flow for PocketBase.",
+          "title": "Cookie auth demo",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-12T18:11:33Z",
+            "owner": "davidbarton",
+            "repo": "pocketbase-cookie-auth-demo",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Self-hostable expense-splitter on the web.",
+          "title": "Adnexos",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-09-29T20:16:57Z",
+            "owner": "tametsi",
+            "repo": "adnexos",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Scaling Pocketbase with LibSQL and sqld - a Proof Of Concept",
+          "title": "pocketbase-libsql",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-07-25T14:44:47Z",
+            "owner": "cobeo2004",
+            "repo": "pocketbase-libsql",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Showcases"
+    },
+    {
+      "description": "Ports of NPM/Node.js packages to the PocketBase JSVM.",
+      "items": [],
+      "title": "PocketPorts Packages"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:37:16.741Z",
+    "original_repository": "benallfree/awesome-pocketbase",
+    "source_repository": "v1nvn/enhansome-pocketbase",
+    "source_repository_description": null,
+    "title": "Awesome PocketBase with stars"
+  }
+}

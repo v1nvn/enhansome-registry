@@ -1,0 +1,1538 @@
+{
+  "items": [
+    {
+      "description": "Security is one of the most central pillar of IAM foundations. Here are some broad concepts.",
+      "items": [
+        {
+          "children": [],
+          "description": "Mozilla's security and access guidelines.",
+          "title": "Enterprise Information Security"
+        },
+        {
+          "children": [],
+          "description": "This document divides cloud vulnerabilities into four classes (misconfiguration, poor access control, shared tenancy vulnerabilities, and supply chain vulnerabilities)”.",
+          "title": "Mitigating Cloud Vulnerabilities"
+        },
+        {
+          "children": [],
+          "description": "A Neo4J-based tool to map out dependencies and relationships between services and resources. Supports AWS, GCP, GSuite, Okta and GitHub.",
+          "title": "Cartography",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T01:02:58Z",
+            "owner": "lyft",
+            "repo": "cartography",
+            "stars": 3717
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Open guide to AWS Security and IAM",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-08-16T02:51:54Z",
+            "owner": "open-guides",
+            "repo": "og-aws",
+            "stars": 36640
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "The foundation of IAM: the definition and life-cycle of users, groups, roles and permissions.",
+      "items": [
+        {
+          "children": [],
+          "description": "A meta-critic of account management, in which features expected by the business clash with real user needs, in the form of user stories written by a fictional project manager.",
+          "title": "As a user, I want…"
+        },
+        {
+          "children": [],
+          "description": "In the same spirit as above, but broader: all the little things we overlook as developers but users really care about. In the top of that list lies account-centric features, diverse integration and import/export tools. I.e. all the enterprise customers needs to cover.",
+          "title": "Things end users care about but programmers don't"
+        },
+        {
+          "children": [],
+          "description": "Sound advice to lay down the foundation of a future-proof IAM API.",
+          "title": "Separate the account, user and login/auth details"
+        },
+        {
+          "children": [],
+          "description": "On the concept of usernames as identifiers, and the complexities introduced when unicode characters meets uniqueness requirements.",
+          "title": "Identity Beyond Usernames"
+        },
+        {
+          "children": [],
+          "description": "User login, user registration, 2FA and profile management.",
+          "title": "Kratos",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T19:20:11Z",
+            "owner": "ory",
+            "repo": "kratos",
+            "stars": 13416
+          }
+        },
+        {
+          "children": [],
+          "description": "Automatically secures secrets used by privileged users and machine identities.",
+          "title": "Conjur",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-11-20T20:24:22Z",
+            "owner": "cyberark",
+            "repo": "conjur",
+            "stars": 909
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source project for login and session management which supports passwordless, social login, email and phone logins.",
+          "title": "SuperTokens",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-07T22:16:31Z",
+            "owner": "supertokens",
+            "repo": "supertokens-core",
+            "stars": 14898
+          }
+        },
+        {
+          "children": [],
+          "description": "Modern PHP user login and management framework.",
+          "title": "UserFrosting",
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2026-02-04T01:22:39Z",
+            "owner": "userfrosting",
+            "repo": "UserFrosting",
+            "stars": 1662
+          }
+        }
+      ],
+      "title": "Account Management"
+    },
+    {
+      "description": "Zero trust network security operates under the principle “never trust, always verify”.",
+      "items": [
+        {
+          "children": [],
+          "description": "Quick overview of Google's Zero-trust Network initiative.",
+          "title": "BeyondCorp: A New Approach to Enterprise Security"
+        },
+        {
+          "children": [],
+          "description": "More companies add extra layers of VPNs, firewalls, restrictions and constraints, resulting in a terrible experience and a slight security gain. There's a better way.",
+          "title": "What is BeyondCorp? What is Identity-Aware Proxy?"
+        },
+        {
+          "children": [],
+          "description": "Identity & Access Proxy and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP requests. Inspired by the BeyondCorp / Zero Trust white paper.",
+          "title": "oathkeeper",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-04T16:20:12Z",
+            "owner": "ory",
+            "repo": "oathkeeper",
+            "stars": 3521
+          }
+        },
+        {
+          "children": [],
+          "description": "BeyondCorp-inspired Access Proxy server.",
+          "title": "transcend",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-11-10T21:03:49Z",
+            "owner": "cogolabs",
+            "repo": "transcend",
+            "stars": 255
+          }
+        },
+        {
+          "children": [],
+          "description": "An identity-aware proxy that enables secure access to internal applications.",
+          "title": "Pomerium",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T02:33:37Z",
+            "owner": "pomerium",
+            "repo": "pomerium",
+            "stars": 4669
+          }
+        },
+        {
+          "children": [],
+          "description": "A cloud-native, identity-aware proxy and policy enforcement point that orchestrates authentication and authorization systems via versatile rules, supporting protocol-agnostic identity propagation.",
+          "title": "heimdall",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T20:09:30Z",
+            "owner": "dadrus",
+            "repo": "heimdall",
+            "stars": 221
+          }
+        }
+      ],
+      "title": "Zero-trust Network"
+    },
+    {
+      "description": "The oldest scheme for auth.",
+      "items": [
+        {
+          "children": [],
+          "description": "A summary of  covering new password complexity guidelines.",
+          "title": "The new NIST password guidance"
+        },
+        {
+          "children": [],
+          "description": "The only way to slow down offline attacks is by carefully choosing hash algorithms that are as resource intensive as possible.",
+          "title": "Password Storage Cheat Sheet"
+        },
+        {
+          "children": [],
+          "description": "Recent scientific research calls into question the value of many long-standing password-security practices such as password expiration policies, and points instead to better alternatives such as enforcing banned-password lists and MFA.",
+          "title": "Password expiration is dead"
+        },
+        {
+          "children": [],
+          "description": "This study recommend the association of: blocklist checks against commonly leaked passwords, password policies without character-class requirements, minimum-strength policies.",
+          "title": "Practical Recommendations for Stronger, More Usable Passwords"
+        },
+        {
+          "children": [],
+          "description": "Arbitrary low limits on length and character composition are bad. They look bad, they lead to negative speculation about security posture and they break tools like password managers.”",
+          "title": "Banks, Arbitrary Password Restrictions and Why They Don't Matter"
+        },
+        {
+          "children": [],
+          "description": "Shaming sites with dumb password rules.",
+          "title": "Dumb Password Rules",
+          "repo_info": {
+            "archived": false,
+            "language": "Nunjucks",
+            "last_commit": "2026-01-22T00:09:09Z",
+            "owner": "dumb-password-rules",
+            "repo": "dumb-password-rules",
+            "stars": 3020
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of password rules, change URLs and quirks by sites.",
+          "title": "Password Manager Resources",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T19:08:44Z",
+            "owner": "apple",
+            "repo": "password-manager-resources",
+            "stars": 4617
+          }
+        },
+        {
+          "children": [],
+          "description": "Specification defining site resource for password updates.",
+          "title": "A Well-Known URL for Changing Passwords",
+          "repo_info": {
+            "archived": false,
+            "language": "Bikeshed",
+            "last_commit": "2025-02-12T08:23:47Z",
+            "owner": "WICG",
+            "repo": "change-password-url",
+            "stars": 907
+          }
+        },
+        {
+          "children": [],
+          "description": "Good news: you're not stuck with a legacy password saving scheme. Here is a trick to transparently upgrade to stronger hashing algorithm.",
+          "title": "How to change the hashing scheme of already hashed user's passwords"
+        }
+      ],
+      "title": "Password-based auth"
+    },
+    {
+      "description": "Building upon password-only auth, users are requested in these schemes to present two or more pieces of evidence (or factors).",
+      "items": [
+        {
+          "children": [],
+          "description": "The primary source of account hacks is password spraying (on legacy auth like SMTP, IMAP, POP, etc.), second is replay attack. Takeaway: password are insecure, use and enforce MFA.",
+          "title": "Breaking Password Dependencies: Challenges in the Final Mile at Microsoft"
+        },
+        {
+          "children": [],
+          "description": "An excellent walk-trough over all these technologies.",
+          "title": "Beyond Passwords: 2FA, U2F and Google Advanced Protection"
+        },
+        {
+          "children": [],
+          "description": "Key take-away: “schemes based on email and SMS are more usable. Mechanisms based on designated trustees and personal knowledge questions, on the other hand, fall short, both in terms of convenience and efficiency.”",
+          "title": "A Comparative Long-Term Study of Fallback Authentication"
+        },
+        {
+          "children": [],
+          "description": "Our analysis confirms that secret questions generally offer a security level that is far lower than user-chosen passwords. (…) Surprisingly, we found that a significant cause of this insecurity is that users often don't answer truthfully. (…) On the usability side, we show that secret answers have surprisingly poor memorability”.",
+          "title": "Secrets, Lies, and Account Recovery: Lessons from the Use of Personal Knowledge Questions at Google"
+        },
+        {
+          "children": [],
+          "description": "Google security team's data shows 2FA blocks 100% of automated bot hacks.",
+          "title": "How effective is basic account hygiene at preventing hijacking"
+        },
+        {
+          "children": [],
+          "description": "Same conclusion as above from Microsoft: “Based on our studies, your account is more than 99.9% less likely to be compromised if you use MFA.”",
+          "title": "Your Pa$$word doesn't matter"
+        },
+        {
+          "children": [],
+          "description": "Probably on the verge of paranoia, but might be a reason to rate limit 2FA validation attempts.",
+          "title": "Attacking Google Authenticator"
+        },
+        {
+          "children": [],
+          "description": "Or why you should not rely on automated phone calls as a method to reach the user and reset passwords, 2FA or for any kind of verification. Not unlike SMS-based 2FA, it is currently insecure and can be compromised by the way of its weakest link: voicemail systems.",
+          "title": "Compromising online accounts by cracking voicemail systems"
+        },
+        {
+          "children": [],
+          "description": "On the UX aspects of 2FA.",
+          "title": "Getting 2FA Right in 2019"
+        },
+        {
+          "children": [],
+          "description": "When my 2FA code is entered incorrectly I'd like to know about it”.",
+          "title": "2FA is missing a key feature"
+        },
+        {
+          "children": [],
+          "description": "Doesn't work because there are no cellphone towers at stations in Antarctica.",
+          "title": "SMS Multifactor Authentication in Antarctica"
+        },
+        {
+          "children": [],
+          "description": "Open-source authentication and authorization server providing two-factor authentication and single sign-on (SSO) for your applications via a web portal.",
+          "title": "Authelia",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-08T01:42:52Z",
+            "owner": "authelia",
+            "repo": "authelia",
+            "stars": 26668
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple, secure and fast identity management platform.",
+          "title": "Kanidm",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-07T01:10:40Z",
+            "owner": "kanidm",
+            "repo": "kanidm",
+            "stars": 4542
+          }
+        }
+      ],
+      "title": "Multi-factor auth"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Describe how authentication works with security keys, details the protocols, and how they articulates with WebAuthn. Key takeaway: “There is no way to create a U2F key with webauthn however. (…) So complete the transition to webauthn of your login process first, then transition registration.”",
+          "title": "Webauthn and security keys"
+        },
+        {
+          "children": [],
+          "description": "A practical guide to stay safe online and prevent phishing with FIDO2, WebAuthn and security keys.",
+          "title": "Getting started with security keys"
+        },
+        {
+          "children": [],
+          "description": "Open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.",
+          "title": "OpenSK",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-14T15:14:54Z",
+            "owner": "google",
+            "repo": "OpenSK",
+            "stars": 3281
+          }
+        },
+        {
+          "children": [],
+          "description": "Guide to using YubiKey as a SmartCard for storing GPG encryption, signing and authentication keys, which can also be used for SSH. Many of the principles in this document are applicable to other smart card devices.",
+          "title": "YubiKey Guide",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-10T17:08:43Z",
+            "owner": "drduh",
+            "repo": "YubiKey-Guide",
+            "stars": 12165
+          }
+        }
+      ],
+      "title": "Security key"
+    },
+    {
+      "description": "Certificate-based authentication.",
+      "items": [
+        {
+          "children": [],
+          "description": "Quick overview of the important stuff.",
+          "title": "PKI for busy people"
+        },
+        {
+          "children": [],
+          "description": "PKI lets you define a system cryptographically. It's universal and vendor neutral.",
+          "title": "Everything you should know about certificates and PKI but are too afraid to ask"
+        },
+        {
+          "children": [],
+          "description": "Acts as a broker between CAs and environments, providing a central portal for developers to issue TLS certificates with 'sane' defaults.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T19:25:16Z",
+            "owner": "Netflix",
+            "repo": "lemur",
+            "stars": 1764
+          }
+        },
+        {
+          "children": [],
+          "description": "A swiss army knife for PKI/TLS by CloudFlare. Command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.",
+          "title": "CFSSL",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-02-26T10:46:59Z",
+            "owner": "cloudflare",
+            "repo": "cfssl",
+            "stars": 9356
+          }
+        },
+        {
+          "children": [],
+          "description": "A suite of network fingerprinting methods to facilitate threat-hunting and analysis.",
+          "title": "JA4+",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-04T18:56:09Z",
+            "owner": "FoxIO-LLC",
+            "repo": "ja4",
+            "stars": 1752
+          }
+        }
+      ],
+      "title": "Public-Key Infrastructure (PKI)"
+    },
+    {
+      "description": "Now we know you are you. But are you allowed to do what you want to do?\nPolicy specification is the science, enforcement is the art.",
+      "items": [],
+      "title": "Authorization"
+    },
+    {
+      "description": "Role-Based Access Control is the classical model to map users to permissions by the way of roles.",
+      "items": [
+        {
+          "children": [],
+          "description": "Set of services and libraries supporting service authentication and role-based authorization for provisioning and configuration.",
+          "title": "Athenz",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T07:36:54Z",
+            "owner": "yahoo",
+            "repo": "athenz",
+            "stars": 978
+          }
+        },
+        {
+          "children": [],
+          "description": "Biscuit merge concepts from cookies, JWTs, macaroons and Open Policy Agent. “It provide a logic language based on Datalog to write authorization policies. It can store data, like JWT, or small conditions like Macaroons, but it is also able to represent more complex rules like role-based access control, delegation, hierarchies.”",
+          "title": "Biscuit"
+        },
+        {
+          "children": [],
+          "description": "An authorization endpoint to write context-aware access control policies.",
+          "title": "Cerbos",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T21:55:00Z",
+            "owner": "cerbos",
+            "repo": "cerbos",
+            "stars": 4211
+          }
+        },
+        {
+          "children": [],
+          "description": "Self-hosted, open-source, RBAC system written in Rust.",
+          "title": "FerrisKey",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-08T01:57:45Z",
+            "owner": "ferriskey",
+            "repo": "ferriskey",
+            "stars": 521
+          }
+        }
+      ],
+      "title": "RBAC frameworks"
+    },
+    {
+      "description": "Attribute-Based Access Control is an evolution of RBAC, in which roles are replaced by attributes, allowing the implementation of more complex policy-based access control.",
+      "items": [
+        {
+          "children": [],
+          "description": "Policy decision point. It uses a set of access control policies, similar to AWS policies, in order to determine whether a subject is authorized to perform a certain action on a resource.",
+          "title": "Keto",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T03:42:39Z",
+            "owner": "ory",
+            "repo": "keto",
+            "stars": 5267
+          }
+        },
+        {
+          "children": [],
+          "description": "Access control library, inspired by AWS.",
+          "title": "Ladon",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-22T16:06:57Z",
+            "owner": "ory",
+            "repo": "ladon",
+            "stars": 2456
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source access control library for Golang projects.",
+          "title": "Casbin",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T12:19:03Z",
+            "owner": "casbin",
+            "repo": "casbin",
+            "stars": 19816
+          }
+        },
+        {
+          "children": [],
+          "description": "An open-source general-purpose decision engine to create and enforce ABAC policies.",
+          "title": "Open Policy Agent",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T18:31:13Z",
+            "owner": "open-policy-agent",
+            "repo": "opa",
+            "stars": 11199
+          }
+        }
+      ],
+      "title": "ABAC frameworks"
+    },
+    {
+      "description": "The Relationship-Based Access Control model is a more flexible and powerful version of RBAC and is the preferred one for cloud systems.",
+      "items": [
+        {
+          "children": [],
+          "description": "Scales to trillions of access control lists and millions of authorization requests per second to support services used by billions of people. It has maintained 95th-percentile latency of less than 10 milliseconds and availability of greater than 99.999% over 3 years of production use. .  is a site dedicated to explaining how Zanzibar works.",
+          "title": "Zanzibar: Google's Consistent, Global Authorization System"
+        },
+        {
+          "children": [],
+          "description": "An open source database system for managing security-critical application permissions inspired by Zanzibar.",
+          "title": "SpiceDB",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T21:33:30Z",
+            "owner": "authzed",
+            "repo": "spicedb",
+            "stars": 6417
+          }
+        },
+        {
+          "children": [],
+          "description": "Another open-source authorization as a service inspired by Google Zanzibar, and see .",
+          "title": "Permify",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-05T19:14:18Z",
+            "owner": "Permify",
+            "repo": "permify",
+            "stars": 5790
+          }
+        },
+        {
+          "children": [],
+          "description": "An open-source project which combines the policy-as-code and decision logging of OPA with a Zanzibar-modeled directory.",
+          "title": "Topaz",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-05T18:07:16Z",
+            "owner": "aserto-dev",
+            "repo": "topaz",
+            "stars": 1304
+          }
+        },
+        {
+          "children": [],
+          "description": "Open Source administration layer for OPA, detecting changes to both policy and policy data in realtime and pushing live updates to OPA agents. OPAL brings open-policy up to the speed needed by live applications.",
+          "title": "Open Policy Administration Layer",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T15:56:11Z",
+            "owner": "permitio",
+            "repo": "opal",
+            "stars": 5421
+          }
+        },
+        {
+          "children": [],
+          "description": "A relationship based access control (ReBAC) engine (inspired by Google Zanzibar) also capable of enforcing any authorization paradigm, including RBAC and ABAC.",
+          "title": "Warrant",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-05T19:39:14Z",
+            "owner": "warrant-dev",
+            "repo": "warrant",
+            "stars": 1323
+          }
+        }
+      ],
+      "title": "ReBAC frameworks"
+    },
+    {
+      "description": "Tools and resources exclusively targeting the AWS IAM policies ecosystem.",
+      "items": [
+        {
+          "children": [],
+          "description": "A comprehensive list of (maintained) tools for AWS IAM.",
+          "title": "An AWS IAM Security Tooling Reference"
+        },
+        {
+          "children": [],
+          "description": "In my nearly 5 years at Amazon, I carve out a little time each day, each week to look through the forums, customer tickets to try to find out where people are having trouble.”",
+          "title": "Become an AWS IAM Policy Ninja"
+        },
+        {
+          "children": [],
+          "description": "The history of fast-growing AWS explains how the current scheme came to be, and how it compares to GCP's resource hierarchy.",
+          "title": "AWS IAM Roles, a tale of unnecessary complexity"
+        },
+        {
+          "children": [],
+          "description": "Writing security-conscious IAM Policies by hand can be very tedious and inefficient. Policy Sentry helps users to create least-privilege policies in a matter of seconds.",
+          "title": "Policy Sentry",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-01T17:52:39Z",
+            "owner": "salesforce",
+            "repo": "policy_sentry",
+            "stars": 2136
+          }
+        },
+        {
+          "children": [],
+          "description": "AWS IAM policy statement generator with fluent interface. Helps with creating type safe IAM policies and writing more restrictive/secure statements by offering conditions and ARN generation via IntelliSense. Available for Node.js, Python, .Net and Java.",
+          "title": "IAM Floyd",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T01:41:30Z",
+            "owner": "udondan",
+            "repo": "iam-floyd",
+            "stars": 570
+          }
+        },
+        {
+          "children": [],
+          "description": "GitOps for IAM. The Terraform of Cloud IAM. IAMbic is a multi-cloud identity and access management (IAM) control plane that centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in version control.",
+          "title": "IAMbic",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-27T11:56:33Z",
+            "owner": "noqdev",
+            "repo": "iambic",
+            "stars": 297
+          }
+        }
+      ],
+      "title": "AWS policy tools"
+    },
+    {
+      "description": "OAuth 2.0 is a delegated authorization framework. OpenID Connect (OIDC) is an authentication layer on top of it.\nThe old OpenID is dead; the new OpenID Connect is very much not-dead.",
+      "items": [
+        {
+          "children": [],
+          "description": "A curated list of providers, services, libraries, and resources for OpenID Connect.",
+          "title": "Awesome OpenID Connect",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-07T10:28:05Z",
+            "owner": "cerberauth",
+            "repo": "awesome-openid-connect",
+            "stars": 87
+          }
+        },
+        {
+          "children": [],
+          "description": "Explain how these standards work using simplified illustrations.",
+          "title": "An Illustrated Guide to OAuth and OpenID Connect"
+        },
+        {
+          "children": [],
+          "description": "A reference article describing the protocol in simplified format to help developers and service providers implement it.",
+          "title": "OAuth 2 Simplified"
+        },
+        {
+          "children": [],
+          "description": "Starts with an historical context on how these standards came to be, clears up the innacuracies in the vocabulary, then details the protocols and its pitfalls to make it less intimidating.",
+          "title": "OAuth 2.0 and OpenID Connect (in plain English)"
+        },
+        {
+          "children": [],
+          "description": "A nice summary card.",
+          "title": "OAuth in one picture"
+        },
+        {
+          "children": [],
+          "description": "Got multiple legacy systems to merge with their own login methods and accounts? Here is how to merge all that mess by the way of OIDC.",
+          "title": "How to Implement a Secure Central Authentication Service in Six Steps"
+        },
+        {
+          "children": [],
+          "description": "OAuth2-friendly adaptation of the Central Authentication Service (CAS) protocol. You'll find there good OAuth user flow diagrams.",
+          "title": "Open-Sourcing BuzzFeed's SSO Experience"
+        },
+        {
+          "children": [],
+          "description": "Updates and extends the OAuth 2.0 Security Threat Model to incorporate practical experiences gathered since OAuth 2.0 was published and covers new threats relevant due to the broader application”.",
+          "title": "OAuth 2.0 Security Best Current Practice"
+        },
+        {
+          "children": [],
+          "description": "How to identify and exploit some of the key vulnerabilities found in OAuth 2.0 authentication mechanisms.",
+          "title": "Hidden OAuth attack vectors"
+        },
+        {
+          "children": [],
+          "description": "PKCE is used to provide one more security layer to the authorization code flow in OAuth and OpenID Connect.”",
+          "title": "PKCE Explained"
+        },
+        {
+          "children": [],
+          "description": "Open-source OIDC & OAuth2 Server Provider.",
+          "title": "Hydra",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-04T16:19:44Z",
+            "owner": "ory",
+            "repo": "hydra",
+            "stars": 16914
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source Identity and Access Management. Supports OIDC, OAuth 2 and SAML 2, LDAP and AD directories, password policies.",
+          "title": "Keycloak",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-08T03:03:32Z",
+            "owner": "keycloak",
+            "repo": "keycloak",
+            "stars": 32708
+          }
+        },
+        {
+          "children": [],
+          "description": "A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.",
+          "title": "Casdoor",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T18:25:59Z",
+            "owner": "casbin",
+            "repo": "casdoor",
+            "stars": 12982
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source Identity Provider similar to Keycloak.",
+          "title": "authentik",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T22:00:12Z",
+            "owner": "goauthentik",
+            "repo": "authentik",
+            "stars": 20032
+          }
+        },
+        {
+          "children": [],
+          "description": "An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.",
+          "title": "ZITADEL",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T02:03:42Z",
+            "owner": "zitadel",
+            "repo": "zitadel",
+            "stars": 12921
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple authentication system which only implements the relevant parts of the OAuth2 standards.",
+          "title": "a12n-server",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T06:02:16Z",
+            "owner": "curveball",
+            "repo": "a12n-server",
+            "stars": 496
+          }
+        },
+        {
+          "children": [],
+          "description": "An IAM infrastructure for modern apps and SaaS products, supporting OIDC, OAuth 2.0 and SAML for authentication and authorization.",
+          "title": "Logto",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T05:25:15Z",
+            "owner": "logto-io",
+            "repo": "logto",
+            "stars": 11538
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source authentication-as-a-service solution. It includes the code for the server, AuthUI, the Portal, and Admin API.",
+          "title": "Authgear",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-04T08:06:31Z",
+            "owner": "authgear",
+            "repo": "authgear-server",
+            "stars": 1345
+          }
+        }
+      ],
+      "title": "OAuth2 & OpenID"
+    },
+    {
+      "description": "Architectures, software and hardware allowing the storage and usage of secrets to allow for authentication and authorization, while maintaining the chain of trust.",
+      "items": [
+        {
+          "children": [],
+          "description": "Solution based on blind signatures. See the .",
+          "title": "Secret at Scale at Netflix"
+        },
+        {
+          "children": [],
+          "description": "Not GCP's KMS, but the one at the core of their infrastructure. See the .",
+          "title": "High Availability in Google's Internal KMS"
+        },
+        {
+          "children": [],
+          "description": "Secure, store and tightly control access to tokens, passwords, certificates, encryption keys.",
+          "title": "HashiCorp Vault",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T23:04:06Z",
+            "owner": "hashicorp",
+            "repo": "vault",
+            "stars": 34986
+          }
+        },
+        {
+          "children": [],
+          "description": "An alternative to HashiCorp Vault.",
+          "title": "Infisical",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T07:02:12Z",
+            "owner": "Infisical",
+            "repo": "infisical",
+            "stars": 24776
+          }
+        },
+        {
+          "children": [],
+          "description": "Editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T10:19:24Z",
+            "owner": "mozilla",
+            "repo": "sops",
+            "stars": 20713
+          }
+        },
+        {
+          "children": [],
+          "description": "Audit git repos for secrets.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-08T20:48:49Z",
+            "owner": "zricethezav",
+            "repo": "gitleaks",
+            "stars": 24814
+          }
+        },
+        {
+          "children": [],
+          "description": "Searches through git repositories for high entropy strings and secrets, digging deep into commit history.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T03:10:36Z",
+            "owner": "dxa4481",
+            "repo": "truffleHog",
+            "stars": 24478
+          }
+        }
+      ],
+      "title": "Secret Management"
+    },
+    {
+      "description": "HSMs are physical devices guaranteeing security of secret management at the hardware level.",
+      "items": [
+        {
+          "children": [],
+          "description": "Really basic overview of HSM usages.",
+          "title": "HSM: What they are and why it's likely that you've (indirectly) used one today"
+        },
+        {
+          "children": [],
+          "description": "AWS CloudHSM Classic is backed by SafeNet's Luna HSM, current CloudHSM rely on Cavium's Nitrox, which allows for partitionable \"virtual HSMs\".",
+          "title": "Tidbits on AWS Cloud HSM hardware"
+        },
+        {
+          "children": [],
+          "description": "Open-source project for building trusted execution environments (TEE) with secure hardware enclaves, based on the RISC-V architecture.",
+          "title": "Keystone",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-10T17:42:32Z",
+            "owner": "keystone-enclave",
+            "repo": "keystone",
+            "stars": 519
+          }
+        },
+        {
+          "children": [],
+          "description": "A specification and a reference implementation for the secure transfer, storage and processing of data.",
+          "title": "Project Oak",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-06T21:40:18Z",
+            "owner": "project-oak",
+            "repo": "oak",
+            "stars": 1449
+          }
+        },
+        {
+          "children": [],
+          "description": "A case study of vulnerability and exploitability of a HSM (in French, sorry).",
+          "title": "Everybody be cool, this is a robbery!"
+        }
+      ],
+      "title": "Hardware Security Module (HSM)"
+    },
+    {
+      "description": "Most businesses do not collect customer's identity to create user profiles to sell to third party, no. But you still have to: local laws require to keep track of contract relationships under the large Know You Customer (KYC) banner.",
+      "items": [
+        {
+          "children": [],
+          "description": "Is this paper aims at identity metasystem, its laws still provides great insights at smaller scale, especially the first law: to always allow user control and ask for consent to earn trust.",
+          "title": "The Laws of Identity"
+        },
+        {
+          "children": [],
+          "description": "To limit \"friction\" Uber allowed riders to sign up without requiring them to provide identity beyond an email — easily faked — or a phone number. (…) Vehicles were stolen and burned; drivers were assaulted, robbed and occasionally murdered. The company stuck with the low-friction sign-up system, even as violence increased.”",
+          "title": "How Uber Got Lost"
+        },
+        {
+          "children": [],
+          "description": "Customer name matching has lots of application, from account deduplication to fraud monitoring.",
+          "title": "A Comparison of Personal Name Matching: Techniques and Practical Issues"
+        },
+        {
+          "children": [],
+          "description": "Wordlists for creating statistically likely usernames for use in username-enumeration, simulated password-attacks and other security testing tasks.",
+          "title": "Statistically Likely Usernames",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-31T20:27:53Z",
+            "owner": "insidetrust",
+            "repo": "statistically-likely-usernames",
+            "stars": 1251
+          }
+        },
+        {
+          "children": [],
+          "description": "Some groups and content are illegal in some juridictions. This is an example of a blocklist.",
+          "title": "Facebook Dangerous Individuals and Organizations List"
+        },
+        {
+          "children": [],
+          "description": "An open-source infrastructure for user identity and risk management.",
+          "title": "Ballerine",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-05T18:14:06Z",
+            "owner": "ballerine-io",
+            "repo": "ballerine",
+            "stars": 2351
+          }
+        },
+        {
+          "children": [],
+          "description": "Hunt down social media accounts by username across social networks.",
+          "title": "Sherlock",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T05:22:40Z",
+            "owner": "sherlock-project",
+            "repo": "sherlock",
+            "stars": 72537
+          }
+        }
+      ],
+      "title": "User Identity"
+    },
+    {
+      "description": "As an online service provider, you're exposed to fraud, crime and abuses. You'll be surprised by how much people gets clever when it comes to money. Expect any bug or discrepancies in your workflow to be exploited for financial gain.",
+      "items": [
+        {
+          "children": [],
+          "description": "Why background check are sometimes necessary.",
+          "title": "After Car2Go eased its background checks, 75 of its vehicles were stolen in one day."
+        },
+        {
+          "children": [],
+          "description": "A really detailed analysis of suspicious contributor signups on OpenStreetMap. This beautiful and high-level report demonstrating an orchestrated and directed campaign might serve as a template for fraud reports.",
+          "title": "Investigation into the Unusual Signups"
+        },
+        {
+          "children": [],
+          "description": "A proposed method to “detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”",
+          "title": "MIDAS: Detecting Microcluster Anomalies in Edge Streams",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-10T05:43:58Z",
+            "owner": "bhatiasiddharth",
+            "repo": "MIDAS",
+            "stars": 777
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source platform for visualizing and manipulating large graphs.",
+          "title": "Gephi",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T12:42:11Z",
+            "owner": "gephi",
+            "repo": "gephi",
+            "stars": 6354
+          }
+        }
+      ],
+      "title": "Fraud"
+    },
+    {
+      "description": "How to detect, unmask and classify offensive online activities. Most of the time these are monitored by security, networking and/or infrastructure engineering teams. Still, these are good resources for T&S and IAM people, who might be called upon for additional expertise for analysis and handling of threats.",
+      "items": [
+        {
+          "children": [],
+          "description": "A concise definition of Threat Intelligence: evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject's response to that menace or hazard.”",
+          "title": "Awesome Threat Intelligence",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-19T14:39:01Z",
+            "owner": "hslatman",
+            "repo": "awesome-threat-intelligence",
+            "stars": 9734
+          }
+        },
+        {
+          "children": [],
+          "description": "An open source intelligence (OSINT) automation tool. It integrates with just about every data source available and uses a range of methods for data analysis, making that data easy to navigate.",
+          "title": "SpiderFoot",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-28T22:13:05Z",
+            "owner": "poppopjmp",
+            "repo": "spiderfoot",
+            "stars": 135
+          }
+        },
+        {
+          "children": [],
+          "description": "Open standards, tools and methodologies to support threat intelligence analysis.",
+          "title": "Standards related to Threat Intelligence"
+        },
+        {
+          "children": [],
+          "description": "Tags to organize information on “threat intelligence including cyber security indicators, financial fraud or counter-terrorism information.”",
+          "title": "MISP taxonomies and classification"
+        },
+        {
+          "children": [],
+          "description": "Fingerprints can be used as a source of signals to identify bots and fraudsters.",
+          "title": "Browser Fingerprinting: A survey"
+        },
+        {
+          "children": [],
+          "description": "At one point you will let users upload files in your system. Here is a  that can be leveraged by scammers =to bypass security or fool users.",
+          "title": "The challenges of file formats",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-12-22T21:19:50Z",
+            "owner": "corkami",
+            "repo": "pocs",
+            "stars": 1536
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+          "title": "SecLists",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T18:22:14Z",
+            "owner": "danielmiessler",
+            "repo": "SecLists",
+            "stars": 68672
+          }
+        },
+        {
+          "children": [],
+          "description": "CSV database of email addresses used by threat actor in phishing kits.",
+          "title": "PhishingKitTracker",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-11T22:45:32Z",
+            "owner": "neonprimetime",
+            "repo": "PhishingKitTracker",
+            "stars": 102
+          }
+        },
+        {
+          "children": [],
+          "description": "Tools to scan phone numbers using only free resources. The goal is to first gather standard information such as country, area, carrier and line type on any international phone numbers with a very good accuracy. Then search for footprints on search engines to try to find the VoIP provider or identify the owner.",
+          "title": "PhoneInfoga",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-06T11:08:15Z",
+            "owner": "sundowndev",
+            "repo": "PhoneInfoga",
+            "stars": 15781
+          }
+        },
+        {
+          "children": [],
+          "description": "Homoglyphs is a common phishing trick.",
+          "title": "Confusable Homoglyphs"
+        }
+      ],
+      "title": "Threat Intelligence"
+    },
+    {
+      "description": "Another line of defense against spammers.",
+      "items": [
+        {
+          "children": [],
+          "description": "Reference all open-source captcha libraries, integration, alternatives and cracking tools.",
+          "title": "Awesome Captcha",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-30T18:00:30Z",
+            "owner": "ZYSzys",
+            "repo": "awesome-captcha",
+            "stars": 1383
+          }
+        },
+        {
+          "children": [],
+          "description": "reCaptcha is still an effective, economical and quick solution when your company can't afford to have a dedicated team to fight bots and spammers at internet scale.",
+          "title": "reCaptcha"
+        },
+        {
+          "children": [],
+          "description": "Starts with a rant on how the service is a privacy nightmare and is tedious UI-wise, then list alternatives.",
+          "title": "You (probably) don't need ReCAPTCHA"
+        },
+        {
+          "children": [],
+          "description": "An open-source solution to protect upstream resources from scraper bots.",
+          "title": "Anubis",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-02T00:41:57Z",
+            "owner": "TecharoHQ",
+            "repo": "anubis",
+            "stars": 16723
+          }
+        },
+        {
+          "children": [],
+          "description": "Captchas solving service.",
+          "title": "Anti-captcha"
+        }
+      ],
+      "title": "Captcha"
+    },
+    {
+      "description": "Useful to identified clients, catch and block swarms of bots, and limit effects of dDOS.",
+      "items": [
+        {
+          "children": [],
+          "description": "Consolidates reputable hosts files, and merges them into a unified hosts file with duplicates removed.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T22:43:10Z",
+            "owner": "StevenBlack",
+            "repo": "hosts",
+            "stars": 29783
+          }
+        },
+        {
+          "children": [],
+          "description": "Extensive collection of list for security, privacy and parental control.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-20T13:17:37Z",
+            "owner": "nextdns",
+            "repo": "metadata",
+            "stars": 666
+          }
+        },
+        {
+          "children": [],
+          "description": "Mozilla's registry of public suffixes, under which Internet users can (or historically could) directly register names.",
+          "title": "The Public Suffix List",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T17:36:47Z",
+            "owner": "publicsuffix",
+            "repo": "list",
+            "stars": 2719
+          }
+        },
+        {
+          "children": [],
+          "description": "CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly.",
+          "title": "Country IP Blocks",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-04T14:00:21Z",
+            "owner": "herrbischoff",
+            "repo": "country-ip-blocks",
+            "stars": 928
+          }
+        },
+        {
+          "children": [],
+          "description": "Subdomain denylists: , , , .",
+          "title": "#1",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-06-03T01:30:53Z",
+            "owner": "sandeepshetty",
+            "repo": "subdomain-blacklist",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "Top-5000 most common domain prefix/suffix list.",
+          "title": ""
+        },
+        {
+          "children": [],
+          "description": "NSA's  matching rules for TOR and other anonymity preserving tools.",
+          "title": ""
+        },
+        {
+          "children": [],
+          "description": "Official French denylist of money-related fraud sites.",
+          "title": "AMF site blocklist"
+        }
+      ],
+      "title": "Hostnames and Subdomains"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A list of temporary email providers. And its .",
+          "title": "Burner email providers",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-19T12:08:54Z",
+            "owner": "wesbos",
+            "repo": "burner-email-providers",
+            "stars": 1166
+          }
+        },
+        {
+          "children": [],
+          "description": "Cross-language temporary (disposable/throwaway) email detection library.",
+          "title": "MailChecker",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-30T09:24:26Z",
+            "owner": "FGRibreau",
+            "repo": "mailchecker",
+            "stars": 1852
+          }
+        },
+        {
+          "children": [],
+          "description": "A list of domains for disposable and temporary email addresses. Useful for filtering your email list to increase open rates (sending email to these domains likely will not be opened).",
+          "title": "Temporary Email Address Domains"
+        },
+        {
+          "children": [],
+          "description": "A ruby gem to check if the owner of a given email address or website is working for THE MAN (a.k.a verifies government domains).” Good resource to hunt for potential government customers in your user base.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-01-15T00:18:43Z",
+            "owner": "benbalter",
+            "repo": "gman",
+            "stars": 172
+          }
+        }
+      ],
+      "title": "Emails"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Profanity blocklist from Shutterstock.",
+          "title": "List of Dirty, Naughty, Obscene, and Otherwise Bad Words",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-05T08:32:35Z",
+            "owner": "LDNOOBW",
+            "repo": "List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words",
+            "stars": 3289
+          }
+        },
+        {
+          "children": [],
+          "description": "Uses a linear SVM model trained on 200k human-labeled samples of clean and profane text strings.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-27T06:55:05Z",
+            "owner": "vzhou842",
+            "repo": "profanity-check",
+            "stars": 650
+          }
+        }
+      ],
+      "title": "Profanity"
+    },
+    {
+      "description": "As the guardian of user's data, the IAM stack is deeply bounded by the respect of privacy.",
+      "items": [
+        {
+          "children": [],
+          "description": "A collection of scientific studies of schemes providing privacy by design.",
+          "title": "Paper we love: Privacy",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-10-10T15:35:14Z",
+            "owner": "papers-we-love",
+            "repo": "papers-we-love",
+            "stars": 103066
+          }
+        },
+        {
+          "children": [],
+          "description": "Data breach index.",
+          "title": "Have I been Pwned?"
+        },
+        {
+          "children": [],
+          "description": "Most privacy breaches were allowed by known vulnerabilities in third-party dependencies. Here is how to detect them by the way of CI/CD.",
+          "title": "Automated security testing for Software Developers"
+        },
+        {
+          "children": [],
+          "description": "As the world becomes increasingly connected, the email marketing regulation landscape becomes more and more complex.",
+          "title": "Email marketing regulations around the world",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-03T16:04:41Z",
+            "owner": "threeheartsdigital",
+            "repo": "email-marketing-regulations",
+            "stars": 461
+          }
+        }
+      ],
+      "title": "Privacy"
+    },
+    {
+      "description": "Keep track on the activity of open-source projects and companies operating in the domain.",
+      "items": [
+        {
+          "children": [],
+          "description": "Ranking, popularity and activity status of open-source digital identity projects.",
+          "title": "Best-of Digital Identity",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-05T18:56:10Z",
+            "owner": "jruizaranguren",
+            "repo": "best-of-digital-identity",
+            "stars": 167
+          }
+        },
+        {
+          "children": [],
+          "description": "The source of all new features added to the IAM perimeter.",
+          "title": "AWS Security, Identity & Compliance announcements"
+        },
+        {
+          "children": [],
+          "description": "Also of note: , , , , ,  and .",
+          "title": "GCP IAM release notes"
+        },
+        {
+          "children": [],
+          "description": "Relevant keywords:  and .",
+          "title": "Unofficial Weekly Google Cloud Platform newsletter"
+        },
+        {
+          "children": [],
+          "description": "All the latest accounts updates on DO.",
+          "title": "DigitalOcean Accounts changelog"
+        },
+        {
+          "children": [],
+          "description": "Help makes sense of their huge service catalog. In the same spirit: .",
+          "title": "163 AWS services explained in one line each"
+        },
+        {
+          "children": [],
+          "description": "Describe all GCP products in 4 words or less.",
+          "title": "Google Cloud Developer's Cheat Sheet",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-06T10:56:15Z",
+            "owner": "gregsramblings",
+            "repo": "google-cloud-4-words",
+            "stars": 8209
+          }
+        }
+      ],
+      "title": "Competitive Analysis"
+    },
+    {
+      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "The header image is based on a modified photo by Ben Sweet.\n[0]: You can add your Identity & Authentication product in the list of sponsors via a GitHub sponsorship. [↑]\n[1]: Poison Study (Mira, 2007). [↑]",
+      "items": [],
+      "title": "Footnotes"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:25:01.817Z",
+    "original_repository": "kdeldycke/awesome-iam",
+    "source_repository": "v1nvn/enhansome-iam",
+    "source_repository_description": null,
+    "title": "Untitled"
+  }
+}

@@ -1,0 +1,525 @@
+{
+  "items": [
+    {
+      "description": "Below are the most popular platforms for Smart TV. The full list is here.",
+      "items": [],
+      "title": "Platforms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Samsung Tizen"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Library and command line tool for remote controlling Samsung televisions via a TCP/IP connection. It currently supports both pre-2016 TVs as well most of the modern Tizen-OS TVs with Ethernet or Wi-Fi connectivity (Python).",
+          "title": "samsungctl",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-07-10T08:49:46Z",
+            "owner": "Ape",
+            "repo": "samsungctl",
+            "stars": 737
+          }
+        },
+        {
+          "children": [],
+          "description": "Node.js module to remotely control Samsung Smart TV starting from 2016 (JavaScript).",
+          "title": "samsung-tv-remote",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-20T13:32:01Z",
+            "owner": "Badisi",
+            "repo": "samsung-tv-remote",
+            "stars": 56
+          }
+        },
+        {
+          "children": [],
+          "description": "A plugin for  that allows you to control your 2016 Samsung TV with HomeKit and Siri (JavaScript).",
+          "title": "homebridge-samsungtv2016",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-14T17:18:44Z",
+            "owner": "kyleaa",
+            "repo": "homebridge-samsungtv2016",
+            "stars": 57
+          }
+        },
+        {
+          "children": [],
+          "description": "A plugin for  that allows you to control your Samsung Tizen TV with HomeKit and Siri (JavaScript).",
+          "title": "homebridge-samsung-tizen",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-29T06:55:50Z",
+            "owner": "tavicu",
+            "repo": "homebridge-samsung-tizen",
+            "stars": 676
+          }
+        },
+        {
+          "children": [],
+          "description": "Encrypted communication with the internal web service of Samsung TV models 2014+.",
+          "title": "samsung-remote-models-2014-and-newer",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-25T03:22:53Z",
+            "owner": "tdudek",
+            "repo": "samsung-remote-models-2014-and-newer",
+            "stars": 49
+          }
+        },
+        {
+          "children": [],
+          "description": "SmartView2 encrypted handshake API implementation in C/Python.",
+          "title": "SmartCrypto",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-08-18T08:19:13Z",
+            "owner": "sectroyer",
+            "repo": "SmartCrypto",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Python script to show notifications on Samsung TVs.",
+          "title": "samsung-messagebox",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-06-05T14:00:50Z",
+            "owner": "shantanugoel",
+            "repo": "samsung-messagebox",
+            "stars": 55
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for remote control Samsung TV in your Node.js",
+          "title": "samsung-tv-control",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-23T00:35:07Z",
+            "owner": "Toxblh",
+            "repo": "samsung-tv-control",
+            "stars": 194
+          }
+        }
+      ],
+      "title": "Third-party remote control libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "How to get screen size, matrix type, year of development, series and other parameters from Samsung TV model name.",
+          "title": "Identification of Samsung TV models 2008-2017"
+        },
+        {
+          "children": [],
+          "description": "Documents focused on web apps for Smart TVs e Professional Monitors, based in personal researches.",
+          "title": "Tizen Studio development references",
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2019-10-09T21:17:38Z",
+            "owner": "claromes",
+            "repo": "tizenstudio",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "TizenBrew] () - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio",
+          "title": "https://github.com/reisxd/TizenBrew",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-11T16:10:37Z",
+            "owner": "reisxd",
+            "repo": "TizenBrew",
+            "stars": 1176
+          }
+        },
+        {
+          "children": [],
+          "description": "TizenTube] () - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.",
+          "title": "https://github.com/reisxd/TizenTube",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-04T20:56:46Z",
+            "owner": "reisxd",
+            "repo": "TizenTube",
+            "stars": 1424
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "LG webOS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript).",
+          "title": "lgtv2",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-04T13:34:20Z",
+            "owner": "hobbyquaker",
+            "repo": "lgtv2",
+            "stars": 340
+          }
+        },
+        {
+          "children": [],
+          "description": "Module for  allowing  remote control of LG webOS Smart TVs (JavaScript).",
+          "title": "node-red-contrib-lgtv",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-11T08:48:09Z",
+            "owner": "hobbyquaker",
+            "repo": "node-red-contrib-lgtv",
+            "stars": 59
+          }
+        },
+        {
+          "children": [],
+          "description": "Node.js module to discover and control webOS TVs (JavaScript).",
+          "title": "node-webos",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-09T21:27:14Z",
+            "owner": "WeeJeWel",
+            "repo": "node-webos",
+            "stars": 32
+          }
+        },
+        {
+          "children": [],
+          "description": "Interface between LG WebOS Smart TVs and MQTT (JavaScript).",
+          "title": "lgtv2mqtt",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-17T17:59:20Z",
+            "owner": "hobbyquaker",
+            "repo": "lgtv2mqtt",
+            "stars": 107
+          }
+        },
+        {
+          "children": [],
+          "description": "webOS  as separate NPM module (JavaScript).",
+          "title": "ares-webos-sdk"
+        },
+        {
+          "children": [],
+          "description": "Library to control webOS based LG Tv devices (Python).",
+          "title": "pylgtv",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-11-07T17:52:39Z",
+            "owner": "TheRealLink",
+            "repo": "pylgtv",
+            "stars": 75
+          }
+        },
+        {
+          "children": [],
+          "description": "Command line tool for webOS remote control of LG TVs (Python).",
+          "title": "LGWebOSRemote",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-17T12:16:14Z",
+            "owner": "klattimer",
+            "repo": "LGWebOSRemote",
+            "stars": 636
+          }
+        },
+        {
+          "children": [],
+          "description": "A plugin for  which allows you to control your webOS TV.",
+          "title": "homebridge-webos-tv",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-26T20:25:00Z",
+            "owner": "merdok",
+            "repo": "homebridge-webos-tv",
+            "stars": 696
+          }
+        },
+        {
+          "children": [],
+          "description": "A generic & entensible WebOS 3.0 Client Library (Python2, Python3).",
+          "title": "PyWebOSTV",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-30T17:42:03Z",
+            "owner": "supersaiyanmode",
+            "repo": "PyWebOSTV",
+            "stars": 308
+          }
+        },
+        {
+          "children": [],
+          "description": "A small Go library for interaction with webOS TVs (golang).",
+          "title": "go-webos"
+        }
+      ],
+      "title": "Third-party remote control libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Android TV"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Apple tvOS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Google Chromecast"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "React development for TV: renderer for low memory applications and Packager for WebOS, Tizen, Orsay.",
+          "title": "react-tv",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-03-30T15:33:14Z",
+            "owner": "raphamorim",
+            "repo": "react-tv",
+            "stars": 2027
+          }
+        },
+        {
+          "children": [],
+          "description": "Samsung open-source framework for multi-platform TV apps developemnt.",
+          "title": "TOAST"
+        },
+        {
+          "children": [],
+          "description": "LG framework for development apps for all major platforms, from phones and tablets to PCs and TVs.",
+          "title": "Enyo"
+        },
+        {
+          "children": [],
+          "description": "Smart TV universal library for Samsung, LG, Philips, SmartTV Aliance, STB Mag app development.",
+          "title": "Smartbox",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-31T13:39:20Z",
+            "owner": "immosmart",
+            "repo": "smartbox",
+            "stars": 247
+          }
+        },
+        {
+          "children": [],
+          "description": "A platform-agnostic framework for developing TV Apps. Supports Samsung, LG, Philips, Sony, Panasonic and VESTEL Smart TVs.",
+          "title": "Mautilus Smart TV SDK",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-29T20:23:02Z",
+            "owner": "mautilus",
+            "repo": "sdk",
+            "stars": 99
+          }
+        },
+        {
+          "children": [],
+          "description": "An open source library for building applications for Smart TV developed by BBC engineers.",
+          "title": "BBC TAL"
+        },
+        {
+          "children": [],
+          "description": "A declarative front-end framework for web-based SmartTV/STB platforms. Has experimental support of Android TV.",
+          "title": "PureQML TV",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-13T11:05:52Z",
+            "owner": "pureqml",
+            "repo": "qmlcore-tv",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "An open source Smart TV framework. Strongly typed JavaScript, component based, built-in D-PAD navigation management, abstract video API with DRM for all platforms. Supports many platforms like Tizen, webOS, Android TV, etc.",
+          "title": "ZombieBox",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-07T10:20:25Z",
+            "owner": "interfaced",
+            "repo": "zombiebox",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "Cross-platform frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls.",
+          "title": "lrud",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-05T10:40:30Z",
+            "owner": "stuart-williams",
+            "repo": "lrud",
+            "stars": 33
+          }
+        },
+        {
+          "children": [],
+          "description": "A javascript-based implementation of Spatial Navigation.",
+          "title": "js-spatial-navigation",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-23T14:02:58Z",
+            "owner": "luke-chang",
+            "repo": "js-spatial-navigation",
+            "stars": 424
+          }
+        },
+        {
+          "children": [],
+          "description": "A wrapper of js-spatial-navigation to react components.",
+          "title": "react-js-spatial-navigation",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-10T11:51:15Z",
+            "owner": "dead",
+            "repo": "react-js-spatial-navigation",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "Spatial Navigation components for React. Similar to the  of the .",
+          "title": "react-key-navigation",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-08-19T17:33:43Z",
+            "owner": "dead",
+            "repo": "react-key-navigation",
+            "stars": 76
+          }
+        },
+        {
+          "children": [],
+          "description": "HOC-based Spatial Navigation (key navigation) solution for React.",
+          "title": "react-spatial-navigation",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-05-05T15:03:49Z",
+            "owner": "NoriginMedia",
+            "repo": "react-spatial-navigation",
+            "stars": 226
+          }
+        }
+      ],
+      "title": "Navigation libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A package that allows you to decode and send infra-red signals of many (but not all) commonly used remote controls.",
+          "title": "LIRC"
+        },
+        {
+          "children": [],
+          "description": "Another list of Smart TV resources. Discovered after this one was already done :roll_eyes:.",
+          "title": "awesome-smarttv",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-29T14:38:44Z",
+            "owner": "linuxenko",
+            "repo": "awesome-smarttv",
+            "stars": 157
+          }
+        },
+        {
+          "children": [],
+          "description": "Docker image with Samsung Tizen CLI and LG webOS CLI. Allows to develop, build, launch and debug Smart TV apps without installing Tizen Studio and webOS SDK.",
+          "title": "docker-tizen-webos-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2025-06-18T10:52:50Z",
+            "owner": "vitalets",
+            "repo": "docker-tizen-webos-sdk",
+            "stars": 127
+          }
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "Feel free to share your experience and contribute useful extension resources by creating new issue or pull request.\nPlease read the contribution guidelines first. Thanks!",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:33:09.367Z",
+    "original_repository": "vitalets/awesome-smart-tv",
+    "source_repository": "v1nvn/enhansome-smart-tv",
+    "source_repository_description": null,
+    "title": "Awesome Smart TV with stars"
+  }
+}

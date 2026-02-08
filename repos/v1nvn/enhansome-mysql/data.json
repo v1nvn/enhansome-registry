@@ -1,0 +1,1283 @@
+{
+  "items": [
+    {
+      "description": "Performance, structure & data analysis tools",
+      "items": [
+        {
+          "children": [],
+          "description": "Box SQL slow query monitor.",
+          "title": "Anemometer",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-08T23:39:55Z",
+            "owner": "box",
+            "repo": "Anemometer",
+            "stars": 1396
+          }
+        },
+        {
+          "children": [],
+          "description": "A parser for InnoDB file formats, in Ruby.",
+          "title": "innodb-ruby",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-11-26T00:45:06Z",
+            "owner": "jeremycole",
+            "repo": "innodb_ruby",
+            "stars": 1785
+          }
+        },
+        {
+          "children": [],
+          "description": "a 'top' clone for MySQL with many features and flexibility.",
+          "title": "innotop",
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2025-10-22T13:23:18Z",
+            "owner": "innotop",
+            "repo": "innotop",
+            "stars": 797
+          }
+        },
+        {
+          "children": [],
+          "description": "A web-based analyzer of  output, providing comments, scalability analysis and permalinks for saved samples.",
+          "title": "MySQL Explain Analyzer",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-06T06:42:51Z",
+            "owner": "Preetam",
+            "repo": "explain-analyzer",
+            "stars": 97
+          }
+        },
+        {
+          "children": [],
+          "description": "A Python daemon to collect information from MySQL and send it via StatsD to Graphite.",
+          "title": "mysql-statsd",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-20T17:10:47Z",
+            "owner": "db-art",
+            "repo": "mysql-statsd",
+            "stars": 102
+          }
+        },
+        {
+          "children": [],
+          "description": "A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.",
+          "title": "MySQLTuner-perl",
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-01-18T22:37:57Z",
+            "owner": "major",
+            "repo": "MySQLTuner-perl",
+            "stars": 9428
+          }
+        },
+        {
+          "children": [],
+          "description": "Time series database for real-time monitoring and alerting.",
+          "title": "Prometheus",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T23:52:23Z",
+            "owner": "prometheus",
+            "repo": "prometheus",
+            "stars": 62596
+          }
+        },
+        {
+          "children": [],
+          "description": "a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.",
+          "title": "pstop",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T12:51:25Z",
+            "owner": "sjmudd",
+            "repo": "ps-top",
+            "stars": 209
+          }
+        },
+        {
+          "children": [],
+          "description": "a protocol analyzer that can decode the MySQL protocol.",
+          "title": "Wireshark"
+        },
+        {
+          "children": [],
+          "description": "a modern terminal tool for real-time analytics into MySQL/MariaDB & ProxySQL",
+          "title": "Dolphie",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T21:31:03Z",
+            "owner": "charles-001",
+            "repo": "dolphie",
+            "stars": 1100
+          }
+        }
+      ],
+      "title": "Analysis"
+    },
+    {
+      "description": "Backup/restore/recovery tools",
+      "items": [
+        {
+          "children": [],
+          "description": "tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.",
+          "title": "Databasus",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-05T21:55:42Z",
+            "owner": "databasus",
+            "repo": "databasus",
+            "stars": 5419
+          }
+        },
+        {
+          "children": [],
+          "description": "Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library",
+          "title": "Dumpling",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T12:23:50Z",
+            "owner": "pingcap",
+            "repo": "tidb",
+            "stars": 39712
+          }
+        },
+        {
+          "children": [],
+          "description": "Logical, parallel backup/dumper tool for MySQL",
+          "title": "MyDumper",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-08T02:46:09Z",
+            "owner": "mydumper",
+            "repo": "mydumper",
+            "stars": 3014
+          }
+        },
+        {
+          "children": [],
+          "description": "an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.",
+          "title": "Percona Xtrabackup",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-29T12:27:44Z",
+            "owner": "percona",
+            "repo": "percona-xtrabackup",
+            "stars": 1489
+          }
+        }
+      ],
+      "title": "Backup"
+    },
+    {
+      "description": "Tools to stress your servers",
+      "items": [
+        {
+          "children": [],
+          "description": "An open-source database benchmark for MySQL/MariaDB and other open source and commercial databases.",
+          "title": "HammerDB",
+          "repo_info": {
+            "archived": false,
+            "language": "Tcl",
+            "last_commit": "2025-10-28T00:06:33Z",
+            "owner": "TPC-Council",
+            "repo": "HammerDB",
+            "stars": 733
+          }
+        },
+        {
+          "children": [],
+          "description": "A golang port of  and  benchmark for MySQL.",
+          "title": "go-tpc",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-13T04:56:59Z",
+            "owner": "pingcap",
+            "repo": "go-tpc",
+            "stars": 206
+          }
+        },
+        {
+          "children": [],
+          "description": "Java based version of the Index Insertion Benchmark for MySQL/Percona/MariaDB.",
+          "title": "iibench-mysql",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-12-04T06:57:33Z",
+            "owner": "tmcallaghan",
+            "repo": "iibench-mysql",
+            "stars": 46
+          }
+        },
+        {
+          "children": [],
+          "description": "a modular, cross-platform and multi-threaded benchmark tool.",
+          "title": "Sysbench",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-09T16:27:25Z",
+            "owner": "akopytov",
+            "repo": "sysbench",
+            "stars": 6671
+          }
+        },
+        {
+          "children": [],
+          "description": "archived) - A port of the popular  benchmark for MySQL.",
+          "title": "TPCC-MySQL",
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2018-06-13T13:40:08Z",
+            "owner": "Percona-Lab",
+            "repo": "tpcc-mysql",
+            "stars": 490
+          }
+        }
+      ],
+      "title": "Benchmarking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables",
+          "title": "DM",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-05T06:02:54Z",
+            "owner": "pingcap",
+            "repo": "tiflow",
+            "stars": 453
+          }
+        },
+        {
+          "children": [],
+          "description": "A distributed MySQL binlog storage system built on Raft",
+          "title": "Kingbus",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-03-11T04:37:27Z",
+            "owner": "flike",
+            "repo": "kingbus",
+            "stars": 896
+          }
+        },
+        {
+          "children": [],
+          "description": "archived) - Ripple, a server that can serve as a middleman in MySQL replication",
+          "title": "mysql-ripple",
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2021-04-28T05:47:58Z",
+            "owner": "google",
+            "repo": "mysql-ripple",
+            "stars": 377
+          }
+        }
+      ],
+      "title": "Binlog-Replication"
+    },
+    {
+      "description": "MySQL connectors for various programming languages",
+      "items": [
+        {
+          "children": [],
+          "description": "Official Ballerina connector for MySQL.",
+          "title": "ballerinax/mysql",
+          "repo_info": {
+            "archived": false,
+            "language": "Ballerina",
+            "last_commit": "2025-12-11T14:46:55Z",
+            "owner": "ballerina-platform",
+            "repo": "module-ballerinax-mysql",
+            "stars": 111
+          }
+        },
+        {
+          "children": [],
+          "description": "MariaDB and MySQL driver for the Perl5 Database Interface.",
+          "title": "DBD::MariaDB",
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2025-05-04T19:34:44Z",
+            "owner": "perl5-dbi",
+            "repo": "DBD-MariaDB",
+            "stars": 40
+          }
+        },
+        {
+          "children": [],
+          "description": "MySQL driver for the Perl5 Database Interface.",
+          "title": "DBD::mysql",
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-02-01T09:29:12Z",
+            "owner": "perl5-dbi",
+            "repo": "DBD-mysql",
+            "stars": 66
+          }
+        },
+        {
+          "children": [],
+          "description": "a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.",
+          "title": "go-sql-driver",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-06-13T06:21:14Z",
+            "owner": "go-sql-driver",
+            "repo": "mysql",
+            "stars": 15419
+          }
+        },
+        {
+          "children": [],
+          "description": "libAttachSQL is a lightweight, non-blocking C API for MySQL servers.",
+          "title": "libAttachSQL",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-08-28T05:53:49Z",
+            "owner": "libattachsql",
+            "repo": "libattachsql",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "LGPL-licensed MariaDB Client Library for Java Applications.",
+          "title": "MariaDB Connector/J",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T17:39:51Z",
+            "owner": "mariadb-corporation",
+            "repo": "mariadb-connector-j",
+            "stars": 357
+          }
+        },
+        {
+          "children": [],
+          "description": "MIT licensed MariaDB/MySQL Client Library for GNU Octave and Matlab.",
+          "title": "mex-mariadb",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-11-04T07:50:56Z",
+            "owner": "markuman",
+            "repo": "mex-mariadb",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Official C driver for MySQL.",
+          "title": "MySQL C API"
+        },
+        {
+          "children": [],
+          "description": "Official C/C++ driver for MySQL.",
+          "title": "MySQL Connector/C++",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-21T11:16:44Z",
+            "owner": "mysql",
+            "repo": "mysql-connector-cpp",
+            "stars": 698
+          }
+        },
+        {
+          "children": [],
+          "description": "a standardized database driver for the Java platforms and development.",
+          "title": "MySQL Connector/J",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-22T04:28:36Z",
+            "owner": "mysql",
+            "repo": "mysql-connector-j",
+            "stars": 1009
+          }
+        },
+        {
+          "children": [],
+          "description": "a standardized database driver for .Net platforms and development.",
+          "title": "MySQL Connector/NET",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-21T10:23:15Z",
+            "owner": "mysql",
+            "repo": "mysql-connector-net",
+            "stars": 324
+          }
+        },
+        {
+          "children": [],
+          "description": "Official Node.js driver for MySQL.",
+          "title": "MySQL Connector/Node.js",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-22T07:41:17Z",
+            "owner": "mysql",
+            "repo": "mysql-connector-nodejs",
+            "stars": 159
+          }
+        },
+        {
+          "children": [],
+          "description": "a standardized database driver for Python platforms and development.",
+          "title": "MySQL Connector/Python",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T21:17:18Z",
+            "owner": "mysql",
+            "repo": "mysql-connector-python",
+            "stars": 945
+          }
+        },
+        {
+          "children": [],
+          "description": "MySQL database connector for Python.",
+          "title": "mysqlclient-python",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T15:10:15Z",
+            "owner": "PyMySQL",
+            "repo": "mysqlclient",
+            "stars": 2524
+          }
+        },
+        {
+          "children": [],
+          "description": "A pure Nodejs Javascript client implementing the MySQL protocol.",
+          "title": "node-mysql"
+        },
+        {
+          "children": [],
+          "description": "MySQL native driver for PHP.",
+          "title": "PHP mysqlnd"
+        },
+        {
+          "children": [],
+          "description": "MySQL database connector for Python.",
+          "title": "PyMySQL",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-24T12:54:32Z",
+            "owner": "PyMySQL",
+            "repo": "PyMySQL",
+            "stars": 7844
+          }
+        },
+        {
+          "children": [],
+          "description": "MySQL driver for Ruby and Rails projects.",
+          "title": "Ruby Mysql2 gem",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-10-22T18:49:16Z",
+            "owner": "brianmario",
+            "repo": "mysql2",
+            "stars": 2279
+          }
+        },
+        {
+          "children": [],
+          "description": "MySQL and MariaDB driver in native Zig.",
+          "title": "MyZql",
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2025-11-21T10:58:32Z",
+            "owner": "speed2exe",
+            "repo": "myzql",
+            "stars": 67
+          }
+        },
+        {
+          "children": [],
+          "description": "Client for MySQL/MariaDB/Percona written in Rust",
+          "title": "wtx",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-03T00:18:52Z",
+            "owner": "c410-f3r",
+            "repo": "wtx",
+            "stars": 341
+          }
+        }
+      ],
+      "title": "Connectors"
+    },
+    {
+      "description": "MySQL deployment tools",
+      "items": [
+        {
+          "children": [],
+          "description": "archived) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.",
+          "title": "dbdeployer",
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-10-29T15:39:14Z",
+            "owner": "datacharmer",
+            "repo": "dbdeployer",
+            "stars": 716
+          }
+        },
+        {
+          "children": [],
+          "description": "A Java launcher to run MariaDB without installation or external dependencies.",
+          "title": "MariaDB4j",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-02T23:58:57Z",
+            "owner": "MariaDB4j",
+            "repo": "MariaDB4j",
+            "stars": 894
+          }
+        },
+        {
+          "children": [],
+          "description": "Official Docker images.",
+          "title": "MySQL Docker"
+        }
+      ],
+      "title": "Deployment"
+    },
+    {
+      "description": "Tools to support MySQL-related development",
+      "items": [
+        {
+          "children": [],
+          "description": "Database migrations; Evolve your database schema easily and reliably across all your instances",
+          "title": "Flywaydb",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-28T13:50:04Z",
+            "owner": "flyway",
+            "repo": "flyway",
+            "stars": 9515
+          }
+        },
+        {
+          "children": [],
+          "description": "Source control for your database",
+          "title": "Liquibase",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-04T12:03:39Z",
+            "owner": "liquibase",
+            "repo": "liquibase",
+            "stars": 5415
+          }
+        },
+        {
+          "children": [],
+          "description": "An application that helps you run schema migrations on MySQL databases",
+          "title": "Shift",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-04-01T04:55:07Z",
+            "owner": "square",
+            "repo": "shift",
+            "stars": 741
+          }
+        },
+        {
+          "children": [],
+          "description": "Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools",
+          "title": "Skeema",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-04T22:35:12Z",
+            "owner": "skeema",
+            "repo": "skeema",
+            "stars": 1358
+          }
+        },
+        {
+          "children": [],
+          "description": "SQLE is a SQL audit platform for DBA or developer",
+          "title": "SQLE",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T07:15:59Z",
+            "owner": "actiontech",
+            "repo": "sqle",
+            "stars": 1470
+          }
+        },
+        {
+          "children": [],
+          "description": "A sample MySQL database with an integrated test suite, used to test applications and servers",
+          "title": "Test database",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-08-06T09:58:55Z",
+            "owner": "datacharmer",
+            "repo": "test_db",
+            "stars": 4383
+          }
+        }
+      ],
+      "title": "Development"
+    },
+    {
+      "description": "GUI frontends & applications",
+      "items": [
+        {
+          "children": [],
+          "description": "Database management in a single PHP file.",
+          "title": "Adminer",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-08T01:04:32Z",
+            "owner": "vrana",
+            "repo": "adminer",
+            "stars": 7252
+          }
+        },
+        {
+          "children": [],
+          "description": "A cross-platform SQL and NoSQL database client.",
+          "title": "DBeaver",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-07T01:17:05Z",
+            "owner": "dbeaver",
+            "repo": "dbeaver",
+            "stars": 48593
+          }
+        },
+        {
+          "children": [],
+          "description": "MySQL GUI frontend for Windows.",
+          "title": "HeidiSQL",
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2026-02-07T15:08:28Z",
+            "owner": "HeidiSQL",
+            "repo": "HeidiSQL",
+            "stars": 5791
+          }
+        },
+        {
+          "children": [],
+          "description": "Low-code internal tool builder integrated with Mysql, can be used as GUI for Mysql.",
+          "title": "ILLA Cloud",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T14:35:49Z",
+            "owner": "illacloud",
+            "repo": "illa-builder",
+            "stars": 12368
+          }
+        },
+        {
+          "children": [],
+          "description": "A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.",
+          "title": "mycli",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T22:55:20Z",
+            "owner": "dbcli",
+            "repo": "mycli",
+            "stars": 11867
+          }
+        },
+        {
+          "children": [],
+          "description": "Advanced client and code editor for MySQL that supports development and administration for the MySQL Server and MySQL InnoDB cluster (AdminAPI) with an interactive JavaScript, Python, or SQL interface.",
+          "title": "MySQL Shell",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-20T17:01:47Z",
+            "owner": "mysql",
+            "repo": "mysql-shell",
+            "stars": 216
+          }
+        },
+        {
+          "children": [],
+          "description": "provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.",
+          "title": "MySQL Workbench",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-21T12:34:34Z",
+            "owner": "mysql",
+            "repo": "mysql-workbench",
+            "stars": 982
+          }
+        },
+        {
+          "children": [],
+          "description": "GUI client for MySQL or MariaDB, including debugger.",
+          "title": "Ocelot GUI",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-06T22:35:01Z",
+            "owner": "ocelot-inc",
+            "repo": "ocelotgui",
+            "stars": 63
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "OmniDB: Web tool for database management",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-01T00:34:47Z",
+            "owner": "OmniDB",
+            "repo": "OmniDB",
+            "stars": 3276
+          }
+        },
+        {
+          "children": [],
+          "description": "An open-source platform for managing and monitoring MySQL performance.",
+          "title": "Percona Monitoring and Management",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T00:22:46Z",
+            "owner": "percona",
+            "repo": "pmm",
+            "stars": 962
+          }
+        },
+        {
+          "children": [],
+          "description": "a free software tool written in PHP, intended to handle the administration of MySQL over the Web.",
+          "title": "phpMyAdmin",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-08T00:45:49Z",
+            "owner": "phpmyadmin",
+            "repo": "phpmyadmin",
+            "stars": 7790
+          }
+        },
+        {
+          "children": [],
+          "description": "provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.",
+          "title": "pspg",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-23T06:12:36Z",
+            "owner": "okbob",
+            "repo": "pspg",
+            "stars": 2685
+          }
+        },
+        {
+          "children": [],
+          "description": "a Mac database management application for working with MySQL databases.",
+          "title": "Sequel Ace",
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-01-02T21:35:03Z",
+            "owner": "Sequel-Ace",
+            "repo": "Sequel-Ace",
+            "stars": 7291
+          }
+        },
+        {
+          "children": [],
+          "description": "SQLyog Community edition. For Windows, works fine under wine in Mac and Linux",
+          "title": "SQLyog Community edition",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-03T04:48:59Z",
+            "owner": "webyog",
+            "repo": "sqlyog-community",
+            "stars": 2321
+          }
+        },
+        {
+          "children": [],
+          "description": "Open Source and Efficient Database IDE. Featuring Easy server connection, Modern ERD, Intelligent data generator, AI assistant, NoSQL structure manager, Time machine and Powerful query editor",
+          "title": "WebDB",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-10T11:58:04Z",
+            "owner": "WebDB-App",
+            "repo": "app",
+            "stars": 333
+          }
+        }
+      ],
+      "title": "GUI"
+    },
+    {
+      "description": "High availability solutions",
+      "items": [
+        {
+          "children": [],
+          "description": "a true Multimaster Cluster based on synchronous replication.",
+          "title": "Galera Cluster",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-06T19:04:24Z",
+            "owner": "codership",
+            "repo": "galera",
+            "stars": 486
+          }
+        },
+        {
+          "children": [],
+          "description": "and  (both unmaintained) - Master High Availability Manager and tools for MySQL.",
+          "title": "mha4mysql-node",
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2020-03-12T12:28:57Z",
+            "owner": "yoshinorim",
+            "repo": "mha4mysql-node",
+            "stars": 410
+          }
+        },
+        {
+          "children": [],
+          "description": "MySQL replication topology management and High Availability solution.",
+          "title": "Orchestrator",
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-02-18T05:58:22Z",
+            "owner": "openark",
+            "repo": "orchestrator",
+            "stars": 5752
+          }
+        },
+        {
+          "children": [],
+          "description": "Asynchronous MySQL replication manager agent for Pacemaker. Supports file and GTID based replication, geo-distributed clusters using booth.",
+          "title": "Percona Replication Manager",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-07T13:11:32Z",
+            "owner": "percona",
+            "repo": "replication-manager",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.",
+          "title": "replication-manager",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T13:55:07Z",
+            "owner": "signal18",
+            "repo": "replication-manager",
+            "stars": 726
+          }
+        }
+      ],
+      "title": "HA"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "the official MariaDB MCP server.",
+          "title": "MCP MariaDB Server",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-05T01:03:47Z",
+            "owner": "MariaDB",
+            "repo": "mcp",
+            "stars": 125
+          }
+        },
+        {
+          "children": [],
+          "description": "Advanced MCP server exposing MySQL via the Model Context Protocol",
+          "title": "MySQL MCP Server",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T19:55:13Z",
+            "owner": "askdba",
+            "repo": "mysql-mcp-server",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "MCP Server for TiDB.",
+          "title": "TiDB MCP Server"
+        }
+      ],
+      "title": "MCP"
+    },
+    {
+      "description": "Proxies to MySQL",
+      "items": [
+        {
+          "children": [],
+          "description": "deprecated) - A simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication.",
+          "title": "MySQL Proxy",
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2015-07-01T10:07:37Z",
+            "owner": "mysql",
+            "repo": "mysql-proxy",
+            "stars": 428
+          }
+        },
+        {
+          "children": [],
+          "description": "MySQL Router is part of InnoDB cluster, and is a lightweight middleware that provides transparent routing between your application and back-end MySQL Servers.",
+          "title": "MySQL Router"
+        },
+        {
+          "children": [],
+          "description": "High performance proxy for MySQL.",
+          "title": "ProxySQL",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-07T20:53:44Z",
+            "owner": "sysown",
+            "repo": "proxysql",
+            "stars": 6616
+          }
+        }
+      ],
+      "title": "Proxy"
+    },
+    {
+      "description": "Add-on schemas",
+      "items": [
+        {
+          "children": [],
+          "description": "DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.",
+          "title": "common_schema",
+          "repo_info": {
+            "archived": false,
+            "language": "PLpgSQL",
+            "last_commit": "2020-03-21T19:55:27Z",
+            "owner": "shlomi-noach",
+            "repo": "common_schema",
+            "stars": 126
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.",
+          "title": "sys",
+          "repo_info": {
+            "archived": true,
+            "language": "PLpgSQL",
+            "last_commit": "2022-08-26T13:17:39Z",
+            "owner": "mysql",
+            "repo": "mysql-sys",
+            "stars": 830
+          }
+        }
+      ],
+      "title": "Schema"
+    },
+    {
+      "description": "Tools that prevents leaking of sensitive data from database (encryption, masking and tokenization, honey-pots, etc)",
+      "items": [
+        {
+          "children": [],
+          "description": "SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.",
+          "title": "Acra",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-05T10:57:49Z",
+            "owner": "cossacklabs",
+            "repo": "acra",
+            "stars": 1452
+          }
+        },
+        {
+          "children": [],
+          "description": "Synchronize MySQL or MariaDB users with users in an LDAP directory.",
+          "title": "myldapsync",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-19T19:59:31Z",
+            "owner": "6eh01der",
+            "repo": "myldapsync",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "MySQL server flavors",
+      "items": [
+        {
+          "children": [],
+          "description": "Community developed fork of MySQL server.",
+          "title": "MariaDB",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-07T21:14:11Z",
+            "owner": "MariaDB",
+            "repo": "server",
+            "stars": 7137
+          }
+        },
+        {
+          "children": [],
+          "description": "Official Oracle's MySQL server & MySQL Cluster distribution.",
+          "title": "MySQL Server & MySQL Cluster",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-22T11:09:35Z",
+            "owner": "mysql",
+            "repo": "mysql-server",
+            "stars": 12059
+          }
+        },
+        {
+          "children": [],
+          "description": "Native vector search plugin for MySQL, shipped as a server plugin.",
+          "title": "MyVector",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-07T20:32:48Z",
+            "owner": "askdba",
+            "repo": "myvector",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "An enhanced, drop-in MySQL replacement.",
+          "title": "Percona Server",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-05T06:32:50Z",
+            "owner": "percona",
+            "repo": "percona-server",
+            "stars": 1255
+          }
+        },
+        {
+          "children": [],
+          "description": "A distributed HTAP database compatible with the MySQL protocol.",
+          "title": "TiDB",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T12:23:50Z",
+            "owner": "pingcap",
+            "repo": "tidb",
+            "stars": 39712
+          }
+        }
+      ],
+      "title": "Server"
+    },
+    {
+      "description": "Sharding solutions/frameworks",
+      "items": [
+        {
+          "children": [],
+          "description": "An automation suite for managing large range sharding clusters, by Tumblr.",
+          "title": "Jetpants",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-06-15T19:52:13Z",
+            "owner": "tumblr",
+            "repo": "jetpants",
+            "stars": 1129
+          }
+        },
+        {
+          "children": [],
+          "description": "vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.",
+          "title": "Vitess",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-08T02:48:47Z",
+            "owner": "vitessio",
+            "repo": "vitess",
+            "stars": 20678
+          }
+        }
+      ],
+      "title": "Sharding"
+    },
+    {
+      "description": "Toolkits, general purpose scripts",
+      "items": [
+        {
+          "children": [],
+          "description": "GitHub's online schema migration for MySQL.",
+          "title": "gh-ost",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-30T19:33:03Z",
+            "owner": "github",
+            "repo": "gh-ost",
+            "stars": 13203
+          }
+        },
+        {
+          "children": [],
+          "description": "A pure go library to handle MySQL network protocol and replication.",
+          "title": "go-mysql",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-08T02:17:33Z",
+            "owner": "go-mysql-org",
+            "repo": "go-mysql",
+            "stars": 4918
+          }
+        },
+        {
+          "children": [],
+          "description": "deprecated) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.",
+          "title": "MySQL Utilities",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-10-10T08:56:09Z",
+            "owner": "mysql",
+            "repo": "mysql-utilities",
+            "stars": 278
+          }
+        },
+        {
+          "children": [],
+          "description": "a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.",
+          "title": "Percona Toolkit",
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-02-06T17:08:33Z",
+            "owner": "percona",
+            "repo": "percona-toolkit",
+            "stars": 1444
+          }
+        },
+        {
+          "children": [],
+          "description": "Ultra fast MySQL table importer that stages swaps through temporary tables and supports file/clipboard targets.",
+          "title": "Swoof",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-12T12:44:29Z",
+            "owner": "StirlingMarketingGroup",
+            "repo": "swoof",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "a tool to recover data from dropped or corrupted InnoDB tables.",
+          "title": "UnDROP",
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2023-08-23T15:41:00Z",
+            "owner": "twindb",
+            "repo": "undrop-for-innodb",
+            "stars": 415
+          }
+        }
+      ],
+      "title": "Toolkits"
+    },
+    {
+      "description": "Public, ongoing video & audio casts. This excludes conference presentations in fear of list size",
+      "items": [],
+      "title": "Media"
+    },
+    {
+      "description": "Newsletters require an email address, by definition. List below are newsletters that require nothing but an email address",
+      "items": [],
+      "title": "Newsletters"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:35:50.796Z",
+    "original_repository": "shlomi-noach/awesome-mysql",
+    "source_repository": "v1nvn/enhansome-mysql",
+    "source_repository_description": null,
+    "title": "Resources"
+  }
+}

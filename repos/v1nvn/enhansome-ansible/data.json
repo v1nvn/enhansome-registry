@@ -1,0 +1,557 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "This Tutorial goes over how to use Ansible to manage remote servers.",
+          "title": "How To Manage Remote Servers with Ansible"
+        },
+        {
+          "children": [],
+          "description": "12 Step Tutorial for Ansible.",
+          "title": "Ansible Tutorial by leucos",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-09-20T06:17:25Z",
+            "owner": "leucos",
+            "repo": "ansible-tuto",
+            "stars": 2290
+          }
+        },
+        {
+          "children": [],
+          "description": "A list of recommended resources.",
+          "title": "Programming Community Curated Resources for learning Ansible"
+        },
+        {
+          "children": [],
+          "description": "Tutorials on how to Install and use Ansible.",
+          "title": "Ansible TopTechSkills.com Tutorial Series on Ansible"
+        },
+        {
+          "children": [],
+          "description": "Training Course for Ansible Automation Platform.",
+          "title": "Official Ansible labs by Red Hat"
+        },
+        {
+          "children": [],
+          "description": "Basic tutorials on DigitalOcean.com.",
+          "title": "Ansible Tutorials on DigitalOcean"
+        },
+        {
+          "children": [],
+          "description": "Basic Ansible tutorial.",
+          "title": "Ansible Tutorial by BlueBanquise team"
+        },
+        {
+          "children": [],
+          "description": "Introduction to Ansible for beginners.",
+          "title": "Ansible Tutorial for Beginners: Playbook & Examples"
+        },
+        {
+          "children": [],
+          "description": "Workshop on multiple topics with different levels of difficulty.",
+          "title": "Ansible Tutorials for Beginners and Advanced"
+        },
+        {
+          "children": [],
+          "description": "This repository contains Ansible examples developed to support different sections of  by Jeff Geerling, which is listed in the following section of books about Ansible.",
+          "title": "Ansible For DevOps",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-25T06:03:59Z",
+            "owner": "geerlingguy",
+            "repo": "ansible-for-devops",
+            "stars": 9615
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Automation Controller (formerly Ansible Tower) by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.",
+          "title": "Automation Controller"
+        },
+        {
+          "children": [],
+          "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller, a commercial derivative of AWX.",
+          "title": "AWX",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T20:38:11Z",
+            "owner": "ansible",
+            "repo": "awx",
+            "stars": 15244
+          }
+        },
+        {
+          "children": [],
+          "description": "Checks Playbooks for best practices and behavior that could potentially be improved.",
+          "title": "Ansible Lint",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T13:27:27Z",
+            "owner": "ansible",
+            "repo": "ansible-lint",
+            "stars": 3828
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.",
+          "title": "Ansible Doctor",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T00:39:05Z",
+            "owner": "thegeeklab",
+            "repo": "ansible-doctor",
+            "stars": 152
+          }
+        },
+        {
+          "children": [],
+          "description": "Takes the output of Ansible's fact gathering and converts it into a static HTML page.",
+          "title": "Ansible cmdb",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-15T14:47:48Z",
+            "owner": "fboender",
+            "repo": "ansible-cmdb",
+            "stars": 2411
+          }
+        },
+        {
+          "children": [],
+          "description": "ARA Records Ansible playbooks and makes them easier to understand and troubleshoot with a reporting API, UI and CLI.",
+          "title": "ARA",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-14T04:50:34Z",
+            "owner": "ansible-community",
+            "repo": "ara",
+            "stars": 1990
+          }
+        },
+        {
+          "children": [],
+          "description": "Displays inventory inheritance hierarchies and the level at which variables are defined in an inventory.",
+          "title": "Ansible Inventory Grapher",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-12T23:40:03Z",
+            "owner": "willthames",
+            "repo": "ansible-inventory-grapher",
+            "stars": 467
+          }
+        },
+        {
+          "children": [],
+          "description": "Speed up Ansible substantially with Mitogen.",
+          "title": "Mitogen for Ansible"
+        },
+        {
+          "children": [],
+          "description": "Molecule aids in the development and testing of Ansible roles.",
+          "title": "Molecule"
+        },
+        {
+          "children": [],
+          "description": "This Provisioner can be used to automate VM Image creation via Packer with Ansible.",
+          "title": "Packer Ansible Provisioner"
+        },
+        {
+          "children": [],
+          "description": "Turn any Excel Spreadsheet into an Ansible Inventory.",
+          "title": "Excel Ansible Inventory",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-22T04:33:33Z",
+            "owner": "KeyboardInterrupt",
+            "repo": "ansible_xlsx_inventory",
+            "stars": 102
+          }
+        },
+        {
+          "children": [],
+          "description": "Ansible dynamic inventory script for parsing Terraform state files.",
+          "title": "terraform.py",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-02-06T21:33:36Z",
+            "owner": "mantl",
+            "repo": "terraform.py",
+            "stars": 453
+          }
+        },
+        {
+          "children": [],
+          "description": "A text-based user interface (TUI) for Ansible.",
+          "title": "ansible-navigator",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-02T02:10:15Z",
+            "owner": "ansible",
+            "repo": "ansible-navigator",
+            "stars": 496
+          }
+        },
+        {
+          "children": [],
+          "description": "Self-service portal for Automation Controller job templates.",
+          "title": "squest"
+        },
+        {
+          "children": [],
+          "description": "Tool which bends containers using Ansible playbooks and turns them into container images.",
+          "title": "ansible-bender"
+        },
+        {
+          "children": [],
+          "description": "A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.",
+          "title": "ansible-runner",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T17:56:21Z",
+            "owner": "ansible",
+            "repo": "ansible-runner",
+            "stars": 1050
+          }
+        },
+        {
+          "children": [],
+          "description": "Using Ansible content that depends on non-default dependencies can be tricky. Packages must be installed on each node, play nicely with other software installed on the host system, and be kept in sync.",
+          "title": "ansible-builder"
+        },
+        {
+          "children": [],
+          "description": "SAST Tool that scans your ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.",
+          "title": "kics",
+          "repo_info": {
+            "archived": false,
+            "language": "Open Policy Agent",
+            "last_commit": "2026-02-05T23:55:16Z",
+            "owner": "Checkmarx",
+            "repo": "kics",
+            "stars": 2571
+          }
+        },
+        {
+          "children": [],
+          "description": "OOP-Wrapper for Ansible, making Ansible available in PHP.",
+          "title": "php-ansible Library",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-10-02T07:12:01Z",
+            "owner": "maschmann",
+            "repo": "php-ansible",
+            "stars": 213
+          }
+        },
+        {
+          "children": [],
+          "description": "Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.",
+          "title": "TD4A",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-12-19T11:25:20Z",
+            "owner": "cidrblock",
+            "repo": "td4a",
+            "stars": 219
+          }
+        },
+        {
+          "children": [],
+          "description": "Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.",
+          "title": "Ansible Playbook Grapher",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-01T04:02:59Z",
+            "owner": "haidaraM",
+            "repo": "ansible-playbook-grapher",
+            "stars": 733
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool that extracts documentation from Ansible modules in the HTML form.",
+          "title": "ansible-doc-extractor",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-27T06:59:35Z",
+            "owner": "xlab-steampunk",
+            "repo": "ansible-doc-extractor",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Ansible Semaphore is a modern UI for Ansible.",
+          "title": "Ansible Semaphore",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T14:16:19Z",
+            "owner": "ansible-semaphore",
+            "repo": "semaphore",
+            "stars": 13169
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides an Assisted Automation Writing tool that analyzes and offers recommendations for your Ansible Playbooks.",
+          "title": "Steampunk Spotter"
+        },
+        {
+          "children": [],
+          "description": "Ansible Roster inventory plugin to generate inventory from a host oriented yaml file. Supports ranges, regex hostnames, file inclusions, and variable merging.",
+          "title": "ansible-roster"
+        },
+        {
+          "children": [],
+          "description": "A callback plugin that allow to execute end-to-end tests on playbooks with a Pythonic testing and CI/CD approach to detect regressions.",
+          "title": "Monkeyble"
+        },
+        {
+          "children": [],
+          "description": "Generate documentation automatically from an Ansible role's metadata.",
+          "title": "aar-doc - Automated Ansible Role Documentation",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T18:52:29Z",
+            "owner": "telekom-mms",
+            "repo": "Automated-Ansible-Role-Documentation",
+            "stars": 49
+          }
+        },
+        {
+          "children": [],
+          "description": "Automate the filling of a changelog.yaml used by antsibull-changelog.",
+          "title": "antsichaut",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-26T17:46:16Z",
+            "owner": "ansible-community",
+            "repo": "antsichaut",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Flask API Web server that uses MongoDB as database to store Ansible reports and facts; this tool can be used to query hosts and facters managed Ansible as well search Ansible logs.",
+          "title": "ansibledb",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-21T23:54:35Z",
+            "owner": "nbentoumi",
+            "repo": "ansibledb",
+            "stars": 23
+          }
+        },
+        {
+          "children": [],
+          "description": "Online playground for running, testing and sharing Ansible templates.",
+          "title": "Ansible Template Playground"
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Best practice guidelines.",
+          "title": "Ansible (Real Life) Good Practices"
+        },
+        {
+          "children": [],
+          "description": "Using Test-Kitchen with Ansible to apply playbooks to Windows machines and test them with .",
+          "title": "Testing Ansible Roles Against Windows with Test-Kitchen",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-01-29T11:50:16Z",
+            "owner": "pester",
+            "repo": "Pester",
+            "stars": 3257
+          }
+        },
+        {
+          "children": [],
+          "description": "Practices covering many aspects of an Ansible setup, including hints to support different environments (testing, staging, production).",
+          "title": "Ansible Best Practices by AndiDog"
+        },
+        {
+          "children": [],
+          "description": "Introduces Ansible, provides installation instructions and gives an interactive walkthrough of Ansible's basic functionalities, like running Ansible playbooks and installing Ansible content.",
+          "title": "Getting started with Ansible"
+        },
+        {
+          "children": [],
+          "description": "Describes and shows how most commonly used Ansible components work.",
+          "title": "Taking Ansible apart"
+        },
+        {
+          "children": [],
+          "description": "Discover how the fundamental principles of SOLID—Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion—can significantly elevate your Ansible role and playbook development.",
+          "title": "Enhancing Ansible Development with SOLID Principles",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-03T22:01:34Z",
+            "owner": "kksat",
+            "repo": "SOLID-Ansible",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Borrowing functional programming (FP) principles to improve Ansible code quality. How to adopt functional patterns like pure functions, clear separation of effects, immutability, composition, and lazy evaluation can make Ansible automation far easier to test, debug, understand, and extend.",
+          "title": "Functional programming design patterns in Ansible code"
+        }
+      ],
+      "title": "Blog posts and opinions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Ansible examples using Vagrant to deploy to local VMs.",
+          "title": "Ansible Vagrant Examples by geerlingguy",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-11-17T23:32:18Z",
+            "owner": "geerlingguy",
+            "repo": "ansible-vagrant-examples",
+            "stars": 2108
+          }
+        },
+        {
+          "children": [],
+          "description": "Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.",
+          "title": "Ansible playbook for Linux machine setup",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-01-03T16:34:16Z",
+            "owner": "olivomarco",
+            "repo": "my-ansible-linux-setup",
+            "stars": 106
+          }
+        },
+        {
+          "children": [],
+          "description": "Ansible content to assist in both auditing and remediating against  or  baseline compliance for OS's and Applications.",
+          "title": "Ansible Lockdown"
+        },
+        {
+          "children": [],
+          "description": "The DevSec collection helps you harden your Linux Based OS as well as MySQL, NGINX and SSH Server/Services.",
+          "title": "DevSec Hardening Framework"
+        },
+        {
+          "children": [],
+          "description": "Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.",
+          "title": "T.A.D.S. boilerplate",
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2025-02-06T08:50:52Z",
+            "owner": "Thomvaill",
+            "repo": "tads-boilerplate",
+            "stars": 782
+          }
+        },
+        {
+          "children": [],
+          "description": "Ansible Playbooks for deploying .",
+          "title": "Openstack Ansible",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T10:03:55Z",
+            "owner": "openstack",
+            "repo": "openstack-ansible",
+            "stars": 1535
+          }
+        },
+        {
+          "children": [],
+          "description": "A extensive collection of Ansible roles.",
+          "title": "Robert de Bock"
+        },
+        {
+          "children": [],
+          "description": "A extensive collection of Debian based Ansible Playbooks.",
+          "title": "DebOps"
+        },
+        {
+          "children": [],
+          "description": "An ansible role to provision physical and virtual hosts with the AWS SSM agent.",
+          "title": "ansible-ssm",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-09T14:45:02Z",
+            "owner": "HQarroum",
+            "repo": "ansible-ssm",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "An ansible coherent roles collection to deploy clusters.",
+          "title": "BlueBanquise",
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-02-06T15:02:09Z",
+            "owner": "bluebanquise",
+            "repo": "bluebanquise",
+            "stars": 154
+          }
+        },
+        {
+          "children": [],
+          "description": "Repositories with ansible topic of the Red Hat Communities of Practice project.",
+          "title": "redhat-cop"
+        }
+      ],
+      "title": "Playbooks, Roles and Collections"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:28:07.833Z",
+    "original_repository": "ansible-community/awesome-ansible",
+    "source_repository": "v1nvn/enhansome-ansible",
+    "source_repository_description": null,
+    "title": "Awesome Ansible with stars"
+  }
+}

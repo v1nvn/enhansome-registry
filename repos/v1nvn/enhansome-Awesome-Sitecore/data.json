@@ -1,0 +1,3703 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Display the Goal Description in the Experience Profile.",
+          "title": "Sitecore Goal Description",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-11-14T13:18:46Z",
+            "owner": "islaytitans",
+            "repo": "SitecoreGoalDescription",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Demonstrate how to obtain goals that were triggered during a visitor's interaction, after their session has ended, this data can be sent to an external system to be used to help marketers by informing them of what customer's and leads are doing on their website.",
+          "title": "Sitecore Goal Conversion Demo",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-09-07T18:27:04Z",
+            "owner": "martinrayenglish",
+            "repo": "GoalConversions.Demo",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Demonstrates how to trigger outcomes and display custom outcomes as eras on the Experience Profile timeline in Sitecore.",
+          "title": "Custom Timeline Eras",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-12T16:56:57Z",
+            "owner": "coreyasmith",
+            "repo": "sitecore-custom-timeline-eras",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Analytics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Collect detailed timing information for all your Sitecore MVC renderings and API calls.",
+          "title": "Skillcore.Stats",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-15T09:02:19Z",
+            "owner": "marek-musielak",
+            "repo": "Skillcore.Stats",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "This repository contains a whole wealth of potential patches for the performance Improvements for the Sitecore platform, most of which are running in production instances of Sitecore.",
+          "title": "Sitecore.Boost",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-04-07T16:34:39Z",
+            "owner": "cardinal252",
+            "repo": "Sitecore.Boost",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "The module consists of 3 agents that will monitor each of the Event Queue, Publish Queue, and History tables to ensure that they don't exceed a set threshold.",
+          "title": "Sitecore.Cleanup",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-01-22T18:17:57Z",
+            "owner": "martinrayenglish",
+            "repo": "Sitecore.Cleanup",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore template architecture visualization and documentation tool from the SitecoreUML family. Leveraging the open-source APIs associated with StarUML (on which SitecoreUML is also based), SitecoreDXG provides support for generating template data model architecture diagrams and HTML documentation from any existing Sitecore instance (PaaS and non-PaaS both supported) that has the SitecoreUML Service for Sitecore.",
+          "title": "SitecoreDXG: The Documentation Experience Generator",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-08T18:35:26Z",
+            "owner": "zkniebel",
+            "repo": "SitecoreDXG",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore started providing assembly list information for Sitecore releases starting at 8.2 Update 5. This project provides tools for validating Sitecore assembly lists, both against an installation and during the development process.",
+          "title": "sitecore-assembly-lists",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2018-03-20T04:13:14Z",
+            "owner": "richardszalay",
+            "repo": "sitecore-assembly-lists",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Audit and performance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "All currently available Azure Resource Manager templates for Sitecore.",
+          "title": "ARM templates for Sitecore",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-10-28T17:45:45Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore-Azure-Quickstart-Templates",
+            "stars": 141
+          }
+        },
+        {
+          "children": [],
+          "description": "Azure-related PowerShell scripts and ARM templates to be used as a template or boilerplate for your own scripts and needs.",
+          "title": "Sitecore Azure Scripts",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2020-12-17T23:48:42Z",
+            "owner": "robhabraken",
+            "repo": "Sitecore-Azure-Scripts",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Articles on how to automate deployment of Sitecore solution to the Microsoft Azure Cloud Platform utilizing Azure services.",
+          "title": "Sitecore Azure Content",
+          "repo_info": {
+            "archived": true,
+            "language": "PLpgSQL",
+            "last_commit": "2017-08-04T23:53:30Z",
+            "owner": "olegburov",
+            "repo": "Sitecore-Azure-Content",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Expanding Sitecore on Azure with flexible and generic scripts (requires a valid PowerShell Azure session to be connected and available).",
+          "title": "Sitecore Advanced Azure Devops",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2020-01-03T19:11:54Z",
+            "owner": "JeffDarchuk",
+            "repo": "AdvancedSitecoreAzureDevops",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Samples for the Language Understanding Intelligent Service (LUIS).",
+          "title": "Language Understanding (LUIS) Samples",
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-12-09T06:27:39Z",
+            "owner": "Azure-Samples",
+            "repo": "cognitive-services-language-understanding",
+            "stars": 86
+          }
+        },
+        {
+          "children": [],
+          "description": "Allows to store Sitecore media library assets in the Azure Blob Storage account.",
+          "title": "Sitecore Media Azure Blob Storage provider",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-09-22T00:35:54Z",
+            "owner": "ivansharamok",
+            "repo": "Sitecore.Media.AzureBlobStorage",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Allow Sitecore Media Library to store and serve from Cloud Storage.",
+          "title": "CloudMediaLibrary",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-04-21T22:33:51Z",
+            "owner": "jammykam",
+            "repo": "Sitecore-CloudMediaLibrary",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "SDK integrating Microsoft's Cognitive Services into Sitecore.",
+          "title": "SitecoreCognitiveServices",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-03-17T17:39:07Z",
+            "owner": "smithc",
+            "repo": "SitecoreCognitiveServices",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Azure Resource Manager (ARM) templates to install the Sitecore Publishing Service in a Sitecore Azure PaaS environment.",
+          "title": "Sitecore Publishing Service Azure Templates",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2020-08-12T16:47:17Z",
+            "owner": "coreyasmith",
+            "repo": "sitecore-publishing-service-azure-templates",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore Diagnostics using Application Insights.",
+          "title": "Sitecore Diagnostics",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-03-11T21:17:22Z",
+            "owner": "BasLijten",
+            "repo": "SitecoreDiagnostics",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Creates App Insinghts annotations.",
+          "title": "Application Insights Annotations",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-12-13T11:33:54Z",
+            "owner": "BasLijten",
+            "repo": "sitecore-application-insights-annotations",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Azure"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The module is an implementation of the rules given in the Sitecore Caching guide.",
+          "title": "Cache Tuner",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-11-18T06:55:12Z",
+            "owner": "KayeeNL",
+            "repo": "CacheTuner",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "A console for easy Sitecore 10 cache management.",
+          "title": "Caching Manager",
+          "repo_info": {
+            "archived": false,
+            "language": "ASP.NET",
+            "last_commit": "2022-10-12T20:41:58Z",
+            "owner": "jbluemink",
+            "repo": "SitecoreCachingManager",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "A proof-of-concept for a dedicated HTML cache processing instance.",
+          "title": "Cache Processing Instance",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-05-24T07:01:30Z",
+            "owner": "ParTech",
+            "repo": "Cache-Processing-Instance",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "A caching module that makes working with Sitecore Experience Editor more pleasant.",
+          "title": "ExperienceEditorCache",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-11-27T17:18:06Z",
+            "owner": "marek-musielak",
+            "repo": "Skillcore.ExperienceEditorCache",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Clear specific HTML Caches on local and remote instances from the Sitecore client.",
+          "title": "ManualHtmlCacheClearer",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2015-11-28T12:21:33Z",
+            "owner": "TwentyGotoTen",
+            "repo": "ManualHtmlCacheClearer",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Report Sitecore cache size information into Windows performance counters.",
+          "title": "CacheCounters"
+        },
+        {
+          "children": [],
+          "description": "Provides rules-based Sitecore output caching variance support, enabling the caching of personalized components and other components that require more complex cache variance logic.",
+          "title": "Sitecore Rules-Based Output Caching",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-03-29T19:31:51Z",
+            "owner": "zkniebel",
+            "repo": "Sitecore-Advanced-Output-Caching",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Flashes Partial HTML Cache on changes to Sitecore Dictionary items.",
+          "title": "Dictionary Flush Partial Cache",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-09-27T09:31:30Z",
+            "owner": "jbluemink",
+            "repo": "DictionaryFlushPartialCache",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Cache"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Sitecore Reference Storefront.",
+          "title": "Reference Storefront",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-15T08:37:09Z",
+            "owner": "Sitecore",
+            "repo": "Reference-Storefront",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "A sample code for Sitecore Commerce Plugins (targeted toward XC 9.0.3 and 9.1).",
+          "title": "Commerce Sample Plugins",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-10-18T18:09:40Z",
+            "owner": "Sitecore",
+            "repo": "SitecoreCommerce",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "An example built using SXA on XP and XC following the Helix architecture principles.",
+          "title": "HabitatHome Commerce",
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-12-08T00:58:04Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore.HabitatHome.Commerce",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Tools for configuring and boostrapping Sitecore Commerce Engine configuration.",
+          "title": "sitecore-commerce-configuration",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2018-07-01T11:01:12Z",
+            "owner": "richardszalay",
+            "repo": "sitecore-commerce-configuration",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool to view Sitecore Commerce Engine Configuration.",
+          "title": "Plumber for Sitecore Commerce",
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-03-13T10:27:36Z",
+            "owner": "richardszalay",
+            "repo": "plumber-sc",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides six-character confirmation codes (configurable), randomly generated, and tracked in the commerce database to avoid conflicts, as shorter codes are easier to communicate over support calls and for some clients may be more convenient than the 25 character confirmations that are provided out of the box.",
+          "title": "Short Confirmation Codes",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-02-03T17:11:16Z",
+            "owner": "dsolovay",
+            "repo": "ShortConfirmationCodes",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Allows the user to integrate Fedex as a Fulfillment Method for shipping.",
+          "title": "Sitecore Commerce Engine Fedex plugin"
+        },
+        {
+          "children": [],
+          "description": "Allows the user to integrate USPS as a Fulfillment Method for shipping.",
+          "title": "Sitecore Commerce Engine USPS plugin"
+        },
+        {
+          "children": [],
+          "description": "Allows validating shipping address or billing address to make product delivery a good experience.",
+          "title": "Sitecore Commerce Engine UPS Address Validation plugin"
+        }
+      ],
+      "title": "Commerce"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Build your own Docker images for the most recent versions of Sitecore.",
+          "title": "Repository of Sitecore Docker images",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-02-08T03:40:46Z",
+            "owner": "Sitecore",
+            "repo": "docker-images",
+            "stars": 180
+          }
+        },
+        {
+          "children": [],
+          "description": "Vagrant environment that creates a \"Docker Machine\" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.",
+          "title": "Windows Docker Machine",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-06-08T13:08:04Z",
+            "owner": "StefanScherer",
+            "repo": "windows-docker-machine",
+            "stars": 1147
+          }
+        },
+        {
+          "children": [],
+          "description": "Checks the machine for Sitecore Container compatibility, enable Hyper-V, downloads and installs software including Sitecore 10.1",
+          "title": "Sitecore Containers Prerequisites",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-03T20:29:15Z",
+            "owner": "nickwesselman",
+            "repo": "sitecore-containers-prerequisites",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "An official Docker Examples images for the most recent versions of Sitecore 10.*, including 'getting-started' XP0 container environment.",
+          "title": "Sitecore Docker Examples",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-06-25T12:57:38Z",
+            "owner": "Sitecore",
+            "repo": "docker-examples",
+            "stars": 82
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides examples on how to deploy Sitecore containers using various methods.",
+          "title": "Container Deployment",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-12-15T08:46:51Z",
+            "owner": "Sitecore",
+            "repo": "container-deployment",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.",
+          "title": "Lighthouse Demo",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-07-21T23:14:56Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore.Demo.Platform",
+            "stars": 84
+          }
+        },
+        {
+          "children": [],
+          "description": "The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.",
+          "title": "Sitecore MVP",
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2022-12-04T22:34:44Z",
+            "owner": "Sitecore",
+            "repo": "MVP-Site",
+            "stars": 66
+          }
+        },
+        {
+          "children": [],
+          "description": "Repository contains Packer templates for a local Sitecore hosting environment with IIS and SQL Server on Windows, SOLR and Sitecore 9.0 building virtual machine images and Vagrant boxes for VirtualBox, provisioned with Chef.",
+          "title": "Packer for Sitecore",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2020-04-10T22:32:05Z",
+            "owner": "asmagin",
+            "repo": "sitecore-packer",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple setup that sets up a Linux container on a host running solr with SSL using a generated certificate.",
+          "title": "Docker SOLR with SSL",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2020-07-15T14:31:44Z",
+            "owner": "LaubPlusCo",
+            "repo": "docker-solr-ssl",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints that can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.",
+          "title": "Sitecore Docker Tools",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-07-11T07:37:33Z",
+            "owner": "sitecore",
+            "repo": "docker-tools",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "Sample compose files and associated configuration beyond those officially provided by Sitecore.",
+          "title": "Konabos Docker Examples",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-01-21T14:07:02Z",
+            "owner": "konabos",
+            "repo": "konabos-docker-examples",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "A script to handle the auto-creation of a Docker Asset Image for a given Sitecore module.",
+          "title": "Container Asset Image Creator Module",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2022-12-19T15:19:19Z",
+            "owner": "KayeeNL",
+            "repo": "sitecore-module-docker-asset-image-creator",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Taking Sitecore 10 to the next level into Azure AKS.",
+          "title": "Containers & AKS",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2020-10-27T15:48:08Z",
+            "owner": "bplasmeijer",
+            "repo": "Sitecore-Symposium-2020-Containers-AKS",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Boilerplate project for deploying Sitecore 10.0.* to Azure AKS coming from an Azure PaaS architecture for Sitecore. That includes ARM templates for External Data Services, required to run Sitecore k8s in production, and scripts to support a full Infrastructure-as-Code setup for Sitecore on AKS.",
+          "title": "PaaS to AKS",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-10-17T18:27:12Z",
+            "owner": "robhabraken",
+            "repo": "paas-to-aks",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "An example of a Sitecore 10.1 XP0 deployment onto AKS with SolrCloud. It should deploy: 1)Sitecore 10.1 XP0; 2)Microsoft SQL Server 2019; 3)Zookeeper 3.4 (3 replicas); 4)Solr 8.4 (3 replicas)",
+          "title": "Sitecore Deployment on Kubernetes Example",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-07-19T00:40:05Z",
+            "owner": "georgechang",
+            "repo": "sitecore-k8s",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "A script to handle the auto-creation of a Docker Asset Image for a given Sitecore module",
+          "title": "Sitecore Module Docker Asset Image Creator",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2022-12-19T15:19:19Z",
+            "owner": "KayeeNL",
+            "repo": "sitecore-module-docker-asset-image-creator",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides a way to quickly and conveniently install packages as part of a docker image build or after startup of your containers. Useful for module developers or teams that need to verify build artifacts work in a vanilla instance of XM. Supports XM, SPE, SXA, and any custom module zip/scwdp or generic zip files.",
+          "title": "Test Sitecore Packages",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-11-29T05:56:19Z",
+            "owner": "michaellwest",
+            "repo": "test-sitecore-packages",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Containers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A repository with a source code of Sitecore Content Hub CLI.",
+          "title": "Content Hub CLI",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-23T15:50:51Z",
+            "owner": "Sitecore",
+            "repo": "content-hub-cli",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore Content Hub Asset Importer; allows importing image assets from various data sources into Sitecore Content Hub.",
+          "title": "Sitecore Content Hub Importer",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-03-05T06:05:43Z",
+            "owner": "vasiliyfomichev",
+            "repo": "content-hub-importer",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides tools and sample code to help you learn and work with Sitecore Content Hub.",
+          "title": "schguild"
+        },
+        {
+          "children": [],
+          "description": "Demonstrates how to tweet from Sitecore Content Hub CMP.",
+          "title": "Sitecore.ContentHub.Twitter",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T09:21:46Z",
+            "owner": "josedbaez",
+            "repo": "Sitecore.ContentHub.Twitter",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Extends Sitecore Connect for Sitecore CMP 2.0.0 so images set on CMP entities can be synchronized using the XML format used by Sitecore Connect™ for Sitecore DAM 2.0.0, so this module is required.",
+          "title": "Sitecore.SharedSource.CMP.Connector.Extensions",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T02:13:58Z",
+            "owner": "josedbaez",
+            "repo": "Sitecore.SharedSource.CMP.Connector.Extensions",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Content Hub headless starter kit.",
+          "title": "Starter Kit for Content Hub with Next.js and GraphQL",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-03-17T01:39:54Z",
+            "owner": "konabos",
+            "repo": "Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Focal point cropping for Content Hub.",
+          "title": "Focal point cropping",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-03T21:52:04Z",
+            "owner": "robhabraken",
+            "repo": "content-hub-focal-point-cropping",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "A visual Studio Solution Example to download and base any Content Hub Development on, featuring Intellisense, Sync of scripts, Debugging and Unit-Testing.",
+          "title": "VS Solution Example for Content Hub",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-14T13:15:27Z",
+            "owner": "Sitecore",
+            "repo": "ContentHub-VS-Solution-Example",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Content Hub"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A set of various examples using Content Hub One.",
+          "title": "Content Hub ONE examples",
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-09-25T14:47:01Z",
+            "owner": "Sitecore",
+            "repo": "contenthubone-examples",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Repository for all the Content Hub ONE demos built by the Sitecore Demo Solutions team, including PLAY Media Next.js Website and PLAY Media Mobile Phone Application.",
+          "title": "Sitecore.Demo.CHONE",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-23T11:05:35Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore.Demo.CHONE",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "The starter kit contains helping functionalities such as handling GraphQL JSON output conversion to HTML for Rich Text, Media Fields, and References. It also contains a small example implementation that Developers can use to start their customer projects.",
+          "title": "Content Hub ONE Next.JS Starter Kit",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-15T07:56:34Z",
+            "owner": "Sitecore",
+            "repo": "content-hub-one-nextjs-starterkit",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Content Hub One"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK.",
+          "title": "Sitecore Content SDK",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T20:15:03Z",
+            "owner": "Sitecore",
+            "repo": "content-sdk",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "This Content SDK repository contains multiple Next.js Starter Kits, and the SPA Starters monorepo (which includes a Node Proxy Application and and SPA starter apps) for Sitecore XM Cloud Development.",
+          "title": "XM Cloud Front End Application Starter Kits",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-02-07T16:10:59Z",
+            "owner": "Sitecore",
+            "repo": "xmcloud-starter-js",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Content SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Implementation of a Linq extension to be able to query on points that intercept GeoJson polygons in Solr indexes. The demo provides a template with the spatial field, a couple of sample items with polygons from OpenStreetMap that cover some cities; and a controller rendering that reads lat and long from the query string and returns the polygon of the item found (e.g. Big Ben's coordinates return London).",
+          "title": "Sitecore spatial geojson polygons",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-22T21:14:29Z",
+            "owner": "josedbaez",
+            "repo": "sitecore-spatial-geojson-polygons",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore configsets (schema) for Solr 8.1.1 and 8.4.0.",
+          "title": "Sitecore Solr Schema",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-10-27T02:14:57Z",
+            "owner": "konabos",
+            "repo": "solr-sitecore-schema",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool for rebuilding search indexes from outside the Sitecore web app especially good for very long-running builds.",
+          "title": "Search Index Builder",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T06:14:39Z",
+            "owner": "jermdavis",
+            "repo": "SearchIndexBuilder",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "PowerShell scripting library to help with installing SolrCloud clusters on Windows.",
+          "title": "SolrCloud Install Scripts",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2021-04-11T15:40:17Z",
+            "owner": "jermdavis",
+            "repo": "SolrCloud-Helpers",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Creates a SolrCloud container that can be used with a Sitecore 10 instance under Docker. The files have been adjusted from the Solr container files in the Sitecore Docker examples repo. The default \"solr\" service Sitecore provides can be replaced using these files.",
+          "title": "Docker SolrCloud for Sitecore 10",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-01-23T11:01:27Z",
+            "owner": "jermdavis",
+            "repo": "Sitecore-SolrCloud-Docker",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool for easy access to the Solr admin console if you have access only to Sitecore CM.",
+          "title": "Sitecore SolrProxy",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-11-08T06:06:38Z",
+            "owner": "Antonytm",
+            "repo": "Sitecore.SolrProxy",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Common extensions to Sitecore contentSearch; hereunder PopulateSolrSchema pipeline processors to ensure that all installed languages in Sitecore are added to the solr managed schema.",
+          "title": "Common Sitecore ContentSearch extensions",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-03-25T11:15:25Z",
+            "owner": "LaubPlusCo",
+            "repo": "LaubPlusCo.Common.ContentSearch",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "An index search development accelerator that allows developers to declare computed search fields on an index that can capture and store targeted field values of items within a scope as well as the field values of items based on specific templates that are part of its presentation. In addition, specific weights can be applied to these computed fields using search boosting so that content-matching search terms can be promoted in search results.",
+          "title": "Sitecore Computed Search",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2015-10-23T21:19:45Z",
+            "owner": "martinrayenglish",
+            "repo": "Sitecore-Computed-Search",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Compatibility patch for Sitecore + Azure Search.",
+          "title": "sitecore-azure-search-compat",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T07:39:14Z",
+            "owner": "richardszalay",
+            "repo": "sitecore-azure-search-compat",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Content Search"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Used to import Database data and Sitecore content into Sitecore.",
+          "title": "SitecoreDataImporter",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T02:53:06Z",
+            "owner": "markstiles",
+            "repo": "SitecoreDataImporter",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Data Import tool for Sitecore CMS using SPEAK UI.",
+          "title": "SitecoreEzImporter",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-02-04T13:19:00Z",
+            "owner": "dresser",
+            "repo": "SitecoreEzImporter",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Collection of 3 gutters for DEF to provide a quick solution for context item of an item within the tree: ,  and .",
+          "title": "Gutters for Sitecore Data Exchange Framework",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-06-28T12:17:46Z",
+            "owner": "KayeeNL",
+            "repo": "Sitecore.DataExchange.Gutters",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore Data Exchange Framework Documentation generated using Sphinx.",
+          "title": "Data Exchange Framework Docs",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-05-03T19:31:43Z",
+            "owner": "Sitecore",
+            "repo": "Data-Exchange-Framework-Docs",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Data Exchange Framework"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.",
+          "title": "Sitecore Habitat",
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2019-12-06T14:35:24Z",
+            "owner": "Sitecore",
+            "repo": "Habitat",
+            "stars": 407
+          }
+        },
+        {
+          "children": [],
+          "description": "Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types/requirements than existing examples.",
+          "title": "Sitecore Helix Examples",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-01-15T08:33:57Z",
+            "owner": "Sitecore",
+            "repo": "Helix.Examples",
+            "stars": 76
+          }
+        },
+        {
+          "children": [],
+          "description": "The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.",
+          "title": "Lighthouse Demo",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-07-21T23:14:56Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore.Demo.Platform",
+            "stars": 84
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore JSS PWA demo assets and future \"Sitecore Headless\" related demo assets.",
+          "title": "Sitecore.Demo.Headless"
+        },
+        {
+          "children": [],
+          "description": "The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.",
+          "title": "Sitecore MVP",
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2022-12-04T22:34:44Z",
+            "owner": "Sitecore",
+            "repo": "MVP-Site",
+            "stars": 66
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of utilities and script examples to help with installing Sitecore Experience Platform, installing Sitecore Experience Commerce, installing Sitecore Modules, warming up a Sitecore Instance, security Hardening a Sitecore Instance, etc.",
+          "title": "Sitecore.HabitatHome.Utilities",
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2020-05-19T15:52:06Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore.HabitatHome.Utilities",
+            "stars": 38
+          }
+        },
+        {
+          "children": [],
+          "description": "Demo assets with external contributors and partners.",
+          "title": "Sitecore.HabitatHome.Commerce",
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-12-08T00:58:04Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore.HabitatHome.Commerce",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Shares Sitecore JSS PWA demo assets and future \"Sitecore Omni\" related demo assets.",
+          "title": "Sitecore.HabitatHome.Omni"
+        },
+        {
+          "children": [],
+          "description": "Habitat Group Demo site - a developer example of a Habitat Based Demo.",
+          "title": "Sitecore.Demo.Group",
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2018-12-10T14:50:53Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore.Demo.Group",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "A demo of JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution, built with Gatsby v2.",
+          "title": "Sitecore User Group UK",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-02T03:34:12Z",
+            "owner": "steviemcg",
+            "repo": "scuguk",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.",
+          "title": "Sitecore DXP Demo",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-25T21:30:33Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore.Demo.Edge",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "The Sitecore developer portal is built with Next.js, Typescript, and Tailwind CSS, and is hosted on Vercel. It uses static site generation (SSG) to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. Many pages are written in Markdown and converted to HTML at build time. Images that are used are managed in Sitecore DAM and are published to a CDN.",
+          "title": "Sitecore Developer Portal",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-29T19:59:34Z",
+            "owner": "Sitecore",
+            "repo": "developer-portal",
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "Play Summit demo featuring XM Cloud, Content Hub DAm, CMP, Next.js with Versel hosting, etc.",
+          "title": "Play Summit",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-18T14:34:42Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore.Demo.XmCloud.PlaySummit",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "A headless multi-site solution focused on XM Cloud content and site management capabilities. Includes easily customizable sample sites for select industries.",
+          "title": "Verticals",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-25T13:51:21Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore.Demo.XMCloud.Verticals",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "The Sitecore developer portal built with Next.js, Typescript, Tailwind CSS, and hosted on Vercel, uses static site generation to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. With much of the page content written in Markdown and converted to HTML at build time, images are however used and managed in Sitecore DAM and\npublished to a CDN.",
+          "title": "Developer Portal",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-29T19:59:34Z",
+            "owner": "Sitecore",
+            "repo": "developer-portal",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Demo"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Post-deploy steps for use with TDS. 1) TDS Example project that triggers the post-deploy step; 2) Sample web project to show pulling in the deploy step; 3) DeployStep class library that you can add to your solution.",
+          "title": "PostDeploySteps",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-06-16T12:58:22Z",
+            "owner": "jst-cyr",
+            "repo": "NonlinearPostDeploySteps",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Sample solution which shows how to develop an open-source Sitecore module and hook it up with AppVeyor, a Continuous Delivery solution hosted in the cloud.",
+          "title": "Sitecore Devops with AppVeyor"
+        },
+        {
+          "children": [],
+          "description": "Provides a set of pre-build [CAKE build] tasks to be used to simplify a configuration of CI/CD for Helix-based Sitecore projects.",
+          "title": "Cake.Sitecore",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2021-11-26T13:43:42Z",
+            "owner": "asmagin",
+            "repo": "Cake.Sitecore",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Deployment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Adds commands to the Content Editor that allow users to copy and paste the latest version of an item instead of the entire item. After installation, the \"Copy version\" and \"Paste version\" commands are accessible from the context menu in the content tree.",
+          "title": "Copy Version module",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2014-02-06T21:55:19Z",
+            "owner": "ParTech",
+            "repo": "Copy-Version",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Adds a command that allows the user to open an item from the Sitecore content tree in a new browser window. Sitecore does not offer this out-of-the-box, except for the Preview command which has the effect of entering preview mode, so the given module will do the same but without entering Preview mode.",
+          "title": "Browse Command",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2014-03-11T18:01:55Z",
+            "owner": "ParTech",
+            "repo": "Browse-Command",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "The module adds a command that allows the user to expand all descendants of an item from the Sitecore content tree.",
+          "title": "Expand Descendants Command",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2014-03-11T18:02:28Z",
+            "owner": "ParTech",
+            "repo": "Expand-Descendants-Command",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "An environment-specific styling (and text) on the login screen and header ribbon for Sitecore.",
+          "title": "Environment Styler for Sitecore",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-03-01T22:12:15Z",
+            "owner": "jammykam",
+            "repo": "Environment-Styler-for-Sitecore",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Prevents Sitecore users from bypassing insert options.",
+          "title": "InsertOptionsLoophole",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2014-07-19T08:25:14Z",
+            "owner": "TwentyGotoTen",
+            "repo": "InsertOptionsLoophole",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Allows \"scope to this\" functionality a la Visual Studio on the Sitecore Content Editor tree.",
+          "title": "ScopeToThis",
+          "repo_info": {
+            "archived": false,
+            "language": "ASP",
+            "last_commit": "2015-04-28T19:38:39Z",
+            "owner": "ianjohngraham",
+            "repo": "Coreblimey.ScopeToThis",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "A productivity improvement for Device Editor, showing datasource if set to that particular component and previewing that right from a pop-up click.",
+          "title": "DeviceEditorShortcuts",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-08-15T14:52:45Z",
+            "owner": "MartinMiles",
+            "repo": "DeviceEditorShortcuts",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Content Editor gutters to indicate tested and personalized items.",
+          "title": "DmsGutters",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2013-04-08T15:09:22Z",
+            "owner": "markvanaalst",
+            "repo": "Sitecore.SharedSource.DmsGutters",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Validate if an item can be moved to a new location based on insert options.",
+          "title": "Move Validator",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2014-11-05T18:49:06Z",
+            "owner": "Velir",
+            "repo": "Sitecore-MoveValidator",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides Sitecore users a more streamlined and informational approach to content authoring. This is achieved by revamping 5 field types, introducing an Images field, enabling automatic publishing of referenced items, and adding new functionality such as the Edit Form, Go to Item button, and the Field Gutter.",
+          "title": "SitecoreFieldSuite",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-09-28T16:19:47Z",
+            "owner": "Velir",
+            "repo": "SitecoreFieldSuite",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "A shared-source module that contains smart copy, duplicate, and clone commands in Content Editor, that implement so much wanted functionality missing by default.",
+          "title": "Sitecore Smart Commands",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-11-06T00:18:48Z",
+            "owner": "AlenPelin",
+            "repo": "Sitecore-Smart-Commands",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "An extension for the Content Editor and the Experience Editor providing a dialog for content editors, where a page in a specific version can be copied to a selectable list of language versions, including all datasources referenced on the page renderings.",
+          "title": "CopyPageToVersions",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-04-30T12:16:09Z",
+            "owner": "merkle-open",
+            "repo": "SitecoreCopyPageToVersions",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "A Sitecore Control that uses the Tiny MCE Editor in place of the default one.",
+          "title": "Sitecore-TinyMCERTE",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-10T17:00:23Z",
+            "owner": "EmanueleCiriachi",
+            "repo": "Sitecore-TinyMCERTE",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Extending Content Editor"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A collection of custom fields ready-to-use with your Sitecore solution.",
+          "title": "Sitecore.Foundation.Fields",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-04-29T12:23:55Z",
+            "owner": "MartinMiles",
+            "repo": "Sitecore.Foundation.Fields",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore LinkList Field Type.",
+          "title": "LinkList",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2013-03-19T15:01:58Z",
+            "owner": "josedbaez",
+            "repo": "Monoco.CMS.FieldTypes",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "An extended Treelist field to support cross-database references.",
+          "title": "CrossDatabaseTreeListField",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2012-11-14T20:03:40Z",
+            "owner": "ivansharamok",
+            "repo": "CrossDatabaseTreeListField",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Adds two new field types to the Sitecore Content Editor, Single-Line Text Limited and Multi-Line Text Limited. Both inherit all functionality from the existing text field controls and add the possibility to configure a maximum allowed value for the field, also inform the user of the number of remaining characters while they are editing.",
+          "title": "LimitedText Field",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2014-10-16T15:34:15Z",
+            "owner": "ParTech",
+            "repo": "LimitedText-Field-Controls",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A selection of NameValueDropLists, NameValueDropListsField, NameValueDroplist, NameValueDroplistField, SortableMultilist, SortableMultilistField, TimeZonesDropList fields.",
+          "title": "CustomFields",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2015-07-15T10:38:28Z",
+            "owner": "AlexanderDavyduk",
+            "repo": "CustomFields",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Fully workable solution for YouTube video picker field for Sitecore.",
+          "title": "YouTube Video Picker Field",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-04-14T14:25:32Z",
+            "owner": "pveller",
+            "repo": "BrainJocks.YouTubeVideoField",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Adds new Checkbox, Droplist, and Droplink field type to the Sitecore Content Editor which depending on the selected value will hide the proceeding sibling fields. All controls inherit from their equivalent Sitecore counterpart and add the required UI enhancements.",
+          "title": "Hide Dependent Fields Controls",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2014-04-23T23:59:58Z",
+            "owner": "jammykam",
+            "repo": "Hide-Dependent-Fields",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Custom Icon selector field for Sitecore.",
+          "title": "icon-selector-field",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2015-09-29T10:10:02Z",
+            "owner": "Wesley-Lomax",
+            "repo": "icon-selector-field",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "An image Selector field for Sitecore to allow selecting and previewing multiple images based on the TreeListEx field.",
+          "title": "ImageSelector",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2012-11-30T14:58:25Z",
+            "owner": "markvanaalst",
+            "repo": "Sitecore.SharedSource.ImageSelector",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Fields"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Adds some functionality to the forms creator, such as sending emails, timespan validation, subscribing a list, conditions, Azure Blob storage provider and many more.",
+          "title": "Sitecore-Forms-Extensions",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-08-13T12:34:02Z",
+            "owner": "bartverdonck",
+            "repo": "Sitecore-Forms-Extensions",
+            "stars": 60
+          }
+        },
+        {
+          "children": [],
+          "description": "A console application that provides an automated solution to convert and migrate Web Forms For Marketers (WFFM) items and their data to Sitecore Forms.",
+          "title": "WFFM Conversion Tool",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-03-04T01:08:02Z",
+            "owner": "afaniuolo",
+            "repo": "WFFM-Conversion-Tool",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Brings a new Send E-mail Action for Sitecore 9 Forms, enabling the submission of e-mails using MainUtil.SendMail method, which will use an SMTP server to submit e-mails in HTML or Plain Text.",
+          "title": "SendMail for Experience Forms",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-25T16:22:24Z",
+            "owner": "KayeeNL",
+            "repo": "Sitecore.ExperienceForms.Modules.SendMail",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Use Azure Storage Queue and Azure Storage Blob to store Sitecore 9.3+ Forms uploads Encrypted, with a key from Azure Key Fault - this can be handy for the compliance once users upload sensitive data.",
+          "title": "Forms Cloud Upload",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T02:11:10Z",
+            "owner": "jbluemink",
+            "repo": "Sitecore-Forms-Cloud-Upload",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Forms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "This is a great example of Sitecore Experience Edge Content as-a-Service approach using NextJS upon React, using a demo instance of the latest Content Hub.",
+          "title": "Next.js Starter kit using GraphQL and Sitecore Experience Edge for Content Hub",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-03-17T01:39:54Z",
+            "owner": "konabos",
+            "repo": "Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "A starter kit of Uniform, JSS, and Next.JS with content items and required configuration files, great to start a vanilla project with.",
+          "title": "Uniform, JSS and Next.js starter kit",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-13T00:55:50Z",
+            "owner": "uniformdev",
+            "repo": "sitecore-jss-nextjs-starterkit",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "JAMstack"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "SugCon 2019 jss examples.",
+          "title": "sugcon-2019-jss-examples",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-17T15:14:05Z",
+            "owner": "chaturangar",
+            "repo": "sugcon-2019-jss-examples",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "A GraphQL implementation for Sitecore, for example, you can query against Sitecore's Content Search API.",
+          "title": "SitecoreQL",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-28T17:05:45Z",
+            "owner": "kmazzoni",
+            "repo": "SitecoreQL",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Please follow the primary JSS documentation at  for the latest documentation on JSS.",
+          "title": "JSS React Starter Application",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-01-05T07:57:39Z",
+            "owner": "altola",
+            "repo": "sitecore-jss-react-basic",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A hello world starter for Sitecore JSS without GraphQL bits.",
+          "title": "'Hello World' Starter for Sitecore JSS Tech Preview 4",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-24T05:04:23Z",
+            "owner": "altola",
+            "repo": "sitecore-jss-react-starter",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Extending JSON renderings in Sitecore JavaScript Services.",
+          "title": "Extensible JSON Renderings",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-01-05T04:47:11Z",
+            "owner": "coreyasmith",
+            "repo": "jss-extensible-json-renderings",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A sample repository to demonstrate how to use .NET anti-forgery tokens in Sitecore JavaScript Services with both MVC and Web API controllers using out-of-the-box anti-forgery token validators. The demo API is also completely mocked in disconnected mode to show how this functionality can work in both disconnected and connected modes.",
+          "title": "JavaScript Services Anti-Forgery Tokens",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-01-05T04:49:07Z",
+            "owner": "coreyasmith",
+            "repo": "jss-anti-forgery-tokens",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "A full-stack tutorial website to learn all about GraphQL.",
+          "title": "How to GraphQL",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-11-15T20:38:38Z",
+            "owner": "kamsar",
+            "repo": "howtographql",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "A starting template for JSS using Vue.js framework.",
+          "title": "JSS with Vue.js"
+        },
+        {
+          "children": [],
+          "description": "A repository with valuable examples, such as JSS embedded app and Next.js using federated authentication.",
+          "title": "Headless Examples",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-30T16:23:32Z",
+            "owner": "Sitecore",
+            "repo": "headless-examples",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Adds support for images rendered by SVG tags in Sitecore JSS.",
+          "title": "SVG Images for JSS",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-11T21:20:49Z",
+            "owner": "KayeeNL",
+            "repo": "Sitecore.Extensions.JSS.SVG",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore JSS 21.4 Next.js sample application in which Storybook 7.4 was added step by step, exposed with the commit history.",
+          "title": "jss21.4-nextjs-storybook7.4",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-17T05:19:01Z",
+            "owner": "jflheureux",
+            "repo": "jss21.4-nextjs-storybook7.4",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "JSS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A headless sample TODO",
+          "title": "Sample",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-13T00:55:50Z",
+            "owner": "uniformdev",
+            "repo": "sitecore-jss-nextjs-starterkit",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore JSS Angular Starter Kit App for XM Cloud.",
+          "title": "Angular JSS starter kit for XM Cloud",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-26T13:33:20Z",
+            "owner": "Sitecore",
+            "repo": "jss",
+            "stars": 272
+          }
+        }
+      ],
+      "title": "Headless"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The official guidelines and recommended practices for developing in Sitecore for Sitecore Helix.",
+          "title": "Sitecore Helix Documentation",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-14T21:45:52Z",
+            "owner": "Sitecore",
+            "repo": "Helix.Docs",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types/requirements than existing examples.",
+          "title": "Sitecore Helix Examples",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-01-15T08:33:57Z",
+            "owner": "Sitecore",
+            "repo": "Helix.Examples",
+            "stars": 76
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore Helix-based solution for Greenfield projects.",
+          "title": "Helixbase",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-26T07:25:43Z",
+            "owner": "muso31",
+            "repo": "Helixbase",
+            "stars": 104
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore Framework that follows the Helix modular architecture design principles.Includes plenty of Feature and Foundation layer modules, as well as reusable Common from the Project layer.",
+          "title": "Sitecore Foundation",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-05-30T12:41:17Z",
+            "owner": "Avanade",
+            "repo": "SitecoreFoundation",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "Templates for the Sitecore Helix Visual Studio templates extension.",
+          "title": "Helix example Module & Solution templates",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-12-31T09:40:26Z",
+            "owner": "LaubPlusCo",
+            "repo": "Helix-Templates",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple frontend development setup for a Sitecore Helix solution.",
+          "title": "Helix frontend development example",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-09-26T18:21:20Z",
+            "owner": "LaubPlusCo",
+            "repo": "helix-frontend-example",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimizations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line.",
+          "title": "Helix Publishing Pipeline",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2021-10-05T20:54:42Z",
+            "owner": "richardszalay",
+            "repo": "helix-publishing-pipeline",
+            "stars": 68
+          }
+        },
+        {
+          "children": [],
+          "description": "A demonstration of Converting a custom Sitecore link provider from non-Helix to Helix.",
+          "title": "CustomLinkProvider",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-11-10T10:29:41Z",
+            "owner": "TwentyGotoTen",
+            "repo": "CustomLinkProvider",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "An open-source Sitecore accelerator implementing Helix principles.",
+          "title": "Elision"
+        },
+        {
+          "children": [],
+          "description": "The module is designed to add instant Helix compatibility to any Sitecore project.",
+          "title": "Helixify",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2020-04-08T02:47:10Z",
+            "owner": "konabos",
+            "repo": "Konabos.Helixify",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore Framework from Avanade that follows the Helix modular architecture design principles.",
+          "title": "Sitecore Foundation",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-05-30T12:41:17Z",
+            "owner": "Avanade",
+            "repo": "SitecoreFoundation",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.",
+          "title": "PLAY Summit Demo",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-25T21:30:33Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore.Demo.Edge",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Helix"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Some extra \"people\" icons for your Sitecore instances.",
+          "title": "Extra People Icons",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-10-25T10:55:26Z",
+            "owner": "jermdavis",
+            "repo": "ExtraPeopleIcons",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "MSBuild extensions for building Sitecore icon zip archives and including them in the published website.",
+          "title": "sitecore-icon-build",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2017-12-17T10:39:39Z",
+            "owner": "richardszalay",
+            "repo": "sitecore-icon-build",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "An instalable collection of 1800+ FA and 2500+ MUI icons X 4 colors (Black, Blue, Green, Red).",
+          "title": "Sitecore Icons",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-25T05:12:24Z",
+            "owner": "Antonytm",
+            "repo": "sitecore-icons",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Icons"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "PowerShell script for managing Items as resources.",
+          "title": "Sitecore IAR Management",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-15T08:15:12Z",
+            "owner": "GAAOPS",
+            "repo": "Sitecore.IAR.Management",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "WPF application which allows you to browse the Sitecore static databases files (.dat)",
+          "title": "Sitecore Item as Resource Explorer",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-05-20T17:47:04Z",
+            "owner": "GAAOPS",
+            "repo": "Sitecore.Protobuf.Browser",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Item Resource Files"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "An item Translator module integrates Google Translate seamlessly so that with a click of a button you can translate your text into any language that Google Translate supports.",
+          "title": "Sitecore Item Translator",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2012-10-23T11:03:58Z",
+            "owner": "adoprog",
+            "repo": "Sitecore-Item-Translator",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "This module adds a new ribbon into the version's chunk of the Content Editor. With the new ribbon, it is possible to initially create an item version in all configured languages.",
+          "title": "Sitecore Item Versioner",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-03-19T22:45:12Z",
+            "owner": "aquasonic",
+            "repo": "SitecoreItemVersioner",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "An extension for the Content Editor and the Experience Editor providing a dialog for content editors, where a page in a specific version can be copied to a selectable list of language versions, including all datasources referenced on the page renderings.",
+          "title": "CopyPageToVersions",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-04-30T12:16:09Z",
+            "owner": "merkle-open",
+            "repo": "SitecoreCopyPageToVersions",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Languages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Log4net RollingLogFileAppender for Sitecore that allows capping log files size.",
+          "title": "SitecoreRollingLogFileAppender",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-07-19T20:05:34Z",
+            "owner": "ivansharamok",
+            "repo": "SitecoreRollingLogFileAppender",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Implementation of RabbitMQ logger adapter for Sitecore.Logger.",
+          "title": "RabbitMQ.GEFL.Appender for Sitecore",
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2014-05-27T06:49:34Z",
+            "owner": "asmagin",
+            "repo": "Sitecore.Logger.RabbitMQ.GelfAppender",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Configures your application to log into Logentries (supports NLog, Log4net, Serilog, others).",
+          "title": "Logging To Logentries",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-07-13T14:07:59Z",
+            "owner": "jammykam",
+            "repo": "Sitecore.Logentries",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides a set of static methods to use for logging with flexible options",
+          "title": "Namics.Foundation.Logger",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-12-20T08:23:59Z",
+            "owner": "merkle-open",
+            "repo": "Namics.Foundation.Logger",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Logging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The additional features for  folder: AddAdminUser, AddEditorUser, ResetAdminPassword, FillDbWithExtranetUser, InstallUpdatePackage, InstallZipPackage, ParameterDrivenPublish and IsPublishTaskRunning.",
+          "title": "Admin Scripts for Development and Deploying",
+          "repo_info": {
+            "archived": false,
+            "language": "ASP.NET",
+            "last_commit": "2022-05-10T09:11:11Z",
+            "owner": "jbluemink",
+            "repo": "Sitecore-Admin-Scripts-for-Development-and-Deploying",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "The legendary Sitecore Instant Manager, now with version 9.x support.",
+          "title": "Sitecore Instance Manager",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-23T09:53:43Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore-Instance-Manager",
+            "stars": 108
+          }
+        },
+        {
+          "children": [],
+          "description": "Backup-restore tool supporting XC and remote machine operation with an excellent pluggable interface. Sifon also has a very powerful extension system with plugins covering many aspects of day-to-day activities.",
+          "title": "Sifon",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-13T05:49:37Z",
+            "owner": "MartinMiles",
+            "repo": "Sifon",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Maintenance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "the starter template for building Marketplace extensions. It demonstrates five extension points: Custom Field, Dashboard Widget, Fullscreen, Pages Context Panel, and Standalone. Each extension point has its own UI and integration with the Sitecore Marketplace SDK.",
+          "title": "Sitecore Marketplace Starter",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-30T00:34:15Z",
+            "owner": "Sitecore",
+            "repo": "marketplace-starter",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Seamless Google Analytics integration within the XM Cloud environment. This module provides real-time analytics data visualization, including page views and active user metrics, directly within your Sitecore experience.",
+          "title": "Google Analytics",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-09T00:54:19Z",
+            "owner": "Sitecore",
+            "repo": "marketplace-google-analytics",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Marketplace Icon picker - a sample application showingcasing how to create a custom field extension.",
+          "title": "Icon Picker",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-09T00:23:52Z",
+            "owner": "Sitecore",
+            "repo": "marketplace-icon-picker",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Marketplace"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Automatically generates cropped versions of an image, based on pre-defined dimensions and a specified origin, for use on responsive sites.",
+          "title": "Autocropper",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2015-09-03T15:54:16Z",
+            "owner": "zkniebel",
+            "repo": "Autocropper",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Brightcove connector for Sitecore Media Framework.",
+          "title": "Media-Framework-Brightcove-Edition",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-06-26T20:17:41Z",
+            "owner": "Sitecore",
+            "repo": "Media-Framework-Brightcove-Edition",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "An easy way to show the videos from a channel on YouTube on your site, the YouTube integration module might be what you are looking for. In the media library, you have a YouTube folder and by typing the name of the channel, all the videos in that channel are now represented by an item and when you create a new video on your channel it automatically updates the channel in the media library.",
+          "title": "YouTube Integration module",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2015-06-24T01:23:01Z",
+            "owner": "ivansharamok",
+            "repo": "YouTube-Integration",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Gives an insight into the usage of your media library similar to a disk usage statistics viewer for your hard drives, also shows you which items are being used and published, so you can easily find media items that unnecessarily take up space in your database and offers you multiple ways of cleaning up your media library!",
+          "title": "Shrink",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-07-10T15:21:26Z",
+            "owner": "robhabraken",
+            "repo": "shrink",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "An automatic image optimizer for the Sitecore media library, reduced the size of your images served from Sitecore by 8-70%, completely automatically. When media images are requested, Dianoga automatically runs mozjpeg, PNGOptimizer, SVGO or WebP on the image data immediately after it is placed in the Sitecore media cache.",
+          "title": "Dianoga",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-25T11:57:48Z",
+            "owner": "kamsar",
+            "repo": "Dianoga",
+            "stars": 104
+          }
+        }
+      ],
+      "title": "Media"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Glass.Mapper has been the redevelopment of the very popular Glass.Sitecore.Mapper project. This project aims to create a more robust and more flexible solution that not only works with many different CMS's.",
+          "title": "Glass.Mapper",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-09-13T08:23:02Z",
+            "owner": "mikeedwards83",
+            "repo": "Glass.Mapper",
+            "stars": 124
+          }
+        },
+        {
+          "children": [],
+          "description": "Helper methods for working with generated Sitecore Template Models (Mapped through Glass.Mapper or other framework) with a main goal is to make it easy for developers to query the Sitecore database using generated Template models.",
+          "title": "TemplateModelHelper",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-01-08T09:58:12Z",
+            "owner": "lowedown",
+            "repo": "TemplateModelHelper",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "T4 model generation for TDS.",
+          "title": "TDS-T4-Model-Generation",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2013-01-09T08:22:29Z",
+            "owner": "Sitecore",
+            "repo": "TDS-T4-Model-Generation",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Generates Glass Mapper interfaces using T4 templates without TDS.",
+          "title": "Sitecore.CodeGenerator",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-04-04T10:30:19Z",
+            "owner": "ParTech",
+            "repo": "sitecore.codegenerator",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "An object mapping framework for Sitecore that enables the development of more reliable and maintainable sites in less time than traditional Sitecore development. It is a strongly typed template object generator that is easily understandable for developers with either a Sitecore or traditional .NET background. It neatly integrates with Sitecore MVC (via the Synthesis.Mvc package) as a View rendering model provider and IoC dependency for controller renderings.",
+          "title": "Synthesis",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-06-02T20:49:28Z",
+            "owner": "blipson89",
+            "repo": "Synthesis",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "ORM"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Checks the expiration date of the Sitecore license, shows a Content Editor Warning message or/and sends an email to notify when the Sitecore license is about to expire.",
+          "title": "License Expiration Module 2.0",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2013-04-29T07:45:21Z",
+            "owner": "KayeeNL",
+            "repo": "Sitecore.License.Expiration.Module",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of code samples of Sitecore prototypes from John West blog posts.",
+          "title": "Sitecore.SharedSource.JohnWest",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-09-20T20:24:33Z",
+            "owner": "jammykam",
+            "repo": "Sitecore.SharedSource.JohnWest",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Allows you to run the Sitecore app's client-side, also following the HELIX concept, the clean way.",
+          "title": "BLAZOR + SITECORE",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-03-01T13:54:15Z",
+            "owner": "GoranHalvarsson",
+            "repo": "SitecoreBlazor",
+            "stars": 47
+          }
+        },
+        {
+          "children": [],
+          "description": "MVC versions of the code for the out-of-the-box Sitecore sample site (by default Sitecore comes with a sample site that is built on web forms and XSLT).",
+          "title": "Sitecore.SampleMvc",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-08-12T16:48:06Z",
+            "owner": "coreyasmith",
+            "repo": "Sitecore.SampleMvc",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "A framework designed to allow any type of content to be dynamically injected into an RTE field.",
+          "title": "Sitecore TokenManager",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-22T17:36:35Z",
+            "owner": "JeffDarchuk",
+            "repo": "SCTokenManager",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Sends browser notifications to users in Sitecore.",
+          "title": "sxp-notifications",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-06-26T22:18:18Z",
+            "owner": "michaellwest",
+            "repo": "westco-sxp-notifications",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "A Sitecore Redis session provider implementation.",
+          "title": "Sitecore Redis Session Provider",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-03-11T11:17:07Z",
+            "owner": "boro2g",
+            "repo": "Sitecore-Redis-Session-Provider",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A tool to automatically apply a Sitecore package to hydrate some content as part of a deployment.",
+          "title": "Package Autoloader",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-02-02T15:00:07Z",
+            "owner": "JeffDarchuk",
+            "repo": "PackageAutoloader",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A lightweight means to install Sitecore Update packages via HTTP requests.",
+          "title": "Sitecore.Ship",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-07-12T06:31:03Z",
+            "owner": "kevinobee",
+            "repo": "Sitecore.Ship",
+            "stars": 71
+          }
+        },
+        {
+          "children": [],
+          "description": "Installs update packages in Sitecore from the command line.",
+          "title": "UpdatePackageInstaller",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-12-28T20:03:14Z",
+            "owner": "HedgehogDevelopment",
+            "repo": "UpdatePackageInstaller",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Uses a Sitecore Job to automatically deploy update packages from a file system folder on the Sitecore server.",
+          "title": "Sitecore Package Deployer",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-05-02T13:31:58Z",
+            "owner": "HedgehogDevelopment",
+            "repo": "SitecorePackageDeployer",
+            "stars": 36
+          }
+        },
+        {
+          "children": [],
+          "description": "Confirms package installation by converting a package into a WDP and installing it.",
+          "title": "Simplified testing of package installations",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-11-29T05:56:19Z",
+            "owner": "michaellwest",
+            "repo": "test-sitecore-packages",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Packaging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Simple solution for measuring the duration of Sitecore pipeline execution.",
+          "title": "Pipeline Performance Monitor",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2014-04-08T08:01:50Z",
+            "owner": "ParTech",
+            "repo": "Pipeline-Performance-Monitor",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple project to demonstrate dependency injection in Sitecore pipeline processors.",
+          "title": "Sitecore Processor Dependency Injection",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-08-12T16:42:57Z",
+            "owner": "coreyasmith",
+            "repo": "Sitecore.ProcessorDi",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Pipelines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Gives the content editor the option to delay the publishing of an item for a future point in time.",
+          "title": "Scheduled Publishing",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-11-07T17:18:17Z",
+            "owner": "HedgehogDevelopment",
+            "repo": "SCScheduledPublishing",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "An enhanced standard publish dialog.",
+          "title": "AdvancedPublishDialog",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2015-07-10T06:34:50Z",
+            "owner": "Sitecore",
+            "repo": "AdvancedPublishDialog",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "ARM templates to install the Sitecore Publishing Service in your Sitecore Azure PaaS environment and scripts to create the necessary Web Deployment Packages.",
+          "title": "Publishing Service Azure Templates",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2020-08-12T16:47:17Z",
+            "owner": "coreyasmith",
+            "repo": "sitecore-publishing-service-azure-templates",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Powershell scripts that both use the Sitecore Install Framework (SIF) to auto-install the Publishing Service & auto-install the Publishing Module on top of the ContentManagement instance or StandAlone instance.",
+          "title": "SIF scripts to install Publishing Service",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-04-30T18:14:26Z",
+            "owner": "KayeeNL",
+            "repo": "sitecore-sif-autoinstall-publishingservice",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Allows you to monitor the publishing queue on the Sitecore Publishing CM Server, see their current status, and cancel publishing jobs if required (ie. time queued, time publish job started, duration in the queue, number of items published, average time to publish an item, all messages from the published job).",
+          "title": "Publish Viewer",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-06-11T17:09:00Z",
+            "owner": "mikeedwards83",
+            "repo": "Glass.PublishViewer",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Publish button that forces the item being published, regardless of the state of the Publishable option on the Item tab in the Publish restriction. 1) This function will not publish linked pages in your site that are not published, but only resources like media library items and data sources used in item fields, as those are needed to display the item you want to publish correctly. This method even publishes the templates and layouts used by the current item, if that's not done yet. 2) Unpublish button enables you to unpublish an item with a single click. It will change the Publish Restrictions as it unchecks the Publishable option on the Item tab and publishes the item after that, using a full Republish without Subitems. 3) The Publishing State button shows the publishing state for all publishing targets. If a publishing target is up-to-date, a green dot is shown. If the item is published to a publishing target, but the item has changed afterward, an orange dot is shown (so it's published, but not up-to-date). If the current item is not present in a publishing target at all, a red dot is shown. This function enables the content editor to check in detail if the content is published or not, for every publishing target.",
+          "title": "Sitecore Power Publish",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2015-03-17T07:58:35Z",
+            "owner": "robhabraken",
+            "repo": "sitecore-power-publish",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Publishing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Create any custom Sitecore rules for every page your visitors browse. The user hasn't read T&C page and wants to see a contest page? The page should be accessible only after a certain date? You want to use GEO IP data to change the language of your home page automatically? You don't have a translation ready for your page? With the Sitecore rules engine only sky is the limit!",
+          "title": "Page Rules",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-03-04T21:39:48Z",
+            "owner": "marek-musielak",
+            "repo": "Marek.Musielak.PageRules",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides conditions and actions for the Rules Engine to automate item name conventions. You can use the ItemNamingRules project to apply different item naming rules in different branches of the content tree.",
+          "title": "ItemNamingRules",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2013-12-05T19:02:29Z",
+            "owner": "seankearney",
+            "repo": "Sitecore-ItemNamingRules",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Rules-based context item menu visibility.",
+          "title": "MenuItemRules",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-10-04T01:29:53Z",
+            "owner": "jammykam",
+            "repo": "Konabos.SharedSource.MenuItemRules",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Adds support for adaptive rules for the Sitecore Rules Engine: they are useful when properties on conditions and actions have dependencies on one another.",
+          "title": "Sitecore adaptive rules",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-01-28T11:36:05Z",
+            "owner": "boro2g",
+            "repo": "sitecore-adaptive-rules",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "A pipeline processor for the uiGetMasters pipeline that allows you to organize your Insert Options Rules however you like in the content tree.",
+          "title": "Organize Insert Options Rules",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-08-12T16:41:35Z",
+            "owner": "coreyasmith",
+            "repo": "OrganizeInsertOptionsRules",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "A module to allow Sitecore Rules Engine to support the existing placeholder settings functionality coming with Sitecore.",
+          "title": "Conditional Placeholder Settings"
+        },
+        {
+          "children": [],
+          "description": "Adds Rules Engine support for adaptive rules (these are useful when properties on conditions and actions have dependencies on one another).",
+          "title": "Sitecore Adaptive Rules"
+        }
+      ],
+      "title": "Rules"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "An official repo of Sitecore JavaScript Services SDK.",
+          "title": "JSS",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-26T13:33:20Z",
+            "owner": "Sitecore",
+            "repo": "jss",
+            "stars": 272
+          }
+        },
+        {
+          "children": [],
+          "description": "The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK for XM Cloud.",
+          "title": "Content SDK",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T20:15:03Z",
+            "owner": "Sitecore",
+            "repo": "content-sdk",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "The official open source ASP.NET Core SDK for Sitecore DXP and XM Cloud.",
+          "title": "ASP.NET Core SDK",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-11T21:47:19Z",
+            "owner": "Sitecore",
+            "repo": "ASP.NET-Core-SDK",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore Marketplace SDK hosts the three main packages, client applications (running inside iframes), core SDK, and XMC module, which extend the functionality of the system.",
+          "title": "Marketplace SDK",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T09:51:49Z",
+            "owner": "Sitecore",
+            "repo": "sitecore-marketplace-sdk",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Shows how to implement response security headers on an example of SXA, but they are truly Helix-generic.",
+          "title": "Securty Headers",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-05-23T07:43:51Z",
+            "owner": "GuitarRich",
+            "repo": "SXA.SecurityHeaders",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "A debugging tool for reading claims passed to Sitecore from Sitecore Identity, after the transformation of those claims from Sitecore Identity. It can be helpful in identifying claims that Sitecore is getting (and in what format) and ensuring group transformations in Sitecore Identity are being processed properly.",
+          "title": "SI Snitch",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-03T14:28:58Z",
+            "owner": "KayeeNL",
+            "repo": "SI-Snitch",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "A module for Unlocking Sitecore Items.",
+          "title": "MasterKey",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2015-04-12T17:56:12Z",
+            "owner": "islaytitans",
+            "repo": "MasterKey",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "A module showing a grid with all users and all their rights in a friendly way with exporting options.",
+          "title": "Security Rights Reporting",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-22T20:25:34Z",
+            "owner": "jbluemink",
+            "repo": "Sitecore-Security-Rights-Reporting",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Enables the \"item:removeVersion\" access right, allowing authors to remove individual item versions without allowing authors to delete the entire item. It also allows the initial creator of an item to delete his/her own item, unless an explicit deny delete access right is applied to the item.",
+          "title": "Sitecore Delete Access Rights",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-08-10T14:47:30Z",
+            "owner": "mikaelnet",
+            "repo": "sitecore-access-rights",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Validate user logins and passwords against an existing ASP.NET 2.0 membership database containing user data for existing systems.",
+          "title": "ASP.NET 2.0 Membership Database as Identity Server User Store",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-08-15T12:16:00Z",
+            "owner": "Sitecore",
+            "repo": "sitecore-identityserver-contrib-membership",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Utility built on .net 7 and compiled to a self-contained exe, aimed to simplify certificates management, as a better alternative to mkcert.",
+          "title": "Certz",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-07T18:09:05Z",
+            "owner": "michaellwest",
+            "repo": "certz",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "An improved version of the Sitecore 301 redirect module.",
+          "title": "301 Redirect Module",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-02-27T02:30:15Z",
+            "owner": "thecadams",
+            "repo": "301RedirectModule",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "Generates the Sitemap compliant with the schema defined by sitemaps.org and submits it to search engines.",
+          "title": "SitecoreSitemapXML",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-07-27T22:08:52Z",
+            "owner": "JimmieOverby",
+            "repo": "SitecoreSitemapXML",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "An example Sitecore / FakeDB / TDS / Cloud Build project for sitemap generation.",
+          "title": "Sitemap Generator",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-02-01T17:09:05Z",
+            "owner": "jermdavis",
+            "repo": "SitemapGenerator",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "An example code of how you could extend the Sitecore Solr provider.",
+          "title": "Sitecore Solr",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-22T22:09:30Z",
+            "owner": "bigredmachine",
+            "repo": "sitecore-solr",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Enables administrator or editors to manage URL rewrite rules from within the Sitecore client, supporting rewriting of hostnames, relative URL's and absolute URL's.",
+          "title": "URL Rewriter Module",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2015-03-02T15:21:11Z",
+            "owner": "ParTech",
+            "repo": "Url-Rewriter",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A redirect manager for Sitecore.",
+          "title": "RedirectManager",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-12-29T09:50:36Z",
+            "owner": "AlexanderDavyduk",
+            "repo": "Sitecore-RedirectManager",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "A site-specific version of the Redirect / Rewrite module.",
+          "title": "URL Rewrite",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-03-22T23:21:11Z",
+            "owner": "iamandycohen",
+            "repo": "UrlRewrite",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "SEO"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "An advanced serialization library for Sitecore, designed to be a complete replacement for the Sitecore serialization format and filesystem organization, as well as enabling cross-source item comparison.",
+          "title": "Rainbow",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-22T18:47:23Z",
+            "owner": "SitecoreUnicorn",
+            "repo": "Rainbow",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "A utility for Sitecore that solves the issue of moving templates, renderings, and other database items between Sitecore instances by writing serialized copies of Sitecore items to disk along with the code - this way, a copy of the necessary database items for a given codebase accompanies it in source control.",
+          "title": "Unicorn",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-15T06:38:56Z",
+            "owner": "SitecoreUnicorn",
+            "repo": "Unicorn",
+            "stars": 269
+          }
+        },
+        {
+          "children": [],
+          "description": "A framework for angularjs-based microservice architecture operations.",
+          "title": "Sidekick",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-11-19T16:01:39Z",
+            "owner": "JeffDarchuk",
+            "repo": "SitecoreSidekick",
+            "stars": 49
+          }
+        },
+        {
+          "children": [],
+          "description": "An experimental serialization data provider for Sitecore.",
+          "title": "Rhino",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2013-06-14T05:59:19Z",
+            "owner": "kamsar",
+            "repo": "Rhino",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Serialization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A basic set of templates to help you get started building your own Sitecore Host applications.",
+          "title": "Sitecore Host Quick Start"
+        },
+        {
+          "children": [],
+          "description": "Sitecore Host example solution which can be used as a starting point for Sitecore Host applications. Currently runs in the IdentityServer Host as a plugin, will be updated when standalone Sitecore Host applications become readily available.",
+          "title": "Hostbase",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-03-05T11:51:34Z",
+            "owner": "muso31",
+            "repo": "Hostbase",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore Host Plugins for extending Sitecore Identity Server.",
+          "title": "Sitecore Host Plugins",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-05-13T22:18:46Z",
+            "owner": "JuliusAngwenyi",
+            "repo": "SitecoreHostPlugins",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A basic Sitecore Host application that displays a demo web page.",
+          "title": "Basic Sitecore Host Application",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-03-30T02:08:17Z",
+            "owner": "georgechang",
+            "repo": "schost-basic",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Sitecore Host"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Sitecore PowerShell Book with all the documentation.",
+          "title": "Sitecore PowerShell Book",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-12-15T02:39:43Z",
+            "owner": "SitecorePowerShell",
+            "repo": "Book",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore PowerShell Initiative official GitHub.",
+          "title": "Sitecore PowerShell"
+        },
+        {
+          "children": [],
+          "description": "A set of small modules for Sitecore PowerShell Extensions.",
+          "title": "Sitecore.Utilities",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-12-09T23:18:02Z",
+            "owner": "alan-null",
+            "repo": "Sitecore.Utilities",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Script used to migrate content between Sitecore instances using SPE.",
+          "title": "SPE Content Migrator",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-02-23T20:49:10Z",
+            "owner": "michaellwest",
+            "repo": "Spe-Content-Migrator",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "SPE (Sitecore PowerShell Extension)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Speak 3 starter template generated with Angular CLI version 1.2.7.",
+          "title": "Speak 3 starter template",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-30T04:23:24Z",
+            "owner": "Mitya88",
+            "repo": "SitecoreSpeak3StarterProject",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Speak 3 components generated with Angular CLI version 1.2.7.",
+          "title": "Sitecore Speak UI Library",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-01-03T14:46:02Z",
+            "owner": "Mitya88",
+            "repo": "SitecoreSpeakUILibrary",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "SPEAK application to import CSV / JSON / XML into Sitecore Items.",
+          "title": "SitecoreDataImporter",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-22T16:28:15Z",
+            "owner": "komainu85",
+            "repo": "SitecoreDataImporter",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "SPEAK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The whole set of dicumentation about SXA.",
+          "title": "Sitecore Experience Accelerator index",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-29T21:29:33Z",
+            "owner": "alan-null",
+            "repo": "SXA.Index",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "An education site based on SXA that helps explain the inner workings and illustrate best practices.",
+          "title": "SXA Styleguide",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-05-03T13:11:58Z",
+            "owner": "markvanaalst",
+            "repo": "SXA.Styleguide",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "A repository holds all the frontend code needed to run the site. It consists of two parts, the SXA themes and the Scriban templates used on the site. The folder structure used in this repository mimics the SXA Creative Exchange output, therefore you can find the sources for the themes and the separate Scriban templates.",
+          "title": "SXA.Styleguide.Frontend",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-01-06T02:39:24Z",
+            "owner": "markvanaalst",
+            "repo": "SXA.Styleguide.Frontend",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of custom SXA rendering variants and some other useful things that may be helpful in your solution.",
+          "title": "SXA.Foundation.Variants",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-06-12T09:58:46Z",
+            "owner": "MartinMiles",
+            "repo": "SXA.Foundation.Variants",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "An example Sitecore project built on top of Sitecore Experience Accelerator.",
+          "title": "SXA Reference",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-11-21T13:13:59Z",
+            "owner": "alan-null",
+            "repo": "XA.Reference",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "A Power Shell script used to determine the health status of the SXA site, consists of validation steps, each of them checks different things in SXA solution and provides possible solutions.",
+          "title": "SXA.HealthCheck",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2021-10-16T23:13:24Z",
+            "owner": "alan-null",
+            "repo": "SXA.HealthCheck",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "An SXA module to validate fields at a site level rather than at the template field level.",
+          "title": "Global Field Validator",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-10-25T15:02:46Z",
+            "owner": "JeffDarchuk",
+            "repo": "SxaGlobalFieldValidator",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Scriban syntax coloring and intellisense for known objects extension for Visual Studio Code.",
+          "title": "Scriban syntax coloring and auto completion",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-03-25T21:51:27Z",
+            "owner": "AdamNaj",
+            "repo": "SitecoreScriban-vscode",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore Experience Accelerator (SXA) extensions.",
+          "title": "Westco SXA Extensions",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-22T15:35:56Z",
+            "owner": "michaellwest",
+            "repo": "westco-sxa-extensions",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Demonstrates using the SXA CLI from within a Docker container with Node installed.",
+          "title": "docker-sxa-node",
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2022-12-15T22:11:51Z",
+            "owner": "michaellwest",
+            "repo": "docker-sxa-node",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Shows how to implement response security headers on an example of SXA, but they are truly Helix-generic.",
+          "title": "SXA Securty Headers",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-05-23T07:43:51Z",
+            "owner": "GuitarRich",
+            "repo": "SXA.SecurityHeaders",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "the lists of assemblies for SXA back to v1.6 and Powershell script to generate your own.",
+          "title": "SXA.Platform.Assemblies",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2021-03-19T03:55:19Z",
+            "owner": "konabos",
+            "repo": "SXA.Platform.Assemblies",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "SXA (Sitecore Experience Accelerator)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A unit testing framework for Sitecore that enables the creation and manipulation of Sitecore content in memory. It is designed to minimize efforts for the test content initialization keeping focus on the minimal test data rather than comprehensive content tree representation.",
+          "title": "Sitecore FakeDb",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T01:05:37Z",
+            "owner": "sshushliapin",
+            "repo": "Sitecore.FakeDb",
+            "stars": 114
+          }
+        },
+        {
+          "children": [],
+          "description": "Mockable, LINQable support for Sitecore and Sitecore MVC.",
+          "title": "Minq",
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2018-02-21T16:12:44Z",
+            "owner": "valtech",
+            "repo": "minq",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Ready to pick-and-use samples of Sitecore Services Client and Sitecore WebApi implemented in a form Helix feature.",
+          "title": "Sitecore Endpoints",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-04-12T21:12:20Z",
+            "owner": "MartinMiles",
+            "repo": "Sitecore.Endpoints",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "An example of a Sitecore oData Repository.",
+          "title": "Odata.SitecoreExample",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-12-19T15:51:24Z",
+            "owner": "ianjohngraham",
+            "repo": "Odata.SitecoreExample",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore pipeline processor and extensions to the HttpRouteCollection to enable session in Web API 2.",
+          "title": "Web API Session-Enabled Routes",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-22T17:32:44Z",
+            "owner": "coreyasmith",
+            "repo": "WebApiEnableSessionHandler",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitecore WebAPI client.",
+          "title": "Sitecore Shared Source: Web API Client"
+        },
+        {
+          "children": [],
+          "description": "A Web API method to securely trigger a Sitecore publish of an item or tree.",
+          "title": "Sitecore Services Client Publish",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-11-19T00:02:28Z",
+            "owner": "peplau",
+            "repo": "SscPublish",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "WebApi"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A tutorial repository based on the Sitecore documentation to walk users through common interactions with the xConnect APIs based on code from Martina Welander in the \"Getting Started\" tutorials and other great documentation.",
+          "title": "XConnectTutorial",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-11-02T13:46:58Z",
+            "owner": "jst-cyr",
+            "repo": "XConnectTutorial",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "A Swiss Army Knife for debugging xConnect. Features: Insight into current tracking session data; Show goals and events that were triggered on the last page view; Status checker that validates your xConnect setup (connections, certificates, settings); Set identifiers and basic contact data in the current session; Flush current session for immediate processing.",
+          "title": "XConnectHelper",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-28T16:25:41Z",
+            "owner": "lowedown",
+            "repo": "xConnectHelper",
+            "stars": 23
+          }
+        },
+        {
+          "children": [],
+          "description": "API and js-function to allow client-side triggering of Sitecore events/goals and outcomes.",
+          "title": "XdbTracker",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-28T16:30:40Z",
+            "owner": "lowedown",
+            "repo": "XdbTracker",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Generates \"realistically looking\" traffic for Sitecore sites with configurable patterns.",
+          "title": "Experience Generator",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T01:45:28Z",
+            "owner": "Sitecore",
+            "repo": "xGenerator",
+            "stars": 37
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple Node.js proxy to access xConnect's oData API in Sitecore 9.",
+          "title": "xconnect-odata-proxy",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-17T15:02:04Z",
+            "owner": "ianjohngraham",
+            "repo": "xconnect-odata-proxy",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "An example console application you can use to deploy the Marketing Automation Engine.",
+          "title": "xConnectDeployer",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-03-19T14:48:59Z",
+            "owner": "boro2g",
+            "repo": "xConnectDeployer",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "A \"Execute Right To Be Forgotten\" plugin for Marketing Automation Action.",
+          "title": "Right To Be Forgotten",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2019-03-06T22:50:14Z",
+            "owner": "steviemcg",
+            "repo": "SitecoreComms.RTBF",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "xConnect and xDB"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A solution designed to help developers learn and get started quickly with Sitecore Containers, the Sitecore Next.js SDK, and Sitecore Content Serialization.",
+          "title": "Next.js Styleguide for XM Cloud",
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-12-06T22:20:27Z",
+            "owner": "sitecorelabs",
+            "repo": "XmCloudNextJsJssStyleguide",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Play Summit demo featuring XM Cloud, Content Hub DAM, CMP, Next.js with Versel hosting, etc.",
+          "title": "Play Summit",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-18T14:34:42Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore.Demo.XmCloud.PlaySummit",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "A solution designed to help developers learn and get started quickly with XMCLoud + SXA + Next.js.",
+          "title": "XM Cloud Starter Kit",
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-09-02T10:21:17Z",
+            "owner": "sitecorelabs",
+            "repo": "xmcloud-foundation-head",
+            "stars": 55
+          }
+        },
+        {
+          "children": [],
+          "description": "A codebase for a series of XM Cloud sites managed by the Technical Marketing Team at Sitecore: new MVP website along with 3 websites of SUGCON events.",
+          "title": "XM Cloud Introduction",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-02-06T00:47:37Z",
+            "owner": "Sitecore",
+            "repo": "XM-Cloud-Introduction",
+            "stars": 52
+          }
+        },
+        {
+          "children": [],
+          "description": "A repo that demonstrates an example of BYOC components using best practices.",
+          "title": "FEaaS BYOC Example",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-19T07:42:08Z",
+            "owner": "Sitecore",
+            "repo": "feaas-nextjs-example",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "A console app showcases various capabilities of the Sitecore GraphQL API, such as retrieving Sitecore items, obtaining a list of websites, inserting sample items, and uploading media files.",
+          "title": "Sitecore GraphQL Import",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-11-15T09:27:29Z",
+            "owner": "jbluemink",
+            "repo": "Sitecore-GraphQL-Import",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A headless multi-site solution focused on XM Cloud content and site management capabilities. Includes easily customizable sample sites for select industries.",
+          "title": "Verticals",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-25T13:51:21Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore.Demo.XMCloud.Verticals",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Node proxy application enables backend functionality and features equivalent to those in our Next.js starter kit for XM Cloud. Was introduced to support the new Angular starter kit. This proxy is designed to work with all SPA frameworks and can also be used to run React and Vue applications, laying the groundwork for future JSS starter kits built for other front-end JavaScript frameworks.",
+          "title": "Node XM Cloud Proxy",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-26T13:33:20Z",
+            "owner": "Sitecore",
+            "repo": "jss",
+            "stars": 272
+          }
+        }
+      ],
+      "title": "XM Cloud"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:37:10.599Z",
+    "original_repository": "MartinMiles/Awesome-Sitecore",
+    "source_repository": "v1nvn/enhansome-Awesome-Sitecore",
+    "source_repository_description": null,
+    "title": "Awesome Sitecore with stars"
+  }
+}

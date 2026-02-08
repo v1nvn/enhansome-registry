@@ -1,0 +1,531 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Clarity Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.",
+          "title": "Clarinet",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-07T10:11:33Z",
+            "owner": "hirosystems",
+            "repo": "clarinet",
+            "stars": 347
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool for writing TypeScript code that interacts with Clarity smart contracts.",
+          "title": "Clarigen",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-20T15:55:42Z",
+            "owner": "obylabs",
+            "repo": "clarigen",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "In-browser Clarity REPL.",
+          "title": "clarity.tools"
+        },
+        {
+          "children": [],
+          "description": "Writing smart contracts with a chat bot.",
+          "title": "ClarityGPT Prompt"
+        },
+        {
+          "children": [],
+          "description": "In-browser IDE.",
+          "title": "Hiro Platform"
+        },
+        {
+          "children": [],
+          "description": "TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.",
+          "title": "secondlayer",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T03:25:10Z",
+            "owner": "ryanwaits",
+            "repo": "secondlayer",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Developer Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Listing of all deployed Clarity contracts on mainnet with some comments.",
+          "title": "Source of Clarity"
+        },
+        {
+          "children": [],
+          "description": "A collection of sample smart contracts to serve as a starting point for writing your own.",
+          "title": "Example Contracts"
+        },
+        {
+          "children": [],
+          "description": "Another collection of smart contract examples, these have been audited for security.",
+          "title": "Audited Example Smart Contracts",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-15T21:19:48Z",
+            "owner": "clarity-lang",
+            "repo": "book",
+            "stars": 80
+          }
+        }
+      ],
+      "title": "Example Contracts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A protocol for signature-based authorization.",
+          "title": "blaze"
+        },
+        {
+          "children": [],
+          "description": "A library for converting values into 256-bits.",
+          "title": "uint256",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-08-17T18:52:12Z",
+            "owner": "KStasi",
+            "repo": "clarity-uint256-lib",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "A library to verify Bitcoin transactions.",
+          "title": "clarity-bitcoin",
+          "repo_info": {
+            "archived": false,
+            "language": "Clarity",
+            "last_commit": "2025-06-04T14:42:00Z",
+            "owner": "friedger",
+            "repo": "clarity-bitcoin",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "Protocol to create and share digital artifacts on Stacks.",
+          "title": "STX20",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-05T07:53:40Z",
+            "owner": "fess-v",
+            "repo": "stx20-standard",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Libraries & Protocols"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.",
+          "title": "CityCoin",
+          "repo_info": {
+            "archived": false,
+            "language": "Clarity",
+            "last_commit": "2023-03-29T20:50:03Z",
+            "owner": "citycoins",
+            "repo": "citycoin",
+            "stars": 70
+          }
+        },
+        {
+          "children": [],
+          "description": "A Uniswap-like implementation on Stacks 2.0 and Clarity.",
+          "title": "SWAPR",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T21:00:04Z",
+            "owner": "psq",
+            "repo": "swapr",
+            "stars": 52
+          }
+        },
+        {
+          "children": [],
+          "description": "An interpretation of Ampleforth for Stacks.",
+          "title": "FLEXR",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-04-08T03:08:54Z",
+            "owner": "psq",
+            "repo": "flexr",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "A conversion of Moloch DAO in Clarity.",
+          "title": "ClarityDAO",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-04-28T22:17:34Z",
+            "owner": "friedger",
+            "repo": "clarity-dao",
+            "stars": 23
+          }
+        },
+        {
+          "children": [],
+          "description": "Clarity smart contract for a marketplace of tradable assets.",
+          "title": "NFT Marketplace",
+          "repo_info": {
+            "archived": false,
+            "language": "Clarity",
+            "last_commit": "2024-10-18T11:28:22Z",
+            "owner": "friedger",
+            "repo": "clarity-marketplace",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Clarity smart contract for crowdfunding.",
+          "title": "StackStarter",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-24T05:35:27Z",
+            "owner": "MarvinJanssen",
+            "repo": "stackstarter",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Fraud-proof swaps using Lightning Network.",
+          "title": "Lightning Swaps",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-12-22T14:33:47Z",
+            "owner": "radicleart",
+            "repo": "clarity-rstack",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Basic voting for candidates using Clarity.",
+          "title": "Election Voting",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-30T20:29:48Z",
+            "owner": "elbaruni",
+            "repo": "clarity-election",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of Clarity contracts that implement a DeFi ecosystem for exchanges.",
+          "title": "DualX",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-04-14T15:54:20Z",
+            "owner": "westridgeblockchain",
+            "repo": "dualX",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A Clarity framework for building DAO functionality into your smart contracts.",
+          "title": "ExecutorDAO",
+          "repo_info": {
+            "archived": false,
+            "language": "Clarity",
+            "last_commit": "2022-07-11T07:39:24Z",
+            "owner": "MarvinJanssen",
+            "repo": "executor-dao",
+            "stars": 52
+          }
+        },
+        {
+          "children": [],
+          "description": "Conditional fund transfers.",
+          "title": "Digital Will",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-02-05T20:02:25Z",
+            "owner": "LoRdSoban",
+            "repo": "Cryptonomers",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "A shared crypto vault for managing Stacks (STX) and Bitcoin (BTC).",
+          "title": "MultiSafe",
+          "repo_info": {
+            "archived": false,
+            "language": "Clarity",
+            "last_commit": "2022-12-23T10:24:46Z",
+            "owner": "Trust-Machines",
+            "repo": "multisafe",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Community-run memecoin DAO on the Stacks Blockchain.",
+          "title": "Charisma",
+          "repo_info": {
+            "archived": false,
+            "language": "Clarity",
+            "last_commit": "2024-08-08T01:19:22Z",
+            "owner": "pointblankdev",
+            "repo": "dungeon-master",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Contracts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Wrapper contracts of PoX for stacking pools.",
+          "title": "Stacking Pools",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-04-23T09:21:54Z",
+            "owner": "friedger",
+            "repo": "clarity-stacking-pools",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Decentralized Stacking Pool.",
+          "title": "Stacks Pools",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-07-10T14:49:13Z",
+            "owner": "degen-lab",
+            "repo": "stacks-pools",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Stacking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "App Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Monorepo for JavaScript libraries for interacting with the Stacks Blockchain.",
+          "title": "Stacks.js",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-16T15:06:20Z",
+            "owner": "stx-labs",
+            "repo": "stacks.js",
+            "stars": 971
+          }
+        },
+        {
+          "children": [],
+          "description": "A Rust toolkit to interact with the Stacks Blockchain.",
+          "title": "stacks.rs",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-04-30T18:08:02Z",
+            "owner": "52",
+            "repo": "stacks.rs",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Python Library to interact with the Stacks Blockchain.",
+          "title": "stacks.py",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-06T20:00:47Z",
+            "owner": "rohitverma007",
+            "repo": "stackspy",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Golang SDK for interacting with the stacks blockchain.",
+          "title": "go-stacks",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-02-09T10:39:17Z",
+            "owner": "cbadawi",
+            "repo": "go-stacks",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "A protocol and SDK for building payment-gated APIs on the Stacks Blockchain.",
+          "title": "x402 Stacks"
+        },
+        {
+          "children": [],
+          "description": "A library for connecting apps with Stacks accounts.",
+          "title": "Stacks Connect",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-15T12:35:52Z",
+            "owner": "stx-labs",
+            "repo": "connect",
+            "stars": 87
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for creating and verifying Sign-In with Stacks messages.",
+          "title": "Sign-In With Stacks",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-18T20:11:08Z",
+            "owner": "pradel",
+            "repo": "sign-in-with-stacks",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Client Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Hosted API to interact directly with the Blockchain to query information, broadcast transactions, and scale your projects on Stacks.",
+          "title": "Stacks API"
+        },
+        {
+          "children": [],
+          "description": "Hosted ednpoint to quickly and easily connect to Stacks using Quicknode.",
+          "title": "Quicknode"
+        },
+        {
+          "children": [],
+          "description": "One-click deploy tool to self-host a Stacks node on Render.",
+          "title": "Self-Hosted Render",
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2023-02-18T00:28:50Z",
+            "owner": "stacksfoundation",
+            "repo": "render-stacks",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Digital Ocean droplet for running a Stacks node.",
+          "title": "Self-Hosted Digital Ocean"
+        },
+        {
+          "children": [],
+          "description": "Tool to run a self-hosted Stacks node with Docker.",
+          "title": "Self-Hosted Docker",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-11-23T00:43:45Z",
+            "owner": "stacks-network",
+            "repo": "stacks-blockchain-docker",
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "Grafana Dashboard for Stacks nodes.",
+          "title": "Stacks Monitoring",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-25T20:35:20Z",
+            "owner": "alexlmiller",
+            "repo": "stacks-monitoring",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Indexing and Querying APIs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning Resources"
+    },
+    {
+      "description": "We welcome community contributions to this list. Please read the contribution guidelines before contributing.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:29:40.137Z",
+    "original_repository": "friedger/awesome-stacks-chain",
+    "source_repository": "v1nvn/enhansome-stacks-chain",
+    "source_repository_description": null,
+    "title": "Awesome Stacks with stars"
+  }
+}

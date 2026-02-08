@@ -1,0 +1,438 @@
+{
+  "items": [
+    {
+      "description": "Here are some example projects using pest:",
+      "items": [
+        {
+          "children": [],
+          "description": "The pest itself is bootstrapped using pest.",
+          "title": "pest_meta",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-05T11:38:21Z",
+            "owner": "pest-parser",
+            "repo": "pest",
+            "stars": 5274
+          }
+        },
+        {
+          "children": [],
+          "description": "Rust Inpterpreter for Esopo language AshPaper conceived by William Hicks.",
+          "title": "AshPaper",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-03-20T22:57:39Z",
+            "owner": "shnewto",
+            "repo": "ashpaper",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "An old-school bash-like Unix shell written in Rust.",
+          "title": "cicada",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-05T18:58:40Z",
+            "owner": "mitnk",
+            "repo": "cicada",
+            "stars": 1002
+          }
+        },
+        {
+          "children": [],
+          "description": "Convert bool expressions to Elasticsearch DSL in Rust.",
+          "title": "elastic-rs",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-07-21T00:54:29Z",
+            "owner": "cch123",
+            "repo": "elastic-rs",
+            "stars": 52
+          }
+        },
+        {
+          "children": [],
+          "description": "Rust templating with Handlebars.",
+          "title": "handlebars-rust",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-06T13:42:18Z",
+            "owner": "sunng87",
+            "repo": "handlebars-rust",
+            "stars": 1451
+          }
+        },
+        {
+          "children": [],
+          "description": "A hex editor with vim like keybindings written in Rust.",
+          "title": "hexdino",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-21T22:56:15Z",
+            "owner": "Luz",
+            "repo": "hexdino",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "A snapshot testing library for rust.",
+          "title": "insta",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-05T02:01:12Z",
+            "owner": "mitsuhiko",
+            "repo": "insta",
+            "stars": 2739
+          }
+        },
+        {
+          "children": [],
+          "description": "A JSON Query Language CLI tool.",
+          "title": "jql",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-03T19:49:00Z",
+            "owner": "yamafaktory",
+            "repo": "jql",
+            "stars": 1651
+          }
+        },
+        {
+          "children": [],
+          "description": "A Rust JSON5 serializer and deserializer which speaks Serde.",
+          "title": "json5-rs",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-07T15:06:44Z",
+            "owner": "callum-oakley",
+            "repo": "json5-rs",
+            "stars": 223
+          }
+        },
+        {
+          "children": [],
+          "description": "A MT940 parser in Rust.",
+          "title": "mt940",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-21T23:54:57Z",
+            "owner": "svenstaro",
+            "repo": "mt940-rs",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "Rust crate for parsing/formatting Python literals.",
+          "title": "py_literal",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-04-07T03:07:46Z",
+            "owner": "jturner314",
+            "repo": "py_literal",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "An easy to use dice rolling library for Rust.",
+          "title": "rouler",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-01-27T21:09:04Z",
+            "owner": "jarcane",
+            "repo": "rouler",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "RuSh aims to be a bash compatible shell with candies, written in Rust.",
+          "title": "RuSh"
+        },
+        {
+          "children": [],
+          "description": "Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code.",
+          "title": "rs_pbrt",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-01-29T17:42:51Z",
+            "owner": "wahn",
+            "repo": "rs_pbrt",
+            "stars": 833
+          }
+        },
+        {
+          "children": [],
+          "description": "A Mustache template compiler.",
+          "title": "stache",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-08-31T02:11:10Z",
+            "owner": "dgraham",
+            "repo": "stache",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "A template engine for Rust based on Jinja2/Django.",
+          "title": "tera",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-11T15:03:50Z",
+            "owner": "Keats",
+            "repo": "tera",
+            "stars": 4117
+          }
+        },
+        {
+          "children": [],
+          "description": "A toolbox for zkSNARKs on Ethereum.",
+          "title": "ZoKrates",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-01T16:50:35Z",
+            "owner": "ZoKrates",
+            "repo": "ZoKrates",
+            "stars": 1881
+          }
+        },
+        {
+          "children": [],
+          "description": "A high-performance observability data pipeline.",
+          "title": "Vector",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-07T15:03:48Z",
+            "owner": "timberio",
+            "repo": "vector",
+            "stars": 21288
+          }
+        },
+        {
+          "children": [],
+          "description": "A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).",
+          "title": "AutoCorrect",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-05T18:59:07Z",
+            "owner": "huacnlee",
+            "repo": "autocorrect",
+            "stars": 1539
+          }
+        },
+        {
+          "children": [],
+          "description": "PEG parser for YAML written in Rust.",
+          "title": "yaml-peg",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-08-30T11:27:08Z",
+            "owner": "aofdev",
+            "repo": "yaml-peg",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "A handy calculator, based on Rust and WebAssembly.",
+          "title": "qubit",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-01-17T12:19:26Z",
+            "owner": "abhimanyu003",
+            "repo": "qubit",
+            "stars": 95
+          }
+        },
+        {
+          "children": [],
+          "description": "A dice roller crate.",
+          "title": "caith",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-03-10T20:03:51Z",
+            "owner": "Geobert",
+            "repo": "caith",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.",
+          "title": "Melody",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-11-24T19:14:44Z",
+            "owner": "yoav-lavi",
+            "repo": "melody",
+            "stars": 4744
+          }
+        },
+        {
+          "children": [],
+          "description": "A Plain Text Accounting parser built in Rust for , , and other PTA formats.",
+          "title": "PTA-Parser",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-06-10T04:51:14Z",
+            "owner": "AltaModaTech",
+            "repo": "pta-parser",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Open Source, serverless IDE to code with C4-PlantUML and organize at a scale C4 model diagrams.",
+          "title": "Keadex Mina",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T22:43:38Z",
+            "owner": "keadex",
+            "repo": "keadex",
+            "stars": 194
+          }
+        },
+        {
+          "children": [],
+          "description": "Generate  and/or  for  Liquid (hash-tags  or ) for use in consuming crates",
+          "title": "Liquid Grammar",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-06-24T23:33:57Z",
+            "owner": "rust-utilities",
+            "repo": "liquid-grammar-pest",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Converts WordStar documents into Markdown files.",
+          "title": "ws2markdown"
+        },
+        {
+          "children": [],
+          "description": "TypeDB's query language, written in Pest",
+          "title": "TypeQL Rust",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-04T14:02:18Z",
+            "owner": "typedb",
+            "repo": "typeql",
+            "stars": 242
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tooling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A main repository with LSP server and VSCode extension.",
+          "title": "pest IDE tools",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-03T19:37:35Z",
+            "owner": "pest-parser",
+            "repo": "pest-ide-tools",
+            "stars": 64
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "VSCode Extension"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "IntelliJ IDEA Plugin"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "pest.vim",
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-04-25T12:25:58Z",
+            "owner": "pest-parser",
+            "repo": "pest.vim",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "It can help to format\npest grammars.",
+          "title": "pest-fmt",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-08T01:22:57Z",
+            "owner": "pest-parser",
+            "repo": "pest-fmt",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "Try it .",
+          "title": "pest web debugger",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-06-23T06:25:41Z",
+            "owner": "tomtau",
+            "repo": "pest-web-debug",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "IDE Support"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:32:34.355Z",
+    "original_repository": "pest-parser/awesome-pest",
+    "source_repository": "v1nvn/enhansome-pest",
+    "source_repository_description": null,
+    "title": "Awesome Pest. The Elegant Parser with stars"
+  }
+}

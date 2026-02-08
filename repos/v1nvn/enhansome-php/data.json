@@ -1,0 +1,6066 @@
+{
+  "items": [
+    {
+      "description": "Please see CONTRIBUTING, CODE-OF-CONDUCT and COLLABORATING for details.",
+      "items": [],
+      "title": "Contributing and Collaborating"
+    },
+    {
+      "description": "Libraries for dependency and package management.",
+      "items": [
+        {
+          "children": [],
+          "description": "A  multi-framework Composer library installer.",
+          "title": "Composer Installers",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-01T11:07:40Z",
+            "owner": "composer",
+            "repo": "installers",
+            "stars": 1438
+          }
+        },
+        {
+          "children": [],
+          "description": "A package and dependency manager.",
+          "title": "Composer"
+        },
+        {
+          "children": [],
+          "description": "The official PHP installer for extensions.",
+          "title": "Pie",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-05T17:02:12Z",
+            "owner": "php",
+            "repo": "pie",
+            "stars": 1721
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHAR manager.",
+          "title": "Phive"
+        },
+        {
+          "children": [],
+          "description": "A PHP extension installer.",
+          "title": "Pickle",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-09-29T20:54:12Z",
+            "owner": "FriendsOfPHP",
+            "repo": "pickle",
+            "stars": 1655
+          }
+        }
+      ],
+      "title": "Dependency Management"
+    },
+    {
+      "description": "Extras related to dependency management.",
+      "items": [
+        {
+          "children": [],
+          "description": "A library to parse your project's Composer environment at runtime.",
+          "title": "Composed",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-11-14T12:20:32Z",
+            "owner": "joshdifabio",
+            "repo": "composed",
+            "stars": 52
+          }
+        },
+        {
+          "children": [],
+          "description": "A composer plugin to merge several  files.",
+          "title": "Composer Merge Plugin",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-23T15:23:18Z",
+            "owner": "wikimedia",
+            "repo": "composer-merge-plugin",
+            "stars": 991
+          }
+        },
+        {
+          "children": [],
+          "description": "A plugin for normalizing  files.",
+          "title": "Composer Normalize",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-03T03:26:07Z",
+            "owner": "ergebnis",
+            "repo": "composer-normalize",
+            "stars": 1104
+          }
+        },
+        {
+          "children": [],
+          "description": "A plugin for Composer to apply patches.",
+          "title": "Composer Patches",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-30T01:42:34Z",
+            "owner": "cweagans",
+            "repo": "composer-patches",
+            "stars": 1676
+          }
+        },
+        {
+          "children": [],
+          "description": "A plugin to check if minimum dependencies can be installed and tested.",
+          "title": "Composer Prefer Lowest Validator",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-22T21:30:49Z",
+            "owner": "dereuromark",
+            "repo": "composer-prefer-lowest",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.",
+          "title": "Composer Require Checker",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-08T01:59:11Z",
+            "owner": "maglnet",
+            "repo": "ComposerRequireChecker",
+            "stars": 981
+          }
+        },
+        {
+          "children": [],
+          "description": "A CLI Tool to scan for unused composer packages.",
+          "title": "Composer Unused",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T06:52:54Z",
+            "owner": "composer-unused",
+            "repo": "composer-unused",
+            "stars": 1648
+          }
+        },
+        {
+          "children": [],
+          "description": "A private PHP package repository manager and Packagist proxy.",
+          "title": "Repman"
+        },
+        {
+          "children": [],
+          "description": "A static Composer repository generator.",
+          "title": "Satis",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-26T13:07:58Z",
+            "owner": "composer",
+            "repo": "satis",
+            "stars": 3249
+          }
+        },
+        {
+          "children": [],
+          "description": "A library to manage PHAR files in a project using Composer.",
+          "title": "Tooly",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-01-10T13:42:25Z",
+            "owner": "tommy-muehle",
+            "repo": "tooly-composer-script",
+            "stars": 103
+          }
+        },
+        {
+          "children": [],
+          "description": "A Composer proxy for speed and reliability. (:warning: Toran Proxy is being phased out.)",
+          "title": "Toran Proxy"
+        }
+      ],
+      "title": "Dependency Management Extras"
+    },
+    {
+      "description": "Extras related to web development frameworks.",
+      "items": [
+        {
+          "children": [],
+          "description": "A Rapid Application Development (RAD) plugin for CakePHP.",
+          "title": "CakePHP CRUD",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-13T01:54:52Z",
+            "owner": "friendsofcake",
+            "repo": "crud",
+            "stars": 376
+          }
+        },
+        {
+          "children": [],
+          "description": "A powerful open source UI framework for Laravel.",
+          "title": "Filament PHP"
+        },
+        {
+          "children": [],
+          "description": "An out-of-the-box adapter between Laravel/Lumen and Swoole.",
+          "title": "LaravelS",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-19T12:49:13Z",
+            "owner": "hhxsv5",
+            "repo": "laravel-s",
+            "stars": 3886
+          }
+        },
+        {
+          "children": [],
+          "description": "Powerful, dynamic, front-end UIs without leaving PHP.",
+          "title": "Livewire"
+        }
+      ],
+      "title": "Framework Extras"
+    },
+    {
+      "description": "Tools for managing digital content.",
+      "items": [
+        {
+          "children": [],
+          "description": "A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal).",
+          "title": "Backdrop"
+        },
+        {
+          "children": [],
+          "description": "A CMS targeting users with a minimum of technical skills.",
+          "title": "Concrete5"
+        },
+        {
+          "children": [],
+          "description": "A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.",
+          "title": "CraftCMS",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T23:33:15Z",
+            "owner": "craftcms",
+            "repo": "cms",
+            "stars": 3529
+          }
+        },
+        {
+          "children": [],
+          "description": "An enterprise level CMS.",
+          "title": "Drupal"
+        },
+        {
+          "children": [],
+          "description": "A modern flat-file CMS.",
+          "title": "Grav",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-05T19:17:37Z",
+            "owner": "getgrav",
+            "repo": "grav",
+            "stars": 15382
+          }
+        },
+        {
+          "children": [],
+          "description": "Another leading CMS.",
+          "title": "Joomla"
+        },
+        {
+          "children": [],
+          "description": "A flat-file CMS that adapts to any project.",
+          "title": "Kirby"
+        },
+        {
+          "children": [],
+          "description": "The most popular e-commerce platform.",
+          "title": "Magento",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T14:43:39Z",
+            "owner": "magento",
+            "repo": "magento2",
+            "stars": 12040
+          }
+        },
+        {
+          "children": [],
+          "description": "An open-source learning platform.",
+          "title": "Moodle"
+        },
+        {
+          "children": [],
+          "description": "Fork of EoL Magento 1 e-commerce platform.",
+          "title": "OpenMage",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-02T21:11:07Z",
+            "owner": "OpenMage",
+            "repo": "magento-lts",
+            "stars": 916
+          }
+        },
+        {
+          "children": [],
+          "description": "A stupidly simple, blazing fast, flat file CMS.",
+          "title": "Pico CMS"
+        },
+        {
+          "children": [],
+          "description": "Build beautiful, easy-to-manage websites.",
+          "title": "Statamic"
+        },
+        {
+          "children": [],
+          "description": "A user and developer friendly focused CMS and Platform based on the Symfony Framework.",
+          "title": "Sulu"
+        },
+        {
+          "children": [],
+          "description": "An enterprise level CMS.",
+          "title": "TYPO3"
+        },
+        {
+          "children": [],
+          "description": "A blogging platform and CMS.",
+          "title": "WordPress",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-08T01:12:08Z",
+            "owner": "WordPress",
+            "repo": "WordPress",
+            "stars": 20871
+          }
+        }
+      ],
+      "title": "Content Management Systems (CMS)"
+    },
+    {
+      "description": "Micro frameworks and routers.",
+      "items": [
+        {
+          "children": [],
+          "description": "A micro-framework for console applications.",
+          "title": "Laravel Zero"
+        },
+        {
+          "children": [],
+          "description": "A micro-framework by Laminas.",
+          "title": "Mezzio"
+        },
+        {
+          "children": [],
+          "description": "Minimalist, dependency-free framework for building CLI-centric PHP applications.",
+          "title": "Minicli",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-22T10:30:46Z",
+            "owner": "minicli",
+            "repo": "minicli",
+            "stars": 1073
+          }
+        },
+        {
+          "children": [],
+          "description": "A micro-framework for CLI applications.",
+          "title": "Silly",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-10-30T12:32:35Z",
+            "owner": "mnapoli",
+            "repo": "silly",
+            "stars": 930
+          }
+        },
+        {
+          "children": [],
+          "description": "Another simple micro framework.",
+          "title": "Slim"
+        }
+      ],
+      "title": "Micro Frameworks"
+    },
+    {
+      "description": "Extras related to micro frameworks and routers.",
+      "items": [
+        {
+          "children": [],
+          "description": "A skeleton for Slim.",
+          "title": "Slim Skeleton",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-01T16:53:23Z",
+            "owner": "slimphp",
+            "repo": "Slim-Skeleton",
+            "stars": 1621
+          }
+        },
+        {
+          "children": [],
+          "description": "Integrate Twig into Slim.",
+          "title": "Slim Twig View",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2022-02-10T05:03:21Z",
+            "owner": "slimphp",
+            "repo": "Slim-Views",
+            "stars": 304
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple PHP renderer for Slim.",
+          "title": "Slim PHP View",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-04T20:54:08Z",
+            "owner": "slimphp",
+            "repo": "PHP-View",
+            "stars": 273
+          }
+        }
+      ],
+      "title": "Micro Framework Extras"
+    },
+    {
+      "description": "Libraries for handling application routing.",
+      "items": [
+        {
+          "children": [],
+          "description": "A full-featured routing library.",
+          "title": "Aura.Router",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-05-02T04:24:08Z",
+            "owner": "auraphp",
+            "repo": "Aura.Router",
+            "stars": 502
+          }
+        },
+        {
+          "children": [],
+          "description": "A fast routing library.",
+          "title": "Fast Route",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-06-18T20:36:20Z",
+            "owner": "nikic",
+            "repo": "FastRoute",
+            "stars": 5260
+          }
+        },
+        {
+          "children": [],
+          "description": "A flexible router.",
+          "title": "Klein",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-01-30T11:16:48Z",
+            "owner": "klein",
+            "repo": "klein.php",
+            "stars": 2659
+          }
+        },
+        {
+          "children": [],
+          "description": "Another fast routing library.",
+          "title": "Pux",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-03-28T09:46:00Z",
+            "owner": "c9s",
+            "repo": "Pux",
+            "stars": 1265
+          }
+        },
+        {
+          "children": [],
+          "description": "A routing library built on top of Fast Route.",
+          "title": "Route",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-27T10:03:29Z",
+            "owner": "thephpleague",
+            "repo": "route",
+            "stars": 663
+          }
+        }
+      ],
+      "title": "Routers"
+    },
+    {
+      "description": "Libraries and tools for templating and lexing.",
+      "items": [
+        {
+          "children": [],
+          "description": "The safest and truly intuitive templates for PHP.",
+          "title": "Latte"
+        },
+        {
+          "children": [],
+          "description": "A PHP implementation of the HAML template language.",
+          "title": "MtHaml",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-10-23T09:03:16Z",
+            "owner": "arnaud-lb",
+            "repo": "MtHaml",
+            "stars": 359
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP implementation of the Mustache template language.",
+          "title": "Mustache",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-06-28T18:37:45Z",
+            "owner": "bobthecow",
+            "repo": "mustache.php",
+            "stars": 3276
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP implementation of the  templating language.",
+          "title": "PHPTAL"
+        },
+        {
+          "children": [],
+          "description": "A native PHP templating library.",
+          "title": "Plates"
+        },
+        {
+          "children": [],
+          "description": "A template engine to complement PHP.",
+          "title": "Smarty"
+        },
+        {
+          "children": [],
+          "description": "A comprehensive templating language.",
+          "title": "Twig"
+        }
+      ],
+      "title": "Templating"
+    },
+    {
+      "description": "Libraries for working with HTTP.",
+      "items": [
+        {
+          "children": [],
+          "description": "Another HTTP client.",
+          "title": "Buzz",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-07-07T07:38:25Z",
+            "owner": "kriswallsmith",
+            "repo": "Buzz",
+            "stars": 1925
+          }
+        },
+        {
+          "children": [],
+          "description": "A comprehensive HTTP client.",
+          "title": "Guzzle",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-08-23T22:37:29Z",
+            "owner": "guzzle",
+            "repo": "guzzle",
+            "stars": 23453
+          }
+        },
+        {
+          "children": [],
+          "description": "An HTTP client abstraction without binding to a specific implementation.",
+          "title": "HTTPlug"
+        },
+        {
+          "children": [],
+          "description": "A super lightweight PSR-7 implementation. Very strict and very fast.",
+          "title": "Nyholm PSR-7",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-28T13:47:42Z",
+            "owner": "Nyholm",
+            "repo": "psr7",
+            "stars": 1263
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for recording and replaying HTTP requests.",
+          "title": "PHP VCR"
+        },
+        {
+          "children": [],
+          "description": "A simple HTTP library.",
+          "title": "Requests",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-02T08:57:01Z",
+            "owner": "WordPress",
+            "repo": "Requests",
+            "stars": 3583
+          }
+        },
+        {
+          "children": [],
+          "description": "A library to ease creation of REST API clients.",
+          "title": "Retrofit",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-07-12T12:07:09Z",
+            "owner": "tebru",
+            "repo": "retrofit-php",
+            "stars": 156
+          }
+        },
+        {
+          "children": [],
+          "description": "A component to fetch HTTP resources synchronously or asynchronously.",
+          "title": "Symfony HTTP Client",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-05T16:09:40Z",
+            "owner": "symfony",
+            "repo": "http-client",
+            "stars": 2028
+          }
+        },
+        {
+          "children": [],
+          "description": "PSR-7 HTTP Message implementation.",
+          "title": "Laminas Diactoros",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T10:14:05Z",
+            "owner": "laminas",
+            "repo": "laminas-diactoros",
+            "stars": 537
+          }
+        }
+      ],
+      "title": "HTTP"
+    },
+    {
+      "description": "Libraries for scraping websites and detecting crawlers.",
+      "items": [
+        {
+          "children": [],
+          "description": "Instrument headless Chrome/Chromium instances from PHP.",
+          "title": "Chrome PHP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-27T12:24:14Z",
+            "owner": "chrome-php",
+            "repo": "chrome",
+            "stars": 2608
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP class for detecting bots/crawlers/spiders via the user agent.",
+          "title": "CrawlerDetect",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-02T19:24:59Z",
+            "owner": "JayBizzle",
+            "repo": "Crawler-Detect",
+            "stars": 2324
+          }
+        },
+        {
+          "children": [],
+          "description": "A super-fast HTML scrapper and parser.",
+          "title": "DiDOM",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-28T00:23:34Z",
+            "owner": "Imangazaliev",
+            "repo": "DiDOM",
+            "stars": 2207
+          }
+        },
+        {
+          "children": [],
+          "description": "An information extractor from any web service or page.",
+          "title": "Embed",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-21T14:41:54Z",
+            "owner": "php-embed",
+            "repo": "Embed",
+            "stars": 2141
+          }
+        },
+        {
+          "children": [],
+          "description": "A configurable and extensible PHP web spider.",
+          "title": "PHP Spider",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-01T14:09:30Z",
+            "owner": "mvdbos",
+            "repo": "php-spider",
+            "stars": 1344
+          }
+        },
+        {
+          "children": [],
+          "description": "A browser testing and web crawling library for PHP and Symfony.",
+          "title": "Symfony Panther",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-08T08:17:17Z",
+            "owner": "symfony",
+            "repo": "panther",
+            "stars": 3060
+          }
+        }
+      ],
+      "title": "Scraping"
+    },
+    {
+      "description": "Libraries for building application using middlewares.",
+      "items": [
+        {
+          "children": [],
+          "description": "Inspiring collection of handy middlewares.",
+          "title": "PSR-15 Middlewares",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-05T06:48:58Z",
+            "owner": "middlewares",
+            "repo": "psr15-middlewares",
+            "stars": 413
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP 5.5 PSR-7 middleware dispatcher.",
+          "title": "Relay",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-10-22T19:54:05Z",
+            "owner": "relayphp",
+            "repo": "Relay.Relay",
+            "stars": 328
+          }
+        },
+        {
+          "children": [],
+          "description": "A library of stackable middleware for Symfony.",
+          "title": "Stack"
+        },
+        {
+          "children": [],
+          "description": "Middleware for PHP built on top of PSR-7.",
+          "title": "Laminas Stratigility",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T10:04:37Z",
+            "owner": "laminas",
+            "repo": "laminas-stratigility",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "Middlewares"
+    },
+    {
+      "description": "Libraries for parsing URLs.",
+      "items": [
+        {
+          "children": [],
+          "description": "A domain suffix parser library.",
+          "title": "PHP Domain Parser",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-30T19:30:29Z",
+            "owner": "jeremykendall",
+            "repo": "php-domain-parser",
+            "stars": 1224
+          }
+        },
+        {
+          "children": [],
+          "description": "A URL manipulation library.",
+          "title": "Purl",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-12-30T14:47:04Z",
+            "owner": "jwage",
+            "repo": "purl",
+            "stars": 904
+          }
+        },
+        {
+          "children": [],
+          "description": "A functional URI manipulation library.",
+          "title": "sabre/uri",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-14T03:15:17Z",
+            "owner": "sabre-io",
+            "repo": "uri",
+            "stars": 294
+          }
+        },
+        {
+          "children": [],
+          "description": "Another URL manipulation library.",
+          "title": "Uri",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-20T12:13:12Z",
+            "owner": "thephpleague",
+            "repo": "uri",
+            "stars": 1116
+          }
+        }
+      ],
+      "title": "URL"
+    },
+    {
+      "description": "Libraries for sending and parsing email.",
+      "items": [
+        {
+          "children": [],
+          "description": "A library to inline CSS in email templates.",
+          "title": "CssToInlineStyles",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-06T09:50:28Z",
+            "owner": "tijsverkoyen",
+            "repo": "CssToInlineStyles",
+            "stars": 5840
+          }
+        },
+        {
+          "children": [],
+          "description": "An email reply parser library.",
+          "title": "Email Reply Parser",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-09-20T11:05:55Z",
+            "owner": "willdurand",
+            "repo": "EmailReplyParser",
+            "stars": 648
+          }
+        },
+        {
+          "children": [],
+          "description": "A small email address validation library.",
+          "title": "Email Validator",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2018-07-21T12:53:48Z",
+            "owner": "nojacko",
+            "repo": "email-validator",
+            "stars": 164
+          }
+        },
+        {
+          "children": [],
+          "description": "An IMAP library.",
+          "title": "Fetch",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-01-11T18:25:13Z",
+            "owner": "tedious",
+            "repo": "Fetch",
+            "stars": 505
+          }
+        },
+        {
+          "children": [],
+          "description": "Email marketing automation",
+          "title": "Mautic",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T16:31:20Z",
+            "owner": "mautic",
+            "repo": "mautic",
+            "stars": 9178
+          }
+        },
+        {
+          "children": [],
+          "description": "Another mailer solution.",
+          "title": "PHPMailer",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-05T22:20:02Z",
+            "owner": "PHPMailer",
+            "repo": "PHPMailer",
+            "stars": 22001
+          }
+        },
+        {
+          "children": [],
+          "description": "A library to access mailboxes via POP3, IMAP and NNTP.",
+          "title": "PHP IMAP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-25T07:07:43Z",
+            "owner": "barbushin",
+            "repo": "php-imap",
+            "stars": 1696
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for email services such as , ,  and .",
+          "title": "Stampie",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-06-27T14:00:24Z",
+            "owner": "Stampie",
+            "repo": "Stampie",
+            "stars": 294
+          }
+        },
+        {
+          "children": [],
+          "description": "A mailer solution.",
+          "title": "SwiftMailer"
+        },
+        {
+          "children": [],
+          "description": "A powerful library for creating and sending emails.",
+          "title": "Symfony Mailer",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-25T08:24:47Z",
+            "owner": "symfony",
+            "repo": "mailer",
+            "stars": 1589
+          }
+        }
+      ],
+      "title": "Email"
+    },
+    {
+      "description": "Libraries for file manipulation and MIME type detection.",
+      "items": [
+        {
+          "children": [],
+          "description": "A CSV data manipulation library.",
+          "title": "CSV",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-05T07:33:51Z",
+            "owner": "thephpleague",
+            "repo": "csv",
+            "stars": 3464
+          }
+        },
+        {
+          "children": [],
+          "description": "Abstraction for local and remote filesystems.",
+          "title": "Flysystem",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-23T15:46:52Z",
+            "owner": "thephpleague",
+            "repo": "Flysystem",
+            "stars": 13557
+          }
+        },
+        {
+          "children": [],
+          "description": "A filesystem abstraction layer.",
+          "title": "Gaufrette",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-09-25T14:30:56Z",
+            "owner": "KnpLabs",
+            "repo": "Gaufrette",
+            "stars": 2475
+          }
+        },
+        {
+          "children": [],
+          "description": "A wrapper for the  video library.",
+          "title": "PHP FFmpeg",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-19T21:16:04Z",
+            "owner": "PHP-FFmpeg",
+            "repo": "PHP-FFmpeg",
+            "stars": 5002
+          }
+        },
+        {
+          "children": [],
+          "description": "A unified reader and writer of compressed archives.",
+          "title": "UnifiedArchive",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-08-25T20:26:55Z",
+            "owner": "wapmorgan",
+            "repo": "UnifiedArchive",
+            "stars": 279
+          }
+        },
+        {
+          "children": [],
+          "description": "PHP implementation of Parquet file format",
+          "title": "Parquet",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-04T21:47:31Z",
+            "owner": "flow-php",
+            "repo": "parquet",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Files"
+    },
+    {
+      "description": "Libraries that implement the dependency injection design pattern.",
+      "items": [
+        {
+          "children": [],
+          "description": "A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.",
+          "title": "Aura.Di",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-09-17T20:35:55Z",
+            "owner": "auraphp",
+            "repo": "Aura.Di",
+            "stars": 353
+          }
+        },
+        {
+          "children": [],
+          "description": "A common interface to dependency injection containers and service locators.",
+          "title": "Acclimate",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-08-18T15:39:14Z",
+            "owner": "AcclimateContainer",
+            "repo": "acclimate-container",
+            "stars": 219
+          }
+        },
+        {
+          "children": [],
+          "description": "A recursive dependency injector.",
+          "title": "Auryn",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-02T21:52:12Z",
+            "owner": "rdlowrey",
+            "repo": "Auryn",
+            "stars": 726
+          }
+        },
+        {
+          "children": [],
+          "description": "Another flexible dependency injection container.",
+          "title": "Container",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-06-12T19:27:23Z",
+            "owner": "thephpleague",
+            "repo": "container",
+            "stars": 862
+          }
+        },
+        {
+          "children": [],
+          "description": "A PSR-11 compatible, annotation-based dependency injection container.",
+          "title": "Disco",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-27T22:50:46Z",
+            "owner": "bitExpert",
+            "repo": "disco",
+            "stars": 139
+          }
+        },
+        {
+          "children": [],
+          "description": "A dependency injection container that supports autowiring.",
+          "title": "PHP-DI"
+        },
+        {
+          "children": [],
+          "description": "A tiny dependency injection container.",
+          "title": "Pimple",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-08T17:16:10Z",
+            "owner": "silexphp",
+            "repo": "Pimple",
+            "stars": 2667
+          }
+        },
+        {
+          "children": [],
+          "description": "A dependency injection container component.",
+          "title": "Symfony DI",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-05T16:09:40Z",
+            "owner": "symfony",
+            "repo": "dependency-injection",
+            "stars": 4171
+          }
+        }
+      ],
+      "title": "Dependency Injection"
+    },
+    {
+      "description": "Libraries for manipulating images.",
+      "items": [
+        {
+          "children": [],
+          "description": "A library for extracting colours from images.",
+          "title": "Color Extractor",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-11-02T19:34:55Z",
+            "owner": "thephpleague",
+            "repo": "color-extractor",
+            "stars": 1317
+          }
+        },
+        {
+          "children": [],
+          "description": "An on-demand image manipulation library.",
+          "title": "Glide",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-10T13:23:50Z",
+            "owner": "thephpleague",
+            "repo": "glide",
+            "stars": 2630
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for generating perceptual image hashes.",
+          "title": "Image Hash",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-09-17T09:16:37Z",
+            "owner": "jenssegers",
+            "repo": "imagehash",
+            "stars": 2042
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for optimizing images.",
+          "title": "Image Optimizer",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-11-20T12:10:29Z",
+            "owner": "psliwa",
+            "repo": "image-optimizer",
+            "stars": 913
+          }
+        },
+        {
+          "children": [],
+          "description": "An image manipulation library.",
+          "title": "Imagine"
+        },
+        {
+          "children": [],
+          "description": "Another image manipulation library.",
+          "title": "Intervention Image",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T09:23:32Z",
+            "owner": "Intervention",
+            "repo": "image",
+            "stars": 14318
+          }
+        },
+        {
+          "children": [],
+          "description": "Another image manipulation library.",
+          "title": "PHP Image Workshop",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-06-13T19:13:27Z",
+            "owner": "Sybio",
+            "repo": "ImageWorkshop",
+            "stars": 859
+          }
+        },
+        {
+          "children": [],
+          "description": "QR Code generator and reader.",
+          "title": "PHP QR Code",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-24T13:05:54Z",
+            "owner": "chillerlan",
+            "repo": "php-qrcode",
+            "stars": 2311
+          }
+        }
+      ],
+      "title": "Imagery"
+    },
+    {
+      "description": "Libraries for testing codebases and generating test data.",
+      "items": [
+        {
+          "children": [],
+          "description": "An expressive fixture generation library.",
+          "title": "Alice",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-03T09:14:54Z",
+            "owner": "nelmio",
+            "repo": "alice",
+            "stars": 2540
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple testing library.",
+          "title": "Atoum",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-30T07:44:56Z",
+            "owner": "atoum",
+            "repo": "atoum",
+            "stars": 1445
+          }
+        },
+        {
+          "children": [],
+          "description": "A behaviour driven development (BDD) testing framework.",
+          "title": "Behat"
+        },
+        {
+          "children": [],
+          "description": "A full stack testing framework.",
+          "title": "Codeception",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-14T12:07:18Z",
+            "owner": "Codeception",
+            "repo": "Codeception",
+            "stars": 4854
+          }
+        },
+        {
+          "children": [],
+          "description": "A fake data generator library.",
+          "title": "Faker",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-04T12:55:53Z",
+            "owner": "fakerphp",
+            "repo": "faker",
+            "stars": 3929
+          }
+        },
+        {
+          "children": [],
+          "description": "A fixture factory generation library for Doctrine.",
+          "title": "Foundry",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T20:43:10Z",
+            "owner": "zenstruck",
+            "repo": "foundry",
+            "stars": 771
+          }
+        },
+        {
+          "children": [],
+          "description": "An AST-based PHP Mutation testing framework.",
+          "title": "Infection",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T13:17:47Z",
+            "owner": "infection",
+            "repo": "infection",
+            "stars": 2167
+          }
+        },
+        {
+          "children": [],
+          "description": "Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.",
+          "title": "Kahlan",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-23T20:42:02Z",
+            "owner": "kahlan",
+            "repo": "kahlan",
+            "stars": 1148
+          }
+        },
+        {
+          "children": [],
+          "description": "Web acceptance testing.",
+          "title": "Mink"
+        },
+        {
+          "children": [],
+          "description": "A mock object library for testing.",
+          "title": "Mockery",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-28T16:24:02Z",
+            "owner": "mockery",
+            "repo": "mockery",
+            "stars": 10734
+          }
+        },
+        {
+          "children": [],
+          "description": "A productive and enjoyable parallel unit testing framework.",
+          "title": "Nette Tester",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-22T23:26:22Z",
+            "owner": "nette",
+            "repo": "tester",
+            "stars": 481
+          }
+        },
+        {
+          "children": [],
+          "description": "A parallel testing library for PHPUnit.",
+          "title": "ParaTest",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T10:54:43Z",
+            "owner": "paratestphp",
+            "repo": "paratest",
+            "stars": 2444
+          }
+        },
+        {
+          "children": [],
+          "description": "A testing framework with a focus on simplicity.",
+          "title": "Pest"
+        },
+        {
+          "children": [],
+          "description": "Another mock object library for testing.",
+          "title": "Phake",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-25T16:14:28Z",
+            "owner": "phake",
+            "repo": "phake",
+            "stars": 475
+          }
+        },
+        {
+          "children": [],
+          "description": "A mock library for built-in PHP functions (e.g. time()).",
+          "title": "PHP-Mock",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T07:40:23Z",
+            "owner": "php-mock",
+            "repo": "php-mock",
+            "stars": 369
+          }
+        },
+        {
+          "children": [],
+          "description": "A MySQL engine written in pure PHP.",
+          "title": "PHP MySQL Engine",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-09-25T17:59:15Z",
+            "owner": "vimeo",
+            "repo": "php-mysql-engine",
+            "stars": 560
+          }
+        },
+        {
+          "children": [],
+          "description": "A design by specification unit testing library.",
+          "title": "PHPSpec",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-24T07:04:52Z",
+            "owner": "phpspec",
+            "repo": "phpspec",
+            "stars": 1900
+          }
+        },
+        {
+          "children": [],
+          "description": "A test tool used by PHP itself.",
+          "title": "PHPT"
+        },
+        {
+          "children": [],
+          "description": "A unit testing framework.",
+          "title": "PHPUnit",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T09:09:05Z",
+            "owner": "sebastianbergmann",
+            "repo": "phpunit",
+            "stars": 19994
+          }
+        },
+        {
+          "children": [],
+          "description": "Simplifies running PHPUnit tests on multiple PHPUnit versions.",
+          "title": "PHPUnit Polyfills",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-05T22:50:57Z",
+            "owner": "Yoast",
+            "repo": "PHPUnit-Polyfills",
+            "stars": 183
+          }
+        },
+        {
+          "children": [],
+          "description": "A highly opinionated mocking framework.",
+          "title": "Prophecy",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-21T13:11:47Z",
+            "owner": "phpspec",
+            "repo": "prophecy",
+            "stars": 8503
+          }
+        },
+        {
+          "children": [],
+          "description": "A virtual filesystem stream wrapper for testing.",
+          "title": "VFS Stream",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-08-29T18:46:22Z",
+            "owner": "bovigo",
+            "repo": "vfsStream",
+            "stars": 1440
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "Libraries and applications for continuous integration.",
+      "items": [
+        {
+          "children": [],
+          "description": "A continuous integration platform.",
+          "title": "CircleCI"
+        },
+        {
+          "children": [],
+          "description": "Let GitLab CI test, build, deploy your code. TravisCi like.",
+          "title": "GitlabCi"
+        },
+        {
+          "children": [],
+          "description": "A continuous integration platform with .",
+          "title": "Jenkins"
+        },
+        {
+          "children": [],
+          "description": "A continuous integration client written in PHP and powered by Docker.",
+          "title": "JoliCi",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2016-11-18T14:40:04Z",
+            "owner": "jolicode",
+            "repo": "JoliCi",
+            "stars": 651
+          }
+        },
+        {
+          "children": [],
+          "description": "An open-source continuous integration platform for PHP.",
+          "title": "PHPCI",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2020-06-11T11:45:13Z",
+            "owner": "dancryer",
+            "repo": "phpci",
+            "stars": 2406
+          }
+        },
+        {
+          "children": [],
+          "description": "A continuous integration platform for open-source and private projects.",
+          "title": "SemaphoreCI"
+        },
+        {
+          "children": [],
+          "description": "A continuous integration platform.",
+          "title": "Travis CI"
+        },
+        {
+          "children": [],
+          "description": "A GitHub Action for PHP.",
+          "title": "Setup PHP",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T03:43:17Z",
+            "owner": "shivammathur",
+            "repo": "setup-php",
+            "stars": 3177
+          }
+        }
+      ],
+      "title": "Continuous Integration"
+    },
+    {
+      "description": "Libraries for generating project documentation.",
+      "items": [
+        {
+          "children": [],
+          "description": "Another API documentation generator.",
+          "title": "APIGen",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-21T14:28:13Z",
+            "owner": "apigen",
+            "repo": "apigen",
+            "stars": 2167
+          }
+        },
+        {
+          "children": [],
+          "description": "A documentation generator that uses Markdown files.",
+          "title": "daux.io",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T10:01:12Z",
+            "owner": "dauxio",
+            "repo": "daux.io",
+            "stars": 824
+          }
+        },
+        {
+          "children": [],
+          "description": "A documentation generator.",
+          "title": "phpDocumentor"
+        },
+        {
+          "children": [],
+          "description": "A documentation generator for PHP projects (that is not limited to API documentation).",
+          "title": "phpDox"
+        },
+        {
+          "children": [],
+          "description": "Generate OpenAPI documentation for your RESTful API.",
+          "title": "zircote/swagger-php",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-04T23:41:51Z",
+            "owner": "zircote",
+            "repo": "swagger-php",
+            "stars": 5287
+          }
+        }
+      ],
+      "title": "Documentation"
+    },
+    {
+      "description": "Libraries for generating secure random numbers, encrypting data and scanning and testing for vulnerabilities.",
+      "items": [
+        {
+          "children": [],
+          "description": "A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.",
+          "title": "AntiXSS",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T05:07:31Z",
+            "owner": "voku",
+            "repo": "anti-xss",
+            "stars": 704
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple library for encryption using .",
+          "title": "Halite",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-05T20:42:58Z",
+            "owner": "jedisct1",
+            "repo": "libsodium",
+            "stars": 13437
+          }
+        },
+        {
+          "children": [],
+          "description": "Id obfuscation based on Knuth's multiplicative hashing method.",
+          "title": "Optimus",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-27T22:24:53Z",
+            "owner": "jenssegers",
+            "repo": "optimus",
+            "stars": 1276
+          }
+        },
+        {
+          "children": [],
+          "description": "Explore the world of cyber security.",
+          "title": "OWASP"
+        },
+        {
+          "children": [],
+          "description": "A library of PHP unserializable payloads along with a tool to generate them.",
+          "title": "PHPGGC",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-09-29T14:51:06Z",
+            "owner": "ambionics",
+            "repo": "phpggc",
+            "stars": 3731
+          }
+        },
+        {
+          "children": [],
+          "description": "Secure PHP Encryption Library.",
+          "title": "PHP Encryption",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-01-02T15:04:49Z",
+            "owner": "defuse",
+            "repo": "php-encryption",
+            "stars": 3870
+          }
+        },
+        {
+          "children": [],
+          "description": "A pure PHP secure communications library.",
+          "title": "PHPSecLib"
+        },
+        {
+          "children": [],
+          "description": "PHP 5.x support for  and",
+          "title": "random_compat",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-09-10T09:24:43Z",
+            "owner": "paragonie",
+            "repo": "random_compat",
+            "stars": 8175
+          }
+        },
+        {
+          "children": [],
+          "description": "This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.",
+          "title": "Roave Security Advisories",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-05T22:08:30Z",
+            "owner": "Roave",
+            "repo": "SecurityAdvisories",
+            "stars": 2870
+          }
+        },
+        {
+          "children": [],
+          "description": "A package that adds security related headers to HTTP response.",
+          "title": "Secure Headers",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-24T23:47:33Z",
+            "owner": "BePsvPT",
+            "repo": "secure-headers",
+            "stars": 547
+          }
+        },
+        {
+          "children": [],
+          "description": "An automatic SQL injection and database takeover tool.",
+          "title": "SQLMap",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T11:07:16Z",
+            "owner": "sqlmapproject",
+            "repo": "sqlmap",
+            "stars": 36533
+          }
+        },
+        {
+          "children": [],
+          "description": "An integrated penetration testing tool for web applications.",
+          "title": "Zap",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T04:48:15Z",
+            "owner": "zaproxy",
+            "repo": "zaproxy",
+            "stars": 14717
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "Libraries and tools for working with and storing passwords.",
+      "items": [
+        {
+          "children": [],
+          "description": "A library for generating secure random passphrases.",
+          "title": "GenPhrase",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-17T10:07:25Z",
+            "owner": "timoh6",
+            "repo": "GenPhrase",
+            "stars": 118
+          }
+        },
+        {
+          "children": [],
+          "description": "A compatibility library for the new PHP 5.5 password functions.",
+          "title": "Password Compat",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-02-05T09:43:52Z",
+            "owner": "ircmaxell",
+            "repo": "password_compat",
+            "stars": 2137
+          }
+        },
+        {
+          "children": [],
+          "description": "A password policy library for PHP and JavaScript.",
+          "title": "Password Policy",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-09-07T17:38:39Z",
+            "owner": "ircmaxell",
+            "repo": "password-policy",
+            "stars": 78
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for validating and upgrading password hashes.",
+          "title": "Password Validator",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-04-07T08:42:37Z",
+            "owner": "jeremykendall",
+            "repo": "password-validator",
+            "stars": 142
+          }
+        },
+        {
+          "children": [],
+          "description": "PHP library to generate random passwords.",
+          "title": "Password-Generator",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-09-01T13:59:47Z",
+            "owner": "hackzilla",
+            "repo": "password-generator",
+            "stars": 303
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for generating and validating passwords.",
+          "title": "PHP Password Lib",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-10-30T10:31:28Z",
+            "owner": "ircmaxell",
+            "repo": "PHP-PasswordLib",
+            "stars": 373
+          }
+        },
+        {
+          "children": [],
+          "description": "A portable password hashing framework.",
+          "title": "phpass"
+        },
+        {
+          "children": [],
+          "description": "A realistic PHP password strength estimate library based on Zxcvbn JS.",
+          "title": "Zxcvbn PHP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-24T16:48:21Z",
+            "owner": "bjeavons",
+            "repo": "zxcvbn-php",
+            "stars": 866
+          }
+        }
+      ],
+      "title": "Passwords"
+    },
+    {
+      "description": "Libraries and tools for analysing, parsing and manipulating codebases.",
+      "items": [
+        {
+          "children": [],
+          "description": "AST-based reflection library that allows analysis and manipulation of code",
+          "title": "Better Reflection",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-08T00:38:55Z",
+            "owner": "Roave",
+            "repo": "BetterReflection",
+            "stars": 1232
+          }
+        },
+        {
+          "children": [],
+          "description": "An automated code review.",
+          "title": "Code Climate"
+        },
+        {
+          "children": [],
+          "description": "A command line utility which verifies that your files implement your  rules.",
+          "title": "Editorconfig-Checker",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-28T06:14:48Z",
+            "owner": "editorconfig-checker",
+            "repo": "editorconfig-checker.php",
+            "stars": 74
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP code-quality tool.",
+          "title": "GrumPHP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-03T10:39:15Z",
+            "owner": "phpro",
+            "repo": "grumphp",
+            "stars": 4268
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool for viewing the Abstract Syntax Tree of PHP code.",
+          "title": "PHP AST Viewer"
+        },
+        {
+          "children": [],
+          "description": "A library that detects magic numbers in code.",
+          "title": "PHP Magic Number Detector",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-06T19:00:58Z",
+            "owner": "povils",
+            "repo": "phpmnd",
+            "stars": 579
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP parser written in PHP.",
+          "title": "PHP Parser",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-06T20:25:38Z",
+            "owner": "nikic",
+            "repo": "PHP-Parser",
+            "stars": 17412
+          }
+        },
+        {
+          "children": [],
+          "description": "A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.",
+          "title": "PHP Semantic Versioning Checker",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-05T06:59:48Z",
+            "owner": "tomzx",
+            "repo": "php-semver-checker",
+            "stars": 434
+          }
+        },
+        {
+          "children": [],
+          "description": "PHP completion, refactoring and introspection tool.",
+          "title": "Phpactor",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-29T18:50:07Z",
+            "owner": "phpactor",
+            "repo": "phpactor",
+            "stars": 1801
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool for quickly measuring the size of a PHP project.",
+          "title": "PHPLOC",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2025-04-12T05:04:58Z",
+            "owner": "sebastianbergmann",
+            "repo": "phploc",
+            "stars": 2351
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).",
+          "title": "PHPQA",
+          "repo_info": {
+            "archived": false,
+            "language": "XSLT",
+            "last_commit": "2025-11-22T07:45:23Z",
+            "owner": "EdgedesignCZ",
+            "repo": "phpqa",
+            "stars": 561
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool to upgrade and refactor code.",
+          "title": "Rector",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T20:21:29Z",
+            "owner": "rectorphp",
+            "repo": "rector",
+            "stars": 10181
+          }
+        },
+        {
+          "children": [],
+          "description": "A web tool to .",
+          "title": "Scrutinizer",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-10-03T18:09:07Z",
+            "owner": "scrutinizer-ci",
+            "repo": "php-analyzer",
+            "stars": 440
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple micro-benchmark library.",
+          "title": "UBench",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-09-14T07:50:50Z",
+            "owner": "devster",
+            "repo": "ubench",
+            "stars": 564
+          }
+        }
+      ],
+      "title": "Code Analysis"
+    },
+    {
+      "description": "Libraries for managing code quality, formatting and linting.",
+      "items": [
+        {
+          "children": [],
+          "description": "An easy-to-use and flexible Git hook library.",
+          "title": "CaptainHook",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-27T22:59:39Z",
+            "owner": "captainhook-git",
+            "repo": "captainhook",
+            "stars": 1091
+          }
+        },
+        {
+          "children": [],
+          "description": "A library that detects and can auto-fix PHP, CSS and JS coding standard violations.",
+          "title": "PHP CodeSniffer",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-05T23:49:57Z",
+            "owner": "PHPCSStandards",
+            "repo": "PHP_CodeSniffer",
+            "stars": 1461
+          }
+        },
+        {
+          "children": [],
+          "description": "A coding standards fixer library.",
+          "title": "PHP CS Fixer",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T21:46:17Z",
+            "owner": "PHP-CS-Fixer",
+            "repo": "PHP-CS-Fixer",
+            "stars": 13456
+          }
+        },
+        {
+          "children": [],
+          "description": "A web application to help configure PHP CS Fixer rule sets.",
+          "title": "PHP CS Fixer Configurator"
+        },
+        {
+          "children": [],
+          "description": "A library that scans code for bugs, sub-optimal code, unused parameters and more.",
+          "title": "PHP Mess Detector",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-27T12:12:46Z",
+            "owner": "phpmd",
+            "repo": "phpmd",
+            "stars": 2414
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool to help adhere to certain coding conventions.",
+          "title": "PHPCheckstyle",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-12-09T07:46:46Z",
+            "owner": "PHPCheckstyle",
+            "repo": "phpcheckstyle",
+            "stars": 166
+          }
+        },
+        {
+          "children": [],
+          "description": "A library that detects copied and pasted code.",
+          "title": "PHPCPD",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-01-10T12:50:42Z",
+            "owner": "sebastianbergmann",
+            "repo": "phpcpd",
+            "stars": 2211
+          }
+        },
+        {
+          "children": [],
+          "description": "A coding standards fixer library for Laravel.",
+          "title": "Laravel Pint",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-04T15:10:54Z",
+            "owner": "laravel",
+            "repo": "pint",
+            "stars": 3084
+          }
+        }
+      ],
+      "title": "Code Quality"
+    },
+    {
+      "description": "Libraries for performing static analysis of PHP code.",
+      "items": [
+        {
+          "children": [],
+          "description": "A static analysis engine for PHP.",
+          "title": "Exakat",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-03-24T09:32:24Z",
+            "owner": "exakat",
+            "repo": "exakat",
+            "stars": 378
+          }
+        },
+        {
+          "children": [],
+          "description": "A static code analysis tool that helps to enforce rules for dependencies between software layers.",
+          "title": "Deptrac",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2025-02-17T13:46:05Z",
+            "owner": "qossmic",
+            "repo": "deptrac",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "A code analysis tool using Graph Theory.",
+          "title": "Mondrian",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-10-22T11:02:05Z",
+            "owner": "Trismegiste",
+            "repo": "Mondrian",
+            "stars": 394
+          }
+        },
+        {
+          "children": [],
+          "description": "A static analyzer based on PHP 7+ and the php-ast extension.",
+          "title": "phan",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T02:40:54Z",
+            "owner": "phan",
+            "repo": "phan",
+            "stars": 5604
+          }
+        },
+        {
+          "children": [],
+          "description": "Easy-to-use architecture testing tool for PHP.",
+          "title": "PHP Architecture Tester",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-27T11:43:09Z",
+            "owner": "carlosas",
+            "repo": "phpat",
+            "stars": 1231
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP compatibility checker for PHP CodeSniffer.",
+          "title": "PHPCompatibility",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-05T23:19:37Z",
+            "owner": "PHPCompatibility",
+            "repo": "PHPCompatibility",
+            "stars": 2279
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool to create customizable dependency graphs.",
+          "title": "PhpDependencyAnalysis",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-12-03T20:43:10Z",
+            "owner": "mamuz",
+            "repo": "PhpDependencyAnalysis",
+            "stars": 573
+          }
+        },
+        {
+          "children": [],
+          "description": "Next-gen phpDoc parser with support for intersection types and generics",
+          "title": "PHPDoc Parser",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T20:42:43Z",
+            "owner": "phpstan",
+            "repo": "phpdoc-parser",
+            "stars": 1512
+          }
+        },
+        {
+          "children": [],
+          "description": "A static metric library.",
+          "title": "PHP Metrics",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-09-25T07:31:25Z",
+            "owner": "phpmetrics",
+            "repo": "PhpMetrics",
+            "stars": 2581
+          }
+        },
+        {
+          "children": [],
+          "description": "A static analyzer for PHP version migration.",
+          "title": "PHP Migration",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-07-20T08:39:48Z",
+            "owner": "monque",
+            "repo": "PHP-Migration",
+            "stars": 203
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP Static Analysis Tool.",
+          "title": "PHPStan",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-08T03:01:38Z",
+            "owner": "phpstan",
+            "repo": "phpstan",
+            "stars": 13811
+          }
+        },
+        {
+          "children": [],
+          "description": "A static analysis tool for finding errors in PHP applications.",
+          "title": "Psalm",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T19:27:16Z",
+            "owner": "vimeo",
+            "repo": "psalm",
+            "stars": 5801
+          }
+        }
+      ],
+      "title": "Static Analysis"
+    },
+    {
+      "description": "Libraries related to design patterns, programming approaches and ways to organize code.",
+      "items": [
+        {
+          "children": [],
+          "description": "A repository of software patterns implemented in PHP.",
+          "title": "Design Patterns PHP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-03T08:45:02Z",
+            "owner": "DesignPatternsPHP",
+            "repo": "DesignPatternsPHP",
+            "stars": 22192
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple PHP finite state machine.",
+          "title": "Finite",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-01T13:10:06Z",
+            "owner": "yohang",
+            "repo": "Finite",
+            "stars": 1338
+          }
+        },
+        {
+          "children": [],
+          "description": "A functional programming library.",
+          "title": "Functional PHP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-12T04:24:40Z",
+            "owner": "lstrojny",
+            "repo": "functional-php",
+            "stars": 1985
+          }
+        },
+        {
+          "children": [],
+          "description": "A library that provides iteration primitives using generators.",
+          "title": "Iter",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-08-10T14:07:19Z",
+            "owner": "nikic",
+            "repo": "iter",
+            "stars": 1144
+          }
+        },
+        {
+          "children": [],
+          "description": "A library that provides functionality for working with iterable entities (similar to itertools library in Python).",
+          "title": "IterTools PHP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-24T03:43:57Z",
+            "owner": "markrogoyski",
+            "repo": "itertools-php",
+            "stars": 149
+          }
+        },
+        {
+          "children": [],
+          "description": "A pipeline pattern implementation.",
+          "title": "Pipeline",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-06T09:01:39Z",
+            "owner": "thephpleague",
+            "repo": "pipeline",
+            "stars": 1000
+          }
+        },
+        {
+          "children": [],
+          "description": "Data import abstraction library for consuming Web APIs and other data sources.",
+          "title": "Porter",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-08T12:06:25Z",
+            "owner": "ScriptFUSION",
+            "repo": "Porter",
+            "stars": 614
+          }
+        },
+        {
+          "children": [],
+          "description": "A powerful rule engine and implementation of the Specification pattern.",
+          "title": "RulerZ",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-09-02T10:05:38Z",
+            "owner": "K-Phoen",
+            "repo": "rulerz",
+            "stars": 880
+          }
+        }
+      ],
+      "title": "Architectural"
+    },
+    {
+      "description": "Libraries and tools for debugging errors and profiling code.",
+      "items": [
+        {
+          "children": [],
+          "description": "Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.",
+          "title": "APM"
+        },
+        {
+          "children": [],
+          "description": "Another web debugging console using Google Chrome.",
+          "title": "Barbushin PHP Console",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-02-07T13:03:23Z",
+            "owner": "barbushin",
+            "repo": "php-console",
+            "stars": 1339
+          }
+        },
+        {
+          "children": [],
+          "description": "A debugging and profiling tool.",
+          "title": "Kint",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-18T13:55:48Z",
+            "owner": "kint-php",
+            "repo": "kint",
+            "stars": 2825
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple metrics API library.",
+          "title": "Metrics",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-13T13:28:01Z",
+            "owner": "beberlei",
+            "repo": "metrics",
+            "stars": 322
+          }
+        },
+        {
+          "children": [],
+          "description": "A self-contained code coverage compatible driver.",
+          "title": "PCOV",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-09-15T08:38:08Z",
+            "owner": "krakjoe",
+            "repo": "pcov",
+            "stars": 767
+          }
+        },
+        {
+          "children": [],
+          "description": "A web debugging console.",
+          "title": "PHP Console",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-03-14T16:05:43Z",
+            "owner": "Seldaek",
+            "repo": "php-console",
+            "stars": 526
+          }
+        },
+        {
+          "children": [],
+          "description": "A debugging toolbar.",
+          "title": "PHP Debug Bar"
+        },
+        {
+          "children": [],
+          "description": "A benchmarking Framework.",
+          "title": "PHPBench",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-12T20:02:40Z",
+            "owner": "phpbench",
+            "repo": "phpbench",
+            "stars": 1980
+          }
+        },
+        {
+          "children": [],
+          "description": "A low-overhead sampling profiler.",
+          "title": "PHPSpy",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-06-10T15:29:02Z",
+            "owner": "adsr",
+            "repo": "phpspy",
+            "stars": 1478
+          }
+        },
+        {
+          "children": [],
+          "description": "A variable dumper component.",
+          "title": "Symfony VarDumper",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-29T09:43:19Z",
+            "owner": "symfony",
+            "repo": "var-dumper",
+            "stars": 7449
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple error detection, logging and time measuring library.",
+          "title": "Tracy",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-08T02:52:33Z",
+            "owner": "nette",
+            "repo": "tracy",
+            "stars": 1817
+          }
+        },
+        {
+          "children": [],
+          "description": "A pretty error-handling library.",
+          "title": "Whoops",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-28T19:12:26Z",
+            "owner": "filp",
+            "repo": "whoops",
+            "stars": 13252
+          }
+        },
+        {
+          "children": [],
+          "description": "A debug and profile tool for PHP.",
+          "title": "xDebug",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-03T15:51:17Z",
+            "owner": "xdebug",
+            "repo": "xdebug",
+            "stars": 3371
+          }
+        },
+        {
+          "children": [],
+          "description": "A profiling tool originally developed by Facebook.",
+          "title": "XHProf",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-05-28T23:19:41Z",
+            "owner": "phacility",
+            "repo": "xhprof",
+            "stars": 2613
+          }
+        },
+        {
+          "children": [],
+          "description": "A debug and profile tool for Zend Server.",
+          "title": "Z-Ray"
+        }
+      ],
+      "title": "Debugging and Profiling"
+    },
+    {
+      "description": "Project build and automation tools.",
+      "items": [
+        {
+          "children": [],
+          "description": "A utility to build PHAR files.",
+          "title": "Box",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-02T09:03:55Z",
+            "owner": "box-project",
+            "repo": "box",
+            "stars": 1279
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP project/micro-package generator.",
+          "title": "Construct",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-01-22T01:22:55Z",
+            "owner": "jonathantorres",
+            "repo": "construct",
+            "stars": 265
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP project build system inspired by Apache Ant.",
+          "title": "Phing"
+        },
+        {
+          "children": [],
+          "description": "A library for versioning and releasing software.",
+          "title": "RMT",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-03T15:04:39Z",
+            "owner": "liip",
+            "repo": "RMT",
+            "stars": 458
+          }
+        }
+      ],
+      "title": "Build Tools"
+    },
+    {
+      "description": "Libraries for automating and running tasks.",
+      "items": [
+        {
+          "children": [],
+          "description": "A PHP Task runner built on Symfony components.",
+          "title": "Bldr"
+        },
+        {
+          "children": [],
+          "description": "A PHP cron job manager without modifying crontab.",
+          "title": "Jobby",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-29T11:33:54Z",
+            "owner": "jobbyphp",
+            "repo": "jobby",
+            "stars": 1049
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP Task runner with object-orientated configurations.",
+          "title": "Robo",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-14T23:30:24Z",
+            "owner": "consolidation",
+            "repo": "Robo",
+            "stars": 2705
+          }
+        },
+        {
+          "children": [],
+          "description": "A pure PHP task runner inspired by Grunt and Gulp.",
+          "title": "Task"
+        }
+      ],
+      "title": "Task Runners"
+    },
+    {
+      "description": "Tools for building navigation structures.",
+      "items": [
+        {
+          "children": [],
+          "description": "A menu library.",
+          "title": "KnpMenu",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-09T09:20:05Z",
+            "owner": "KnpLabs",
+            "repo": "KnpMenu",
+            "stars": 1401
+          }
+        },
+        {
+          "children": [],
+          "description": "A flexible menu library with a fluent interface.",
+          "title": "Menu",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-09-08T07:51:52Z",
+            "owner": "spatie",
+            "repo": "menu",
+            "stars": 759
+          }
+        }
+      ],
+      "title": "Navigation"
+    },
+    {
+      "description": "Tools for managing, compressing and minifying website assets.",
+      "items": [
+        {
+          "children": [],
+          "description": "A JavaScript minifier library.",
+          "title": "JShrink",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-20T14:35:07Z",
+            "owner": "tedious",
+            "repo": "JShrink",
+            "stars": 762
+          }
+        },
+        {
+          "children": [],
+          "description": "An elegant wrapper around Webpack for the 80% use case.",
+          "title": "Laravel Mix",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-24T20:48:29Z",
+            "owner": "laravel-mix",
+            "repo": "laravel-mix",
+            "stars": 5250
+          }
+        },
+        {
+          "children": [],
+          "description": "Manages URL generation and versioning of web assets.",
+          "title": "Symfony Asset",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-25T08:26:17Z",
+            "owner": "symfony",
+            "repo": "asset",
+            "stars": 3161
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple but powerful API for processing and compiling assets built around Webpack.",
+          "title": "Symfony Encore",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-18T09:34:43Z",
+            "owner": "symfony",
+            "repo": "webpack-encore",
+            "stars": 2235
+          }
+        }
+      ],
+      "title": "Asset Management"
+    },
+    {
+      "description": "Libraries for geocoding addresses and working with latitudes and longitudes.",
+      "items": [
+        {
+          "children": [],
+          "description": "A list of all countries with names and ISO 3166-1 codes.",
+          "title": "Country List",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-03-11T23:49:21Z",
+            "owner": "umpirsky",
+            "repo": "country-list",
+            "stars": 5249
+          }
+        },
+        {
+          "children": [],
+          "description": "A geocoding library.",
+          "title": "GeoCoder"
+        },
+        {
+          "children": [],
+          "description": "A GeoJSON implementation.",
+          "title": "GeoJSON",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-01-17T16:50:33Z",
+            "owner": "jmikola",
+            "repo": "geojson",
+            "stars": 304
+          }
+        },
+        {
+          "children": [],
+          "description": "A library of geo-related tools.",
+          "title": "GeoTools",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-06-12T20:14:19Z",
+            "owner": "thephpleague",
+            "repo": "geotools",
+            "stars": 1402
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple geo library.",
+          "title": "PHPGeo",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-21T13:51:17Z",
+            "owner": "mjaschen",
+            "repo": "phpgeo",
+            "stars": 1607
+          }
+        }
+      ],
+      "title": "Geolocation"
+    },
+    {
+      "description": "Libraries for working with dates and times.",
+      "items": [
+        {
+          "children": [],
+          "description": "A calendar management library.",
+          "title": "CalendR",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-02T20:13:31Z",
+            "owner": "yohang",
+            "repo": "CalendR",
+            "stars": 465
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple DateTime API extension.",
+          "title": "Carbon",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-05T21:06:37Z",
+            "owner": "briannesbitt",
+            "repo": "Carbon",
+            "stars": 16636
+          }
+        },
+        {
+          "children": [],
+          "description": "A DateTime API extension supporting both mutable and immutable date/time.",
+          "title": "Chronos",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T16:15:59Z",
+            "owner": "cakephp",
+            "repo": "chronos",
+            "stars": 1359
+          }
+        },
+        {
+          "children": [],
+          "description": "Moment.js inspired PHP DateTime handler with i18n support.",
+          "title": "Moment.php",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-07-27T08:47:21Z",
+            "owner": "fightbulc",
+            "repo": "moment.php",
+            "stars": 971
+          }
+        },
+        {
+          "children": [],
+          "description": "A library to help you calculate the dates and names of holidays.",
+          "title": "Yasumi",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T16:03:55Z",
+            "owner": "azuyalabs",
+            "repo": "yasumi",
+            "stars": 1078
+          }
+        }
+      ],
+      "title": "Date and Time"
+    },
+    {
+      "description": "Libraries that are event-driven or implement non-blocking event loops.",
+      "items": [
+        {
+          "children": [],
+          "description": "An event driven non-blocking I/O library.",
+          "title": "Amp",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-04T14:57:43Z",
+            "owner": "amphp",
+            "repo": "amp",
+            "stars": 4395
+          }
+        },
+        {
+          "children": [],
+          "description": "An event source and CQRS library.",
+          "title": "Broadway",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-27T14:03:28Z",
+            "owner": "broadway",
+            "repo": "broadway",
+            "stars": 1511
+          }
+        },
+        {
+          "children": [],
+          "description": "An event dispatcher library.",
+          "title": "CakePHP Event",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-15T03:33:29Z",
+            "owner": "cakephp",
+            "repo": "event",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "Yet another web socket library.",
+          "title": "Elephant.io",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-02T01:04:34Z",
+            "owner": "ElephantIO",
+            "repo": "elephant.io",
+            "stars": 134
+          }
+        },
+        {
+          "children": [],
+          "description": "An event dispatcher library.",
+          "title": "Evenement",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-26T18:20:45Z",
+            "owner": "igorw",
+            "repo": "evenement",
+            "stars": 1340
+          }
+        },
+        {
+          "children": [],
+          "description": "An event library with a focus on domain events.",
+          "title": "Event",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-14T19:52:26Z",
+            "owner": "thephpleague",
+            "repo": "event",
+            "stars": 1567
+          }
+        },
+        {
+          "children": [],
+          "description": "A client to make synchronous/asynchronous requests through php-fpm socket.",
+          "title": "Fast CGI Client",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-02T13:42:29Z",
+            "owner": "hollodotme",
+            "repo": "fast-cgi-client",
+            "stars": 563
+          }
+        },
+        {
+          "children": [],
+          "description": "A modern PHP app server written in Go.",
+          "title": "FrankenPHP"
+        },
+        {
+          "children": [],
+          "description": "An asynchronous web socket client.",
+          "title": "Pawl",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-19T16:51:40Z",
+            "owner": "ratchetphp",
+            "repo": "Pawl",
+            "stars": 614
+          }
+        },
+        {
+          "children": [],
+          "description": "An event source component to persist event messages",
+          "title": "Prooph Event Store",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-21T18:21:49Z",
+            "owner": "prooph",
+            "repo": "event-store",
+            "stars": 547
+          }
+        },
+        {
+          "children": [],
+          "description": "Golang's defer statement for PHP.",
+          "title": "PHP Defer",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-09-21T16:40:15Z",
+            "owner": "php-defer",
+            "repo": "php-defer",
+            "stars": 307
+          }
+        },
+        {
+          "children": [],
+          "description": "A web socket library.",
+          "title": "Ratchet",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-25T19:55:26Z",
+            "owner": "ratchetphp",
+            "repo": "Ratchet",
+            "stars": 6426
+          }
+        },
+        {
+          "children": [],
+          "description": "An event driven non-blocking I/O library.",
+          "title": "ReactPHP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-11-25T17:18:22Z",
+            "owner": "reactphp",
+            "repo": "reactphp",
+            "stars": 9085
+          }
+        },
+        {
+          "children": [],
+          "description": "A reactive extension library.",
+          "title": "RxPHP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-27T20:56:06Z",
+            "owner": "ReactiveX",
+            "repo": "RxPHP",
+            "stars": 1733
+          }
+        },
+        {
+          "children": [],
+          "description": "An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.",
+          "title": "Swoole",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-06T11:19:06Z",
+            "owner": "swoole",
+            "repo": "swoole-src",
+            "stars": 18844
+          }
+        },
+        {
+          "children": [],
+          "description": "An event driven non-blocking I/O library.",
+          "title": "Workerman",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-02T12:18:12Z",
+            "owner": "walkor",
+            "repo": "Workerman",
+            "stars": 11512
+          }
+        }
+      ],
+      "title": "Event"
+    },
+    {
+      "description": "Libraries and applications for taking payments and building online e-commerce stores.",
+      "items": [
+        {
+          "children": [],
+          "description": "A PHP implementation of Fowler's money pattern.",
+          "title": "Money",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-23T07:56:12Z",
+            "owner": "moneyphp",
+            "repo": "money",
+            "stars": 4812
+          }
+        },
+        {
+          "children": [],
+          "description": "A money library for PHP, with support for contexts, cash roundings, currency conversion.",
+          "title": "Brick Money",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-22T15:12:50Z",
+            "owner": "brick",
+            "repo": "money",
+            "stars": 1875
+          }
+        },
+        {
+          "children": [],
+          "description": "A framework agnostic multi-gateway payment processing library.",
+          "title": "OmniPay",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-05T15:52:35Z",
+            "owner": "thephpleague",
+            "repo": "omnipay",
+            "stars": 6050
+          }
+        },
+        {
+          "children": [],
+          "description": "A payment abstraction library.",
+          "title": "Payum",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-25T06:40:33Z",
+            "owner": "payum",
+            "repo": "payum",
+            "stars": 1919
+          }
+        },
+        {
+          "children": [],
+          "description": "An open source e-commerce platform for in-house development teams.",
+          "title": "Shopsys Framework",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T14:32:52Z",
+            "owner": "shopsys",
+            "repo": "shopsys",
+            "stars": 346
+          }
+        },
+        {
+          "children": [],
+          "description": "Highly customizable e-commerce software",
+          "title": "Shopware",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-08T00:22:54Z",
+            "owner": "shopware",
+            "repo": "shopware",
+            "stars": 3275
+          }
+        },
+        {
+          "children": [],
+          "description": "An exchange rates library.",
+          "title": "Swap",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-06T10:28:56Z",
+            "owner": "florianv",
+            "repo": "swap",
+            "stars": 1330
+          }
+        },
+        {
+          "children": [],
+          "description": "An open source e-commerce solution.",
+          "title": "Sylius"
+        }
+      ],
+      "title": "E-commerce"
+    },
+    {
+      "description": "Libraries and software for working with PDF files.",
+      "items": [
+        {
+          "children": [],
+          "description": "Convert HTML to an image, PDF or string.",
+          "title": "Browsershot",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-12T09:48:22Z",
+            "owner": "spatie",
+            "repo": "browsershot",
+            "stars": 5173
+          }
+        },
+        {
+          "children": [],
+          "description": "A HTML to PDF converter.",
+          "title": "Dompdf",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-22T15:25:54Z",
+            "owner": "dompdf",
+            "repo": "dompdf",
+            "stars": 11065
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP client for interacting with Gotenberg.",
+          "title": "Gotenberg",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-27T12:05:55Z",
+            "owner": "gotenberg",
+            "repo": "gotenberg-php",
+            "stars": 358
+          }
+        },
+        {
+          "children": [],
+          "description": "A PDF and image generation library.",
+          "title": "Snappy",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-19T08:27:48Z",
+            "owner": "KnpLabs",
+            "repo": "snappy",
+            "stars": 4471
+          }
+        },
+        {
+          "children": [],
+          "description": "An open source PHP class for generating PDF documents.",
+          "title": "TCPDF"
+        }
+      ],
+      "title": "PDF"
+    },
+    {
+      "description": "Libraries for working with office suite documents.",
+      "items": [
+        {
+          "children": [],
+          "description": "A library for working with Microsoft PowerPoint Presentations.",
+          "title": "PHPPowerPoint",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-24T19:16:05Z",
+            "owner": "PHPOffice",
+            "repo": "PHPPresentation",
+            "stars": 1361
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for working with Microsoft Word documents.",
+          "title": "PHPWord",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-07-26T17:14:13Z",
+            "owner": "PHPOffice",
+            "repo": "PHPWord",
+            "stars": 7538
+          }
+        },
+        {
+          "children": [],
+          "description": "A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).",
+          "title": "PHPSpreadsheet",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T02:37:05Z",
+            "owner": "PHPOffice",
+            "repo": "PhpSpreadsheet",
+            "stars": 13885
+          }
+        },
+        {
+          "children": [],
+          "description": "A community driven fork of , a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.",
+          "title": "OpenSpout",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T06:01:22Z",
+            "owner": "openspout",
+            "repo": "openspout",
+            "stars": 1091
+          }
+        }
+      ],
+      "title": "Office"
+    },
+    {
+      "description": "Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.",
+      "items": [
+        {
+          "children": [],
+          "description": "A data mapper implementation for your persistence model in PHP.",
+          "title": "Atlas.Orm",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-05-30T19:28:58Z",
+            "owner": "atlasphp",
+            "repo": "Atlas.Orm",
+            "stars": 428
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides an extension to the native PDO along with a profiler and connection locator.",
+          "title": "Aura.Sql",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-05T05:22:45Z",
+            "owner": "auraphp",
+            "repo": "Aura.Sql",
+            "stars": 564
+          }
+        },
+        {
+          "children": [],
+          "description": "Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.",
+          "title": "Aura.SqlQuery",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-24T09:52:37Z",
+            "owner": "auraphp",
+            "repo": "Aura.SqlQuery",
+            "stars": 456
+          }
+        },
+        {
+          "children": [],
+          "description": "A nested set implementation for Eloquent.",
+          "title": "Baum",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-06-11T18:02:31Z",
+            "owner": "etrepat",
+            "repo": "baum",
+            "stars": 2232
+          }
+        },
+        {
+          "children": [],
+          "description": "Object-Relational Mapper, implemented using the DataMapper pattern.",
+          "title": "CakePHP ORM",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-15T03:33:37Z",
+            "owner": "cakephp",
+            "repo": "orm",
+            "stars": 147
+          }
+        },
+        {
+          "children": [],
+          "description": "PHP DataMapper, ORM.",
+          "title": "Cycle ORM",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-30T11:39:39Z",
+            "owner": "cycle",
+            "repo": "orm",
+            "stars": 1325
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of Doctrine behavioural extensions.",
+          "title": "Doctrine Extensions",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-12T16:28:00Z",
+            "owner": "doctrine-extensions",
+            "repo": "DoctrineExtensions",
+            "stars": 4120
+          }
+        },
+        {
+          "children": [],
+          "description": "A comprehensive DBAL and ORM.",
+          "title": "Doctrine"
+        },
+        {
+          "children": [],
+          "description": "A simple ORM.",
+          "title": "Laravel Eloquent",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T17:30:08Z",
+            "owner": "illuminate",
+            "repo": "database",
+            "stars": 2757
+          }
+        },
+        {
+          "children": [],
+          "description": "An Object Model Manager for PostgreSQL.",
+          "title": "Pomm",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-05-21T20:33:22Z",
+            "owner": "chanmix51",
+            "repo": "Pomm",
+            "stars": 164
+          }
+        },
+        {
+          "children": [],
+          "description": "A set of utilities to generate proxy objects for data mappers.",
+          "title": "ProxyManager",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-02T19:10:34Z",
+            "owner": "Ocramius",
+            "repo": "ProxyManager",
+            "stars": 4976
+          }
+        },
+        {
+          "children": [],
+          "description": "A lightweight, configuration-less ORM.",
+          "title": "RedBean"
+        },
+        {
+          "children": [],
+          "description": "An easy dumper tool for MySQL.",
+          "title": "Slimdump",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-04T13:39:51Z",
+            "owner": "webfactory",
+            "repo": "slimdump",
+            "stars": 187
+          }
+        },
+        {
+          "children": [],
+          "description": "A MySQL datamapper ORM.",
+          "title": "Spot2",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-08-08T13:34:14Z",
+            "owner": "spotorm",
+            "repo": "spot2",
+            "stars": 599
+          }
+        }
+      ],
+      "title": "Database"
+    },
+    {
+      "description": "Libraries to help manage database schemas and migrations.",
+      "items": [
+        {
+          "children": [],
+          "description": "A migration library for Doctrine.",
+          "title": "Doctrine Migrations"
+        },
+        {
+          "children": [],
+          "description": "A migration management library.",
+          "title": "Migrations",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-10-06T22:19:31Z",
+            "owner": "icomefromthenet",
+            "repo": "Migrations",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "Another database migration library.",
+          "title": "Phinx",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-17T06:22:12Z",
+            "owner": "cakephp",
+            "repo": "phinx",
+            "stars": 4518
+          }
+        },
+        {
+          "children": [],
+          "description": "Another migration management library.",
+          "title": "PHPMig",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-29T15:10:45Z",
+            "owner": "davedevelopment",
+            "repo": "phpmig",
+            "stars": 570
+          }
+        },
+        {
+          "children": [],
+          "description": "Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.",
+          "title": "Ruckusing",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-01-08T19:02:30Z",
+            "owner": "ruckus",
+            "repo": "ruckusing-migrations",
+            "stars": 502
+          }
+        }
+      ],
+      "title": "Migrations"
+    },
+    {
+      "description": "Libraries for working with \"NoSQL\" backends.",
+      "items": [
+        {
+          "children": [],
+          "description": "MongoDB PHP Driver.",
+          "title": "MongoDB",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-04T18:15:41Z",
+            "owner": "mongodb",
+            "repo": "mongo-php-driver",
+            "stars": 919
+          }
+        },
+        {
+          "children": [],
+          "description": "A MongoDB ORM.",
+          "title": "PHPMongo",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-02-07T10:34:34Z",
+            "owner": "sokil",
+            "repo": "php-mongo",
+            "stars": 239
+          }
+        },
+        {
+          "children": [],
+          "description": "A feature-complete Redis library.",
+          "title": "Predis",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T13:59:51Z",
+            "owner": "predis",
+            "repo": "predis",
+            "stars": 7749
+          }
+        }
+      ],
+      "title": "NoSQL"
+    },
+    {
+      "description": "Libraries for working with event and task queues.",
+      "items": [
+        {
+          "children": [],
+          "description": "A multibackend abstraction library.",
+          "title": "Bernard",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-07-31T10:25:26Z",
+            "owner": "bernardphp",
+            "repo": "bernard",
+            "stars": 1213
+          }
+        },
+        {
+          "children": [],
+          "description": "A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.",
+          "title": "BunnyPHP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-24T08:02:09Z",
+            "owner": "jakubkulhan",
+            "repo": "bunny",
+            "stars": 739
+          }
+        },
+        {
+          "children": [],
+          "description": "A Beanstalkd client library.",
+          "title": "Pheanstalk",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-11T13:51:42Z",
+            "owner": "pheanstalk",
+            "repo": "pheanstalk",
+            "stars": 1926
+          }
+        },
+        {
+          "children": [],
+          "description": "A pure PHP AMQP library.",
+          "title": "PHP AMQP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-06T07:52:20Z",
+            "owner": "php-amqplib",
+            "repo": "php-amqplib",
+            "stars": 4598
+          }
+        },
+        {
+          "children": [],
+          "description": "PHP bindings for Tarantool Queue.",
+          "title": "Tarantool Queue",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-08T23:29:27Z",
+            "owner": "tarantool-php",
+            "repo": "queue",
+            "stars": 64
+          }
+        },
+        {
+          "children": [],
+          "description": "A RabbitMQ pattern library.",
+          "title": "Thumper",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-12-21T19:46:11Z",
+            "owner": "php-amqplib",
+            "repo": "Thumper",
+            "stars": 276
+          }
+        },
+        {
+          "children": [],
+          "description": "A message queue packages for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports.",
+          "title": "Enqueue",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-22T17:06:17Z",
+            "owner": "php-enqueue",
+            "repo": "enqueue-dev",
+            "stars": 2214
+          }
+        }
+      ],
+      "title": "Queue"
+    },
+    {
+      "description": "Libraries and software for indexing and performing search queries on data.",
+      "items": [
+        {
+          "children": [],
+          "description": "A client library for ElasticSearch.",
+          "title": "Elastica",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-30T18:06:03Z",
+            "owner": "ruflin",
+            "repo": "Elastica",
+            "stars": 2271
+          }
+        },
+        {
+          "children": [],
+          "description": "The official client library for .",
+          "title": "ElasticSearch PHP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T11:06:33Z",
+            "owner": "elastic",
+            "repo": "elasticsearch-php",
+            "stars": 5343
+          }
+        },
+        {
+          "children": [],
+          "description": "A client library for .",
+          "title": "Solarium"
+        },
+        {
+          "children": [],
+          "description": "A query library for the  and  search engines.",
+          "title": "SphinxQL Query Builder"
+        }
+      ],
+      "title": "Search"
+    },
+    {
+      "description": "Libraries related to the command line.",
+      "items": [
+        {
+          "children": [],
+          "description": "Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.",
+          "title": "Aura.Cli",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-06-07T00:38:30Z",
+            "owner": "auraphp",
+            "repo": "Aura.Cli",
+            "stars": 102
+          }
+        },
+        {
+          "children": [],
+          "description": "A micro framework for building command line tools.",
+          "title": "Cilex",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-12-14T21:38:12Z",
+            "owner": "Cilex",
+            "repo": "Cilex",
+            "stars": 619
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for building CLI menus.",
+          "title": "CLI Menu",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-08-11T15:17:33Z",
+            "owner": "php-school",
+            "repo": "cli-menu",
+            "stars": 1948
+          }
+        },
+        {
+          "children": [],
+          "description": "A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.",
+          "title": "CLIFramework",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-04-20T14:05:15Z",
+            "owner": "c9s",
+            "repo": "CLIFramework",
+            "stars": 437
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for outputting colors and special formatting.",
+          "title": "CLImate",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-17T10:13:11Z",
+            "owner": "thephpleague",
+            "repo": "climate",
+            "stars": 1884
+          }
+        },
+        {
+          "children": [],
+          "description": "Another simple command line opt parser.",
+          "title": "Commando",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-07T08:18:32Z",
+            "owner": "nategood",
+            "repo": "commando",
+            "stars": 802
+          }
+        },
+        {
+          "children": [],
+          "description": "A library to calculate cron run dates.",
+          "title": "Cron Expression",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-19T17:16:35Z",
+            "owner": "mtdowling",
+            "repo": "cron-expression",
+            "stars": 4876
+          }
+        },
+        {
+          "children": [],
+          "description": "A command line opt parser.",
+          "title": "GetOpt",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-15T09:30:36Z",
+            "owner": "getopt-php",
+            "repo": "getopt-php",
+            "stars": 342
+          }
+        },
+        {
+          "children": [],
+          "description": "Another command line opt parser.",
+          "title": "GetOptionKit",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-01-04T06:49:25Z",
+            "owner": "c9s",
+            "repo": "GetOptionKit",
+            "stars": 149
+          }
+        },
+        {
+          "children": [],
+          "description": "Another PHP REPL.",
+          "title": "PsySH",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-30T17:34:51Z",
+            "owner": "bobthecow",
+            "repo": "psysh",
+            "stars": 9833
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple command line wrapper library.",
+          "title": "ShellWrap",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-10T03:08:06Z",
+            "owner": "MrRio",
+            "repo": "shellwrap",
+            "stars": 738
+          }
+        }
+      ],
+      "title": "Command Line"
+    },
+    {
+      "description": "Libraries for implementing user authentication and authorization.",
+      "items": [
+        {
+          "children": [],
+          "description": "Provides authentication functionality and session tracking using various adapters.",
+          "title": "Aura.Auth",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-13T17:41:26Z",
+            "owner": "auraphp",
+            "repo": "Aura.Auth",
+            "stars": 134
+          }
+        },
+        {
+          "children": [],
+          "description": "An open source social sign (OAuth1\\OAuth2\\OpenID\\OpenIDConnect).",
+          "title": "SocialConnect Auth",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-08-28T07:39:51Z",
+            "owner": "socialConnect",
+            "repo": "auth",
+            "stars": 562
+          }
+        },
+        {
+          "children": [],
+          "description": "Json Tokens to authenticate and transmit information.",
+          "title": "Json Web Token",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-03T08:28:47Z",
+            "owner": "lcobucci",
+            "repo": "jwt",
+            "stars": 7472
+          }
+        },
+        {
+          "children": [],
+          "description": "An OAuth 1.0 client library.",
+          "title": "OAuth 1.0 Client",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-12-10T19:59:57Z",
+            "owner": "thephpleague",
+            "repo": "oauth1-client",
+            "stars": 998
+          }
+        },
+        {
+          "children": [],
+          "description": "An OAuth 2.0 client library.",
+          "title": "OAuth 2.0 Client",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-30T21:12:21Z",
+            "owner": "thephpleague",
+            "repo": "oauth2-client",
+            "stars": 3780
+          }
+        },
+        {
+          "children": [],
+          "description": "Another OAuth2 server implementation.",
+          "title": "OAuth2 Server"
+        },
+        {
+          "children": [],
+          "description": "An OAuth2 authentication server, resource server and client library.",
+          "title": "OAuth2 Server"
+        },
+        {
+          "children": [],
+          "description": "A multi-provider authentication framework.",
+          "title": "Opauth",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-05-15T17:34:12Z",
+            "owner": "opauth",
+            "repo": "opauth",
+            "stars": 1638
+          }
+        },
+        {
+          "children": [],
+          "description": "Platform-Agnostic Security Tokens.",
+          "title": "Paseto",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-07-19T04:41:23Z",
+            "owner": "paragonie",
+            "repo": "paseto",
+            "stars": 3366
+          }
+        },
+        {
+          "children": [],
+          "description": "Another OAuth library.",
+          "title": "PHP oAuthLib",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-01-08T21:46:43Z",
+            "owner": "daviddesberg",
+            "repo": "PHPoAuthLib",
+            "stars": 1080
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for social network authentication.",
+          "title": "Sentinel Social"
+        },
+        {
+          "children": [],
+          "description": "A framework agnostic authentication & authorisation library.",
+          "title": "Sentinel"
+        },
+        {
+          "children": [],
+          "description": "A Twitter OAuth library.",
+          "title": "TwitterOAuth",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-28T01:36:24Z",
+            "owner": "abraham",
+            "repo": "twitteroauth",
+            "stars": 4306
+          }
+        }
+      ],
+      "title": "Authentication and Authorization"
+    },
+    {
+      "description": "Libraries for working with markup and CSS formats.",
+      "items": [
+        {
+          "children": [],
+          "description": "A fast and extensible Markdown parser.",
+          "title": "Cebe Markdown",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-10-04T04:54:35Z",
+            "owner": "cebe",
+            "repo": "markdown",
+            "stars": 1008
+          }
+        },
+        {
+          "children": [],
+          "description": "Highly-extensible Markdown parser which fully supports the .",
+          "title": "CommonMark PHP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-08T00:14:31Z",
+            "owner": "thephpleague",
+            "repo": "commonmark",
+            "stars": 2925
+          }
+        },
+        {
+          "children": [],
+          "description": "A lightweight markup parser library.",
+          "title": "Decoda",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-11-10T18:42:42Z",
+            "owner": "milesj",
+            "repo": "decoda",
+            "stars": 192
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP parser for , a modern light markup language (successor of Markdown).",
+          "title": "Djot",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-05T23:18:13Z",
+            "owner": "php-collective",
+            "repo": "djot-php",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for extracting web media.",
+          "title": "Essence",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-03-29T11:04:23Z",
+            "owner": "essence",
+            "repo": "essence",
+            "stars": 770
+          }
+        },
+        {
+          "children": [],
+          "description": "An Oembed consumer library.",
+          "title": "Embera",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-07T14:55:07Z",
+            "owner": "mpratt",
+            "repo": "Embera",
+            "stars": 353
+          }
+        },
+        {
+          "children": [],
+          "description": "Converts HTML into Markdown.",
+          "title": "HTML to Markdown",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T05:28:01Z",
+            "owner": "thephpleague",
+            "repo": "html-to-markdown",
+            "stars": 1857
+          }
+        },
+        {
+          "children": [],
+          "description": "An HTML5 parser and serializer library.",
+          "title": "HTML5 PHP",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-07-25T09:50:59Z",
+            "owner": "Masterminds",
+            "repo": "html5-php",
+            "stars": 1764
+          }
+        },
+        {
+          "children": [],
+          "description": "Another Markdown parser.",
+          "title": "Parsedown",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-08-31T07:57:44Z",
+            "owner": "erusev",
+            "repo": "parsedown",
+            "stars": 15013
+          }
+        },
+        {
+          "children": [],
+          "description": "A Parser for CSS Files written in PHP.",
+          "title": "PHP CSS Parser",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T11:42:38Z",
+            "owner": "MyIntervals",
+            "repo": "PHP-CSS-Parser",
+            "stars": 1819
+          }
+        },
+        {
+          "children": [],
+          "description": "A Markdown parser.",
+          "title": "PHP Markdown",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-06-17T23:36:24Z",
+            "owner": "michelf",
+            "repo": "php-markdown",
+            "stars": 3463
+          }
+        },
+        {
+          "children": [],
+          "description": "A  code highlighting package in PHP.",
+          "title": "Shiki PHP",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-01T09:30:29Z",
+            "owner": "spatie",
+            "repo": "shiki-php",
+            "stars": 303
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for parsing VCard and iCalendar objects.",
+          "title": "VObject",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-12T10:53:45Z",
+            "owner": "sabre-io",
+            "repo": "vobject",
+            "stars": 593
+          }
+        }
+      ],
+      "title": "Markup and CSS"
+    },
+    {
+      "description": "Libraries for working with JSON.",
+      "items": [
+        {
+          "children": [],
+          "description": "A JSON lint utility.",
+          "title": "JSON Lint",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-08-28T08:46:26Z",
+            "owner": "Seldaek",
+            "repo": "jsonlint",
+            "stars": 1324
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for mapping JSON to PHP objects.",
+          "title": "JSONMapper",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-29T17:39:41Z",
+            "owner": "JsonMapper",
+            "repo": "JsonMapper",
+            "stars": 218
+          }
+        }
+      ],
+      "title": "JSON"
+    },
+    {
+      "description": "Libraries for parsing and manipulating strings.",
+      "items": [
+        {
+          "children": [],
+          "description": "A PHP desktop/mobile user agent parser, based on Mobiledetect.",
+          "title": "Agent",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-08-05T12:34:44Z",
+            "owner": "jenssegers",
+            "repo": "agent",
+            "stars": 4733
+          }
+        },
+        {
+          "children": [],
+          "description": "An ANSI to HTML5 converter library.",
+          "title": "ANSI to HTML5",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-05-02T10:22:23Z",
+            "owner": "sensiolabs",
+            "repo": "ansi-to-html",
+            "stars": 252
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for manipulating and converting colors.",
+          "title": "Color Jizz",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-11-22T17:02:51Z",
+            "owner": "mikeemoo",
+            "repo": "ColorJizz-PHP",
+            "stars": 285
+          }
+        },
+        {
+          "children": [],
+          "description": "Another library for parsing user agent strings.",
+          "title": "Device Detector",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T15:28:40Z",
+            "owner": "matomo-org",
+            "repo": "device-detector",
+            "stars": 3432
+          }
+        },
+        {
+          "children": [],
+          "description": "Text-Hyphenation based on the TeX-hyphenation Algorithm",
+          "title": "Hyphenation",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-02-12T14:42:32Z",
+            "owner": "heiglandreas",
+            "repo": "Org_Heigl_Hyphenator",
+            "stars": 54
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP port of Python's jieba. Chinese text segmentation for natural language processing.",
+          "title": "Jieba-PHP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-16T03:39:39Z",
+            "owner": "fukuball",
+            "repo": "jieba-php",
+            "stars": 1374
+          }
+        },
+        {
+          "children": [],
+          "description": "A lightweight PHP class for detecting mobile devices (including tablets).",
+          "title": "Mobile-Detect",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-15T16:51:22Z",
+            "owner": "serbanghita",
+            "repo": "Mobile-Detect",
+            "stars": 10688
+          }
+        },
+        {
+          "children": [],
+          "description": "A portable library for working with UTF-8 strings.",
+          "title": "Patchwork UTF-8",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-07-12T11:49:23Z",
+            "owner": "nicolas-grekas",
+            "repo": "Patchwork-UTF8",
+            "stars": 79
+          }
+        },
+        {
+          "children": [],
+          "description": "A library to convert strings to ASCII.",
+          "title": "Portable ASCII",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T09:05:49Z",
+            "owner": "voku",
+            "repo": "portable-ascii",
+            "stars": 571
+          }
+        },
+        {
+          "children": [],
+          "description": "A string manipulation library with UTF-8 safe replacement methods.",
+          "title": "Portable UTF-8",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T05:51:01Z",
+            "owner": "voku",
+            "repo": "portable-utf8",
+            "stars": 518
+          }
+        },
+        {
+          "children": [],
+          "description": "A library to convert strings to slugs.",
+          "title": "Slugify",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-27T18:58:45Z",
+            "owner": "cocur",
+            "repo": "slugify",
+            "stars": 2907
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for formatting SQL statements.",
+          "title": "SQL Formatter",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-05-26T00:23:48Z",
+            "owner": "jdorn",
+            "repo": "sql-formatter",
+            "stars": 3864
+          }
+        },
+        {
+          "children": [],
+          "description": "A string manipulation library with multibyte support.",
+          "title": "Stringy",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-01-17T04:25:06Z",
+            "owner": "voku",
+            "repo": "Stringy",
+            "stars": 177
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for parsing user agent strings.",
+          "title": "UA Parser",
+          "repo_info": {
+            "archived": true,
+            "language": "Perl",
+            "last_commit": "2016-12-26T21:13:22Z",
+            "owner": "tobie",
+            "repo": "ua-parser",
+            "stars": 1973
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for parsing URLs from text and converting them into clickable links.",
+          "title": "Url highlight",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-04T18:53:30Z",
+            "owner": "vstelmakh",
+            "repo": "url-highlight",
+            "stars": 100
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP port of Django's URLify.js.",
+          "title": "URLify",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-03T17:52:34Z",
+            "owner": "jbroadway",
+            "repo": "urlify",
+            "stars": 676
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for generating UUIDs.",
+          "title": "UUID",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-14T04:53:39Z",
+            "owner": "ramsey",
+            "repo": "uuid",
+            "stars": 12624
+          }
+        }
+      ],
+      "title": "Strings"
+    },
+    {
+      "description": "Libraries for working with numbers.",
+      "items": [
+        {
+          "children": [],
+          "description": "A library providing large number support: ,  and .",
+          "title": "Brick Math",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T23:36:10Z",
+            "owner": "brick",
+            "repo": "math",
+            "stars": 2108
+          }
+        },
+        {
+          "children": [],
+          "description": "A library to parse, format and convert byte units in binary and metric systems.",
+          "title": "ByteUnits",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-01-16T23:46:30Z",
+            "owner": "gabrielelana",
+            "repo": "byte-units",
+            "stars": 167
+          }
+        },
+        {
+          "children": [],
+          "description": "A value object to handle decimals/floats easily and more precisely.",
+          "title": "DecimalObject",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-03T22:30:19Z",
+            "owner": "php-collective",
+            "repo": "decimal-object",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "An immutable value object for working with IPv4 and IPv6 addresses.",
+          "title": "IP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-17T15:03:18Z",
+            "owner": "darsyn",
+            "repo": "ip",
+            "stars": 258
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP implementation of Google's phone number handling library.",
+          "title": "LibPhoneNumber for PHP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-30T13:35:49Z",
+            "owner": "giggsey",
+            "repo": "libphonenumber-for-php",
+            "stars": 4994
+          }
+        },
+        {
+          "children": [],
+          "description": "Another library for converting between units of measure.",
+          "title": "PHP Conversion",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-06-15T20:21:42Z",
+            "owner": "Crisu83",
+            "repo": "php-conversion",
+            "stars": 132
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for converting between units of measure.",
+          "title": "PHP Units of Measure",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-05-01T20:34:16Z",
+            "owner": "triplepoint",
+            "repo": "php-units-of-measure",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "A math library for PHP.",
+          "title": "MathPHP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-23T21:34:45Z",
+            "owner": "markrogoyski",
+            "repo": "math-php",
+            "stars": 2400
+          }
+        }
+      ],
+      "title": "Numbers"
+    },
+    {
+      "description": "Libraries for filtering, sanitizing and validating data.",
+      "items": [
+        {
+          "children": [],
+          "description": "A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.",
+          "title": "Assert",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-13T22:48:42Z",
+            "owner": "beberlei",
+            "repo": "assert",
+            "stars": 2433
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides tools to validate and sanitize objects and arrays.",
+          "title": "Aura.Filter",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-25T07:29:21Z",
+            "owner": "auraphp",
+            "repo": "Aura.Filter",
+            "stars": 158
+          }
+        },
+        {
+          "children": [],
+          "description": "Another validation library.",
+          "title": "CakePHP Validation",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-15T03:33:40Z",
+            "owner": "cakephp",
+            "repo": "validation",
+            "stars": 42
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple PHP filtering library.",
+          "title": "Filterus",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-11-21T21:48:10Z",
+            "owner": "ircmaxell",
+            "repo": "filterus",
+            "stars": 449
+          }
+        },
+        {
+          "children": [],
+          "description": "A standards compliant HTML filter.",
+          "title": "HTML Purifier",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-17T16:34:57Z",
+            "owner": "ezyang",
+            "repo": "htmlpurifier",
+            "stars": 3382
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.",
+          "title": "ISO-codes",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-25T17:35:21Z",
+            "owner": "ronanguilloux",
+            "repo": "IsoCodes",
+            "stars": 802
+          }
+        },
+        {
+          "children": [],
+          "description": "A  validation library.",
+          "title": "JSON Schema",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T18:25:15Z",
+            "owner": "jsonrainbow",
+            "repo": "json-schema",
+            "stars": 3626
+          }
+        },
+        {
+          "children": [],
+          "description": "A schema validation library that supports YAML, JSON and XML.",
+          "title": "MetaYaml",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-03-16T01:38:37Z",
+            "owner": "romaricdrigon",
+            "repo": "MetaYaml",
+            "stars": 102
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple validation library.",
+          "title": "Respect Validation",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-08T00:13:52Z",
+            "owner": "Respect",
+            "repo": "Validation",
+            "stars": 5915
+          }
+        },
+        {
+          "children": [],
+          "description": "An HTML sanitizer library.",
+          "title": "Symfony HTML Sanitizer",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-27T13:41:41Z",
+            "owner": "symfony",
+            "repo": "html-sanitizer",
+            "stars": 276
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for handling file uploads and validation.",
+          "title": "Upload",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-11-12T03:17:29Z",
+            "owner": "brandonsavage",
+            "repo": "Upload",
+            "stars": 1657
+          }
+        },
+        {
+          "children": [],
+          "description": "Another validation library.",
+          "title": "Valitron",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-16T08:09:20Z",
+            "owner": "vlucas",
+            "repo": "valitron",
+            "stars": 1602
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for mapping to strongly typed value objects.",
+          "title": "Valinor",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T10:47:47Z",
+            "owner": "CuyZ",
+            "repo": "Valinor",
+            "stars": 1477
+          }
+        },
+        {
+          "children": [],
+          "description": "Another simplified validation library.",
+          "title": "Volan",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-06-19T09:43:43Z",
+            "owner": "serkin",
+            "repo": "Volan",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Filtering, Sanitizing and Validation"
+    },
+    {
+      "description": "Libraries and web tools for developing APIs.",
+      "items": [
+        {
+          "children": [],
+          "description": "Expose in minutes a hypermedia REST API that embraces JSON-LD, Hydra format.",
+          "title": "API Platform"
+        },
+        {
+          "children": [],
+          "description": "An API builder built with the Laminas Framework.",
+          "title": "Laminas API Tool Skeleton",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-18T14:51:55Z",
+            "owner": "laminas-api-tools",
+            "repo": "api-tools-skeleton",
+            "stars": 53
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for exposing Doctrine entities as REST resource endpoints.",
+          "title": "Drest",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-05-11T10:05:01Z",
+            "owner": "leedavis81",
+            "repo": "drest",
+            "stars": 87
+          }
+        },
+        {
+          "children": [],
+          "description": "A Hypertext Application Language (HAL) builder library.",
+          "title": "HAL",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-05T12:42:47Z",
+            "owner": "blongden",
+            "repo": "hal",
+            "stars": 201
+          }
+        },
+        {
+          "children": [],
+          "description": "A HATEOAS REST web service library.",
+          "title": "Hateoas",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-10T10:11:02Z",
+            "owner": "willdurand",
+            "repo": "Hateoas",
+            "stars": 1045
+          }
+        },
+        {
+          "children": [],
+          "description": "An OpenApi client generator with validation support.",
+          "title": "Jane",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-26T14:06:57Z",
+            "owner": "janephp",
+            "repo": "janephp",
+            "stars": 672
+          }
+        },
+        {
+          "children": [],
+          "description": "A content negotiation library.",
+          "title": "Negotiation",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-08-03T17:52:44Z",
+            "owner": "willdurand",
+            "repo": "Negotiation",
+            "stars": 1423
+          }
+        },
+        {
+          "children": [],
+          "description": "A lightweight framework to expose PHP methods as RESTful web API.",
+          "title": "Restler",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-02T15:10:19Z",
+            "owner": "Luracast",
+            "repo": "Restler",
+            "stars": 1372
+          }
+        },
+        {
+          "children": [],
+          "description": "Package Generator generates a PHP SDK from any WSDL.",
+          "title": "PackageGenerator",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T17:42:50Z",
+            "owner": "WsdlToPhp",
+            "repo": "PackageGenerator",
+            "stars": 434
+          }
+        }
+      ],
+      "title": "API"
+    },
+    {
+      "description": "Libraries for caching data and acquiring locks.",
+      "items": [
+        {
+          "children": [],
+          "description": "A thin PSR-6 cache wrapper to various caching backends emphasizing cache tagging and indexing.",
+          "title": "APIx Cache",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-07-26T12:14:20Z",
+            "owner": "apix",
+            "repo": "cache",
+            "stars": 115
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool to clear APC/opcode caches from the command line.",
+          "title": "CacheTool",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-28T21:42:28Z",
+            "owner": "gordalina",
+            "repo": "cachetool",
+            "stars": 1791
+          }
+        },
+        {
+          "children": [],
+          "description": "A caching library.",
+          "title": "CakePHP Cache",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-15T03:33:20Z",
+            "owner": "cakephp",
+            "repo": "cache",
+            "stars": 49
+          }
+        },
+        {
+          "children": [],
+          "description": "A caching library.",
+          "title": "Doctrine Cache",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-08T08:10:50Z",
+            "owner": "doctrine",
+            "repo": "cache",
+            "stars": 7894
+          }
+        },
+        {
+          "children": [],
+          "description": "Cache slam defense using a semaphore to prevent dogpile effect.",
+          "title": "Metaphore",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-02-24T11:42:47Z",
+            "owner": "sobstel",
+            "repo": "metaphore",
+            "stars": 100
+          }
+        },
+        {
+          "children": [],
+          "description": "Another library for caching.",
+          "title": "Stash",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-27T14:08:50Z",
+            "owner": "tedious",
+            "repo": "Stash",
+            "stars": 962
+          }
+        },
+        {
+          "children": [],
+          "description": "Another caching library.",
+          "title": "Laminas Cache",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T04:12:49Z",
+            "owner": "laminas",
+            "repo": "laminas-cache",
+            "stars": 106
+          }
+        },
+        {
+          "children": [],
+          "description": "A lock library to provide exclusive execution.",
+          "title": "Lock",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-07-29T14:16:12Z",
+            "owner": "php-lock",
+            "repo": "lock",
+            "stars": 947
+          }
+        }
+      ],
+      "title": "Caching and Locking"
+    },
+    {
+      "description": "Libraries that implement data structure or storage techniques.",
+      "items": [
+        {
+          "children": [],
+          "description": "A simple collections library.",
+          "title": "CakePHP Collection",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-15T03:33:24Z",
+            "owner": "cakephp",
+            "repo": "collection",
+            "stars": 89
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for converting complex data structures to JSON output.",
+          "title": "Fractal",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-16T16:24:18Z",
+            "owner": "thephpleague",
+            "repo": "fractal",
+            "stars": 3553
+          }
+        },
+        {
+          "children": [],
+          "description": "Another PHP library based on .NET's LINQ.",
+          "title": "Ginq",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-06-30T09:37:05Z",
+            "owner": "akanehara",
+            "repo": "ginq",
+            "stars": 192
+          }
+        },
+        {
+          "children": [],
+          "description": "A library that maps nested JSON structures onto PHP classes.",
+          "title": "JsonMapper",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-09-08T10:20:12Z",
+            "owner": "cweiske",
+            "repo": "jsonmapper",
+            "stars": 1571
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides iteration over huge JSONs using simple",
+          "title": "JSON Machine",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-14T15:43:55Z",
+            "owner": "halaxa",
+            "repo": "json-machine",
+            "stars": 1289
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection library inspired by Clojure's sequences.",
+          "title": "Knapsack",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-09T07:39:09Z",
+            "owner": "DusanKasan",
+            "repo": "Knapsack",
+            "stars": 535
+          }
+        },
+        {
+          "children": [],
+          "description": "A pure PHP implementation of the  serialization format.",
+          "title": "msgpack.php",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-18T17:20:10Z",
+            "owner": "rybakit",
+            "repo": "msgpack.php",
+            "stars": 406
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP library based on .NET's LINQ (Language Integrated Query).",
+          "title": "PINQ",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2022-05-03T14:53:29Z",
+            "owner": "TimeToogo",
+            "repo": "Pinq",
+            "stars": 462
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for serializing and de-serializing data.",
+          "title": "Serializer",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-03T13:34:31Z",
+            "owner": "schmittjoh",
+            "repo": "serializer",
+            "stars": 2351
+          }
+        },
+        {
+          "children": [],
+          "description": "Yet Another LINQ to Objects for PHP.",
+          "title": "YaLinqo",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-19T00:45:53Z",
+            "owner": "Athari",
+            "repo": "YaLinqo",
+            "stars": 451
+          }
+        },
+        {
+          "children": [],
+          "description": "Another library for serialising and de-serialising data.",
+          "title": "Laminas Serializer",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T04:01:14Z",
+            "owner": "laminas",
+            "repo": "laminas-serializer",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Data Structure and Storage"
+    },
+    {
+      "description": "Libraries for working with notification software.",
+      "items": [
+        {
+          "children": [],
+          "description": "A cross-platform library for desktop notification (support for Growl, notify-send, toaster, etc)",
+          "title": "JoliNotif",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-28T21:57:43Z",
+            "owner": "jolicode",
+            "repo": "JoliNotif",
+            "stars": 1437
+          }
+        },
+        {
+          "children": [],
+          "description": "A standalone library for device push notifications.",
+          "title": "Notification Pusher",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-09-05T08:12:02Z",
+            "owner": "Ph3nol",
+            "repo": "NotificationPusher",
+            "stars": 1182
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for handling push notifications.",
+          "title": "Notificato",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2020-02-18T17:17:22Z",
+            "owner": "mac-cain13",
+            "repo": "notificato",
+            "stars": 225
+          }
+        },
+        {
+          "children": [],
+          "description": "A lightweight notification library.",
+          "title": "Notificator",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-06-05T22:12:10Z",
+            "owner": "namshi",
+            "repo": "notificator",
+            "stars": 192
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP Library to easily send push notifications with the Pushwoosh REST Web Services.",
+          "title": "Php-pushwoosh",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-10-06T06:26:20Z",
+            "owner": "gomoob",
+            "repo": "php-pushwoosh",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Notifications"
+    },
+    {
+      "description": "Libraries for project deployment.",
+      "items": [
+        {
+          "children": [],
+          "description": "A deployment tool.",
+          "title": "Deployer",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-05T10:10:00Z",
+            "owner": "deployphp",
+            "repo": "deployer",
+            "stars": 10996
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool to run SSH tasks with PHP.",
+          "title": "Envoy",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-07-30T16:05:43Z",
+            "owner": "laravel",
+            "repo": "envoy",
+            "stars": 1612
+          }
+        },
+        {
+          "children": [],
+          "description": "A fast and easy deployer for the PHP world.",
+          "title": "Rocketeer",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2020-09-05T10:17:17Z",
+            "owner": "rocketeers",
+            "repo": "rocketeer",
+            "stars": 2642
+          }
+        }
+      ],
+      "title": "Deployment"
+    },
+    {
+      "description": "Libraries for Internationalization (I18n) and Localization (L10n).",
+      "items": [
+        {
+          "children": [],
+          "description": "Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.",
+          "title": "Aura.Intl",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-12-12T05:13:47Z",
+            "owner": "auraphp",
+            "repo": "Aura.Intl",
+            "stars": 89
+          }
+        },
+        {
+          "children": [],
+          "description": "Message translation and localization for dates and numbers.",
+          "title": "CakePHP I18n",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-15T03:33:34Z",
+            "owner": "cakephp",
+            "repo": "i18n",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Internationalisation and Localisation"
+    },
+    {
+      "description": "Libraries and tools for configuration.",
+      "items": [
+        {
+          "children": [],
+          "description": "Parse and load environment variables from  files.",
+          "title": "PHP Dotenv",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-27T19:51:37Z",
+            "owner": "vlucas",
+            "repo": "phpdotenv",
+            "stars": 13511
+          }
+        },
+        {
+          "children": [],
+          "description": "Parse and load environment variables from  files.",
+          "title": "Symfony Dotenv",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-07T16:10:31Z",
+            "owner": "symfony",
+            "repo": "dotenv",
+            "stars": 3801
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP parser for .",
+          "title": "Yo! Symfony TOML",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-08-08T20:48:54Z",
+            "owner": "yosymfony",
+            "repo": "toml",
+            "stars": 209
+          }
+        }
+      ],
+      "title": "Configuration"
+    },
+    {
+      "description": "Libraries for working with Large Language Models.",
+      "items": [
+        {
+          "children": [],
+          "description": "Structured data outputs with LLMs, in PHP.",
+          "title": "Instructor for PHP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-04T13:29:03Z",
+            "owner": "cognesy",
+            "repo": "instructor-php",
+            "stars": 302
+          }
+        },
+        {
+          "children": [],
+          "description": "A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.",
+          "title": "LLPhant",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-25T15:18:27Z",
+            "owner": "LLPhant",
+            "repo": "LLPhant",
+            "stars": 1419
+          }
+        },
+        {
+          "children": [],
+          "description": "OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.",
+          "title": "OpenAI Client",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-28T14:57:18Z",
+            "owner": "openai-php",
+            "repo": "client",
+            "stars": 5715
+          }
+        },
+        {
+          "children": [],
+          "description": "OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.",
+          "title": "OpenAI Client for Laravel",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-15T13:22:36Z",
+            "owner": "openai-php",
+            "repo": "laravel",
+            "stars": 3708
+          }
+        },
+        {
+          "children": [],
+          "description": "A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.",
+          "title": "PHP Mistral AI SDK",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-21T15:07:30Z",
+            "owner": "SoftCreatR",
+            "repo": "php-mistral-ai-sdk",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "LLMs"
+    },
+    {
+      "description": "Libraries for accessing third party APIs.",
+      "items": [
+        {
+          "children": [],
+          "description": "The official PHP AWS SDK library.",
+          "title": "Amazon Web Service SDK",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T19:16:13Z",
+            "owner": "aws",
+            "repo": "aws-sdk-php",
+            "stars": 6177
+          }
+        },
+        {
+          "children": [],
+          "description": "An unofficial asynchronous PHP AWS SDK.",
+          "title": "AsyncAWS"
+        },
+        {
+          "children": [],
+          "description": "The official Campaign Monitor PHP library.",
+          "title": "Campaign Monitor"
+        },
+        {
+          "children": [],
+          "description": "A library to interface with the Github API.",
+          "title": "Github",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-24T15:34:53Z",
+            "owner": "KnpLabs",
+            "repo": "php-github-api",
+            "stars": 2197
+          }
+        },
+        {
+          "children": [],
+          "description": "The official Mailgun PHP API.",
+          "title": "Mailgun",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-29T20:52:31Z",
+            "owner": "mailgun",
+            "repo": "mailgun-php",
+            "stars": 1133
+          }
+        },
+        {
+          "children": [],
+          "description": "The official Square PHP SDK for payments and other Square APIs.",
+          "title": "Square",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2020-06-29T20:54:08Z",
+            "owner": "square",
+            "repo": "connect-php-sdk",
+            "stars": 116
+          }
+        },
+        {
+          "children": [],
+          "description": "The official Stripe PHP library.",
+          "title": "Stripe",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-04T21:31:43Z",
+            "owner": "stripe",
+            "repo": "stripe-php",
+            "stars": 3979
+          }
+        },
+        {
+          "children": [],
+          "description": "The official Twilio PHP REST API.",
+          "title": "Twilio",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-05T12:32:58Z",
+            "owner": "twilio",
+            "repo": "twilio-php",
+            "stars": 1634
+          }
+        }
+      ],
+      "title": "Third Party APIs"
+    },
+    {
+      "description": "Useful libraries or utilities that don't fit into the categories above.",
+      "items": [
+        {
+          "children": [],
+          "description": "An annotation library (part of Doctrine).",
+          "title": "Annotations",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-11T07:45:03Z",
+            "owner": "doctrine",
+            "repo": "annotations",
+            "stars": 6752
+          }
+        },
+        {
+          "children": [],
+          "description": "A framework agnostic PHP library to build cross-platform chatbots.",
+          "title": "BotMan",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-09-26T08:39:45Z",
+            "owner": "botman",
+            "repo": "botman",
+            "stars": 6170
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for optimizing autoloading.",
+          "title": "ClassPreloader",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-01-13T00:17:31Z",
+            "owner": "ClassPreloader",
+            "repo": "ClassPreloader",
+            "stars": 376
+          }
+        },
+        {
+          "children": [],
+          "description": "A PHP implementation of Circuit Breaker pattern.",
+          "title": "Ganesha",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-08-26T02:06:46Z",
+            "owner": "ackintosh",
+            "repo": "ganesha",
+            "stars": 654
+          }
+        },
+        {
+          "children": [],
+          "description": "A cross-language RPC.",
+          "title": "Hprose-PHP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-02-06T02:36:52Z",
+            "owner": "hprose",
+            "repo": "hprose-php",
+            "stars": 2068
+          }
+        },
+        {
+          "children": [],
+          "description": "A library that allows Closures to be serialized.",
+          "title": "Laravel Serializable Closure",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-04T18:43:58Z",
+            "owner": "laravel",
+            "repo": "serializable-closure",
+            "stars": 597
+          }
+        },
+        {
+          "children": [],
+          "description": "Helper for Google's noCAPTCHA (reCAPTCHA).",
+          "title": "noCAPTCHA",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-13T08:34:38Z",
+            "owner": "ARCANEDEV",
+            "repo": "noCAPTCHA",
+            "stars": 366
+          }
+        },
+        {
+          "children": [],
+          "description": "A pagination library.",
+          "title": "Pagerfanta",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-06-09T11:57:17Z",
+            "owner": "whiteoctober",
+            "repo": "Pagerfanta",
+            "stars": 1582
+          }
+        },
+        {
+          "children": [],
+          "description": "All PHP functions, rewritten to throw exceptions instead of returning false.",
+          "title": "Safe",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-04T18:08:13Z",
+            "owner": "thecodingmachine",
+            "repo": "safe",
+            "stars": 2480
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "Tools to help install and manage PHP on your computer.",
+      "items": [
+        {
+          "children": [],
+          "description": "Brew PHP switcher.",
+          "title": "Brew PHP Switcher",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-11-25T05:09:40Z",
+            "owner": "philcook",
+            "repo": "brew-php-switcher",
+            "stars": 1004
+          }
+        },
+        {
+          "children": [],
+          "description": "A package manager for OSX.",
+          "title": "HomeBrew"
+        },
+        {
+          "children": [],
+          "description": "A PHP version manager and installer.",
+          "title": "PHP Brew",
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-01-28T12:16:45Z",
+            "owner": "phpbrew",
+            "repo": "phpbrew",
+            "stars": 5522
+          }
+        },
+        {
+          "children": [],
+          "description": "Another PHP version installer.",
+          "title": "PHP Build",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-04T00:41:12Z",
+            "owner": "php-build",
+            "repo": "php-build",
+            "stars": 1043
+          }
+        },
+        {
+          "children": [],
+          "description": "Build or  static versions of PHP CLI and FPM.",
+          "title": "Static PHP CLI",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T13:17:25Z",
+            "owner": "crazywhalecc",
+            "repo": "static-php-cli",
+            "stars": 1815
+          }
+        }
+      ],
+      "title": "PHP Installation"
+    },
+    {
+      "description": "Software and tools for creating and sharing a development environment.",
+      "items": [
+        {
+          "children": [],
+          "description": "A radically simple orchestration framework.",
+          "title": "Ansible"
+        },
+        {
+          "children": [],
+          "description": "a local web development environment system for PHP.",
+          "title": "DDEV",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-08T03:42:37Z",
+            "owner": "ddev",
+            "repo": "ddev",
+            "stars": 3482
+          }
+        },
+        {
+          "children": [],
+          "description": "A containerization platform.",
+          "title": "Docker"
+        },
+        {
+          "children": [],
+          "description": "Easily install PHP extensions in Docker containers.",
+          "title": "Docker PHP Extension Installer",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-07T12:09:04Z",
+            "owner": "mlocati",
+            "repo": "docker-php-extension-installer",
+            "stars": 4850
+          }
+        },
+        {
+          "children": [],
+          "description": "Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.",
+          "title": "Docksal",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-19T12:16:50Z",
+            "owner": "docksal",
+            "repo": "docksal",
+            "stars": 713
+          }
+        },
+        {
+          "children": [],
+          "description": "An open-source PHP tunneling service.",
+          "title": "Expose",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-26T15:09:43Z",
+            "owner": "exposedev",
+            "repo": "expose",
+            "stars": 4520
+          }
+        },
+        {
+          "children": [],
+          "description": "Push-button development environments.",
+          "title": "Lando"
+        },
+        {
+          "children": [],
+          "description": "A local development environment for Laravel.",
+          "title": "Laravel Homestead"
+        },
+        {
+          "children": [],
+          "description": "A one click PHP development environment for macOS and Windows.",
+          "title": "Laravel Herd"
+        },
+        {
+          "children": [],
+          "description": "A full PHP development environment based on Docker.",
+          "title": "Laradock"
+        },
+        {
+          "children": [],
+          "description": "A macOS menu bar app for managing PHP installations (works with ).",
+          "title": "PHPMon"
+        },
+        {
+          "children": [],
+          "description": "A server automation framework and application.",
+          "title": "Puppet"
+        },
+        {
+          "children": [],
+          "description": "A Docker-based development-only dependency manager.",
+          "title": "Takeout",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-29T16:08:16Z",
+            "owner": "tighten",
+            "repo": "takeout",
+            "stars": 1650
+          }
+        },
+        {
+          "children": [],
+          "description": "A portable development environment utility.",
+          "title": "Vagrant"
+        }
+      ],
+      "title": "Development Environment"
+    },
+    {
+      "description": "Alternative PHP virtual machines.",
+      "items": [
+        {
+          "children": [],
+          "description": "A programming language for HHVM.",
+          "title": "Hack"
+        },
+        {
+          "children": [],
+          "description": "A Virtual Machine, Runtime and JIT for PHP by Facebook.",
+          "title": "HHVM",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-07T21:32:46Z",
+            "owner": "facebook",
+            "repo": "hhvm",
+            "stars": 18602
+          }
+        },
+        {
+          "children": [],
+          "description": "PHP compiler and runtime for .NET and .NET Core.",
+          "title": "PeachPie",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-22T13:18:49Z",
+            "owner": "peachpiecompiler",
+            "repo": "peachpie",
+            "stars": 2469
+          }
+        }
+      ],
+      "title": "Virtual Machines"
+    },
+    {
+      "description": "Web-based applications and tools.",
+      "items": [
+        {
+          "children": [],
+          "description": "An online PHP & HHVM shell.",
+          "title": "3V4L"
+        },
+        {
+          "children": [],
+          "description": "Database management in a single PHP file.",
+          "title": "Adminer"
+        },
+        {
+          "children": [],
+          "description": "The open source status page system.",
+          "title": "Cachet",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-08T15:35:28Z",
+            "owner": "cachethq",
+            "repo": "cachet",
+            "stars": 14898
+          }
+        },
+        {
+          "children": [],
+          "description": "A database version control application.",
+          "title": "DBV"
+        },
+        {
+          "children": [],
+          "description": "An easy to use and great looking photo-management-system.",
+          "title": "Lychee",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-01-08T15:56:54Z",
+            "owner": "electerious",
+            "repo": "Lychee",
+            "stars": 6368
+          }
+        },
+        {
+          "children": [],
+          "description": "A web tool for capturing and viewing emails.",
+          "title": "MailCatcher",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-05-25T04:47:59Z",
+            "owner": "sj26",
+            "repo": "mailcatcher",
+            "stars": 6728
+          }
+        },
+        {
+          "children": [],
+          "description": "A web interface for MySQL/MariaDB.",
+          "title": "phpMyAdmin",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-08T00:45:49Z",
+            "owner": "phpmyadmin",
+            "repo": "phpmyadmin",
+            "stars": 7790
+          }
+        },
+        {
+          "children": [],
+          "description": "An application for managing queueing backends.",
+          "title": "PHP Queue",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-04T01:22:49Z",
+            "owner": "CoderKungfu",
+            "repo": "php-queue",
+            "stars": 665
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple web interface to manage  databases.",
+          "title": "phpRedisAdmin",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-22T14:53:41Z",
+            "owner": "ErikDubbelboer",
+            "repo": "phpRedisAdmin",
+            "stars": 3187
+          }
+        },
+        {
+          "children": [],
+          "description": "An online IDE for PHP in the browser.",
+          "title": "PHPSandbox"
+        }
+      ],
+      "title": "Web Applications"
+    },
+    {
+      "description": "Infrastructure for providing PHP applications and services.",
+      "items": [
+        {
+          "children": [],
+          "description": "A multithreaded application server for PHP, written in PHP.",
+          "title": "appserver.io",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-15T13:17:00Z",
+            "owner": "appserver-io",
+            "repo": "appserver",
+            "stars": 963
+          }
+        },
+        {
+          "children": [],
+          "description": "A process manager, supercharger and load balancer for PHP applications.",
+          "title": "php-pm",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-12-08T21:41:22Z",
+            "owner": "php-pm",
+            "repo": "php-pm",
+            "stars": 6568
+          }
+        },
+        {
+          "children": [],
+          "description": "High-performance PHP application server, load-balancer and process manager.",
+          "title": "RoadRunner",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-05T15:10:52Z",
+            "owner": "roadrunner-server",
+            "repo": "roadrunner",
+            "stars": 8388
+          }
+        }
+      ],
+      "title": "Infrastructure"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:35:00.903Z",
+    "original_repository": "ziadoz/awesome-php",
+    "source_repository": "v1nvn/enhansome-php",
+    "source_repository_description": null,
+    "title": "Resources"
+  }
+}

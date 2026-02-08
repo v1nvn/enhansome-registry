@@ -1,0 +1,2214 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Framework for smart contract testing and verification featuring a code extraction pipeline to several smart contract languages.",
+          "title": "ConCert",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-25T18:36:22Z",
+            "owner": "AU-COBRA",
+            "repo": "ConCert",
+            "stars": 124
+          }
+        },
+        {
+          "children": [],
+          "description": "Framework to ease change of data representations in proofs.",
+          "title": "CoqEAL",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-20T13:25:44Z",
+            "owner": "CoqEAL",
+            "repo": "CoqEAL",
+            "stars": 74
+          }
+        },
+        {
+          "children": [],
+          "description": "Framework for proofs of cryptography.",
+          "title": "FCF",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-10-02T19:51:09Z",
+            "owner": "adampetcher",
+            "repo": "fcf",
+            "stars": 55
+          }
+        },
+        {
+          "children": [],
+          "description": "Mostly automated synthesis of correct-by-construction programs.",
+          "title": "Fiat",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-27T08:01:16Z",
+            "owner": "mit-plv",
+            "repo": "fiat",
+            "stars": 157
+          }
+        },
+        {
+          "children": [],
+          "description": "Framework for modularly verifying programs with effects and effect handlers.",
+          "title": "FreeSpec",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2024-01-16T19:04:08Z",
+            "owner": "lthms",
+            "repo": "FreeSpec",
+            "stars": 53
+          }
+        },
+        {
+          "children": [],
+          "description": "A shallow embedding of sequential separation logic formulated as a type theory.",
+          "title": "Hoare Type Theory",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-06-12T11:42:31Z",
+            "owner": "imdea-software",
+            "repo": "htt",
+            "stars": 84
+          }
+        },
+        {
+          "children": [],
+          "description": "System for reasoning using higher-order abstract syntax representations of object logics.",
+          "title": "Hybrid"
+        },
+        {
+          "children": [],
+          "description": "Higher-order concurrent separation logic framework.",
+          "title": "Iris"
+        },
+        {
+          "children": [],
+          "description": "Platform for implementing and verifying query compilers.",
+          "title": "Q*cert",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2024-07-17T16:31:36Z",
+            "owner": "querycert",
+            "repo": "qcert",
+            "stars": 57
+          }
+        },
+        {
+          "children": [],
+          "description": "Framework for modular cryptographic proofs based on the Mathematical Components library.",
+          "title": "SSProve",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-02-05T14:31:44Z",
+            "owner": "SSProve",
+            "repo": "ssprove",
+            "stars": 73
+          }
+        },
+        {
+          "children": [],
+          "description": "Framework for verifying C programs with floating-point computations.",
+          "title": "VCFloat",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-09T15:44:36Z",
+            "owner": "VeriNum",
+            "repo": "vcfloat",
+            "stars": 32
+          }
+        },
+        {
+          "children": [],
+          "description": "Framework for formally verifying distributed systems implementations.",
+          "title": "Verdi",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-27T13:15:07Z",
+            "owner": "uwplse",
+            "repo": "verdi",
+            "stars": 618
+          }
+        },
+        {
+          "children": [],
+          "description": "Toolchain for verifying C code inside Coq in a higher-order concurrent, impredicative separation logic that is sound w.r.t. the Clight language of the CompCert compiler.",
+          "title": "VST"
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Standalone graphical tool for interacting with Coq.",
+          "title": "CoqIDE"
+        },
+        {
+          "children": [],
+          "description": "Interface for Coq based on the Vim text editor.",
+          "title": "Coqtail",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T23:36:35Z",
+            "owner": "whonore",
+            "repo": "Coqtail",
+            "stars": 314
+          }
+        },
+        {
+          "children": [],
+          "description": "Language server and extension for the Visual Studio Code and VSCodium editors with custom document checking engine.",
+          "title": "Coq LSP",
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-02-04T16:00:25Z",
+            "owner": "ejgallego",
+            "repo": "coq-lsp",
+            "stars": 197
+          }
+        },
+        {
+          "children": [],
+          "description": "Generic interface for proof assistants based on the extensible, customizable text editor Emacs.",
+          "title": "Proof General"
+        },
+        {
+          "children": [],
+          "description": "IDE extensions for Proof General's Coq mode.",
+          "title": "Company-Coq",
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2025-08-17T16:29:42Z",
+            "owner": "cpitclaudel",
+            "repo": "company-coq",
+            "stars": 359
+          }
+        },
+        {
+          "children": [],
+          "description": "IDE extension for Proof General to locally change or reset the opam switch from a menu or using a command.",
+          "title": "opam-switch-mode",
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2023-08-02T09:17:29Z",
+            "owner": "ProofGeneral",
+            "repo": "opam-switch-mode",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Port of Coq to JavaScript, which enables running Coq projects in a browser.",
+          "title": "jsCoq",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-21T23:14:16Z",
+            "owner": "jscoq",
+            "repo": "jscoq",
+            "stars": 537
+          }
+        },
+        {
+          "children": [],
+          "description": "Coq support for the Jupyter Notebook web environment.",
+          "title": "Jupyter kernel for Coq",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-03T21:23:12Z",
+            "owner": "EugeneLoy",
+            "repo": "coq_jupyter",
+            "stars": 95
+          }
+        },
+        {
+          "children": [],
+          "description": "Language server and extension for the Visual Studio Code and VSCodium editors.",
+          "title": "VsCoq",
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2025-12-10T07:32:17Z",
+            "owner": "coq-community",
+            "repo": "vscoq",
+            "stars": 432
+          }
+        },
+        {
+          "children": [],
+          "description": "Backwards-compatible extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol.",
+          "title": "VsCoq Legacy",
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2025-12-10T07:32:17Z",
+            "owner": "coq-community",
+            "repo": "vscoq",
+            "stars": 432
+          }
+        },
+        {
+          "children": [],
+          "description": "Educational environment for writing mathematical proofs in interactive notebooks.",
+          "title": "Waterproof editor",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-19T19:34:42Z",
+            "owner": "impermeable",
+            "repo": "waterproof",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "Partial Rocq tree-sitter grammar useful for syntax highlighting in text editors like , but not recommended for full parsing of Rocq code.",
+          "title": "Tree Sitter Rocq",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-08-17T10:53:12Z",
+            "owner": "lamg",
+            "repo": "tree-sitter-rocq",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "User Interfaces"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Library for reasoning on randomized algorithms.",
+          "title": "ALEA",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2021-11-03T14:26:30Z",
+            "owner": "coq-community",
+            "repo": "alea",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Ring and field tactics for Mathematical Components.",
+          "title": "Algebra Tactics",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-09-15T12:49:17Z",
+            "owner": "math-comp",
+            "repo": "algebra-tactics",
+            "stars": 38
+          }
+        },
+        {
+          "children": [],
+          "description": "Library of arbitrarily large numbers.",
+          "title": "Bignums",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-09T08:54:05Z",
+            "owner": "coq",
+            "repo": "bignums",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for reasoning on fixed precision machine words.",
+          "title": "Bedrock Bit Vectors",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-10-28T17:44:33Z",
+            "owner": "mit-plv",
+            "repo": "bbv",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for reasoning about directed graphs and their embedding in separation logic.",
+          "title": "CertiGraph",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2025-08-21T14:03:22Z",
+            "owner": "Salamari",
+            "repo": "CertiGraph",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Library on rewriting theory, lambda-calculus and termination, with sub-libraries on common data structures extending the Coq standard library.",
+          "title": "CoLoR",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-27T08:38:36Z",
+            "owner": "fblanqui",
+            "repo": "color",
+            "stars": 37
+          }
+        },
+        {
+          "children": [],
+          "description": "Library smoothing the transition to Coq for Haskell users.",
+          "title": "coq-haskell",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2023-10-15T18:12:24Z",
+            "owner": "jwiegley",
+            "repo": "coq-haskell",
+            "stars": 171
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of libraries related to rose trees and Kruskal's tree theorem.",
+          "title": "Coq-Kruskal",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-06T14:29:19Z",
+            "owner": "DmxLarchey",
+            "repo": "Coq-Kruskal",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Tactics for performing proofs of inequalities on expressions of real numbers.",
+          "title": "CoqInterval"
+        },
+        {
+          "children": [],
+          "description": "Library which provides a generic way to update Coq record fields.",
+          "title": "Coq record update",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-11-25T23:50:53Z",
+            "owner": "tchajed",
+            "repo": "coq-record-update",
+            "stars": 48
+          }
+        },
+        {
+          "children": [],
+          "description": "Extended alternative standard library for Coq.",
+          "title": "Coq-std++"
+        },
+        {
+          "children": [],
+          "description": "Collection of theories and plugins that may be useful in other Coq developments.",
+          "title": "ExtLib",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-10-02T21:40:48Z",
+            "owner": "coq-community",
+            "repo": "coq-ext-lib",
+            "stars": 137
+          }
+        },
+        {
+          "children": [],
+          "description": "Formalization of partial commutative monoids as used in verification of pointer-manipulating programs.",
+          "title": "FCSL-PCM",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-06-09T16:13:49Z",
+            "owner": "imdea-software",
+            "repo": "fcsl-pcm",
+            "stars": 32
+          }
+        },
+        {
+          "children": [],
+          "description": "Formalization of floating-point numbers and computations.",
+          "title": "Flocq"
+        },
+        {
+          "children": [],
+          "description": "Library of undecidable problems and reductions between them.",
+          "title": "Formalised Undecidable Problems",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2026-01-02T18:33:53Z",
+            "owner": "uds-psl",
+            "repo": "coq-library-undecidability",
+            "stars": 129
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for reasoning on lists and binary relations.",
+          "title": "Hahn",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2024-06-25T12:12:50Z",
+            "owner": "vafeiadis",
+            "repo": "hahn",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for representing recursive and impure programs.",
+          "title": "Interaction Trees",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-22T17:41:59Z",
+            "owner": "DeepSpec",
+            "repo": "InteractionTrees",
+            "stars": 242
+          }
+        },
+        {
+          "children": [],
+          "description": "Library of Ltac tactics to manage and manipulate hypotheses in proofs.",
+          "title": "LibHyps",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-12-05T16:32:58Z",
+            "owner": "Matafou",
+            "repo": "LibHyps",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "Extra material for the Mathematical Components library, including the AKS primality test and RSA encryption and decryption.",
+          "title": "MathComp Extra",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-28T16:08:27Z",
+            "owner": "thery",
+            "repo": "mathcomp-extra",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Library enabling Micromega arithmetic solvers to work when using Mathematical Components number definitions.",
+          "title": "Mczify",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-12-09T15:01:01Z",
+            "owner": "math-comp",
+            "repo": "mczify",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for programming language metatheory using locally nameless variable binding representations.",
+          "title": "Metalib",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2025-03-26T13:07:29Z",
+            "owner": "plclub",
+            "repo": "metalib",
+            "stars": 75
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for parameterized coinduction.",
+          "title": "Paco"
+        },
+        {
+          "children": [],
+          "description": "Translations between different definitions of regular languages, including regular expressions and automata.",
+          "title": "Regular Language Representations",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2025-04-23T11:23:43Z",
+            "owner": "coq-community",
+            "repo": "reglang",
+            "stars": 47
+          }
+        },
+        {
+          "children": [],
+          "description": "Modular formalization of algebras with heterogeneous binary relations as models.",
+          "title": "Relation Algebra",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-27T17:35:02Z",
+            "owner": "damien-pous",
+            "repo": "relation-algebra",
+            "stars": 50
+          }
+        },
+        {
+          "children": [],
+          "description": "Input/output monad with user-definable primitive operations.",
+          "title": "Simple IO",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-12-17T17:32:47Z",
+            "owner": "Lysxia",
+            "repo": "coq-simple-io",
+            "stars": 33
+          }
+        },
+        {
+          "children": [],
+          "description": "Non-constructive alternative to Coq's standard library.",
+          "title": "TLC",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-20T09:29:13Z",
+            "owner": "charguer",
+            "repo": "tlc",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Build tool distributed with Coq and based on generating a makefile.",
+          "title": "coq_makefile"
+        },
+        {
+          "children": [],
+          "description": "Nix helper scripts to automate local builds and continuous integration for Coq.",
+          "title": "Coq Nix Toolbox",
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-02-06T07:06:07Z",
+            "owner": "coq-community",
+            "repo": "coq-nix-toolbox",
+            "stars": 50
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of Coq packages based on opam.",
+          "title": "Coq Package Index"
+        },
+        {
+          "children": [],
+          "description": "Curated collection of packages to support Coq use in industry, education, and research.",
+          "title": "Coq Platform",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-05T14:41:40Z",
+            "owner": "coq",
+            "repo": "platform",
+            "stars": 224
+          }
+        },
+        {
+          "children": [],
+          "description": "Templates for generating configuration files for Coq projects.",
+          "title": "coq-community Templates",
+          "repo_info": {
+            "archived": false,
+            "language": "Mustache",
+            "last_commit": "2025-10-30T13:32:15Z",
+            "owner": "coq-community",
+            "repo": "templates",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Coq-related packages available in the testing distribution of Debian.",
+          "title": "Debian Coq packages"
+        },
+        {
+          "children": [],
+          "description": "Docker images for many versions of Coq.",
+          "title": "Docker-Coq",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-05-13T16:51:54Z",
+            "owner": "coq-community",
+            "repo": "docker-coq",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "Docker images for many combinations of versions of Coq and the Mathematical Components library.",
+          "title": "Docker-MathComp",
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2025-11-24T13:27:18Z",
+            "owner": "math-comp",
+            "repo": "docker-mathcomp",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "GitHub container action that can be used with Docker-Coq or Docker-MathComp.",
+          "title": "Docker-Coq GitHub Action"
+        },
+        {
+          "children": [],
+          "description": "Composable and opinionated build system for OCaml and Coq (former jbuilder).",
+          "title": "Dune"
+        },
+        {
+          "children": [],
+          "description": "Package manager for Linux and other Unix systems, supporting atomic upgrades and rollbacks.",
+          "title": "Nix"
+        },
+        {
+          "children": [],
+          "description": "Collection of Coq-related packages for Nix.",
+          "title": "Nix Coq packages"
+        },
+        {
+          "children": [],
+          "description": "Flexible and Git-friendly package manager for OCaml and Coq with multiple compiler support.",
+          "title": "opam"
+        }
+      ],
+      "title": "Package and Build Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Tactics for rewriting universally quantified equations, modulo associativity and commutativity of some operator.",
+          "title": "AAC Tactics",
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2025-10-28T09:24:42Z",
+            "owner": "coq-community",
+            "repo": "aac-tactics",
+            "stars": 36
+          }
+        },
+        {
+          "children": [],
+          "description": "Plugin for doing proofs by enhanced coinduction.",
+          "title": "Coinduction",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-11-14T11:49:23Z",
+            "owner": "damien-pous",
+            "repo": "coinduction",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "Extension framework based on λProlog providing an extensive API to implement commands and tactics.",
+          "title": "Coq-Elpi",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-02-06T08:26:09Z",
+            "owner": "LPCIC",
+            "repo": "coq-elpi",
+            "stars": 181
+          }
+        },
+        {
+          "children": [],
+          "description": "General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs.",
+          "title": "CoqHammer",
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2025-12-02T17:15:17Z",
+            "owner": "lukaszcz",
+            "repo": "coqhammer",
+            "stars": 237
+          }
+        },
+        {
+          "children": [],
+          "description": "Function definition package for Coq.",
+          "title": "Equations",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2026-02-05T16:35:02Z",
+            "owner": "mattam82",
+            "repo": "Coq-Equations",
+            "stars": 236
+          }
+        },
+        {
+          "children": [],
+          "description": "Tactic for discharging goals about floating-point arithmetic and round-off errors.",
+          "title": "Gappa"
+        },
+        {
+          "children": [],
+          "description": "Collection of commands for declaring Coq hierarchies based on packed classes.",
+          "title": "Hierarchy Builder",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-28T14:11:03Z",
+            "owner": "math-comp",
+            "repo": "hierarchy-builder",
+            "stars": 104
+          }
+        },
+        {
+          "children": [],
+          "description": "SMT-like tactics for combined propositional reasoning about function symbols, constructors, and arithmetic.",
+          "title": "Itauto"
+        },
+        {
+          "children": [],
+          "description": "Experimental typed tactic language similar to Coq's classic Ltac language.",
+          "title": "Ltac2"
+        },
+        {
+          "children": [],
+          "description": "Project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins.",
+          "title": "MetaCoq",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-02-06T16:18:12Z",
+            "owner": "MetaCoq",
+            "repo": "metacoq",
+            "stars": 503
+          }
+        },
+        {
+          "children": [],
+          "description": "Plugin adding typed tactics for backward reasoning.",
+          "title": "Mtac2",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-02-02T13:45:12Z",
+            "owner": "Mtac2",
+            "repo": "Mtac2",
+            "stars": 56
+          }
+        },
+        {
+          "children": [],
+          "description": "Plugin to generate parametricity translations of Coq terms.",
+          "title": "Paramcoq",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-08T18:37:36Z",
+            "owner": "coq-community",
+            "repo": "paramcoq",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "Plugin for randomized property-based testing.",
+          "title": "QuickChick",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-27T17:05:53Z",
+            "owner": "QuickChick",
+            "repo": "QuickChick",
+            "stars": 280
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool that checks proof witnesses coming from external SAT and SMT solvers.",
+          "title": "SMTCoq",
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-02-04T08:52:35Z",
+            "owner": "smtcoq",
+            "repo": "smtcoq",
+            "stars": 163
+          }
+        },
+        {
+          "children": [],
+          "description": "Interactive tool which learns from previously written tactic scripts across all the installed Coq packages and suggests the next tactic to be executed or tries to automate proof synthesis fully.",
+          "title": "Tactician"
+        },
+        {
+          "children": [],
+          "description": "Plugin that replaces the existing unification algorithm with an enhanced one.",
+          "title": "Unicoq",
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-01-30T19:29:26Z",
+            "owner": "unicoq",
+            "repo": "unicoq",
+            "stars": 58
+          }
+        },
+        {
+          "children": [],
+          "description": "Plugin providing a language for writing proof scripts in a style that resembles non-mechanized mathematical proof.",
+          "title": "Waterproof proof language",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-02-04T16:20:17Z",
+            "owner": "impermeable",
+            "repo": "coq-waterproof",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Coq implementation of Sokoban, the Japanese warehouse keepers' game.",
+          "title": "Coqoban",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2025-01-03T16:48:52Z",
+            "owner": "coq-community",
+            "repo": "coqoban",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "The Tower of Hanoi puzzle in Coq, including generalizations and theorems about configurations.",
+          "title": "Hanoi",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-29T01:01:28Z",
+            "owner": "thery",
+            "repo": "hanoi",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "Coq formalization and solver of the 2x2x2 version of the Rubik's Cube puzzle.",
+          "title": "Mini-Rubik",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-29T13:02:13Z",
+            "owner": "thery",
+            "repo": "minirubik",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Repository for submitting proven contenders for the title of biggest number in Coq.",
+          "title": "Name the Biggest Number",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2022-09-13T02:25:08Z",
+            "owner": "codyroux",
+            "repo": "name-the-biggest-number",
+            "stars": 64
+          }
+        },
+        {
+          "children": [],
+          "description": "Coq version of the natural number game developed for the Lean prover.",
+          "title": "Natural Number Game",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2022-11-10T09:45:18Z",
+            "owner": "uncomputable",
+            "repo": "natural-number-game",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Formalization and solver of the Sudoku number-placement puzzle in Coq.",
+          "title": "Sudoku",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2022-11-14T14:50:15Z",
+            "owner": "coq-community",
+            "repo": "sudoku",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "Coq version of the 2048 sliding tile game.",
+          "title": "T2048",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-30T15:20:34Z",
+            "owner": "thery",
+            "repo": "T2048",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Puzzles and Games"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Collection of tools for writing technical documents that mix Coq code and prose.",
+          "title": "Alectryon",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-09-15T22:07:11Z",
+            "owner": "cpitclaudel",
+            "repo": "alectryon",
+            "stars": 284
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.",
+          "title": "Autosubst-ocaml",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2025-11-24T19:56:05Z",
+            "owner": "uds-psl",
+            "repo": "autosubst-ocaml",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool for proving properties of OCaml programs in separation logic.",
+          "title": "CFML"
+        },
+        {
+          "children": [],
+          "description": "Alternative HTML documentation generator for Coq.",
+          "title": "coq2html",
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2024-08-23T10:08:30Z",
+            "owner": "xavierleroy",
+            "repo": "coq2html",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "Standard documentation tool that generates LaTeX or HTML files from Coq code.",
+          "title": "coqdoc"
+        },
+        {
+          "children": [],
+          "description": "Tool for generating idiomatic Coq from OCaml code.",
+          "title": "CoqOfOCaml",
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2024-08-05T08:22:40Z",
+            "owner": "clarus",
+            "repo": "coq-of-ocaml",
+            "stars": 270
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool for building dependency graphs between Coq objects.",
+          "title": "coq-dpdgraph",
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-02-07T08:22:04Z",
+            "owner": "coq-community",
+            "repo": "coq-dpdgraph",
+            "stars": 97
+          }
+        },
+        {
+          "children": [],
+          "description": "Scripts for dealing with Coq files, including tabulating proof times.",
+          "title": "coq-scripts",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2025-03-04T17:14:00Z",
+            "owner": "JasonGross",
+            "repo": "coq-scripts",
+            "stars": 9
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Automatically minimizes source files producing an error, creating small test cases for Coq bugs.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-12-17T08:26:27Z",
+                "owner": "JasonGross",
+                "repo": "coq-tools",
+                "stars": 44
+              }
+            },
+            {
+              "children": [],
+              "description": "Processes source files to make loading of dependencies robust against shadowing of file names.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-12-17T08:26:27Z",
+                "owner": "JasonGross",
+                "repo": "coq-tools",
+                "stars": 44
+              }
+            },
+            {
+              "children": [],
+              "description": "Creates stand-alone source files from developments by inlining the loading of all dependencies.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-12-17T08:26:27Z",
+                "owner": "JasonGross",
+                "repo": "coq-tools",
+                "stars": 44
+              }
+            },
+            {
+              "children": [],
+              "description": "Removes loading of unused dependencies.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-12-17T08:26:27Z",
+                "owner": "JasonGross",
+                "repo": "coq-tools",
+                "stars": 44
+              }
+            },
+            {
+              "children": [],
+              "description": "Moves all dependency loading statements to the top of source files.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-12-17T08:26:27Z",
+                "owner": "JasonGross",
+                "repo": "coq-tools",
+                "stars": 44
+              }
+            },
+            {
+              "children": [],
+              "description": "Lifts many vernacular commands and inner lemmas out of proof script blocks.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-12-17T08:26:27Z",
+                "owner": "JasonGross",
+                "repo": "coq-tools",
+                "stars": 44
+              }
+            },
+            {
+              "children": [],
+              "description": "Modifies source files to include proof annotations for faster parallel proving.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-12-17T08:26:27Z",
+                "owner": "JasonGross",
+                "repo": "coq-tools",
+                "stars": 44
+              }
+            }
+          ],
+          "description": "Scripts for manipulating Coq developments.",
+          "title": "coq-tools",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-17T08:26:27Z",
+            "owner": "JasonGross",
+            "repo": "coq-tools",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "Automated solver for reasoning about SQL query equivalences.",
+          "title": "Cosette",
+          "repo_info": {
+            "archived": false,
+            "language": "Lean",
+            "last_commit": "2024-12-18T06:03:06Z",
+            "owner": "uwdb",
+            "repo": "Cosette",
+            "stars": 682
+          }
+        },
+        {
+          "children": [],
+          "description": "Converter from Haskell code to equivalent Coq code.",
+          "title": "hs-to-coq",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2025-06-24T18:20:06Z",
+            "owner": "plclub",
+            "repo": "hs-to-coq",
+            "stars": 93
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool for generating locally nameless Coq definitions and proofs.",
+          "title": "lngen",
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2024-10-22T13:59:58Z",
+            "owner": "plclub",
+            "repo": "lngen",
+            "stars": 32
+          }
+        },
+        {
+          "children": [],
+          "description": "Parser generator that can output Coq code for verified parsers.",
+          "title": "Menhir"
+        },
+        {
+          "children": [],
+          "description": "Mutation analysis tool for Coq projects.",
+          "title": "mCoq",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-10-13T18:54:06Z",
+            "owner": "EngineeringSoftware",
+            "repo": "mcoq",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool for writing definitions of programming languages and calculi that can be translated to Coq.",
+          "title": "Ott",
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-01-15T16:20:53Z",
+            "owner": "ott-lang",
+            "repo": "ott",
+            "stars": 401
+          }
+        },
+        {
+          "children": [],
+          "description": "Set of bindings and libraries for interacting with Coq from inside Python 3.",
+          "title": "PyCoq",
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2022-01-10T16:11:16Z",
+            "owner": "ejgallego",
+            "repo": "pycoq",
+            "stars": 57
+          }
+        },
+        {
+          "children": [],
+          "description": "Fork of coq2html that adds indexes, clickable notations, Markdown and LaTeX formatting in comments, and more.",
+          "title": "Rocqnavi",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-27T23:05:01Z",
+            "owner": "affeldt-aist",
+            "repo": "rocqnavi",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool for suggesting lemma names in Coq projects.",
+          "title": "Roosterize",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-06T18:37:43Z",
+            "owner": "EngineeringSoftware",
+            "repo": "roosterize",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool for specifying instruction set architecture (ISA) semantics of processors and generating Coq definitions.",
+          "title": "Sail",
+          "repo_info": {
+            "archived": false,
+            "language": "Sail",
+            "last_commit": "2026-02-06T17:33:10Z",
+            "owner": "rems-project",
+            "repo": "sail",
+            "stars": 839
+          }
+        },
+        {
+          "children": [],
+          "description": "Tools and OCaml library for (de)serialization of Coq code to and from JSON and S-expressions.",
+          "title": "SerAPI",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2025-11-27T11:42:43Z",
+            "owner": "ejgallego",
+            "repo": "coq-serapi",
+            "stars": 137
+          }
+        },
+        {
+          "children": [],
+          "description": "Generic goal preprocessing tool for proof automation tactics.",
+          "title": "Trakt",
+          "repo_info": {
+            "archived": false,
+            "language": "Prolog",
+            "last_commit": "2026-02-05T10:28:13Z",
+            "owner": "ecranceMERCE",
+            "repo": "trakt",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Library for classical real analysis compatible with Mathematical Components.",
+          "title": "Analysis",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-02-07T19:07:35Z",
+            "owner": "math-comp",
+            "repo": "analysis",
+            "stars": 235
+          }
+        },
+        {
+          "children": [],
+          "description": "Axiom-free formalization of category theory.",
+          "title": "Category Theory in Coq",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-09T05:49:07Z",
+            "owner": "jwiegley",
+            "repo": "category-theory",
+            "stars": 792
+          }
+        },
+        {
+          "children": [],
+          "description": "Soundness, completeness, and decidability for the logics K, K*, CTL, and PDL.",
+          "title": "Completeness and Decidability of Modal Logic Calculi",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2024-08-11T14:44:54Z",
+            "owner": "coq-community",
+            "repo": "comp-dec-modal",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for certifying primality using Pocklington and Elliptic Curve certificates.",
+          "title": "CoqPrime",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-28T19:48:20Z",
+            "owner": "thery",
+            "repo": "coqprime",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": "Library of constructive real analysis and algebra.",
+          "title": "CoRN",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-09T12:14:01Z",
+            "owner": "coq-community",
+            "repo": "corn",
+            "stars": 115
+          }
+        },
+        {
+          "children": [],
+          "description": "Library of mathematical results ranging from arithmetic to real and complex analysis.",
+          "title": "Coqtail Math",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-10-20T14:59:36Z",
+            "owner": "coq-community",
+            "repo": "coqtail-math",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Formalization of classical real analysis compatible with the standard library and focusing on usability.",
+          "title": "Coquelicot"
+        },
+        {
+          "children": [],
+          "description": "Extension of Mathematical Components with finite maps, sets, and multisets.",
+          "title": "Finmap",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-11-05T16:12:29Z",
+            "owner": "math-comp",
+            "repo": "finmap",
+            "stars": 51
+          }
+        },
+        {
+          "children": [],
+          "description": "Formal proof of the Four Color Theorem, a landmark result of graph theory.",
+          "title": "Four Color Theorem",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-10-14T07:16:36Z",
+            "owner": "coq-community",
+            "repo": "fourcolor",
+            "stars": 228
+          }
+        },
+        {
+          "children": [],
+          "description": "Implementation of books from Bourbaki's Elements of Mathematics, including set theory and number theory.",
+          "title": "Gaia",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-06-27T16:35:10Z",
+            "owner": "coq-community",
+            "repo": "gaia",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "Formalization of geometry based on Tarski's axiom system.",
+          "title": "GeoCoq",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-11-17T23:46:35Z",
+            "owner": "GeoCoq",
+            "repo": "GeoCoq",
+            "stars": 204
+          }
+        },
+        {
+          "children": [],
+          "description": "Formalized graph theory results.",
+          "title": "Graph Theory",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-10-30T11:54:50Z",
+            "owner": "coq-community",
+            "repo": "graph-theory",
+            "stars": 41
+          }
+        },
+        {
+          "children": [],
+          "description": "Development of homotopy-theoretic ideas.",
+          "title": "Homotopy Type Theory",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-29T01:40:14Z",
+            "owner": "HoTT",
+            "repo": "Coq-HoTT",
+            "stars": 1366
+          }
+        },
+        {
+          "children": [],
+          "description": "Formalization of information theory and linear error-correcting codes.",
+          "title": "Infotheo",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-23T13:34:18Z",
+            "owner": "affeldt-aist",
+            "repo": "infotheo",
+            "stars": 74
+          }
+        },
+        {
+          "children": [],
+          "description": "Formalization of mathematical theories, focusing in particular on group theory.",
+          "title": "Mathematical Components"
+        },
+        {
+          "children": [],
+          "description": "Abstract interfaces for mathematical structures based on type classes.",
+          "title": "Math Classes",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-09T10:31:41Z",
+            "owner": "coq-community",
+            "repo": "math-classes",
+            "stars": 168
+          }
+        },
+        {
+          "children": [],
+          "description": "Monadic effects and equational reasoning.",
+          "title": "Monae",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-12-19T13:48:49Z",
+            "owner": "affeldt-aist",
+            "repo": "monae",
+            "stars": 74
+          }
+        },
+        {
+          "children": [],
+          "description": "Formal proof of the Odd Order Theorem, a landmark result of finite group theory.",
+          "title": "Odd Order Theorem",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-11-05T00:02:50Z",
+            "owner": "math-comp",
+            "repo": "odd-order",
+            "stars": 37
+          }
+        },
+        {
+          "children": [],
+          "description": "Proof of Puiseux's theorem and computation of roots of polynomials of Puiseux's series.",
+          "title": "Puiseuxth",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-09-02T01:24:55Z",
+            "owner": "roglo",
+            "repo": "puiseuxth",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Library which aims to formalize a substantial body of mathematics using the univalent point of view.",
+          "title": "UniMath",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-21T21:12:06Z",
+            "owner": "UniMath",
+            "repo": "UniMath",
+            "stars": 1001
+          }
+        }
+      ],
+      "title": "Type Theory and Mathematics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "High-assurance compiler for almost all of the C language (ISO C99), generating efficient code for the PowerPC, ARM, RISC-V and x86 processors.",
+          "title": "CompCert"
+        },
+        {
+          "children": [],
+          "description": "Verified hash-based approximate membership structures such as Bloom filters.",
+          "title": "Ceramist",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2020-04-13T06:57:28Z",
+            "owner": "certichain",
+            "repo": "ceramist",
+            "stars": 124
+          }
+        },
+        {
+          "children": [],
+          "description": "Verified compiler from Gallina, the internal language of Coq, down to CompCert's Clight language.",
+          "title": "CertiCoq",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-02-06T15:22:37Z",
+            "owner": "CertiCoq",
+            "repo": "certicoq",
+            "stars": 158
+          }
+        },
+        {
+          "children": [],
+          "description": "Cryptographic primitive code generation.",
+          "title": "Fiat-Crypto",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-02-07T05:49:35Z",
+            "owner": "mit-plv",
+            "repo": "fiat-crypto",
+            "stars": 805
+          }
+        },
+        {
+          "children": [],
+          "description": "Purely functional verified implementations of algorithms for searching, sorting, and other fundamental problems.",
+          "title": "Functional Algorithms Verified in SSReflect",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-10-08T20:38:22Z",
+            "owner": "clayrat",
+            "repo": "fav-ssr",
+            "stars": 50
+          }
+        },
+        {
+          "children": [],
+          "description": "Verified OCaml implementation of an algorithm for incremental cycle detection in graphs.",
+          "title": "Incremental Cycles"
+        },
+        {
+          "children": [],
+          "description": "Formalized language and verified compiler for high-assurance and high-speed cryptography.",
+          "title": "Jasmin",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-02-06T18:45:45Z",
+            "owner": "jasmin-lang",
+            "repo": "jasmin",
+            "stars": 328
+          }
+        },
+        {
+          "children": [],
+          "description": "Coq specification of ECMAScript 5 (JavaScript) with verified reference interpreter.",
+          "title": "JSCert",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2024-02-05T11:25:32Z",
+            "owner": "jscert",
+            "repo": "jscert",
+            "stars": 205
+          }
+        },
+        {
+          "children": [],
+          "description": "Formal model of a Rust core language and type system, a logical relation for the type system, and safety proofs for some Rust libraries.",
+          "title": "lambda-rust"
+        },
+        {
+          "children": [],
+          "description": "Definitions and proofs for real-time system schedulability analysis.",
+          "title": "Prosa"
+        },
+        {
+          "children": [],
+          "description": "Definition of the RISC-V processor instruction set architecture and extensions.",
+          "title": "RISC-V Specification in Coq",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-05T09:59:01Z",
+            "owner": "mit-plv",
+            "repo": "riscv-coq",
+            "stars": 116
+          }
+        },
+        {
+          "children": [],
+          "description": "Generic and modular proofs of correctness, including stability, of mergesort functions.",
+          "title": "Stable sort algorithms in Coq",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-12-10T15:29:44Z",
+            "owner": "pi8027",
+            "repo": "stablesort",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Verified implementations of algorithms for topological sorting and finding strongly connected components in finite graphs.",
+          "title": "Tarjan and Kosaraju",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-10-14T08:34:23Z",
+            "owner": "math-comp",
+            "repo": "tarjan",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Verified compiler for a Lustre/Scade-like dataflow synchronous language.",
+          "title": "Vélus"
+        },
+        {
+          "children": [],
+          "description": "Implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework.",
+          "title": "Verdi Raft",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2023-12-08T14:05:25Z",
+            "owner": "uwplse",
+            "repo": "verdi-raft",
+            "stars": 194
+          }
+        },
+        {
+          "children": [],
+          "description": "Formalization in Coq of the WebAssembly (aka Wasm) 1.0 specification.",
+          "title": "WasmCert-Coq",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-02-05T07:17:44Z",
+            "owner": "WasmCert",
+            "repo": "WasmCert-Coq",
+            "stars": 114
+          }
+        }
+      ],
+      "title": "Verified Software"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Official Coq website"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Official Coq manual"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Official Coq standard library"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Official Coq Discourse forum"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Official Coq Zulip chat"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Official Coq-Club mailing list"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Official Coq wiki",
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-02-07T12:15:34Z",
+            "owner": "coq",
+            "repo": "coq",
+            "stars": 5346
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Official Coq X/Twitter"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Coq Zulip chat archive"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Coq subreddit"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Coq tag on Stack Overflow"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Coq tag on Theoretical Computer Science Stack Exchange"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Coq tag on Proof Assistants Stack Exchange"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Coq keyword on Zenodo"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Coq-community package maintenance project",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-31T14:02:25Z",
+            "owner": "coq-community",
+            "repo": "manifesto",
+            "stars": 68
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Mathematical Components wiki",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-02-04T14:32:30Z",
+            "owner": "math-comp",
+            "repo": "math-comp",
+            "stars": 667
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "100 famous theorems proved using Coq",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-11-26T10:34:42Z",
+            "owner": "coq-community",
+            "repo": "coq-100-theorems",
+            "stars": 61
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Planet Coq link aggregator"
+        }
+      ],
+      "title": "Community"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The first book dedicated to Coq.",
+          "title": "Coq'Art"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Introduction to functional programming, basic concepts of logic, and computer-assisted theorem proving.",
+              "title": "Volume 1: Logical Foundations"
+            },
+            {
+              "children": [],
+              "description": "Introduction to the theory of programming languages, including operational semantics, Hoare logic, and static type systems.",
+              "title": "Volume 2: Programming Language Foundations"
+            },
+            {
+              "children": [],
+              "description": "Demonstration of how a variety of fundamental data structures can be specified and verified.",
+              "title": "Volume 3: Verified Functional Algorithms"
+            },
+            {
+              "children": [],
+              "description": "Introduction to tools for combining randomized property-based testing with formal specification and proof.",
+              "title": "Volume 4: QuickChick"
+            },
+            {
+              "children": [],
+              "description": "An extended tutorial on specifying and verifying C programs using the Verified Software Toolchain.",
+              "title": "Volume 5: Verifiable C"
+            },
+            {
+              "children": [],
+              "description": "An introduction to separation logic and how to build program verification tools on top of it.",
+              "title": "Volume 6: Separation Logic Foundations"
+            }
+          ],
+          "description": "Series of Coq-based textbooks on logic, functional programming, and foundations of programming languages, aimed at being accessible to beginners.",
+          "title": "Software Foundations"
+        },
+        {
+          "children": [],
+          "description": "Textbook about practical engineering with Coq which teaches advanced practical tricks and a very specific style of proof.",
+          "title": "Certified Programming with Dependent Types"
+        },
+        {
+          "children": [],
+          "description": "Book that explains how to construct program logics using separation logic, accompanied by a formal model in Coq which is applied to the Clight programming language and other examples.",
+          "title": "Program Logics for Certified Compilers"
+        },
+        {
+          "children": [],
+          "description": "Book that simultaneously provides a general introduction to formal logical reasoning about the correctness of programs and to using Coq for this purpose.",
+          "title": "Formal Reasoning About Programs"
+        },
+        {
+          "children": [],
+          "description": "Book that gives a brief and practically-oriented introduction to interactive proofs in Coq which emphasizes the computational nature of inductive reasoning about decidable propositions via a small set of primitives from the SSReflect proof language.",
+          "title": "Programs and Proofs"
+        },
+        {
+          "children": [],
+          "description": "Book that describes how to formally specify and verify floating-point algorithms in Coq using the Flocq library.",
+          "title": "Computer Arithmetic and Formal Proofs"
+        },
+        {
+          "children": [],
+          "description": "Book oriented towards mathematically inclined users, focusing on the Mathematical Components library and the SSReflect proof language.",
+          "title": "The Mathematical Components book"
+        },
+        {
+          "children": [],
+          "description": "Book covering topics in computational logic using Coq, including foundations, canonical case studies, and practical programming.",
+          "title": "Modeling and Proving in Computational Type Theory",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2025-08-06T10:32:06Z",
+            "owner": "uds-psl",
+            "repo": "MPCTT",
+            "stars": 120
+          }
+        },
+        {
+          "children": [],
+          "description": "Continuously in-progress book and library on Kirby and Paris' hydra battles and other entertaining formalized mathematics in Coq, including a proof of the Gödel-Rosser first incompleteness theorem.",
+          "title": "Hydras & Co.",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2025-01-22T14:02:32Z",
+            "owner": "coq-community",
+            "repo": "hydra-battles",
+            "stars": 81
+          }
+        }
+      ],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Lecture notes on getting started with the Mathematical Components library and using it for classical reasoning and real analysis.",
+          "title": "An Introduction to MathComp-Analysis"
+        },
+        {
+          "children": [],
+          "description": "Introduction to using separation logic to reason about sequential imperative programs in Coq.",
+          "title": "Foundations of Separation Logic"
+        },
+        {
+          "children": [],
+          "description": "Introductory course on Coq real numbers and floating-point numbers from the Flocq library.",
+          "title": "Floating-Point Numbers and Formal Proof",
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-01-31T12:38:54Z",
+            "owner": "thery",
+            "repo": "FlocqLecture",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Formalization to support an undergraduate course on the theory of computation, including languages and Turing machines.",
+          "title": "Introduction to the Theory of Computation"
+        },
+        {
+          "children": [],
+          "description": "Material on the Software Foundations series of textbooks, including a series of YouTube videos.",
+          "title": "Lectures on Software Foundations",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-04-30T02:13:19Z",
+            "owner": "clarksmr",
+            "repo": "sf-lectures",
+            "stars": 151
+          }
+        },
+        {
+          "children": [],
+          "description": "Coq sources for lessons and exercises that introduce the SSReflect proof language and the Mathematical Components library.",
+          "title": "MathComp School",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2022-12-15T21:51:14Z",
+            "owner": "gares",
+            "repo": "math-comp-school-2022",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Companion Coq sources for a course on programming language semantics at Collège de France.",
+          "title": "Mechanized Semantics",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2024-04-09T15:01:06Z",
+            "owner": "xavierleroy",
+            "repo": "cdf-mech-sem",
+            "stars": 70
+          }
+        },
+        {
+          "children": [],
+          "description": "Companion Coq sources for a course on program logics at Collège de France.",
+          "title": "Program Logics",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2021-04-14T16:54:22Z",
+            "owner": "xavierleroy",
+            "repo": "cdf-program-logics",
+            "stars": 41
+          }
+        },
+        {
+          "children": [],
+          "description": "Lectures and exercise material for a course in programming language semantics, type systems and program logics, using Coq, at Radboud University Nijmegen.",
+          "title": "Program verification with types and logic"
+        },
+        {
+          "children": [],
+          "description": "Introduction to developing and verifying programs with Coq.",
+          "title": "Proofs and Reliable Programming using Coq"
+        }
+      ],
+      "title": "Course Material"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Coq code and exercises from the Coq'Art book, including additional tutorials.",
+          "title": "Coq'Art Exercises and Tutorials",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2025-02-15T16:10:19Z",
+            "owner": "coq-community",
+            "repo": "coq-art",
+            "stars": 127
+          }
+        },
+        {
+          "children": [],
+          "description": "Introduction to how Coq can be used to define logical concepts and functions and reason about them.",
+          "title": "Coq in a Hurry"
+        },
+        {
+          "children": [],
+          "description": "Guide on how to write readable and reviewable Coq code in high assurance applications.",
+          "title": "Coq requirements in Common Criteria evaluations"
+        },
+        {
+          "children": [],
+          "description": "Guide to Coq tactics with explanations and examples.",
+          "title": "Coq Tactics in Plain English"
+        },
+        {
+          "children": [],
+          "description": "Whirlwind tour of Coq as a language.",
+          "title": "Learn X in Y minutes where X=Coq"
+        },
+        {
+          "children": [],
+          "description": "Demonstration of design patterns for programming and proving with canonical structures.",
+          "title": "Lemma Overloading",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2025-03-28T20:49:54Z",
+            "owner": "coq-community",
+            "repo": "lemma-overloading",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "Source code for Mathematical Components tutorials.",
+          "title": "MathComp Tutorial Materials",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2023-10-29T01:50:42Z",
+            "owner": "math-comp",
+            "repo": "tutorial_material",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Basics of using Coq to write formal proofs.",
+          "title": "Mike Nahas's Coq Tutorial"
+        },
+        {
+          "children": [],
+          "description": "Tips, tricks, and features in Coq that are hard to discover.",
+          "title": "Tricks in Coq",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2025-05-28T14:10:46Z",
+            "owner": "coq-community",
+            "repo": "coq-tricks",
+            "stars": 538
+          }
+        }
+      ],
+      "title": "Tutorials and Hints"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:33:51.691Z",
+    "original_repository": "coq-community/awesome-coq",
+    "source_repository": "v1nvn/enhansome-coq",
+    "source_repository_description": null,
+    "title": "Awesome Coq with stars"
+  }
+}

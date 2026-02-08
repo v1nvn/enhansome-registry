@@ -1,0 +1,881 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Brings Erlang, Elixir, Gleam and other functional languages to microcontrollers.",
+          "title": "AtomVM"
+        },
+        {
+          "children": [],
+          "description": "A general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.",
+          "title": "C"
+        },
+        {
+          "children": [],
+          "description": "A general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation.",
+          "title": "C++"
+        },
+        {
+          "children": [],
+          "description": "Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at multiplying developers’ productivity thanks to a concise, familiar and easy to learn syntax. It is used by the SmartThings development environment to create smart applications.",
+          "title": "Groovy"
+        },
+        {
+          "children": [],
+          "description": "Lua is a powerful, fast, lightweight, embeddable scripting language. Lua is dynamically typed, runs by interpreting bytecode for a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.",
+          "title": "Lua"
+        },
+        {
+          "children": [],
+          "description": "eLua stands for Embedded Lua and the project offers the full implementation of the Lua Programming Language to the embedded world, extending it with specific features for efficient and portable software embedded development.",
+          "title": "eLua"
+        },
+        {
+          "children": [],
+          "description": "ELFE is a very simple and small programming language. While it is a general-purpose programming language, it is specifically tuned to facilitate the configuration and control of swarms of small devices such as sensors or actuators.",
+          "title": "ELFE"
+        },
+        {
+          "children": [],
+          "description": "a lean and efficient Python implementation for microcontrollers and constrained systems",
+          "title": "MicroPython"
+        },
+        {
+          "children": [],
+          "description": "Python runs with only 4KB of RAM, zero dependencies, easy to bind with C.",
+          "title": "PikaPython",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-24T11:03:25Z",
+            "owner": "pikastech",
+            "repo": "pikapython",
+            "stars": 1704
+          }
+        },
+        {
+          "children": [],
+          "description": "Live programming platform for IoT projects based on  (a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback).",
+          "title": "PharoThings",
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-03-15T08:38:58Z",
+            "owner": "pharo-iot",
+            "repo": "PharoThings",
+            "stars": 94
+          }
+        },
+        {
+          "children": [],
+          "description": "Rust is a language focused on performance, reliability and productivity. It is known for its safety, it is memory safe, it uses a borrow checker, and concurrency is also safe.",
+          "title": "Rust"
+        },
+        {
+          "children": [],
+          "description": "TinyGo is a project to bring the Go programming language to microcontrollers and modern web browsers by creating a new compiler based on LLVM. You can compile and run TinyGo programs on many different microcontroller boards such as the BBC micro:bit and the Arduino Uno.",
+          "title": "TinyGo"
+        },
+        {
+          "children": [],
+          "description": "is a high-level language that’s made to have a syntax very close to Python. As it’s built from first principles for microcontrollers, it’s at least 20x faster than MicroPython. They’ve also built a slick IDE integration.",
+          "title": "Toitlang"
+        }
+      ],
+      "title": "Programming languages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "AllJoyn is an open source software framework that makes it easy for devices and apps to discover and communicate with each other.",
+          "title": "AllJoyn"
+        },
+        {
+          "children": [],
+          "description": "HomeKit is a framework for communicating with and controlling connected accessories in a user’s home.",
+          "title": "Apple HomeKit"
+        },
+        {
+          "children": [],
+          "description": "AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and computing, where connected Things interact and provide services, as if they act like thin distributed servers.",
+          "title": "AREG SDK",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-06T15:29:53Z",
+            "owner": "aregtech",
+            "repo": "areg-sdk",
+            "stars": 324
+          }
+        },
+        {
+          "children": [],
+          "description": "Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.",
+          "title": "Astarte",
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-01-29T11:49:47Z",
+            "owner": "astarte-platform",
+            "repo": "astarte",
+            "stars": 267
+          }
+        },
+        {
+          "children": [],
+          "description": "Blynk is a platform for creating iOS and Android apps for connected things. You can easily build graphic interfaces for all your projects by simply dragging and dropping widgets (right on the smartphone). Supports Ethernet, WiFi, Bluetooth, GSM/GPRS, USB/Serial connections with a wide range of prototyping platforms from Arduino, Raspberry, ARM mbed, Particle, RedBear, etc.",
+          "title": "Blynk"
+        },
+        {
+          "children": [],
+          "description": "Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.",
+          "title": "Countly IoT Analytics",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T17:07:19Z",
+            "owner": "countly",
+            "repo": "countly-server",
+            "stars": 5822
+          }
+        },
+        {
+          "children": [],
+          "description": "Eclipse Ditto is a framework for building so called \"digital twins\". It provides a cloud based representation and APIs to interact with connected physical devices. Ditto provides built-in authorization, search and connectivity capabilities to integrate with foreign systems like MQTT brokers, HTTP endpoints and Apache Kafka.",
+          "title": "Eclipse Ditto™"
+        },
+        {
+          "children": [],
+          "description": "The Eclipse SmartHome framework is designed to run on embedded devices, such as a Raspberry Pi, a BeagleBone Black or an Intel Edison. It requires a Java 7 compliant JVM and an OSGi (4.2+) framework, such as Eclipse Equinox.",
+          "title": "Eclipse Smarthome"
+        },
+        {
+          "children": [],
+          "description": "Freedomotic is an open source, flexible, secure Internet of Things (IoT) development framework, useful to build and manage modern smart spaces. It is targeted to private individuals (home automation) as well as business users (smart retail environments, ambient aware marketing, monitoring and analytics, etc). Written in Java, it can interact with well known standard building automation protocols as well as with \"do it yourself\" solutions.",
+          "title": "Freedomotic"
+        },
+        {
+          "children": [],
+          "description": "IoTivity is an open source software framework enabling seamless device-to-device connectivity to address the emerging needs of the Internet of Things.",
+          "title": "Iotivity"
+        },
+        {
+          "children": [],
+          "description": "Kura aims at offering a Java/OSGi-based container for M2M applications running in service gateways. Kura provides or, when available, aggregates open source implementations for the most common services needed by M2M applications.",
+          "title": "Kura"
+        },
+        {
+          "children": [],
+          "description": "Lelylan is an IoT cloud platform based on a lightweight microservices architecture. The Lelylan platform is both hardware-agnostic and platform-agnostic. This means that you can connect any hardware, from the ESP8266 to the most professional embedded hardware solution and everything in between - and it can run on any public cloud, your own private datacenter, or even in a hybrid environment, whether virtualized or bare metal.",
+          "title": "Lelylan"
+        },
+        {
+          "children": [],
+          "description": "macchina.io EDGE is a rich software framework for quickly building IoT device applications running on Linux-based devices. macchina.io EDGE implements a web-enabled, secure, modular and extensible JavaScript and C++ runtime environment and provides ready-to-use and industry proven software building blocks. These enable devices to talk to various sensors, other devices and cloud services, and to process, analyze and filter sensor data locally, at the edge device or within the local network.",
+          "title": "Macchina.io"
+        },
+        {
+          "children": [],
+          "description": "The main goal of Mihini is to deliver an embedded runtime running on top of Linux, that exposes high-level API for building M2M applications. Mihini aims at enabling easy and portable development, by facilitating access to the I/Os of an M2M system, providing a communication layer, etc.",
+          "title": "Mihini"
+        },
+        {
+          "children": [],
+          "description": "The openHAB runtime is a set of OSGi bundles deployed on an OSGi framework (Equinox). It is therefore a pure Java solution and needs a JVM to run. Being based on OSGi, it provides a highly modular architecture, which even allows adding and removing functionality during runtime without stopping the service.",
+          "title": "OpenHAB"
+        },
+        {
+          "children": [],
+          "description": "Gobot is a framework for robotics, physical computing, and the Internet of Things, written in the Go programming language.",
+          "title": "Gobot"
+        },
+        {
+          "children": [],
+          "description": "Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.",
+          "title": "Home Assistant",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T21:13:57Z",
+            "owner": "home-assistant",
+            "repo": "home-assistant",
+            "stars": 84671
+          }
+        },
+        {
+          "children": [],
+          "description": "LWMQN is an open source project that follows part of OMA LWM2M v1.0 specification and uses the IP-base Smart Object model to meet the minimum requirements of machine network management. It provides both server-side and machine-side libraries to make full-stack IoT development possible with JavaScript and Node.js. See also: IPSO Alliance .",
+          "title": "Lightweight MQTT Machine Network"
+        },
+        {
+          "children": [],
+          "description": "Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.",
+          "title": "Thingsboard IoT Gateway",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T11:31:31Z",
+            "owner": "thingsboard",
+            "repo": "thingsboard-gateway",
+            "stars": 2080
+          }
+        },
+        {
+          "children": [],
+          "description": "Pimatic is a home automation framework that runs on node.js. It provides a common extensible platform for home control and automation tasks.",
+          "title": "Pimatic"
+        },
+        {
+          "children": [],
+          "description": "Open-source distributed ledger protocol for IoT. Uses a directed acyclic graph (DAG) instead of a blockchain.",
+          "title": "IOTA"
+        },
+        {
+          "children": [],
+          "description": "The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.",
+          "title": "MyController",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-08-04T09:17:00Z",
+            "owner": "mycontroller-org",
+            "repo": "mycontroller",
+            "stars": 154
+          }
+        },
+        {
+          "children": [],
+          "description": "An open platform for monitoring and controlling devices over the web.",
+          "title": "Mozilla WebThings"
+        },
+        {
+          "children": [],
+          "description": "The streaming database built for IoT data storage and real-time processing.",
+          "title": "HStreamDB",
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2024-12-26T02:51:04Z",
+            "owner": "hstreamdb",
+            "repo": "hstream",
+            "stars": 726
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with IoTSharp  IoT Platform using ModBus, OPC-UA, BACNetand MQTT protocols.",
+          "title": "IoTSharp.Gateways",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-03T06:02:09Z",
+            "owner": "IoTSharp",
+            "repo": "Gateways",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Corlysis is a platform that helps you with storing and visualizing your time-series data. It is based on the open-source projects Grafana and InfluxDB that also SpaceX uses.",
+          "title": "Corlysis"
+        },
+        {
+          "children": [],
+          "description": "IFTTT is a web-based service that allows users to create chains of simple conditional statements, called \"recipes\", which are triggered based on changes to other web services such as Gmail, Facebook, Instagram, and Pinterest. IFTTT is an abbreviation of \"If This Then That\" (pronounced like \"gift\" without the \"g\").",
+          "title": "IFTTT"
+        },
+        {
+          "children": [],
+          "description": "IoT Gateway with various plug-ins (OPC UA, Mqtt, SQL, REST, SAP, InfluxDB, Printer, ...)",
+          "title": "OPC Router"
+        },
+        {
+          "children": [],
+          "description": "Huginn is a system for building agents that perform automated tasks for you online.",
+          "title": "Huginn",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-02-07T01:57:20Z",
+            "owner": "cantino",
+            "repo": "huginn",
+            "stars": 48664
+          }
+        },
+        {
+          "children": [],
+          "description": "An open-source middleware platform for rapid creation of IoT solutions.",
+          "title": "Kaa"
+        },
+        {
+          "children": [],
+          "description": "Losant is an easy-to-use and powerful developer platform designed to help you quickly and securely build complex connected solutions. Losant uses open communication standards like REST and MQTT to provide connectivity from one to millions of devices. Losant provides powerful data collection, aggregation, and visualization features to help understand and quantify vast amounts of sensor data. Losant's drag-and-drop workflow editor allows you to trigger actions, notifications, and machine-to-machine communication without programming.",
+          "title": "Losant"
+        },
+        {
+          "children": [],
+          "description": "MicroServiceBus.com is a device management platform for Azure, AWS and IBM IoT Hub, with integration to GitHub, ServiceNow, Cisco Jasper and more. It comes in a free (limited) version along with enterprise offerings.",
+          "title": "MicroServiceBus.com"
+        },
+        {
+          "children": [],
+          "description": "DreamFactory is a free open source REST API Platform for mobile, web and IoT Applications.",
+          "title": "DreamFactory"
+        },
+        {
+          "children": [],
+          "description": "Enterprise ready MQTT broker that can scale to connect millions of IoT devices.",
+          "title": "HiveMQ"
+        },
+        {
+          "children": [],
+          "description": "I1820 is a free open source platform that provides discovery, data collection and configuration services based on MQTT. I1820 implements a REST API for controlling the things and it stores all collected data in a Time-Series database named InfluxDB.",
+          "title": "I1820"
+        },
+        {
+          "children": [],
+          "description": "IOStash is a high performance IoT platform that is free for DIY developers and non profit applications. It has multiple connectivity options and enables easy development of M2M or M2A applications. IOStash offers Nodejs and Android libraries for easy application creation.",
+          "title": "IOStash"
+        },
+        {
+          "children": [],
+          "description": "An open-source IoT platform. Device management, data collection, processing and visualization for your IoT solution.",
+          "title": "Thingsboard"
+        },
+        {
+          "children": [],
+          "description": "An open-source IoT analytics platform service that allows you to aggregate, visualize, and analyze live data streams in the cloud. You can send data to ThingSpeak from your devices, create instant visualization of live data, and send alerts.",
+          "title": "Thingspeak"
+        },
+        {
+          "children": [],
+          "description": "VerneMQ is a high-performance, distributed MQTT broker that connects IoT, M2M, Mobile, and web applications. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance.",
+          "title": "VerneMQ",
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-01-08T07:56:59Z",
+            "owner": "erlio",
+            "repo": "vernemq",
+            "stars": 3524
+          }
+        },
+        {
+          "children": [],
+          "description": "An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. ()",
+          "title": "Kuzzle",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-29T13:24:27Z",
+            "owner": "kuzzleio",
+            "repo": "kuzzle",
+            "stars": 1629
+          }
+        },
+        {
+          "children": [],
+          "description": "Operational analytics for connected devices (includes free-forever tier).",
+          "title": "DevicePilot"
+        },
+        {
+          "children": [],
+          "description": "An ultra-scalable open-source MQTT broker. Connect 100M+ IoT devices in one single cluster, move and process real-time IoT data with 1M msg/s throughput at 1ms latency.",
+          "title": "EMQX"
+        },
+        {
+          "children": [],
+          "description": "MQTT broker leveraging Apache Kafka as its own storage and distribution engine.",
+          "title": "Waterstream"
+        },
+        {
+          "children": [],
+          "description": "A lightweight and Blazing-fast MQTT Broker for IoT Edge platform.",
+          "title": "NanoMQ",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-06T08:10:15Z",
+            "owner": "nanomq",
+            "repo": "nanomq",
+            "stars": 2399
+          }
+        },
+        {
+          "children": [],
+          "description": "An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run on all kinds of resource-constrained edge devices.",
+          "title": "Kuiper",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-02T09:37:13Z",
+            "owner": "emqx",
+            "repo": "kuiper",
+            "stars": 1678
+          }
+        },
+        {
+          "children": [],
+          "description": "Data-first IoT platform to connect physical Objects with time-series DB and perform Data Analysis.",
+          "title": "t6",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-02T07:15:49Z",
+            "owner": "mathcoll",
+            "repo": "t6",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.",
+          "title": "IoTSharp",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-28T10:47:46Z",
+            "owner": "IoTSharp",
+            "repo": "IoTSharp",
+            "stars": 1249
+          }
+        },
+        {
+          "children": [],
+          "description": "Husarnet is a global peer-to-peer network layer that can make the MCU-Server or MCU-MCU connection directly, without the need of a bridge, over the internet.",
+          "title": "Husarnet"
+        },
+        {
+          "children": [],
+          "description": "A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.",
+          "title": "Zilla",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T05:36:55Z",
+            "owner": "aklivity",
+            "repo": "zilla",
+            "stars": 676
+          }
+        }
+      ],
+      "title": "Middlewares"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Cylon.js is a JavaScript framework for robotics, physical computing, and the Internet of Things. It makes it incredibly easy to command robots and devices.",
+          "title": "Cylon.js"
+        },
+        {
+          "children": [],
+          "description": "Luvit implements the same APIs as Node.js, but in Lua! While this framework is not directly involved with IoT development, it is still a  way to rapidly build powerful, yet memory efficient, embedded web applications.",
+          "title": "Luvit"
+        },
+        {
+          "children": [],
+          "description": "Johnny-Five is the original JavaScript Robotics programming framework. Released by Bocoup in 2012, Johnny-Five is maintained by a community of passionate software developers and hardware engineers.",
+          "title": "Johnny-Five"
+        },
+        {
+          "children": [],
+          "description": "Pi4j is intended to provide a friendly object-oriented I/O API and implementation libraries for Java Programmers to access the full I/O capabilities of the Raspberry Pi platform.",
+          "title": "Pi4J"
+        },
+        {
+          "children": [],
+          "description": "WiringPi is a GPIO access library written in C for the BCM2835 used in the Raspberry Pi.",
+          "title": "WiringPi"
+        },
+        {
+          "children": [],
+          "description": "A visual tool for wiring the Internet of Things.",
+          "title": "Node-RED"
+        },
+        {
+          "children": [],
+          "description": "Simulate large IoT environments for agile development / testing / proof-of-concept / training of IoT Applications based on MQTT, CoAP, REST",
+          "title": "MIMIC IoT Simulator"
+        },
+        {
+          "children": [],
+          "description": "Tool to visualize your MQTT topics in a topic hierarchy, a MQTT swiss-army knife.",
+          "title": "MQTT Explorer"
+        },
+        {
+          "children": [],
+          "description": "MQTT X is a cross-platform MQTT 5.0 client tool open sourced by EMQ, which supports macOS, Linux, and Windows.",
+          "title": "MQTT X"
+        },
+        {
+          "children": [],
+          "description": "A free open source tool to build, run, and deploy Linux applications as unikernels.",
+          "title": "ops"
+        },
+        {
+          "children": [],
+          "description": "A Smart Object Class that helps you with creating IPSO Smart Objects in your JavaScript applications. See also: IPSO Alliance .",
+          "title": "SmartObject",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-12-23T20:52:26Z",
+            "owner": "PeterEB",
+            "repo": "smartobject",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example, Nodered, VerneMQ and timescaleDB)",
+          "title": "United Manufacturing Hub",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-08T01:31:28Z",
+            "owner": "united-manufacturing-hub",
+            "repo": "united-manufacturing-hub",
+            "stars": 347
+          }
+        },
+        {
+          "children": [],
+          "description": "an open source time series database used for real-time analytics and high-performance applications. Supports high-throughput ingestion over InfluxDB line protocol and SQL as a query language.",
+          "title": "QuestDB",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-08T00:28:06Z",
+            "owner": "questdb",
+            "repo": "questdb",
+            "stars": 16652
+          }
+        },
+        {
+          "children": [],
+          "description": "an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.",
+          "title": "Chaos Genius",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-09-12T07:46:44Z",
+            "owner": "chaos-genius",
+            "repo": "chaos_genius",
+            "stars": 772
+          }
+        },
+        {
+          "children": [],
+          "description": "Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.",
+          "title": "Explore IoT Libraries"
+        },
+        {
+          "children": [],
+          "description": "ThingsOn MQTT Bench is a simple Cross-platform .NET Core benchmark tool for MQTT brokers. It measures the maximum number of messages that can be sent to the broker in a specified amount of time.",
+          "title": "ThingsOn MQTT Bench",
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-08-14T11:38:42Z",
+            "owner": "volkanalkilic",
+            "repo": "ThingsOn.MQTT.Bench",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Libraries and Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Amazon Dash Button is a Wi-Fi connected device that reorders your favorite item with the press of a button.",
+          "title": "Amazon Dash"
+        },
+        {
+          "children": [],
+          "description": "A real-time interactive dashboard and visualization creator implementing an intuitive drag & drop interface.",
+          "title": "Freeboard"
+        },
+        {
+          "children": [],
+          "description": "A docker orchestrator designed to manage IoT devices.",
+          "title": "Nebula"
+        },
+        {
+          "children": [],
+          "description": "Gladys is an open-source program that runs on the Raspberry Pi and integrates into the entire home network system.",
+          "title": "Gladys"
+        },
+        {
+          "children": [],
+          "description": "A Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter like Aedes.",
+          "title": "authBroker",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-30T11:09:07Z",
+            "owner": "authbroker",
+            "repo": "authbroker",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker.",
+          "title": "MQTT File Uploader",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-02-13T18:17:44Z",
+            "owner": "volkanalkilic",
+            "repo": "Mqtt-File-Uploader",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "SIGNL4 brings reliable mobile alerting with app push, SMS, and voice calls – plus escalation and duty scheduling – for your IoT projects.",
+          "title": "SIGNL4 – Mobile Alerting"
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Protocols and Networks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Physical layer"
+    },
+    {
+      "description": "IEEE 802.15.4 is a standard that specifies the physical layer and media access control for low-rate wireless personal area networks (LR-WPANs). It is maintained by the IEEE 802.15 working group, which defined it in 2003. It is the basis for the ZigBee, ISA100.11a, WirelessHART, and MiWi specifications, each of which further extends the standard by developing the upper layers which are not defined in IEEE 802.15.4. Alternatively, it can be used with 6LoWPAN and standard Internet protocols to build a wireless embedded Internet. - Wikipedia",
+      "items": [],
+      "title": "- 802.15.4 (IEEE)"
+    },
+    {
+      "description": "Bluetooth is a wireless technology standard for exchanging data over short distances (using short-wavelength UHF radio waves in the ISM band from 2.4 to 2.485 GHz) from fixed and mobile devices, and building personal area networks (PANs). Invented by telecom vendor Ericsson in 1994, it was originally conceived as a wireless alternative to RS-232 data cables. It can connect several devices, overcoming problems of synchronization. - Wikipedia",
+      "items": [],
+      "title": "- Bluetooth (Bluetooth Special Interest Group)"
+    },
+    {
+      "description": "Bluetooth low energy (Bluetooth LE, BLE, marketed as Bluetooth Smart) is a wireless personal area network technology designed and marketed by the Bluetooth Special Interest Group aimed at novel applications in the healthcare, fitness, beacons, security, and home entertainment industries. - Wikipedia",
+      "items": [],
+      "title": "- Bluetooth Low Energy (Bluetooth Special Interest Group)"
+    },
+    {
+      "description": "Extended coverage GSM IoT (EC-GSM-IoT) is a standard-based Low Power Wide Area technology. It is based on eGPRS and designed as a high capacity, long range, low energy and low complexity cellular system for IoT communications.",
+      "items": [],
+      "title": "EC-GSM-IoT (EC-GSM-IoT Group)"
+    },
+    {
+      "description": "A LoRaWAN wide area network allows low bit rate communication from and to connected objects, thus participating to Internet of Things, machine-to-machine M2M, and smart city. - Wikipedia",
+      "items": [],
+      "title": "- LoRaWAN (LoRa Alliance)"
+    },
+    {
+      "description": "NarrowBand IoT (NB-IoT) is a Low Power Wide Area Network (LPWAN) radio technology standard that has been developed to enable a wide range of devices and services to be connected using cellular telecommunications bands. - Wikipedia",
+      "items": [],
+      "title": "NB-IoT (3GPP)"
+    },
+    {
+      "description": "Sigfox is a French firm that builds wireless networks to connect low-energy objects such as electricity meters, smart watches, and washing machines, which need to be continuously on and emitting small amounts of data. Its infrastructure is intended to be a contribution to what is known as the Internet of Things (IoT). - Wikipedia",
+      "items": [],
+      "title": "- Sigfox (Sigfox)"
+    },
+    {
+      "description": "Wi-Fi (or WiFi) is a local area wireless computer networking technology that allows electronic devices to network, mainly using the 2.4 gigahertz (12 cm) UHF and 5 gigahertz (6 cm) SHF ISM radio bands. - Wikipedia",
+      "items": [],
+      "title": "- Wi-Fi (Wi-Fi Alliance)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Network / Transport layer"
+    },
+    {
+      "description": "6LoWPAN is an acronym for IPv6 over Low power Wireless Personal Area Networks. 6LoWPAN is the name of a concluded working group in the Internet area of the IETF. - Wikipedia",
+      "items": [],
+      "title": "- 6LowPan (IETF)"
+    },
+    {
+      "description": "Thread is an IPv6 based protocol for \"smart\" household devices to communicate on a network.",
+      "items": [],
+      "title": "- Thread (Thread Group)"
+    },
+    {
+      "description": "ZigBee is an IEEE 802.15.4-based specification for a suite of high-level communication protocols used to create personal area networks with small, low-power digital radios. - Wikipedia",
+      "items": [],
+      "title": "- ZigBee (ZigBee Alliance)"
+    },
+    {
+      "description": "Z-Wave is a wireless communications specification designed to allow devices in the home (lighting, access controls, entertainment systems and household appliances, for example) to communicate with one another for the purposes of home automation. - Wikipedia",
+      "items": [],
+      "title": "- Z-Wave (Z-Wave Alliance)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Application layer"
+    },
+    {
+      "description": "Constrained Application Protocol (CoAP) is a software protocol intended to be used in very simple electronic devices that allows them to communicate interactively over the Internet. - Wikipedia",
+      "items": [],
+      "title": "CoAP (IETF)"
+    },
+    {
+      "description": "The Datagram Transport Layer Security (DTLS) communications protocol provides communications security for datagram protocols. - Wikipedia",
+      "items": [],
+      "title": "DTLS (IETF)"
+    },
+    {
+      "description": "Eddystone is a beacon technology profile released by Google in July 2015. The open source, cross-platform software gives users location and proximity data via Bluetooth low-energy beacon format. - Wikipedia",
+      "items": [],
+      "title": "- Eddystone (Google)"
+    },
+    {
+      "description": "The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web. - Wikipedia",
+      "items": [],
+      "title": "- HTTP (IETF)"
+    },
+    {
+      "description": "iBeacon is a protocol standardized by Apple and introduced at the Apple Worldwide Developers Conference in 2013. - Wikipedia",
+      "items": [],
+      "title": "- iBeacon (Apple)"
+    },
+    {
+      "description": "MQTT (formerly MQ Telemetry Transport) is a publish-subscribe based \"light weight\" messaging protocol for use on top of the TCP/IP protocol. It is designed for connections with remote locations where a \"small code footprint\" is required or the network bandwidth is limited. - Wikipedia",
+      "items": [],
+      "title": "- MQTT (IBM)"
+    },
+    {
+      "description": "PJON® (Padded Jittering Operative Network) is an Arduino compatible, multi-master, multi-media network protocol. It proposes a Standard, it is designed as a framework and implements a totally software emulated network protocol stack that can be easily cross-compiled on many architectures like ATtiny, ATmega, ESP8266, ESP32, STM32, Teensy, Raspberry Pi, Linux, Windows x86 and Apple machines. It is a valid tool to quickly and comprehensibly build a network of devices. Visit wiki and documentation to know more about the PJON Standard.",
+      "items": [],
+      "title": "- PJON"
+    },
+    {
+      "description": "Simple (or Streaming) Text Oriented Message Protocol (STOMP), formerly known as TTMP, is a simple text-based protocol, designed for working with message-oriented middleware (MOM). - Wikipedia",
+      "items": [],
+      "title": "- STOMP"
+    },
+    {
+      "description": "WebSocket is a protocol providing full-duplex communication channels over a single TCP connection. - Wikipedia",
+      "items": [],
+      "title": "- Websocket"
+    },
+    {
+      "description": "Extensible Messaging and Presence Protocol (XMPP) is a communications protocol for message-oriented middleware based on XML (Extensible Markup Language). - Wikipedia",
+      "items": [],
+      "title": "- XMPP (IETF)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Technologies"
+    },
+    {
+      "description": "Near field communication (NFC) is the set of protocols that enable electronic devices to establish radio communication with each other by touching the devices together, or bringing them into proximity to a distance of typically 10cm or less. - Wikipedia",
+      "items": [],
+      "title": "- NFC"
+    },
+    {
+      "description": "OPC-UA is not only a protocol for industrial automation but also a technology that allows semantic description and object modelling of industrial environment.\nWikipedia",
+      "items": [],
+      "title": "- OPCUA"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Standards and Alliances"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts (2015) by Nitesh Dhanjani [5.0]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Building Wireless Sensor Networks: with ZigBee, XBee, Arduino, and Processing (2011) by Robert Faludi [4.5]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Digital Twins in Action (2013) by Greg Biegel [4.0]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Designing the Internet of Things (2013) by Adrian McEwen and Hakim Cassimally [4.0]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Edge Computing Technology and Application (2023) *by Perry Lea"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Getting Started with Bluetooth Low Energy: Tools and Techniques for Low-Power Networking (2014) by Kevin Townsend, Carles Cufí, Akiba and Robert Davidson [4.5]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IoT Inc: How Your Company Can Use the Internet of Things to Win in the Outcome Economy (2017) by Bruce Sinclair [4.6]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Smart Things: Ubiquitous Computing User Experience Design (2010) by Mike Kuniavsky [4.5]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "JavaScript on Things: Hardware for Web Developers (2018 - est.) by Lyza Danger Gardner [early access book]"
+    },
+    {
+      "description": "To the extent possible under law, Halim Qarroum has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:31:05.075Z",
+    "original_repository": "HQarroum/awesome-iot",
+    "source_repository": "v1nvn/enhansome-iot",
+    "source_repository_description": null,
+    "title": "Awesome IoT with stars"
+  }
+}

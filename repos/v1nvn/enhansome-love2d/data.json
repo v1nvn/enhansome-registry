@@ -1,0 +1,3854 @@
+{
+  "items": [
+    {
+      "description": "3D-centric Libraries",
+      "items": [
+        {
+          "children": [],
+          "description": "An awesome 3D engine for LÖVE.",
+          "title": "3DreamEngine",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-05-25T06:09:10Z",
+            "owner": "3dreamengine",
+            "repo": "3DreamEngine",
+            "stars": 463
+          }
+        },
+        {
+          "children": [],
+          "description": "3D skeletal animation library (design to be used with IQM and IQE).",
+          "title": "anim9",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-05-07T19:47:28Z",
+            "owner": "excessive",
+            "repo": "anim9",
+            "stars": 30
+          }
+        },
+        {
+          "children": [],
+          "description": "FFI-enabled vector library for 3D (x,y,z).",
+          "title": "Brinevector3D",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-09-05T13:23:48Z",
+            "owner": "flamendless",
+            "repo": "brinevector3D",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "A 3D collision detection library for Lua.",
+          "title": "bump-3dpd",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-07-03T19:17:54Z",
+            "owner": "oniietzschan",
+            "repo": "bump-3dpd",
+            "stars": 77
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple and easy 3D engine for LÖVE.",
+          "title": "g3d",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-12-16T20:51:16Z",
+            "owner": "groverburger",
+            "repo": "g3d",
+            "stars": 752
+          }
+        },
+        {
+          "children": [],
+          "description": "Inter-Quake Export loader (text).",
+          "title": "IQE",
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2015-08-27T07:32:46Z",
+            "owner": "excessive",
+            "repo": "iqe",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Inter-Quake Model loader (binary).",
+          "title": "IQM",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-04T00:38:00Z",
+            "owner": "excessive",
+            "repo": "iqm-exm",
+            "stars": 40
+          }
+        },
+        {
+          "children": [],
+          "description": "Gltf asset loader and test renderer; Supports skeletal animations and morph targets.",
+          "title": "love-gltf"
+        },
+        {
+          "children": [],
+          "description": "Pseudo-3D library for working with voxels.",
+          "title": "Lovox",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-07-08T12:50:17Z",
+            "owner": "Keyslam",
+            "repo": "Lovox",
+            "stars": 51
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for 3D rendering with LÖVE.",
+          "title": "Menori",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-08-26T09:15:20Z",
+            "owner": "rozenmad",
+            "repo": "Menori",
+            "stars": 265
+          }
+        }
+      ],
+      "title": "3D"
+    },
+    {
+      "description": "Navigation, Decision-Making and AI Libraries",
+      "items": [
+        {
+          "children": [],
+          "description": "An other A* library. Any map (grid, point, mesh or infinite map) and support path cost.",
+          "title": "astar",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-06-06T07:45:22Z",
+            "owner": "xiejiangzhi",
+            "repo": "astar",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "A functional behavior tree implementation.",
+          "title": "beehive.lua",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-06-09T04:31:50Z",
+            "owner": "drhayes",
+            "repo": "beehive.lua",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Grid-based pathfinding library.",
+          "title": "Jumper",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-10-21T09:02:33Z",
+            "owner": "Yonaba",
+            "repo": "Jumper",
+            "stars": 644
+          }
+        },
+        {
+          "children": [],
+          "description": "Fully featured behaviour tree implementation with tree rendering.",
+          "title": "LÖVElyTrees",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-02-17T18:56:30Z",
+            "owner": "Nrosa01",
+            "repo": "LOVElyTrees",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "Easy and pure Lua A* path finding.",
+          "title": "Lua-star",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-07-25T21:38:03Z",
+            "owner": "wesleywerner",
+            "repo": "lua-star",
+            "stars": 78
+          }
+        },
+        {
+          "children": [],
+          "description": "Class-based A* implementation written purely in Lua.",
+          "title": "Luafinding",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-09-23T15:25:04Z",
+            "owner": "GlorifiedPig",
+            "repo": "Luafinding",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "Pure Lua library for 2D pathfinding using the funnel algorithm.",
+          "title": "pathfun"
+        }
+      ],
+      "title": "AI"
+    },
+    {
+      "description": "Animation & Frame-Managing Libraries",
+      "items": [
+        {
+          "children": [],
+          "description": "A Lua library for 2D skeletal/bone animations with a Löve backend.",
+          "title": "andross",
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2018-01-14T15:14:45Z",
+            "owner": "pfirsich",
+            "repo": "andross",
+            "stars": 33
+          }
+        },
+        {
+          "children": [],
+          "description": "Animation library.",
+          "title": "anim8",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-01-20T22:22:06Z",
+            "owner": "kikito",
+            "repo": "anim8",
+            "stars": 941
+          }
+        },
+        {
+          "children": [],
+          "description": "A featureful Animation library for loading animations from XML files!.",
+          "title": "animx",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-10-16T14:57:49Z",
+            "owner": "besnoi",
+            "repo": "animX",
+            "stars": 33
+          }
+        },
+        {
+          "children": [],
+          "description": "Complete ase/aseprite file loader (no json).",
+          "title": "Aseprite loader",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-07-14T13:48:34Z",
+            "owner": "elloramir",
+            "repo": "love-ase",
+            "stars": 64
+          }
+        },
+        {
+          "children": [],
+          "description": "Convenience wrapper around .",
+          "title": "chiro",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-03-18T16:43:54Z",
+            "owner": "bjornbytes",
+            "repo": "chiro",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "A minimal stateful animation library.",
+          "title": "lovanim",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-10-17T09:35:38Z",
+            "owner": "patrixr",
+            "repo": "love-animation",
+            "stars": 40
+          }
+        },
+        {
+          "children": [],
+          "description": "Adobe Flash animation runtime.",
+          "title": "Lump",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2016-07-05T08:08:08Z",
+            "owner": "sixFingers",
+            "repo": "lump",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "A parser/renderer for Aseprite animations in LÖVE.",
+          "title": "Peachy",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-28T09:01:31Z",
+            "owner": "josh-perry",
+            "repo": "peachy",
+            "stars": 110
+          }
+        },
+        {
+          "children": [],
+          "description": "2D skeletal animation system.",
+          "title": "skeletor",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-05-10T00:55:51Z",
+            "owner": "pelevesque",
+            "repo": "skeletor",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "Text animation and automatic wrapping library based on tags.",
+          "title": "SYSL-Text",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-08-03T19:09:19Z",
+            "owner": "sysl-dev",
+            "repo": "SYSL-Text",
+            "stars": 114
+          }
+        },
+        {
+          "children": [],
+          "description": "Animation library.",
+          "title": "Walt",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-05-21T03:22:00Z",
+            "owner": "davisdude",
+            "repo": "Walt",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "Animation"
+    },
+    {
+      "description": "Viewport & Camera Libraries",
+      "items": [
+        {
+          "children": [],
+          "description": "Camera library with parallax scrolling.",
+          "title": "Brady",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-06-10T00:07:43Z",
+            "owner": "davisdude",
+            "repo": "Brady",
+            "stars": 63
+          }
+        },
+        {
+          "children": [],
+          "description": "Gamera and HUMP compatible scaling grid.",
+          "title": "Editgrid",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-07-30T02:08:04Z",
+            "owner": "bakpakin",
+            "repo": "Editgrid",
+            "stars": 53
+          }
+        },
+        {
+          "children": [],
+          "description": "Camera system.",
+          "title": "gamera",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-07-29T13:38:21Z",
+            "owner": "kikito",
+            "repo": "gamera",
+            "stars": 296
+          }
+        },
+        {
+          "children": [],
+          "description": "Camera library with window locking and smooth camera movement interpolation.",
+          "title": "hump.camera"
+        },
+        {
+          "children": [],
+          "description": "Scrolling library for any camera system; seamlessly tile background images.",
+          "title": "parallax",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-01-11T08:35:16Z",
+            "owner": "idbrii",
+            "repo": "love-parallax",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "Room-based camera with smooth transitions.",
+          "title": "roomshift",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-18T21:14:12Z",
+            "owner": "mshiplet",
+            "repo": "roomshift",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Camera"
+    },
+    {
+      "description": "Development assisting Libraries, that enrich your development experience",
+      "items": [
+        {
+          "children": [],
+          "description": "Small OO FPS graphing utillity based on FPSGraph.",
+          "title": "debugGraph",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-09-17T14:27:58Z",
+            "owner": "Mechazawa",
+            "repo": "Love-Debug-Graph",
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "Small FPS graphing utility.",
+          "title": "FPSGraph",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2014-04-03T01:48:36Z",
+            "owner": "icrawler",
+            "repo": "FPSGraph",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "The complete API documentation of LÖVE in a Lua table.",
+          "title": "LÖVE API",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-13T17:12:36Z",
+            "owner": "love2d-community",
+            "repo": "love-api",
+            "stars": 352
+          }
+        },
+        {
+          "children": [],
+          "description": "GitHub Action for automated cross-platform builds.",
+          "title": "LÖVE Build",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-09T20:19:01Z",
+            "owner": "nhartland",
+            "repo": "love-build",
+            "stars": 72
+          }
+        },
+        {
+          "children": [],
+          "description": "Write LÖVE games with TypeScript.",
+          "title": "LÖVE TypeScript Definitions",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-30T02:53:49Z",
+            "owner": "hazzard993",
+            "repo": "love-typescript-definitions",
+            "stars": 129
+          }
+        },
+        {
+          "children": [],
+          "description": "Browser-based debug console.",
+          "title": "Lovebird",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-05-08T07:48:32Z",
+            "owner": "rxi",
+            "repo": "lovebird",
+            "stars": 328
+          }
+        },
+        {
+          "children": [],
+          "description": "Inline console-like debugger utility.",
+          "title": "LoveDebug",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-09-04T04:00:43Z",
+            "owner": "flamendless",
+            "repo": "lovedebug",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": "A LÖVE live reloader with Moonscript support.",
+          "title": "lovelier",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-11T01:00:23Z",
+            "owner": "patrixr",
+            "repo": "lovelier",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "An extremely simple logger and profiler.",
+          "title": "loveprofiler",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-08-15T17:39:32Z",
+            "owner": "dknight",
+            "repo": "loveprofiler",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Auto-swaps changed Lua files in a running game.",
+          "title": "lurker",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-07-22T23:29:56Z",
+            "owner": "rxi",
+            "repo": "lurker",
+            "stars": 362
+          }
+        },
+        {
+          "children": [],
+          "description": "Broad in-game debugging gui with a console, variable browser/editor, speed controls, and more.",
+          "title": "vudu",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-10-30T20:35:23Z",
+            "owner": "deltadaedalus",
+            "repo": "vudu",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Development"
+    },
+    {
+      "description": "Drawing specific Libraries, that simplify the Drawing process",
+      "items": [
+        {
+          "children": [],
+          "description": "A .PSD parsing library for LÖVE.",
+          "title": "Artal",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-16T12:31:54Z",
+            "owner": "EvineDev",
+            "repo": "Artal",
+            "stars": 42
+          }
+        },
+        {
+          "children": [],
+          "description": "Small LÖVE module to automate the use of SpriteBatches.",
+          "title": "Autobatch",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-09-10T19:24:48Z",
+            "owner": "rxi",
+            "repo": "autobatch",
+            "stars": 120
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple module to dynamically align and fit content to screens of any size.",
+          "title": "center",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-04-11T10:08:01Z",
+            "owner": "swalrus1",
+            "repo": "center",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Adds Z axis; allows you to queue actions and draw calls.",
+          "title": "deep",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-02-09T17:23:47Z",
+            "owner": "Nikaoto",
+            "repo": "deep",
+            "stars": 102
+          }
+        },
+        {
+          "children": [],
+          "description": "A module for drawing complex shapes.",
+          "title": "draft",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-06-03T21:48:19Z",
+            "owner": "pelevesque",
+            "repo": "draft",
+            "stars": 57
+          }
+        },
+        {
+          "children": [],
+          "description": "Extends Runtime-TextureAtlas as a commandline tool to export an atlas.",
+          "title": "Export-TextureAtlas",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-11-13T15:25:58Z",
+            "owner": "EngineerSmith",
+            "repo": "Export-TextureAtlas",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Similar to deep, but you can set a custom sorting method and create multiple, nestable instances.",
+          "title": "grove.draworder",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-06-10T20:11:05Z",
+            "owner": "FloatingBanana",
+            "repo": "Grove",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "Hot Particles is a particle editor for the LÖVE game framework.\"",
+          "title": "Hot particles",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-03-20T21:03:24Z",
+            "owner": "ReFreezed",
+            "repo": "HotParticles",
+            "stars": 67
+          }
+        },
+        {
+          "children": [],
+          "description": "Lua implementation of HSLuv (a human-friendly alternative to HSL).",
+          "title": "HSLUV",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-05-03T02:08:24Z",
+            "owner": "hsluv",
+            "repo": "hsluv-lua",
+            "stars": 50
+          }
+        },
+        {
+          "children": [],
+          "description": "Low resolution scaler for LÖVE.",
+          "title": "Maid64",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-08-02T01:05:01Z",
+            "owner": "adekto",
+            "repo": "maid64",
+            "stars": 58
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple resolution-handling library for LÖVE.",
+          "title": "Push",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-09-25T01:10:23Z",
+            "owner": "Ulydev",
+            "repo": "push",
+            "stars": 616
+          }
+        },
+        {
+          "children": [],
+          "description": "Realistic orthographic planet rendering.",
+          "title": "renderplanet",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-11-19T10:14:33Z",
+            "owner": "meric",
+            "repo": "renderplanet",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "Scale library, that help you add resolution support to your games!",
+          "title": "Resolution Solution",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-09T19:47:24Z",
+            "owner": "grif-on",
+            "repo": "love2d_resolution_solution",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Texture atlas packer and renderer at runtime; no external tools.",
+          "title": "Runtime-TextureAtlas",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-11-13T15:57:05Z",
+            "owner": "EngineerSmith",
+            "repo": "Runtime-TextureAtlas",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "A powerful resolution-handler and rendering library for LÖVE.",
+          "title": "Shöve",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-05-23T08:38:34Z",
+            "owner": "Oval-Tutu",
+            "repo": "shove",
+            "stars": 88
+          }
+        },
+        {
+          "children": [],
+          "description": "A fairly simple solar system simulator.",
+          "title": "Sölar",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-11T12:52:14Z",
+            "owner": "JanWerder",
+            "repo": "soelar",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Library to import and display simple SVGs in LÖVE.",
+          "title": "svglover",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-02-08T00:57:04Z",
+            "owner": "globalcitizen",
+            "repo": "svglover",
+            "stars": 59
+          }
+        },
+        {
+          "children": [],
+          "description": "Pixel art focused scaler for graphics, position, screen-captures and shaders.",
+          "title": "SYSL-Pixel",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-06-10T18:08:43Z",
+            "owner": "sysl-dev",
+            "repo": "Sysl-Pixel",
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "Turtle graphics library for LÖVE.",
+          "title": "turtle.lua",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-10-09T11:29:34Z",
+            "owner": "arthurealike",
+            "repo": "turtle.lua",
+            "stars": 103
+          }
+        }
+      ],
+      "title": "Drawing"
+    },
+    {
+      "description": "Entity and Gameobject Managing Libraries",
+      "items": [
+        {
+          "children": [],
+          "description": "Minimal, Functional Entity Component System.",
+          "title": "adorbs",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-02-25T23:06:14Z",
+            "owner": "JosephShering",
+            "repo": "adorbs",
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "A feature-complete ECS library.",
+          "title": "Concord",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-11T21:14:26Z",
+            "owner": "Keyslam-Group",
+            "repo": "Concord",
+            "stars": 302
+          }
+        },
+        {
+          "children": [],
+          "description": "ECS Lua is a fast and easy to use ECS (Entity Component System) engine for game development.",
+          "title": "ecs-lua",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-06-24T06:34:40Z",
+            "owner": "nidorx",
+            "repo": "ecs-lua",
+            "stars": 224
+          }
+        },
+        {
+          "children": [],
+          "description": "Evolved ECS (Entity-Component-System) for Lua.",
+          "title": "evolved.lua",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-02-07T23:48:27Z",
+            "owner": "BlackMATov",
+            "repo": "evolved.lua",
+            "stars": 171
+          }
+        },
+        {
+          "children": [],
+          "description": "Minimalist functional ECS.",
+          "title": "knife.system",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-09-17T16:10:33Z",
+            "owner": "airstruck",
+            "repo": "knife",
+            "stars": 504
+          }
+        },
+        {
+          "children": [],
+          "description": "Hybrid OOP/ECS entity management.",
+          "title": "nata",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-01-20T04:02:02Z",
+            "owner": "tesselode",
+            "repo": "nata",
+            "stars": 51
+          }
+        },
+        {
+          "children": [],
+          "description": "Entity Component System for Lua that's simple, flexible, and useful.",
+          "title": "tiny-ecs",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-03-15T01:27:58Z",
+            "owner": "bakpakin",
+            "repo": "tiny-ecs",
+            "stars": 775
+          }
+        }
+      ],
+      "title": "Entity"
+    },
+    {
+      "description": "Game specific Library bundles, that provide reuseable functions",
+      "items": [
+        {
+          "children": [],
+          "description": "A Lua-based maze, room and dungeon generation library for dungeon crawlers and roguelike video games.",
+          "title": "astray",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-11T22:04:44Z",
+            "owner": "SiENcE",
+            "repo": "astray",
+            "stars": 177
+          }
+        },
+        {
+          "children": [],
+          "description": "Fills out lua's sparse standard library and provides implementations of common algorithms and data structures useful for games.",
+          "title": "batteries",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-09-28T03:37:17Z",
+            "owner": "1bardesign",
+            "repo": "batteries",
+            "stars": 422
+          }
+        },
+        {
+          "children": [],
+          "description": "Small Tiled map loader and drawer.",
+          "title": "cartographer",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-11-28T07:49:03Z",
+            "owner": "tesselode",
+            "repo": "cartographer",
+            "stars": 77
+          }
+        },
+        {
+          "children": [],
+          "description": "A helper library which allows you to quickly loads huge amount of assets.",
+          "title": "clove",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-09-15T00:43:40Z",
+            "owner": "besnoi",
+            "repo": "clove",
+            "stars": 32
+          }
+        },
+        {
+          "children": [],
+          "description": "A lightweight, optimized, and easy-to-implement solution for efficient game state management.",
+          "title": "GameStateManager",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-12-28T23:59:34Z",
+            "owner": "GwyrddGlas",
+            "repo": "GameStateManager",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "Blend, convert and interpolate colors using 'color objects'.",
+          "title": "grove.color",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-06-10T20:11:05Z",
+            "owner": "FloatingBanana",
+            "repo": "Grove",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).",
+          "title": "hump",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-02-22T10:04:41Z",
+            "owner": "HDictus",
+            "repo": "hump",
+            "stars": 97
+          }
+        },
+        {
+          "children": [],
+          "description": "A SpriteSheet and Tileset helper library for LÖVE.",
+          "title": "iffy",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-07-19T09:37:52Z",
+            "owner": "besnoi",
+            "repo": "iffy",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer).",
+          "title": "knife",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-09-17T16:10:33Z",
+            "owner": "airstruck",
+            "repo": "knife",
+            "stars": 504
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple to use Dialogue Library for Love2d with custom scripting language for dialogues .",
+          "title": "Love dialogue",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-12-18T16:25:04Z",
+            "owner": "Miisan-png",
+            "repo": "Love-Dialogue",
+            "stars": 65
+          }
+        },
+        {
+          "children": [],
+          "description": "State switcher class for Lua LÖVE Engine.",
+          "title": "love-state-switcher",
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2017-04-29T20:39:49Z",
+            "owner": "nekromoff",
+            "repo": "love-state-switcher",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "A Window/Screen Manager Module for virtual windows.",
+          "title": "lovely-windows",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-02-09T14:39:30Z",
+            "owner": "flamendless",
+            "repo": "lovely-windows",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "Lua Finite State Machine.",
+          "title": "lua-state-machine",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-06-25T16:12:24Z",
+            "owner": "kyleconroy",
+            "repo": "lua-state-machine",
+            "stars": 393
+          }
+        },
+        {
+          "children": [],
+          "description": "A LÖVE library that allows you to display hue color effects in your game.",
+          "title": "lue",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-07-07T12:17:07Z",
+            "owner": "Ulydev",
+            "repo": "lue",
+            "stars": 47
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of functions for Lua, geared towards game development.",
+          "title": "lume",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-11-19T23:59:15Z",
+            "owner": "rxi",
+            "repo": "lume",
+            "stars": 1211
+          }
+        },
+        {
+          "children": [],
+          "description": "An improved \"reflowprint\" with UTF-8, multicolor, and justify support.",
+          "title": "Manami",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-10-05T06:02:55Z",
+            "owner": "MikuAuahDark",
+            "repo": "NPad93",
+            "stars": 59
+          }
+        },
+        {
+          "children": [],
+          "description": "An Ink narrative scripting language parser and runtime implementation.",
+          "title": "narrator",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-05-09T09:12:43Z",
+            "owner": "astrochili",
+            "repo": "narrator",
+            "stars": 158
+          }
+        },
+        {
+          "children": [],
+          "description": "A comprehensive traditional roguelike engine.",
+          "title": "prism",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-02-08T00:56:42Z",
+            "owner": "PrismRL",
+            "repo": "prism",
+            "stars": 99
+          }
+        },
+        {
+          "children": [],
+          "description": "A library designed for alignment of text that is shown one character at a time.",
+          "title": "reflowprint",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-05-20T06:54:21Z",
+            "owner": "josefnpat",
+            "repo": "reflowprint",
+            "stars": 52
+          }
+        },
+        {
+          "children": [],
+          "description": "Screen management library for LÖVE.",
+          "title": "roomy",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-11-11T20:54:45Z",
+            "owner": "tesselode",
+            "repo": "roomy",
+            "stars": 59
+          }
+        },
+        {
+          "children": [],
+          "description": "Roguelike Toolkit in LÖVE. A LÖVE/lua port of rot.js.",
+          "title": "rotLove",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-04-03T17:17:23Z",
+            "owner": "paulofmandown",
+            "repo": "rotLove",
+            "stars": 286
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple, but powerful scene/gamestate manager that uses a stack, allowing you to run multiple scenes at once.",
+          "title": "SceneMan",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-11-02T19:06:13Z",
+            "owner": "KINGTUT10101",
+            "repo": "SceneMan",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "A dead simple scene/state management system.",
+          "title": "Scenery",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-01-13T15:30:36Z",
+            "owner": "paltze",
+            "repo": "scenery",
+            "stars": 47
+          }
+        },
+        {
+          "children": [],
+          "description": "Screen/State Management for the LÖVE framework.",
+          "title": "ScreenManager",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-11-20T11:07:39Z",
+            "owner": "rm-code",
+            "repo": "screenmanager",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "A LÖVE library that lets you easily add screen effects such as shake and rotation.",
+          "title": "shack",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2016-04-30T19:41:00Z",
+            "owner": "Ulydev",
+            "repo": "shack",
+            "stars": 67
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of useful mini modules.",
+          "title": "shard",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-03-29T06:51:23Z",
+            "owner": "MineGame159",
+            "repo": "shard",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "Tiled map loader and renderer.",
+          "title": "Simple Tiled Implementation",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-24T11:43:23Z",
+            "owner": "karai17",
+            "repo": "Simple-Tiled-Implementation",
+            "stars": 1041
+          }
+        },
+        {
+          "children": [],
+          "description": "Color math, manipulation and conversion library.",
+          "title": "Vivid",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-03-25T21:45:47Z",
+            "owner": "WetDesertRock",
+            "repo": "vivid",
+            "stars": 62
+          }
+        }
+      ],
+      "title": "Helpers"
+    },
+    {
+      "description": "Input & Binding Libraries",
+      "items": [
+        {
+          "children": [],
+          "description": "Input library for LÖVE that bridges the gap between keyboard and gamepad controls.",
+          "title": "baton",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-11-18T15:57:22Z",
+            "owner": "tesselode",
+            "repo": "baton",
+            "stars": 255
+          }
+        },
+        {
+          "children": [],
+          "description": "Get the right button icons for gamepads; load updated gamepad db.",
+          "title": "GamepadGuesser",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-01-11T08:28:30Z",
+            "owner": "idbrii",
+            "repo": "love-gamepadguesser",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple and powerful input library. support check operation time, sequence.",
+          "title": "input",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-01-04T05:58:56Z",
+            "owner": "xiejiangzhi",
+            "repo": "input",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Multitouch gesture and input library.",
+          "title": "Kazari",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-12-13T14:40:22Z",
+            "owner": "MikuAuahDark",
+            "repo": "Kazari",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple microphone support for LÖVE.",
+          "title": "love-microphone",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-12-11T07:06:30Z",
+            "owner": "LPGhatguy",
+            "repo": "love-microphone",
+            "stars": 64
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple input handeling library that keeps track of things for you.",
+          "title": "LoveKeys",
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2023-11-09T13:27:53Z",
+            "owner": "SpaceCat-Chan",
+            "repo": "LoveKeys",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple radial keyboard library.",
+          "title": "Swipe",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-03-28T19:47:58Z",
+            "owner": "zombrodo",
+            "repo": "swipe",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "A straightforward and flexible input library.",
+          "title": "tactile",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-10-20T16:56:01Z",
+            "owner": "tesselode",
+            "repo": "tactile",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Input"
+    },
+    {
+      "description": "Lighting & Shadow Libraries",
+      "items": [
+        {
+          "children": [],
+          "description": "GPU accelerated many lights 2D shadows.",
+          "title": "bitumbra",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-01-30T03:38:10Z",
+            "owner": "a13X-B",
+            "repo": "bitumbra",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple dynamic light implementation.",
+          "title": "Light",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-09-17T09:19:59Z",
+            "owner": "xiejiangzhi",
+            "repo": "light",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "A lighting model.",
+          "title": "Light World",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-11-04T01:37:35Z",
+            "owner": "tanema",
+            "repo": "light_world.lua",
+            "stars": 241
+          }
+        },
+        {
+          "children": [],
+          "description": "A performant dynamic light implementation with a simple API.",
+          "title": "lighter",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-09-02T05:42:17Z",
+            "owner": "speakk",
+            "repo": "lighter",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": "A Shadows & Lights engine for LÖVE.",
+          "title": "Shädows",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-07-08T02:18:57Z",
+            "owner": "matiasah",
+            "repo": "shadows",
+            "stars": 180
+          }
+        },
+        {
+          "children": [],
+          "description": "A very simple raycasting light implementation.",
+          "title": "Simple Love Lights",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-03-24T11:11:46Z",
+            "owner": "dylhunn",
+            "repo": "simple-love-lights",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Lighting"
+    },
+    {
+      "description": "Math specific Libraries",
+      "items": [
+        {
+          "children": [],
+          "description": "Bresenham's line algorithm written in Lua.",
+          "title": "Bresenham",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-03-23T10:58:26Z",
+            "owner": "rm-code",
+            "repo": "Bresenham",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Standalone lightweight luajit ffi-accelerated 2D vector library for great performance.",
+          "title": "brinevector",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-08-21T16:39:01Z",
+            "owner": "novemberisms",
+            "repo": "brinevector",
+            "stars": 65
+          }
+        },
+        {
+          "children": [],
+          "description": "Math/intersection library designed for games.",
+          "title": "Cirno's Perfect Math Library",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-10-07T15:41:53Z",
+            "owner": "excessive",
+            "repo": "cpml",
+            "stars": 333
+          }
+        },
+        {
+          "children": [],
+          "description": "Triangulation library for convex polygons.",
+          "title": "delaunay",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-11-21T20:30:22Z",
+            "owner": "Yonaba",
+            "repo": "delaunay",
+            "stars": 110
+          }
+        },
+        {
+          "children": [],
+          "description": "Powerful 2D vector class.",
+          "title": "hump.vector"
+        },
+        {
+          "children": [],
+          "description": "Walker-Vose alias method implementation (loaded dice-like RNG) useful for rolling loot tables, etc.",
+          "title": "loaded_dice",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-06-30T14:54:17Z",
+            "owner": "a13X-B",
+            "repo": "loaded_dice",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use.",
+          "title": "MLib",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-01-04T04:56:51Z",
+            "owner": "davisdude",
+            "repo": "mlib",
+            "stars": 90
+          }
+        },
+        {
+          "children": [],
+          "description": "Hump.vector-compatible LuaJIT FFI-accelerated 2D vector library.",
+          "title": "nvec",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-10-05T06:02:55Z",
+            "owner": "MikuAuahDark",
+            "repo": "NPad93",
+            "stars": 59
+          }
+        },
+        {
+          "children": [],
+          "description": "A performant and lightweight library to detect polygon and rectangle intersections.",
+          "title": "polysec",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-13T01:13:04Z",
+            "owner": "dknight",
+            "repo": "polysec",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple, lightweight spatial hash for Lua.",
+          "title": "shash",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-06-22T05:41:03Z",
+            "owner": "rxi",
+            "repo": "shash",
+            "stars": 79
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple vector library based on the PVector class from processing.",
+          "title": "vector.lua",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-12-03T16:15:43Z",
+            "owner": "automattf",
+            "repo": "vector.lua",
+            "stars": 61
+          }
+        },
+        {
+          "children": [],
+          "description": "The most comprehensive small vector & matrix, complex number, and quaternion library for Lua.",
+          "title": "Vornmath",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-12-08T05:44:39Z",
+            "owner": "DUznanski",
+            "repo": "vornmath",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Math"
+    },
+    {
+      "description": "Music related libraries",
+      "items": [
+        {
+          "children": [],
+          "description": "A Löve custom waveform generation library.",
+          "title": "denver",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2016-05-31T11:39:14Z",
+            "owner": "superzazu",
+            "repo": "denver.lua",
+            "stars": 95
+          }
+        },
+        {
+          "children": [],
+          "description": "A LÖVE library for syncing events to the BPM of an audio track.",
+          "title": "lovebpm",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-08-06T03:57:23Z",
+            "owner": "rxi",
+            "repo": "lovebpm",
+            "stars": 98
+          }
+        },
+        {
+          "children": [],
+          "description": "An audio manager with tagging support.",
+          "title": "ripple",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-03-22T20:04:17Z",
+            "owner": "tesselode",
+            "repo": "ripple",
+            "stars": 51
+          }
+        },
+        {
+          "children": [],
+          "description": "A sound manager with audio parsing and rhythm functionalities.",
+          "title": "wave",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-06-09T22:27:33Z",
+            "owner": "Ulydev",
+            "repo": "wave",
+            "stars": 100
+          }
+        },
+        {
+          "children": [],
+          "description": "A module for streaming and decoding Ogg Opus audio files with queueable playback and PCM integration.",
+          "title": "Lua-Opus",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-29T01:03:28Z",
+            "owner": "GwyrddGlas",
+            "repo": "Lua-Opus",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Music"
+    },
+    {
+      "description": "Networking & Online-Play Libraries",
+      "items": [
+        {
+          "children": [],
+          "description": "An HTTPS/HTTP requests library made only with luajjit.",
+          "title": "fetch-lua",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-06-19T18:50:48Z",
+            "owner": "elloramir",
+            "repo": "fetch-lua",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Networking library intended to make networking easy for lovers (TCP, UDP, Enet).  (IPv6)",
+          "title": "Grease",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2016-11-27T09:40:38Z",
+            "owner": "bartbes",
+            "repo": "love-misc-libs",
+            "stars": 115
+          }
+        },
+        {
+          "children": [],
+          "description": "A WebSocket client and server library.",
+          "title": "löve-ws",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-10-27T12:28:29Z",
+            "owner": "holywyvern",
+            "repo": "love-ws",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple event-driven WebSocket client library. (IPv4)",
+          "title": "love2d-lua-websocket",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-11-02T02:06:05Z",
+            "owner": "flaribbit",
+            "repo": "love2d-lua-websocket",
+            "stars": 52
+          }
+        },
+        {
+          "children": [],
+          "description": "A networking library that leverages bitser and enet. (IPv4)",
+          "title": "LoverNet",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-03-30T03:34:18Z",
+            "owner": "josefnpat",
+            "repo": "LoverNet",
+            "stars": 61
+          }
+        },
+        {
+          "children": [],
+          "description": "OpenSource multiplayer and network messaging. (IPv6)",
+          "title": "NoobHub",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-07-16T11:19:58Z",
+            "owner": "Overtorment",
+            "repo": "NoobHub",
+            "stars": 350
+          }
+        },
+        {
+          "children": [],
+          "description": "A Lua networking library for LÖVE games. (IPv4)",
+          "title": "Sock.lua",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-12-31T22:18:48Z",
+            "owner": "camchenry",
+            "repo": "sock.lua",
+            "stars": 182
+          }
+        }
+      ],
+      "title": "Networking"
+    },
+    {
+      "description": "Object Orientation Libraries that support Class-Commons",
+      "items": [
+        {
+          "children": [],
+          "description": "Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins.",
+          "title": "30log",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-05-08T02:47:43Z",
+            "owner": "Yonaba",
+            "repo": "30log",
+            "stars": 484
+          }
+        },
+        {
+          "children": [],
+          "description": "Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.",
+          "title": "classic",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-12-31T14:37:20Z",
+            "owner": "rxi",
+            "repo": "classic",
+            "stars": 1023
+          }
+        },
+        {
+          "children": [],
+          "description": "Small, fast class/prototype implementation with multiple inheritance (class-commons).",
+          "title": "hump.class"
+        },
+        {
+          "children": [],
+          "description": "Extremely minimal base class providing single inheritance and constructors.",
+          "title": "knife.base",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-09-17T16:10:33Z",
+            "owner": "airstruck",
+            "repo": "knife",
+            "stars": 504
+          }
+        },
+        {
+          "children": [],
+          "description": "A MiddleClass Inspired library with extended features.",
+          "title": "LowerClass",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-01-03T17:05:43Z",
+            "owner": "DevonPalma",
+            "repo": "LowerClass",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons).",
+          "title": "middleclass",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-11-03T12:54:01Z",
+            "owner": "kikito",
+            "repo": "middleclass",
+            "stars": 1892
+          }
+        },
+        {
+          "children": [],
+          "description": "Moonscript compatible class implementation.",
+          "title": "muun",
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2021-06-02T17:33:40Z",
+            "owner": "megagrump",
+            "repo": "muun",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "ObjectLibrary is a simple library for the LÖVE2D game engine that allows users to create objects with collision detection and optional textures.",
+          "title": "Object-Library",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-11-16T09:51:17Z",
+            "owner": "Virus01Official",
+            "repo": "Object-Library",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Project template for writing games in Moonscript instead of Lua without precompiling.",
+          "title": "selene",
+          "repo_info": {
+            "archived": false,
+            "language": "MoonScript",
+            "last_commit": "2025-06-17T06:29:38Z",
+            "owner": "novafacing",
+            "repo": "selene",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "OO"
+    },
+    {
+      "description": "Performance measurement tools",
+      "items": [
+        {
+          "children": [],
+          "description": "Profiling library for LÖVE, with detailed profiling and thread support.",
+          "title": "AppleCake",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-10-01T11:11:36Z",
+            "owner": "EngineerSmith",
+            "repo": "AppleCake",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "Profiling library/tool for LÖVE.",
+          "title": "jprof",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-12-16T07:30:18Z",
+            "owner": "pfirsich",
+            "repo": "jprof",
+            "stars": 103
+          }
+        },
+        {
+          "children": [],
+          "description": "Graphical profiler for LÖVE.",
+          "title": "Piefiller",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-08-01T08:43:09Z",
+            "owner": "Polynominal",
+            "repo": "Piefiller",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Performance"
+    },
+    {
+      "description": "Collision Detection & Physics Wrappers",
+      "items": [
+        {
+          "children": [],
+          "description": "A lightweight and easy love.physics wrapper (windfield alternative).",
+          "title": "breezefield",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-08-12T14:36:54Z",
+            "owner": "HDictus",
+            "repo": "breezefield",
+            "stars": 114
+          }
+        },
+        {
+          "children": [],
+          "description": "Collision detection library for Lua.",
+          "title": "Bump",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-09-29T16:28:50Z",
+            "owner": "kikito",
+            "repo": "bump.lua",
+            "stars": 1070
+          }
+        },
+        {
+          "children": [],
+          "description": "Collision detection with arbitrary polygons; allows rotation of objects.",
+          "title": "HC"
+        },
+        {
+          "children": [],
+          "description": "A softbody library with support for both dynamic and static arbitrary softbodies.",
+          "title": "loveblobs",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-10-21T05:28:07Z",
+            "owner": "zhangf911",
+            "repo": "loveblobs",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple to use polygon collision library inspired by bump.lua.",
+          "title": "slick",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-21T16:11:34Z",
+            "owner": "erinmaus",
+            "repo": "slick",
+            "stars": 75
+          }
+        },
+        {
+          "children": [],
+          "description": "2D collision detection library. Extendable, based on Separating-Axis-Theorem.",
+          "title": "Strike",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-09-15T12:49:39Z",
+            "owner": "Aweptimum",
+            "repo": "Strike",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Physics"
+    },
+    {
+      "description": "Ports for Platforms other than the ones officially supported by LÖVE",
+      "items": [
+        {
+          "children": [],
+          "description": "Unofficial implementation of the LÖVE for Nintendo (3DS, Switch and Wii U) Homebrew.",
+          "title": "LÖVE Potion",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-06T20:51:36Z",
+            "owner": "lovebrew",
+            "repo": "lovepotion",
+            "stars": 654
+          }
+        },
+        {
+          "children": [],
+          "description": "A small and simple wrapper for OneLua, lpp-vita, and Lua Player PS3.",
+          "title": "LOVE-WrapLua",
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2021-07-19T05:25:52Z",
+            "owner": "LukeZGD",
+            "repo": "LOVE-WrapLua",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "LÖVE ported to the web using Emscripten.",
+          "title": "Love.js",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-13T13:55:06Z",
+            "owner": "Davidobot",
+            "repo": "love.js",
+            "stars": 798
+          }
+        },
+        {
+          "children": [],
+          "description": "A Lua framework for 2D DOS games, implementing a subset of the LÖVE API.",
+          "title": "LoveDos",
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2017-05-06T08:32:40Z",
+            "owner": "rxi",
+            "repo": "lovedos",
+            "stars": 696
+          }
+        },
+        {
+          "children": [],
+          "description": "Work-in-progress port to Windows phone 8.1.",
+          "title": "LoveFTW"
+        },
+        {
+          "children": [],
+          "description": "LÖVE for virtual reality devices.",
+          "title": "LÖVR",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-06T00:14:22Z",
+            "owner": "bjornbytes",
+            "repo": "lovr",
+            "stars": 2484
+          }
+        }
+      ],
+      "title": "Platforms"
+    },
+    {
+      "description": "Save Game & Storage Libraries",
+      "items": [
+        {
+          "children": [],
+          "description": "Companion library for registering custom data types that can be encoded and decoded by json.lua.",
+          "title": "arson",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-05-21T06:18:19Z",
+            "owner": "flamendless",
+            "repo": "arson.lua",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Customizable Lua Serializer.",
+          "title": "binser",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-03-02T17:41:15Z",
+            "owner": "bakpakin",
+            "repo": "binser",
+            "stars": 215
+          }
+        },
+        {
+          "children": [],
+          "description": "Serializes and deserializes Lua values with LuaJIT.",
+          "title": "bitser",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-01-31T16:06:30Z",
+            "owner": "gvx",
+            "repo": "bitser",
+            "stars": 177
+          }
+        },
+        {
+          "children": [],
+          "description": "Serialize between Lua data and C data using LuaJIT's FFI.",
+          "title": "cdata",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2015-08-14T20:13:09Z",
+            "owner": "excessive",
+            "repo": "cdata",
+            "stars": 30
+          }
+        },
+        {
+          "children": [],
+          "description": "Serialize data as a Lua script.",
+          "title": "knife.serialize",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-09-17T16:10:33Z",
+            "owner": "airstruck",
+            "repo": "knife",
+            "stars": 504
+          }
+        },
+        {
+          "children": [],
+          "description": "Saving and loading savegames; based on Ser.",
+          "title": "Lady",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2016-02-16T02:07:41Z",
+            "owner": "gvx",
+            "repo": "Lady",
+            "stars": 37
+          }
+        },
+        {
+          "children": [],
+          "description": "Binary serialization and data parsing library.",
+          "title": "moonblob",
+          "repo_info": {
+            "archived": true,
+            "language": "MoonScript",
+            "last_commit": "2024-03-13T10:44:35Z",
+            "owner": "megagrump",
+            "repo": "moonblob",
+            "stars": 30
+          }
+        },
+        {
+          "children": [],
+          "description": "Fast, robust, richly-featured table serialization library for Lua.",
+          "title": "Ser",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2016-05-19T23:03:02Z",
+            "owner": "gvx",
+            "repo": "Ser",
+            "stars": 82
+          }
+        },
+        {
+          "children": [],
+          "description": "A fast, robust, secure, richly-featured table serialization library for Lua.",
+          "title": "Smallfolk",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2016-02-16T02:07:50Z",
+            "owner": "gvx",
+            "repo": "Smallfolk",
+            "stars": 23
+          }
+        },
+        {
+          "children": [],
+          "description": "A bitstream library focused on high compression for use in networking.",
+          "title": "trickle",
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2020-01-15T22:30:59Z",
+            "owner": "bjornbytes",
+            "repo": "trickle",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Serialization"
+    },
+    {
+      "description": "GLSL related Libraries",
+      "items": [
+        {
+          "children": [],
+          "description": "Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes.",
+          "title": "LoveShaderConverter",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-06-25T19:25:16Z",
+            "owner": "tsteinholz",
+            "repo": "LoveShaderConverter",
+            "stars": 94
+          }
+        },
+        {
+          "children": [],
+          "description": "Repository of common post-processing effects like blur, vignette, color-grading, etc.",
+          "title": "Moonshine",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-12-23T00:39:23Z",
+            "owner": "vrld",
+            "repo": "moonshine",
+            "stars": 692
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple color grading library.",
+          "title": "ngrading",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-10-05T06:02:55Z",
+            "owner": "MikuAuahDark",
+            "repo": "NPad93",
+            "stars": 59
+          }
+        },
+        {
+          "children": [],
+          "description": "Adds hot reload, includes, and better error messages for faster shader iteration.",
+          "title": "ShaderScan",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-09-08T15:18:49Z",
+            "owner": "idbrii",
+            "repo": "love-shaderscan",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Shaders"
+    },
+    {
+      "description": "Libraries and Tools for Unit Testing",
+      "items": [
+        {
+          "children": [],
+          "description": "Simple unit-testing framework with customizable assertions.",
+          "title": "busted",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-23T11:58:44Z",
+            "owner": "lunarmodules",
+            "repo": "busted",
+            "stars": 1587
+          }
+        },
+        {
+          "children": [],
+          "description": "Fixture-free test framework.",
+          "title": "knife.test",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-09-17T16:10:33Z",
+            "owner": "airstruck",
+            "repo": "knife",
+            "stars": 504
+          }
+        },
+        {
+          "children": [],
+          "description": "Extends  with additional, customizable tests.",
+          "title": "Luassert",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-11-07T21:24:40Z",
+            "owner": "lunarmodules",
+            "repo": "luassert",
+            "stars": 241
+          }
+        },
+        {
+          "children": [],
+          "description": "xUnit-style randomized unit testing framework.",
+          "title": "Lunatest",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-05-07T00:16:08Z",
+            "owner": "silentbicycle",
+            "repo": "lunatest",
+            "stars": 85
+          }
+        },
+        {
+          "children": [],
+          "description": "Minimal test framework.",
+          "title": "lust",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-10-03T22:41:06Z",
+            "owner": "bjornbytes",
+            "repo": "lust",
+            "stars": 125
+          }
+        },
+        {
+          "children": [],
+          "description": "Behavior Driven Development (BDD) tool.",
+          "title": "Specl"
+        },
+        {
+          "children": [],
+          "description": "Highly-customizable BDD-style testing library.",
+          "title": "Telescope"
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "Smoothing & Timer Libraries",
+      "items": [
+        {
+          "children": [],
+          "description": "A fast, lightweight tweening library for Lua.",
+          "title": "Flux",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-12-16T13:21:47Z",
+            "owner": "rxi",
+            "repo": "flux",
+            "stars": 467
+          }
+        },
+        {
+          "children": [],
+          "description": "Timer and tweening library with flexible tweening methods.",
+          "title": "hump.timer"
+        },
+        {
+          "children": [],
+          "description": "Create timers and tweens with ease.",
+          "title": "knife.timer",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-09-17T16:10:33Z",
+            "owner": "airstruck",
+            "repo": "knife",
+            "stars": 504
+          }
+        },
+        {
+          "children": [],
+          "description": "Timeline-based animation system that supports forward and backward update.",
+          "title": "NAniTe",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-10-05T06:02:55Z",
+            "owner": "MikuAuahDark",
+            "repo": "NPad93",
+            "stars": 59
+          }
+        },
+        {
+          "children": [],
+          "description": "Lua module for delaying function calls.",
+          "title": "tick",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2015-03-11T20:46:36Z",
+            "owner": "rxi",
+            "repo": "tick",
+            "stars": 192
+          }
+        },
+        {
+          "children": [],
+          "description": "Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method.",
+          "title": "tween.lua",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-02-02T00:13:15Z",
+            "owner": "kikito",
+            "repo": "tween.lua",
+            "stars": 661
+          }
+        }
+      ],
+      "title": "Tweening"
+    },
+    {
+      "description": "User Interface Libraries",
+      "items": [
+        {
+          "children": [],
+          "description": "Simple  for easy components compositions.",
+          "title": "Badar 🌕",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-10-04T15:01:24Z",
+            "owner": "Nabeel20",
+            "repo": "Badr",
+            "stars": 40
+          }
+        },
+        {
+          "children": [],
+          "description": "A very light-weight GUI library for LÖVE.",
+          "title": "CatUI",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-06-02T00:34:06Z",
+            "owner": "wilhantian",
+            "repo": "catui",
+            "stars": 114
+          }
+        },
+        {
+          "children": [],
+          "description": "LÖVE module for Dear ImGui obtained by wrapping cimgui (programmatically generated C-api) using LuaJIT FFI, easy to update to the latest Dear Imgui version.",
+          "title": "cimgui-love"
+        },
+        {
+          "children": [],
+          "description": "A fully featured GUI library, supporting flexbox/grid/absolute layouts, both immediate and retained mode, 9patch theming and advanced event support.",
+          "title": "FlexLöve",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-06T05:48:54Z",
+            "owner": "mikefreno",
+            "repo": "FlexLove",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Android-oriented GUI library.",
+          "title": "GOOi",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-09-06T16:51:39Z",
+            "owner": "gustavostuff",
+            "repo": "gooi",
+            "stars": 235
+          }
+        },
+        {
+          "children": [],
+          "description": "Maximalist immediate mode-ish UI elements; gamepad-friendly.",
+          "title": "Hanker"
+        },
+        {
+          "children": [],
+          "description": "A modern, customizable, high performance retained UI framework.",
+          "title": "Helium",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-01T13:24:27Z",
+            "owner": "qeffects",
+            "repo": "helium",
+            "stars": 123
+          }
+        },
+        {
+          "children": [],
+          "description": "Any-purpose GUI framework.",
+          "title": "Inky",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-12-20T06:47:24Z",
+            "owner": "Keyslam",
+            "repo": "Inky",
+            "stars": 82
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple UI  library for LÖVE 2D game engine.",
+          "title": "Layouter",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-22T12:39:54Z",
+            "owner": "nekromoff",
+            "repo": "layouter",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs.",
+          "title": "ListBox",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-03-08T19:57:58Z",
+            "owner": "darkmetalic",
+            "repo": "ListBox",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Imgui module for the LÖVE game engine.",
+          "title": "Love Imgui",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-03T04:30:39Z",
+            "owner": "slages",
+            "repo": "love-imgui",
+            "stars": 347
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight immediate mode GUI for LÖVE games.",
+          "title": "Löve-Nuklear",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-02-14T21:55:38Z",
+            "owner": "keharriso",
+            "repo": "love-nuklear",
+            "stars": 381
+          }
+        },
+        {
+          "children": [],
+          "description": "11.2 Fork of a GUI library.",
+          "title": "LoveFrames Fork",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-22T11:40:19Z",
+            "owner": "linux-man",
+            "repo": "LoveFrames",
+            "stars": 150
+          }
+        },
+        {
+          "children": [],
+          "description": "Retained mode layout and GUI library inspired by .NET's MAUI controls with StackLayout, AbsoluteLayout, Grid, Label, Button, Image, CheckBox, RadioButton, Switch, ProgressBar, Slider, TextBox and Border.",
+          "title": "LOVELi",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-01T04:08:09Z",
+            "owner": "mtanksl",
+            "repo": "LOVELi",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Floating speech bubbles with text of your choice.",
+          "title": "Lovely Toasts"
+        },
+        {
+          "children": [],
+          "description": "A simple 9-patch library for LÖVE.",
+          "title": "lovepatch",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-08-15T15:14:06Z",
+            "owner": "notcl4y14",
+            "repo": "lovepatch",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "An immediate mode GUI library for LÖVR and LÖVE.",
+          "title": "lovr-ui2d",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-11-21T15:26:02Z",
+            "owner": "immortalx74",
+            "repo": "lovr-ui2d",
+            "stars": 72
+          }
+        },
+        {
+          "children": [],
+          "description": "Love UI System - A retained mode UI framework for LÖVE with input processing (mouse, keyboard, touch, gamepad), layer-, grid-, state-, theming-system, UI editor, 16+ widgets (for desktop & mobile).",
+          "title": "Luis",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-19T12:12:04Z",
+            "owner": "SiENcE",
+            "repo": "luis",
+            "stars": 102
+          }
+        },
+        {
+          "children": [],
+          "description": "Very-lightweight list-based UI library.",
+          "title": "Lynx"
+        },
+        {
+          "children": [],
+          "description": "Extensible library written in MoonScript that enables you to create your own GUI controls based on provided core modules for Löve2D.",
+          "title": "MeowUI",
+          "repo_info": {
+            "archived": false,
+            "language": "MoonScript",
+            "last_commit": "2024-10-13T21:07:25Z",
+            "owner": "MoonGameLab",
+            "repo": "MeowUI",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Flexible layouting library.",
+          "title": "NLay",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-10-05T06:02:55Z",
+            "owner": "MikuAuahDark",
+            "repo": "NPad93",
+            "stars": 59
+          }
+        },
+        {
+          "children": [],
+          "description": "9patch library.",
+          "title": "Patchy",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-03-27T04:02:10Z",
+            "owner": "excessive",
+            "repo": "patchy",
+            "stars": 38
+          }
+        },
+        {
+          "children": [],
+          "description": "A super simple Rule-based layout library.",
+          "title": "Plan",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-10-01T01:00:21Z",
+            "owner": "zombrodo",
+            "repo": "plan",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.",
+          "title": "Polywell"
+        },
+        {
+          "children": [],
+          "description": "A user interface library for the LÖVE Framework.",
+          "title": "ProdUI",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-02-06T01:32:43Z",
+            "owner": "frank-f-trafton",
+            "repo": "prod_ui_wip",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "An overscan detection library for LÖVE.",
+          "title": "SafeWord",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2015-09-18T11:57:22Z",
+            "owner": "josefnpat",
+            "repo": "safeword",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "An immediate mode GUI toolkit for the LÖVE framework.",
+          "title": "Slab",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-02-05T11:51:02Z",
+            "owner": "flamendless",
+            "repo": "Slab",
+            "stars": 365
+          }
+        },
+        {
+          "children": [],
+          "description": "A newer 9patch/9slice library fixing some issues with Patchy.",
+          "title": "Slicy",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-05-30T02:08:28Z",
+            "owner": "wqferr",
+            "repo": "slicy",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Small immediate mode GUI library.",
+          "title": "SUIT",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-08-26T22:45:07Z",
+            "owner": "vrld",
+            "repo": "SUIT",
+            "stars": 522
+          }
+        },
+        {
+          "children": [],
+          "description": "An immediate-mode UI system for LOVE2D inspired by SUIT.",
+          "title": "TuxRedux",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-29T05:47:14Z",
+            "owner": "KINGTUT10101",
+            "repo": "TuxRedux",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "A very simple, cross-platform, reactive UI for last minute UIs.",
+          "title": "YALG",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-08-25T21:58:53Z",
+            "owner": "sasszem",
+            "repo": "yalg",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "UI"
+    },
+    {
+      "description": "Non-Game specific libraries and tools",
+      "items": [
+        {
+          "children": [],
+          "description": "Asset database and loader for love.",
+          "title": "andromeda",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-07-22T12:55:46Z",
+            "owner": "itzKiwiSky",
+            "repo": "Andromeda",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Rotation of two dimensional arrays (square and non-square).",
+          "title": "ArrayRotation"
+        },
+        {
+          "children": [],
+          "description": "Barcode rendering library for LÖVE.",
+          "title": "bar128-love",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-30T19:07:51Z",
+            "owner": "Nawias",
+            "repo": "bar128-love",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Asset manager.",
+          "title": "cargo",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-02-02T02:10:04Z",
+            "owner": "bjornbytes",
+            "repo": "cargo",
+            "stars": 180
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for generating random data.",
+          "title": "chance.lua"
+        },
+        {
+          "children": [],
+          "description": "Change the colors in your LÖVE game.",
+          "title": "colorchanger",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-03-21T16:08:29Z",
+            "owner": "santoslove",
+            "repo": "colorchanger",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "LÖVE version manager; allows to switch between multiple versions of engine on same machine.",
+          "title": "Flirt",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-11-15T04:41:04Z",
+            "owner": "Alloyed",
+            "repo": "flirt",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple module for saving gifs from LÖVE.",
+          "title": "GifCat",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-10-29T04:19:01Z",
+            "owner": "WetDesertRock",
+            "repo": "GifCat",
+            "stars": 50
+          }
+        },
+        {
+          "children": [],
+          "description": "A single function to use HEX color values.",
+          "title": "hex2color",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-11-07T16:58:33Z",
+            "owner": "swalrus1",
+            "repo": "hex2color",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Internationalization library designed to help localize your game.",
+          "title": "i18n",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2015-08-29T04:34:37Z",
+            "owner": "excessive",
+            "repo": "i18n",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "General purpose ini configuration parser.",
+          "title": "Ini Parser",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-11-20T18:06:05Z",
+            "owner": "nobytesgiven",
+            "repo": "ini_parser",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "A special data structure where items can be found by their position or key. Similar to an ordered dictionary.",
+          "title": "KeyedArray",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-11-12T23:08:35Z",
+            "owner": "KINGTUT10101",
+            "repo": "KeyedArray",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Async Asset Loader.",
+          "title": "Lily",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-06-13T03:44:37Z",
+            "owner": "MikuAuahDark",
+            "repo": "lily",
+            "stars": 111
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for configurable log output.",
+          "title": "log.lua",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-08-23T03:10:40Z",
+            "owner": "rxi",
+            "repo": "log.lua",
+            "stars": 353
+          }
+        },
+        {
+          "children": [],
+          "description": "Threaded resource loading.",
+          "title": "love-loader",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-03-25T13:54:01Z",
+            "owner": "kikito",
+            "repo": "love-loader",
+            "stars": 143
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool made in LÖVE for changing LÖVE icon itself.",
+          "title": "love-pe",
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2018-05-16T19:33:07Z",
+            "owner": "Rami-Sabbagh",
+            "repo": "love-pe",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "QR Code rendering library for LÖVE.",
+          "title": "love-qrcode",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-07-17T19:42:37Z",
+            "owner": "Nawias",
+            "repo": "love-qrcode",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Assets Loader.",
+          "title": "love2d-assets-loader",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-05-29T15:58:52Z",
+            "owner": "Yonaba",
+            "repo": "love2d-assets-loader",
+            "stars": 40
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool that makes setting up and using LÖVE easier and with Moonscript support.",
+          "title": "lovely-engine",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-07-30T14:58:19Z",
+            "owner": "vinnyhorgan",
+            "repo": "lovely-engine",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "A Lua module that lets you require files with input parameters and multiple output values.",
+          "title": "LuaRequireExtended",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-12-23T19:30:05Z",
+            "owner": "KINGTUT10101",
+            "repo": "LuaRequireExtended",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Lua bindings for the Steamworks API.",
+          "title": "luasteam",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-19T19:33:38Z",
+            "owner": "uspgamedev",
+            "repo": "luasteam",
+            "stars": 212
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple event-driven programming.",
+          "title": "Luvent",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2015-06-30T10:34:54Z",
+            "owner": "ejmr",
+            "repo": "Luvent",
+            "stars": 79
+          }
+        },
+        {
+          "children": [],
+          "description": "Open a file picker on Windows/Mac/Linux.",
+          "title": "nativefiledialog",
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2024-12-27T20:04:16Z",
+            "owner": "Alloyed",
+            "repo": "nativefiledialog",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Read and write files outside of LÖVE's allowed paths.",
+          "title": "nativefs",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-05-02T19:30:07Z",
+            "owner": "EngineerSmith",
+            "repo": "nativefs",
+            "stars": 48
+          }
+        },
+        {
+          "children": [],
+          "description": "A basic LÖVE particle system editor.",
+          "title": "particle-system-playground",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-10-03T11:18:52Z",
+            "owner": "santoslove",
+            "repo": "particle-system-playground",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "An editor of particle for LÖVE.",
+          "title": "ParticleEditor",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-01-19T17:20:43Z",
+            "owner": "MusouCrow",
+            "repo": "ParticleEditor",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Require all files in a folder.",
+          "title": "require.lua",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-11-16T21:23:09Z",
+            "owner": "premek",
+            "repo": "require.lua",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "A web server library that runs on love.",
+          "title": "servelove",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-11-02T00:29:17Z",
+            "owner": "YellowButShort",
+            "repo": "servelove",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Uses accelerometer data for shake device detection written in Lua.",
+          "title": "ShakeDetectorLua",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-04-16T11:28:34Z",
+            "owner": "azoyan",
+            "repo": "ShakeDetectorLua",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "A very complete internationalization library for Lua with LÖVE support.",
+          "title": "smiti18n",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-12-15T15:19:41Z",
+            "owner": "Oval-Tutu",
+            "repo": "smiti18n",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "Splash Screen Library.",
+          "title": "splashy",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-11-04T00:48:51Z",
+            "owner": "videah",
+            "repo": "splashy",
+            "stars": 42
+          }
+        },
+        {
+          "children": [],
+          "description": "Full-featured text editor for prose (not code).",
+          "title": "text2.love"
+        },
+        {
+          "children": [],
+          "description": "Useful timing tweaks for LÖVE's run loop.",
+          "title": "tick",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-02-17T00:18:11Z",
+            "owner": "bjornbytes",
+            "repo": "tick",
+            "stars": 95
+          }
+        },
+        {
+          "children": [],
+          "description": "A Lua library for parsing and extracting custom .sng song package files, supporting metadata reading, file listing, and batch extraction. Ideal for rhythm games, audio-based projects.",
+          "title": "LUA-SNG-Parser",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-29T01:03:51Z",
+            "owner": "GwyrddGlas",
+            "repo": "LUA-SNG-Parser",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "Integrated Development Environments and text editor plugins",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Add Lua syntax highlighting in Brackets.",
+              "title": "Lua Syntax Highlighter",
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-03-18T14:22:26Z",
+                "owner": "ForbesLindesay",
+                "repo": "brackets-language-extensions",
+                "stars": 4
+              }
+            },
+            {
+              "children": [],
+              "description": "Provides LÖVE code hints.",
+              "title": "LÖVE Hints for Brackets.io"
+            },
+            {
+              "children": [],
+              "description": "Launch LÖVE projects with a hotkey.",
+              "title": "Run LÖVE",
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-06-03T15:02:02Z",
+                "owner": "instilledbee",
+                "repo": "run-love2d",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "A modern, open source text editor by Adobe (obsolete).",
+          "title": "Brackets",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-18T14:22:26Z",
+            "owner": "ForbesLindesay",
+            "repo": "brackets-language-extensions",
+            "stars": 4
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Script to add LOVE API syntax highlighting to ZBS.",
+              "title": "API Syntax Hightlight",
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2019-01-21T12:42:26Z",
+                "owner": "flamendless",
+                "repo": "LOVE-API-Extractor-for-ZeroBraneStudio",
+                "stars": 12
+              }
+            }
+          ],
+          "description": "A lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support.",
+          "title": "ZeroBrane Studio",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-01-21T12:42:26Z",
+            "owner": "flamendless",
+            "repo": "LOVE-API-Extractor-for-ZeroBraneStudio",
+            "stars": 12
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Lua IDE/Debugger Plugin for VSCode.",
+              "title": "EmmyLua",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-02-02T12:19:23Z",
+                "owner": "EmmyLua",
+                "repo": "VSCode-EmmyLua",
+                "stars": 720
+              }
+            },
+            {
+              "children": [],
+              "description": "Snippets and code completion for IntelliJ-IDEA.",
+              "title": "LÖVE IDEA",
+              "repo_info": {
+                "archived": true,
+                "language": "Lua",
+                "last_commit": "2023-02-28T19:47:22Z",
+                "owner": "rm-code",
+                "repo": "love-IDEA-plugin",
+                "stars": 60
+              }
+            }
+          ],
+          "description": "Capable and Ergonomic Java IDE.",
+          "title": "IntelliJ IDEA",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-02T12:19:23Z",
+            "owner": "EmmyLua",
+            "repo": "VSCode-EmmyLua",
+            "stars": 720
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Syntax highlighting for Vim.",
+              "title": "Vim LOVE Docs",
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2020-08-07T14:21:14Z",
+                "owner": "davisdude",
+                "repo": "vim-love-docs",
+                "stars": 58
+              }
+            }
+          ],
+          "description": "A highly configurable text editor built to make creating and changing any kind of text very efficient.",
+          "title": "Vim",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-08-07T14:21:14Z",
+            "owner": "davisdude",
+            "repo": "vim-love-docs",
+            "stars": 58
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Code completion and documentation for Notepad++.",
+              "title": "LÖVE API for Notepad++",
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2016-11-21T17:37:00Z",
+                "owner": "dail8859",
+                "repo": "love-api-npp",
+                "stars": 12
+              }
+            }
+          ],
+          "description": "A free source code editor and Notepad replacement that supports several languages.",
+          "title": "Notepad++",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2016-11-21T17:37:00Z",
+            "owner": "dail8859",
+            "repo": "love-api-npp",
+            "stars": 12
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Simple Lua debugger with no dependencies. Löve specific launch.json example provided.",
+              "title": "Local Lua Debugger"
+            },
+            {
+              "children": [],
+              "description": "Provides Intellisense and Linting for Lua in VSCode.",
+              "title": "Lua for Visual Studio Code"
+            },
+            {
+              "children": [],
+              "description": "Various language features for Lua to make development easier and faster; includes LÖVE code completion and documentation.",
+              "title": "Lua Language Server"
+            },
+            {
+              "children": [],
+              "description": "A Löve Launcher Extension for Visual Studio Code.",
+              "title": "Visual Studio Code LÖVE Launcher"
+            }
+          ],
+          "description": "VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.",
+          "title": "Visual Studio Code"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "The Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date.",
+              "title": "Package Manager"
+            },
+            {
+              "children": [],
+              "description": "Supports syntax highlighting, auto-completion, and build system.",
+              "title": "SublimeLove"
+            },
+            {
+              "children": [],
+              "description": "Provides linting and static analysis of your Lua code.",
+              "title": "SublimeLinter-luacheck"
+            }
+          ],
+          "description": "A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.",
+          "title": "Sublime Text"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Auto-complete and snippets for LÖVE.",
+              "title": "autocomplete-love",
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2023-04-22T18:58:51Z",
+                "owner": "rameshvarun",
+                "repo": "autocomplete-love",
+                "stars": 0
+              }
+            },
+            {
+              "children": [],
+              "description": "Auto-installs several utilities for writing Love2D games in Pulsar.",
+              "title": "love-ide",
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2023-04-22T20:34:12Z",
+                "owner": "rameshvarun",
+                "repo": "love-ide",
+                "stars": 60
+              }
+            },
+            {
+              "children": [],
+              "description": "Add syntax highlighting and snippets to lua files.",
+              "title": "language-lua",
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2019-07-08T11:00:18Z",
+                "owner": "FireZenk",
+                "repo": "language-lua",
+                "stars": 65
+              }
+            },
+            {
+              "children": [],
+              "description": "Autocomplete for Lua.",
+              "title": "atom-autocomplete-lua",
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-11-17T12:08:34Z",
+                "owner": "dapetcu21",
+                "repo": "atom-autocomplete-lua",
+                "stars": 34
+              }
+            }
+          ],
+          "description": "Hackable text editor based on the extinct Atom; Has great support and auto-completion works nicely, but for now lacks error highlighting.",
+          "title": "Pulsar",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-22T18:58:51Z",
+            "owner": "rameshvarun",
+            "repo": "autocomplete-love",
+            "stars": 0
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Alejandro's Beta typing hints for Zed.",
+              "title": "love2z",
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2026-02-07T05:52:11Z",
+                "owner": "alejandro-alzate",
+                "repo": "love2z",
+                "stars": 10
+              }
+            },
+            {
+              "children": [],
+              "description": "LuaCATS typing hints for the lua language server.",
+              "title": "love2d",
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2024-12-03T18:48:25Z",
+                "owner": "LuaCATS",
+                "repo": "love2d",
+                "stars": 60
+              }
+            },
+            {
+              "children": [],
+              "description": "Syntax highlighting, file outline, code formatting, completion and documentation for Lua and LÖVE; to configure with the instructions given on the .",
+              "title": "Lua extension"
+            }
+          ],
+          "description": "A next-generation code editor designed for high-performance collaboration, written in Rust.",
+          "title": "Zed",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-02-07T05:52:11Z",
+            "owner": "alejandro-alzate",
+            "repo": "love2z",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Completely web based IDE for writing Love2D games.",
+          "title": "Love2D WebIDE"
+        }
+      ],
+      "title": "IDEs"
+    },
+    {
+      "description": "Tools and templates for distributing LÖVE games",
+      "items": [
+        {
+          "children": [],
+          "description": "Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, Debian and derivatives; one game = one file.",
+          "title": "AppImageKit",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-06-09T05:35:59Z",
+            "owner": "AppImage",
+            "repo": "AppImageKit",
+            "stars": 9255
+          }
+        },
+        {
+          "children": [],
+          "description": "Multi-platform, easy to use tool supporting Windows, macOS, Linux.",
+          "title": "boon",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-01-07T04:44:45Z",
+            "owner": "camchenry",
+            "repo": "boon",
+            "stars": 154
+          }
+        },
+        {
+          "children": [],
+          "description": "Build & deploy cross-platform game packages on  popular platforms. Supports Android, iOS, Linux, maxOS, Windows.",
+          "title": "LÖVE Actions"
+        },
+        {
+          "children": [],
+          "description": "Preconfigured VSCode/Codium. Build for Android, iOS, HTML5, Linux, macOS and Windows and automatically publish to Itch.io.",
+          "title": "LÖVE Game Development & Automated Build System",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-12-15T00:11:35Z",
+            "owner": "Oval-Tutu",
+            "repo": "bootstrap-love2d-project",
+            "stars": 153
+          }
+        },
+        {
+          "children": [],
+          "description": "Downloadable application (made in LÖVE!) that can build games for Windows, macOS, and Linux regardless of your own OS.",
+          "title": "love-build",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-05-30T10:19:28Z",
+            "owner": "ellraiser",
+            "repo": "love-build",
+            "stars": 78
+          }
+        },
+        {
+          "children": [],
+          "description": "Build and deploy games on itch.io (supports windows and web exports).",
+          "title": "love-deploy",
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2024-04-07T20:08:04Z",
+            "owner": "tducasse",
+            "repo": "love-deploy",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Fast and simple command-line tool that builds binaries for you. Supports Windows, macOS, and Linux.",
+          "title": "love-export",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-04-25T16:38:35Z",
+            "owner": "dmoa",
+            "repo": "love-export",
+            "stars": 54
+          }
+        },
+        {
+          "children": [],
+          "description": "Packages LÖVE Games using GitHub Actions. Supports Windows, Linux, and Android.",
+          "title": "love-fuser",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-07-08T07:12:41Z",
+            "owner": "MikuAuahDark",
+            "repo": "love-fuser",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple CLI to package your LÖVE Game in seconds.",
+          "title": "love-packager",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-09-16T12:09:38Z",
+            "owner": "simplifylabs",
+            "repo": "love-packager",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.",
+          "title": "love-release",
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2024-07-10T11:51:46Z",
+            "owner": "MisterDA",
+            "repo": "love-release",
+            "stars": 481
+          }
+        },
+        {
+          "children": [],
+          "description": "A template for packaging LÖVE games for distribution in the Snappy Store.",
+          "title": "Love-Snap-Template",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-02-10T00:18:29Z",
+            "owner": "popey",
+            "repo": "love-snap-template",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "Bringing the joys of rust's package manager () to love.",
+          "title": "lover",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-11-11T16:46:19Z",
+            "owner": "Wolfyxon",
+            "repo": "lover",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "Packs love games in a single file for windows.",
+          "title": "lovesfx",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-07-29T07:06:22Z",
+            "owner": "tpimh",
+            "repo": "lovesfx",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.",
+          "title": "makelove",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-08T16:55:58Z",
+            "owner": "pfirsich",
+            "repo": "makelove",
+            "stars": 191
+          }
+        }
+      ],
+      "title": "Distribution"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A collection of shaders designed to work in LÖVE.",
+          "title": "awesome-love-shaders",
+          "repo_info": {
+            "archived": false,
+            "language": "GLSL",
+            "last_commit": "2015-10-13T22:58:56Z",
+            "owner": "karai17",
+            "repo": "awesome-love-shaders",
+            "stars": 91
+          }
+        },
+        {
+          "children": [],
+          "description": "A list like this one, but more general and encompassing all of Lua's uses.",
+          "title": "awesome-lua",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-11T17:32:00Z",
+            "owner": "LewisJEllis",
+            "repo": "awesome-lua",
+            "stars": 4455
+          }
+        },
+        {
+          "children": [],
+          "description": "A curated list of PICO-8 resources, tutorials, tools and more.",
+          "title": "awesome-pico8",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-03T14:00:28Z",
+            "owner": "pico-8",
+            "repo": "awesome-PICO-8",
+            "stars": 2963
+          }
+        }
+      ],
+      "title": "Related"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:34:33.538Z",
+    "original_repository": "love2d-community/awesome-love2d",
+    "source_repository": "v1nvn/enhansome-love2d",
+    "source_repository_description": null,
+    "title": "Awesome Löve with stars"
+  }
+}

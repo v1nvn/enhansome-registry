@@ -1,0 +1,2345 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Projects"
+    },
+    {
+      "description": "API Management solutions offer a comprehensive approach to handling the entire API lifecycle. They enable developers to create, publish, secure, and monitor APIs, ensuring efficient and reliable communication between systems. With features such as authentication, rate limiting, and analytics, these tools provide centralized control and enhanced security, making it easier to manage and scale APIs across different platforms and environments.",
+      "items": [
+        {
+          "children": [],
+          "description": "Provides comprehensive lifecycle management, enabling rapid digital transformation and robust compliance across multi-cloud environments.",
+          "title": "Akana API Management Platform"
+        },
+        {
+          "children": [],
+          "description": "Leverages AWS scalability and security to efficiently create, monitor, and manage APIs.",
+          "title": "Amazon API Management"
+        },
+        {
+          "children": [],
+          "description": "Combines API design, integration, and management into one unified platform, streamlining connectivity and development.",
+          "title": "Anypoint Platform"
+        },
+        {
+          "children": [],
+          "description": "Offers an open, agile approach to API management with robust integration and flexible deployment options.",
+          "title": "Amplify API Management Platform"
+        },
+        {
+          "children": [],
+          "description": "Delivers powerful analytics, security, and scalability for enterprise-grade API management from Google.",
+          "title": "Apigee"
+        },
+        {
+          "children": [],
+          "description": "A hybrid, multicloud solution that simplifies API lifecycle management with comprehensive security and analytics.",
+          "title": "Azure API Management"
+        },
+        {
+          "children": [],
+          "description": "A cloud-native platform enabling seamless API deployment and centralized management with strong integration capabilities.",
+          "title": "Boomi Cloud API Management"
+        },
+        {
+          "children": [],
+          "description": "Transforms APIs into strategic business tools through end-to-end lifecycle management and enhanced operational insights.",
+          "title": "DigitMarket API Manager"
+        },
+        {
+          "children": [],
+          "description": "A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.",
+          "title": "Gravitee.io API Management (⭐377)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-08T01:32:23Z",
+            "owner": "gravitee-io",
+            "repo": "gravitee-api-management",
+            "stars": 379
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides a scalable, secure, and intuitive environment for creating, managing, and monetizing APIs across clouds.",
+          "title": "IBM API Connect"
+        },
+        {
+          "children": [],
+          "description": "Offers a comprehensive suite for API lifecycle management that seamlessly integrates on-premises and cloud systems.",
+          "title": "IBM webMethods API Management"
+        },
+        {
+          "children": [],
+          "description": "A cloud-native, enterprise-grade solution that enhances API connectivity, microservices orchestration, and security via a rich plugin architecture.",
+          "title": "Kong Enterprise"
+        },
+        {
+          "children": [],
+          "description": "Ensures secure and efficient API development with continuous lifecycle management and advanced integration features.",
+          "title": "Layer7 API Management"
+        },
+        {
+          "children": [],
+          "description": "Simplifies API monetization and governance with a cloud-native approach and powerful scaling capabilities.",
+          "title": "Red Hat 3scale API Management"
+        },
+        {
+          "children": [],
+          "description": "Provides a full-lifecycle API solution with advanced security, performance monitoring, and streamlined integration.",
+          "title": "Sensedia API Management"
+        },
+        {
+          "children": [],
+          "description": "Provides an API Management as Code platform to DevOps and Platform Engineering Teams who favor less ClickOps and more GitOps-driven API lifecycle workflows.",
+          "title": "Traefik API Management"
+        },
+        {
+          "children": [],
+          "description": "Delivers high-performance, open-source API management focused on flexibility, robust security, and scalability.",
+          "title": "Tyk API Management"
+        },
+        {
+          "children": [],
+          "description": "A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.",
+          "title": "WSO2 API Manager (⭐964)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-03T05:29:32Z",
+            "owner": "wso2",
+            "repo": "product-apim",
+            "stars": 964
+          }
+        },
+        {
+          "children": [],
+          "description": "A developer-centric, lightweight platform featuring GitOps integration, rapid edge deployment, extensive OpenAPI support, and seamless monetization.",
+          "title": "Zuplo API Management"
+        }
+      ],
+      "title": "API Management"
+    },
+    {
+      "description": "API design, documentation, and life-cycle automation tools streamline the process of creating, maintaining, and evolving APIs. These tools offer efficient means to design consistent and scalable APIs, generate comprehensive documentation, and automate various stages of the API life-cycle, enhancing developer experience and promoting API adoption.",
+      "items": [
+        {
+          "children": [],
+          "description": "A web-based, open-source API design tool that leverages the OpenAPI specification.",
+          "title": "Apicurio Studio (⭐1k)",
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-10-21T07:12:50Z",
+            "owner": "apicurio",
+            "repo": "apicurio-studio",
+            "stars": 1061
+          }
+        },
+        {
+          "children": [],
+          "description": "Validate API description docs against backend implementation using this language-agnostic CLI tool.",
+          "title": "Dredd (⭐4.2k)",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-05-11T13:19:25Z",
+            "owner": "apiaryio",
+            "repo": "dredd",
+            "stars": 4227
+          }
+        },
+        {
+          "children": [],
+          "description": "Create and validate OpenAPI specs with ease using this intuitive graphical user interface.",
+          "title": "OpenAPI-GUI (⭐1.4k)",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-16T11:31:54Z",
+            "owner": "Mermade",
+            "repo": "openapi-gui",
+            "stars": 1480
+          }
+        },
+        {
+          "children": [],
+          "description": "Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.",
+          "title": "OpenAPI Diff (⭐1k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-26T21:56:37Z",
+            "owner": "OpenAPITools",
+            "repo": "openapi-diff",
+            "stars": 1045
+          }
+        },
+        {
+          "children": [],
+          "description": "Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.",
+          "title": "OpenAPI Generator (⭐25k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-07T08:38:34Z",
+            "owner": "OpenAPITools",
+            "repo": "openapi-generator",
+            "stars": 25765
+          }
+        },
+        {
+          "children": [],
+          "description": "Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.",
+          "title": "OpenAPI Style Validator (⭐232)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-11-17T05:42:18Z",
+            "owner": "OpenAPITools",
+            "repo": "openapi-style-validator",
+            "stars": 232
+          }
+        },
+        {
+          "children": [],
+          "description": "Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.",
+          "title": "Spectral (⭐2.9k)",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-05T16:34:45Z",
+            "owner": "stoplightio",
+            "repo": "spectral",
+            "stars": 3001
+          }
+        },
+        {
+          "children": [],
+          "description": "Create, describe, and document your API with ease using this open source editor built specifically for OpenAPI-based APIs.",
+          "title": "Swagger Editor (⭐9.4k)",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T09:31:40Z",
+            "owner": "swagger-api",
+            "repo": "swagger-editor",
+            "stars": 9414
+          }
+        },
+        {
+          "children": [],
+          "description": "Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.",
+          "title": "Zally (⭐946)",
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-07T06:17:59Z",
+            "owner": "zalando",
+            "repo": "zally",
+            "stars": 946
+          }
+        }
+      ],
+      "title": "API Design"
+    },
+    {
+      "description": "Explore a collection of tools and platforms designed to create, maintain, and present clear, concise, and user-friendly documentation for APIs. These resources facilitate seamless collaboration between developers and enable effective communication of API functionalities and specifications.",
+      "items": [
+        {
+          "children": [],
+          "description": "Generates elegant, interactive API documentation from OpenAPI/Swagger specs with easy customization and automated updates.",
+          "title": "DapperDox (⭐417)",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-11-07T08:04:21Z",
+            "owner": "DapperDox",
+            "repo": "dapperdox",
+            "stars": 417
+          }
+        },
+        {
+          "children": [],
+          "description": "Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.",
+          "title": "OpenAPI Explorer (⭐343)",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-19T17:31:44Z",
+            "owner": "Rhosys",
+            "repo": "openapi-explorer",
+            "stars": 343
+          }
+        },
+        {
+          "children": [],
+          "description": "Produces highly customizable, interactive API documentation with responsive design and rich configuration options.",
+          "title": "RapiDoc (⭐1.8k)",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T08:38:39Z",
+            "owner": "rapi-doc",
+            "repo": "RapiDoc",
+            "stars": 1880
+          }
+        },
+        {
+          "children": [],
+          "description": "Delivers clean, modern documentation with advanced theming, multi-language support, and seamless integration.",
+          "title": "Redoc (⭐25k)",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T06:18:05Z",
+            "owner": "Redocly",
+            "repo": "redoc",
+            "stars": 25473
+          }
+        },
+        {
+          "children": [],
+          "description": "Converts markdown into stylish, static API documentation with intuitive navigation and clear code examples.",
+          "title": "Slate (⭐36k)",
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-02-01T05:54:12Z",
+            "owner": "slatedocs",
+            "repo": "slate",
+            "stars": 36167
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides modular, attractive UI components for building comprehensive API reference and tutorial documentation.",
+          "title": "Stoplight Elements (⭐2.3k)",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T06:19:35Z",
+            "owner": "stoplightio",
+            "repo": "elements",
+            "stars": 2349
+          }
+        },
+        {
+          "children": [],
+          "description": "An integrated API design and documentation hub that enhances team collaboration, version control, and automated testing.",
+          "title": "SwaggerHub"
+        },
+        {
+          "children": [],
+          "description": "Offers an interactive, in-browser tool for visualizing and testing APIs directly from OpenAPI specifications.",
+          "title": "Swagger UI (⭐28k)",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T09:58:19Z",
+            "owner": "swagger-api",
+            "repo": "swagger-ui",
+            "stars": 28613
+          }
+        },
+        {
+          "children": [],
+          "description": "Generates static, customizable documentation for GraphQL schemas, making complex API structures easy to understand.",
+          "title": "SpectaQL (⭐1.2k)",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-22T00:59:41Z",
+            "owner": "anvilco",
+            "repo": "spectaql",
+            "stars": 1218
+          }
+        },
+        {
+          "children": [],
+          "description": "A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.",
+          "title": "Zudoku (⭐443)",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T07:50:43Z",
+            "owner": "zuplo",
+            "repo": "zudoku",
+            "stars": 447
+          }
+        }
+      ],
+      "title": "API Documentation"
+    },
+    {
+      "description": "API Gateways act as intermediaries between client applications and backend services, enabling key features such as request routing, authentication, rate limiting, and caching. They simplify the process of managing, securing, and monitoring APIs by providing a unified entry point for various services.",
+      "items": [
+        {
+          "children": [],
+          "description": "A Golang-based gateway that offers dynamic routing, multi-tenancy, and robust API access control for modern architectures.",
+          "title": "Apinto (⭐1.6k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-02T10:42:09Z",
+            "owner": "eolinker",
+            "repo": "apinto",
+            "stars": 1653
+          }
+        },
+        {
+          "children": [],
+          "description": "A Kubernetes-native API gateway designed for high-scale environments with flexible routing and advanced security features.",
+          "title": "Ambassador Edge Stack"
+        },
+        {
+          "children": [],
+          "description": "A high-performance, dynamic gateway featuring real-time traffic management and powerful plugin integrations.",
+          "title": "Apache APISIX (⭐16k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-02-07T10:45:57Z",
+            "owner": "apache",
+            "repo": "apisix",
+            "stars": 16184
+          }
+        },
+        {
+          "children": [],
+          "description": "A Java-native gateway excelling in protocol conversion, service proxying, and comprehensive API governance.",
+          "title": "Apache ShenYu (⭐8.7k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-07T05:24:41Z",
+            "owner": "apache",
+            "repo": "shenyu",
+            "stars": 8765
+          }
+        },
+        {
+          "children": [],
+          "description": "CNCF Envoy-based gateway with Gateway API, mTLS, JWT, and other built-ins.",
+          "title": "Envoy Gateway (⭐2.4k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-08T03:12:53Z",
+            "owner": "envoyproxy",
+            "repo": "gateway",
+            "stars": 2492
+          }
+        },
+        {
+          "children": [],
+          "description": "An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.",
+          "title": "Gloo Edge (⭐146)",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T20:14:29Z",
+            "owner": "solo-io",
+            "repo": "gloo",
+            "stars": 149
+          }
+        },
+        {
+          "children": [],
+          "description": "A scalable, cloud-native gateway that simplifies API management through extensive plugin support and seamless microservices integration.",
+          "title": "Kong API Gateway (⭐42k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-19T08:09:28Z",
+            "owner": "Kong",
+            "repo": "kong",
+            "stars": 42706
+          }
+        },
+        {
+          "children": [],
+          "description": "An ultra-high performance gateway with efficient middleware configuration, robust security, and seamless scaling.",
+          "title": "KrakenD API Gateway (⭐2.5k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-21T14:53:32Z",
+            "owner": "devopsfaith",
+            "repo": "krakend-ce",
+            "stars": 2534
+          }
+        },
+        {
+          "children": [],
+          "description": "A .NET-based gateway offering intuitive routing and easy integration for lightweight API management.",
+          "title": "Ocelot (⭐8.6k)",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-29T13:23:53Z",
+            "owner": "ThreeMammals",
+            "repo": "Ocelot",
+            "stars": 8690
+          }
+        },
+        {
+          "children": [],
+          "description": "Leverages the Spring ecosystem to deliver robust routing, filtering, and security for microservices.",
+          "title": "Spring Cloud Gateway (⭐4.8k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T01:26:24Z",
+            "owner": "spring-cloud",
+            "repo": "spring-cloud-gateway",
+            "stars": 4817
+          }
+        },
+        {
+          "children": [],
+          "description": "Combines Traefik Proxy, a fully declarative application proxy with enterprise-grade access control, distributed security, and premium integrations.",
+          "title": "Traefik API Gateway (⭐61k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-05T13:32:06Z",
+            "owner": "traefik",
+            "repo": "traefik",
+            "stars": 61499
+          }
+        },
+        {
+          "children": [],
+          "description": "An enterprise-grade, open-source gateway supporting REST, GraphQL, TCP, and gRPC with advanced rate limiting and analytics.",
+          "title": "Tyk API Gateway (⭐10k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T16:34:20Z",
+            "owner": "TykTechnologies",
+            "repo": "tyk",
+            "stars": 10626
+          }
+        }
+      ],
+      "title": "API Gateway"
+    },
+    {
+      "description": "The API testing tools section provides a list of software tools and frameworks that developers can use to test REST APIs and message brokers. This section includes GUI clients for testing REST APIs and message brokers, mocking tools for simulating API responses, as well as various testing tools and frameworks to automate testing processes.",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "A robust open-source API client for testing and debugging RESTful services with an intuitive interface.",
+              "title": "Advanced REST Client (⭐1.4k)",
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-01-21T23:40:53Z",
+                "owner": "advanced-rest-client",
+                "repo": "arc-electron",
+                "stars": 1466
+              }
+            },
+            {
+              "children": [],
+              "description": "A fast, offline API client designed for git-friendly workflows and seamless testing.",
+              "title": "Bruno (⭐40k)",
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-02-06T15:50:12Z",
+                "owner": "usebruno",
+                "repo": "bruno",
+                "stars": 40684
+              }
+            },
+            {
+              "children": [],
+              "description": "A versatile command-line tool for data transfer across multiple protocols, essential for quick API testing.",
+              "title": "curl (⭐40k)",
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-02-07T23:40:52Z",
+                "owner": "curl",
+                "repo": "curl",
+                "stars": 40624
+              }
+            },
+            {
+              "children": [],
+              "description": "A modern, user-friendly frontend to curl that combines simplicity with powerful performance.",
+              "title": "curlie (⭐3.5k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2025-12-07T20:14:24Z",
+                "owner": "rs",
+                "repo": "curlie",
+                "stars": 3581
+              }
+            },
+            {
+              "children": [],
+              "description": "An interactive web-based tool for gRPC APIs, providing a browser-based interface for testing and exploring gRPC services with dynamic form generation.",
+              "title": "gRPC UI (⭐5.8k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-01-27T18:04:41Z",
+                "owner": "fullstorydev",
+                "repo": "grpcui",
+                "stars": 5819
+              }
+            },
+            {
+              "children": [],
+              "description": "An intuitive CLI HTTP client that simplifies crafting API requests and inspecting responses.",
+              "title": "HTTPie (⭐37k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-12-17T17:30:35Z",
+                "owner": "httpie",
+                "repo": "httpie",
+                "stars": 37510
+              }
+            },
+            {
+              "children": [],
+              "description": "Free and lightweight desktop tool for HTTP testing and debugging.",
+              "title": "HttpMaster"
+            },
+            {
+              "children": [],
+              "description": "A lightweight, web-based API development tool offering real-time testing with an intuitive interface.",
+              "title": "Hoppscotch (⭐77k)",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-02-05T11:10:09Z",
+                "owner": "hoppscotch",
+                "repo": "hoppscotch",
+                "stars": 77803
+              }
+            },
+            {
+              "children": [],
+              "description": "A cross-platform client that streamlines API debugging and testing for both REST and GraphQL services.",
+              "title": "Insomnia (⭐37k)",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-02-06T19:31:54Z",
+                "owner": "Kong",
+                "repo": "insomnia",
+                "stars": 37912
+              }
+            },
+            {
+              "children": [],
+              "description": "A modern, terminal-based API client designed for efficient and seamless API interactions.",
+              "title": "posting (⭐11k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-14T18:07:38Z",
+                "owner": "darrenburns",
+                "repo": "posting",
+                "stars": 11299
+              }
+            },
+            {
+              "children": [],
+              "description": "The industry-standard tool for API development and testing, featuring automation, mock servers, and collaborative documentation.",
+              "title": "Postman"
+            },
+            {
+              "children": [],
+              "description": "Lightweight Git-Friendly API Client Built for Modern Developers.",
+              "title": "Requestly (⭐6.1k)",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-02-07T16:23:24Z",
+                "owner": "requestly",
+                "repo": "requestly",
+                "stars": 6219
+              }
+            },
+            {
+              "children": [],
+              "description": "A Lua-based HTTP client framework providing an interactive shell for streamlined REST service testing.",
+              "title": "resty (⭐2.6k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2023-02-17T16:10:52Z",
+                "owner": "micha",
+                "repo": "resty",
+                "stars": 2653
+              }
+            },
+            {
+              "children": [],
+              "description": "A comprehensive open-source solution for testing both SOAP and REST web services with extensive automation features.",
+              "title": "SoapUI (⭐1.6k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-02-06T09:15:48Z",
+                "owner": "SmartBear",
+                "repo": "soapui",
+                "stars": 1668
+              }
+            },
+            {
+              "children": [],
+              "description": "A cross-platform desktop gRPC client with automatic proto parsing, TLS support, and intuitive UI for testing unary, streaming, and bidirectional gRPC requests.",
+              "title": "Wombat (⭐1.4k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Svelte",
+                "last_commit": "2024-07-11T08:49:23Z",
+                "owner": "rogchap",
+                "repo": "wombat",
+                "stars": 1429
+              }
+            }
+          ],
+          "description": "API clients",
+          "title": "API clients",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T23:40:53Z",
+            "owner": "advanced-rest-client",
+            "repo": "arc-electron",
+            "stars": 1466
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "A universal JMS client offering broad compatibility and streamlined messaging testing across various brokers.",
+              "title": "JMSToolBox (⭐224)",
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-02-05T02:07:19Z",
+                "owner": "jmstoolbox",
+                "repo": "jmstoolbox",
+                "stars": 224
+              }
+            },
+            {
+              "children": [],
+              "description": "A lightweight command-line tool for Apache Kafka, providing efficient message production and consumption.",
+              "title": "kcat (⭐5.7k)",
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2024-07-09T16:13:37Z",
+                "owner": "edenhill",
+                "repo": "kcat",
+                "stars": 5721
+              }
+            },
+            {
+              "children": [],
+              "description": "A detailed MQTT client delivering structured topic visualization and intuitive debugging.",
+              "title": "MQTT Explorer (⭐3.7k)",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-02-07T12:01:42Z",
+                "owner": "thomasnordquist",
+                "repo": "MQTT-Explorer",
+                "stars": 3769
+              }
+            },
+            {
+              "children": [],
+              "description": "A comprehensive GUI for managing Apache Kafka clusters with user-friendly monitoring and administration tools.",
+              "title": "Offset Explorer"
+            },
+            {
+              "children": [],
+              "description": "An advanced GUI for Azure Service Bus that enables in-depth testing and seamless management of topics, queues, and subscriptions.",
+              "title": "Service Bus Explorer (⭐2.1k)",
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2026-02-04T15:53:03Z",
+                "owner": "paolosalvatori",
+                "repo": "ServiceBusExplorer",
+                "stars": 2164
+              }
+            }
+          ],
+          "description": "MQ clients",
+          "title": "MQ clients",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-05T02:07:19Z",
+            "owner": "jmstoolbox",
+            "repo": "jmstoolbox",
+            "stars": 224
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "A lightweight API simulation tool that enables rapid HTTP(S) service virtualization for efficient testing.",
+              "title": "Hoverfly (⭐2.4k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2025-12-19T09:31:28Z",
+                "owner": "SpectoLabs",
+                "repo": "hoverfly",
+                "stars": 2460
+              }
+            },
+            {
+              "children": [],
+              "description": "A flexible mock server supporting REST, OpenAPI, SOAP, and more to simulate diverse API behaviors.",
+              "title": "Imposter (⭐400)",
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-01-22T11:52:38Z",
+                "owner": "outofcoffee",
+                "repo": "imposter",
+                "stars": 400
+              }
+            },
+            {
+              "children": [],
+              "description": "A Kubernetes-native tool for API mocking and testing that supports AsyncAPI, OpenAPI, and Postman Collections.",
+              "title": "Microcks (⭐1.7k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-02-07T12:01:26Z",
+                "owner": "microcks",
+                "repo": "microcks",
+                "stars": 1802
+              }
+            },
+            {
+              "children": [],
+              "description": "An easy-to-configure service for creating custom HTTP responses, ideal for rapid prototyping and testing.",
+              "title": "Mockable"
+            },
+            {
+              "children": [],
+              "description": "A simple endpoint generator for testing HTTP requests with real-time logging and feedback.",
+              "title": "Mockbin (⭐133)",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-10-30T13:21:16Z",
+                "owner": "zuplo",
+                "repo": "mockbin",
+                "stars": 134
+              }
+            },
+            {
+              "children": [],
+              "description": "A user-friendly tool for designing and running mock REST APIs with real-time simulation and easy setup.",
+              "title": "Mockoon (⭐8k)",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-02-06T23:57:57Z",
+                "owner": "mockoon",
+                "repo": "mockoon",
+                "stars": 8055
+              }
+            },
+            {
+              "children": [],
+              "description": "A powerful solution for mocking any HTTP/HTTPS-based service, streamlining integration testing.",
+              "title": "MockServer (⭐4.8k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2025-12-19T09:46:57Z",
+                "owner": "mock-server",
+                "repo": "mockserver",
+                "stars": 4855
+              }
+            },
+            {
+              "children": [],
+              "description": "A free online service that generates custom HTTP responses for testing API endpoints.",
+              "title": "Mocky (⭐2k)",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2023-09-04T12:31:13Z",
+                "owner": "MockyAbstract",
+                "repo": "Mocky",
+                "stars": 2083
+              }
+            },
+            {
+              "children": [],
+              "description": "An open-source HTTP mock server that replicates API behavior for early testing and validation.",
+              "title": "Prism (⭐4.8k)",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-02-03T15:57:32Z",
+                "owner": "stoplightio",
+                "repo": "prism",
+                "stars": 4837
+              }
+            },
+            {
+              "children": [],
+              "description": "A robust and flexible API mocking tool delivering reliable, real-time simulation for comprehensive testing.",
+              "title": "WireMock (⭐7.1k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-02-06T13:00:07Z",
+                "owner": "tomakehurst",
+                "repo": "wiremock",
+                "stars": 7122
+              }
+            }
+          ],
+          "description": "Mocking tools",
+          "title": "Mocking tools",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-19T09:31:28Z",
+            "owner": "SpectoLabs",
+            "repo": "hoverfly",
+            "stars": 2460
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "A feature-rich tool for load testing and performance analysis across diverse web applications and services.",
+              "title": "Apache JMeter (⭐9.2k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-01-12T07:54:51Z",
+                "owner": "apache",
+                "repo": "jmeter",
+                "stars": 9219
+              }
+            },
+            {
+              "children": [],
+              "description": "A powerful load testing framework with a developer-friendly DSL that delivers detailed performance metrics.",
+              "title": "Gatling (⭐6.8k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Scala",
+                "last_commit": "2026-02-06T09:02:17Z",
+                "owner": "gatling",
+                "repo": "gatling",
+                "stars": 6857
+              }
+            },
+            {
+              "children": [],
+              "description": "A simple gRPC benchmarking and load testing tool with support for various load schedules, concurrency control, and detailed performance metrics.",
+              "title": "ghz (⭐3.2k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-02-01T03:24:07Z",
+                "owner": "bojand",
+                "repo": "ghz",
+                "stars": 3282
+              }
+            },
+            {
+              "children": [],
+              "description": "Open-source, JS-scriptable load-testing tool for CI/CD.",
+              "title": "Grafana k6 (⭐29k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-02-07T16:31:21Z",
+                "owner": "grafana",
+                "repo": "k6",
+                "stars": 29865
+              }
+            },
+            {
+              "children": [],
+              "description": "A unified testing framework that merges API automation, mocking, and performance testing with simple, expressive syntax.",
+              "title": "Karate (⭐8.7k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-02-05T04:16:42Z",
+                "owner": "karatelabs",
+                "repo": "karate",
+                "stars": 8779
+              }
+            },
+            {
+              "children": [],
+              "description": "A Python-based testing tool offering easy YAML/JSON-driven REST API testing and microbenchmarking.",
+              "title": "Pyresttest (⭐1.1k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-06-10T17:22:57Z",
+                "owner": "svanoort",
+                "repo": "pyresttest",
+                "stars": 1166
+              }
+            },
+            {
+              "children": [],
+              "description": "A Java DSL that simplifies REST API testing with intuitive syntax and seamless integration into CI pipelines.",
+              "title": "REST Assured (⭐7.1k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-02-04T07:20:31Z",
+                "owner": "rest-assured",
+                "repo": "rest-assured",
+                "stars": 7109
+              }
+            },
+            {
+              "children": [],
+              "description": "A stateful REST API fuzzing tool that automatically discovers security and reliability bugs by intelligently inferring producer-consumer dependencies from OpenAPI specifications.",
+              "title": "RESTler (⭐2.8k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-14T13:12:04Z",
+                "owner": "microsoft",
+                "repo": "restler-fuzzer",
+                "stars": 2867
+              }
+            },
+            {
+              "children": [],
+              "description": "A Python library for property-based testing of API schemas, ensuring reliability through robust edge-case detection.",
+              "title": "Schemathesis (⭐3k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-08T00:09:57Z",
+                "owner": "schemathesis",
+                "repo": "schemathesis",
+                "stars": 3025
+              }
+            },
+            {
+              "children": [],
+              "description": "An open-source automation framework that simplifies continuous testing with intuitive configuration and integration support.",
+              "title": "Taurus (⭐2k)",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-06T08:26:50Z",
+                "owner": "Blazemeter",
+                "repo": "taurus",
+                "stars": 2096
+              }
+            }
+          ],
+          "description": "Testing tools and frameworks",
+          "title": "Testing tools and frameworks",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-12T07:54:51Z",
+            "owner": "apache",
+            "repo": "jmeter",
+            "stars": 9219
+          }
+        }
+      ],
+      "title": "API Testing"
+    },
+    {
+      "description": "Business Rules Engines and Business Rules Management Systems (BRMS) are software systems that allow organizations to define, manage, and execute business rules. These rules are used to automate decision-making processes, enforce business policies, and ensure regulatory compliance. A BRMS provides a way for organizations to centrally manage their business rules and make changes to them quickly and easily, without requiring changes to the underlying code. It is a valuable tool for businesses that need to be agile and respond quickly to changing market conditions.",
+      "items": [
+        {
+          "children": [],
+          "description": "Open-source engine that supports advanced Decision Model and Notation (DMN) with Eclipse IDE integration for efficient rule development.",
+          "title": "Drools (⭐6.2k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-08T04:22:18Z",
+            "owner": "apache",
+            "repo": "incubator-kie-drools",
+            "stars": 6218
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight Java-based rules engine designed for straightforward rule processing and rapid decision automation.",
+          "title": "Easy Rules (⭐5.2k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-05-29T20:13:50Z",
+            "owner": "j-easy",
+            "repo": "easy-rules",
+            "stars": 5228
+          }
+        },
+        {
+          "children": [],
+          "description": "Enterprise-grade decision engine that empowers both business and technical users with an intuitive interface for fast rule creation and management.",
+          "title": "FICO Blaze Advisor"
+        },
+        {
+          "children": [],
+          "description": "Scalable decision management system that streamlines rule authoring, testing, and updates while ensuring compliance and agility.",
+          "title": "IBM ODM"
+        },
+        {
+          "children": [],
+          "description": "Specialized .NET open-source rule engine offering efficient rule processing tailored for Microsoft environments.",
+          "title": "NxBRE (⭐133)",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-04-15T13:35:58Z",
+            "owner": "ddossot",
+            "repo": "NxBRE",
+            "stars": 133
+          }
+        },
+        {
+          "children": [],
+          "description": "Flexible open-source decision management system that simplifies defining and executing business rules and decision tables.",
+          "title": "OpenL Tablets (⭐189)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T18:02:51Z",
+            "owner": "openl-tablets",
+            "repo": "openl-tablets",
+            "stars": 189
+          }
+        },
+        {
+          "children": [],
+          "description": "Model-driven BRMS enabling rapid, no-code rule creation that delivers high-performance automated decisions with guaranteed integrity.",
+          "title": "Progress Corticon"
+        },
+        {
+          "children": [],
+          "description": "Enterprise-class decision platform built on Drools, offering advanced DMN support, intuitive UIs, and high availability for large-scale automation.",
+          "title": "Red Hat Decision Manager"
+        },
+        {
+          "children": [],
+          "description": "A cross-platform, open-source Business Rules Engine written in Rust that executes JSON Decision Models through interconnected graphs of decision tables, functions, and expressions.",
+          "title": "ZEN Engine (⭐1.5k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-19T14:28:08Z",
+            "owner": "gorules",
+            "repo": "zen",
+            "stars": 1563
+          }
+        }
+      ],
+      "title": "Business Rules Engine"
+    },
+    {
+      "description": "Change Data Capture (CDC) solutions enable real-time identification and capture of changes made to data in databases, data warehouses, and other data sources. These tools continuously monitor data changes and propagate them to downstream systems, enabling real-time data synchronization, event-driven architectures, and maintaining data consistency across distributed systems. CDC is essential for modern data architectures, microservices, and real-time analytics.",
+      "items": [
+        {
+          "children": [],
+          "description": "Open-source distributed platform for change data capture that turns your existing databases into event streams for real-time data integration.",
+          "title": "Debezium (⭐12k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-05T02:14:11Z",
+            "owner": "debezium",
+            "repo": "debezium",
+            "stars": 12383
+          }
+        },
+        {
+          "children": [],
+          "description": "Enterprise CDC solution that captures and delivers data changes with minimal impact on source systems and low latency.",
+          "title": "IBM InfoSphere CDC"
+        },
+        {
+          "children": [],
+          "description": "An open-source CDC tool for MySQL that reads database binlogs and streams row-level changes as JSON to systems like Kafka, Kinesis, or other destinations.",
+          "title": "Maxwell's daemon (⭐4.2k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-04T10:48:46Z",
+            "owner": "zendesk",
+            "repo": "maxwell",
+            "stars": 4234
+          }
+        },
+        {
+          "children": [],
+          "description": "Enterprise-grade real-time data integration and replication solution that provides comprehensive CDC capabilities for heterogeneous databases and cloud platforms.",
+          "title": "Oracle GoldenGate"
+        },
+        {
+          "children": [],
+          "description": "Universal data replication software that provides real-time CDC capabilities for modern data architecture and analytics.",
+          "title": "Qlik Replicate"
+        }
+      ],
+      "title": "Change Data Capture"
+    },
+    {
+      "description": "ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) are processes used to integrate and consolidate data from multiple sources. This section covers a range of open source and commercial tools for performing these tasks, including data ingestion, transformation, and loading into data warehouses or other data storage systems.",
+      "items": [
+        {
+          "children": [],
+          "description": "One-stop, full-scenario integration framework for massive data that supports data ingestion, synchronization, and subscription with real-time ETL capabilities.",
+          "title": "Apache InLong (⭐1.4k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-29T10:51:38Z",
+            "owner": "apache",
+            "repo": "inlong",
+            "stars": 1483
+          }
+        },
+        {
+          "children": [],
+          "description": "Automated data integration tool with a visual interface that seamlessly extracts, transforms, and delivers data across systems.",
+          "title": "Apache NiFi (⭐5.9k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-07T19:12:07Z",
+            "owner": "apache",
+            "repo": "nifi",
+            "stars": 5951
+          }
+        },
+        {
+          "children": [],
+          "description": "Flexible, open-source data integration platform that builds ELT pipelines to move data from diverse sources to modern destinations.",
+          "title": "Airbyte (⭐20k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T14:32:37Z",
+            "owner": "airbytehq",
+            "repo": "airbyte",
+            "stars": 20656
+          }
+        },
+        {
+          "children": [],
+          "description": "Enterprise ETL suite offering robust data transformation and workflow orchestration for scalable integration.",
+          "title": "CloverDX"
+        },
+        {
+          "children": [],
+          "description": "Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.",
+          "title": "Estuary Flow (⭐872)",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-07T00:12:55Z",
+            "owner": "estuary",
+            "repo": "flow",
+            "stars": 875
+          }
+        },
+        {
+          "children": [],
+          "description": "Managed ELT that syncs 700 + sources to data warehouses.",
+          "title": "Fivetran"
+        },
+        {
+          "children": [],
+          "description": "No-code, fully automated data pipeline platform that supports extensive integrations, simplifying complex data workflows.",
+          "title": "Hevo"
+        },
+        {
+          "children": [],
+          "description": "Robust platform that cleanses, transforms, and delivers reliable data, empowering businesses with trusted insights.",
+          "title": "IBM DataStage"
+        },
+        {
+          "children": [],
+          "description": "Enterprise-class solution that streamlines big data and cloud analytics through comprehensive data integration management.",
+          "title": "Informatica PowerCenter"
+        },
+        {
+          "children": [],
+          "description": "Proven data integration solution for building scalable ETL processes within enterprise environments using SQL Server.",
+          "title": "Microsoft SSIS"
+        },
+        {
+          "children": [],
+          "description": "Comprehensive platform that addresses batch loads, real-time processes, and SOA-enabled services for end-to-end data management.",
+          "title": "Oracle Data Integrator"
+        },
+        {
+          "children": [],
+          "description": "Intuitive, visual ETL tool that simplifies data ingestion, blending, and cleansing across multiple sources without heavy coding.",
+          "title": "Pentaho Data Integration (⭐8.3k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-08T02:38:26Z",
+            "owner": "pentaho",
+            "repo": "pentaho-kettle",
+            "stars": 8304
+          }
+        },
+        {
+          "children": [],
+          "description": "Robust solution that transforms, integrates, and secures data to enhance quality and reliability across the enterprise.",
+          "title": "SAS Data Management"
+        },
+        {
+          "children": [],
+          "description": "Developer-friendly SaaS ETL service that effortlessly extracts data from numerous sources into data warehouses for streamlined analytics.",
+          "title": "Stitch"
+        },
+        {
+          "children": [],
+          "description": "Versatile platform that unifies disparate data sources into actionable insights to empower informed business decisions.",
+          "title": "Talend Data Integration"
+        }
+      ],
+      "title": "Data Integration"
+    },
+    {
+      "description": "Data Mapping tools are used to define and transform data between different systems, applications, and formats. These tools allow for the mapping of data from source to target, allowing for data transformation and integration. This section covers different data mapping solutions that can be used to facilitate data mapping and transformation processes for different use cases.",
+      "items": [
+        {
+          "children": [],
+          "description": "Graphical data mapping solution that enables any-to-any conversion, reducing complexity and accelerating integration projects.",
+          "title": "Altova MapForce"
+        },
+        {
+          "children": [],
+          "description": "Interactive web-based tool that simplifies mapping across Java, XML, CSV, and JSON data sources with an intuitive interface.",
+          "title": "AtlasMap (⭐209)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-06-16T18:54:01Z",
+            "owner": "atlasmap",
+            "repo": "atlasmap",
+            "stars": 209
+          }
+        },
+        {
+          "children": [],
+          "description": "Java-based JSON transformation library that uses a specification-driven approach for effortless JSON-to-JSON conversions.",
+          "title": "JOLT (⭐1.6k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-07-12T01:41:13Z",
+            "owner": "bazaarvoice",
+            "repo": "jolt",
+            "stars": 1661
+          }
+        },
+        {
+          "children": [],
+          "description": "Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.",
+          "title": "JSLT (⭐683)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-06-29T18:32:36Z",
+            "owner": "schibsted",
+            "repo": "jslt",
+            "stars": 685
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight query and transformation language for JSON data.",
+          "title": "JSONata (⭐2.5k)",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-06T11:30:34Z",
+            "owner": "jsonata-js",
+            "repo": "jsonata",
+            "stars": 2509
+          }
+        }
+      ],
+      "title": "Data Mapping Solution"
+    },
+    {
+      "description": "Enterprise Service Bus (ESB) solutions facilitate the integration of disparate systems and applications by providing a communication layer that allows them to exchange information. ESBs offer a range of capabilities such as message routing, transformation, protocol conversion, and data mediation. They typically support various messaging patterns and communication protocols and provide a centralized platform for managing and monitoring message traffic.",
+      "items": [
+        {
+          "children": [],
+          "description": "Comprehensive integration solution that leverages robust ESB capabilities to connect and orchestrate disparate systems.",
+          "title": "Anypoint Platform"
+        },
+        {
+          "children": [],
+          "description": "Versatile open-source integration container combining messaging, routing, and service mediation for flexible enterprise connectivity.",
+          "title": "Apache ServiceMix"
+        },
+        {
+          "children": [],
+          "description": "Flexible integration platform that synchronizes data across applications, streamlines partner connectivity, and enhances data accessibility.",
+          "title": "ArcESB"
+        },
+        {
+          "children": [],
+          "description": "Robust integration solution that connects diverse applications and protocols, ensuring seamless data flow across the enterprise.",
+          "title": "IBM App Connect"
+        },
+        {
+          "children": [],
+          "description": "Comprehensive platform that accelerates application integration and simplifies connectivity across heterogeneous systems.",
+          "title": "IBM webMethods Integration"
+        },
+        {
+          "children": [],
+          "description": "Developer-friendly, .NET-based service bus that simplifies messaging and orchestrates service integration efficiently.",
+          "title": "NServiceBus (⭐2.1k)",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-06T14:38:01Z",
+            "owner": "Particular",
+            "repo": "NServiceBus",
+            "stars": 2161
+          }
+        },
+        {
+          "children": [],
+          "description": "Powerful ESB solution that virtualizes and manages service interactions to reduce integration complexity.",
+          "title": "Oracle Service Bus"
+        },
+        {
+          "children": [],
+          "description": "Comprehensive SOA platform that orchestrates services into composite applications, driving efficient business process integration.",
+          "title": "Oracle SOA Suite"
+        },
+        {
+          "children": [],
+          "description": "Cloud-native integration platform that delivers distributed integration capabilities for agile, scalable connectivity.",
+          "title": "Red Hat Fuse"
+        },
+        {
+          "children": [],
+          "description": "Enterprise-grade integration platform implementing proven hybrid integration patterns for reliable data exchange.",
+          "title": "TIBCO BusinessWorks"
+        },
+        {
+          "children": [],
+          "description": "High-performance ESB engineered for extreme throughput with zero-copy proxying and non-blocking IO techniques.",
+          "title": "UltraESB"
+        },
+        {
+          "children": [],
+          "description": "API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.",
+          "title": "WSO2 Enterprise Integrator (⭐395)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-10-01T11:02:53Z",
+            "owner": "wso2",
+            "repo": "product-ei",
+            "stars": 396
+          }
+        }
+      ],
+      "title": "Enterprise Service Bus"
+    },
+    {
+      "description": "The Integration frameworks section includes software tools and libraries that help developers implement and manage integration patterns in their applications. These frameworks are based on well-established Enterprise Integration Patterns (EIPs), which provide a standard vocabulary and architecture for designing and implementing integration solutions. The frameworks in this section can help simplify the process of integrating different systems, applications, and data sources by providing pre-built connectors, message routing, and transformation capabilities.",
+      "items": [
+        {
+          "children": [],
+          "description": "Robust integration framework leveraging Enterprise Integration Patterns to seamlessly connect diverse systems and APIs.",
+          "title": "Apache Camel (⭐6.1k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-07T18:48:20Z",
+            "owner": "apache",
+            "repo": "camel",
+            "stars": 6111
+          }
+        },
+        {
+          "children": [],
+          "description": "Innovative programming language designed for effortless creation and integration of network services and APIs.",
+          "title": "Ballerina (⭐3.8k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Ballerina",
+            "last_commit": "2026-02-06T11:40:48Z",
+            "owner": "ballerina-platform",
+            "repo": "ballerina-lang",
+            "stars": 3807
+          }
+        },
+        {
+          "children": [],
+          "description": "Low-code Java messaging framework that simplifies system connectivity and data integration through configurable XML setups.",
+          "title": "Frank!Framework (⭐153)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-07T05:42:57Z",
+            "owner": "frankframework",
+            "repo": "frankframework",
+            "stars": 153
+          }
+        },
+        {
+          "children": [],
+          "description": "Extension of the Spring ecosystem that provides out-of-the-box integration capabilities using proven Enterprise Integration Patterns.",
+          "title": "Spring Integration (⭐1.6k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-08T01:02:45Z",
+            "owner": "spring-projects",
+            "repo": "spring-integration",
+            "stars": 1617
+          }
+        }
+      ],
+      "title": "Integration Frameworks"
+    },
+    {
+      "description": "Message brokers are a type of middleware that allows communication between different applications or systems by facilitating the exchange of messages. They can handle different messaging patterns, such as point-to-point, publish-subscribe, and request-reply, and provide features such as message transformation, routing, and filtering.",
+      "items": [
+        {
+          "children": [],
+          "description": "Open-source broker that implements JMS, enabling seamless conversion between synchronous and asynchronous messaging.",
+          "title": "Apache ActiveMQ (⭐2.4k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T10:37:07Z",
+            "owner": "apache",
+            "repo": "activemq",
+            "stars": 2414
+          }
+        },
+        {
+          "children": [],
+          "description": "A multi-protocol message broker, supporting various industry standard protocols such as AMQP 1.0, MQTT 3.1.1, MQTT 5, and STOMP.",
+          "title": "Apache Artemis (⭐1k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T18:02:50Z",
+            "owner": "apache",
+            "repo": "artemis",
+            "stars": 1001
+          }
+        },
+        {
+          "children": [],
+          "description": "Distributed, high-throughput system designed for real-time data streaming and fault-tolerant processing.",
+          "title": "Apache Kafka (⭐31k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-07T17:58:06Z",
+            "owner": "apache",
+            "repo": "kafka",
+            "stars": 31855
+          }
+        },
+        {
+          "children": [],
+          "description": "Versatile pub/sub and streaming platform offering scalable, low-latency messaging for modern applications.",
+          "title": "Apache Pulsar (⭐15k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T15:34:52Z",
+            "owner": "apache",
+            "repo": "pulsar",
+            "stars": 15080
+          }
+        },
+        {
+          "children": [],
+          "description": "High-performance distributed messaging platform engineered for low latency and high throughput.",
+          "title": "Apache RocketMQ (⭐22k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T07:30:15Z",
+            "owner": "apache",
+            "repo": "rocketmq",
+            "stars": 22329
+          }
+        },
+        {
+          "children": [],
+          "description": "AMQP-compliant messaging tool with multi-language support for enterprise-grade message delivery.",
+          "title": "Apache Qpid (⭐67)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-28T11:24:29Z",
+            "owner": "apache",
+            "repo": "qpid-broker-j",
+            "stars": 67
+          }
+        },
+        {
+          "children": [],
+          "description": "Distributed message queuing system focused on efficiency and reliability for modern workflow needs.",
+          "title": "BlazingMQ (⭐3.1k)",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-06T20:45:06Z",
+            "owner": "bloomberg",
+            "repo": "blazingmq",
+            "stars": 3132
+          }
+        },
+        {
+          "children": [],
+          "description": "Scalable real-time messaging server that minimizes delay in delivering events to online users.",
+          "title": "Centrifugo (⭐9.9k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-01T09:09:26Z",
+            "owner": "centrifugal",
+            "repo": "centrifugo",
+            "stars": 9922
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight MQTT broker optimized for low-power devices with robust encryption and authentication.",
+          "title": "Eclipse Mosquitto (⭐10k)",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-07T23:26:53Z",
+            "owner": "eclipse",
+            "repo": "mosquitto",
+            "stars": 10597
+          }
+        },
+        {
+          "children": [],
+          "description": "High-performance MQTT broker built for IoT and industrial applications, ensuring scalable message delivery.",
+          "title": "EMQX (⭐15k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-02-07T21:44:14Z",
+            "owner": "emqx",
+            "repo": "emqx",
+            "stars": 15908
+          }
+        },
+        {
+          "children": [],
+          "description": "Enterprise-grade messaging solution providing robust features, high availability, and multi-protocol support.",
+          "title": "IBM MQ"
+        },
+        {
+          "children": [],
+          "description": "Kubernetes-native message broker and queue system designed for scalability, high availability, and seamless cloud integration.",
+          "title": "KubeMQ"
+        },
+        {
+          "children": [],
+          "description": "High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.",
+          "title": "LavinMQ (⭐853)",
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-02-07T20:40:38Z",
+            "owner": "cloudamqp",
+            "repo": "lavinmq",
+            "stars": 858
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight, high-performance messaging system ideal for microservices and cloud-native architectures.",
+          "title": "NATS (⭐19k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T21:13:35Z",
+            "owner": "nats-io",
+            "repo": "gnatsd",
+            "stars": 19107
+          }
+        },
+        {
+          "children": [],
+          "description": "Realtime distributed messaging platform designed to operate at scale, handling billions of messages per day with decentralized topology.",
+          "title": "NSQ (⭐25k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-07-13T16:14:09Z",
+            "owner": "nsqio",
+            "repo": "nsq",
+            "stars": 25926
+          }
+        },
+        {
+          "children": [],
+          "description": "Integrated messaging solution within Oracle databases, offering reliable and efficient message delivery.",
+          "title": "Oracle AQ"
+        },
+        {
+          "children": [],
+          "description": "Popular open-source broker implementing AMQP, known for reliability, clustering, and ease-of-use.",
+          "title": "RabbitMQ (⭐13k)",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T19:45:28Z",
+            "owner": "rabbitmq",
+            "repo": "rabbitmq-server",
+            "stars": 13445
+          }
+        },
+        {
+          "children": [],
+          "description": "Kafka-compatible streaming platform that eliminates Zookeeper, delivering high performance and low latency.",
+          "title": "Redpanda (⭐11k)",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-08T00:52:49Z",
+            "owner": "vectorizedio",
+            "repo": "redpanda",
+            "stars": 11688
+          }
+        },
+        {
+          "children": [],
+          "description": "Enterprise messaging platform based on open-source technologies, offering scalable and reliable message delivery.",
+          "title": "Red Hat AMQ"
+        },
+        {
+          "children": [],
+          "description": "Standards-based JMS implementation that enables efficient and robust exchange of messages between applications.",
+          "title": "TIBCO Enterprise Message Service"
+        },
+        {
+          "children": [],
+          "description": "High-performance distributed MQTT broker designed for scalable and efficient message delivery in modern environments.",
+          "title": "VerneMQ (⭐3.5k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-01-08T07:56:59Z",
+            "owner": "vernemq",
+            "repo": "vernemq",
+            "stars": 3524
+          }
+        }
+      ],
+      "title": "Message Broker"
+    },
+    {
+      "description": "Robotic Process Automation (RPA) solutions are software tools that automate repetitive, rule-based tasks within business processes. RPA bots can perform tasks such as data entry, data extraction, and data processing with accuracy and speed, freeing up human workers to focus on more complex tasks.",
+      "items": [
+        {
+          "children": [],
+          "description": "Intelligent automation ecosystem that streamlines business processes and reduces errors through advanced RPA capabilities.",
+          "title": "Automation Anywhere"
+        },
+        {
+          "children": [],
+          "description": "No-code platform delivering robust, scalable automation to minimize manual tasks and boost productivity.",
+          "title": "Blue Prism"
+        },
+        {
+          "children": [],
+          "description": "Enterprise-grade, open-source robotic process automation suite.",
+          "title": "OpenRPA (⭐2.8k)",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-03T09:41:13Z",
+            "owner": "open-rpa",
+            "repo": "openrpa",
+            "stars": 2866
+          }
+        },
+        {
+          "children": [],
+          "description": "An open-source automation framework with human-friendly keyword syntax that enables both technical and non-technical users to create test scripts and automate business processes cost-effectively, supporting web, API, mobile, and database automation through extensive libraries and integrations.",
+          "title": "Robot Framework (⭐11k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T09:03:47Z",
+            "owner": "robotframework",
+            "repo": "robotframework",
+            "stars": 11398
+          }
+        },
+        {
+          "children": [],
+          "description": "An open-source RPA tool that democratizes automation through natural language scripting in 20+ human languages, enabling non-programmers to automate web, desktop, and data tasks while integrating AI/ML capabilities via Python and R for intelligent process automation.",
+          "title": "TagUI (⭐6.2k)",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-02T14:58:12Z",
+            "owner": "aisingapore",
+            "repo": "TagUI",
+            "stars": 6225
+          }
+        },
+        {
+          "children": [],
+          "description": "AI-powered, no-code automation solution that enhances accuracy, efficiency, and compliance across workflows.",
+          "title": "Tungsten RPA"
+        },
+        {
+          "children": [],
+          "description": "Comprehensive RPA platform that automates routine tasks, enabling scalable digital transformation across enterprises.",
+          "title": "UiPath"
+        },
+        {
+          "children": [],
+          "description": "Enterprise automation solution that combines RPA with intelligent automation to streamline complex workflows.",
+          "title": "WorkFusion"
+        }
+      ],
+      "title": "Robotic Process Automation"
+    },
+    {
+      "description": "Software tools that enable the design, execution, and monitoring of complex workflows or business processes. Workflow engines provide a way to automate and streamline business processes, while orchestration engines help to manage the interactions between different systems or services.",
+      "items": [
+        {
+          "children": [],
+          "description": "Lightweight, Java-centric BPMN engine that efficiently executes business workflows with a focus on simplicity.",
+          "title": "Activiti (⭐10k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-07T10:18:32Z",
+            "owner": "Activiti",
+            "repo": "Activiti",
+            "stars": 10516
+          }
+        },
+        {
+          "children": [],
+          "description": "Platform for programmatically creating, scheduling, and monitoring workflows, ideal for managing complex data pipelines.",
+          "title": "Apache Airflow (⭐44k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T03:43:54Z",
+            "owner": "apache",
+            "repo": "airflow",
+            "stars": 44177
+          }
+        },
+        {
+          "children": [],
+          "description": "Container-native workflow engine designed for orchestrating parallel jobs in Kubernetes-based, cloud-native environments.",
+          "title": "Argo Workflows (⭐16k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T15:41:58Z",
+            "owner": "argoproj",
+            "repo": "argo-workflows",
+            "stars": 16440
+          }
+        },
+        {
+          "children": [],
+          "description": "Distributed scheduler that simplifies managing job dependencies in large-scale data processing environments.",
+          "title": "Azkaban (⭐4.5k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-03T06:07:59Z",
+            "owner": "azkaban",
+            "repo": "azkaban",
+            "stars": 4516
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source BPMN engine with a designer interface to build and automate complex business processes.",
+          "title": "Bonita (⭐172)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T09:37:33Z",
+            "owner": "bonitasoft",
+            "repo": "bonita-engine",
+            "stars": 172
+          }
+        },
+        {
+          "children": [],
+          "description": "Fault-tolerant, stateful platform that reliably orchestrates long-running workflows and complex applications.",
+          "title": "Cadence (⭐9.1k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T01:43:14Z",
+            "owner": "uber",
+            "repo": "cadence",
+            "stars": 9168
+          }
+        },
+        {
+          "children": [],
+          "description": "Flexible workflow and decision automation platform designed for scalable business process management.",
+          "title": "Camunda (⭐4.2k)",
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2025-11-04T07:40:27Z",
+            "owner": "camunda",
+            "repo": "camunda-bpm-platform",
+            "stars": 4268
+          }
+        },
+        {
+          "children": [],
+          "description": "Cloud-based orchestration engine that manages microservices workflows, streamlining complex process automation.",
+          "title": "Conductor (⭐12k)",
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-12-22T23:40:04Z",
+            "owner": "Netflix",
+            "repo": "conductor",
+            "stars": 12784
+          }
+        },
+        {
+          "children": [],
+          "description": "NET Core library that integrates seamlessly into any application to execute and manage workflows.",
+          "title": "Elsa Core (⭐7.5k)",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-07T21:18:02Z",
+            "owner": "elsa-workflows",
+            "repo": "elsa-core",
+            "stars": 7608
+          }
+        },
+        {
+          "children": [],
+          "description": "Compact, efficient set of open-source engines for automating and scaling enterprise workflows.",
+          "title": "Flowable (⭐9k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-04T08:04:11Z",
+            "owner": "flowable",
+            "repo": "flowable-engine",
+            "stars": 9068
+          }
+        },
+        {
+          "children": [],
+          "description": "Comprehensive toolkit for automating business processes and decisions with robust workflow management capabilities.",
+          "title": "jBPM (⭐1.7k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-02T15:12:03Z",
+            "owner": "kiegroup",
+            "repo": "jbpm",
+            "stars": 1722
+          }
+        },
+        {
+          "children": [],
+          "description": "Modern, developer-friendly orchestration tool optimized for data pipelines and complex workflows.",
+          "title": "Prefect (⭐21k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T03:45:02Z",
+            "owner": "PrefectHQ",
+            "repo": "prefect",
+            "stars": 21574
+          }
+        },
+        {
+          "children": [],
+          "description": "Robust automation engine that combines sensors, triggers, and workflows to orchestrate complex IT processes.",
+          "title": "StackStorm (⭐6.4k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-02T14:30:48Z",
+            "owner": "StackStorm",
+            "repo": "st2",
+            "stars": 6405
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source workflow-as-code platform designed for building reliable, scalable, and fault-tolerant applications.",
+          "title": "Temporal (⭐18k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-08T03:57:16Z",
+            "owner": "temporalio",
+            "repo": "temporal",
+            "stars": 18194
+          }
+        }
+      ],
+      "title": "Workflow Engine"
+    },
+    {
+      "description": "Integration patterns provide standardized solutions for common integration problems within an enterprise. Enterprise Integration Patterns (EIP) provide a common language for describing integration problems and solutions, while Integration Architecture Patterns address high-level concerns of enterprise architects. Service-Oriented Architecture (SOA) patterns provide guidance for designing and implementing service-oriented architectures, ensuring that services are scalable, reusable, and loosely coupled.",
+      "items": [],
+      "title": "Integration Patterns"
+    },
+    {
+      "description": "Design patterns used to connect systems and applications in an efficient and seamless manner.",
+      "items": [
+        {
+          "children": [],
+          "description": "Use APIs to connect different systems and applications.",
+          "title": "API-led Connectivity pattern",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-17T05:29:49Z",
+            "owner": "chanakaudaya",
+            "repo": "solution-architecture-patterns",
+            "stars": 3442
+          }
+        },
+        {
+          "children": [],
+          "description": "Add a layer to isolate and transform data between systems.",
+          "title": "Anti Corruption Layer Pattern",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-17T05:29:49Z",
+            "owner": "chanakaudaya",
+            "repo": "solution-architecture-patterns",
+            "stars": 3442
+          }
+        },
+        {
+          "children": [],
+          "description": "Capture and propagate changes made to a database or data source in real-time.",
+          "title": "Change Data Capture Pattern",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-17T05:29:49Z",
+            "owner": "chanakaudaya",
+            "repo": "solution-architecture-patterns",
+            "stars": 3442
+          }
+        },
+        {
+          "children": [],
+          "description": "Manage APIs that span both cloud and on-premises environments using a central control plane.",
+          "title": "Hybrid API Management pattern",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-17T05:29:49Z",
+            "owner": "chanakaudaya",
+            "repo": "solution-architecture-patterns",
+            "stars": 3442
+          }
+        },
+        {
+          "children": [],
+          "description": "Integrate systems and applications that are deployed both on-premises and in the cloud using a combination of integration technologies.",
+          "title": "Hybrid Integration pattern",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-17T05:29:49Z",
+            "owner": "chanakaudaya",
+            "repo": "solution-architecture-patterns",
+            "stars": 3442
+          }
+        }
+      ],
+      "title": "Integration Architecture Patterns"
+    },
+    {
+      "description": "Some useful specifications, standards, articles and documentation.",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A powerful high-level language for designing and documenting APIs that allows software engineers to easily collaborate and create efficient APIs.",
+          "title": "API Blueprint (⭐8.6k)",
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2023-08-19T19:11:28Z",
+            "owner": "apiaryio",
+            "repo": "api-blueprint",
+            "stars": 8669
+          }
+        },
+        {
+          "children": [],
+          "description": "An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.",
+          "title": "AsyncAPI (⭐5k)",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-31T11:24:10Z",
+            "owner": "asyncapi",
+            "repo": "spec",
+            "stars": 5082
+          }
+        },
+        {
+          "children": [],
+          "description": "A specification for describing event data in common formats to provide interoperability across services, platforms and systems.",
+          "title": "CloudEvents (⭐5.6k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-04T17:30:15Z",
+            "owner": "cloudevents",
+            "repo": "spec",
+            "stars": 5675
+          }
+        },
+        {
+          "children": [],
+          "description": "A sophisticated query language and runtime for building efficient APIs that empowers engineers to retrieve data from existing systems with ease.",
+          "title": "GraphQL (⭐14k)",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-05T19:06:39Z",
+            "owner": "graphql",
+            "repo": "graphql-spec",
+            "stars": 14778
+          }
+        },
+        {
+          "children": [],
+          "description": "A standardized specification for building APIs that simplifies the representation of resources, relationships, and metadata, making it easier for software engineers to create efficient APIs.",
+          "title": "JSON:API (⭐7.6k)",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-03-13T15:09:19Z",
+            "owner": "json-api",
+            "repo": "json-api",
+            "stars": 7677
+          }
+        },
+        {
+          "children": [],
+          "description": "A language-agnostic specification for creating RESTful APIs that enables both humans and machines to understand the capabilities of a service without the need for source code or documentation.",
+          "title": "OpenAPI (ex.Swagger) (⭐30k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-02-05T23:07:25Z",
+            "owner": "OAI",
+            "repo": "OpenAPI-Specification",
+            "stars": 30899
+          }
+        },
+        {
+          "children": [],
+          "description": "A RESTful API Modeling Language that allows software engineers to design and create efficient APIs by modeling resources, endpoints, and interactions.",
+          "title": "RAML (⭐3.8k)",
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-03-25T21:55:39Z",
+            "owner": "raml-org",
+            "repo": "raml-spec",
+            "stars": 3863
+          }
+        },
+        {
+          "children": [],
+          "description": "Open source tools and guidelines for sending webhooks easily, securely, and reliably.",
+          "title": "Standard Webhooks (⭐1.6k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-04T15:35:08Z",
+            "owner": "standard-webhooks",
+            "repo": "standard-webhooks",
+            "stars": 1603
+          }
+        },
+        {
+          "children": [],
+          "description": "A powerful XML-based interface description language for SOAP-based services that enables software engineers to describe the functionality of a web service and automate the creation of client code.",
+          "title": "WSDL"
+        }
+      ],
+      "title": "API Specification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.",
+          "title": "Apache Avro (⭐3.2k)",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-01T17:23:26Z",
+            "owner": "apache",
+            "repo": "avro",
+            "stars": 3217
+          }
+        },
+        {
+          "children": [],
+          "description": "Binary-encoded serialization format for JSON-like documents that is designed to be lightweight and efficient. It supports rich data types and is widely used in NoSQL databases, such as MongoDB.",
+          "title": "BSON"
+        },
+        {
+          "children": [],
+          "description": "A simple and widely used data format that stores tabular data in plain text. It is easy to read and write, and can be processed by most programming languages.",
+          "title": "CSV"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.",
+              "title": "NDJSON (⭐801)",
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2022-10-20T14:43:02Z",
+                "owner": "ndjson",
+                "repo": "ndjson-spec",
+                "stars": 801
+              }
+            },
+            {
+              "children": [],
+              "description": "A text format for storing structured data one record per line.",
+              "title": "JSON Lines"
+            },
+            {
+              "children": [],
+              "description": "Defined in RFC 7464, describe a specific format for transmitting or storing a sequence of individual JSON texts.",
+              "title": "JSON Text Sequence"
+            }
+          ],
+          "description": "A lightweight and easy-to-read data format that is widely used for data exchange. It supports a wide range of data types and is compatible with many programming languages.",
+          "title": "JSON",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-10-20T14:43:02Z",
+            "owner": "ndjson",
+            "repo": "ndjson-spec",
+            "stars": 801
+          }
+        },
+        {
+          "children": [],
+          "description": "A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.",
+          "title": "Protocol Buffers (⭐70k)",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-08T02:43:07Z",
+            "owner": "protocolbuffers",
+            "repo": "protobuf",
+            "stars": 70655
+          }
+        },
+        {
+          "children": [],
+          "description": "A flexible and widely used markup language that is used for storing and exchanging structured data. It supports rich data types and is compatible with many programming languages.",
+          "title": "XML"
+        },
+        {
+          "children": [],
+          "description": "A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.",
+          "title": "YAML (⭐451)",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-08-20T05:37:19Z",
+            "owner": "yaml",
+            "repo": "yaml-spec",
+            "stars": 453
+          }
+        }
+      ],
+      "title": "Data Formats"
+    },
+    {
+      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:31:15.252Z",
+    "original_repository": "stn1slv/awesome-integration",
+    "source_repository": "v1nvn/enhansome-integration",
+    "source_repository_description": null,
+    "title": "Awesome Integration with stars"
+  }
+}

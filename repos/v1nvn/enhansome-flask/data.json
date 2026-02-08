@@ -1,0 +1,707 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Third-Party Extensions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "APIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Integrates marshmallow for validation and serialization, and for OpenAPI generation with Swagger UI.",
+          "title": "APIFlask",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-01T08:02:34Z",
+            "owner": "apiflask",
+            "repo": "apiflask",
+            "stars": 1119
+          }
+        },
+        {
+          "children": [],
+          "description": "Open source, OpenAPI-based, REST framework built on top of Flask.",
+          "title": "Connexion"
+        },
+        {
+          "children": [],
+          "description": "OpenAPI and Swagger UI. Builds the API from Flasgger models, marshmallow models, dicts, or YAML files.",
+          "title": "Flasgger",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-17T23:38:25Z",
+            "owner": "flasgger",
+            "repo": "flasgger",
+            "stars": 3736
+          }
+        },
+        {
+          "children": [],
+          "description": "Combines Flask, , and  for robust REST services.",
+          "title": "Flask-Rebar",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T19:22:18Z",
+            "owner": "plangrid",
+            "repo": "flask-rebar",
+            "stars": 237
+          }
+        },
+        {
+          "children": [],
+          "description": "Community-driven fork of  that makes it easy to build and document RESTful APIs with Flask.",
+          "title": "Flask-RESTX"
+        },
+        {
+          "children": [],
+          "description": "Marshmallow's official Flask REST integration. Uses marshmallow models for request/response validation and serialization, and generates OpenAPI with Swagger UI.",
+          "title": "flask-smorest",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T00:22:47Z",
+            "owner": "marshmallow-code",
+            "repo": "flask-smorest",
+            "stars": 717
+          }
+        }
+      ],
+      "title": "RESTful API + Swagger/OpenAPI Documentation Support"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Auth"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Library for building OAuth and OpenID clients and servers.",
+          "title": "Authlib"
+        },
+        {
+          "children": [],
+          "description": "Framework agnostic library for Python web applications that simplifies authentication and authorization of users via OAuth and OpenID.",
+          "title": "Authomatic",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-12T08:28:51Z",
+            "owner": "authomatic",
+            "repo": "authomatic",
+            "stars": 1050
+          }
+        },
+        {
+          "children": [],
+          "description": "OAuth support via .",
+          "title": "Flask-Dance",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-07T07:10:20Z",
+            "owner": "singingwolfboy",
+            "repo": "flask-dance",
+            "stars": 1016
+          }
+        }
+      ],
+      "title": "OAuth"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Databases"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Developer Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Full-text search.",
+          "title": "flask-msearch",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-16T05:07:23Z",
+            "owner": "honmaple",
+            "repo": "flask-msearch",
+            "stars": 227
+          }
+        },
+        {
+          "children": [],
+          "description": "Full-text search + Whoosh indexing capabilities for Flask-SQLAlchemy.",
+          "title": "Flask-WhooshAlchemy3",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-01T14:19:30Z",
+            "owner": "blakev",
+            "repo": "Flask-WhooshAlchemy3",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides full-text search capabilities for SQLAlchemy models.",
+          "title": "SQLAlchemy-Searchable"
+        }
+      ],
+      "title": "Full-text Search"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Provides argon2 hashing utilities.",
+          "title": "Flask-Argon2",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-15T23:38:41Z",
+            "owner": "red-coracle",
+            "repo": "flask-argon2",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides bcrypt hashing utilities.",
+          "title": "Flask-Bcrypt"
+        },
+        {
+          "children": [],
+          "description": "Cross Origin Resource Sharing (CORS) handling.",
+          "title": "Flask-CORS"
+        },
+        {
+          "children": [],
+          "description": "Cross-site request forgery (CSRF) prevention.",
+          "title": "Flask-SeaSurf",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-04T15:46:45Z",
+            "owner": "maxcountryman",
+            "repo": "flask-seasurf",
+            "stars": 196
+          }
+        },
+        {
+          "children": [],
+          "description": "HTTPS and security headers.",
+          "title": "Flask-Talisman",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-17T09:20:40Z",
+            "owner": "wntrblm",
+            "repo": "flask-talisman",
+            "stars": 84
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "API monitoring, analytics, and request logging for Flask.",
+          "title": "Apitally",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T01:20:58Z",
+            "owner": "apitally",
+            "repo": "apitally-py",
+            "stars": 216
+          }
+        },
+        {
+          "children": [],
+          "description": "Support for internationalization (i18n) and localization (l10n).",
+          "title": "Flask-Babel",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-07T06:38:21Z",
+            "owner": "python-babel",
+            "repo": "flask-babel",
+            "stars": 452
+          }
+        },
+        {
+          "children": [],
+          "description": "Easy file uploads.",
+          "title": "Flask-File-Upload",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-02-16T04:15:10Z",
+            "owner": "joegasewicz",
+            "repo": "flask-file-upload",
+            "stars": 154
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides flat static pages based on text files.",
+          "title": "Flask-FlatPages"
+        },
+        {
+          "children": [],
+          "description": "Freezes a Flask application into a set of static files.",
+          "title": "Frozen-Flask",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-12T22:19:50Z",
+            "owner": "Frozen-Flask",
+            "repo": "Frozen-Flask",
+            "stars": 798
+          }
+        },
+        {
+          "children": [],
+          "description": "GraphQL support.",
+          "title": "Flask-GraphQL",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-03T16:53:50Z",
+            "owner": "graphql-python",
+            "repo": "flask-graphql",
+            "stars": 1338
+          }
+        },
+        {
+          "children": [],
+          "description": "Adds support for dependency injection.",
+          "title": "Flask-Injector",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-08T17:18:49Z",
+            "owner": "python-injector",
+            "repo": "flask_injector",
+            "stars": 282
+          }
+        },
+        {
+          "children": [],
+          "description": "Rate limiting features to Flask routes.",
+          "title": "Flask-Limiter"
+        },
+        {
+          "children": [],
+          "description": "Moment.js date and time formatting helpers for Jinja2 templates.",
+          "title": "Flask-Moment",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-25T19:32:24Z",
+            "owner": "miguelgrinberg",
+            "repo": "Flask-Moment",
+            "stars": 382
+          }
+        },
+        {
+          "children": [],
+          "description": "Pagination support.",
+          "title": "Flask-Paginate"
+        },
+        {
+          "children": [],
+          "description": "Hides the Node.js development backend for React behind a Flask application.",
+          "title": "Flask-Reactize",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-03-31T17:10:57Z",
+            "owner": "Azure-Samples",
+            "repo": "flask-reactize",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "RESTful/HTTP wrapper for Python's subprocess API, so you can convert any command-line tool into a RESTful API service.",
+          "title": "Flask-Shell2HTTP",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-22T17:03:07Z",
+            "owner": "Eshaan7",
+            "repo": "Flask-Shell2HTTP",
+            "stars": 189
+          }
+        },
+        {
+          "children": [],
+          "description": "Sitemap generation.",
+          "title": "Flask-Sitemap"
+        },
+        {
+          "children": [],
+          "description": "Socket.IO integration.",
+          "title": "Flask-SocketIO"
+        },
+        {
+          "children": [],
+          "description": "Streaming with flask.",
+          "title": "Flask-SSE"
+        }
+      ],
+      "title": "Utils"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hosting"
+    },
+    {
+      "description": "Frameworks:",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Zappa",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-23T13:59:31Z",
+            "owner": "Miserlou",
+            "repo": "Zappa",
+            "stars": 11856
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Chalice",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-29T16:45:37Z",
+            "owner": "aws",
+            "repo": "chalice",
+            "stars": 11064
+          }
+        }
+      ],
+      "title": "Serverless"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "With Bootstrap 4, asset bundling annd minification with webpack, starter templates, and registration/authentication.",
+          "title": "cookiecutter-flask",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-02T04:56:04Z",
+            "owner": "cookiecutter-flask",
+            "repo": "cookiecutter-flask",
+            "stars": 4729
+          }
+        },
+        {
+          "children": [],
+          "description": "Flask starter project for .",
+          "title": "Cookiecutter Flask Skeleton",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-29T17:05:08Z",
+            "owner": "testdrivenio",
+            "repo": "cookiecutter-flask-skeleton",
+            "stars": 67
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple and rapid application development framework that includes detailed security, auto CRUD generation for your models, Google charts, and much more.",
+          "title": "Flask-AppBuilder",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T11:53:02Z",
+            "owner": "dpgaspar",
+            "repo": "Flask-AppBuilder",
+            "stars": 4941
+          }
+        },
+        {
+          "children": [],
+          "description": "Includes SQLAlchemy, Redis, User Authentication, and more.",
+          "title": "flask-base"
+        },
+        {
+          "children": [],
+          "description": "Integrated SQLAlchemy, authentication, and Bootstrap frontend.",
+          "title": "Flask-Bootstrap",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-27T08:31:38Z",
+            "owner": "esbullington",
+            "repo": "flask-bootstrap",
+            "stars": 212
+          }
+        },
+        {
+          "children": [],
+          "description": "Boilerplate template for a Python Flask application with HTMX and Tailwind CSS.",
+          "title": "flask-htmx-boilerplate",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-10-18T09:25:12Z",
+            "owner": "marcusschiesser",
+            "repo": "flask-htmx-boilerplate",
+            "stars": 36
+          }
+        },
+        {
+          "children": [],
+          "description": "Docker image with uWSGI and Nginx for Flask applications in Python running in a single container.",
+          "title": "uwsgi-nginx-flask-docker",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-25T16:19:32Z",
+            "owner": "tiangolo",
+            "repo": "uwsgi-nginx-flask-docker",
+            "stars": 3011
+          }
+        },
+        {
+          "children": [],
+          "description": "Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI.",
+          "title": "React-Redux-Flask",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-13T02:26:54Z",
+            "owner": "dternyak",
+            "repo": "React-Redux-Flask",
+            "stars": 1500
+          }
+        }
+      ],
+      "title": "Boilerplates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Open-source IoT Platform.",
+          "title": "ActorCloud",
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-12-10T18:39:06Z",
+            "owner": "actorcloud",
+            "repo": "ActorCloud",
+            "stars": 197
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Airflow",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T03:43:54Z",
+            "owner": "apache",
+            "repo": "airflow",
+            "stars": 44177
+          }
+        },
+        {
+          "children": [],
+          "description": "Chicago Python's Community Engagement Slack bot.",
+          "title": "Busy Beaver",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-12-08T05:15:55Z",
+            "owner": "busy-beaver-dev",
+            "repo": "busy-beaver",
+            "stars": 72
+          }
+        },
+        {
+          "children": [],
+          "description": "Classic forum software.",
+          "title": "FlaskBB",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T20:46:04Z",
+            "owner": "flaskbb",
+            "repo": "flaskbb",
+            "stars": 2662
+          }
+        },
+        {
+          "children": [],
+          "description": "Feature-rich event management system, made at .",
+          "title": "Indico",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T09:49:58Z",
+            "owner": "indico",
+            "repo": "indico",
+            "stars": 2012
+          }
+        },
+        {
+          "children": [],
+          "description": "The happiest CMS in the world.",
+          "title": "Quokka CMS"
+        },
+        {
+          "children": [],
+          "description": "Online Python Editor with live syntax checking and execution.",
+          "title": "PythonBuddy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-08T20:34:00Z",
+            "owner": "ethanchewy",
+            "repo": "PythonBuddy",
+            "stars": 283
+          }
+        },
+        {
+          "children": [],
+          "description": "Designed to enable anyone, regardless of the level of technical sophistication, to harness the power of data big and small.",
+          "title": "Redash",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T06:17:32Z",
+            "owner": "getredash",
+            "repo": "redash",
+            "stars": 28204
+          }
+        },
+        {
+          "children": [],
+          "description": "Live tracking, flight database, and competition framework.",
+          "title": "SkyLines",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T01:14:20Z",
+            "owner": "skylines-project",
+            "repo": "skylines",
+            "stars": 401
+          }
+        },
+        {
+          "children": [],
+          "description": "Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.",
+          "title": "Security Monkey",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-02-11T02:32:12Z",
+            "owner": "Netflix",
+            "repo": "security_monkey",
+            "stars": 4375
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source whistleblower submission system that media organizations can use to securely accept documents from, and communicate with anonymous sources.",
+          "title": "SecureDrop",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T15:39:59Z",
+            "owner": "freedomofpress",
+            "repo": "securedrop",
+            "stars": 3768
+          }
+        },
+        {
+          "children": [],
+          "description": "Protect your online identity with email alias.",
+          "title": "SimpleLogin",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T13:51:01Z",
+            "owner": "simple-login",
+            "repo": "app",
+            "stars": 6436
+          }
+        },
+        {
+          "children": [],
+          "description": "Git hosting service (check out  as well).",
+          "title": "sr.ht"
+        },
+        {
+          "children": [],
+          "description": "Collaborative forensic timeline analysis.",
+          "title": "Timesketch",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T16:58:30Z",
+            "owner": "google",
+            "repo": "timesketch",
+            "stars": 3266
+          }
+        }
+      ],
+      "title": "Open Source Projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:26:30.881Z",
+    "original_repository": "mjhea0/awesome-flask",
+    "source_repository": "v1nvn/enhansome-flask",
+    "source_repository_description": null,
+    "title": "Awesome Flask with stars"
+  }
+}

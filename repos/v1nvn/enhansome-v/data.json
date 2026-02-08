@@ -1,0 +1,2915 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A language-agnostic build tool wrote in V.",
+          "title": "clockwork",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-09-19T21:40:46Z",
+            "owner": "emmathemartian",
+            "repo": "clockwork",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "The official V tool to build and package applications for Android.",
+          "title": "vab",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-10-21T20:25:23Z",
+            "owner": "vlang",
+            "repo": "vab",
+            "stars": 348
+          }
+        },
+        {
+          "children": [],
+          "description": "Standalone and extra command for  to build and package\nSDL2 and SDL3 based applications importing .",
+          "title": "vab-sdl",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-01-04T15:20:37Z",
+            "owner": "larpon",
+            "repo": "vab-sdl",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Build Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Compile and execute C code on the fly as you type it.",
+          "title": "crepl",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-02-05T21:52:18Z",
+            "owner": "l1mey112",
+            "repo": "crepl",
+            "stars": 32
+          }
+        },
+        {
+          "children": [],
+          "description": "Find and remove duplicate files.",
+          "title": "fdup",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-09-24T18:04:47Z",
+            "owner": "gechandesu",
+            "repo": "fdup",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Cli tool to keep track of applications released as GitHub Release (or assets in workflow) and download them.",
+          "title": "github-releases",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-05-06T14:35:10Z",
+            "owner": "Dracks",
+            "repo": "repo-download-asset",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple command to list most recent news from hacker-news.",
+          "title": "HN-top",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2020-03-30T16:24:00Z",
+            "owner": "BafS",
+            "repo": "hn-top",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "CLI tool to help you \"clone all\" Git repositories belonging to you. Works with GitHub and Gitea.",
+          "title": "klonol",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-12-03T05:57:09Z",
+            "owner": "hungrybluedev",
+            "repo": "klonol",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "file lister in the spirit of exa, eza, lsd, pls, natls, ls-go and others.",
+          "title": "lsv",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-01-19T23:23:11Z",
+            "owner": "mike-ward",
+            "repo": "lsv",
+            "stars": 69
+          }
+        },
+        {
+          "children": [],
+          "description": "CLI tool to manage Docker Swarm resources using Portainer API.",
+          "title": "portctl",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-01-20T02:30:40Z",
+            "owner": "apoprotsky",
+            "repo": "portctl",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool that automates running/compiling code written in various programming languages.",
+          "title": "runner",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-06-22T10:02:20Z",
+            "owner": "Naheel-Azawy",
+            "repo": "runner",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "A small Linux tool to manage symlinks.",
+          "title": "symlinker",
+          "repo_info": {
+            "archived": true,
+            "language": "V",
+            "last_commit": "2021-08-30T19:26:01Z",
+            "owner": "serkonda7",
+            "repo": "symlinker",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple tool for vlang, generate v source file to AST json file.",
+          "title": "vast",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2021-09-17T08:01:02Z",
+            "owner": "lydiandy",
+            "repo": "vast",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "A CLI tool to generate folder structure according to the",
+          "title": "vcli",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-07-10T00:56:45Z",
+            "owner": "changhz",
+            "repo": "vcli",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple and fast static file server.",
+          "title": "verve",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2022-11-16T18:54:18Z",
+            "owner": "MohammadMD1383",
+            "repo": "verve",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "A macOS system information fetch written in V.",
+          "title": "vfetch",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-06-12T20:01:22Z",
+            "owner": "carlosqsilva",
+            "repo": "vfetch",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Make google search on the terminal.",
+          "title": "vgoogle",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-09-22T23:42:23Z",
+            "owner": "changhz",
+            "repo": "vgoogle",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple file list server generating json strings, compatible with nginx's autoindex module.",
+          "title": "vindex",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-09-04T13:31:31Z",
+            "owner": "wenxuanjun",
+            "repo": "vindex",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool to generate v projects.",
+          "title": "vinit",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-05-26T09:06:29Z",
+            "owner": "pranavbaburaj",
+            "repo": "vinit",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "A tiny command-line utility to query LogQL APIs.",
+          "title": "vLogQL",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-03-14T14:45:19Z",
+            "owner": "lmangani",
+            "repo": "vLogQL",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "CLI for creating QR Codes.",
+          "title": "vqrcode",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-10-01T16:06:27Z",
+            "owner": "carlosqsilva",
+            "repo": "vqrcode",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool to inspect vlang source file. ( Archived )",
+          "title": "vspect",
+          "repo_info": {
+            "archived": true,
+            "language": "Coq",
+            "last_commit": "2021-06-02T01:13:08Z",
+            "owner": "zakuro9715",
+            "repo": "vspect",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "A CLI cross-compiling tool based on Zig CC for V.",
+          "title": "vzcc",
+          "repo_info": {
+            "archived": true,
+            "language": "V",
+            "last_commit": "2023-04-18T10:50:21Z",
+            "owner": "malisipi",
+            "repo": "vzcc",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of high-quality terminal applications written in V, including job planner, calculator, notes, file browser, quiz game, budget tracker, P2P chat (WIP), and Pomodoro timer.",
+          "title": "v-terminal-apps",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-11-02T23:04:11Z",
+            "owner": "cogrow4",
+            "repo": "V-Terminal-Apps",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "A Basic Command Line Interface for V.",
+          "title": "vin",
+          "repo_info": {
+            "archived": true,
+            "language": "V",
+            "last_commit": "2025-02-11T17:21:38Z",
+            "owner": "DeoDorqnt387",
+            "repo": "vin",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "An entertaining and amusing simulation of an installer.",
+          "title": "zilch",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-11-27T00:56:09Z",
+            "owner": "mike-ward",
+            "repo": "zilch",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Command-line"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A tool to create and edit 2D polygons with sprite lookup, created in V.",
+          "title": "polygon-editor",
+          "repo_info": {
+            "archived": true,
+            "language": "V",
+            "last_commit": "2023-07-12T09:01:19Z",
+            "owner": "ArtemkaKun",
+            "repo": "polygon-editor",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Small text editor from the official V examples.",
+          "title": "text_editor",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-02-07T21:48:21Z",
+            "owner": "vlang",
+            "repo": "v",
+            "stars": 37331
+          }
+        },
+        {
+          "children": [],
+          "description": "1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.",
+          "title": "ved",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-01-26T21:15:37Z",
+            "owner": "vlang",
+            "repo": "ved",
+            "stars": 1476
+          }
+        },
+        {
+          "children": [],
+          "description": "V Editor Engine. A V module providing the guts of a text editor. Comes with a .",
+          "title": "vee",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-05-24T18:47:13Z",
+            "owner": "Larpon",
+            "repo": "vee",
+            "stars": 59
+          }
+        },
+        {
+          "children": [],
+          "description": "Aims to be a fully featured text editor written entirely in Vlang.",
+          "title": "volt",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-12-30T23:22:53Z",
+            "owner": "Volt-Editor-Team",
+            "repo": "volt",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "A module to simplify PDF file creation using the V programming language.",
+          "title": "vPDF",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-12-19T17:45:33Z",
+            "owner": "vlang",
+            "repo": "pdf",
+            "stars": 85
+          }
+        }
+      ],
+      "title": "Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A 2048 game with several types of traditional AI integrated.",
+          "title": "2048",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-11-05T03:00:16Z",
+            "owner": "wenxuanjun",
+            "repo": "2048",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.",
+          "title": "Boundstone",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2020-05-10T10:27:23Z",
+            "owner": "organization",
+            "repo": "boundstone",
+            "stars": 62
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple flappy learning demo in v.",
+          "title": "flappylearning-v",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-02-07T21:48:21Z",
+            "owner": "vlang",
+            "repo": "v",
+            "stars": 37331
+          }
+        },
+        {
+          "children": [],
+          "description": "osu! beatmap visualizer made in V. .",
+          "title": "Kurarin",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-08T05:47:52Z",
+            "owner": "FireRedz",
+            "repo": "kurarin",
+            "stars": 54
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple Minesweeper game written in vlang.",
+          "title": "minesweeper",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-01-30T23:20:11Z",
+            "owner": "ali-furkan",
+            "repo": "minesweeper-v",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "A jigsaw-like puzzle game written in V using .",
+          "title": "Puzzle Vibes",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-08-05T12:14:12Z",
+            "owner": "Larpon",
+            "repo": "puzzle_vibes",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "A classic paddle game brought back to life through the power of V.",
+          "title": "v-pong",
+          "repo_info": {
+            "archived": true,
+            "language": "V",
+            "last_commit": "2020-01-03T15:22:29Z",
+            "owner": "thebigsmileXD",
+            "repo": "v-pong",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "World's Simplest Video Player.",
+          "title": "mpv-v",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-07-08T11:29:35Z",
+            "owner": "xjunko",
+            "repo": "mpv-v",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple ray tracer written in V.",
+          "title": "vRayTracer",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2020-06-28T15:43:08Z",
+            "owner": "ali-raheem",
+            "repo": "vraytracer",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "Graphics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Programming framework for microcontrollers based on a V-based language and written in V.",
+          "title": "Aixt",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-02-07T20:16:56Z",
+            "owner": "fermarsan",
+            "repo": "aixt",
+            "stars": 86
+          }
+        },
+        {
+          "children": [],
+          "description": "A statically typed scripting language that transpiles into POSIX sh.",
+          "title": "cotowali",
+          "repo_info": {
+            "archived": true,
+            "language": "V",
+            "last_commit": "2025-01-28T09:13:47Z",
+            "owner": "cotowali",
+            "repo": "cotowali",
+            "stars": 620
+          }
+        },
+        {
+          "children": [],
+          "description": "Implementation of  in V.",
+          "title": "monkey_v",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2020-07-08T09:21:32Z",
+            "owner": "Delta456",
+            "repo": "monkey_v",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "A stack based compiled programming language. The bootstrap compiler is written in V.",
+          "title": "stas",
+          "repo_info": {
+            "archived": true,
+            "language": "Assembly",
+            "last_commit": "2023-05-31T07:00:04Z",
+            "owner": "l1mey112",
+            "repo": "stas",
+            "stars": 61
+          }
+        },
+        {
+          "children": [],
+          "description": "The language V itself. Simple, fast, safe, compiled language for developing maintainable software.",
+          "title": "v",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-02-07T21:48:21Z",
+            "owner": "vlang",
+            "repo": "v",
+            "stars": 37331
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple x86-64 assembler written in V.",
+          "title": "vas",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-12-13T04:51:06Z",
+            "owner": "v420v",
+            "repo": "vas",
+            "stars": 103
+          }
+        },
+        {
+          "children": [],
+          "description": "A brainfuck interpreter/compiler.",
+          "title": "vbf",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2021-06-02T20:59:03Z",
+            "owner": "vpervenditti",
+            "repo": "vbf",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "A brainfuck interpreter written in V.",
+          "title": "vfuck"
+        },
+        {
+          "children": [],
+          "description": "A C compiler written in V.",
+          "title": "vcc",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-03-05T04:16:19Z",
+            "owner": "lemoncmd",
+            "repo": "vcc",
+            "stars": 111
+          }
+        },
+        {
+          "children": [],
+          "description": "Alternative V compiler/interpreter written in Python.",
+          "title": "Vork",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-24T10:36:13Z",
+            "owner": "Itay2805",
+            "repo": "Vork",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Interpreters/Compilers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Small and simple OS in V. Runs bash.",
+          "title": "Vinix",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-11-26T02:26:23Z",
+            "owner": "vlang",
+            "repo": "vinix",
+            "stars": 2122
+          }
+        },
+        {
+          "children": [],
+          "description": "A unikernel is a computer program statically linked with the operating system code on which it depends.",
+          "title": "V-Unikernel",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-10-20T17:48:05Z",
+            "owner": "vlang",
+            "repo": "unikernel",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Operating systems/Kernels"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The Lenra template to write V app for Lenra platform.",
+          "title": "Lenra template",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-02-13T12:12:01Z",
+            "owner": "lenra-io",
+            "repo": "template-v",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A project setup and configuration tool for V projects.",
+          "title": "vset",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-02-07T16:14:26Z",
+            "owner": "mulh8377",
+            "repo": "vset",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Project management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Simple and practical module for manipulating ini/cfg file.",
+          "title": "ini-v",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-01-31T03:58:15Z",
+            "owner": "ldedev",
+            "repo": "ini-v",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "A very simple key-value config format wrote in V.",
+          "title": "maple",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-12-16T08:11:20Z",
+            "owner": "emmathemartian",
+            "repo": "maple",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "XML Serialization library for V.",
+          "title": "v-toxml",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2021-02-25T16:23:02Z",
+            "owner": "radare",
+            "repo": "v-toxml",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Official Gura parser for V.",
+          "title": "vgura",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-09-19T22:27:10Z",
+            "owner": "gura-conf",
+            "repo": "vgura",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "A V-native YAML reader, incl. YAML-to-JSON converter.",
+          "title": "vlang-yaml",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2022-04-19T07:31:12Z",
+            "owner": "jdonnerstag",
+            "repo": "vlang-yaml",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "Protobuf compiler and runtime in V.",
+          "title": "vproto",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2022-09-24T14:49:34Z",
+            "owner": "emily33901",
+            "repo": "vproto",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "Serialization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "An emoji picker created with V, webview and SvelteKit.",
+          "title": "emoji-mart-desktop",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-05-26T00:41:27Z",
+            "owner": "ttytm",
+            "repo": "emoji-mart-desktop",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "An demo of how to create a Node.js addon with V.",
+          "title": "v-nodejs-addon",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2024-01-15T00:49:26Z",
+            "owner": "fanlia",
+            "repo": "v-nodejs-addon",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A light and fast SCM alternative to GitHub/GitLab written in V.",
+          "title": "Gitly",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-24T08:31:49Z",
+            "owner": "vlang",
+            "repo": "gitly",
+            "stars": 1460
+          }
+        },
+        {
+          "children": [],
+          "description": "Deploy V apps on Heroku.",
+          "title": "Heroku Buildpack for V",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-04-22T01:58:38Z",
+            "owner": "zztkm",
+            "repo": "heroku-buildpack-v",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "A web framework written in V.",
+          "title": "Mantis",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-11-12T22:57:12Z",
+            "owner": "khalyomede",
+            "repo": "mantis",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "A < 1MB static hosting web server written in V, based on . 🍃",
+          "title": "Tiniest Veb Server",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-09-29T18:11:35Z",
+            "owner": "davlgd",
+            "repo": "tVeb",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Backend skeleton written in V.",
+          "title": "v-admin-skeleton",
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-07-28T01:44:13Z",
+            "owner": "xiusin",
+            "repo": "v-system-skeleton",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "A starter kit for Veb applications, preconfigured with Vite.js.",
+          "title": "v-vite starter",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-11-20T10:41:02Z",
+            "owner": "v-vite",
+            "repo": "starter",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple, fast and responsive blogging system.",
+          "title": "vblog",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-12-20T00:04:29Z",
+            "owner": "scurty-labs",
+            "repo": "vblog",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Electron/Neutralino.JS alternative written in V.",
+          "title": "Vebview.JS",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-10-06T08:27:08Z",
+            "owner": "malisipi",
+            "repo": "Vebview.JS",
+            "stars": 85
+          }
+        },
+        {
+          "children": [],
+          "description": "Arch Linux repository server & package build system, written in V.",
+          "title": "Vieter",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-07-17T12:16:56Z",
+            "owner": "ChewingBever",
+            "repo": "vieter",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Fancy statistics and plots for .",
+          "title": "Vlang Benchmarks Visualization",
+          "repo_info": {
+            "archived": true,
+            "language": "V",
+            "last_commit": "2022-01-13T20:09:10Z",
+            "owner": "ArtemkaKun",
+            "repo": "VlangBenchmarksVisualization",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source blogging/forum software written in V.",
+          "title": "vorum",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-11-10T09:35:53Z",
+            "owner": "vlang",
+            "repo": "vorum",
+            "stars": 222
+          }
+        },
+        {
+          "children": [],
+          "description": "Easy-to-use static site generator.",
+          "title": "vss",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-08-09T11:50:18Z",
+            "owner": "vssio",
+            "repo": "vss",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "TikTok and Twitter video downloader app (CLI / Telegram Bot).",
+          "title": "VTik",
+          "repo_info": {
+            "archived": true,
+            "language": "V",
+            "last_commit": "2022-12-03T20:01:46Z",
+            "owner": "Sharqo78",
+            "repo": "VTik",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Royal-Road Novel downloader.",
+          "title": "rr-dl",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-04-10T20:04:01Z",
+            "owner": "dy-tea",
+            "repo": "rr-dl",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Bindings for the excellent miniaudio C audio library.",
+          "title": "miniaudio",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-06T17:12:23Z",
+            "owner": "larpon",
+            "repo": "miniaudio",
+            "stars": 57
+          }
+        },
+        {
+          "children": [],
+          "description": "A crazy simple library for reading/writing WAV files in V. 🌊",
+          "title": "vave",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-06-15T12:28:27Z",
+            "owner": "thecodrr",
+            "repo": "vave",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": "Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📢📜",
+          "title": "vspeech",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2020-01-15T17:37:00Z",
+            "owner": "thecodrr",
+            "repo": "vspeech",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Customizable progress indicators for V terminal applications.",
+          "title": "bartender",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-11-26T16:56:08Z",
+            "owner": "tobealive",
+            "repo": "bartender",
+            "stars": 54
+          }
+        },
+        {
+          "children": [],
+          "description": "Create highly customizable terminal boxes that also look great! 📦",
+          "title": "boxx",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-03-01T03:45:21Z",
+            "owner": "thecodrr",
+            "repo": "boxx",
+            "stars": 105
+          }
+        },
+        {
+          "children": [],
+          "description": "V version of lolcat (text/character rainbowizer).",
+          "title": "lol",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2022-07-21T22:57:42Z",
+            "owner": "0xLeif",
+            "repo": "lol",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "An easy to use V library for creating progress bars in cli.",
+          "title": "progressbar",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-03-14T17:20:43Z",
+            "owner": "Waqar144",
+            "repo": "progressbar",
+            "stars": 30
+          }
+        },
+        {
+          "children": [],
+          "description": "Create spinners in your terminal!",
+          "title": "spinners",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2022-10-22T09:03:49Z",
+            "owner": "rhygg",
+            "repo": "spinners",
+            "stars": 23
+          }
+        },
+        {
+          "children": [],
+          "description": "V Terminal Tables: Simple and highly customizable library to display tables in the terminal.",
+          "title": "termtable",
+          "repo_info": {
+            "archived": true,
+            "language": "V",
+            "last_commit": "2023-06-20T14:48:58Z",
+            "owner": "serkonda7",
+            "repo": "termtable",
+            "stars": 50
+          }
+        },
+        {
+          "children": [],
+          "description": "V library for parsing arguments from argv-like arrays. ( Archived )",
+          "title": "vargs",
+          "repo_info": {
+            "archived": true,
+            "language": "V",
+            "last_commit": "2020-06-14T23:52:54Z",
+            "owner": "nedpals",
+            "repo": "vargs",
+            "stars": 38
+          }
+        },
+        {
+          "children": [],
+          "description": "V wrapper for Tesseract-OCR (optical character recognition).",
+          "title": "vesseract",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2021-11-14T20:58:14Z",
+            "owner": "barrack-obama",
+            "repo": "vesseract",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Command line interface (CLI) / Terminal / Shell"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Client for Firebird SQL.",
+          "title": "firebird",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-01-21T08:17:35Z",
+            "owner": "einar-hjortdal",
+            "repo": "firebird",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A MongoDB driver for V.",
+          "title": "mongodb",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-09-06T11:32:21Z",
+            "owner": "vlang",
+            "repo": "mongo",
+            "stars": 53
+          }
+        },
+        {
+          "children": [],
+          "description": "Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).",
+          "title": "redict",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-12-17T14:45:01Z",
+            "owner": "einar-hjortdal",
+            "repo": "redict",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "A Redis client for V, written in V.",
+          "title": "redis",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-03-22T16:53:40Z",
+            "owner": "patrickpissurno",
+            "repo": "vredis",
+            "stars": 71
+          }
+        },
+        {
+          "children": [],
+          "description": "A DuckDB client wrapper for V.",
+          "title": "vduckdb",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-01-31T21:17:53Z",
+            "owner": "rodabt",
+            "repo": "vduckdb",
+            "stars": 46
+          }
+        },
+        {
+          "children": [],
+          "description": "Memcached client for V, written in V.",
+          "title": "vmemcached",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2021-02-21T12:57:38Z",
+            "owner": "blacktrub",
+            "repo": "vmemcached",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple, user-friendly, and comprehensive Redis client.",
+          "title": "vredis",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-05-19T10:53:10Z",
+            "owner": "xiusin",
+            "repo": "vredis",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "A sql query builder for V.",
+          "title": "vsql",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2021-10-21T16:52:48Z",
+            "owner": "lydiandy",
+            "repo": "vsql",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "Database clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "User-friendly Discord bot library.",
+          "title": "discord.v",
+          "repo_info": {
+            "archived": true,
+            "language": "V",
+            "last_commit": "2024-02-08T18:02:35Z",
+            "owner": "Terisback",
+            "repo": "discord.v",
+            "stars": 117
+          }
+        },
+        {
+          "children": [],
+          "description": "Super simple interface to send discord messages through webhooks.",
+          "title": "discordwebhook",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-09-11T14:31:46Z",
+            "owner": "ysdragon",
+            "repo": "discordwebhook",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple Discord API library for writing bots.",
+          "title": "kitten",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-07-05T19:46:14Z",
+            "owner": "geniushq",
+            "repo": "kitten",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Pretty basic library for connecting to the Discord gateway.",
+          "title": "viscord",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2020-10-22T03:06:10Z",
+            "owner": "vlang",
+            "repo": "viscord",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for interacting with user account endpoints and gateway (Self-bots, custom clients, etc).",
+          "title": "vord",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2022-04-01T20:00:47Z",
+            "owner": "9xN",
+            "repo": "vord",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Discord"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "MIME detection library for V.",
+          "title": "v-mime",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2019-12-28T14:22:10Z",
+            "owner": "nedpals",
+            "repo": "v-mime",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for . It works for Windows, macOS and Linux.",
+          "title": "vmon",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-10-13T17:16:38Z",
+            "owner": "Larpon",
+            "repo": "vmon",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "File handling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "V wrapper of the Chipmunk2D physics library.",
+          "title": "chipmunk2d",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-18T16:13:34Z",
+            "owner": "larpon",
+            "repo": "chipmunk2d",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "WIP Vulkan in V.",
+          "title": "engine",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2022-02-16T16:40:20Z",
+            "owner": "LouisSchmieder",
+            "repo": "engine",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "Updated V bindings for  with plans for complete cross-platform support.",
+          "title": "raylib.v",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-28T17:52:26Z",
+            "owner": "irishgreencitrus",
+            "repo": "raylib.v",
+            "stars": 71
+          }
+        },
+        {
+          "children": [],
+          "description": "A foundation that helps you being creative in V.",
+          "title": "shy",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-29T14:40:12Z",
+            "owner": "Larpon",
+            "repo": "shy",
+            "stars": 60
+          }
+        },
+        {
+          "children": [],
+          "description": "ECS library made in V inspired by Bevy ECS.",
+          "title": "V_ecs",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-04-07T20:22:17Z",
+            "owner": "mohamedLT",
+            "repo": "V_ecs",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "A V wrapper for the awesome raylib library.",
+          "title": "vraylib",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2022-09-21T19:12:45Z",
+            "owner": "mohamedLT",
+            "repo": "vraylib",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "V wrapper (bindings) for raylib, the C game development framework.",
+          "title": "vraylib",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2021-04-28T23:48:15Z",
+            "owner": "MajorHard",
+            "repo": "vraylib",
+            "stars": 49
+          }
+        },
+        {
+          "children": [],
+          "description": "V wrapper around the excellent Wren scripting language.",
+          "title": "wren",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-21T09:27:27Z",
+            "owner": "larpon",
+            "repo": "wren",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Game development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Official SDL2 & SDL3 bindings for V.",
+          "title": "sdl",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-02-02T07:31:37Z",
+            "owner": "vlang",
+            "repo": "sdl",
+            "stars": 107
+          }
+        },
+        {
+          "children": [],
+          "description": "An experimental real-time vector render V module based on .",
+          "title": "sgldraw",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-02-18T15:01:36Z",
+            "owner": "larpon",
+            "repo": "sgldraw",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "V module to load and resterize svg file into  object.",
+          "title": "svgg",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-07T23:43:59Z",
+            "owner": "Avocadocs",
+            "repo": "svgg",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "fast (real-time) polygon triangulation library based on  to handle holes, twisted polygons, degeneracies and self-intersections.",
+          "title": "V Earcut",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-12-18T16:05:13Z",
+            "owner": "Larpon",
+            "repo": "earcut",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "A V wrapper for the sokol_gp library for easy and fast 2d graphics.",
+          "title": "V_sokol_gp",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-09-20T10:06:32Z",
+            "owner": "mohamedLT",
+            "repo": "V_sokol_gp",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "V wrapper for the C-based cross-platform UI library, IUP.",
+          "title": "viup",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-01-05T12:53:08Z",
+            "owner": "kjlaw89",
+            "repo": "viup",
+            "stars": 46
+          }
+        },
+        {
+          "children": [],
+          "description": "V wrapper for the C-based SDL library.",
+          "title": "vsdl",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-01-11T20:42:59Z",
+            "owner": "kjlaw89",
+            "repo": "vsdl",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "A libSDL2 wrapper.",
+          "title": "vsdl2",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-02-01T11:07:43Z",
+            "owner": "nsauzede",
+            "repo": "vsdl2",
+            "stars": 47
+          }
+        },
+        {
+          "children": [],
+          "description": "VCL is a high level way of writing programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.",
+          "title": "vsl.vcl",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-01-15T07:40:13Z",
+            "owner": "vlang",
+            "repo": "vsl",
+            "stars": 394
+          }
+        },
+        {
+          "children": [],
+          "description": "Read and write bitmap files.",
+          "title": "vbmp",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-01-10T00:27:57Z",
+            "owner": "dy-tea",
+            "repo": "vbmp",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "V wrapper of .",
+          "title": "voronoi",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-18T15:57:24Z",
+            "owner": "larpon",
+            "repo": "voronoi",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "V: QOI - The \"Quite OK Image\" format for fast, lossless image compression.",
+          "title": "vqoi",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-07-18T19:00:07Z",
+            "owner": "Le0Developer",
+            "repo": "vqoi",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Graphics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "IPv4, IPv6 and MAC (EUI-48, EUI-64) addresses manipulation library.",
+          "title": "netaddr",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-12-12T23:31:08Z",
+            "owner": "gechandesu",
+            "repo": "netaddr",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Request library that wraps libcurl to enable fast and reliable requests while providing a higher-level API.",
+          "title": "vibe",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-11-15T23:11:50Z",
+            "owner": "tobealive",
+            "repo": "vibe",
+            "stars": 42
+          }
+        },
+        {
+          "children": [],
+          "description": "V wrapper For  (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).",
+          "title": "vmq",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-02-06T15:57:28Z",
+            "owner": "jordan-bonecutter",
+            "repo": "vmq",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Networking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "V module for interacting with the OS clipboard. Fully cross-platform.",
+          "title": "clipboard",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-02-07T21:48:21Z",
+            "owner": "vlang",
+            "repo": "v",
+            "stars": 37331
+          }
+        },
+        {
+          "children": [],
+          "description": "Provide native V-lang support for memory-mapping on Linux and Windows.",
+          "title": "mmap",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2021-06-21T06:45:53Z",
+            "owner": "jdonnerstag",
+            "repo": "vlang-mmap",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "An easy to use wrapper of clipboard with Wayland and Termux support.",
+          "title": "vlipboard",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2020-07-25T22:48:25Z",
+            "owner": "asvvvad",
+            "repo": "vlipboard",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "MS Windows Registry API. (WIP)",
+          "title": "winreg",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-01-31T03:47:29Z",
+            "owner": "ldedev",
+            "repo": "WindowsRegistry",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Operating system"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "V wrapper for GNU Plot ().",
+          "title": "vplot",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-09-27T21:57:03Z",
+            "owner": "erdetn",
+            "repo": "vplot",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "A Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, it also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.",
+          "title": "vsl",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-01-15T07:40:13Z",
+            "owner": "vlang",
+            "repo": "vsl",
+            "stars": 394
+          }
+        },
+        {
+          "children": [],
+          "description": "The V Tensor Library is a numerical computing library supporting n-dimensional data structure, backed by VSL.",
+          "title": "vtl",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-12-28T12:07:13Z",
+            "owner": "vlang",
+            "repo": "vtl",
+            "stars": 160
+          }
+        },
+        {
+          "children": [],
+          "description": "This is a V module to create neural networks.",
+          "title": "NeuralNetworks-V-Module",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-08-15T11:25:53Z",
+            "owner": "Eliyaan",
+            "repo": "NeuralNetworks-V-Module",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Scientific computing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A tiny (wrapper) library for I2C serial communication for Linux written in V.",
+          "title": "vi2c",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-05-15T20:40:41Z",
+            "owner": "erdetn",
+            "repo": "vi2c",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "V wrapper for .",
+          "title": "vserialport",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2021-11-21T14:43:26Z",
+            "owner": "erdetn",
+            "repo": "vserialport",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "A tiny (wrapper) serial communication library for Linux written in V.",
+          "title": "vserialx",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-07-29T19:08:44Z",
+            "owner": "erdetn",
+            "repo": "vserialx",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Serial Communications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "ASCII Robot generator written in V.",
+          "title": "ascii_robot",
+          "repo_info": {
+            "archived": false,
+            "language": "Coq",
+            "last_commit": "2020-09-28T08:25:38Z",
+            "owner": "Delta456",
+            "repo": "ascii_robot",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Colorize strings in the terminal.",
+          "title": "chalk",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2022-07-29T20:56:58Z",
+            "owner": "etienne-napoleone",
+            "repo": "chalk",
+            "stars": 23
+          }
+        },
+        {
+          "children": [],
+          "description": "Wrap cJSON for vlang.",
+          "title": "cjson",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2022-07-08T16:44:56Z",
+            "owner": "lydiandy",
+            "repo": "cjson",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Paint your terminal output like Picasso. 🖍️🎨",
+          "title": "crayon",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-02-02T12:48:59Z",
+            "owner": "thecodrr",
+            "repo": "crayon",
+            "stars": 60
+          }
+        },
+        {
+          "children": [],
+          "description": "Wrap iconv for vlang.",
+          "title": "iconv",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2021-07-23T08:29:14Z",
+            "owner": "fanlia",
+            "repo": "iconv",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for processing PCRE regular expressions.",
+          "title": "pcre2",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-12-02T07:11:39Z",
+            "owner": "srackham",
+            "repo": "pcre2",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Read xlsx using vlang.",
+          "title": "read_xlsx_v",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-07-15T00:54:19Z",
+            "owner": "fanlia",
+            "repo": "read_xlsx_v",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "A Rosie Pattern Language (RPL) implementation.",
+          "title": "Rosie-RPL",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2022-03-09T10:59:54Z",
+            "owner": "jdonnerstag",
+            "repo": "vlang-rosie",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Transform Unicode strings to url-friendly human-readable ASCII slugs.",
+          "title": "slugify",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-12-17T14:45:25Z",
+            "owner": "einar-hjortdal",
+            "repo": "slugify",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "V text processing library, that contains common tools to manipulate text data.",
+          "title": "text-processing",
+          "repo_info": {
+            "archived": true,
+            "language": "V",
+            "last_commit": "2022-12-02T15:22:19Z",
+            "owner": "ArtemkaKun",
+            "repo": "text-processing",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple regex library for V.",
+          "title": "v-regex",
+          "repo_info": {
+            "archived": true,
+            "language": "V",
+            "last_commit": "2021-10-18T05:10:38Z",
+            "owner": "spytheman",
+            "repo": "v-regex",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Pure V library for parsing XML to a DOM.",
+          "title": "vxml",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-08T17:28:30Z",
+            "owner": "i582",
+            "repo": "vxml",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Fast, robust template engine for V inspired by mustache.",
+          "title": "whisker",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-06-16T10:52:41Z",
+            "owner": "hungrybluedev",
+            "repo": "whisker",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "Lexicographically-sortable universally unique identifiers.",
+          "title": "lexical_uuid",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-01-29T09:29:05Z",
+            "owner": "einar-hjortdal",
+            "repo": "lexical_uuid",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Text processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Isaiah's cross-platform GUI library for V. Inspired by the syntax of Java's Swing.",
+          "title": "iUI",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-01-17T02:40:42Z",
+            "owner": "isaiahpatton",
+            "repo": "ui",
+            "stars": 151
+          }
+        },
+        {
+          "children": [],
+          "description": "A Cross-Platform UI library for Windows, Linux, Android and Web.",
+          "title": "mui",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-08-18T10:19:20Z",
+            "owner": "malisipi",
+            "repo": "mui",
+            "stars": 114
+          }
+        },
+        {
+          "children": [],
+          "description": "Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.",
+          "title": "V UI",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-11-08T07:08:16Z",
+            "owner": "vlang",
+            "repo": "ui",
+            "stars": 2490
+          }
+        },
+        {
+          "children": [],
+          "description": "A wrapper for GTK3 in V.",
+          "title": "vgtk3",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2022-11-07T15:02:12Z",
+            "owner": "vgtk",
+            "repo": "vgtk3",
+            "stars": 64
+          }
+        },
+        {
+          "children": [],
+          "description": "Bindings for  GUI toolkit.",
+          "title": "vig",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-02-19T15:08:13Z",
+            "owner": "nsauzede",
+            "repo": "vig",
+            "stars": 57
+          }
+        },
+        {
+          "children": [],
+          "description": "Bindings for  GUI toolkit.",
+          "title": "vnk",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-09-17T14:29:39Z",
+            "owner": "nsauzede",
+            "repo": "vnk",
+            "stars": 53
+          }
+        },
+        {
+          "children": [],
+          "description": "A wrapper for WebUI. A lightweight library that allows you to use any web browser as a GUI, with V in the backend and HTML5 in the frontend.",
+          "title": "V-WebUI",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-07-07T21:05:32Z",
+            "owner": "webui-dev",
+            "repo": "v-webui",
+            "stars": 131
+          }
+        },
+        {
+          "children": [],
+          "description": "Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.",
+          "title": "webview",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-12-02T16:33:30Z",
+            "owner": "ttytm",
+            "repo": "webview",
+            "stars": 82
+          }
+        }
+      ],
+      "title": "User Interface toolkits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A cross-platform utility library to open system dialogs - open files, message boxes, color-pickers etc.",
+          "title": "dialog",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-10-17T18:53:48Z",
+            "owner": "ttytm",
+            "repo": "dialog",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "Loads environment variables from a .env file for development purposes.",
+          "title": "dotenv",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-12-17T14:44:35Z",
+            "owner": "einar-hjortdal",
+            "repo": "dotenv",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Convert a json to a struct in Vlang.",
+          "title": "json2v",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-01T04:40:01Z",
+            "owner": "ldedev",
+            "repo": "Json2V",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "V bindings to Objective-C runtime.",
+          "title": "objc",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-07-12T05:17:45Z",
+            "owner": "magic003",
+            "repo": "objc",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Functionality of Python's range() in V.",
+          "title": "range",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-03-19T15:40:22Z",
+            "owner": "Delta456",
+            "repo": "range",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "A V library for parsing SSH config files.",
+          "title": "ssh-config"
+        },
+        {
+          "children": [],
+          "description": "A light-weight compile-time-generated data faker written in V.",
+          "title": "vaker",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-09-06T15:11:37Z",
+            "owner": "ChAoSUnItY",
+            "repo": "vaker",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Support for .env files which loads environment variables.",
+          "title": "vdotenv",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-08-11T04:09:01Z",
+            "owner": "zztkm",
+            "repo": "vdotenv",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": "Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.",
+          "title": "vhs",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-04-14T15:00:51Z",
+            "owner": "KevinDaSilvaS",
+            "repo": "vhs",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "A cross-platform installer creator.",
+          "title": "VInstall",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-06-07T14:54:32Z",
+            "owner": "malisipi",
+            "repo": "VInstall",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "TOTP and HOTP implementation in v.",
+          "title": "votp",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-11-16T15:03:46Z",
+            "owner": "OdaiGH",
+            "repo": "votp",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Utility"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Central file server.",
+          "title": "blobly",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-12-17T14:44:27Z",
+            "owner": "einar-hjortdal",
+            "repo": "blobly",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "A web server in V based on picoev and picohttpparser.",
+          "title": "pico.v",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2020-09-05T15:28:41Z",
+            "owner": "S-YOU",
+            "repo": "pico.v",
+            "stars": 130
+          }
+        },
+        {
+          "children": [],
+          "description": "Web-framework-agnostic sessions library.",
+          "title": "sessions",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-01-08T08:43:13Z",
+            "owner": "einar-hjortdal",
+            "repo": "sessions",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Basic JSON-RPC 2.0-compliant server written on V.",
+          "title": "v-jsonrpc",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2021-08-21T04:20:28Z",
+            "owner": "nedpals",
+            "repo": "v-jsonrpc",
+            "stars": 36
+          }
+        },
+        {
+          "children": [],
+          "description": "A V library for downloading TikTok videos.",
+          "title": "v-tiktok"
+        },
+        {
+          "children": [],
+          "description": "A simple library to validate strings in V.",
+          "title": "validate",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2020-12-30T09:31:02Z",
+            "owner": "endeveit",
+            "repo": "v-validate",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "Web framework written in V, improved by vweb.",
+          "title": "valval",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2020-12-15T17:55:52Z",
+            "owner": "taojy123",
+            "repo": "valval",
+            "stars": 157
+          }
+        },
+        {
+          "children": [],
+          "description": "API wrapper (written in V) for .",
+          "title": "vcurrency",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2021-07-05T18:49:35Z",
+            "owner": "mehtaarn000",
+            "repo": "vcurrency",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "V's built-in web framework.",
+          "title": "veb",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-02-07T21:48:21Z",
+            "owner": "vlang",
+            "repo": "v",
+            "stars": 37331
+          }
+        },
+        {
+          "children": [],
+          "description": "A REST client in V.",
+          "title": "vest",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2023-08-01T20:33:39Z",
+            "owner": "alexferl",
+            "repo": "vest",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Web framework written on V inspired by Express and Sinatra.",
+          "title": "vex",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-02-03T11:00:27Z",
+            "owner": "nedpals",
+            "repo": "vex",
+            "stars": 349
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple client for digest authentication (written in V).",
+          "title": "vigest",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2022-03-29T21:10:26Z",
+            "owner": "withs",
+            "repo": "vigest",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Seamless  integration for Veb applications.",
+          "title": "vite.v",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-11-20T10:24:12Z",
+            "owner": "siguici",
+            "repo": "vite.v",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "A minimalistic Xbox Live authenticator for vweb.",
+          "title": "vxbloauth",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2021-01-07T05:17:15Z",
+            "owner": "WolvesFortress",
+            "repo": "vxbl-oauth",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.",
+          "title": "west",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-03-08T21:01:50Z",
+            "owner": "Dracks",
+            "repo": "West",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Editor plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Emacs major mode for the V programming language.",
+          "title": "v-mode",
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2022-10-07T06:47:47Z",
+            "owner": "damon-kwok",
+            "repo": "v-mode",
+            "stars": 64
+          }
+        },
+        {
+          "children": [],
+          "description": "Emacs major mode for the V programming language.",
+          "title": "vlang-mode.el",
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2023-05-04T12:35:37Z",
+            "owner": "Naheel-Azawy",
+            "repo": "vlang-mode.el",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Emacs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Fully-featured Sublime Text 3 package for the V Programming Language.",
+          "title": "sublime-v",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-04T10:17:20Z",
+            "owner": "onerbs",
+            "repo": "sublime-v",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Sublime Text 3 Support for the Vlang Programming Language.",
+          "title": "vlang-sublime",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-04T00:11:45Z",
+            "owner": "oversoul",
+            "repo": "vlang-sublime",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Sublime Text 3"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "V Language extension for Visual Studio Code.",
+          "title": "vscode-vlang",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-25T23:09:16Z",
+            "owner": "vlang",
+            "repo": "vscode-vlang",
+            "stars": 403
+          }
+        },
+        {
+          "children": [],
+          "description": "Bring IDE features for the V programming language to VS Code.",
+          "title": "v-analyzer",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-12-30T14:39:38Z",
+            "owner": "vlang",
+            "repo": "v-analyzer",
+            "stars": 191
+          }
+        }
+      ],
+      "title": "VS Code"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Support for V syntax highlighting in Vim.",
+          "title": "v-vim",
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2024-05-20T11:39:10Z",
+            "owner": "ollykel",
+            "repo": "v-vim",
+            "stars": 183
+          }
+        },
+        {
+          "children": [],
+          "description": "Quality syntax highlighting for the V programming language.",
+          "title": "vim-v",
+          "repo_info": {
+            "archived": true,
+            "language": "Vim script",
+            "last_commit": "2022-03-30T14:56:02Z",
+            "owner": "cheap-glitch",
+            "repo": "vim-v",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "V tools for Vim, including auto formatting.",
+          "title": "vim-vtools",
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2021-06-02T01:21:11Z",
+            "owner": "zakuro9715",
+            "repo": "vim-vtools",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Vim"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "GitHub action to create documentation for V modules.",
+          "title": "action-create-v-docs"
+        },
+        {
+          "children": [],
+          "description": "GitHub action to install and use V in your workflow.",
+          "title": "setup-v"
+        }
+      ],
+      "title": "GitHub Actions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A simple template for building a Limine-compliant kernel in V.",
+          "title": "limine-v-template",
+          "repo_info": {
+            "archived": false,
+            "language": "Linker Script",
+            "last_commit": "2025-11-07T11:48:12Z",
+            "owner": "plos-clan",
+            "repo": "limine-v-template",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Demonstration & test of writing a very simple Linux kernel module, using V.",
+          "title": "Simple Linux kernel module example",
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2022-08-16T08:36:45Z",
+            "owner": "spytheman",
+            "repo": "simple_kernel_module_in_v",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "A V library for handling Limine boot protocol structures.",
+          "title": "v-limine",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2025-11-20T02:15:43Z",
+            "owner": "wenxuanjun",
+            "repo": "v-limine",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Operating Systems & OS Development Examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Solution of Advent of Code 2019 in V.",
+          "title": "Advent of Code 2019",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2019-12-11T20:30:23Z",
+            "owner": "mvlootman",
+            "repo": "aoc2019",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Solution of Advent of Code 2022 in V.",
+          "title": "Advent of Code 2022",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-02-01T11:15:46Z",
+            "owner": "vlang",
+            "repo": "adventofcode",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "Solutions for Rosetta Code in V.",
+          "title": "Rosetta Code in V"
+        },
+        {
+          "children": [],
+          "description": "Implementation of the SoloLearn coding challenges in V.",
+          "title": "SoloLearn Coding Challenges",
+          "repo_info": {
+            "archived": true,
+            "language": "V",
+            "last_commit": "2023-05-31T09:22:45Z",
+            "owner": "Serkonda",
+            "repo": "v-sololearn-coding-challenges",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Programming contests"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "V syntax highlighting for .",
+          "title": "kate-syntax-highlight-v",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-17T14:20:50Z",
+            "owner": "Larpon",
+            "repo": "kate-syntax-highlight-v",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "V syntax highlighting for .",
+          "title": "scite-v-support",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-25T12:41:01Z",
+            "owner": "sunnylcw",
+            "repo": "scite-v-support",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Syntax highlighting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Learn V in Y Minutes",
+          "repo_info": {
+            "archived": true,
+            "language": "V",
+            "last_commit": "2021-08-03T23:43:03Z",
+            "owner": "v-community",
+            "repo": "learn_v_in_y_minutes",
+            "stars": 60
+          }
+        },
+        {
+          "children": [],
+          "description": "V book as .",
+          "title": "V by Example",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2022-11-28T18:41:12Z",
+            "owner": "v-community",
+            "repo": "v_by_example",
+            "stars": 175
+          }
+        },
+        {
+          "children": [],
+          "description": "Vlang for node js developers.",
+          "title": "V for Node Devs",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-01T23:02:50Z",
+            "owner": "Thigidu",
+            "repo": "vlang-for-nodejs-developers",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "Personal learning notes in Chinese.",
+          "title": "V learning notes",
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2024-09-29T02:44:36Z",
+            "owner": "lydiandy",
+            "repo": "vlang_note",
+            "stars": 181
+          }
+        },
+        {
+          "children": [],
+          "description": "Tutorial category on VOSCA blog.",
+          "title": "VOSCA Blog Tutorials"
+        }
+      ],
+      "title": "Tutorials"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:34:17.287Z",
+    "original_repository": "vlang/awesome-v",
+    "source_repository": "v1nvn/enhansome-v",
+    "source_repository_description": null,
+    "title": "Awesome V with stars"
+  }
+}

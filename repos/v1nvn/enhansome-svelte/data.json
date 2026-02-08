@@ -1,0 +1,1902 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Official Guide"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "API Reference"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "GitHub Repo",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-08T02:51:14Z",
+            "owner": "sveltejs",
+            "repo": "svelte",
+            "stars": 85713
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Changelog",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-08T02:51:14Z",
+            "owner": "sveltejs",
+            "repo": "svelte",
+            "stars": 85713
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A preprocessor for PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.",
+          "title": "svelte-preprocess",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-13T09:21:19Z",
+            "owner": "sveltejs",
+            "repo": "svelte-preprocess",
+            "stars": 1787
+          }
+        },
+        {
+          "children": [],
+          "description": "Preprocessor for MDX markdown.",
+          "title": "MDSveX",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-03T04:45:38Z",
+            "owner": "pngwn",
+            "repo": "MDsveX",
+            "stars": 2932
+          }
+        },
+        {
+          "children": [],
+          "description": "Switch case syntax for Svelte.",
+          "title": "svelte-switch-case",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-23T12:20:39Z",
+            "owner": "l-portet",
+            "repo": "svelte-switch-case",
+            "stars": 167
+          }
+        },
+        {
+          "children": [],
+          "description": "Preprocessor for less.",
+          "title": "svelte-preprocess-less",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-18T07:35:52Z",
+            "owner": "ls-age",
+            "repo": "svelte-preprocess-less",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Preprocessor support for modular-css.",
+          "title": "modular-css",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-01T18:17:47Z",
+            "owner": "tivac",
+            "repo": "modular-css",
+            "stars": 294
+          }
+        },
+        {
+          "children": [],
+          "description": "Preprocessor for sass.",
+          "title": "svelte-preprocess-sass",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-05T06:30:50Z",
+            "owner": "ls-age",
+            "repo": "svelte-preprocess-sass",
+            "stars": 90
+          }
+        },
+        {
+          "children": [],
+          "description": "Write Svelte components in markdown syntax.",
+          "title": "svelte-preprocess-markdown",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-01-06T02:12:38Z",
+            "owner": "AlexxNB",
+            "repo": "svelte-preprocess-markdown",
+            "stars": 140
+          }
+        },
+        {
+          "children": [],
+          "description": "Svelte + Markdown + LaTeX.",
+          "title": "@nvl/sveltex",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-24T19:29:29Z",
+            "owner": "nvlang",
+            "repo": "sveltex",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Preprocessing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The Svelte store contract with support for asynchronous values.",
+          "title": "svelte-asyncable",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-22T00:15:15Z",
+            "owner": "sveltetools",
+            "repo": "svelte-asyncable",
+            "stars": 171
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple proxy based state manager for deeply nested states.",
+          "title": "exome",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-29T08:05:12Z",
+            "owner": "Marcisbee",
+            "repo": "exome",
+            "stars": 281
+          }
+        },
+        {
+          "children": [],
+          "description": "Framework agnostic type-safe store w/ reactive framework adapters.",
+          "title": "tanstack-store"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": ""
+        }
+      ],
+      "title": "State Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A dead-simple CLI tool to instantly kickstart your components.",
+          "title": "lomer-ui"
+        },
+        {
+          "children": [],
+          "description": "Beautifully designed components that you can copy and paste into your apps.",
+          "title": "shadcn-svelte"
+        },
+        {
+          "children": [],
+          "description": "all inclusive Svelte library - Components, Actions, Utilities, Animations.",
+          "title": "SvelteUI"
+        },
+        {
+          "children": [],
+          "description": "Open-source Svelte UI components built with Tailwind CSS and Flowbite.",
+          "title": "Flowbite Svelte"
+        },
+        {
+          "children": [],
+          "description": "Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces.",
+          "title": "Skeleton"
+        },
+        {
+          "children": [],
+          "description": "Bootstrap 4 & 5 components.",
+          "title": "Sveltestrap",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-01-28T20:44:04Z",
+            "owner": "sveltestrap",
+            "repo": "sveltestrap",
+            "stars": 205
+          }
+        },
+        {
+          "children": [],
+          "description": "Svelte implementation of the IBM Carbon Design System.",
+          "title": "carbon-components-svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-04T03:42:41Z",
+            "owner": "IBM",
+            "repo": "carbon-components-svelte",
+            "stars": 2863
+          }
+        },
+        {
+          "children": [],
+          "description": "Material UI Components.",
+          "title": "Svelte Material UI",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-12-11T21:04:09Z",
+            "owner": "hperrin",
+            "repo": "svelte-material-ui",
+            "stars": 3419
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of accessible, reusable, and composable headless component builders and utilities.",
+          "title": "Melt UI",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-30T11:08:47Z",
+            "owner": "melt-ui",
+            "repo": "melt-ui",
+            "stars": 4135
+          }
+        },
+        {
+          "children": [],
+          "description": "A pretty cool and modern UI kit.",
+          "title": "attractions",
+          "repo_info": {
+            "archived": true,
+            "language": "Svelte",
+            "last_commit": "2024-11-22T13:45:09Z",
+            "owner": "illright",
+            "repo": "attractions",
+            "stars": 1024
+          }
+        },
+        {
+          "children": [],
+          "description": "Svelte integration with Ionic's UI for mobile app development, including many starters.",
+          "title": "ionic-svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-11-16T18:46:33Z",
+            "owner": "Tommertom",
+            "repo": "svelte-ionic-app",
+            "stars": 64
+          }
+        },
+        {
+          "children": [],
+          "description": "YeSvelte is flexible Svelte UI component library built on top of Bootstrap css.",
+          "title": "YeSvelte"
+        },
+        {
+          "children": [],
+          "description": "Large collection of components, actions, stores, and utilities to build highly interactive applications",
+          "title": "Svelte UX",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-02-07T20:46:34Z",
+            "owner": "techniq",
+            "repo": "svelte-ux",
+            "stars": 1087
+          }
+        },
+        {
+          "children": [],
+          "description": "Mobile web component library based on Svelte and Tailwind.",
+          "title": "STDF"
+        },
+        {
+          "children": [],
+          "description": "Robust component library implementing Material Design 3",
+          "title": "M3 Svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T00:53:38Z",
+            "owner": "KTibow",
+            "repo": "m3-svelte",
+            "stars": 401
+          }
+        },
+        {
+          "children": [],
+          "description": "Highly configurable headless framework agnostic component library",
+          "title": "AgnosUI"
+        },
+        {
+          "children": [],
+          "description": "The most popular component library for Tailwind CSS -  adds component class names to Tailwind CSS so you can make beautiful websites faster than ever.",
+          "title": "daisyUI"
+        },
+        {
+          "children": [],
+          "description": "UI framework with material components built with Tailwind CSS.",
+          "title": "Smelte",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-02-17T13:34:49Z",
+            "owner": "matyunya",
+            "repo": "smelte",
+            "stars": 1548
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.",
+          "title": "SVAR Core for Svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-01-13T10:15:39Z",
+            "owner": "svar-widgets",
+            "repo": "core",
+            "stars": 240
+          }
+        },
+        {
+          "children": [],
+          "description": "Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).",
+          "title": "AgnosticUI",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T15:17:02Z",
+            "owner": "agnosticui",
+            "repo": "agnosticui",
+            "stars": 768
+          }
+        },
+        {
+          "children": [],
+          "description": "Consist of Svelte Magic UI, Svelte Aceternity UI, Svelte Luxe Components over 200+ Free Animation Components & 2 Templates",
+          "title": "Svelte Animations"
+        },
+        {
+          "children": [],
+          "description": "A powerful library of 100+ marketing and UI blocks built using Shadcn Svelte, Tailwind CSS v4, and Svelte 5.",
+          "title": "Svelte Marketing Blocks"
+        },
+        {
+          "children": [],
+          "description": "An extensive UI framework featuring modern and elegant components following Material Design 3 principles.",
+          "title": "Quaff"
+        },
+        {
+          "children": [],
+          "description": "A retro-styled component library for Svelte built on top of shadcn-svelte, offering 40+ customizable UI components for funky and playful interfaces.",
+          "title": "retroui-svelte"
+        }
+      ],
+      "title": "UI Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "UI Components"
+    },
+    {
+      "description": "Tables and data grids.",
+      "items": [
+        {
+          "children": [],
+          "description": "A toolkit for creating datatable components with Svelte.",
+          "title": "@vincjo/datatables",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-17T15:53:08Z",
+            "owner": "vincjo",
+            "repo": "datatables",
+            "stars": 580
+          }
+        },
+        {
+          "children": [],
+          "description": "A table implementation that allows sorting and filtering.",
+          "title": "svelte-table",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-07-10T22:04:00Z",
+            "owner": "dasDaniel",
+            "repo": "svelte-table",
+            "stars": 560
+          }
+        },
+        {
+          "children": [],
+          "description": "Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.",
+          "title": "svelte-generic-crud-table",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-30T17:23:28Z",
+            "owner": "ivosdc",
+            "repo": "svelte-generic-crud-table",
+            "stars": 67
+          }
+        },
+        {
+          "children": [],
+          "description": "Svelte-generic-crud-table with paginator.",
+          "title": "svelte-generic-table-pager",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-12-26T21:39:30Z",
+            "owner": "ivosdc",
+            "repo": "svelte-generic-table-pager",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "PowerTable is a JavaScript component that turns JSON data into an interactive HTML table. This facilitates manual inspection, sorting, filtering, searching, and editing of the data.",
+          "title": "powertable",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-09-09T21:57:10Z",
+            "owner": "muonw",
+            "repo": "powertable",
+            "stars": 224
+          }
+        },
+        {
+          "children": [],
+          "description": "Svelte-based pivot table library with drag'n'drop functionality.",
+          "title": "svelte-pivottable",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-06-19T18:48:41Z",
+            "owner": "jjagielka",
+            "repo": "svelte-pivottable",
+            "stars": 40
+          }
+        },
+        {
+          "children": [],
+          "description": "A Svelte datagrid with in-cell editing, sorting, context menu, collapsible and frozen columns, tree data view, paging and virtual scrolling.",
+          "title": "SVAR DataGrid",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-01-22T13:33:43Z",
+            "owner": "svar-widgets",
+            "repo": "grid",
+            "stars": 199
+          }
+        },
+        {
+          "children": [],
+          "description": "Powerful data grid library based on  with best features from Excel.",
+          "title": "svelte-datagrid",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-18T15:46:19Z",
+            "owner": "revolist",
+            "repo": "svelte-datagrid",
+            "stars": 134
+          }
+        },
+        {
+          "children": [],
+          "description": "Table for data visualization purposes with advanced features like column pinning, and the only component in the world that does cross-table column position synchronization for master-child scenarios.",
+          "title": "@wjfe/dataview",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-10T21:05:51Z",
+            "owner": "WJSoftware",
+            "repo": "wjfe-dataview",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Table"
+    },
+    {
+      "description": "Toaster / snackbar - Notify the user with a modeless temporary little popup.",
+      "items": [
+        {
+          "children": [],
+          "description": "Toast notifications component that can be used in any JS application.",
+          "title": "svelte-notifications",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-02-26T10:39:34Z",
+            "owner": "beyonk-adventures",
+            "repo": "svelte-notifications",
+            "stars": 318
+          }
+        },
+        {
+          "children": [],
+          "description": "A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.",
+          "title": "svelte-favicon-badge",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-26T22:16:57Z",
+            "owner": "kevmodrome",
+            "repo": "svelte-favicon-badge",
+            "stars": 103
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple elegant toast notifications.",
+          "title": "@zerodevx/svelte-toast",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-01-22T09:37:30Z",
+            "owner": "zerodevx",
+            "repo": "svelte-toast",
+            "stars": 894
+          }
+        },
+        {
+          "children": [],
+          "description": "Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.",
+          "title": "svelte-french-toast",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-10-21T03:42:30Z",
+            "owner": "kbrgl",
+            "repo": "svelte-french-toast",
+            "stars": 1037
+          }
+        },
+        {
+          "children": [],
+          "description": "An opinionated toast component for Svelte.",
+          "title": "svelte-sonner",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-12-01T02:28:56Z",
+            "owner": "wobsoriano",
+            "repo": "svelte-sonner",
+            "stars": 1202
+          }
+        }
+      ],
+      "title": "Notification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Bootstrap-inspired responsive grid system.",
+          "title": "svelte-grid-responsive",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-01-07T04:55:47Z",
+            "owner": "andrelmlins",
+            "repo": "svelte-grid-responsive",
+            "stars": 56
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple and reusable flexbox component for Svelte.",
+          "title": "svelte-flex",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-08T23:23:12Z",
+            "owner": "himynameisdave",
+            "repo": "svelte-flex",
+            "stars": 80
+          }
+        }
+      ],
+      "title": "Grid"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Access thousands of icons as components on-demand universally.",
+          "title": "unplugin-icons",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-14T10:52:48Z",
+            "owner": "unplugin",
+            "repo": "unplugin-icons",
+            "stars": 4760
+          }
+        },
+        {
+          "children": [],
+          "description": "Tiny FontAwesome 5 and 6 component.",
+          "title": "svelte-fa",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-11-17T21:04:08Z",
+            "owner": "Cweili",
+            "repo": "svelte-fa",
+            "stars": 402
+          }
+        },
+        {
+          "children": [],
+          "description": "Awesome SVG icon component, built with Font Awesome icons.",
+          "title": "svelte-awesome",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-21T06:53:40Z",
+            "owner": "RobBrazier",
+            "repo": "svelte-awesome",
+            "stars": 505
+          }
+        },
+        {
+          "children": [],
+          "description": "Effortless Icon Packs & Components for Svelte, React, Vue and more.",
+          "title": "steeze-ui/icons",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-20T12:49:11Z",
+            "owner": "steeze-ui",
+            "repo": "icons",
+            "stars": 200
+          }
+        },
+        {
+          "children": [],
+          "description": "Icon components.",
+          "title": "svelte-icons",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-02-13T20:30:22Z",
+            "owner": "AnxiousDarkly",
+            "repo": "svelte-icons",
+            "stars": 293
+          }
+        },
+        {
+          "children": [],
+          "description": "Icons, crafted by the creators of Tailwind CSS.",
+          "title": "svelte-heroicons",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-01-06T11:01:54Z",
+            "owner": "krowten",
+            "repo": "svelte-heroicons",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "It makes it very simple to use SVG icons in your Svelte projects.",
+          "title": "svelte-icomoon",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-10T21:35:53Z",
+            "owner": "aykutkardas",
+            "repo": "svelte-icomoon",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Unicons svg icons for Svelte based on @iconscout/unicons.",
+          "title": "svelte-unicons",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-08T15:59:46Z",
+            "owner": "devShamim",
+            "repo": "svelte-unicons",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Implementation of the lucide icon library for svelte applications.",
+          "title": "lucide-svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T12:07:31Z",
+            "owner": "lucide-icons",
+            "repo": "lucide",
+            "stars": 20978
+          }
+        },
+        {
+          "children": [],
+          "description": "Based on .",
+          "title": "svelte-icons-pack",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-27T10:51:58Z",
+            "owner": "leshak",
+            "repo": "svelte-icons-pack",
+            "stars": 70
+          }
+        },
+        {
+          "children": [],
+          "description": "A fontawesome v6 icons wrapper for svelte its awesome.",
+          "title": "svesome",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-07-31T14:31:50Z",
+            "owner": "pouchlabs",
+            "repo": "svesome",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of beautifully crafted, animated Lucide icons.",
+          "title": "moving icons",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-02-07T18:07:21Z",
+            "owner": "jis3r",
+            "repo": "icons",
+            "stars": 359
+          }
+        }
+      ],
+      "title": "Icons"
+    },
+    {
+      "description": "Display non-editable events in a calendar.",
+      "items": [
+        {
+          "children": [],
+          "description": "A component wrapper around FullCalendar.",
+          "title": "svelte-fullcalendar",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-09-14T15:27:04Z",
+            "owner": "YogliB",
+            "repo": "svelte-fullcalendar",
+            "stars": 200
+          }
+        },
+        {
+          "children": [],
+          "description": "A lightweight datepicker with neat animations and a unique UX.",
+          "title": "svelte-calendar",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2022-10-10T19:00:00Z",
+            "owner": "6eDesign",
+            "repo": "svelte-calendar",
+            "stars": 545
+          }
+        },
+        {
+          "children": [],
+          "description": "A date and time picker for Svelte with clean UX.",
+          "title": "date-picker-svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-12-03T01:11:43Z",
+            "owner": "probablykasper",
+            "repo": "date-picker-svelte",
+            "stars": 342
+          }
+        },
+        {
+          "children": [],
+          "description": "A material design event calendar library.",
+          "title": "@schedule-x/svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T13:02:20Z",
+            "owner": "schedule-x",
+            "repo": "schedule-x",
+            "stars": 2165
+          }
+        }
+      ],
+      "title": "Calendar"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Google Maps component.",
+          "title": "svelte-googlemaps",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-03-11T09:23:44Z",
+            "owner": "beyonk-adventures",
+            "repo": "svelte-googlemaps",
+            "stars": 82
+          }
+        },
+        {
+          "children": [],
+          "description": "MapBox map and autocomplete components.",
+          "title": "svelte-mapbox",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-01-22T04:28:50Z",
+            "owner": "beyonk-adventures",
+            "repo": "svelte-mapbox",
+            "stars": 367
+          }
+        },
+        {
+          "children": [],
+          "description": "Svelte wrapper for Leaflet.",
+          "title": "leaflet-svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-02-05T09:49:42Z",
+            "owner": "anoram",
+            "repo": "leaflet-svelte",
+            "stars": 50
+          }
+        },
+        {
+          "children": [],
+          "description": "Web application that shows how to use the ArcGIS API for JavaScript with Svelte.",
+          "title": "esri-svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-03-19T21:05:19Z",
+            "owner": "gavinr-maps",
+            "repo": "esri-svelte-example",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Svelte bindings for the MapLibre mapping library.",
+          "title": "svelte-maplibre",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-01-26T18:57:14Z",
+            "owner": "dimfeld",
+            "repo": "svelte-maplibre",
+            "stars": 489
+          }
+        }
+      ],
+      "title": "Maps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Svelte bindings for frappe-charts.",
+          "title": "svelte-frappe-charts",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-10-20T22:55:01Z",
+            "owner": "himynameisdave",
+            "repo": "svelte-frappe-charts",
+            "stars": 317
+          }
+        },
+        {
+          "children": [],
+          "description": "A framework for mostly-reusable graphics with svelte",
+          "title": "Layer Cake",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-02-01T15:33:58Z",
+            "owner": "mhkeller",
+            "repo": "layercake",
+            "stars": 1721
+          }
+        },
+        {
+          "children": [],
+          "description": "Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake",
+          "title": "LayerChart",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-02-07T15:32:47Z",
+            "owner": "techniq",
+            "repo": "layerchart",
+            "stars": 1126
+          }
+        },
+        {
+          "children": [],
+          "description": "An interactive, customizable Gantt chart component written in Svelte",
+          "title": "SVAR Gantt Chart",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-26T11:55:05Z",
+            "owner": "svar-widgets",
+            "repo": "gantt",
+            "stars": 209
+          }
+        }
+      ],
+      "title": "Charts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A component to transition, format, and localize numbers.",
+          "title": "number-flow",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T12:56:22Z",
+            "owner": "barvian",
+            "repo": "number-flow",
+            "stars": 7058
+          }
+        },
+        {
+          "children": [],
+          "description": "UI elements from  wrapped in a collection of idiomatic Svelte components.",
+          "title": "Svelte Tweakpane UI"
+        },
+        {
+          "children": [],
+          "description": "A lightweight component to render tree views.",
+          "title": "svelte-tree-viewer",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-09T09:22:20Z",
+            "owner": "kpulkit29",
+            "repo": "svelte-tree-viewer",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "A Svelte component to format and display a copyright notice.",
+          "title": "svelte-copyright",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-18T17:50:27Z",
+            "owner": "himynameisdave",
+            "repo": "svelte-copyright",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "Full featured resizeable views panels.",
+          "title": "svelte-splitpanes",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-01-18T01:52:28Z",
+            "owner": "orefalo",
+            "repo": "svelte-splitpanes",
+            "stars": 464
+          }
+        },
+        {
+          "children": [],
+          "description": "A Svelte component for MathJax.",
+          "title": "mathjax-svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-08T12:43:50Z",
+            "owner": "WoolDoughnut310",
+            "repo": "mathjax-svelte",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "A Svelte component for building animated step flows.",
+          "title": "svelte-stepper",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-09-22T13:03:20Z",
+            "owner": "efstajas",
+            "repo": "svelte-stepper",
+            "stars": 177
+          }
+        },
+        {
+          "children": [],
+          "description": "A 3D Progress Bar component",
+          "title": "css-3d-progress",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-02-02T01:35:52Z",
+            "owner": "rofixro",
+            "repo": "css-3d-progress",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Svelte component for showing speedometer like gauge using d3.",
+          "title": "svelte-speedometer",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-21T20:19:09Z",
+            "owner": "palerdot",
+            "repo": "svelte-speedometer",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Easy, dependency free embeds for Svelte and Vue.",
+          "title": "embedz",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-03-21T21:08:33Z",
+            "owner": "embedz",
+            "repo": "embedz",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "A modular, high-performance PDF viewer and editor built for Svelte, powered by PDFium. Fully extensible with plugins for annotations, redaction, thumbnails, and more.",
+          "title": "EmbedPDF"
+        },
+        {
+          "children": [],
+          "description": "Best Rich Text Editor, made for Svelte Developers with Tiptap.",
+          "title": "Edra"
+        },
+        {
+          "children": [],
+          "description": "Port of . An all in one markdown renderer optimized for streaming with built in styles, math, mermaid, code highlighting support and more.",
+          "title": "svelte-streamdown",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-02T11:28:45Z",
+            "owner": "beynar",
+            "repo": "svelte-streamdown",
+            "stars": 81
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "Templates / boilerplate / starter kits / stack ensemble / Yeoman generator.",
+      "items": [
+        {
+          "children": [],
+          "description": "Generates scaffold for a vite + svelte app.",
+          "title": "create-vite",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T01:40:30Z",
+            "owner": "vitejs",
+            "repo": "vite",
+            "stars": 78031
+          }
+        },
+        {
+          "children": [],
+          "description": "A CLI for creating a new SvelteKit project.",
+          "title": "create-svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T21:17:46Z",
+            "owner": "sveltejs",
+            "repo": "kit",
+            "stars": 20256
+          }
+        },
+        {
+          "children": [],
+          "description": "A open source, fast, and free to host Svelte SaaS template.",
+          "title": "saasstarter",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-01-15T21:41:17Z",
+            "owner": "CriticalMoments",
+            "repo": "CMSaasStarter",
+            "stars": 2278
+          }
+        },
+        {
+          "children": [],
+          "description": "A starter template for PWAs based in the official Template.",
+          "title": "svelte-pwa-template",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-30T17:08:15Z",
+            "owner": "tretapey",
+            "repo": "svelte-pwa",
+            "stars": 225
+          }
+        },
+        {
+          "children": [],
+          "description": "Template for Svelte + Docker + Vite + Vitest.",
+          "title": "vite-svelte-docker-template",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-12-09T17:54:08Z",
+            "owner": "bavragor",
+            "repo": "vite-svelte-docker-template",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.",
+          "title": "svelte-docs-starter",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-12-30T05:46:45Z",
+            "owner": "code-gio",
+            "repo": "svelte-docs-starter",
+            "stars": 61
+          }
+        },
+        {
+          "children": [],
+          "description": "An official quickstart template with Phaser.",
+          "title": "template-svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-23T16:05:10Z",
+            "owner": "phaserjs",
+            "repo": "template-svelte",
+            "stars": 76
+          }
+        },
+        {
+          "children": [],
+          "description": "A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more.",
+          "title": "generic-app-template",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-23T19:46:23Z",
+            "owner": "GantonL",
+            "repo": "templates",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Scaffold"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A zero-config, drop-in animation utility that adds smooth transitions to your Svelte app.",
+          "title": "AutoAnimate"
+        },
+        {
+          "children": [],
+          "description": "A simple and reusable typewriter effect for your Svelte applications.",
+          "title": "svelte-typewriter"
+        },
+        {
+          "children": [],
+          "description": "beautifully crafted, moving icons. for svelte. 🧡",
+          "title": "moving-icons",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-02-07T18:07:21Z",
+            "owner": "jis3r",
+            "repo": "icons",
+            "stars": 359
+          }
+        },
+        {
+          "children": [],
+          "description": "Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support.",
+          "title": "ssgoi",
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-02-04T05:44:11Z",
+            "owner": "meursyphus",
+            "repo": "ssgoi",
+            "stars": 813
+          }
+        }
+      ],
+      "title": "Animations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "One Draggable to rule them all 💍.",
+          "title": "neodrag",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-03T17:26:43Z",
+            "owner": "PuruVJ",
+            "repo": "neodrag",
+            "stars": 2416
+          }
+        },
+        {
+          "children": [],
+          "description": "sveltednd() - A lightweight, flexible drag and drop library for Svelte 5 applications.",
+          "title": "https://github.com/thisuxhq/sveltednd",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-04-10T19:49:14Z",
+            "owner": "thisuxhq",
+            "repo": "sveltednd",
+            "stars": 494
+          }
+        }
+      ],
+      "title": "Drag & Drop"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "SvelteKit library for handling server and client validation, and client-side display of forms.",
+          "title": "Superforms"
+        },
+        {
+          "children": [],
+          "description": "High level Svelte components for forms, built on top of Superforms and Zod.",
+          "title": "Formsnap"
+        },
+        {
+          "children": [],
+          "description": "Extensible form library, with built-in Yup, Zod, Vest, and Superstruct validation.",
+          "title": "felte"
+        },
+        {
+          "children": [],
+          "description": "Declarative form validation framework inspired by unit testing.",
+          "title": "vest",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T02:36:22Z",
+            "owner": "ealush",
+            "repo": "vest",
+            "stars": 2631
+          }
+        },
+        {
+          "children": [],
+          "description": "A good solution to generate and control a dynamic forms using core and custom rules with customize styles.",
+          "title": "svelte-formly",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-10-06T21:50:33Z",
+            "owner": "arabdevelop",
+            "repo": "svelte-formly",
+            "stars": 255
+          }
+        },
+        {
+          "children": [],
+          "description": "A No-code Drag n Drop Form Builder built for Svelte.",
+          "title": "svelte-form-builder",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-04-21T03:20:43Z",
+            "owner": "pragmatic-engineering",
+            "repo": "svelte-form-builder-community",
+            "stars": 75
+          }
+        },
+        {
+          "children": [],
+          "description": "Create forms with Shadcn Svelte, Superforms and ZOD | Valibot Schema within minutes.",
+          "title": "Svelte Form Builder"
+        },
+        {
+          "children": [],
+          "description": "A form library for Svelte with focus on performance, type safety and bundle size.",
+          "title": "Formisch"
+        }
+      ],
+      "title": "Forms"
+    },
+    {
+      "description": "Individual form components.",
+      "items": [
+        {
+          "children": [],
+          "description": "A checkbox component (cool animation, customizable).",
+          "title": "svelte-checkbox",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2022-12-05T02:59:45Z",
+            "owner": "HosseinShabani",
+            "repo": "svelte-checkbox",
+            "stars": 77
+          }
+        },
+        {
+          "children": [],
+          "description": "Basic toggle component with styling.",
+          "title": "svelte-toggle",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-03-03T14:35:40Z",
+            "owner": "beyonk-adventures",
+            "repo": "svelte-toggle",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Form Components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Component for rendering outside the DOM of parent component.",
+          "title": "svelte-portal",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-20T06:15:20Z",
+            "owner": "romkor",
+            "repo": "svelte-portal",
+            "stars": 475
+          }
+        },
+        {
+          "children": [],
+          "description": "A component to teleport elements across the DOM.",
+          "title": "svelte-teleport",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2020-09-29T20:10:14Z",
+            "owner": "nasso",
+            "repo": "svelte-teleport",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Portal"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Components for easy integration of  localization.",
+          "title": "svelte-fluent",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-02-07T20:44:35Z",
+            "owner": "nubolab-ffwd",
+            "repo": "svelte-fluent",
+            "stars": 108
+          }
+        },
+        {
+          "children": [],
+          "description": "Internationalization library for Svelte.",
+          "title": "svelte-i18n",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-21T08:20:04Z",
+            "owner": "kaisermann",
+            "repo": "svelte-i18n",
+            "stars": 1369
+          }
+        },
+        {
+          "children": [],
+          "description": "Internationalization solution for",
+          "title": "VoerkaI18n"
+        },
+        {
+          "children": [],
+          "description": "For integrating  style localization in SvelteKit.",
+          "title": "sveltekit-i18n",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-15T20:43:19Z",
+            "owner": "jarda-svoboda",
+            "repo": "sveltekit-i18n",
+            "stars": 570
+          }
+        },
+        {
+          "children": [],
+          "description": "Web-based localization tool enabling users to translate directly in the Svelte app they develop.",
+          "title": "@tolgee/svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-02T11:32:01Z",
+            "owner": "tolgee",
+            "repo": "tolgee-js",
+            "stars": 256
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight, simple, flexible, automatic translation internationalization tool for Svelte.",
+          "title": "@i18n-pro/svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-06T10:49:56Z",
+            "owner": "i18n-pro",
+            "repo": "svelte",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Tiny, typesafe i18n library with translated links out of the box.",
+          "title": "ParaglideJS"
+        },
+        {
+          "children": [],
+          "description": "Internationalization library that lets you just write your code, no function calls or other ceremonies needed.",
+          "title": "wuchale",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-31T19:04:11Z",
+            "owner": "K1DV5",
+            "repo": "wuchale",
+            "stars": 311
+          }
+        }
+      ],
+      "title": "Internationalization"
+    },
+    {
+      "description": "For Single Page Applications (SPAs) and more.",
+      "items": [
+        {
+          "children": [],
+          "description": "Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.",
+          "title": "svelte-router-spa",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-18T06:17:33Z",
+            "owner": "jorgegorka",
+            "repo": "svelte-router",
+            "stars": 538
+          }
+        },
+        {
+          "children": [],
+          "description": "A declarative Svelte routing library with SSR support.",
+          "title": "svelte-routing",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-25T20:53:55Z",
+            "owner": "EmilTholin",
+            "repo": "svelte-routing",
+            "stars": 2064
+          }
+        },
+        {
+          "children": [],
+          "description": "A tiny, dependency free and highly declarative router.",
+          "title": "tinro",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-08-30T17:01:50Z",
+            "owner": "AlexxNB",
+            "repo": "tinro",
+            "stars": 679
+          }
+        },
+        {
+          "children": [],
+          "description": "Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.",
+          "title": "svelte-spa-router",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-29T16:20:45Z",
+            "owner": "ItalyPaleAle",
+            "repo": "svelte-spa-router",
+            "stars": 1569
+          }
+        },
+        {
+          "children": [],
+          "description": "Svelte Client Router is everything you need and think when routing SPA's.",
+          "title": "svelte-client-router",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-04-08T21:05:38Z",
+            "owner": "arthurgermano",
+            "repo": "svelte-client-router",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple & easy to use SPA router, developed with page transitions in mind.",
+          "title": "@danielsharkov/svelte-router",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-22T23:27:49Z",
+            "owner": "DanielSharkov",
+            "repo": "svelte-router",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Another vue-router inspired Svelte router.",
+          "title": "@shaun/svelterouter",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-31T13:21:48Z",
+            "owner": "shaunlee",
+            "repo": "svelterouter",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Small (< 180LoC), fast, easy, full featured SPA router",
+          "title": "Elegua",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-03-03T15:28:41Z",
+            "owner": "howesteve",
+            "repo": "elegua",
+            "stars": 83
+          }
+        },
+        {
+          "children": [],
+          "description": "First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!",
+          "title": "svelte5-router",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-29T07:28:03Z",
+            "owner": "mateothegreat",
+            "repo": "svelte5-router",
+            "stars": 299
+          }
+        },
+        {
+          "children": [],
+          "description": "Fast, reactive router with always-on path and hash routing, and the router that invented multi-hash routing.",
+          "title": "@wjfe/n-savant",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-26T03:37:49Z",
+            "owner": "WJSoftware",
+            "repo": "wjfe-n-savant",
+            "stars": 56
+          }
+        },
+        {
+          "children": [],
+          "description": "Type-safe SPA router with file-based or code-based routing.",
+          "title": "sv-router",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-08T01:02:25Z",
+            "owner": "colinlienard",
+            "repo": "sv-router",
+            "stars": 150
+          }
+        }
+      ],
+      "title": "Routers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The fastest way to build Svelte apps.",
+          "title": "SvelteKit"
+        },
+        {
+          "children": [],
+          "description": "Routes for Svelte, automated by your file structure.",
+          "title": "Routify"
+        },
+        {
+          "children": [],
+          "description": "Opinionated static site generator and web framework for Svelte built with SEO in mind.",
+          "title": "Elder.js",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-11-21T10:44:49Z",
+            "owner": "elderjs",
+            "repo": "elderjs",
+            "stars": 2128
+          }
+        },
+        {
+          "children": [],
+          "description": "The Jamstack framework for Svelte with GraphQL.",
+          "title": "JungleJS"
+        },
+        {
+          "children": [],
+          "description": "Create documents (PDFs), resumes, or presentations entirely in Svelte.",
+          "title": "svelte-document",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-10T17:12:11Z",
+            "owner": "mblouka",
+            "repo": "svelte-document",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dev Tools"
+    },
+    {
+      "description": "Lint and format your code.",
+      "items": [
+        {
+          "children": [],
+          "description": "Format your components using prettier.",
+          "title": "prettier-plugin-svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-14T20:59:39Z",
+            "owner": "sveltejs",
+            "repo": "prettier-plugin-svelte",
+            "stars": 807
+          }
+        },
+        {
+          "children": [],
+          "description": "Check your code.",
+          "title": "svelte-check"
+        },
+        {
+          "children": [],
+          "description": "An ESLint plugin for Svelte using AST.",
+          "title": "eslint-plugin-svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T00:37:46Z",
+            "owner": "sveltejs",
+            "repo": "eslint-plugin-svelte",
+            "stars": 388
+          }
+        }
+      ],
+      "title": "Lint"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A Jest transformer to compile your components before importing them into tests.",
+          "title": "svelte-jester",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-11T10:33:13Z",
+            "owner": "mihar-22",
+            "repo": "svelte-jester",
+            "stars": 128
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple and complete Svelte DOM testing utilities that encourage good testing practices.",
+          "title": "@testing-library/svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-08T02:35:19Z",
+            "owner": "testing-library",
+            "repo": "svelte-testing-library",
+            "stars": 654
+          }
+        },
+        {
+          "children": [],
+          "description": "Jest Transformer for Svelte components.",
+          "title": "jest-transform-svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T10:05:10Z",
+            "owner": "rspieker",
+            "repo": "jest-transform-svelte",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Test"
+    },
+    {
+      "description": "Text editor plugins.",
+      "items": [],
+      "title": "Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Syntax highlighting and support for Vim.",
+          "title": "vim-svelte-plugin",
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2025-04-07T02:39:34Z",
+            "owner": "leafOfTree",
+            "repo": "vim-svelte-plugin",
+            "stars": 148
+          }
+        },
+        {
+          "children": [],
+          "description": "Syntax highlighting and support for (Neo)Vim.",
+          "title": "coc-svelte",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-08T10:15:45Z",
+            "owner": "coc-extensions",
+            "repo": "coc-svelte",
+            "stars": 181
+          }
+        }
+      ],
+      "title": "Vim"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Application Examples"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:29:03.332Z",
+    "original_repository": "TheComputerM/awesome-svelte",
+    "source_repository": "v1nvn/enhansome-svelte",
+    "source_repository_description": null,
+    "title": "Awesome Svelte with stars"
+  }
+}

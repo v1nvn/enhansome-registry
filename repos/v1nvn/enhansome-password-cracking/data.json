@@ -1,0 +1,1371 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Crack passwords using Terraform and AWS.",
+          "title": "Cloud_crack",
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2019-03-20T12:46:55Z",
+            "owner": "lordsaibat",
+            "repo": "Cloud_crack",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": "A script to automate the creation of cloud infrastructure for hash cracking.",
+          "title": "Cloudcat",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-04T19:52:43Z",
+            "owner": "stormfleet",
+            "repo": "cloudcat",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Automated deployment of instances on EC2 via plugin for high CPU/GPU applications at the lowest price.",
+          "title": "Cloudstomp",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-18T17:10:51Z",
+            "owner": "Fmstrat",
+            "repo": "cloudstomp",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool that facilitates the installation and provisioning of Hashtopolis on the Google Cloud Shell platform, quickly and completely unattended (and also, free!).",
+          "title": "Cloudtopolis",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-08-22T09:14:52Z",
+            "owner": "JoelGMSec",
+            "repo": "Cloudtopolis",
+            "stars": 413
+          }
+        },
+        {
+          "children": [],
+          "description": "NPK is a distributed hash-cracking platform built entirely of serverless components in AWS including Cognito, DynamoDB, and S3.",
+          "title": "NPK",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-13T22:38:24Z",
+            "owner": "c6fc",
+            "repo": "npk",
+            "stars": 653
+          }
+        },
+        {
+          "children": [],
+          "description": "Abuse of Google Colab for cracking hashes.",
+          "title": "Penglab",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-17T00:21:49Z",
+            "owner": "mxrch",
+            "repo": "penglab",
+            "stars": 967
+          }
+        },
+        {
+          "children": [],
+          "description": "Automates the creation of AWS p3 instances for use in GPU-based password cracking.",
+          "title": "Rook",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-13T21:42:51Z",
+            "owner": "JumpsecLabs",
+            "repo": "Rook",
+            "stars": 85
+          }
+        }
+      ],
+      "title": "Cloud"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Extract information from password-protected .7z archives (and .sfx files) such that you can crack these \"hashes\" with hashcat.",
+          "title": "7z2hashcat",
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-06-15T07:56:08Z",
+            "owner": "philsmd",
+            "repo": "7z2hashcat",
+            "stars": 423
+          }
+        },
+        {
+          "children": [],
+          "description": "Convert macOS plist password file to hash file for password crackers.",
+          "title": "MacinHash",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-12-03T07:56:29Z",
+            "owner": "jmagers",
+            "repo": "MacinHash",
+            "stars": 37
+          }
+        },
+        {
+          "children": [],
+          "description": "Converts John The Ripper/Cain format hashes (singular, or in bulk) to HashCat compatible hash format.",
+          "title": "NetNTLM-Hashcat",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-24T22:23:52Z",
+            "owner": "ins1gn1a",
+            "repo": "NetNTLM-Hashcat",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "Converts / formats Rubeus kerberoasting output into hashcat readable format.",
+          "title": "Rubeus-to-Hashcat",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-16T01:27:39Z",
+            "owner": "PwnDexter",
+            "repo": "Rubeus-to-Hashcat",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "With this tool one can extract the \"hash\" from a WINDOWS HELLO PIN. This hash can be cracked with Hashcat.",
+          "title": "WINHELLO2hashcat",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-22T13:57:48Z",
+            "owner": "Banaanhangwagen",
+            "repo": "WINHELLO2hashcat",
+            "stars": 81
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool that converts Bitwarden's data into a hashcat-suitable hash.",
+          "title": "bitwarden2hashcat",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-17T15:56:29Z",
+            "owner": "0x6470",
+            "repo": "bitwarden2hashcat",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "Convert 7-Zip hashcat hashes back to 7z archives.",
+          "title": "hc_to_7z",
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-05-07T09:16:26Z",
+            "owner": "philsmd",
+            "repo": "hc_to_7z",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Portable solution for conversion of cap/pcap/pcapng (gz compressed) WiFi dump files to hashcat formats.",
+          "title": "hcxtools",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-07T19:51:43Z",
+            "owner": "ZerBea",
+            "repo": "hcxtools",
+            "stars": 2316
+          }
+        },
+        {
+          "children": [],
+          "description": "Extract the information needed from the Manifest.plist files to convert it to hashes compatible with hashcat.",
+          "title": "itunes_backup2hashcat",
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2017-02-04T08:22:24Z",
+            "owner": "philsmd",
+            "repo": "itunes_backup2hashcat",
+            "stars": 114
+          }
+        },
+        {
+          "children": [],
+          "description": "Extract hashes from the MongoDB database server to a hash format that hashcat accepts: -m 24100 (SCRAM-SHA-1) or -m 24200 (SCRAM-SHA-256).",
+          "title": "mongodb2hashcat",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-11T08:57:42Z",
+            "owner": "philsmd",
+            "repo": "mongodb2hashcat",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Conversion"
+    },
+    {
+      "description": "Hashcat is the \"World's fastest and most advanced password recovery utility.\" The following are projects directly related to Hashcat in one way or another.",
+      "items": [
+        {
+          "children": [],
+          "description": "A set of client and server tools for automatically, and lightly automatically cracking hashes.",
+          "title": "Autocrack",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-03-16T06:30:26Z",
+            "owner": "pry0cc",
+            "repo": "autocrack",
+            "stars": 41
+          }
+        },
+        {
+          "children": [],
+          "description": "Latest hashcat docker for Ubuntu 18.04 CUDA, OpenCL, and POCL.",
+          "title": "docker-hashcat",
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2025-08-19T19:52:49Z",
+            "owner": "dizcza",
+            "repo": "docker-hashcat",
+            "stars": 155
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of hashcat lists and things.",
+          "title": "Hashcat-Stuffs",
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2019-12-18T17:34:25Z",
+            "owner": "xfox64x",
+            "repo": "Hashcat-Stuffs",
+            "stars": 51
+          }
+        },
+        {
+          "children": [],
+          "description": "Small utilities that are useful in advanced password cracking.",
+          "title": "hashcat-utils",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-08T12:58:52Z",
+            "owner": "hashcat",
+            "repo": "hashcat-utils",
+            "stars": 1545
+          }
+        },
+        {
+          "children": [],
+          "description": "Read a hashcat potfile and parse different types into a sqlite database.",
+          "title": "Hashfilter",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-04-06T20:22:48Z",
+            "owner": "bharshbarger",
+            "repo": "Hashfilter",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "A guide and tool for cracking ssh known_hosts files with hashcat.",
+          "title": "known_hosts-hashcat",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-03T15:40:35Z",
+            "owner": "chris408",
+            "repo": "known_hosts-hashcat",
+            "stars": 339
+          }
+        },
+        {
+          "children": [],
+          "description": "Python C API binding to libhashcat.",
+          "title": "pyhashcat",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-06-11T22:03:22Z",
+            "owner": "f0cker",
+            "repo": "pyhashcat",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Hashcat"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Hashcat wrapper to help automate the cracking process.",
+          "title": "autocrack",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-04-16T21:55:23Z",
+            "owner": "timbo05sec",
+            "repo": "autocrack",
+            "stars": 118
+          }
+        },
+        {
+          "children": [],
+          "description": "An Automated Hashcat Tool for common wordlists and rules to speed up the process of cracking hashes during engagements.",
+          "title": "hat",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-14T15:33:22Z",
+            "owner": "sp00ks-git",
+            "repo": "hat",
+            "stars": 304
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool for automating cracking methodologies through Hashcat from the TrustedSec team.",
+          "title": "hate_crack",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T00:52:22Z",
+            "owner": "trustedsec",
+            "repo": "hate_crack",
+            "stars": 1797
+          }
+        },
+        {
+          "children": [],
+          "description": "Naive hashcat is a plug-and-play script that is pre-configured with naive, emperically-tested, \"good enough\" parameters/attack types.",
+          "title": "Naive hashcat",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-01-10T00:05:56Z",
+            "owner": "brannondorsey",
+            "repo": "naive-hashcat",
+            "stars": 1377
+          }
+        }
+      ],
+      "title": "Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Queue and resource system for cracking passwords.",
+          "title": "CrackLord",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-09-22T09:30:14Z",
+            "owner": "jmmcatee",
+            "repo": "cracklord",
+            "stars": 392
+          }
+        },
+        {
+          "children": [],
+          "description": "A hashcat-based distributed password cracking system.",
+          "title": "fitcrack",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-06-29T17:52:13Z",
+            "owner": "nesfit",
+            "repo": "fitcrack",
+            "stars": 169
+          }
+        },
+        {
+          "children": [],
+          "description": "Hashstation is a BOINC-based distributed password cracking system with a built-in web interface.",
+          "title": "Hashstation",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-19T15:34:56Z",
+            "owner": "hashstation",
+            "repo": "hashstation",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "A multi-platform client-server tool for distributing hashcat tasks to multiple computers.",
+          "title": "Hashtopolis",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T14:49:50Z",
+            "owner": "hashtopolis",
+            "repo": "server",
+            "stars": 1711
+          }
+        },
+        {
+          "children": [],
+          "description": "A multi-platform distributed brute-force password cracking system.",
+          "title": "Kraken",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-02T18:06:06Z",
+            "owner": "arcaneiceman",
+            "repo": "kraken",
+            "stars": 327
+          }
+        }
+      ],
+      "title": "Distributed cracking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Rule for hashcat or john.",
+          "title": "clem9669 rules",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-02T20:14:15Z",
+            "owner": "clem9669",
+            "repo": "hashcat-rule",
+            "stars": 459
+          }
+        },
+        {
+          "children": [],
+          "description": "Probably the largest collection of hashcat rules out there.",
+          "title": "hashcat rules collection",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-16T21:15:09Z",
+            "owner": "narkopolo",
+            "repo": "hashcat-rules-collection",
+            "stars": 137
+          }
+        },
+        {
+          "children": [],
+          "description": "Password cracking rules for Hashcat based on statistics and industry patterns.",
+          "title": "Hob0Rules",
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2019-07-15T04:44:07Z",
+            "owner": "praetorian-inc",
+            "repo": "Hob0Rules",
+            "stars": 1527
+          }
+        },
+        {
+          "children": [],
+          "description": "Wordlist, rules and masks from Kaonashi project (RootedCON 2019).",
+          "title": "Kaonashi",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-04-22T09:03:48Z",
+            "owner": "kaonashi-passwords",
+            "repo": "Kaonashi",
+            "stars": 1080
+          }
+        },
+        {
+          "children": [],
+          "description": "Password cracking rules and masks for hashcat generated from cracked passwords.",
+          "title": "nsa-rules",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-01-03T11:53:25Z",
+            "owner": "NSAKEY",
+            "repo": "nsa-rules",
+            "stars": 561
+          }
+        },
+        {
+          "children": [],
+          "description": "Custom password cracking rules for Hashcat and John the Ripper.",
+          "title": "nyxgeek-rules",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-08-19T23:21:10Z",
+            "owner": "nyxgeek",
+            "repo": "nyxgeek-rules",
+            "stars": 92
+          }
+        },
+        {
+          "children": [],
+          "description": "One rule to crack all passwords. or atleast we hope so.\"",
+          "title": "OneRuleToRuleThemAll",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-12-09T03:33:52Z",
+            "owner": "NotSoSecure",
+            "repo": "password_cracking_rules",
+            "stars": 1598
+          }
+        },
+        {
+          "children": [],
+          "description": "A revamped and updated version of my original OneRuleToRuleThemAll hashcat rule.\"",
+          "title": "OneRuleToRuleThemStill",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-16T10:35:59Z",
+            "owner": "stealthsploit",
+            "repo": "OneRuleToRuleThemStill",
+            "stars": 589
+          }
+        },
+        {
+          "children": [],
+          "description": "Large hashcat rulesets generated from real-world compromised passwords.",
+          "title": "pantagrule",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-11-26T04:58:39Z",
+            "owner": "rarecoil",
+            "repo": "pantagrule",
+            "stars": 399
+          }
+        }
+      ],
+      "title": "Rules"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Detect & filter duplicate hashcat rules.",
+          "title": "duprule",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-14T23:21:31Z",
+            "owner": "mhasbini",
+            "repo": "duprule",
+            "stars": 47
+          }
+        },
+        {
+          "children": [],
+          "description": "A next-gen Rule processor with complex multibyte character support built to support Hashcat.",
+          "title": "ruleprocessorY",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-25T10:16:55Z",
+            "owner": "TheWorkingDeveloper",
+            "repo": "ruleprocessorY",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Rule tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "CrackerJack is a Web GUI for Hashcat developed in Python.",
+          "title": "crackerjack",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-01T13:50:08Z",
+            "owner": "ctxis",
+            "repo": "crackerjack",
+            "stars": 381
+          }
+        },
+        {
+          "children": [],
+          "description": "A Python Hashcat cracking queue system.",
+          "title": "CrackQ",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-03T15:22:14Z",
+            "owner": "f0cker",
+            "repo": "crackq",
+            "stars": 941
+          }
+        },
+        {
+          "children": [],
+          "description": "Hash cracking WebApp & Server for hashcat.",
+          "title": "hashpass",
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-07-20T21:53:40Z",
+            "owner": "dj-zombie",
+            "repo": "hashpass",
+            "stars": 47
+          }
+        },
+        {
+          "children": [],
+          "description": "A web front-end for password cracking and analytics.",
+          "title": "Hashview",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T17:49:15Z",
+            "owner": "hashview",
+            "repo": "hashview",
+            "stars": 387
+          }
+        },
+        {
+          "children": [],
+          "description": "Wavestone's web interface for password cracking with hashcat.",
+          "title": "Wavecrack",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-09T07:25:34Z",
+            "owner": "wavestone-cdt",
+            "repo": "wavecrack",
+            "stars": 171
+          }
+        },
+        {
+          "children": [],
+          "description": "WebHashcat is a very simple but efficient web interface for hashcat password cracking tool.",
+          "title": "WebHashCat",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-07T15:48:10Z",
+            "owner": "hegusung",
+            "repo": "WebHashcat",
+            "stars": 322
+          }
+        }
+      ],
+      "title": "Web interfaces"
+    },
+    {
+      "description": "John the Ripper is \"an Open Source password security auditing and password recovery tool available for many operating systems.\" The following are projects directly related to John the Ripper in one way or another.",
+      "items": [
+        {
+          "children": [],
+          "description": "BitCracker is the first open source password cracking tool for memory units encrypted with BitLocker.",
+          "title": "BitCracker",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-31T07:22:11Z",
+            "owner": "e-ago",
+            "repo": "bitcracker",
+            "stars": 934
+          }
+        },
+        {
+          "children": [],
+          "description": "GUI frontend to John the Ripper.",
+          "title": "johnny",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-09-29T02:02:24Z",
+            "owner": "openwall",
+            "repo": "johnny",
+            "stars": 617
+          }
+        }
+      ],
+      "title": "John the Ripper"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Identify hashing algorithms (GUI frontend for Name That Hash).",
+          "title": "Hashes",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-23T11:52:33Z",
+            "owner": "zefr0x",
+            "repo": "hashes",
+            "stars": 30
+          }
+        },
+        {
+          "children": [],
+          "description": "Hashgen is a simple yet very fast CLI hash generator written in Go and cross compiled for Linux, Windows & Mac.",
+          "title": "hashgen",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-23T17:55:51Z",
+            "owner": "cyclone-github",
+            "repo": "hashgen",
+            "stars": 40
+          }
+        },
+        {
+          "children": [],
+          "description": "Don't know what type of hash it is? Name That Hash will name that hash type! Identify MD5, SHA256 and 300+ other hashes. Comes with a neat web app.",
+          "title": "Name That Hash",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-19T01:31:42Z",
+            "owner": "HashPals",
+            "repo": "Name-That-Hash",
+            "stars": 1630
+          }
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Websites"
+    },
+    {
+      "description": "Tools for analyzing, generating and manipulating wordlists.",
+      "items": [],
+      "title": "Wordlist tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A collection of utilities developed to aid in analysis of password lists in order to enhance password cracking through pattern detection of masks, rules, character-sets and other password characteristics.",
+          "title": "PACK",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-10T22:58:14Z",
+            "owner": "iphelix",
+            "repo": "pack",
+            "stars": 868
+          }
+        },
+        {
+          "children": [],
+          "description": "Ingests passwords from hashcat, etc. and outputs to HTML, Markdown, XLSX, PNG, JSON. Dark and light themes supported. Compliments password-stretcher.",
+          "title": "password-smelter",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-17T19:28:09Z",
+            "owner": "TheTechromancer",
+            "repo": "password-smelter",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "Generate \"disgusting quantities\" of passwords from websites, files, or stdin. Compliments password-smelter.",
+          "title": "password-stretcher",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T13:43:42Z",
+            "owner": "thetechromancer",
+            "repo": "password-stretcher",
+            "stars": 38
+          }
+        },
+        {
+          "children": [],
+          "description": "This project uses machine learning to identify password creation habits of users.",
+          "title": "pcfg_cracker",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-02T14:58:00Z",
+            "owner": "lakiw",
+            "repo": "pcfg_cracker",
+            "stars": 364
+          }
+        },
+        {
+          "children": [],
+          "description": "THE password analyser.",
+          "title": "Pipal",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-08-27T20:08:22Z",
+            "owner": "digininja",
+            "repo": "pipal",
+            "stars": 660
+          }
+        },
+        {
+          "children": [],
+          "description": "Generate graphs and charts based on password cracking result.",
+          "title": "Graphcat",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-17T14:37:34Z",
+            "owner": "Orange-Cyberdefense",
+            "repo": "graphcat",
+            "stars": 163
+          }
+        }
+      ],
+      "title": "Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A tool to transform characters from ASCII / UTF-8 to accented characters such as \"o\" to \"ò\".",
+          "title": "accent_permutator",
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-04-30T18:23:47Z",
+            "owner": "cyclone-github",
+            "repo": "accent_permutator",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Append lines from stdin to a file, but only if they don't already appear in the file. Outputs new lines to stdout too, making it a bit like a tee -a that removes duplicates.",
+          "title": "anew",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-12T01:06:36Z",
+            "owner": "tomnomnom",
+            "repo": "anew",
+            "stars": 1605
+          }
+        },
+        {
+          "children": [],
+          "description": "Generate smart and powerful wordlists for targeted attacks. Includes song lyrics fetching and different transforms.",
+          "title": "bopscrk",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-07T12:54:41Z",
+            "owner": "r3nt0n",
+            "repo": "bopscrk",
+            "stars": 1056
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple tool to extract the most common substrings from an input text. Built for password cracking.",
+          "title": "common-substr",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-06-28T20:18:21Z",
+            "owner": "sensepost",
+            "repo": "common-substr",
+            "stars": 65
+          }
+        },
+        {
+          "children": [],
+          "description": "Crunch is a wordlist generator where you can specify a standard character set or a character set you specify. Crunch can generate all possible combinations and permutations.",
+          "title": "Crunch"
+        },
+        {
+          "children": [],
+          "description": "A tool that lets you generate wordlists by user profiling data such as birthday, nickname, address, name of a pet or relative etc.",
+          "title": "CUPP",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-26T11:53:35Z",
+            "owner": "Mebus",
+            "repo": "cupp",
+            "stars": 5734
+          }
+        },
+        {
+          "children": [],
+          "description": "Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking).",
+          "title": "duplicut",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-04T09:46:40Z",
+            "owner": "nil0x42",
+            "repo": "duplicut",
+            "stars": 966
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool for generating wordlists or extending an existing one using mutations.",
+          "title": "Gorilla",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-01T12:56:06Z",
+            "owner": "d4rckh",
+            "repo": "gorilla",
+            "stars": 392
+          }
+        },
+        {
+          "children": [],
+          "description": "Create n-grams of wordlists based on words, characters, or charsets to use in offline password attacks and data analysis.",
+          "title": "Gramify",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-27T09:51:30Z",
+            "owner": "TheWorkingDeveloper",
+            "repo": "gramify",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "Elpscrk is like cupp, but it's based on permutations and statistics while being memory efficient.",
+          "title": "Elpscrk",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-14T19:21:24Z",
+            "owner": "D4Vinci",
+            "repo": "elpscrk",
+            "stars": 914
+          }
+        },
+        {
+          "children": [],
+          "description": "Generate Keyboard Walk Dictionaries for cracking.",
+          "title": "Keyboard-Walk-Generators",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-02-16T20:41:44Z",
+            "owner": "Rich5",
+            "repo": "Keyboard-Walk-Generators",
+            "stars": 149
+          }
+        },
+        {
+          "children": [],
+          "description": "Advanced keyboard-walk generator with configureable basechars, keymap and routes.",
+          "title": "kwprocessor",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-19T19:39:53Z",
+            "owner": "hashcat",
+            "repo": "kwprocessor",
+            "stars": 594
+          }
+        },
+        {
+          "children": [],
+          "description": "High-performance word generator with a per-position configureable charset.",
+          "title": "maskprocessor",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-06-20T08:24:11Z",
+            "owner": "hashcat",
+            "repo": "maskprocessor",
+            "stars": 493
+          }
+        },
+        {
+          "children": [],
+          "description": "A standalone fast word generator in the spirit of hashcat's mask generator with unicode support.",
+          "title": "maskuni",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-08-07T19:06:41Z",
+            "owner": "flbdx",
+            "repo": "maskuni",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Mentalist is a graphical tool for custom wordlist generation. It utilizes common human paradigms for constructing passwords and can output the full wordlist as well as rules compatible with Hashcat and John the Ripper.",
+          "title": "Mentalist",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-17T18:30:03Z",
+            "owner": "sc0tfree",
+            "repo": "mentalist",
+            "stars": 1950
+          }
+        },
+        {
+          "children": [],
+          "description": "The Password Transformation Tool (ptt) is a versatile utility designed for password cracking. It facilitates the creation of custom rules and transformations, as well as the generation of wordlists. This tool supports processing data from files, URLs, and standard input, streamlining cracking workflows.",
+          "title": "PTT"
+        },
+        {
+          "children": [],
+          "description": "Phraser is a phrase generator using n-grams and Markov chains to generate phrases for passphrase cracking.",
+          "title": "Phraser",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-12-25T11:11:33Z",
+            "owner": "Sparell",
+            "repo": "Phraser",
+            "stars": 52
+          }
+        },
+        {
+          "children": [],
+          "description": "Standalone password candidate generator using the PRINCE algorithm.",
+          "title": "princeprocessor",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-10-30T09:00:29Z",
+            "owner": "hashcat",
+            "repo": "princeprocessor",
+            "stars": 479
+          }
+        },
+        {
+          "children": [],
+          "description": "A Python-based reimagining of Phraser using Markov-chains for linguistically-correct password cracking.",
+          "title": "Rephraser",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-15T01:54:51Z",
+            "owner": "travco",
+            "repo": "rephraser",
+            "stars": 63
+          }
+        },
+        {
+          "children": [],
+          "description": "RLI Next Gen (Rling), a faster multi-threaded, feature rich alternative to rli found in hashcat utilities.",
+          "title": "Rling",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-29T06:09:47Z",
+            "owner": "Cynosureprime",
+            "repo": "rling",
+            "stars": 94
+          }
+        },
+        {
+          "children": [],
+          "description": "Word generator based on per-position markov-chains.",
+          "title": "statsprocessor",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-10-27T12:27:04Z",
+            "owner": "hashcat",
+            "repo": "statsprocessor",
+            "stars": 186
+          }
+        },
+        {
+          "children": [],
+          "description": "Fastest string sort, search, split, and shuffle for long strings and multi-gigabyte files in Python and C.",
+          "title": "StringZilla",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-26T21:37:15Z",
+            "owner": "ashvardanian",
+            "repo": "StringZilla",
+            "stars": 3338
+          }
+        },
+        {
+          "children": [],
+          "description": "Flexible and scriptable password dictionary generator which supportss brute-force, combination, complex rule modes etc.",
+          "title": "TTPassGen",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-11T14:46:06Z",
+            "owner": "tp7309",
+            "repo": "TTPassGen",
+            "stars": 167
+          }
+        },
+        {
+          "children": [],
+          "description": "Words list generator to crack security tokens.",
+          "title": "token-reverser",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-20T18:41:18Z",
+            "owner": "dariusztytko",
+            "repo": "token-reverser",
+            "stars": 111
+          }
+        },
+        {
+          "children": [],
+          "description": "WikiRaider enables you to generate wordlists based on country specific databases of Wikipedia.",
+          "title": "WikiRaider",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-02T08:47:59Z",
+            "owner": "NorthwaveSecurity",
+            "repo": "wikiraider",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "Generation/Manipulation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Wordlists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A mix of names, last names and some albanian literature.",
+          "title": "Albanian wordlist",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-05T16:47:55Z",
+            "owner": "its0x08",
+            "repo": "albanian-wordlist",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "This tool can generate wordlists of Danish phone numbers by area and/or usage (Mobile, landline etc.) Useful for password cracking or fuzzing Danish targets.",
+          "title": "Danish Phone Wordlist Generator",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-24T17:54:15Z",
+            "owner": "narkopolo",
+            "repo": "danish_phone_wordlist_generator",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of danish wordlists for cracking danish passwords.",
+          "title": "Danish Wordlists",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-11T06:05:22Z",
+            "owner": "narkopolo",
+            "repo": "danish-wordlists",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "This project aim to provide french word list about everything a person could use as a base password.",
+          "title": "French Wordlists",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-07T13:54:28Z",
+            "owner": "clem9669",
+            "repo": "wordlists",
+            "stars": 311
+          }
+        }
+      ],
+      "title": "Laguage specific"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Specific file formats"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Crack legacy zip encryption with Biham and Kocher's known plaintext attack.",
+          "title": "bkcrack",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-13T21:21:45Z",
+            "owner": "kimci86",
+            "repo": "bkcrack",
+            "stars": 2068
+          }
+        },
+        {
+          "children": [],
+          "description": "Small tool for cracking encrypted ZIP archives.",
+          "title": "frackzip",
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2023-03-23T16:43:35Z",
+            "owner": "hyc",
+            "repo": "fcrackzip",
+            "stars": 465
+          }
+        }
+      ],
+      "title": "ZIP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Reducing Bias in Modeling Real-world Password Strength via Deep Learning and Dynamic Dictionaries.",
+          "title": "adams",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-07T11:40:04Z",
+            "owner": "TheAdamProject",
+            "repo": "adams",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "Code for cracking passwords with neural networks.",
+          "title": "neural network cracking",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-12-02T21:20:11Z",
+            "owner": "cupslab",
+            "repo": "neural_network_cracking",
+            "stars": 241
+          }
+        },
+        {
+          "children": [],
+          "description": "Using the char-rnn to learn and guess passwords.",
+          "title": "RNN-Passwords",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-28T17:51:52Z",
+            "owner": "gehaxelt",
+            "repo": "RNN-Passwords",
+            "stars": 87
+          }
+        },
+        {
+          "children": [],
+          "description": "This tool finds efficient password mangling rules (for John the Ripper or Hashcat) for a given dictionary and a list of passwords.",
+          "title": "rulesfinder",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-08-18T12:57:59Z",
+            "owner": "synacktiv",
+            "repo": "rulesfinder",
+            "stars": 115
+          }
+        },
+        {
+          "children": [],
+          "description": "PassGPT is a GPT-2 model trained from scratch on password leaks.",
+          "title": "PassGPT",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-13T09:26:45Z",
+            "owner": "javirandor",
+            "repo": "passgpt",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "Artificial Intelligence"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Research"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:27:56.049Z",
+    "original_repository": "n0kovo/awesome-password-cracking",
+    "source_repository": "v1nvn/enhansome-password-cracking",
+    "source_repository_description": null,
+    "title": "Awesome Password Cracking with stars"
+  }
+}

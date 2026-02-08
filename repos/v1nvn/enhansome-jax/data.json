@@ -1,0 +1,2442 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Centered on flexibility and clarity.",
+              "title": "Flax",
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-02-07T01:34:58Z",
+                "owner": "google",
+                "repo": "flax",
+                "stars": 7064
+              }
+            },
+            {
+              "children": [],
+              "description": "An evolution on Flax by the same team",
+              "title": "Flax NNX",
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-02-07T01:34:58Z",
+                "owner": "google",
+                "repo": "flax",
+                "stars": 7064
+              }
+            },
+            {
+              "children": [],
+              "description": "Focused on simplicity, created by the authors of Sonnet at DeepMind.",
+              "title": "Haiku",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-30T21:40:59Z",
+                "owner": "deepmind",
+                "repo": "dm-haiku",
+                "stars": 3184
+              }
+            },
+            {
+              "children": [],
+              "description": "Has an object oriented design similar to PyTorch.",
+              "title": "Objax",
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2024-01-27T00:16:56Z",
+                "owner": "google",
+                "repo": "objax",
+                "stars": 775
+              }
+            },
+            {
+              "children": [],
+              "description": "A High Level API for Deep Learning in JAX. Supports Flax, Haiku, and Optax.",
+              "title": "Elegy"
+            },
+            {
+              "children": [],
+              "description": "Batteries included\" deep learning library focused on providing solutions for common workloads.",
+              "title": "Trax",
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2025-09-26T14:37:32Z",
+                "owner": "google",
+                "repo": "trax",
+                "stars": 8304
+              }
+            },
+            {
+              "children": [],
+              "description": "Lightweight graph neural network library.",
+              "title": "Jraph",
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2024-03-18T13:56:39Z",
+                "owner": "deepmind",
+                "repo": "jraph",
+                "stars": 1463
+              }
+            },
+            {
+              "children": [],
+              "description": "High-level API for specifying neural networks of both finite and  width.",
+              "title": "Neural Tangents",
+              "repo_info": {
+                "archived": true,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-03-01T17:17:03Z",
+                "owner": "google",
+                "repo": "neural-tangents",
+                "stars": 2373
+              }
+            },
+            {
+              "children": [],
+              "description": "Ecosystem of pretrained Transformers for a wide range of natural language tasks (Flax).",
+              "title": "HuggingFace Transformers",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-07T22:13:30Z",
+                "owner": "huggingface",
+                "repo": "transformers",
+                "stars": 156204
+              }
+            },
+            {
+              "children": [],
+              "description": "Callable PyTrees and filtered JIT/grad transformations => neural networks in JAX.",
+              "title": "Equinox",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-04T23:34:56Z",
+                "owner": "patrick-kidger",
+                "repo": "equinox",
+                "stars": 2765
+              }
+            },
+            {
+              "children": [],
+              "description": "A Jax Library for Computer Vision Research and Beyond.",
+              "title": "Scenic",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-06T12:06:26Z",
+                "owner": "google-research",
+                "repo": "scenic",
+                "stars": 3762
+              }
+            },
+            {
+              "children": [],
+              "description": "Prioritizes legibility, visualization, and easy editing of neural network models with composable tools and a simple mental model.",
+              "title": "Penzai",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-06-22T05:45:13Z",
+                "owner": "google-deepmind",
+                "repo": "penzai",
+                "stars": 1863
+              }
+            }
+          ],
+          "description": "Neural Network Libraries",
+          "title": "Neural Network Libraries",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-07T01:34:58Z",
+            "owner": "google",
+            "repo": "flax",
+            "stars": 7064
+          }
+        },
+        {
+          "children": [],
+          "description": "Legible, Scalable, Reproducible Foundation Models with Named Tensors and JAX.",
+          "title": "Levanter",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-26T20:08:30Z",
+            "owner": "stanford-crfm",
+            "repo": "levanter",
+            "stars": 693
+          }
+        },
+        {
+          "children": [],
+          "description": "LLMs made easy: Pre-training, finetuning, evaluating and serving LLMs in JAX/Flax.",
+          "title": "EasyLM",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-13T05:55:05Z",
+            "owner": "young-geng",
+            "repo": "EasyLM",
+            "stars": 2513
+          }
+        },
+        {
+          "children": [],
+          "description": "Probabilistic programming based on the Pyro library.",
+          "title": "NumPyro",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T23:19:27Z",
+            "owner": "pyro-ppl",
+            "repo": "numpyro",
+            "stars": 2600
+          }
+        },
+        {
+          "children": [],
+          "description": "Utilities to write and test reliable JAX code.",
+          "title": "Chex",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-29T09:38:35Z",
+            "owner": "deepmind",
+            "repo": "chex",
+            "stars": 924
+          }
+        },
+        {
+          "children": [],
+          "description": "Gradient processing and optimization library.",
+          "title": "Optax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T17:37:50Z",
+            "owner": "deepmind",
+            "repo": "optax",
+            "stars": 2176
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for implementing reinforcement learning agents.",
+          "title": "RLax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-09T18:17:15Z",
+            "owner": "deepmind",
+            "repo": "rlax",
+            "stars": 1404
+          }
+        },
+        {
+          "children": [],
+          "description": "Accelerated, differential molecular dynamics.",
+          "title": "JAX, M.D.",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-23T00:30:32Z",
+            "owner": "google",
+            "repo": "jax-md",
+            "stars": 1372
+          }
+        },
+        {
+          "children": [],
+          "description": "Turn RL papers into code, the easy way.",
+          "title": "Coax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-01T18:54:38Z",
+            "owner": "coax-dev",
+            "repo": "coax",
+            "stars": 183
+          }
+        },
+        {
+          "children": [],
+          "description": "Reimplementation of TensorFlow Probability, containing probability distributions and bijectors.",
+          "title": "Distrax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-23T19:31:34Z",
+            "owner": "deepmind",
+            "repo": "distrax",
+            "stars": 621
+          }
+        },
+        {
+          "children": [],
+          "description": "Construct differentiable convex optimization layers.",
+          "title": "cvxpylayers",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T12:48:40Z",
+            "owner": "cvxgrp",
+            "repo": "cvxpylayers",
+            "stars": 2050
+          }
+        },
+        {
+          "children": [],
+          "description": "Tensor learning made simple.",
+          "title": "TensorLy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-16T00:37:40Z",
+            "owner": "tensorly",
+            "repo": "tensorly",
+            "stars": 1658
+          }
+        },
+        {
+          "children": [],
+          "description": "Machine Learning toolbox for Quantum Physics.",
+          "title": "NetKet",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T04:33:08Z",
+            "owner": "netket",
+            "repo": "netket",
+            "stars": 659
+          }
+        },
+        {
+          "children": [],
+          "description": "AWS library for Uncertainty Quantification in Deep Learning.",
+          "title": "Fortuna",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-04-23T21:20:05Z",
+            "owner": "awslabs",
+            "repo": "fortuna",
+            "stars": 924
+          }
+        },
+        {
+          "children": [],
+          "description": "Library of samplers for JAX.",
+          "title": "BlackJAX",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T17:41:12Z",
+            "owner": "blackjax-devs",
+            "repo": "blackjax",
+            "stars": 1009
+          }
+        },
+        {
+          "children": [],
+          "description": "Probabilistic state space models.",
+          "title": "Dynamax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-06T01:22:45Z",
+            "owner": "probml",
+            "repo": "dynamax",
+            "stars": 923
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "This section contains libraries that are well-made and useful, but have not necessarily been battle-tested by a large userbase yet.",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Federated learning in JAX, built on Optax and Haiku.",
+              "title": "FedJAX",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-23T19:30:26Z",
+                "owner": "google",
+                "repo": "fedjax",
+                "stars": 270
+              }
+            },
+            {
+              "children": [],
+              "description": "Construct equivariant neural network layers.",
+              "title": "Equivariant MLP",
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-05-08T00:30:03Z",
+                "owner": "mfinzi",
+                "repo": "equivariant-MLP",
+                "stars": 281
+              }
+            },
+            {
+              "children": [],
+              "description": "Implementations and checkpoints for ResNet variants in Flax.",
+              "title": "jax-resnet",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-06-05T23:48:39Z",
+                "owner": "n2cholas",
+                "repo": "jax-resnet",
+                "stars": 119
+              }
+            },
+            {
+              "children": [],
+              "description": "JAX/Flax port of the RAFT optical flow estimator.",
+              "title": "jax-raft",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-02T11:14:14Z",
+                "owner": "alebeck",
+                "repo": "jax-raft",
+                "stars": 4
+              }
+            },
+            {
+              "children": [],
+              "description": "Immutable Torch Modules for JAX.",
+              "title": "Parallax",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-05-25T18:24:30Z",
+                "owner": "srush",
+                "repo": "parallax",
+                "stars": 153
+              }
+            }
+          ],
+          "description": "Neural Network Libraries",
+          "title": "Neural Network Libraries",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-23T19:30:26Z",
+            "owner": "google",
+            "repo": "fedjax",
+            "stars": 270
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Root finding, minimisation, fixed points, and least squares.",
+              "title": "Optimistix",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-12-27T19:36:53Z",
+                "owner": "patrick-kidger",
+                "repo": "optimistix",
+                "stars": 537
+              }
+            },
+            {
+              "children": [],
+              "description": "Hardware accelerated (GPU/TPU), batchable and differentiable optimizers in JAX.",
+              "title": "JAXopt",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-12-17T18:10:35Z",
+                "owner": "google",
+                "repo": "jaxopt",
+                "stars": 1023
+              }
+            }
+          ],
+          "description": "Nonlinear Optimization",
+          "title": "Nonlinear Optimization",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-27T19:36:53Z",
+            "owner": "patrick-kidger",
+            "repo": "optimistix",
+            "stars": 537
+          }
+        },
+        {
+          "children": [],
+          "description": "Library implementing the  for protein machine learning applications.",
+          "title": "jax-unirep",
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2024-09-03T21:19:36Z",
+            "owner": "ElArkk",
+            "repo": "jax-unirep",
+            "stars": 108
+          }
+        },
+        {
+          "children": [],
+          "description": "Distributions and normalizing flows built as equinox modules.",
+          "title": "flowjax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-01T10:51:28Z",
+            "owner": "danielward27",
+            "repo": "flowjax",
+            "stars": 216
+          }
+        },
+        {
+          "children": [],
+          "description": "Framework and Library for building and training Diffusion models in multi-node multi-device distributed settings (TPUs)",
+          "title": "flaxdiff",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-06T23:20:48Z",
+            "owner": "AshishKumar4",
+            "repo": "FlaxDiff",
+            "stars": 40
+          }
+        },
+        {
+          "children": [],
+          "description": "Normalizing flows in JAX.",
+          "title": "jax-flows"
+        },
+        {
+          "children": [],
+          "description": "kernel matrices using JAX.",
+          "title": "sklearn-jax-kernels",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-26T20:36:35Z",
+            "owner": "ExpectationMax",
+            "repo": "sklearn-jax-kernels",
+            "stars": 47
+          }
+        },
+        {
+          "children": [],
+          "description": "Differentiable cosmology library.",
+          "title": "jax-cosmo",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-27T16:56:12Z",
+            "owner": "DifferentiableUniverseInitiative",
+            "repo": "jax_cosmo",
+            "stars": 222
+          }
+        },
+        {
+          "children": [],
+          "description": "Exponential Families in JAX.",
+          "title": "efax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-01T13:26:23Z",
+            "owner": "NeilGirdhar",
+            "repo": "efax",
+            "stars": 76
+          }
+        },
+        {
+          "children": [],
+          "description": "Combine MPI operations with your Jax code on CPUs and GPUs.",
+          "title": "mpi4jax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T15:07:53Z",
+            "owner": "PhilipVinc",
+            "repo": "mpi4jax",
+            "stars": 513
+          }
+        },
+        {
+          "children": [],
+          "description": "Image augmentations and transformations.",
+          "title": "imax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-09T12:37:10Z",
+            "owner": "4rtemi5",
+            "repo": "imax",
+            "stars": 41
+          }
+        },
+        {
+          "children": [],
+          "description": "Flax version of TorchVision.",
+          "title": "FlaxVision",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-19T21:47:23Z",
+            "owner": "rolandgvc",
+            "repo": "flaxvision",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "Probabilistic programming language based on program transformations.",
+          "title": "Oryx",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-05T22:12:45Z",
+            "owner": "tensorflow",
+            "repo": "probability",
+            "stars": 4408
+          }
+        },
+        {
+          "children": [],
+          "description": "Toolbox that bundles utilities to solve optimal transport problems.",
+          "title": "Optimal Transport Tools",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-01-31T17:32:59Z",
+            "owner": "google-research",
+            "repo": "ott",
+            "stars": 214
+          }
+        },
+        {
+          "children": [],
+          "description": "A photovoltaic simulator with automatic differentation.",
+          "title": "delta PV",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-28T15:18:36Z",
+            "owner": "romanodev",
+            "repo": "deltapv",
+            "stars": 64
+          }
+        },
+        {
+          "children": [],
+          "description": "Lie theory library for rigid body transformations and optimization.",
+          "title": "jaxlie",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-24T17:23:23Z",
+            "owner": "brentyi",
+            "repo": "jaxlie",
+            "stars": 320
+          }
+        },
+        {
+          "children": [],
+          "description": "Differentiable physics engine to simulate environments along with learning algorithms to train agents for these environments.",
+          "title": "BRAX",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T23:04:08Z",
+            "owner": "google",
+            "repo": "brax",
+            "stars": 3049
+          }
+        },
+        {
+          "children": [],
+          "description": "Pretrained models for Jax/Flax.",
+          "title": "flaxmodels",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-21T10:37:09Z",
+            "owner": "matthias-wright",
+            "repo": "flaxmodels",
+            "stars": 265
+          }
+        },
+        {
+          "children": [],
+          "description": "XLA accelerated algorithms for sparse representations and compressive sensing.",
+          "title": "CR.Sparse",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-17T09:05:43Z",
+            "owner": "carnotresearch",
+            "repo": "cr-sparse",
+            "stars": 97
+          }
+        },
+        {
+          "children": [],
+          "description": "Automatic differentiable spectrum modeling of exoplanets/brown dwarfs compatible to JAX.",
+          "title": "exojax",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-27T08:18:42Z",
+            "owner": "HajimeKawahara",
+            "repo": "exojax",
+            "stars": 67
+          }
+        },
+        {
+          "children": [],
+          "description": "PIX is an image processing library in JAX, for JAX.",
+          "title": "PIX",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-06T03:24:32Z",
+            "owner": "deepmind",
+            "repo": "dm_pix",
+            "stars": 433
+          }
+        },
+        {
+          "children": [],
+          "description": "Bayesian Optimization powered by JAX.",
+          "title": "bayex",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-24T05:21:38Z",
+            "owner": "alonfnt",
+            "repo": "bayex",
+            "stars": 102
+          }
+        },
+        {
+          "children": [],
+          "description": "Framework for differentiable simulators with arbitrary discretizations.",
+          "title": "JaxDF",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T08:53:07Z",
+            "owner": "ucl-bug",
+            "repo": "jaxdf",
+            "stars": 132
+          }
+        },
+        {
+          "children": [],
+          "description": "Convert functions that operate on arrays into functions that operate on PyTrees.",
+          "title": "tree-math",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-12-05T12:04:21Z",
+            "owner": "google",
+            "repo": "tree-math",
+            "stars": 208
+          }
+        },
+        {
+          "children": [],
+          "description": "Implementations of research papers originally without code or code written with frameworks other than JAX.",
+          "title": "jax-models",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-25T02:15:08Z",
+            "owner": "DarshanDeshpande",
+            "repo": "jax-models",
+            "stars": 161
+          }
+        },
+        {
+          "children": [],
+          "description": "A framework for building discrete Probabilistic Graphical Models (PGM's) and running inference inference on them via JAX.",
+          "title": "PGMax",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-10-07T16:57:09Z",
+            "owner": "vicariousinc",
+            "repo": "PGMax",
+            "stars": 65
+          }
+        },
+        {
+          "children": [],
+          "description": "Hardware-Accelerated Neuroevolution",
+          "title": "EvoJAX",
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-27T07:32:19Z",
+            "owner": "google",
+            "repo": "evojax",
+            "stars": 937
+          }
+        },
+        {
+          "children": [],
+          "description": "JAX-Based Evolution Strategies",
+          "title": "evosax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-20T21:39:08Z",
+            "owner": "RobertTLange",
+            "repo": "evosax",
+            "stars": 724
+          }
+        },
+        {
+          "children": [],
+          "description": "Symbolic CPU/GPU/TPU programming.",
+          "title": "SymJAX",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-22T22:41:16Z",
+            "owner": "SymJAX",
+            "repo": "SymJAX",
+            "stars": 127
+          }
+        },
+        {
+          "children": [],
+          "description": "Express & compile probabilistic programs for performant inference.",
+          "title": "mcx",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T15:48:42Z",
+            "owner": "rlouf",
+            "repo": "mcx",
+            "stars": 329
+          }
+        },
+        {
+          "children": [],
+          "description": "DSL-based reshaping library for JAX and other frameworks.",
+          "title": "Einshape",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-25T01:56:28Z",
+            "owner": "deepmind",
+            "repo": "einshape",
+            "stars": 109
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source library for distributed matrix factorization using Alternating Least Squares, more info in .",
+          "title": "ALX",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Numerical differential equation solvers in JAX.",
+          "title": "Diffrax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-01T17:17:46Z",
+            "owner": "patrick-kidger",
+            "repo": "diffrax",
+            "stars": 1897
+          }
+        },
+        {
+          "children": [],
+          "description": "The  of Gaussian process libraries in JAX.",
+          "title": "tinygp",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-02T20:12:03Z",
+            "owner": "dfm",
+            "repo": "tinygp",
+            "stars": 333
+          }
+        },
+        {
+          "children": [],
+          "description": "Reinforcement Learning Environments with the well-known gym API.",
+          "title": "gymnax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-30T10:37:09Z",
+            "owner": "RobertTLange",
+            "repo": "gymnax",
+            "stars": 856
+          }
+        },
+        {
+          "children": [],
+          "description": "Monte Carlo tree search algorithms in native JAX.",
+          "title": "Mctx",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-02T09:58:49Z",
+            "owner": "deepmind",
+            "repo": "mctx",
+            "stars": 2588
+          }
+        },
+        {
+          "children": [],
+          "description": "Second Order Optimization with Approximate Curvature for NNs.",
+          "title": "KFAC-JAX",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T15:32:46Z",
+            "owner": "deepmind",
+            "repo": "kfac-jax",
+            "stars": 311
+          }
+        },
+        {
+          "children": [],
+          "description": "Convert functions/graphs to JAX functions.",
+          "title": "TF2JAX",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-27T16:28:28Z",
+            "owner": "deepmind",
+            "repo": "tf2jax",
+            "stars": 120
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for differentiable acoustic simulations",
+          "title": "jwave",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-17T11:07:44Z",
+            "owner": "ucl-bug",
+            "repo": "jwave",
+            "stars": 193
+          }
+        },
+        {
+          "children": [],
+          "description": "Gaussian processes in JAX.",
+          "title": "GPJax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T19:15:38Z",
+            "owner": "thomaspinder",
+            "repo": "GPJax",
+            "stars": 581
+          }
+        },
+        {
+          "children": [],
+          "description": "A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX.",
+          "title": "Jumanji",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-01T06:43:22Z",
+            "owner": "instadeepai",
+            "repo": "jumanji",
+            "stars": 803
+          }
+        },
+        {
+          "children": [],
+          "description": "Equinox version of Torchvision.",
+          "title": "Eqxvision",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-19T20:33:28Z",
+            "owner": "paganpasta",
+            "repo": "eqxvision",
+            "stars": 110
+          }
+        },
+        {
+          "children": [],
+          "description": "Accelerated curve fitting library for nonlinear least-squares problems (see ).",
+          "title": "JAXFit",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-23T12:28:30Z",
+            "owner": "dipolar-quantum-gases",
+            "repo": "jaxfit",
+            "stars": 59
+          }
+        },
+        {
+          "children": [],
+          "description": "Solve macroeconomic models with hetereogeneous agents using JAX.",
+          "title": "econpizza",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-07T09:53:59Z",
+            "owner": "gboehl",
+            "repo": "econpizza",
+            "stars": 108
+          }
+        },
+        {
+          "children": [],
+          "description": "A domain-specific compiler and runtime suite to run JAX code with MPC(Secure Multi-Party Computation).",
+          "title": "SPU",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-07T09:49:41Z",
+            "owner": "secretflow",
+            "repo": "spu",
+            "stars": 316
+          }
+        },
+        {
+          "children": [],
+          "description": "Add a tqdm progress bar to JAX scans and loops.",
+          "title": "jax-tqdm",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-09T22:38:45Z",
+            "owner": "jeremiecoullon",
+            "repo": "jax-tqdm",
+            "stars": 124
+          }
+        },
+        {
+          "children": [],
+          "description": "Serialize JAX, Flax, Haiku, or Objax model params with 🤗.",
+          "title": "safejax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-31T07:14:09Z",
+            "owner": "alvarobartt",
+            "repo": "safejax",
+            "stars": 47
+          }
+        },
+        {
+          "children": [],
+          "description": "Differentiable stencil decorators in JAX.",
+          "title": "Kernex",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-15T12:08:01Z",
+            "owner": "ASEM000",
+            "repo": "kernex",
+            "stars": 71
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple, performant and scalable Jax LLM written in pure Python/Jax and targeting Google Cloud TPUs.",
+          "title": "MaxText",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T03:18:07Z",
+            "owner": "google",
+            "repo": "maxtext",
+            "stars": 2134
+          }
+        },
+        {
+          "children": [],
+          "description": "A Jax-based machine learning framework for training large scale models.",
+          "title": "Pax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-13T20:24:54Z",
+            "owner": "google",
+            "repo": "paxml",
+            "stars": 547
+          }
+        },
+        {
+          "children": [],
+          "description": "The layer library for Pax with a goal to be usable by other JAX-based ML projects.",
+          "title": "Praxis",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T13:32:04Z",
+            "owner": "google",
+            "repo": "praxis",
+            "stars": 192
+          }
+        },
+        {
+          "children": [],
+          "description": "Vectorisable, end-to-end RL algorithms in JAX.",
+          "title": "purejaxrl",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-09T19:05:43Z",
+            "owner": "luchris429",
+            "repo": "purejaxrl",
+            "stars": 1019
+          }
+        },
+        {
+          "children": [],
+          "description": "Automatically apply LoRA to JAX models (Flax, Haiku, etc.)",
+          "title": "Lorax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-26T03:01:21Z",
+            "owner": "davisyoshida",
+            "repo": "lorax",
+            "stars": 144
+          }
+        },
+        {
+          "children": [],
+          "description": "Scientific computational imaging in JAX.",
+          "title": "SCICO",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T18:24:58Z",
+            "owner": "lanl",
+            "repo": "scico",
+            "stars": 150
+          }
+        },
+        {
+          "children": [],
+          "description": "Spiking Neural Networks in JAX for machine learning on neuromorphic hardware.",
+          "title": "Spyx",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-04T20:29:33Z",
+            "owner": "kmheckel",
+            "repo": "spyx",
+            "stars": 131
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Brain Dynamics Programming in Python.",
+              "title": "BrainPy",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-21T09:49:39Z",
+                "owner": "brainpy",
+                "repo": "BrainPy",
+                "stars": 656
+              }
+            },
+            {
+              "children": [],
+              "description": "Physical units and unit-aware mathematical system in JAX.",
+              "title": "brainunit",
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-02-08T02:09:06Z",
+                "owner": "chaobrain",
+                "repo": "brainunit",
+                "stars": 15
+              }
+            },
+            {
+              "children": [],
+              "description": "Dendritic Modeling in JAX.",
+              "title": "dendritex",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-06T12:50:23Z",
+                "owner": "chaobrain",
+                "repo": "dendritex",
+                "stars": 10
+              }
+            },
+            {
+              "children": [],
+              "description": "State-based Transformation System for Program Compilation and Augmentation.",
+              "title": "brainstate",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-30T13:00:30Z",
+                "owner": "chaobrain",
+                "repo": "brainstate",
+                "stars": 20
+              }
+            },
+            {
+              "children": [],
+              "description": "Leveraging Taichi Lang to customize brain dynamics operators.",
+              "title": "braintaichi",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-26T17:59:35Z",
+                "owner": "chaobrain",
+                "repo": "braintaichi",
+                "stars": 6
+              }
+            }
+          ],
+          "description": "Brain Dynamics Programming Ecosystem",
+          "title": "Brain Dynamics Programming Ecosystem",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T09:49:39Z",
+            "owner": "brainpy",
+            "repo": "BrainPy",
+            "stars": 656
+          }
+        },
+        {
+          "children": [],
+          "description": "Optimal transport tools in JAX.",
+          "title": "OTT-JAX",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T13:48:53Z",
+            "owner": "ott-jax",
+            "repo": "ott",
+            "stars": 700
+          }
+        },
+        {
+          "children": [],
+          "description": "Quality Diversity optimization in Jax.",
+          "title": "QDax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-30T09:19:48Z",
+            "owner": "adaptive-intelligent-robotics",
+            "repo": "QDax",
+            "stars": 338
+          }
+        },
+        {
+          "children": [],
+          "description": "Nightly CI and optimized examples for JAX on NVIDIA GPUs using libraries such as T5x, Paxml, and Transformer Engine.",
+          "title": "JAX Toolbox",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T13:02:24Z",
+            "owner": "NVIDIA",
+            "repo": "JAX-Toolbox",
+            "stars": 383
+          }
+        },
+        {
+          "children": [],
+          "description": "Vectorized board game environments for RL with an AlphaZero example.",
+          "title": "Pgx",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-06T06:36:01Z",
+            "owner": "sotetsuk",
+            "repo": "pgx",
+            "stars": 584
+          }
+        },
+        {
+          "children": [],
+          "description": "EasyDeL 🔮 is an OpenSource Library to make your training faster and more Optimized With cool Options for training and serving (Llama, MPT, Mixtral, Falcon, etc) in JAX",
+          "title": "EasyDeL",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T12:51:45Z",
+            "owner": "erfanzar",
+            "repo": "EasyDeL",
+            "stars": 336
+          }
+        },
+        {
+          "children": [],
+          "description": "A Differentiable Massively Parallel Lattice Boltzmann Library in Python for Physics-Based Machine Learning.",
+          "title": "XLB",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-20T20:59:19Z",
+            "owner": "Autodesk",
+            "repo": "XLB",
+            "stars": 439
+          }
+        },
+        {
+          "children": [],
+          "description": "High-performance and differentiable simulations of quantum systems with JAX.",
+          "title": "dynamiqs",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-02T13:14:50Z",
+            "owner": "dynamiqs",
+            "repo": "dynamiqs",
+            "stars": 270
+          }
+        },
+        {
+          "children": [],
+          "description": "Agent-Based modelling framework in JAX.",
+          "title": "foragax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-10T13:35:08Z",
+            "owner": "i-m-iron-man",
+            "repo": "Foragax",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Vectorized calculation of optical properties in thin-film structures using JAX. Swiss Army knife tool for thin-film optics research",
+          "title": "tmmax",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-02T12:05:49Z",
+            "owner": "bahremsd",
+            "repo": "tmmax",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Algorithms for finding coresets to compress large datasets while retaining their statistical properties.",
+          "title": "Coreax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T01:55:19Z",
+            "owner": "gchq",
+            "repo": "coreax",
+            "stars": 37
+          }
+        },
+        {
+          "children": [],
+          "description": "A reimplementation of MiniGrid, a Reinforcement Learning environment, in JAX",
+          "title": "NAVIX",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-20T10:34:34Z",
+            "owner": "epignatelli",
+            "repo": "navix",
+            "stars": 156
+          }
+        },
+        {
+          "children": [],
+          "description": "Finite-Difference Time-Domain Electromagnetic Simulations in JAX",
+          "title": "FDTDX",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T08:35:26Z",
+            "owner": "ymahlau",
+            "repo": "fdtdx",
+            "stars": 220
+          }
+        },
+        {
+          "children": [],
+          "description": "Differentiable Ray Tracing toolbox for Radio Propagation powered by the JAX ecosystem.",
+          "title": "DiffeRT",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T09:29:10Z",
+            "owner": "jeertmans",
+            "repo": "DiffeRT",
+            "stars": 49
+          }
+        },
+        {
+          "children": [],
+          "description": "Plasma physics simulations using a PIC (Particle-in-Cell) method to self-consistently solve for electron and ion dynamics in electromagnetic fields",
+          "title": "JAX-in-Cell",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-15T16:28:33Z",
+            "owner": "uwplasma",
+            "repo": "JAX-in-Cell",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "A FlashAttention implementation for JAX with support for efficient document mask computation and context parallelism.",
+          "title": "kvax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-11T17:22:27Z",
+            "owner": "nebius",
+            "repo": "kvax",
+            "stars": 158
+          }
+        },
+        {
+          "children": [],
+          "description": "differentiable (magneto)hydrodynamics for astrophysics in JAX",
+          "title": "astronomix",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T15:17:41Z",
+            "owner": "leo1200",
+            "repo": "astronomix",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "Fluid-structure interaction simulations using Immersed Boundary-Lattice Boltzmann Method.",
+          "title": "vivsim",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-30T04:53:19Z",
+            "owner": "haimingz",
+            "repo": "vivsim",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "High-performance tomographic reconstruction.",
+          "title": "MBIRJAX",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T03:06:01Z",
+            "owner": "cabouman",
+            "repo": "mbirjax",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "torchax is a library for Jax to interoperate with model code written in PyTorch.",
+          "title": "torchax",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T04:51:43Z",
+            "owner": "google",
+            "repo": "torchax",
+            "stars": 174
+          }
+        }
+      ],
+      "title": "New Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Models and Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Official implementation of .",
+          "title": "Fourier Feature Networks",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-01-17T21:33:18Z",
+            "owner": "tancik",
+            "repo": "fourier-feature-networks",
+            "stars": 1362
+          }
+        },
+        {
+          "children": [],
+          "description": "Approximate inference for Markov (i.e., temporal) Gaussian processes using iterated Kalman filtering and smoothing.",
+          "title": "kalman-jax",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-06T22:01:01Z",
+            "owner": "AaltoML",
+            "repo": "kalman-jax",
+            "stars": 103
+          }
+        },
+        {
+          "children": [],
+          "description": "Nested sampling in JAX.",
+          "title": "jaxns",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-15T12:35:33Z",
+            "owner": "Joshuaalbert",
+            "repo": "jaxns",
+            "stars": 220
+          }
+        },
+        {
+          "children": [],
+          "description": "Code related to .",
+          "title": "Amortized Bayesian Optimization",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Tools and libraries for running and analyzing neural network quantization experiments in JAX and Flax.",
+          "title": "Accurate Quantized Training",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Implementation for the paper .",
+          "title": "BNN-HMC",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "One-dimensional density functional theory (DFT) in JAX, with implementation of .",
+          "title": "JAX-DFT",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Reference code for the paper .",
+          "title": "Robust Loss",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Demonstration from .",
+          "title": "Symbolic Functionals",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Official JAX implementation of .",
+          "title": "TriMap",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        }
+      ],
+      "title": "JAX"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Collection of LLMs implemented in  &",
+          "title": "awesome-jax-flax-llms"
+        },
+        {
+          "children": [],
+          "description": "Flax implementation of DeepSeek-R1 1.5B distilled reasoning LLM.",
+          "title": "DeepSeek-R1-Flax-1.5B-Distill",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-20T14:53:02Z",
+            "owner": "J-Rosser-UK",
+            "repo": "Torch2Jax-DeepSeek-R1-Distill-Qwen-1.5B",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "Flax implementation of the Performer (linear transformer via FAVOR+) architecture.",
+          "title": "Performer",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Implementation of  with multi-device GPU/TPU support.",
+          "title": "JaxNeRF",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Official implementation of .",
+          "title": "mip-NeRF",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-10-10T18:09:16Z",
+            "owner": "google",
+            "repo": "mipnerf",
+            "stars": 937
+          }
+        },
+        {
+          "children": [],
+          "description": "Official implementation of .",
+          "title": "RegNeRF",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Implementation of",
+          "title": "JaxNeuS",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-04T17:29:52Z",
+            "owner": "huangjuite",
+            "repo": "jaxneus",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Implementation of .",
+          "title": "Big Transfer (BiT)",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-07-30T21:21:39Z",
+            "owner": "google-research",
+            "repo": "big_transfer",
+            "stars": 1539
+          }
+        },
+        {
+          "children": [],
+          "description": "Implementations of reinforcement learning algorithms.",
+          "title": "JAX RL",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-10-26T04:30:25Z",
+            "owner": "ikostrikov",
+            "repo": "jax-rl",
+            "stars": 747
+          }
+        },
+        {
+          "children": [],
+          "description": "Implementation of .",
+          "title": "gMLP"
+        },
+        {
+          "children": [],
+          "description": "Minimal implementation of .",
+          "title": "MLP Mixer"
+        },
+        {
+          "children": [],
+          "description": "Implementation of .",
+          "title": "Distributed Shampoo",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Official implementation of .",
+          "title": "NesT",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-30T20:48:57Z",
+            "owner": "google-research",
+            "repo": "nested-transformer",
+            "stars": 201
+          }
+        },
+        {
+          "children": [],
+          "description": "Official implementation of .",
+          "title": "XMC-GAN",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T16:14:43Z",
+            "owner": "google-research",
+            "repo": "xmcgan_image_generation",
+            "stars": 96
+          }
+        },
+        {
+          "children": [],
+          "description": "Official implementation of .",
+          "title": "FNet",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Official implementation of .",
+          "title": "GFSA",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Official implementation of .",
+          "title": "IPA-GNN",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of models and methods implemented in Flax.",
+          "title": "Flax Models",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Implements BERT and autoregressive models for proteins, as described in  and .",
+          "title": "Protein LM",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Reference implementation for .",
+          "title": "Slot Attention",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Official implementation of .",
+          "title": "Vision Transformer",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-30T16:43:22Z",
+            "owner": "google-research",
+            "repo": "vision_transformer",
+            "stars": 12276
+          }
+        },
+        {
+          "children": [],
+          "description": "Port of  to Flax.",
+          "title": "FID computation",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-17T07:19:14Z",
+            "owner": "matthias-wright",
+            "repo": "jax-fid",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Official implementation of .",
+          "title": "ARDM",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Official implementation of .",
+          "title": "D3PM",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Code for , with extra code in .",
+          "title": "Gumbel-max Causal Mechanisms",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Code for the ICML 2021 paper .",
+          "title": "Latent Programmer",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Official implementation of .",
+          "title": "SNeRG",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Adaptation of .",
+          "title": "Spin-weighted Spherical CNNs",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Adaptation of , original code at .",
+          "title": "VDVAE",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Checkpoints and model inference code for the ICCV 2021 paper",
+          "title": "MUSIQ",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Official implementation of .",
+          "title": "AQuaDem",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Official implementation of .",
+          "title": "Combiner",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Official implementation of the ICLR 2022 paper .",
+          "title": "Dreamfields",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Official implementation of .",
+          "title": "GIFT",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "Official implementation of .",
+          "title": "Light Field Neural Rendering",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "A JAX/Flax implementation of the Sharpened Cosine Similarity layer.",
+          "title": "Sharpened Cosine Similarity in JAX by Raphael Pisoni"
+        },
+        {
+          "children": [],
+          "description": "A JAX + Flax implementation of .",
+          "title": "GNNs for Solving Combinatorial Optimization Problems",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-09T16:59:29Z",
+            "owner": "IvanIsCoding",
+            "repo": "GNN-for-Combinatorial-Optimization",
+            "stars": 65
+          }
+        },
+        {
+          "children": [],
+          "description": "Flax implementation of  using Sinkhorn solver and parallel bipartite matching.",
+          "title": "DETR",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-06T08:34:45Z",
+            "owner": "MasterSkepticista",
+            "repo": "detr",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Flax"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Implementation of the inference pipeline of AlphaFold v2.0, presented in .",
+          "title": "AlphaFold",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-15T13:24:56Z",
+            "owner": "deepmind",
+            "repo": "alphafold",
+            "stars": 14249
+          }
+        },
+        {
+          "children": [],
+          "description": "Reference code for  and .",
+          "title": "Adversarial Robustness",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-05T17:44:53Z",
+            "owner": "deepmind",
+            "repo": "deepmind-research",
+            "stars": 14680
+          }
+        },
+        {
+          "children": [],
+          "description": "Implementation for the paper .",
+          "title": "Bootstrap Your Own Latent",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-05T17:44:53Z",
+            "owner": "deepmind",
+            "repo": "deepmind-research",
+            "stars": 14680
+          }
+        },
+        {
+          "children": [],
+          "description": "GLNs are a family of backpropagation-free neural networks.",
+          "title": "Gated Linear Networks",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-05T17:44:53Z",
+            "owner": "deepmind",
+            "repo": "deepmind-research",
+            "stars": 14680
+          }
+        },
+        {
+          "children": [],
+          "description": "Open source implementation of the paper .",
+          "title": "Glassy Dynamics",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-05T17:44:53Z",
+            "owner": "deepmind",
+            "repo": "deepmind-research",
+            "stars": 14680
+          }
+        },
+        {
+          "children": [],
+          "description": "Code for the models in .",
+          "title": "MMV",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-05T17:44:53Z",
+            "owner": "deepmind",
+            "repo": "deepmind-research",
+            "stars": 14680
+          }
+        },
+        {
+          "children": [],
+          "description": "Official Haiku implementation of .",
+          "title": "Normalizer-Free Networks",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-05T17:44:53Z",
+            "owner": "deepmind",
+            "repo": "deepmind-research",
+            "stars": 14680
+          }
+        },
+        {
+          "children": [],
+          "description": "Normalizing flows with JAX.",
+          "title": "NuX",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-30T23:00:01Z",
+            "owner": "Information-Fusion-Lab-Umass",
+            "repo": "NuX",
+            "stars": 86
+          }
+        },
+        {
+          "children": [],
+          "description": "This repository contains DeepMind's entry to the  (quantum chemistry) and  (academic graph)\ntracks of the  (OGB-LSC).",
+          "title": "OGB-LSC",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-05T17:44:53Z",
+            "owner": "deepmind",
+            "repo": "deepmind-research",
+            "stars": 14680
+          }
+        },
+        {
+          "children": [],
+          "description": "Code used for the paper .",
+          "title": "Persistent Evolution Strategies",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T12:47:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 37233
+          }
+        },
+        {
+          "children": [],
+          "description": "JAX implementation of the paper .",
+          "title": "Two Player Auction Learning",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-07T12:27:16Z",
+            "owner": "degregat",
+            "repo": "two-player-auctions",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Baseline code to reproduce results in .",
+          "title": "WikiGraphs",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-05T17:44:53Z",
+            "owner": "deepmind",
+            "repo": "deepmind-research",
+            "stars": 14680
+          }
+        }
+      ],
+      "title": "Haiku"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Describes the state of JAX and the JAX ecosystem at DeepMind.",
+          "title": "Using JAX to accelerate our research by David Budden and Matteo Hessel"
+        },
+        {
+          "children": [],
+          "description": "Neural network building blocks from scratch with the basic JAX operators.",
+          "title": "Getting started with JAX (MLPs, CNNs & RNNs) by Robert Lange"
+        },
+        {
+          "children": [],
+          "description": "A gentle introduction to JAX and using it to implement Linear and Logistic Regression, and Neural Network models and using them to solve real world problems.",
+          "title": "Learn JAX: From Linear Regression to Neural Networks by Rito Ghosh"
+        },
+        {
+          "children": [],
+          "description": "Learn how to create a simple convolutional network with the Linen API by Flax and train it to recognize handwritten digits.",
+          "title": "Tutorial: image classification with JAX and Flax Linen by 8bitmp3",
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-16T17:10:27Z",
+            "owner": "8bitmp3",
+            "repo": "JAX-Flax-Tutorial-Image-Classification-with-Linen",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Compares Flax, Haiku, and Objax on the Kaggle flower classification challenge.",
+          "title": "Plugging Into JAX by Nick Doiron"
+        },
+        {
+          "children": [],
+          "description": "Introduction to both JAX and Meta-Learning.",
+          "title": "Meta-Learning in 50 Lines of JAX by Eric Jang"
+        },
+        {
+          "children": [],
+          "description": "Concise implementation of .",
+          "title": "Normalizing Flows in 100 Lines of JAX by Eric Jang"
+        },
+        {
+          "children": [],
+          "description": "Tutorial on implementing path tracing.",
+          "title": "Differentiable Path Tracing on the GPU/TPU by Eric Jang"
+        },
+        {
+          "children": [],
+          "description": "Ensemble nets are a method of representing an ensemble of models as one single logical model.",
+          "title": "Ensemble networks by Mat Kelcey"
+        },
+        {
+          "children": [],
+          "description": "Implements different methods for OOD detection.",
+          "title": "Out of distribution (OOD) detection by Mat Kelcey"
+        },
+        {
+          "children": [],
+          "description": "Understand how autodiff works using JAX.",
+          "title": "Understanding Autodiff with JAX by Srihari Radhakrishna"
+        },
+        {
+          "children": [],
+          "description": "Showcases how to go from a PyTorch-like style of coding to a more Functional-style of coding.",
+          "title": "From PyTorch to JAX: towards neural net frameworks that purify stateful code by Sabrina J. Mielke"
+        },
+        {
+          "children": [],
+          "description": "Tutorial demonstrating the infrastructure required to provide custom ops in JAX.",
+          "title": "Extending JAX with custom C++ and CUDA code by Dan Foreman-Mackey",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-18T09:00:56Z",
+            "owner": "dfm",
+            "repo": "extending-jax",
+            "stars": 403
+          }
+        },
+        {
+          "children": [],
+          "description": "Explores how JAX can power the next generation of scalable neuroevolution algorithms.",
+          "title": "Evolving Neural Networks in JAX by Robert Tjarko Lange"
+        },
+        {
+          "children": [],
+          "description": "Demonstrates how to use JAX to perform inner-loss optimization with SGD and Momentum, outer-loss optimization with gradients, and outer-loss optimization using evolutionary strategies.",
+          "title": "Exploring hyperparameter meta-loss landscapes with JAX by Luke Metz"
+        },
+        {
+          "children": [],
+          "description": "Walk through of implementing automatic differentiation variational inference (ADVI) easily and cleanly with JAX.",
+          "title": "Deterministic ADVI in JAX by Martin Ingram"
+        },
+        {
+          "children": [],
+          "description": "Trains a classification model robust to different combinations of input channels at different resolutions, then uses a genetic algorithm to decide the best combination for a particular loss.",
+          "title": "Evolved channel selection by Mat Kelcey"
+        },
+        {
+          "children": [],
+          "description": "Colab that introduces various aspects of the language and applies them to simple ML problems.",
+          "title": "Introduction to JAX by Kevin Murphy"
+        },
+        {
+          "children": [],
+          "description": "Tutorial on the different ways to write an MCMC sampler in JAX along with speed benchmarks.",
+          "title": "Writing an MCMC sampler in JAX by Jeremie Coullon"
+        },
+        {
+          "children": [],
+          "description": "Tutorial on how to add a progress bar to compiled loops in JAX using the  module.",
+          "title": "How to add a progress bar to JAX scans and loops by Jeremie Coullon"
+        },
+        {
+          "children": [],
+          "description": "A series of notebooks and videos going from zero JAX knowledge to building neural networks in Haiku.",
+          "title": "Get started with JAX by Aleksa Gordić",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-11-29T17:21:14Z",
+            "owner": "gordicaleksa",
+            "repo": "get-started-with-JAX",
+            "stars": 776
+          }
+        },
+        {
+          "children": [],
+          "description": "A tutorial on writing a simple end-to-end training and evaluation pipeline in JAX, Flax and Optax.",
+          "title": "Writing a Training Loop in JAX + FLAX by Saurav Maheshkar and Soumik Rakshit"
+        },
+        {
+          "children": [],
+          "description": "A tutorial on 3D volumetric rendering of scenes represented by Neural Radiance Fields in JAX.",
+          "title": "Implementing NeRF in JAX by Soumik Rakshit and Saurav Maheshkar"
+        },
+        {
+          "children": [],
+          "description": "A series of notebooks explaining various deep learning concepts, from basics (e.g. intro to JAX/Flax, activiation functions) to recent advances (e.g., Vision Transformers, SimCLR), with translations to PyTorch.",
+          "title": "Deep Learning tutorials with JAX+Flax by Phillip Lippe"
+        },
+        {
+          "children": [],
+          "description": "A blog post on how JAX can massively speedup RL training through vectorisation.",
+          "title": "Achieving 4000x Speedups with PureJaxRL"
+        },
+        {
+          "children": [],
+          "description": "A simple example of solving the advection-diffusion equations with JAX and using it in a constrained optimization problem to find initial conditions that yield desired result.",
+          "title": "Simple PDE solver + Constrained Optimization with JAX by Philip Mocz"
+        }
+      ],
+      "title": "Tutorials and Blog Posts"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:34:59.908Z",
+    "original_repository": "n2cholas/awesome-jax",
+    "source_repository": "v1nvn/enhansome-jax",
+    "source_repository_description": null,
+    "title": "Awesome JAX with stars"
+  }
+}

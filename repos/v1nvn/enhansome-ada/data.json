@@ -1,0 +1,4015 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Presentation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Education"
+    },
+    {
+      "description": "Programming in Ada 2022 - Comprehensive.Programming in Ada 2012 with a Preview of Ada 2022 (2nd ed.) - Comprehensive.Programming in Ada 2012 - Comprehensive.Beginning Ada Programming: From Novice to Professional - Introduction.Ada 95: The Craft of Object-Oriented Programming - General, intermediate. Ada Plus Data Structures: An Object Oriented Approach - Data Structures. Ada for Software Engineers - Idioms, Architecture.Concurrent and Real-Time Programming in Ada - Concurrency, Containers, Scheduling.Data Structures and Algorithms: An Object-Oriented Approach Using Ada 95 - Data structures, Algorithms.Building Parallel, Embedded, and Real-Time Applications with Ada - Concurrency, Distributed.Analysable Real-Time Systems: Programmed in Ada - Scheduling.Building High Integrity Applications with SPARK - Formal verification.Ada and SPARK on ARM Cortex-M - Embedded.",
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The 2022 revision to the Ada Standard, usually known as Ada 2022.",
+          "title": "iso-standard"
+        },
+        {
+          "children": [],
+          "description": "Standard Ada library specification as defined in Reference Manual.",
+          "title": "adalib",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2021-08-29T19:40:06Z",
+            "owner": "reznikmm",
+            "repo": "adalib",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "Reference Card / Cheatsheet of Ada Attributes, Aspects, Pragmas and Standard Library.",
+          "title": "Ada 2022 Reference Card",
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2024-07-14T15:51:24Z",
+            "owner": "bracke",
+            "repo": "AdaReferenceCard",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Reference"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Compilers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open source"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The HAC Ada Compiler - a small, quick Ada compiler fully in Ada.",
+          "title": "hac",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-31T10:52:12Z",
+            "owner": "zertovitch",
+            "repo": "hac",
+            "stars": 157
+          }
+        },
+        {
+          "children": [],
+          "description": "A community project to build an Ada compiler, toolchain, and IDE-system.",
+          "title": "byron",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2020-05-16T23:30:14Z",
+            "owner": "OneWingedShark",
+            "repo": "Byron",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "MIT"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Edit"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Gnu Emacs major-mode for editing Ada sources.",
+          "title": "gnu-emacs-ada-mode"
+        },
+        {
+          "children": [],
+          "description": "Maintained Ada Bundle : Complete Ada-Mode for Vim/Neovim.",
+          "title": "vim-ada-bundle",
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2021-01-28T07:11:02Z",
+            "owner": "thindil",
+            "repo": "Ada-Bundle",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "TextMate support for Ada.",
+          "title": "ada-tmbundle",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-04-27T05:52:43Z",
+            "owner": "textmate",
+            "repo": "ada.tmbundle",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "BBEdit support for Ada.",
+          "title": "bbedit-ada-module"
+        },
+        {
+          "children": [],
+          "description": "Ada/SPARK support for org-babel : Evaluate source code blocks with Gnu Emacs and org files.",
+          "title": "ob-ada-spark",
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2022-11-14T20:11:43Z",
+            "owner": "rocher",
+            "repo": "ob-ada-spark",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Doom Emacs Ada language module with syntax highlighting, LSP and Alire support.",
+          "title": "doom-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2025-09-15T13:33:49Z",
+            "owner": "tomekw",
+            "repo": "doom-ada",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Text Modes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Language Support for Ada. It includes .",
+          "title": "adacore-ada"
+        },
+        {
+          "children": [],
+          "description": "Basic syntax highlighting for Ada and GPR.",
+          "title": "ada-vscode",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-07-24T17:54:38Z",
+            "owner": "Lucretia",
+            "repo": "ada-vscode",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "VSCode extension Ada programmers which provides a few utility functions.",
+          "title": "ada-utilities",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-03T09:21:34Z",
+            "owner": "Lucretia",
+            "repo": "ada-utilities",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "VSCode Extensions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Deployment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.",
+          "title": "alire",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-06T01:13:45Z",
+            "owner": "alire-project",
+            "repo": "alire",
+            "stars": 366
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool for automatically creating an AppImage executable from an Alire crate.",
+          "title": "alr2appimage",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-08-07T09:53:22Z",
+            "owner": "mgrojo",
+            "repo": "alr2appimage",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "An integrated build and source/package management tool with a more hands-on versioning approach. Alternative to alire and gprbuild. Optimized for CI/CD pipelines.",
+          "title": "aura",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-07-16T02:56:48Z",
+            "owner": "annexi-strayline",
+            "repo": "AURA",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "Adacore multi-language software build tool.",
+          "title": "gprbuild",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-22T16:27:20Z",
+            "owner": "AdaCore",
+            "repo": "gprbuild",
+            "stars": 79
+          }
+        },
+        {
+          "children": [],
+          "description": "Administration tool for Ravenports .",
+          "title": "ravenadm",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-30T15:04:41Z",
+            "owner": "jrmarino",
+            "repo": "ravenadm",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).",
+          "title": "synth",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-06-19T18:36:47Z",
+            "owner": "jrmarino",
+            "repo": "synth",
+            "stars": 267
+          }
+        },
+        {
+          "children": [],
+          "description": "CMake macros for simple gnat project inclusion.",
+          "title": "ada4cmake",
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2020-09-14T10:36:59Z",
+            "owner": "mosteo",
+            "repo": "ada4cmake",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada language support for CMake.",
+          "title": "cmake-ada-offa",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-11-12T19:44:53Z",
+            "owner": "offa",
+            "repo": "cmake-ada",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "CMake language support for Ada, fork of 's cross-platform support code.",
+          "title": "cmake-ada-cho3",
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2018-10-13T02:21:35Z",
+            "owner": "cho3",
+            "repo": "cmake-ada",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Build and Package"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "SPARK formal verification automated with Travis CI.",
+          "title": "continuous-verification",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2019-06-08T10:30:48Z",
+            "owner": "jklmnn",
+            "repo": "continuous-verification",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada Toolchains for GitHub Actions.",
+          "title": "ada-actions",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-11T11:50:21Z",
+            "owner": "ada-actions",
+            "repo": "toolchain",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "Continuous integration server and agent that helps automate the building, testing and deployment.",
+          "title": "porion"
+        }
+      ],
+      "title": "Continuous Integration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "GNAT bare metal board support package (BSP).",
+          "title": "bb-runtimes",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-04T17:58:59Z",
+            "owner": "AdaCore",
+            "repo": "bb-runtimes",
+            "stars": 69
+          }
+        },
+        {
+          "children": [],
+          "description": "GNAT for 8-bit AVR microcontrollers.",
+          "title": "avr-ada"
+        },
+        {
+          "children": [],
+          "description": "A downsized Ada runtime which can be adapted to different platforms.",
+          "title": "ada-runtime",
+          "repo_info": {
+            "archived": true,
+            "language": "Ada",
+            "last_commit": "2022-08-02T09:12:12Z",
+            "owner": "Componolit",
+            "repo": "ada-runtime",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.",
+          "title": "cortex-gnat-rts",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-03-18T18:29:51Z",
+            "owner": "simonjwright",
+            "repo": "cortex-gnat-rts",
+            "stars": 78
+          }
+        },
+        {
+          "children": [],
+          "description": "GNAT RTL for WebAssembly and bindings for Web API.",
+          "title": "adawebpack",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-02-16T19:55:51Z",
+            "owner": "godunko",
+            "repo": "adawebpack",
+            "stars": 75
+          }
+        }
+      ],
+      "title": "Runtimes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "RTOS with simple tasking support for small microcontrollers.",
+          "title": "m2os"
+        },
+        {
+          "children": [],
+          "description": "MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.",
+          "title": "marte-os"
+        },
+        {
+          "children": [],
+          "description": "An x86/64 Separation Kernel for High Assurance.",
+          "title": "muen"
+        },
+        {
+          "children": [],
+          "description": "A microkernel targeting micro-controllers and embedded systems.",
+          "title": "ewok",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2021-05-27T08:09:25Z",
+            "owner": "wookey-project",
+            "repo": "ewok-kernel",
+            "stars": 77
+          }
+        },
+        {
+          "children": [],
+          "description": "An Ada port of the  minimal 32-bit x86 kernel.",
+          "title": "bare-bones",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2016-11-20T15:24:39Z",
+            "owner": "Lucretia",
+            "repo": "bare_bones",
+            "stars": 90
+          }
+        },
+        {
+          "children": [],
+          "description": "Lovelace is an effort to write a Unix like operating system using the Ada 2012 language.",
+          "title": "lovelace-os"
+        },
+        {
+          "children": [],
+          "description": "Ada KALINDA is a sort of Mac Plus like OS written in Ada95.",
+          "title": "ada-kalinda-os"
+        },
+        {
+          "children": [],
+          "description": "A simple monolithic RISC-V operating system developed in Ada.",
+          "title": "Straylight",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-07T06:54:19Z",
+            "owner": "ajxs",
+            "repo": "straylight",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "x86-64 security-focused OS being created with SPARK.",
+          "title": "havk",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2021-05-28T08:35:39Z",
+            "owner": "RavSS",
+            "repo": "HAVK",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.",
+          "title": "cubit",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2021-05-14T04:47:20Z",
+            "owner": "docandrew",
+            "repo": "CuBit",
+            "stars": 84
+          }
+        },
+        {
+          "children": [],
+          "description": "A kernel for several architectures striving for POSIX compatibility, used on several distributions like .",
+          "title": "ironclad"
+        },
+        {
+          "children": [],
+          "description": "A high-integrity RTOS written in SPARK Ada.",
+          "title": "hirtos",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-29T20:03:47Z",
+            "owner": "jgrivera67",
+            "repo": "HiRTOS",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "OS and Kernels"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Roguelike in sky with a steampunk setting.",
+          "title": "steamsky",
+          "repo_info": {
+            "archived": false,
+            "language": "Nim",
+            "last_commit": "2026-02-08T04:09:19Z",
+            "owner": "thindil",
+            "repo": "steamsky",
+            "stars": 101
+          }
+        },
+        {
+          "children": [],
+          "description": "Tetris, in Ada, for the Unity game engine.",
+          "title": "unity-ada-tetris"
+        },
+        {
+          "children": [],
+          "description": "A tictactoe game written and proven in SPARK/Ada.",
+          "title": "tictactoe",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2017-07-31T15:57:29Z",
+            "owner": "AdaCore",
+            "repo": "tictactoe",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "AdaGate is a first-person 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux.",
+          "title": "ada-gate",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-10T17:15:46Z",
+            "owner": "fastrgv",
+            "repo": "AdaGate",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "RufasCube is a puzzle game for Windows, OS-X and GNU Linux (it looks like a rubic cube but it's a slider, not a twister).",
+          "title": "rufas-cube",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-18T13:16:49Z",
+            "owner": "fastrgv",
+            "repo": "RufasCube",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "AdaVenture is a kid-friendly retro point&click game with mazes, dragons, bats & snakes.",
+          "title": "ada-venture",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-11T22:01:42Z",
+            "owner": "fastrgv",
+            "repo": "AdaVenture",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Space Invaders, Pacman, & Frogger games that run in a terminal on Windows, OS-X & Linux.",
+          "title": "retro-arcade",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-09-15T20:21:28Z",
+            "owner": "fastrgv",
+            "repo": "RetroArcade",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "This is a soccer-themed, 3D sokoban puzzle game that runs on Windows, Mac OS-X and GNU Linux.",
+          "title": "world-cup-sokerban",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-07T17:35:24Z",
+            "owner": "fastrgv",
+            "repo": "WorldCupSokerban",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "A game of the \"match-3\" genre, implemented in .",
+          "title": "pasta"
+        },
+        {
+          "children": [],
+          "description": "A simple  Button Mania game.",
+          "title": "buttons",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2019-05-28T15:51:10Z",
+            "owner": "andreacervetti",
+            "repo": "buttons",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "A mine-finding game that never requires guessing.",
+          "title": "mine-detector",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-06-20T15:44:47Z",
+            "owner": "jrcarter",
+            "repo": "Mine_Detector",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "A clone of the popular 2048 game, implemented in Ada using  for graphics and  for saving state.",
+          "title": "play-2048",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-08-08T15:47:55Z",
+            "owner": "mgrojo",
+            "repo": "play_2048",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Bingo application in .",
+          "title": "bingada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-07-15T14:16:37Z",
+            "owner": "jfuica",
+            "repo": "bingada",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Civilization-style turn-based strategy game. Requires .",
+          "title": "civ-klon",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-21T02:09:49Z",
+            "owner": "HonkiTonk",
+            "repo": "Civ-Klon",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple Turn-based Game in Ada (made with ).",
+          "title": "eepers",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-05-26T15:22:30Z",
+            "owner": "tsoding",
+            "repo": "eepers",
+            "stars": 437
+          }
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "ASN.1, MQTT client and server/broker implementation, B-trees, Multiple connection TCP servers, Chebyshev series, Mutexes, Cryptography, Objects and handles to, Doubly-linked webs and lists, ODBC bindings, Blackboards (lock-free), OpenSSL bindings, ELV/eQ-3 MAX! client implementation, Parsers, Events (plain, pulse, array of), Persistent objects and handles to, GNUTLS bindings, Persistent storage and handles to, Graphs (directed, weighted, acyclic, trees), Pools, HTTP implementation, Sets and maps, FIFO (lock-free), SMTP client implementation, IEEE 754, SQLite bindings, Inter-process communication, Stacks, Interfacing Julia language, Streams, JSON, Strings editing, LDAP, Tables (maps of strings), MODBUS client implementation, Unbounded arrays.",
+          "title": "simple-components"
+        },
+        {
+          "children": [],
+          "description": "A logging framework close to Java log4j framework, support for properties, serialization/deserialization framework for XML/JSON/CSV, Ada beans framework, encoding/decoding framework (Base16, Base64, SHA, HMAC-SHA), a composing stream framework (raw, files, buffers, pipes, sockets), several concurrency tools (reference counters, counters, pools, fifos, arrays), process creation and pipes, support for loading shared libraries (on Windows or Unix), HTTP client library on top of CURL or AWS.",
+          "title": "ada-util",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-12-16T20:53:06Z",
+            "owner": "stcarrez",
+            "repo": "ada-util",
+            "stars": 79
+          }
+        },
+        {
+          "children": [],
+          "description": "This is the core module of the GNAT Components Collection.",
+          "title": "gnatcoll-core",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-29T15:22:22Z",
+            "owner": "AdaCore",
+            "repo": "gnatcoll-core",
+            "stars": 52
+          }
+        },
+        {
+          "children": [],
+          "description": "This is the bindings module of the GNAT Components Collection.",
+          "title": "gnatcoll-bindings",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-19T16:55:58Z",
+            "owner": "AdaCore",
+            "repo": "gnatcoll-bindings",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "This is the DB module of the GNAT Components Collection.",
+          "title": "gnatcoll-db",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-28T13:06:17Z",
+            "owner": "AdaCore",
+            "repo": "gnatcoll-db",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "This is a set of helpers for writing JSON-intefaces it contains JSON parses for most of the Ada runtime components.",
+          "title": "gnatcoll-json",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-03-22T07:02:31Z",
+            "owner": "persan",
+            "repo": "gnatcoll-json",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "An interface collection to be used with applications for component based systems. It aims to be easily portable/platform independent and is compatible with the .",
+          "title": "gneiss",
+          "repo_info": {
+            "archived": true,
+            "language": "Ada",
+            "last_commit": "2020-08-28T16:42:02Z",
+            "owner": "Componolit",
+            "repo": "gneiss",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "A set of Ada components to allow 3D simulations, games and GUI's in Ada.",
+          "title": "lace",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-11-14T03:58:05Z",
+            "owner": "charlie5",
+            "repo": "lace",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "A set of general libraries and thick bindings for use with the AURA package management/build tool. Includes TCP, TLS, HTTP, a high-performance JSON parser/generator, and a formally verified (SPARK) UTF-8 stream decoder.",
+          "title": "asap",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-07T14:19:56Z",
+            "owner": "annexi-strayline",
+            "repo": "ASAP",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The GNU Omnificent GUI for Ada.",
+          "title": "gnoga"
+        },
+        {
+          "children": [],
+          "description": "GNU Ada Visual Interface.",
+          "title": "gwindows",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-05T17:17:30Z",
+            "owner": "zertovitch",
+            "repo": "gwindows",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "A High Level, Portable, Ada 95 Binding for Microsoft Windows.",
+          "title": "claw"
+        },
+        {
+          "children": [],
+          "description": "Ada graphical toolkit based on Gtk3 components.",
+          "title": "gtkada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-27T00:54:59Z",
+            "owner": "AdaCore",
+            "repo": "gtkada",
+            "stars": 101
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada-2012 port to Qt 6 framework.",
+          "title": "qt-ada"
+        },
+        {
+          "children": [],
+          "description": "Ada-2012 port to VTK 8.1 (Visualization Toolkit).",
+          "title": "vtk-ada"
+        },
+        {
+          "children": [],
+          "description": "Ada-2012 binding to FLTK (Fast Light Toolkit).",
+          "title": "fltk-ada"
+        },
+        {
+          "children": [],
+          "description": "GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from .",
+          "title": "ada-gui",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-06-20T10:28:29Z",
+            "owner": "jrcarter",
+            "repo": "Ada_GUI",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "GUI based on .",
+          "title": "adawebui",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-06-05T17:49:08Z",
+            "owner": "godunko",
+            "repo": "adawebui",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada binding of the ImGui library.",
+          "title": "imgui-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-08-25T21:38:27Z",
+            "owner": "Cre8or",
+            "repo": "ImGui-Ada",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada binding to the Nuklear GUI library and the Nuklear-SDL renderer.",
+          "title": "anuklear",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-23T11:48:13Z",
+            "owner": "ada-game-framework",
+            "repo": "anuklear",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Graphical User Interface"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Advanced UNIX Terminal UI Ada Binding Package.",
+          "title": "curses",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2020-05-01T17:25:23Z",
+            "owner": "annexi-strayline",
+            "repo": "Curses",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada95 bindings for ncurses.",
+          "title": "ncurses-ada95"
+        },
+        {
+          "children": [],
+          "description": "Bindings to the Linenoise line-editing library (patched to support UTF-8).",
+          "title": "linenoise-ada"
+        },
+        {
+          "children": [],
+          "description": "Ada binding to the readline library.",
+          "title": "areadline",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2015-09-21T23:22:42Z",
+            "owner": "samueltardieu",
+            "repo": "areadline",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Terminal User Interface"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "GL Object Based Engine for 3D.",
+          "title": "globe-3d",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-04-18T20:27:35Z",
+            "owner": "zertovitch",
+            "repo": "globe-3d",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "A 3D engine for DOS-talgics.",
+          "title": "engine-3d",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-23T18:24:57Z",
+            "owner": "zertovitch",
+            "repo": "engine-3d",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada OpenGL Framework.",
+          "title": "ada-ogl",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2015-12-23T15:13:30Z",
+            "owner": "JulianSchutsch",
+            "repo": "AdaOGL",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Id Software's Id-tech-4-BFG in the Ada programming language.",
+          "title": "ada-doom-3",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-03-29T21:44:41Z",
+            "owner": "AdaDoom3",
+            "repo": "AdaDoom3",
+            "stars": 278
+          }
+        }
+      ],
+      "title": "3D"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Ada Database Objects is an Ada05 library that provides object relational mapping to access a database in Ada05. The library supports PostgreSQL, MySQL, SQLite as databases. Most of the concepts developped for ADO come from the Java Hibernate ORM.",
+          "title": "ada-ado",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-12-16T20:52:57Z",
+            "owner": "stcarrez",
+            "repo": "ada-ado",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.",
+          "title": "ada-base",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-10-16T01:12:29Z",
+            "owner": "jrmarino",
+            "repo": "AdaBase",
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "APQ is a database interface library written in Ada95.",
+          "title": "apq-base",
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2016-03-13T09:57:05Z",
+            "owner": "ada-apq",
+            "repo": "apq",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Database"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A simple unit test library and framework for the Ada programming.\nlanguage.  It is loosely modelled after JUnit and some ideas from AUnit.",
+          "title": "ahven"
+        },
+        {
+          "children": [],
+          "description": "Ada unit testing framework.",
+          "title": "aunit",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-04T15:52:21Z",
+            "owner": "AdaCore",
+            "repo": "aunit",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple tool to black box check the behavior of an executable through the command line.",
+          "title": "bbt",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-03T00:23:04Z",
+            "owner": "LionelDraghi",
+            "repo": "bbt",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Behavior Driven Development in Ada.",
+          "title": "gnatbdd",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2021-10-25T14:51:46Z",
+            "owner": "briot",
+            "repo": "gnatbdd",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Supports functional testing using Tcl scripts.",
+          "title": "scripted-testing",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-04-25T10:33:37Z",
+            "owner": "simonjwright",
+            "repo": "scripted_testing",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Unit Test, Testing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "An interactive context-based text search tool for searching large codebases.",
+          "title": "septum",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-07T02:10:52Z",
+            "owner": "pyjarrett",
+            "repo": "septum",
+            "stars": 396
+          }
+        },
+        {
+          "children": [],
+          "description": "This tool allows monitoring power consumption of multiple platforms and processes.",
+          "title": "powerjoular",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-10-20T15:01:13Z",
+            "owner": "joular",
+            "repo": "powerjoular",
+            "stars": 100
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple memory analysis tool intended to help understand where the memory is used in a program.",
+          "title": "mat",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-11-11T09:01:41Z",
+            "owner": "stcarrez",
+            "repo": "mat",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "DevOps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "GNATcoverage is a tool to analyze and report program coverage.",
+          "title": "gnat-coverage",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-06T12:29:56Z",
+            "owner": "AdaCore",
+            "repo": "gnatcoverage",
+            "stars": 46
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada constructs lint tool.",
+          "title": "adacontrol"
+        },
+        {
+          "children": [],
+          "description": "SPARK formal verification toolset.",
+          "title": "spark-2014",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-06T16:28:22Z",
+            "owner": "AdaCore",
+            "repo": "spark2014",
+            "stars": 295
+          }
+        },
+        {
+          "children": [],
+          "description": "The Ada Conformity Assessment Test Suite, customised for GCC.",
+          "title": "acats",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-08-01T20:44:34Z",
+            "owner": "simonjwright",
+            "repo": "ACATS",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Tools for grading ACATS results, modified for Unix-like systems.",
+          "title": "acats-grading",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-05-17T09:41:13Z",
+            "owner": "simonjwright",
+            "repo": "ACATS-grading",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Verification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "An open source ASN.1 generator to Ada type declarations and encoders/decoders.",
+          "title": "asn1scc",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-09T11:36:15Z",
+            "owner": "ttsiodras",
+            "repo": "asn1scc",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "AADL model processor: mappings to Ada code; Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL.",
+          "title": "ocarina",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-03-23T02:16:23Z",
+            "owner": "OpenAADL",
+            "repo": "ocarina",
+            "stars": 73
+          }
+        },
+        {
+          "children": [],
+          "description": "Formal Methods Toolkit is a set of extension packages for Mathematica, supporting software. engineering activities related to modeling, verification and Ada code generation.",
+          "title": "fmt"
+        },
+        {
+          "children": [],
+          "description": "Finite-state machine generator.",
+          "title": "automate",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-11-02T20:31:03Z",
+            "owner": "Blady-Com",
+            "repo": "Automate",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Generator of JUnit-compatible XML reports in Ada.",
+          "title": "ajunitgen",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-06-04T11:31:30Z",
+            "owner": "mosteo",
+            "repo": "ajunitgen",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.",
+          "title": "record-flux",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-07T16:31:39Z",
+            "owner": "Componolit",
+            "repo": "RecordFlux",
+            "stars": 122
+          }
+        },
+        {
+          "children": [],
+          "description": "Advanced Resource Embedder to embed files in binaries by producing C, Ada or Go source files.",
+          "title": "resource-embedder"
+        }
+      ],
+      "title": "Generation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Ada-tailored UML Modeling Language.",
+          "title": "ada-ml",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-14T20:49:18Z",
+            "owner": "rocher",
+            "repo": "AdaML",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "This tool generates Ada framework code and documentation from UML models.",
+          "title": "coldframe",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-10-04T15:52:42Z",
+            "owner": "simonjwright",
+            "repo": "coldframe",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Unified Modelling Language (UML) diagram program based on KDE Technology. Outputs Ada.",
+          "title": "umbrello"
+        }
+      ],
+      "title": "UML"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Collection of basic math routines in Ada.",
+          "title": "math-packages",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-10-31T23:41:58Z",
+            "owner": "jscparker",
+            "repo": "math_packages",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of mathematical, 100% portable, packages in the Ada programming language.",
+          "title": "mathpaqs",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-06T16:00:32Z",
+            "owner": "zertovitch",
+            "repo": "mathpaqs",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Mandelbrot renderer in \"ASCII\" (unicode actually, but text nonetheless).",
+          "title": "mandelbrot-ascii",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2019-10-27T21:03:15Z",
+            "owner": "mosteo",
+            "repo": "mandelbrot_ascii",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Interface to dense linear algebra packages.",
+          "title": "lalg",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-04-11T20:25:57Z",
+            "owner": "jhumphry",
+            "repo": "LALG",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018).",
+          "title": "geo-energy-math",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-03-07T17:53:46Z",
+            "owner": "pukpr",
+            "repo": "GeoEnergyMath",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Compute the N-th root of a matrix.",
+          "title": "matrix-root"
+        },
+        {
+          "children": [],
+          "description": "Ada binding to the fast Stachniss' Hungarian solver.",
+          "title": "hungarian",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2018-06-10T19:48:08Z",
+            "owner": "mosteo",
+            "repo": "hungarian",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Math"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.",
+          "title": "ada-language-server",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-03T00:55:45Z",
+            "owner": "AdaCore",
+            "repo": "ada_language_server",
+            "stars": 285
+          }
+        },
+        {
+          "children": [],
+          "description": "Language Server Protocol for Ada.",
+          "title": "ada-lsp",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2017-12-21T16:37:50Z",
+            "owner": "reznikmm",
+            "repo": "ada-lsp",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Prototype implementation of LSP client - Visual Studio 2017.",
+          "title": "ada-lsp-client",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-12-05T09:18:19Z",
+            "owner": "Alex-Gamper",
+            "repo": "Ada-LanguageServer",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Generic Ada Library for Algorithms and Containers.",
+          "title": "ada-traits-containers",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-11-05T14:45:47Z",
+            "owner": "AdaCore",
+            "repo": "ada-traits-containers",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "Deque/buffer generics that consist of building blocks that may be combined in various ways to create higher abstraction buffers.",
+          "title": "dequesterity"
+        },
+        {
+          "children": [],
+          "description": "PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering.",
+          "title": "pragmarc",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-09T20:30:15Z",
+            "owner": "jrcarter",
+            "repo": "PragmARC",
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "The Ada 95 Booch components are a port of Grady Booch's C++ components.",
+          "title": "booch95"
+        },
+        {
+          "children": [],
+          "description": "Simple Ada library for generating UUIDs.",
+          "title": "ada-id",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2021-12-08T13:50:58Z",
+            "owner": "anthony-arnold",
+            "repo": "AdaID",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Genetic Algorithm Implementation for Ada.",
+          "title": "ada-ga",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-08-06T22:18:37Z",
+            "owner": "frett27",
+            "repo": "Ada-GA",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Small Library for Sodoku grid solving / finding.",
+          "title": "ada-sodoku",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-08-06T22:42:23Z",
+            "owner": "frett27",
+            "repo": "Ada-Sodoku",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple Layer 3 Protocol.",
+          "title": "sl3p",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2018-01-30T08:37:43Z",
+            "owner": "jklmnn",
+            "repo": "sl3p",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "A package providing a reference-counted access type Smart_Pointer.",
+          "title": "smart-pointers",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2018-06-10T17:39:07Z",
+            "owner": "alire-project",
+            "repo": "smart_pointers",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Hungarian Algorithm implementation in Ada.",
+          "title": "hungarian-algorithm",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-12-06T21:49:52Z",
+            "owner": "fastrgv",
+            "repo": "HungarianAlgorithm",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "NBAda : An Ada library of lock-free data structures and algorithms.",
+          "title": "nb-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2015-05-16T21:08:17Z",
+            "owner": "andgi",
+            "repo": "NBAda",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "A suite of Ada 2012 generics to facilitate iterative and recursive parallelism for multicore systems.",
+          "title": "paraffin"
+        },
+        {
+          "children": [],
+          "description": "Storage pool with subpool capabilities for Ada 2012, Ada 2005, and Ada 95.",
+          "title": "deepend"
+        },
+        {
+          "children": [],
+          "description": "Ada 95 container library, precursor to Ada 2005+ standard containers.",
+          "title": "charles"
+        }
+      ],
+      "title": "Algorithms, Containers and Protocols"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Ada Implementation of the Threefish-256 Encryption Algorithm.",
+          "title": "threefish",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-08-14T15:20:48Z",
+            "owner": "jrcarter",
+            "repo": "Threefish",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Trivial implementation of fletcher_16 checksum computation algorithm.",
+          "title": "fletcher",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2019-03-03T02:06:52Z",
+            "owner": "darkestkhan",
+            "repo": "fletcher",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Base58 encoding and decoding in Ada.",
+          "title": "base58-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2017-10-06T21:08:32Z",
+            "owner": "MichaelAllenHardeman",
+            "repo": "base58_ada",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "This is a crypto library for Ada with a nice API and is written for the i386 and x86_64 hardware architecture.",
+          "title": "ada-crypto-library",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2018-04-02T10:28:58Z",
+            "owner": "cforler",
+            "repo": "Ada-Crypto-Library",
+            "stars": 86
+          }
+        },
+        {
+          "children": [],
+          "description": "A cryptographic library implemented in SPARK.",
+          "title": "libsparkcrypto",
+          "repo_info": {
+            "archived": true,
+            "language": "Ada",
+            "last_commit": "2021-01-26T09:43:16Z",
+            "owner": "Componolit",
+            "repo": "libsparkcrypto",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "A pure Ada implementation of the SipHash PRF.",
+          "title": "sip-hash",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2014-02-15T01:33:39Z",
+            "owner": "grim7reaper",
+            "repo": "SipHash",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "A SPARK implementation of the Keccak family of sponge functions and related constructions.",
+          "title": "libkeccak",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-10-19T15:57:47Z",
+            "owner": "damaki",
+            "repo": "libkeccak",
+            "stars": 36
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada/SPARK implementation of the Ascon Authenticated Encryption with Additional Data Algorithm.",
+          "title": "ascon-spark",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-02-11T22:24:49Z",
+            "owner": "jhumphry",
+            "repo": "Ascon_SPARK",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada/SPARK implementation of the SipHash keyed hash function.",
+          "title": "spark-sip-hash",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2018-06-20T22:04:55Z",
+            "owner": "jhumphry",
+            "repo": "SPARK_SipHash",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada/SPARK implementation of the NORX Authenticated Encryption with Additional Data Algorithm.",
+          "title": "spark-norx",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2018-06-19T21:43:06Z",
+            "owner": "jhumphry",
+            "repo": "SPARK_NORX",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "SPARK 2014 re-implementation of the TweetNaCl crypto library.",
+          "title": "spark-nacl",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-03-17T08:47:40Z",
+            "owner": "rod-chapman",
+            "repo": "SPARKNaCl",
+            "stars": 129
+          }
+        },
+        {
+          "children": [],
+          "description": "Timed One-Time-Pad (RFC 6238) implementation in SPARK.",
+          "title": "stotp",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2018-12-12T07:42:45Z",
+            "owner": "jklmnn",
+            "repo": "STOTP",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Extremely fast non-cryptographic Hash algorithm, xxhash is working at speeds close to RAM limits.",
+          "title": "xxhash-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-10-05T04:47:44Z",
+            "owner": "lyarbean",
+            "repo": "xxhash-ada",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "A secure cryptographic library (libsodium for Ada).",
+          "title": "libsodium-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2016-07-18T02:32:55Z",
+            "owner": "jrmarino",
+            "repo": "libsodium-ada",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada Binding for the libsecret library.",
+          "title": "ada-libsecret",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-02-17T07:56:39Z",
+            "owner": "stcarrez",
+            "repo": "ada-libsecret",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "SPARK83 implementation of the BLAKE2s hash function.",
+          "title": "blake2s",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2021-10-12T05:41:52Z",
+            "owner": "lkujaw",
+            "repo": "blake2s",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Cryptography"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Programming library for dealing with the Zip compressed archive file format.",
+          "title": "zip-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-02T17:30:19Z",
+            "owner": "zertovitch",
+            "repo": "zip-ada",
+            "stars": 32
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada binding for liblzma compression library.",
+          "title": "ada-lzma",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-11-29T17:08:17Z",
+            "owner": "stcarrez",
+            "repo": "ada-lzma",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "An Ada 2012 library for document container files (Based on ).",
+          "title": "dcf-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-07-31T13:14:59Z",
+            "owner": "onox",
+            "repo": "dcf-ada",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Compression"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Implementing promises in Ada. Type-safe, efficient, thread-safe.",
+          "title": "ada-promises",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2017-03-10T09:44:06Z",
+            "owner": "briot",
+            "repo": "Ada-promises",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Task pool system for jobs.",
+          "title": "reqrep-task-pools",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2015-06-16T20:24:02Z",
+            "owner": "jhumphry",
+            "repo": "Reqrep_Task_Pools",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "An Ada 2012 implementation of the Rx methodology.",
+          "title": "rxada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-03-06T14:47:56Z",
+            "owner": "mosteo",
+            "repo": "rxada",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Patterns"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A fuzzy inference system library for Ada.",
+          "title": "ada-fuzzy",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2016-01-12T17:03:23Z",
+            "owner": "briot",
+            "repo": "adafuzzy",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada library and tools for the analysis of Complex Networks and more.",
+          "title": "radalib",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-11-16T23:02:17Z",
+            "owner": "sergio-gomez",
+            "repo": "Radalib",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "System Modeling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).",
+          "title": "libadalang",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-02T17:06:51Z",
+            "owner": "AdaCore",
+            "repo": "libadalang",
+            "stars": 163
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada scanner and parser generators.",
+          "title": "aflex-ayacc"
+        },
+        {
+          "children": [],
+          "description": "An LALR, LR1, and Packrat parser generator and run-time.",
+          "title": "wisitoken"
+        },
+        {
+          "children": [],
+          "description": "Ada code analyzer.",
+          "title": "gela",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2021-03-13T13:32:49Z",
+            "owner": "reznikmm",
+            "repo": "gela",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Grammar handling and parser generation Ada library.",
+          "title": "anagram",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2021-02-14T08:17:48Z",
+            "owner": "reznikmm",
+            "repo": "anagram",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Pretty printing library for Ada.",
+          "title": "ada-pretty",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2021-02-14T08:24:07Z",
+            "owner": "reznikmm",
+            "repo": "ada-pretty",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Incremental analysis in Ada.",
+          "title": "increment",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2020-11-28T17:32:57Z",
+            "owner": "reznikmm",
+            "repo": "increment",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple command-line argument parsing.",
+          "title": "parse-args",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-04-03T20:36:21Z",
+            "owner": "jhumphry",
+            "repo": "parse_args",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Embeddable Forth interpreter written in Ada.",
+          "title": "aforth",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2015-09-20T10:18:51Z",
+            "owner": "samueltardieu",
+            "repo": "aforth",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "Tools for writing lexers / parsers in Ada.",
+          "title": "parser-tools",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2018-02-16T10:24:02Z",
+            "owner": "flyx",
+            "repo": "ParserTools",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "An Ada implementation of XPath 1.0.",
+          "title": "xia",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-01-27T18:06:49Z",
+            "owner": "simonjwright",
+            "repo": "xia",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Embeddable Lisp interpreter.",
+          "title": "ada-lisp-embedded",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-03-27T14:58:46Z",
+            "owner": "BrentSeidel",
+            "repo": "Ada-Lisp-Embedded",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as \"ini\" files.",
+          "title": "ini-files",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-05-25T10:20:57Z",
+            "owner": "zertovitch",
+            "repo": "ini-files",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Experimental Ada code generation support for Google Protocol Buffers.",
+          "title": "protobuf-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-05-06T05:57:34Z",
+            "owner": "persan",
+            "repo": "protobuf-ada",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "A Google Protocol Buffers implementation in Ada, using .",
+          "title": "protobuf",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-31T19:49:07Z",
+            "owner": "reznikmm",
+            "repo": "protobuf",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "Experimental YAML 1.3 implementation in Ada.",
+          "title": "ada-yaml",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-01-20T20:16:51Z",
+            "owner": "yaml",
+            "repo": "AdaYaml",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "An Ada 2012 library for parsing JSON.",
+          "title": "json-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-07-28T16:06:01Z",
+            "owner": "onox",
+            "repo": "json-ada",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "A formally verified JSON library in SPARK.",
+          "title": "jwx",
+          "repo_info": {
+            "archived": true,
+            "language": "Ada",
+            "last_commit": "2020-10-12T05:49:54Z",
+            "owner": "Componolit",
+            "repo": "jwx",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "The XML/Ada toolkit.",
+          "title": "xmlada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-26T13:17:42Z",
+            "owner": "AdaCore",
+            "repo": "xmlada",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for emitting XML from Ada programs.",
+          "title": "xml-ez-out",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2020-12-17T09:40:23Z",
+            "owner": "alire-project",
+            "repo": "xmlezout",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A formally verified XML library in SPARK.",
+          "title": "spark-xml",
+          "repo_info": {
+            "archived": true,
+            "language": "Ada",
+            "last_commit": "2020-05-26T13:27:49Z",
+            "owner": "Componolit",
+            "repo": "SXML",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "Create Excel files with basic formats.",
+          "title": "excel-writer",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-11-17T20:58:30Z",
+            "owner": "zertovitch",
+            "repo": "excel-writer",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Multi-format image decoder library for Ada.",
+          "title": "generic-image-decoder",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-05T19:55:02Z",
+            "owner": "zertovitch",
+            "repo": "gid",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).",
+          "title": "ada-pdf-writer",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-03T20:01:30Z",
+            "owner": "zertovitch",
+            "repo": "ada-pdf-writer",
+            "stars": 23
+          }
+        },
+        {
+          "children": [],
+          "description": "Implementation of Midi / MidiFile reading and writing.",
+          "title": "ada-midi",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-08-16T23:16:01Z",
+            "owner": "frett27",
+            "repo": "Ada-Midi",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.",
+          "title": "ada-bar-codes",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-12-06T19:59:42Z",
+            "owner": "zertovitch",
+            "repo": "ada-bar-codes",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Various binary-to-ASCII codecs such as Base64.",
+          "title": "ada-bin2asc",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2016-06-23T21:28:32Z",
+            "owner": "jhumphry",
+            "repo": "Ada_BinToAsc",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "A library of access routines to Axon's ABF file format (electrophysiology, most common) in Ada.",
+          "title": "abf-io",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2018-10-30T19:12:37Z",
+            "owner": "gerr135",
+            "repo": "abf_io",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "TOML parser for Ada.",
+          "title": "ada-toml",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-07-16T08:50:24Z",
+            "owner": "pmderodat",
+            "repo": "ada-toml",
+            "stars": 36
+          }
+        },
+        {
+          "children": [],
+          "description": "URI and MIME parser & manipulation library.",
+          "title": "uri-ada"
+        },
+        {
+          "children": [],
+          "description": "Magic Number Recognition Library Ada binding (libmagic (3)).",
+          "title": "ada-libmagic"
+        }
+      ],
+      "title": "Format Readers, Writers and Checkers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Networking library for the Ada programming language.",
+          "title": "anet"
+        },
+        {
+          "children": [],
+          "description": "Implementation of the DHCP protocol in Ada.",
+          "title": "adhcp"
+        },
+        {
+          "children": [],
+          "description": "IPv4 socket library (TCP, UDP, and multicast).",
+          "title": "adasockets",
+          "repo_info": {
+            "archived": true,
+            "language": "TeX",
+            "last_commit": "2023-07-21T21:07:24Z",
+            "owner": "samueltardieu",
+            "repo": "adasockets",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "The D_Bus/Ada library provides an Ada binding to the D-Bus message bus system.",
+          "title": "dbus-ada"
+        },
+        {
+          "children": [],
+          "description": "Binding to the ZeroMQ comunications-library.",
+          "title": "zeromq-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-11-17T07:40:56Z",
+            "owner": "persan",
+            "repo": "zeromq-Ada",
+            "stars": 42
+          }
+        },
+        {
+          "children": [],
+          "description": "Wrappers for various client/server and pub/sub messaging protocols (AMQP, STOMP and ZeroMQ), focusing exclusively on text message communications.",
+          "title": "tomi-4-ada"
+        },
+        {
+          "children": [],
+          "description": "Binding for the MQTT broker Mosquitto.",
+          "title": "mosquitto-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-03-03T07:54:00Z",
+            "owner": "persan",
+            "repo": "mosquitto-ada",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Bindings to the libtls TLS/SSL library.",
+          "title": "tlsada"
+        },
+        {
+          "children": [],
+          "description": "Binding for the C librdkafka library, allows sending and receiving from a Kafka bus.",
+          "title": "kafka-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-09-02T15:00:52Z",
+            "owner": "Latence-Technologies",
+            "repo": "Kafka-Ada",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "This is a small, portable and easy to use Ada network lib. It supports ipv4 ipv6 udp and tcp, and can 'listen' with ipv6, too.",
+          "title": "adare-net"
+        },
+        {
+          "children": [],
+          "description": "PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.",
+          "title": "pcsc-ada"
+        },
+        {
+          "children": [],
+          "description": "A formally verified implementation of CoAP, the Constrained Application Protocol.",
+          "title": "coap-spark",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-12-28T20:26:55Z",
+            "owner": "mgrojo",
+            "repo": "coap_spark",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Networking and Communication Middleware"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "With the AXMPP library you can connect to a Jabber server to send and receive messages.",
+          "title": "axmpp",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2020-10-06T11:12:26Z",
+            "owner": "coopht",
+            "repo": "axmpp",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada 2012 library for WeeChat plug-ins.",
+          "title": "weechat-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-08-01T18:10:14Z",
+            "owner": "onox",
+            "repo": "weechat-ada",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "A WeeChat plug-in written in Ada 2012 that plays sounds using Canberra.",
+          "title": "weechat-canberra",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-08-16T09:54:11Z",
+            "owner": "onox",
+            "repo": "weechat-canberra",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "A WeeChat plug-in written in Ada 2012 that displays emoji.",
+          "title": "weechat-emoji",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-08-16T09:55:57Z",
+            "owner": "onox",
+            "repo": "weechat-emoji",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Chatting and Communication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Thick Ada binding for OpenGL and GLFW.",
+          "title": "opengl-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-09-08T07:15:20Z",
+            "owner": "flyx",
+            "repo": "OpenGLAda",
+            "stars": 102
+          }
+        },
+        {
+          "children": [],
+          "description": "Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WebAssembly/WebGL).",
+          "title": "adagl",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-12-28T03:39:13Z",
+            "owner": "godunko",
+            "repo": "adagl",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada 2012 bindings to SDL 2.",
+          "title": "sdlada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-07-24T10:22:27Z",
+            "owner": "Lucretia",
+            "repo": "sdlada",
+            "stars": 128
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada bindings to NanoVG.",
+          "title": "ada-nanovg",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2016-01-29T20:14:12Z",
+            "owner": "raph-amiard",
+            "repo": "ada-nanovg",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "FreeType binding for Ada 2005.",
+          "title": "free-type-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2021-05-17T13:49:41Z",
+            "owner": "flyx",
+            "repo": "FreeTypeAda",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada binding to the Simple and Fast Multimedia Library.",
+          "title": "asfml",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-12-08T10:57:47Z",
+            "owner": "mgrojo",
+            "repo": "ASFML",
+            "stars": 40
+          }
+        },
+        {
+          "children": [],
+          "description": "Cross-platform, scientific graphics plotting library, including an Ada binding.",
+          "title": "plplot"
+        },
+        {
+          "children": [],
+          "description": "A complete Vulkan 1.1 thick binding for Ada 2012.",
+          "title": "vulkada"
+        }
+      ],
+      "title": "Graphics and Multimedia"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Support for CUDA (Compute Unified Device Architecture) from AdaCore.",
+          "title": "cuda",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-09-10T08:14:02Z",
+            "owner": "AdaCore",
+            "repo": "cuda",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "CUDA/Ada is an Ada binding to NVIDIA's CUDA parallel computing platform and programming model.",
+          "title": "cuda-ada"
+        },
+        {
+          "children": [],
+          "description": "An Ada binding for the OpenCL host API.",
+          "title": "opencl-ada",
+          "repo_info": {
+            "archived": true,
+            "language": "Ada",
+            "last_commit": "2013-11-14T21:15:48Z",
+            "owner": "flyx",
+            "repo": "OpenCLAda",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada binding to the Boehm-Demers-Weiser conservative garbage collector.",
+          "title": "boehmgc-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-04-22T03:44:38Z",
+            "owner": "ytomino",
+            "repo": "boehmgc-ada",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "An Ada binding for the GNU Binutils BFD library. It allows to read binary ELF, COFF files by using the GNU BFD.",
+          "title": "ada-bfd",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-11-02T09:54:18Z",
+            "owner": "stcarrez",
+            "repo": "ada-bfd",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "General Purpose Computing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Ada 2012 bindings for the Opus audio codec.",
+          "title": "opus-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-08-16T12:03:58Z",
+            "owner": "onox",
+            "repo": "opus-ada",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada 2012 bindings for libcanberra, an implementation of the XDG Sound Theme and Name Specifications.",
+          "title": "canberra-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-08-16T09:37:45Z",
+            "owner": "onox",
+            "repo": "canberra-ada",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada bindings for libsoundio.",
+          "title": "ada-soundio",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2016-01-27T15:49:16Z",
+            "owner": "raph-amiard",
+            "repo": "ada-soundio",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada binding to OpenAL which tries to mimic original API while using Ada types.",
+          "title": "oto",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2016-03-29T18:46:32Z",
+            "owner": "darkestkhan",
+            "repo": "oto",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada binding to OpenAL.",
+          "title": "coreland-openal-ada",
+          "repo_info": {
+            "archived": true,
+            "language": "Ada",
+            "last_commit": "2022-12-28T22:29:20Z",
+            "owner": "io7m",
+            "repo": "coreland-openal-ada",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Sound Synthetizer Library implemented in Ada.",
+          "title": "ada-synthetizer",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-08-09T22:10:46Z",
+            "owner": "frett27",
+            "repo": "Ada-Synthetizer",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Sound"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Reference counting approaches to resource management.",
+          "title": "auto-counters",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-02-28T22:26:33Z",
+            "owner": "jhumphry",
+            "repo": "auto_counters",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Stream utilities for Ada2005 and 2012.",
+          "title": "a-stream-tools",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-10-21T10:13:23Z",
+            "owner": "persan",
+            "repo": "a-stream-tools",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "An extensible template engine akin to jinja but using  and intended for command line usage.",
+          "title": "ssprep",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-12-02T15:05:01Z",
+            "owner": "persan",
+            "repo": "ssprep",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Open Source Licenses library for Ada.",
+          "title": "licensing",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2018-02-25T20:58:35Z",
+            "owner": "mosteo",
+            "repo": "licensing",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Easy to use logging facilities for output to console in Ada programs.",
+          "title": "simple-logging",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-06T09:16:46Z",
+            "owner": "alire-project",
+            "repo": "simple_logging",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Command-line utility that picks a file from a folder hierarchy with probability proportional to its size.",
+          "title": "rsfile",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-08-01T11:13:40Z",
+            "owner": "mosteo",
+            "repo": "rsfile",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Convenience subprograms to interact with C strings.",
+          "title": "cstrings",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-04-03T05:38:06Z",
+            "owner": "mosteo",
+            "repo": "cstrings",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool to imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository.",
+          "title": "cvsweb2git",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-11-11T13:33:39Z",
+            "owner": "reznikmm",
+            "repo": "cvsweb2git",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Library and tool for transparently handling data and configuration file access in an Ada application. Supports macOS, Linux and Windows.",
+          "title": "ada-bundler",
+          "repo_info": {
+            "archived": true,
+            "language": "Ada",
+            "last_commit": "2012-08-14T15:52:55Z",
+            "owner": "flyx",
+            "repo": "ada-bundler",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides GCC 'specs' files to cope with SDK policy changes.",
+          "title": "macos-sdks-vs-gcc",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2021-03-04T10:06:44Z",
+            "owner": "simonjwright",
+            "repo": "macos-sdks-vs-gcc",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Unicode extended strings.",
+          "title": "ux-strings",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-09-04T08:40:20Z",
+            "owner": "Blady-Com",
+            "repo": "UXStrings",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Portable implementation of getopt(3) in Ada.",
+          "title": "getopt-ada"
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Ada client library for ROS2/RCL.",
+          "title": "rclada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-09-19T14:24:34Z",
+            "owner": "ada-ros",
+            "repo": "rclada",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada bindings for the player robotic platform.",
+          "title": "player-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2014-06-09T16:17:30Z",
+            "owner": "mosteo",
+            "repo": "player-ada",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Robotics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "POSIX Ada binding, IEEE Standards 1003.5(b,c).",
+          "title": "florist"
+        },
+        {
+          "children": [],
+          "description": "Ada Windows POSIX binding.",
+          "title": "wposix",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-09T16:32:14Z",
+            "owner": "AdaCore",
+            "repo": "wposix",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada Posix Binding to Video 4 Linux, used for RPI.",
+          "title": "ada-v4l2",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2015-01-28T19:18:26Z",
+            "owner": "frett27",
+            "repo": "AdaV4L2",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "An Ada 2012 library for monitoring filesystem events using Linux' inotify API.",
+          "title": "inotify-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-12-30T20:25:24Z",
+            "owner": "onox",
+            "repo": "inotify-ada",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Minimal binding to libdl.",
+          "title": "dl-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-09-15T20:15:00Z",
+            "owner": "mosteo",
+            "repo": "dl-ada",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Small Ada library that helps in writing safer suid programs.",
+          "title": "suid-helper"
+        }
+      ],
+      "title": "Linux and POSIX"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Ada API to the Windows library.",
+          "title": "win32ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-03T21:04:14Z",
+            "owner": "AdaCore",
+            "repo": "win32ada",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada bindings to the Microsoft NetFramework Api.",
+          "title": "ada-net-framework",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2020-03-22T02:03:45Z",
+            "owner": "Alex-Gamper",
+            "repo": "Ada-NetFramework",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada bindings for the Microsft WinRT Api.",
+          "title": "ada-winrt",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2020-06-06T00:35:14Z",
+            "owner": "Alex-Gamper",
+            "repo": "Ada-WinRT",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada bindings for the Microsoft Win32 Api.",
+          "title": "ada-win32",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2020-06-07T04:47:29Z",
+            "owner": "Alex-Gamper",
+            "repo": "Ada-Win32",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Windows and .NET"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.",
+          "title": "tcl-ada-shell",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-02-26T21:08:15Z",
+            "owner": "simonjwright",
+            "repo": "tcladashell",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Tcl Ada SHell Younger (Tashy) is derivate of Tash, focused mostly on Tk binding.",
+          "title": "tashy",
+          "repo_info": {
+            "archived": true,
+            "language": "Ada",
+            "last_commit": "2022-05-01T03:50:59Z",
+            "owner": "thindil",
+            "repo": "tashy",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Derivate of Tashy that aims to be more idiomatic and uses a more permisive license.",
+          "title": "tashy2",
+          "repo_info": {
+            "archived": true,
+            "language": "Ada",
+            "last_commit": "2022-04-01T03:32:00Z",
+            "owner": "thindil",
+            "repo": "tashy2",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada binding for Lua.",
+          "title": "ada-lua",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-12-11T19:27:00Z",
+            "owner": "AdaCore",
+            "repo": "ada-lua",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada bindings to the Lua language.",
+          "title": "coreland-lua-ada",
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2011-02-11T10:32:38Z",
+            "owner": "io7m",
+            "repo": "coreland-lua-ada",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Bindings to Other Languages"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardware and Embedded"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A lightweight development framework whose purpose is the implementation of Ada-based software systems. It supports a plethora or CPU architectures and development boards.",
+          "title": "SweetAda",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-07T20:11:51Z",
+            "owner": "gabriele-galeotti",
+            "repo": "SweetAda",
+            "stars": 49
+          }
+        },
+        {
+          "children": [],
+          "description": "Robotics with Ada, ARM, and Lego.",
+          "title": "robotics-with-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-02-10T05:01:25Z",
+            "owner": "AdaCore",
+            "repo": "Robotics_with_Ada",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "A component-based, model-driven framework for constructing reliable and reusable real-time software.",
+          "title": "adamant",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-03T01:18:04Z",
+            "owner": "lasp",
+            "repo": "adamant",
+            "stars": 37
+          }
+        },
+        {
+          "children": [],
+          "description": "A graphics initialization (aka modesetting) library for embedded environments, implemented in SPARK.",
+          "title": "libgfxinit",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-12-20T12:01:29Z",
+            "owner": "coreboot",
+            "repo": "libgfxinit",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Ada drivers for various MCU and sensors.",
+          "title": "ada-drivers-library",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-04T22:45:34Z",
+            "owner": "AdaCore",
+            "repo": "Ada_Drivers_Library",
+            "stars": 272
+          }
+        },
+        {
+          "children": [],
+          "description": "emBRICK driver and support for emBRICK in Ada.",
+          "title": "em-brick",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2016-04-25T11:45:54Z",
+            "owner": "it-cosmos",
+            "repo": "emBRICK",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada/SPARK driver for the DecaWave DW1000 ultra-wideband (UWB) radio chip.",
+          "title": "dw1000",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2019-09-25T21:27:57Z",
+            "owner": "damaki",
+            "repo": "DW1000",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada/SPARK drivers to control the on-board peripherals of the DecaWave EVB1000 evaluation board.",
+          "title": "evb1000",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-05-08T15:15:32Z",
+            "owner": "damaki",
+            "repo": "EVB1000",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "This contains explorations, for AdaPilot, of implementing drivers for the AdaRacer MCU, using the Ravenscar profile of Ada 2012 from AdaCore and device bindings generated using SVD2Ada.",
+          "title": "multiplexed-io",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2016-10-18T15:46:25Z",
+            "owner": "simonjwright",
+            "repo": "multiplexed-io",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Drivers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "This project shows how to initialize a SensorTile and how to send sensor data over BLE from a SensorTile to a suitable host.",
+          "title": "sensortile",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-04-07T19:43:27Z",
+            "owner": "morbos",
+            "repo": "STM32",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "Embedded network stack (Ethernet driver, IPv4, UDP, DNS, DHCP, NTP) for STM32F746 or STM32F769.",
+          "title": "ada-enet",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-12-23T22:16:49Z",
+            "owner": "stcarrez",
+            "repo": "ada-enet",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Communication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "This library is trying to be a simple widget tool kit for embedded platforms.",
+          "title": "giza",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2017-04-22T21:10:14Z",
+            "owner": "Fabien-Chouteau",
+            "repo": "Giza",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple audio synthesis library that can run on bareboard devices.",
+          "title": "ada-synth-lib",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2020-05-31T11:48:38Z",
+            "owner": "raph-amiard",
+            "repo": "ada-synth-lib",
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "Sprite and tile 2D render engine designed to run on micro-controllers.",
+          "title": "geste",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2020-01-29T11:58:40Z",
+            "owner": "Fabien-Chouteau",
+            "repo": "GESTE",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "Multi-robot task allocation library.",
+          "title": "sancta",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2014-06-10T15:04:10Z",
+            "owner": "mosteo",
+            "repo": "sancta",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "STM32 UI library and tools (graphs, images, 12 hour clock).",
+          "title": "stm32-ui",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2018-12-02T16:43:38Z",
+            "owner": "stcarrez",
+            "repo": "stm32-ui",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada binding for the Pebble Time smartwatch.",
+          "title": "ada-time",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2015-11-12T09:58:15Z",
+            "owner": "Fabien-Chouteau",
+            "repo": "Ada_Time",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Ada bindings for wiringPi.",
+          "title": "wiring-pi-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2018-09-01T20:15:00Z",
+            "owner": "jklmnn",
+            "repo": "wiringPi-Ada",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Waking up with a fresh cup of coffee.",
+          "title": "coffee-clock",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2017-05-16T13:48:06Z",
+            "owner": "Fabien-Chouteau",
+            "repo": "coffee-clock",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Square Inch Synthesizer.",
+          "title": "noise-nugget",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2018-10-21T16:44:14Z",
+            "owner": "Fabien-Chouteau",
+            "repo": "noise-nugget",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Simulated railway network in SPARK/Ada.",
+          "title": "spark-railway-demo",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2016-11-02T12:39:13Z",
+            "owner": "Fabien-Chouteau",
+            "repo": "spark-railway-demo",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Raspberry Pi using a BBC Micro:Bit as temperature sensor.",
+          "title": "micro-tem-pi",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2018-09-05T12:48:36Z",
+            "owner": "jklmnn",
+            "repo": "MicroTemPi",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Wee Noise Maker is an open source pocket synthesizer.",
+          "title": "wee-noise-maker",
+          "repo_info": {
+            "archived": true,
+            "language": "Ada",
+            "last_commit": "2024-04-25T05:27:21Z",
+            "owner": "Fabien-Chouteau",
+            "repo": "Wee-Noise-Maker",
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "Program that interacts with the AdaFruit BNO055 breakout board in order to send orientation data to a host computer.",
+          "title": "lunar-lander-rotation",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2020-07-16T13:35:24Z",
+            "owner": "AdaCore",
+            "repo": "Lunar_Lander_Rotation_Demo",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.",
+          "title": "railway-simulation",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2019-11-22T11:00:43Z",
+            "owner": "AdaCore",
+            "repo": "SPARK_Railway_Simulation_Demo",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Ethernet traffic monitor on a STM32F746 board.",
+          "title": "etherscope",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2017-12-03T09:24:51Z",
+            "owner": "stcarrez",
+            "repo": "etherscope",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A free, portable Zip Archive Manager.",
+          "title": "azip",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-02T17:16:08Z",
+            "owner": "zertovitch",
+            "repo": "azip",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "A program for drawing or retouching {picture}s in LaTeX.",
+          "title": "texcad",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-07-20T20:49:17Z",
+            "owner": "zertovitch",
+            "repo": "texcad",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "The Corporate Bullshit Generator.",
+          "title": "cbsg",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-12-02T20:26:18Z",
+            "owner": "zertovitch",
+            "repo": "cbsg",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Graphical () file manager for Linux.",
+          "title": "hunter",
+          "repo_info": {
+            "archived": true,
+            "language": "Ada",
+            "last_commit": "2022-06-01T03:23:12Z",
+            "owner": "thindil",
+            "repo": "hunter",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Office"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Authoritative DNS server verified by SPARK/Ada.",
+          "title": "ironsides"
+        },
+        {
+          "children": [],
+          "description": "A Web browser with safety focus.",
+          "title": "wasabee",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-17T17:52:45Z",
+            "owner": "zertovitch",
+            "repo": "wasabee",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Yet Another Static Site Generator (like Jekyll or Hugo).",
+          "title": "yass",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-09-05T11:58:56Z",
+            "owner": "yet-another-static-site-generator",
+            "repo": "yass",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Apollo 11 lunar lander simulator (/Cairo).",
+          "title": "eagle-lander",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2020-07-26T16:56:40Z",
+            "owner": "Fabien-Chouteau",
+            "repo": "eagle-lander",
+            "stars": 32
+          }
+        },
+        {
+          "children": [],
+          "description": "VHDL 2008/93/87 simulator.",
+          "title": "ghdl",
+          "repo_info": {
+            "archived": false,
+            "language": "VHDL",
+            "last_commit": "2026-02-07T20:32:10Z",
+            "owner": "ghdl",
+            "repo": "ghdl",
+            "stars": 2748
+          }
+        },
+        {
+          "children": [],
+          "description": "Distributed Simulation of Transport Networks.",
+          "title": "parallel-sim",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2013-06-15T16:09:31Z",
+            "owner": "JulianSchutsch",
+            "repo": "ParallelSim",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Multi engine/algorithms COVID-19 simulator. Ada, Qt code under the hood.",
+          "title": "covid-19-simulator",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2020-10-29T10:34:19Z",
+            "owner": "ohenley",
+            "repo": "COVID-19_Simulator",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Mars Polar Lander (Crash) Simulator (, ).",
+          "title": "mars-mpl",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2020-10-20T08:54:29Z",
+            "owner": "Jellix",
+            "repo": "mars_mpl",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Moving airplane causes Stereo Sound Doppler effect ().",
+          "title": "doppler-effect-sample2",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-08-29T16:20:01Z",
+            "owner": "moriyasum",
+            "repo": "GtkAda_OpenAL_Doppler_Effect_Sample2",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Simulation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "HTML generator for Ada95 library unit specs.",
+          "title": "adabrowse"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Implementation of Turbo Pascal 7.0 units with .",
+              "title": "tp7-ada-gtkada",
+              "repo_info": {
+                "archived": false,
+                "language": "Ada",
+                "last_commit": "2021-07-31T08:59:43Z",
+                "owner": "Blady-Com",
+                "repo": "tp7ada-gtkada",
+                "stars": 3
+              }
+            },
+            {
+              "children": [],
+              "description": "Implementation of Turbo Pascal 7.0 units with .",
+              "title": "tp7-ada-gnoga",
+              "repo_info": {
+                "archived": false,
+                "language": "Ada",
+                "last_commit": "2022-02-14T20:42:37Z",
+                "owner": "Blady-Com",
+                "repo": "tp7ada-gnoga",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "A Pascal to Ada translator.",
+          "title": "pascal-to-ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-10-20T14:24:22Z",
+            "owner": "zertovitch",
+            "repo": "pascal-to-ada",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Code generator for Tiled the map editor.",
+          "title": "tiled-code-gen",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-01-05T17:05:22Z",
+            "owner": "Fabien-Chouteau",
+            "repo": "tiled-code-gen",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Translator for a Java valid source code in Ada source code.",
+          "title": "j2ada",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-07-03T14:29:52Z",
+            "owner": "Blady-Com",
+            "repo": "j2ada",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "SofCheck AdaMagic is ACATS validated and certified Ada compiler targeting C and/or C++ (4 command line switches for fine tuning). ObjectAda and several other commercial compilers share engine with AdaMagic. MapuSoft distributes AdaMagic as integral component of AppCOE.",
+          "title": "ada-magic"
+        },
+        {
+          "children": [],
+          "description": "Ada binding generator for C++.",
+          "title": "cappulada",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-12-09T12:02:37Z",
+            "owner": "Componolit",
+            "repo": "Cappulada",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Converts Ada sources' ASIS representation to XML, so as to make it easier to develop reporting and transformational tools using (for example) XSLT.",
+          "title": "asis2xml",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2019-05-01T15:03:06Z",
+            "owner": "simonjwright",
+            "repo": "asis2xml",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Helper conversor of Visual Basic Microsoft Windows Forms applications to Gtk and Ada.",
+          "title": "winforms2gtk",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-01-25T10:55:49Z",
+            "owner": "fdesp87",
+            "repo": "winforms2gtk",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Generators and Translators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The SPARforte programming language is an Ada-like scripting language, previously known as business user shell (bush). Can be used as interactive UNIX shell replacement.",
+          "title": "sparforte"
+        },
+        {
+          "children": [],
+          "description": "Non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.",
+          "title": "gsh",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-07-22T21:28:50Z",
+            "owner": "AdaCore",
+            "repo": "gsh",
+            "stars": 118
+          }
+        },
+        {
+          "children": [],
+          "description": "An Ada 2012 emulation of Charles Babbage's Analytical Engine.",
+          "title": "analytical-engine",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2022-05-13T16:21:11Z",
+            "owner": "simonjwright",
+            "repo": "analytical-engine",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "A component to aid in writing shell-like applications in Ada.",
+          "title": "a-shell",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-11-04T20:22:18Z",
+            "owner": "charlie5",
+            "repo": "aShell",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Data General DASHER terminal emulator using .",
+          "title": "dashera",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2024-05-20T14:51:39Z",
+            "owner": "SMerrony",
+            "repo": "dashera",
+            "stars": 37
+          }
+        },
+        {
+          "children": [],
+          "description": "Assembler/Emulator for a fictional CPU architecture. IDE implemented in .",
+          "title": "yotroc",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2020-01-06T19:26:23Z",
+            "owner": "docandrew",
+            "repo": "YOTROC",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Shells, Interpreters and Emulators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Ada implementation of D'Hondt electoral result calculator.",
+          "title": "dhondt",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2019-12-13T12:20:08Z",
+            "owner": "simonjwright",
+            "repo": "dhondt",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "William Whitaker's WORDS, a Latin dictionary.",
+          "title": "whitakers-words",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-01-21T17:50:13Z",
+            "owner": "mk270",
+            "repo": "whitakers-words",
+            "stars": 306
+          }
+        },
+        {
+          "children": [],
+          "description": "Chess engine written in Ada.",
+          "title": "ada-chess",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2023-11-09T20:52:28Z",
+            "owner": "adachess",
+            "repo": "AdaChess",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "An Ada/SPARK alternative to sudo and doas.",
+          "title": "adage",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2025-04-26T14:49:40Z",
+            "owner": "atalii",
+            "repo": "adage",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Misc"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:34:20.648Z",
+    "original_repository": "ohenley/awesome-ada",
+    "source_repository": "v1nvn/enhansome-ada",
+    "source_repository_description": null,
+    "title": "Awesome Ada with stars"
+  }
+}

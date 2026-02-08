@@ -1,0 +1,1981 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Core Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network.",
+          "title": "algokit-cli",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T10:04:45Z",
+            "owner": "algorandfoundation",
+            "repo": "algokit-cli",
+            "stars": 190
+          }
+        },
+        {
+          "children": [],
+          "description": "Visual local network explorer & app builder for testing Algorand applications (deploy contracts, inspect state, craft transactions).",
+          "title": "algokit-lora"
+        },
+        {
+          "children": [],
+          "description": "Official Algorand AlgoKit documentation.",
+          "title": "AlgoKit Docs"
+        },
+        {
+          "children": [],
+          "description": "Algorand AlgoKit Utils for Python.",
+          "title": "algokit-utils-py",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T22:05:22Z",
+            "owner": "algorandfoundation",
+            "repo": "algokit-utils-py",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Multi-language core primitives (Rust + FFI bindings) powering higher-level AlgoKit tooling (crypto, encoding, protocol logic).",
+          "title": "algokit-core",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-08T01:57:12Z",
+            "owner": "algorandfoundation",
+            "repo": "algokit-core",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Algorand AlgoKit Utils for TypeScript.",
+          "title": "algokit-utils-ts",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T15:36:07Z",
+            "owner": "algorandfoundation",
+            "repo": "algokit-utils-ts",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "Algorand AlgoKit Typed Client Generator for Python.",
+          "title": "algokit-client-generator-py",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-26T14:51:19Z",
+            "owner": "algorandfoundation",
+            "repo": "algokit-client-generator-py",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Algorand AlgoKit Typed Client Generator for TypeScript.",
+          "title": "algokit-client-generator-ts",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-05T21:11:47Z",
+            "owner": "algorandfoundation",
+            "repo": "algokit-client-generator-ts",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "An official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.",
+          "title": "puya",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T23:40:30Z",
+            "owner": "algorandfoundation",
+            "repo": "puya",
+            "stars": 95
+          }
+        },
+        {
+          "children": [],
+          "description": "An official TypeScript to TEAL compiler frontend, leveraging the core puya compiler, allows you to write code to execute on the Algorand Virtual Machine (AVM) with TypeScript syntax.",
+          "title": "puya-ts",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T22:15:45Z",
+            "owner": "algorandfoundation",
+            "repo": "puya-ts",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "A Python library for unit testing Algorand Python smart contracts without the need to interact with the Algorand Blockchain.",
+          "title": "algorand-python-testing",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-23T06:28:31Z",
+            "owner": "algorandfoundation",
+            "repo": "algorand-python-testing",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "A TypeScript library for unit testing Algorand smart contracts without the need to interact with the Algorand Blockchain.",
+          "title": "algorand-TypeScript-testing",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-28T01:17:45Z",
+            "owner": "algorandfoundation",
+            "repo": "algorand-TypeScript-testing",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "VSCode extension for line‑by‑line debugging of Algorand Python, TypeScript, TealScript and raw TEAL smart contracts via AVM traces.",
+          "title": "algokit-avm-vscode-debugger",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-26T15:18:50Z",
+            "owner": "algorandfoundation",
+            "repo": "algokit-avm-vscode-debugger",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "AlgoKit"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Official AlgoKit's Algorand Python template provides a production-ready baseline for developing and deploying smart contracts in Python.",
+          "title": "algokit-python-template",
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2025-12-30T02:56:24Z",
+            "owner": "algorandfoundation",
+            "repo": "algokit-python-template",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Official AlgoKit's Algorand TypeScript template provides a production-ready baseline for developing and deploying smart contracts in TypeScript.",
+          "title": "algokit-TypeScript-template",
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-01-28T01:54:27Z",
+            "owner": "algorandfoundation",
+            "repo": "algokit-TypeScript-template",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Official AlgoKit React frontend template provides a production-ready baseline for developing and deploying React frontend applications with Algorand dependencies integrated. Also serves as a reference for template builders on implementing standalone algokit frontend templates.",
+          "title": "algokit-react-frontend-template",
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-02-03T00:55:52Z",
+            "owner": "algorandfoundation",
+            "repo": "algokit-react-frontend-template",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Official AlgoKit fullstack template provides a production-ready baseline for developing and deploying fullstack applications with Algorand dependencies integrated. Also serves as a reference for template builders on how to combine standalone algokit templates under one full stack template project.",
+          "title": "algokit-fullstack-template",
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2025-12-23T15:49:42Z",
+            "owner": "algorandfoundation",
+            "repo": "algokit-fullstack-template",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "AlgoKit Templates"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Crash course slide deck.",
+          "title": "Algorand School",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-25T10:57:22Z",
+            "owner": "cusma",
+            "repo": "algorand-school",
+            "stars": 80
+          }
+        },
+        {
+          "children": [],
+          "description": "PyTeal crash course video lectures.",
+          "title": "Zero to Hero PyTeal"
+        },
+        {
+          "children": [],
+          "description": "Proof of Stake Blockchain Efficiency Framework.",
+          "title": "Algorand, efficient self-sustaining Blockchain"
+        },
+        {
+          "children": [],
+          "description": "Understanding Algorand's working principles and its efficiency.",
+          "title": "Algorand Efficiency"
+        },
+        {
+          "children": [],
+          "description": "Introduction to the Algorand Virtual Machine architecture and Algorand Smart Contracts (aka Applications).",
+          "title": "Introduction to AVM and Applications"
+        },
+        {
+          "children": [],
+          "description": "Walkthrough of PyTeal, the Python framework for developing Algorand smart contracts (with ).",
+          "title": "Introduction to PyTeal"
+        },
+        {
+          "children": [],
+          "description": "Using PyTeal to develop  Smart Contracts on Algorand. Final live coding section (with ).",
+          "title": "PyTeal ABI Smart Contracts"
+        },
+        {
+          "children": [],
+          "description": "Framework for Algorand Smart Contract development, client and testing based on PyTeal. Live coding session (with ).",
+          "title": "Beaker"
+        },
+        {
+          "children": [],
+          "description": "Introduction Algorand and an analysis on Algorand's inner workings.",
+          "title": "Dissecting Algorand"
+        },
+        {
+          "children": [],
+          "description": "Curated learning path for Algorand developers.",
+          "title": "Zero to Hero Blockchain Algorand",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-18T21:06:46Z",
+            "owner": "VKappaKV",
+            "repo": "Zero-To-Hero-blockchain-Algorand",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Crash Courses"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Dapp that can be used to mint ARC3 compliant NFTs.",
+          "title": "arc3.xyz",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-10-12T12:10:48Z",
+            "owner": "barnjamin",
+            "repo": "arc3.xyz",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "On-chain NFT auction using smart contracts.",
+          "title": "Auction Demo",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-04-07T02:31:01Z",
+            "owner": "algorand",
+            "repo": "auction-demo",
+            "stars": 55
+          }
+        },
+        {
+          "children": [],
+          "description": "Session wallet to allow persisted wallet connections across multiple wallets.",
+          "title": "Algorand Session Wallet",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-07-21T18:11:26Z",
+            "owner": "barnjamin",
+            "repo": "algorand-session-wallet",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Collection of all smart contracts used by AlgoWorld, written in PyTeal.",
+          "title": "AlgoWorld-Contracts",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T14:35:54Z",
+            "owner": "algoworldNFT",
+            "repo": "algoworld-contracts",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "Free and trustless ASA swapper, powered by Algorand Smart Signatures.",
+          "title": "AlgoWorld-Swapper",
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-06-19T16:57:46Z",
+            "owner": "algoworldNFT",
+            "repo": "algoworld-swapper",
+            "stars": 23
+          }
+        },
+        {
+          "children": [],
+          "description": "Algorand WalletConnect demo.",
+          "title": "WalletConnect Example DApp",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-29T16:49:00Z",
+            "owner": "algorand",
+            "repo": "walletconnect-example-dapp",
+            "stars": 23
+          }
+        },
+        {
+          "children": [],
+          "description": "A tiny macOS menu bar app for tracking ASA prices from TinyMan.",
+          "title": "TinyBar App",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T14:55:16Z",
+            "owner": "aorumbayev",
+            "repo": "tinybar",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "First Algorand mini-puzzle-game. Written in Python+PyTEAL by .",
+          "title": "algonim",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-04T18:29:51Z",
+            "owner": "cusma",
+            "repo": "algonim",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Claim the Crown and the Sceptre of Algorand Realm! Written in Python+PyTEAL by .",
+          "title": "algorealm",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-05T09:55:14Z",
+            "owner": "algorealm",
+            "repo": "algorealm",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "A web CLI Emulator version of algorealm cli game by @aorumbayev.",
+          "title": "algorealm-ui",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T17:57:45Z",
+            "owner": "algorealm",
+            "repo": "algorealm-ui",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by .",
+          "title": "minter",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-24T08:05:18Z",
+            "owner": "algofishexe",
+            "repo": "minter",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Algorand Vanity Address Generator from .",
+          "title": "algovanity",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-01-25T04:15:10Z",
+            "owner": "Ripe",
+            "repo": "algovanity",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Go-based Algorand vanity address generator.",
+          "title": "galvanity",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-09-23T10:19:46Z",
+            "owner": "shmutalov",
+            "repo": "galvanity",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Generate PyTeal from (mostly) normal Python.",
+          "title": "genpyteal",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-27T16:08:48Z",
+            "owner": "runvnc",
+            "repo": "genpyteal",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Public, permissionless, decentralized and uncensorable free speech protocol.",
+          "title": "AgorHash",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-19T18:07:01Z",
+            "owner": "bafio89",
+            "repo": "agorhash",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Uinversal QRCode generator module for Algorand ARC-26 URIs.",
+          "title": "QRCode Generator",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-09T08:07:17Z",
+            "owner": "emg110",
+            "repo": "algorand-qrcode",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "Mint randomly generated mandelbrot fractals with embedded ARC69 tags. (Archived on Dec 31, 2023)",
+          "title": "algofractals",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-03-01T04:04:14Z",
+            "owner": "aorumbayev",
+            "repo": "algofractals",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Free and unofficial Algorand governance reward calculator. Hosted on GitHub Pages.",
+          "title": "algorewards"
+        },
+        {
+          "children": [],
+          "description": "A React.js based component library for rapid deployment of Algorand Dapps.",
+          "title": "Pipeline-UI",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-06-22T06:52:17Z",
+            "owner": "headline-design",
+            "repo": "pipeline-ui",
+            "stars": 30
+          }
+        },
+        {
+          "children": [],
+          "description": "Song ownership gone decentralized via microDAOs.",
+          "title": "STOI"
+        },
+        {
+          "children": [],
+          "description": "A suite of tools designed to aid everyday hodlers of ALGO who participate in the Algorand ecosystem.",
+          "title": "AlgoTables"
+        },
+        {
+          "children": [],
+          "description": "A tiny cron job that issues a  if public Algorand Nodes (AlgoExplorer, AlgoNode and etc) are not healthy.",
+          "title": "AlgoPing",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-15T02:14:53Z",
+            "owner": "aorumbayev",
+            "repo": "algoping",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Algorand's unofficial ecosystem directory of projects.",
+          "title": "directorydotalgo"
+        },
+        {
+          "children": [],
+          "description": "Python backend for  that generates taxable transactions CSVs for Algorand and other Blockchains.",
+          "title": "staketaxcsv",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-17T23:44:02Z",
+            "owner": "hodgerpodger",
+            "repo": "staketaxcsv",
+            "stars": 269
+          }
+        },
+        {
+          "children": [],
+          "description": "backend repository with project hosted at .",
+          "title": "Automated Prediction Market Maker on Algorand",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-22T18:54:29Z",
+            "owner": "dspytdao",
+            "repo": "Algo_AMM",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Single Deposit App Algorand.",
+          "title": "AlgoDepo",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-30T05:16:51Z",
+            "owner": "dspytdao",
+            "repo": "AlgoDepo",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "AMM Pool App Algorand.",
+          "title": "AlgoDeposit",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-22T11:09:57Z",
+            "owner": "dspytdao",
+            "repo": "AlgoDeposit",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Transaction building tool for Algorand blockchain.",
+          "title": "txnDuck",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-30T06:17:26Z",
+            "owner": "No-Cash-7970",
+            "repo": "txnDuck",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Terminal UI for exploring Algorand blockchain.",
+          "title": "lazylora",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-02T11:03:23Z",
+            "owner": "aorumbayev",
+            "repo": "lazylora",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Bulk operations tool for Algorand.",
+          "title": "wen-tools",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-17T14:58:39Z",
+            "owner": "LoafPickleWW",
+            "repo": "wen-tools",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "Track and visualize Algorand node rewards using Nodely API.",
+          "title": "algonoderewards",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-31T08:45:47Z",
+            "owner": "cryptomalgo",
+            "repo": "algonoderewards",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool to browse xGov voting data and proposals.",
+          "title": "xGov-Guru",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-10T23:25:46Z",
+            "owner": "SilentRhetoric",
+            "repo": "xGov-Guru",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "AlgoKit community template for quick starting a smart contract project with tealish and algojig.",
+          "title": "algokit-tealish-template",
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2023-05-17T18:47:17Z",
+            "owner": "aorumbayev",
+            "repo": "algokit-tealish-template",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Algokit community template for quick starting a smart contract project interacting with goracle.",
+          "title": "algokit-goracle-template",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-09T10:22:11Z",
+            "owner": "GoracleNetwork",
+            "repo": "algokit_default_template",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Algokit community template for quick starting a dapp frontend project interacting with Subtopia platform.",
+          "title": "algokit-subtopia-template",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-05T17:22:00Z",
+            "owner": "subtopia-algo",
+            "repo": "algokit-subtopia-template",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "AlgoKit Community Templates"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Development & Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Language SDKs & Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The Vertices SDK provides developers with easy device access to interact with Blockchains.",
+          "title": "vertices-algorand-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-11-18T14:12:08Z",
+            "owner": "vertices-network",
+            "repo": "c-vertices-sdk",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Official Unreal Engine plugin for Algorand Blockchain Platform.",
+          "title": "unreal-algorand-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-09-08T14:53:46Z",
+            "owner": "Wisdom-Labs",
+            "repo": "Algorand-Unreal-Engine-SDK",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Algorand C++ SDK: This repo is providing C++ sdk on algorand chain.",
+          "title": "cplusplus-algorand-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-12-14T17:59:35Z",
+            "owner": "Wisdom-Labs",
+            "repo": "Algorand-CPlusPlus-SDK",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "C/C++"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Algorand's official implementation in Go.",
+          "title": "go-algorand",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-08T01:00:27Z",
+            "owner": "algorand",
+            "repo": "go-algorand",
+            "stars": 1424
+          }
+        },
+        {
+          "children": [],
+          "description": "The Algorand Golang SDK.",
+          "title": "go-algorand-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T23:31:17Z",
+            "owner": "algorand",
+            "repo": "go-algorand-sdk",
+            "stars": 188
+          }
+        },
+        {
+          "children": [],
+          "description": "Algorand's data pipeline framework.",
+          "title": "conduit",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-12T21:14:54Z",
+            "owner": "algorand",
+            "repo": "conduit",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Algorand PHP SDK created by .",
+          "title": "php-algorand-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-08-23T16:34:12Z",
+            "owner": "ffsolutions",
+            "repo": "php-algorand-sdk",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "Algorand PHP SDK created by .",
+          "title": "algorand-php",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-10-07T19:47:06Z",
+            "owner": "RootSoft",
+            "repo": "algorand-php",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The Algorand Python SDK.",
+          "title": "py-algorand-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-23T16:53:06Z",
+            "owner": "algorand",
+            "repo": "py-algorand-sdk",
+            "stars": 277
+          }
+        },
+        {
+          "children": [],
+          "description": "Tinyman Python SDK.",
+          "title": "tinyman-py-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-18T07:13:33Z",
+            "owner": "tinymanorg",
+            "repo": "tinyman-py-sdk",
+            "stars": 115
+          }
+        },
+        {
+          "children": [],
+          "description": "Smart ASA PyTeal reference implementation based on ARC-20.",
+          "title": "smart-asa",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T16:41:06Z",
+            "owner": "algorandlabs",
+            "repo": "smart-asa",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The Algorand JavaScript SDK & Examples.",
+          "title": "js-algorand-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T10:33:20Z",
+            "owner": "algorand",
+            "repo": "js-algorand-sdk",
+            "stars": 297
+          }
+        },
+        {
+          "children": [],
+          "description": "Framework to automate development of Algorand Assets and Smart Contracts.",
+          "title": "algo-builder",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-18T22:44:29Z",
+            "owner": "scale-it",
+            "repo": "algo-builder",
+            "stars": 127
+          }
+        },
+        {
+          "children": [],
+          "description": "Dapps templates for Algo Builder.",
+          "title": "algo-builder-templates",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-06T09:00:45Z",
+            "owner": "scale-it",
+            "repo": "algo-builder-templates",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "An easier Algo sdk for front-end dapps (TypeScript).",
+          "title": "algonaut.js",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-02T20:23:37Z",
+            "owner": "thencc",
+            "repo": "algonautjs",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "JavaScript SDK for integrating Pera Wallet to web applications.",
+          "title": "perawallet-connect",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-27T10:00:26Z",
+            "owner": "perawallet",
+            "repo": "connect",
+            "stars": 71
+          }
+        },
+        {
+          "children": [],
+          "description": "JavaScript SDK for integrating Defly Wallet to web applications.",
+          "title": "defly-connect",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-09T05:07:04Z",
+            "owner": "blockshake-io",
+            "repo": "defly-connect",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Subtopia JavaScript SDK providing convenient interfaces to interact with Subtopia platform.",
+          "title": "subtopia-js",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T01:41:11Z",
+            "owner": "subtopia-algo",
+            "repo": "subtopia-js",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "SolidJS wallet integration library for Algorand.",
+          "title": "solid-algo-wallets",
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-12-01T02:43:59Z",
+            "owner": "SilentRhetoric",
+            "repo": "solid-algo-wallets",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "JavaScript & TypeScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Algorand .NET SDK created by .",
+          "title": "dotnet-algorand-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-05-24T00:22:33Z",
+            "owner": "RileyGe",
+            "repo": "dotnet-algorand-sdk",
+            "stars": 40
+          }
+        },
+        {
+          "children": [],
+          "description": "An Algorand SDK for Unity. Use the Algorand Blockchain in your video game.",
+          "title": "unity-algorand-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-28T05:59:01Z",
+            "owner": "CareBoo",
+            "repo": "unity-algorand-sdk",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "Quick and dirty Unity SDK based on .NET Algorand SDK by RileyGe.",
+          "title": "unity-algorand-sdk-based-on-net-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-11-10T08:46:48Z",
+            "owner": "Vytek",
+            "repo": "AlgorandUnitySDK",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Algorand .NET SDK maintained by .",
+          "title": "dotnet-alogrand-sdk (2)",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-19T09:41:19Z",
+            "owner": "FrankSzendzielarz",
+            "repo": "dotnet-algorand-sdk",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Tinyman .NET SDK.",
+          "title": "dotnet-tinyman-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-05-13T12:06:35Z",
+            "owner": "geoffodonnell",
+            "repo": "dotnet-tinyman-sdk",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Yieldly .NET SDK.",
+          "title": "dotnet-yieldly-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-08T16:12:03Z",
+            "owner": "geoffodonnell",
+            "repo": "dotnet-yieldly-sdk",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Algorand PowerShell Module.",
+          "title": "powershell-algorand-module",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-30T13:32:06Z",
+            "owner": "geoffodonnell",
+            "repo": "powershell-algorand-module",
+            "stars": 2
+          }
+        }
+      ],
+      "title": ".NET"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Algorand wallet official implementation in Swift.",
+          "title": "algorand-wallet",
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2024-08-26T14:42:19Z",
+            "owner": "algorand",
+            "repo": "algorand-wallet",
+            "stars": 196
+          }
+        },
+        {
+          "children": [],
+          "description": "A Swift SDK for interacting with the Algorand Blockchain.",
+          "title": "swift-algorand-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-09-29T10:16:38Z",
+            "owner": "Jesulonimi21",
+            "repo": "Swift-Algorand-Sdk",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Swift"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Smart Contract Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Algorand Smart Contracts in Python.",
+          "title": "pyteal",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-14T17:00:25Z",
+            "owner": "algorand",
+            "repo": "pyteal",
+            "stars": 293
+          }
+        },
+        {
+          "children": [],
+          "description": "A domain-specific language for building cross chain decentralized applications (DApps).",
+          "title": "reach"
+        },
+        {
+          "children": [],
+          "description": "An expressive high level language for the Algorand block chain that compiles to TEAL code.",
+          "title": "aqua-compiler",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-07-27T06:37:25Z",
+            "owner": "optio-labs",
+            "repo": "aqua-compiler",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "A domain-specific language for specifying Algorand smart contracts, which compiles into TEAL scripts.",
+          "title": "algoml",
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2022-06-14T10:11:27Z",
+            "owner": "petitnau",
+            "repo": "algoml",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "A high level language for Algorand ASC1 and TEAL.",
+          "title": "tealang",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-04-16T19:20:49Z",
+            "owner": "pzbitskiy",
+            "repo": "tealang",
+            "stars": 37
+          }
+        },
+        {
+          "children": [],
+          "description": "Readable Algorand VM language enabling procedural-style TEAL focused on clarity.",
+          "title": "tealish"
+        },
+        {
+          "children": [],
+          "description": "Enables Algorand smart contract development with native TypeScript syntax, tooling, and IDE support.",
+          "title": "TEALScript",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-17T00:59:37Z",
+            "owner": "algorand-devrel",
+            "repo": "TEALScript",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "Languages & Compilers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Pythonic smart contract framework (PyTEAL DSL wrappers, client + testing utilities). (Canonical repo)",
+          "title": "beaker",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-22T15:16:40Z",
+            "owner": "algorandfoundation",
+            "repo": "beaker",
+            "stars": 95
+          }
+        },
+        {
+          "children": [],
+          "description": "PyTEAL utilities library.",
+          "title": "pyteal-utils",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-07T02:27:40Z",
+            "owner": "algorand",
+            "repo": "pyteal-utils",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Algorand Virtual Machine and TEAL Semantics in K framework. Aids with testing and formal verification of smart contracts.",
+          "title": "avm-semantics",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-01T18:06:07Z",
+            "owner": "runtimeverification",
+            "repo": "avm-semantics",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Debt Algorand Standard Application providing reference implementations and interfaces for tokenizing debt instruments (bonds, loans, commercial papers) that conform to ACTUS standards.",
+          "title": "d-asa",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-02T11:54:36Z",
+            "owner": "cusma",
+            "repo": "d-asa",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Frameworks & Utilities"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IDEs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Algorand VS Code Extension.",
+          "title": "Obsidian Labs/vscode-algorand",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-16T07:25:49Z",
+            "owner": "ObsidianLabs",
+            "repo": "vscode-algorand",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Debug teal with minimal AVM configuration inside VSCode.",
+          "title": "optio-labs/teal-debugger-extension",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-07-05T23:12:45Z",
+            "owner": "optio-labs",
+            "repo": "teal-debugger-extension",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "VSCode"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Algorand's TEAL blackbox testing toolkit.",
+          "title": "graviton",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-20T21:09:35Z",
+            "owner": "algorand",
+            "repo": "graviton",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Standalone AVM Debug Adapter Protocol implementation powering advanced contract debugging tooling.",
+          "title": "algokit-avm-debugger",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-26T15:19:07Z",
+            "owner": "algorandfoundation",
+            "repo": "algokit-avm-debugger",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.",
+          "title": "tealer",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-08T14:11:08Z",
+            "owner": "crytic",
+            "repo": "tealer",
+            "stars": 63
+          }
+        },
+        {
+          "children": [],
+          "description": "Web app for deploying + testing smart contracts ().",
+          "title": "irulan",
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-06-22T15:58:07Z",
+            "owner": "thencc",
+            "repo": "irulan",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool for testing Algorand smart contracts.",
+          "title": "algojig",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-15T13:36:51Z",
+            "owner": "Hipo",
+            "repo": "algojig",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Quick and easy TEAL code debugging by Hipo labs.",
+          "title": "tealinspector",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-17T05:17:33Z",
+            "owner": "Hipo",
+            "repo": "tealinspector",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Testing & Debugging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Fast way to create and configure an Algorand development environment.",
+          "title": "Algorand Sandbox",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-10-24T13:19:54Z",
+            "owner": "algorand",
+            "repo": "sandbox",
+            "stars": 241
+          }
+        },
+        {
+          "children": [],
+          "description": "Docker Hub image for faster local development and CI/CD usage. (Archived on Jan 2, 2024)",
+          "title": "Algorand Sandbox Dev",
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2024-01-02T09:25:44Z",
+            "owner": "MakerXStudio",
+            "repo": "algorand-sandbox-dev",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Algod Docker Hub image from Algorand Inc.",
+          "title": "Official Algod Container"
+        },
+        {
+          "children": [],
+          "description": "Conduit Docker Hub image from Algorand Inc.",
+          "title": "Official Conduit Container"
+        }
+      ],
+      "title": "Deployment & Environment"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Wallets & Asset Interaction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Secure, open source and community driven wallet for both mobile and desktop devices. Maintained by the team behind official Algorand Wallet.",
+          "title": "Pera Wallet"
+        },
+        {
+          "children": [],
+          "description": "Algorand Wallet you'll love.",
+          "title": "Method Wallet"
+        },
+        {
+          "children": [],
+          "description": "Defly is an Algorand wallet with great suit of integrated DeFi features.",
+          "title": "Defly Wallet"
+        },
+        {
+          "children": [],
+          "description": "Multi-cryptocurrency wallet with Algorand support.",
+          "title": "Exodus"
+        },
+        {
+          "children": [],
+          "description": "AWallet is an open source, HTML only, corporate friendly, and secure Algorand wallet.",
+          "title": "A-Wallet"
+        },
+        {
+          "children": [],
+          "description": "Self-hosted service to bind passkeys to crypto keypairs plus P2P signaling for secure peer connections.",
+          "title": "Liquid Auth",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-26T11:31:59Z",
+            "owner": "algorandfoundation",
+            "repo": "liquid-auth",
+            "stars": 32
+          }
+        },
+        {
+          "children": [],
+          "description": "Open source Algorand wallet web extension built in React and TypeScript.",
+          "title": "Kibisis",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-10T08:20:50Z",
+            "owner": "kibis-is",
+            "repo": "web-extension",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Wallet Providers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "React hooks for using Algorand compatible wallets with web applications. Developed by .",
+          "title": "use-wallet",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-04T08:30:01Z",
+            "owner": "txnlab",
+            "repo": "use-wallet",
+            "stars": 100
+          }
+        },
+        {
+          "children": [],
+          "description": "TypeScript library for integrating Algorand wallets into decentralized applications.",
+          "title": "use-wallet-js",
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-06-15T18:16:23Z",
+            "owner": "TxnLab",
+            "repo": "use-wallet-js",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "A Rust library for GPU accelerated Algorand 'vanity' address generation.",
+          "title": "rsagg",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-27T22:04:48Z",
+            "owner": "dragmz",
+            "repo": "rsagg",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Wallet Development"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Infrastructure & Ecosystem Services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Dev Notes for Archival Node, Indexer Setup (and more).",
+          "title": "Algorand - The Undocumented Docs",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-05T21:06:47Z",
+            "owner": "AlgoChads",
+            "repo": "algorand-undoc-docs",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Free Node/Indexer APIs, Node running FAQ, Node/Indexer daily snapshots.",
+          "title": "Nodely"
+        },
+        {
+          "children": [],
+          "description": "Terminal UI for remote Algorand node management.",
+          "title": "Algorand Node UI",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-07-07T15:23:48Z",
+            "owner": "algorand",
+            "repo": "node-ui",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "Terminal user interface for running and managing Algorand nodes locally.",
+          "title": "nodekit",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-09T10:28:05Z",
+            "owner": "algorandfoundation",
+            "repo": "nodekit",
+            "stars": 55
+          }
+        },
+        {
+          "children": [],
+          "description": "Open, fast, flexible, and decentralised cross-chain data indexer for Algorand ().",
+          "title": "SubQuery"
+        },
+        {
+          "children": [],
+          "description": "A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.",
+          "title": "AlloCTRL",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-07-28T19:37:23Z",
+            "owner": "AlgoNode",
+            "repo": "alloctrl",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Contracts, Node Daemon, and UI for Algorand 'The Reti' consensus incentives, enabling decentralized staking pools to broaden participation and enhance network security.",
+          "title": "reti",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-03T20:53:43Z",
+            "owner": "algorandfoundation",
+            "repo": "reti",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Nodes & Consensus Participation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Web3 security suite: smart contract audits plus analytics (Skynet, SkyTrace) for Algorand projects.",
+          "title": "Certik"
+        },
+        {
+          "children": [],
+          "description": "A Blockchain lab based in Poland, offering auditing services for Algorand smart contracts.",
+          "title": "UlamLabs"
+        },
+        {
+          "children": [],
+          "description": "Smart contract analysis and verification by the team who audited platforms like Algofi, FolksFinance, Yieldly and other prominent DeFi platforms in the ecosystem.",
+          "title": "Runtime Verification"
+        },
+        {
+          "children": [],
+          "description": "Secure your Algorand Smart Contract with credible security auditing solutions.",
+          "title": "Immunebytes"
+        },
+        {
+          "children": [],
+          "description": "Move your Blockchain project securely and successfully into production or onto mainnet. Company can help you assess, design, customize, deploy and manage Blockchain and digital ledger technology systems so you can confidently leverage security as a powerful differentiator in this dynamic market.",
+          "title": "KudelskiSecurity"
+        },
+        {
+          "children": [],
+          "description": "A growing collection of audit reports in the Algorand ecosystem maintained by .",
+          "title": "algorand-ecosystem-audits",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-31T11:58:51Z",
+            "owner": "blockshake-io",
+            "repo": "algorand-ecosystem-audits",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Smart contract audits, crypto wallet audit and other penetration testing services in Algorand ecosystem with clients such as Folks.Finance, Pera, Algorand Foundation, Deflex (Defly/Alammex), GARD, Venue.One and others. Reports are signed by velocity.vantagepoint.algo and published at .",
+          "title": "Vantage Point Blockchain",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-06-19T22:20:29Z",
+            "owner": "vantagepointreports",
+            "repo": "releases",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Comprising a team of Web3 Security Researchers, Tenset Security is dedicated to leaving no stone unturned in their pursuit of security excellence. They have a  in discovering high-severity vulnerabilities specifically within Algorand projects, emphasizing their expertise and commitment to the Algorand ecosystem.",
+          "title": "Tenset Security",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-14T11:01:23Z",
+            "owner": "tenset-security",
+            "repo": "audits",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Security Auditing Services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "An Algorand Assistant Expert with access to all Algorand documentation and chain data built on OpenAI's ChatGPT platform by GoPlausible.",
+          "title": "Algorand-GPT"
+        },
+        {
+          "children": [],
+          "description": "A W3C DID resolver assistant built on OpenAI's ChatGPT platform by GoPlausible.",
+          "title": "DID-GPT"
+        },
+        {
+          "children": [],
+          "description": "Algorand Model Context Protocol (Server & Client) by GoPlausible.",
+          "title": "algorand-mcp",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-17T06:40:18Z",
+            "owner": "GoPlausible",
+            "repo": "algorand-mcp",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "Algorand remote SSE MCP Server Cloudflare Worker.",
+          "title": "algorand-remote-mcp",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-01T10:24:45Z",
+            "owner": "GoPlausible",
+            "repo": "algorand-remote-mcp",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Algorand ARC-56 to MCP server converter.",
+          "title": "arcontextify",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-18T23:39:06Z",
+            "owner": "aorumbayev",
+            "repo": "arcontextify",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "AI and Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Application Platforms & Examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A decentralized trading protocol, AMM and platform.",
+          "title": "Tinyman"
+        },
+        {
+          "children": [],
+          "description": "Decentralised Automated Market Maker (AMM) built on the Algorand protocol.",
+          "title": "Pact"
+        },
+        {
+          "children": [],
+          "description": "Tokenized real estate investing platform.",
+          "title": "Lofty.ai"
+        },
+        {
+          "children": [],
+          "description": "Decentralized capital markets protocol.",
+          "title": "Folks.finance"
+        },
+        {
+          "children": [],
+          "description": "Decentralized liquidity-as-a-service.",
+          "title": "Cometa.farm"
+        },
+        {
+          "children": [],
+          "description": "A Decentralized Cross-Chain Protocol supporitng Algorand, Polygon, Ethereum and other EVM chains.",
+          "title": "aramid.finance"
+        },
+        {
+          "children": [],
+          "description": "Stable and secure digital assets for various purposes such as purchases, remittances and as a store of value.",
+          "title": "stabilitas.finance"
+        },
+        {
+          "children": [],
+          "description": "A decentralized ecosystem of tools primary used as a tool to track and trend Algorand Standard Assets and Liquidity Pools across the ecosystem. The platform also provides a decentralized swap and a launchpad platform.",
+          "title": "vestige.fi"
+        },
+        {
+          "children": [],
+          "description": "Efficient swap routing SDK on Algorand by Folks Finance.",
+          "title": "folks-router",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-09T07:37:47Z",
+            "owner": "Folks-Finance",
+            "repo": "folks-router",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Official Folks Finance Algorand Protocol SDK.",
+          "title": "Folks-Finance/algorand-js-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-15T16:14:24Z",
+            "owner": "Folks-Finance",
+            "repo": "folks-finance-js-sdk",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "DeFi Platforms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Official voting tool by Algorand Foundation. The repository contains a voting tool that allows for creation and facilitation of immutable, tamperproof voting using the Algorand Blockchain.",
+          "title": "nft_voting_tool",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-19T10:40:38Z",
+            "owner": "algorandfoundation",
+            "repo": "nft_voting_tool",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Decentralized message standard for on-chain voting on Algorand developed by @scholtz.",
+          "title": "vote-coin-demo",
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-09-08T11:42:20Z",
+            "owner": "scholtz",
+            "repo": "vote-coin-demo",
+            "stars": 600
+          }
+        }
+      ],
+      "title": "Decentralized voting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Standards"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.",
+          "title": "ARC3",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T15:36:02Z",
+            "owner": "algorandfoundation",
+            "repo": "ARCs",
+            "stars": 138
+          }
+        },
+        {
+          "children": [],
+          "description": "Application Binary Interface.",
+          "title": "ARC4",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T15:36:02Z",
+            "owner": "algorandfoundation",
+            "repo": "ARCs",
+            "stars": 138
+          }
+        },
+        {
+          "children": [],
+          "description": "Application Specification.",
+          "title": "ARC32",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T15:36:02Z",
+            "owner": "algorandfoundation",
+            "repo": "ARCs",
+            "stars": 138
+          }
+        },
+        {
+          "children": [],
+          "description": "Extended and improved Application Specification.",
+          "title": "ARC56",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T15:36:02Z",
+            "owner": "algorandfoundation",
+            "repo": "ARCs",
+            "stars": 138
+          }
+        },
+        {
+          "children": [],
+          "description": "One of several Algorand Standard Asset Parameters Conventions.",
+          "title": "ARC69",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T15:36:02Z",
+            "owner": "algorandfoundation",
+            "repo": "ARCs",
+            "stars": 138
+          }
+        }
+      ],
+      "title": "Algorand Request for Comments"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.\nSpecial thanks to everyone who forked or starred the repository ❤️\n\n",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:32:46.923Z",
+    "original_repository": "aorumbayev/awesome-algorand",
+    "source_repository": "v1nvn/enhansome-algorand",
+    "source_repository_description": null,
+    "title": "Awesome Algorand with stars"
+  }
+}

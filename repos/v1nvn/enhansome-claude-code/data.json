@@ -1,0 +1,2527 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - This repository is about pre-commit-hooks in general, but the  and related  documentation is exemplary. Thorough but not verbose. Unlike a lot of   files, it doesn't primarily consist in shouting at Claude in all-caps. Great learning resource. Also, hooks.",
+          "title": "pre-commit-hooks",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-24T06:43:05Z",
+            "owner": "aRustyDev",
+            "repo": "pre-commit-hooks",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A comprehensive Claude Code plugin with 65 specialized skills covering full-stack development across a wide range of specific frameworks. Features 9 project workflow commands for Jira/Confluence integration and, notably, an interesting approach to context engineering via a   command that surfaces Claude's hidden assumptions about your project. This is a smart thing to do.",
+          "title": "Fullstack Dev Skills",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T17:08:02Z",
+            "owner": "jeffallan",
+            "repo": "claude-skills",
+            "stars": 342
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Read-only PostgreSQL query skill for Claude Code. Executes SELECT/SHOW/EXPLAIN/WITH queries across configured databases with strict validation, timeouts, and row limits. Supports multiple connections with descriptions for database selection.",
+          "title": "read-only-postgres",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-05T12:36:42Z",
+            "owner": "jawwadfirdousi",
+            "repo": "agent-skills",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.",
+          "title": "awesome-ralph",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-03T08:34:43Z",
+            "owner": "snwfdhmp",
+            "repo": "awesome-ralph",
+            "stars": 681
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A standalone Bash script for Behavior-Driven Development with Ralph Wiggum Loop. In principle, while running unattended, the script can keep code and requirements in sync, but in practice it still requires interactive human supervision, so it supports both modes. The script is standalone and can be modified and committed into your project.",
+          "title": "ralph-wiggum-bdd",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-06T10:00:15Z",
+            "owner": "marcindulak",
+            "repo": "ralph-wiggum-bdd",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Latest Additions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Agent Skills 🤖"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - Members from the Signal Foundation with some really great tips and tricks on how to turn your operating system into an instrument of total surveillance, and why some companies are doing this really awesome thing. [warning: YouTube link].",
+          "title": "AI Agent, AI Spy"
+        },
+        {
+          "children": [],
+          "description": "by  - Immensely detailed set of skills for DevOps Engineers (or anyone who has to deploy code, really). Works with validations, generators, shell scripts and CLI tools to create high quality IaC code for about any platform you've ever struggled painfully to work with. Worth downloading even just as a source of documentation.",
+          "title": "cc-devops-skills",
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-02-03T10:51:34Z",
+            "owner": "akin-ozer",
+            "repo": "cc-devops-skills",
+            "stars": 58
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A well-organized, well-written set of plugins covering core developer activities, such as working with common cloud platforms like GitHub, Azure, MongoDB, and popular services such as Tavily, Playwright, and more. Clear, not overly-opinionated, and compatible with a few other providers.",
+          "title": "Claude Codex Settings",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T19:58:30Z",
+            "owner": "fcakyon",
+            "repo": "claude-codex-settings",
+            "stars": 404
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Claude Code skill that automates mountain route research for North American peaks. Aggregates data from 10+ mountaineering sources like Mountaineers.org, PeakBagger.com and SummitPost.com to generate detailed route beta reports with weather, avalanche conditions, and trip reports.",
+          "title": "Claude Mountaineering Skills",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T01:56:04Z",
+            "owner": "dreamiurg",
+            "repo": "claude-mountaineering-skills",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Enables users to prompt codex from claude code. Unlike the raw codex mcp server, this skill infers parameters such as model, reasoning effort, sandboxing from your prompt or asks you to specify them. It also simplifies continuing prior codex sessions so that codex can continue with the prior context.",
+          "title": "Codex Skill",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-07T13:18:30Z",
+            "owner": "skills-directory",
+            "repo": "skill-codex",
+            "stars": 544
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A very pragmatic set of well-designed agents, skills, and commands, built around a discipline of turning past mistakes and errors into lessons and opportunities for future growth and improvement. Good documentation.",
+          "title": "Compound Engineering Plugin",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-05T18:25:52Z",
+            "owner": "EveryInc",
+            "repo": "compound-engineering-plugin",
+            "stars": 7441
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on improving agent result quality.",
+          "title": "Context Engineering Kit",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T04:12:25Z",
+            "owner": "NeoLabHQ",
+            "repo": "context-engineering-kit",
+            "stars": 401
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Top-notch, well-written resources covering \"just about everything\" from core engineering domains. What's nice about this \"everything-\" store is most of the resources have significant standalone value and unlike some all-encompassing frameworks, although you can opt in to the author's own specific workflow patterns if you choose, the individual resources offer exemplary patterns in (just about) every Claude Code feature you can find (apologies to the Output Styles devotees).",
+          "title": "Everything Claude Code",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T12:17:41Z",
+            "owner": "affaan-m",
+            "repo": "everything-claude-code",
+            "stars": 41896
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A comprehensive Claude Code plugin with 65 specialized skills covering full-stack development across a wide range of specific frameworks. Features 9 project workflow commands for Jira/Confluence integration and, notably, an interesting approach to context engineering via a   command that surfaces Claude's hidden assumptions about your project. This is a smart thing to do.",
+          "title": "Fullstack Dev Skills",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T17:08:02Z",
+            "owner": "jeffallan",
+            "repo": "claude-skills",
+            "stars": 342
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Read-only PostgreSQL query skill for Claude Code. Executes SELECT/SHOW/EXPLAIN/WITH queries across configured databases with strict validation, timeouts, and row limits. Supports multiple connections with descriptions for database selection.",
+          "title": "read-only-postgres",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-05T12:36:42Z",
+            "owner": "jawwadfirdousi",
+            "repo": "agent-skills",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC - from planning, reviewing, testing, debugging... Well written, well organized, and adaptable. The author refers to them as \"superpowers\", but many of them are just consolidating engineering best practices - which sometimes does feel like a superpower when working with Claude Code.",
+          "title": "Superpowers",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-07T02:26:24Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 47086
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A very professional collection of over a dozen security-focused skills for code auditing and vulnerability detection. Includes skills for static analysis with CodeQL and Semgrep, variant analysis across codebases, fix verification, and differential code review.",
+          "title": "Trail of Bits Security Skills",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T16:34:45Z",
+            "owner": "trailofbits",
+            "repo": "skills",
+            "stars": 2445
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A well-balanced, \"down-to-Earth\" set of sub agents, skills, and commands,  that are well-organized, easy to read, and a healthy focus on \"meta\"-skills/agents, like \"skill-auditor\", hook creation, etc. - the kind of things you can adapt to your workflow, and not the other way around.",
+          "title": "TÂCHES Claude Code Resources",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-26T02:10:30Z",
+            "owner": "glittercowboy",
+            "repo": "taches-cc-resources",
+            "stars": 1280
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Easily generate web assets from Claude Code including favicons, app icons (PWA), and social media meta images (Open Graph) for Facebook, Twitter, WhatsApp, and LinkedIn. Handles image resizing, text-to-image generation, emojis, and provides proper HTML meta tags.",
+          "title": "Web Assets Generator Skill",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-28T09:11:01Z",
+            "owner": "alonw0",
+            "repo": "web-asset-generator",
+            "stars": 177
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Workflows & Knowledge Guides 🧠"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - A principled, spec-driven workflow that transforms large problems into focused, incremental missions using Claude Code's specialized sub agents. Includes slash-commands, sub agents, and specialized workflows designed for specific parts of the SDLC.",
+          "title": "AB Method",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-10T21:57:17Z",
+            "owner": "ayoubben18",
+            "repo": "ab-method",
+            "stars": 139
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A comprehensive and well-documented collection of agentic patterns from Anthropic docs, with colorful Mermaid diagrams and code examples for each pattern. Covers Subagent Orchestration, Progressive Skills, Parallel Tool Calling, Master-Clone Architecture, Wizard Workflows, and more. Also compatible with other providers.",
+          "title": "Agentic Workflow Patterns",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-08T13:10:04Z",
+            "owner": "ThibautMelen",
+            "repo": "agentic-workflow-patterns",
+            "stars": 164
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Provides a well-structured set of commands for publishing and maintaining a blogging platform, including commands for creating posts, managing categories, and handling media files.",
+          "title": "Blogging Platform Instructions",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-26T02:39:57Z",
+            "owner": "cloudartisan",
+            "repo": "cloudartisan.github.io",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A mirror of the Anthropic © PBC documentation pages for Claude Code, updated every few hours. Can come in handy when trying to stay on top of the ever-expanding feature-set of Dr. Claw D. Code, Ph.D.",
+          "title": "Claude Code Documentation Mirror",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-08T03:57:56Z",
+            "owner": "ericbuess",
+            "repo": "claude-code-docs",
+            "stars": 666
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Collection of best practices, tips, and techniques for Claude Code development workflows, enhanced with distributable plugins.",
+          "title": "Claude Code Handbook"
+        },
+        {
+          "children": [],
+          "description": "by  - A remarkably innovative approach to working with Skills, the centerpiece of which being a technique that leverages hooks to ensure that Claude intelligently selects and activates the appropriate Skill given the current context. Well-documented and adaptable to different projects and workflows.",
+          "title": "Claude Code Infrastructure Showcase",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-10-31T01:41:31Z",
+            "owner": "diet103",
+            "repo": "claude-code-infrastructure-showcase",
+            "stars": 8827
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Really comprehensive and feature-packed project-management workflow for Claude Code. Numerous specialized agents, slash-commands, and strong documentation.",
+          "title": "Claude Code PM",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-25T14:45:09Z",
+            "owner": "automazeio",
+            "repo": "ccpm",
+            "stars": 7105
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - This is either the work of a prolific genius, or a very clever bot (or both), although it hardly matters because the quality is so good - an index of 75+ Claude Code repositories published by the author - and I'm not talking about slop. CMS, system design, deep research, IoT, agentic workflows, server management, personal health... If you spot the lie, let me know, otherwise please check these out.",
+          "title": "Claude Code Repos Index",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T12:35:44Z",
+            "owner": "danielrosehill",
+            "repo": "Claude-Code-Repos-Index",
+            "stars": 81
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - All parts of Claude Code's system prompt, including builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, Bash cmd, security review, agent creation, etc.). Updated for each Claude Code version.",
+          "title": "Claude Code System Prompts",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T18:43:13Z",
+            "owner": "Piebald-AI",
+            "repo": "claude-code-system-prompts",
+            "stars": 4206
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A nice variety of 35+ brief but information-dense Claude Code tips covering voice input, system prompt patching, container workflows for risky tasks, conversation cloning(!), multi-model orchestration with Gemini CLI, and plenty more. Nice demos, working scripts, a plugin, I'd say this probably has a little something for everyone.",
+          "title": "Claude Code Tips",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-05T20:09:47Z",
+            "owner": "ykdojo",
+            "repo": "claude-code-tips",
+            "stars": 2088
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Professional development environment for Claude Code with spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks, and modular rules integration. A bit \"heavyweight\" but feature-packed and has wide coverage.",
+          "title": "Claude CodePro",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T21:37:15Z",
+            "owner": "maxritter",
+            "repo": "claude-codepro",
+            "stars": 444
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A mirror of the Anthropic© PBC documentation site for Claude/Code, but with bonus features like full-text search and query-time updates - a nice companion to  for up-to-the-minute, fully-indexed information so that Claude Code can read about itself.",
+          "title": "claude-code-docs",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T04:07:27Z",
+            "owner": "costiash",
+            "repo": "claude-code-docs",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Well-crafted, wide selection of Claude Code hooks, slash commands, subagent files, and more, covering a range of specialized tasks and workflows. Better resources than your average \"Claude-template-for-everything\" site.",
+          "title": "ClaudoPro Directory",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-29T11:56:52Z",
+            "owner": "JSONbored",
+            "repo": "claudepro-directory",
+            "stars": 171
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Provides a systematic approach to priming Claude Code with comprehensive project context through specialized commands for different project scenarios and development contexts.",
+          "title": "Context Priming",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-10T19:05:53Z",
+            "owner": "disler",
+            "repo": "just-prompt",
+            "stars": 705
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A tailored workflow for enabling automated UI/UX design review, including specialized sub agents, slash commands,  excerpts, and more. Covers a broad range of criteria from responsive design to accessibility.",
+          "title": "Design Review Workflow",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-14T07:33:32Z",
+            "owner": "OneRedOak",
+            "repo": "claude-code-workflows",
+            "stars": 3592
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Transform your Laravel TALL (Tailwind, AlpineJS, Laravel, Livewire) stack development with comprehensive Claude Code configurations that provide intelligent assistance, systematic workflows, and domain expert consultation.",
+          "title": "Laravel TALL Stack AI Development Starter Kit",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-08T14:35:08Z",
+            "owner": "tott",
+            "repo": "laravel-tall-claude-ai-configs",
+            "stars": 38
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A really interesting analysis of how coding agents like Claude Code are designed. It attempts to break an agent down into its fundamental parts and reconstruct it with minimal code. Great learning resource. Final product is a rudimentary agent with skills, sub-agents, and a todo-list in roughly a few hundred lines of Python.",
+          "title": "Learn Claude Code",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-01T03:30:04Z",
+            "owner": "shareAI-lab",
+            "repo": "learn-claude-code",
+            "stars": 16668
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A creative educational framework for Claude Code, inspired by the \"FASTER\" approach to self-teaching. Ships with a variety of agents, slash commands, and tools that enable Claude Code to help you progress at your own pace, employing well-established pedagogical techniques like active learning and spaced repetition.",
+          "title": "learn-faster-kit",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-04T05:33:17Z",
+            "owner": "cheukyin175",
+            "repo": "learn-faster-kit",
+            "stars": 74
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Amazing comprehensive set of comments for code analysis, QA, design, documentation, project structure, project management, optimization, and many more.",
+          "title": "n8n_agent",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-16T17:30:38Z",
+            "owner": "kingler",
+            "repo": "n8n_agent",
+            "stars": 222
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Provides a structured set of commands for bootstrapping and managing a new project, including meta-commands for creating and editing custom slash-commands.",
+          "title": "Project Bootstrapping and Task Management",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-03T20:24:58Z",
+            "owner": "steadycursor",
+            "repo": "steadystart",
+            "stars": 62
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Really comprehensive set of commands for all aspects of SDLC.",
+          "title": "Project Management, Implementation, Planning, and Release",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-09T12:20:07Z",
+            "owner": "scopecraft",
+            "repo": "command",
+            "stars": 170
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A set of commands that provide a comprehensive workflow system for managing projects, including task management, code review, and deployment processes.",
+          "title": "Project Workflow System",
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-02-04T03:58:46Z",
+            "owner": "harperreed",
+            "repo": "dotfiles",
+            "stars": 295
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Structured development workflow enforcing separation between Research, Innovate, Plan, Execute, and Review phases. Features consolidated subagents for context-efficiency, branch-aware memory bank, and strict mode enforcement for guided development.",
+          "title": "RIPER Workflow",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-08T00:20:22Z",
+            "owner": "tony",
+            "repo": "claude-code-riper-5",
+            "stars": 58
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A detailed blog post explaining the author's process for shipping a product with Claude Code, including CLAUDE.md files and other interesting resources.",
+          "title": "Shipping Real Code w/ Claude"
+        },
+        {
+          "children": [],
+          "description": "by  - A broader project management workflow for Claude Code that encompasses not just a set of commands, but a system of documents, guidelines, and processes to facilitate project planning and execution.",
+          "title": "Simone",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-26T12:11:09Z",
+            "owner": "Helmi",
+            "repo": "claude-simone",
+            "stars": 543
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.",
+          "title": "awesome-ralph",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-03T08:34:43Z",
+            "owner": "snwfdhmp",
+            "repo": "awesome-ralph",
+            "stars": 681
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - An autonomous AI development framework that enables Claude Code to work iteratively on projects until completion. Features intelligent exit detection, rate limiting, circuit breaker patterns, and comprehensive safety guardrails to prevent infinite loops and API overuse. Built with Bash, integrated with tmux for live monitoring, and includes 75+ comprehensive tests.",
+          "title": "Ralph for Claude Code",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-07T23:59:06Z",
+            "owner": "frankbria",
+            "repo": "ralph-claude-code",
+            "stars": 6461
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A Claude Code plugin that provides an autonomous AI copywriter,  integrating the Ralph loop with customized knowledge bases for market research agents. The agents do the research, Ralph writes the copy, you stay in bed. Whether or not you practice Ralph-Driven Development (RDD), I think these projects are interesting and creative explorations of general agentic patterns.",
+          "title": "Ralph Wiggum Marketer",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-01T23:16:28Z",
+            "owner": "muratcankoylan",
+            "repo": "ralph-wiggum-marketer",
+            "stars": 620
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Ralph Orchestrator implements the simple but effective \"Ralph Wiggum\" technique for autonomous task completion, continuously running an AI agent against a prompt file until the task is marked as complete or limits are reached. This implementation provides a robust, well-tested, and feature-complete orchestration system for AI-driven development. Also cited in the Anthropic Ralph plugin documentation.",
+          "title": "ralph-orchestrator",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-08T00:05:58Z",
+            "owner": "mikeyobrien",
+            "repo": "ralph-orchestrator",
+            "stars": 1691
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A standalone Bash script for Behavior-Driven Development with Ralph Wiggum Loop. In principle, while running unattended, the script can keep code and requirements in sync, but in practice it still requires interactive human supervision, so it supports both modes. The script is standalone and can be modified and committed into your project.",
+          "title": "ralph-wiggum-bdd",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-06T10:00:15Z",
+            "owner": "marcindulak",
+            "repo": "ralph-wiggum-bdd",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A remarkably detailed and comprehensive guide to the Ralph Wiggum technique, featuring well-written theoretical commentary paired with practical guidelines and advice.",
+          "title": "The Ralph Playbook",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-22T13:46:23Z",
+            "owner": "ClaytonFarr",
+            "repo": "ralph-playbook",
+            "stars": 737
+          }
+        }
+      ],
+      "title": "Ralph Wiggum"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tooling 🧰"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - An opinionated approach to productive development with Claude Code.",
+          "title": "cc-sessions",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-17T23:16:51Z",
+            "owner": "GWUDCAP",
+            "repo": "cc-sessions",
+            "stars": 1525
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - High-performance Go implementation of Claude Code hooks and utilities. Provides smart linting, testing, and statusline generation with minimal overhead.",
+          "title": "cc-tools",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-22T00:19:51Z",
+            "owner": "Veraticus",
+            "repo": "cc-tools",
+            "stars": 46
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Interactive CLI tool for discovering and managing Claude Code configuration files and slash commands with a beautiful terminal UI.",
+          "title": "ccexp",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T17:07:46Z",
+            "owner": "nyatinte",
+            "repo": "ccexp",
+            "stars": 248
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Like the shell history command but for your Claude Code sessions. Easily list all Bash or \"Bash-mode\" () commands Claude Code ran in a session for reference.",
+          "title": "cchistory",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-01T09:09:51Z",
+            "owner": "eckardt",
+            "repo": "cchistory",
+            "stars": 100
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A humble but handy utility for viewing Claude Code  conversation files in a pretty HTML UI.",
+          "title": "cclogviewer",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-08T08:13:50Z",
+            "owner": "Brads3290",
+            "repo": "cclogviewer",
+            "stars": 65
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Incredibly awesome collection of resources from every category in this list, presented with a neatly polished UI, great features like usage dashboard, analytics, and everything from slash commands to hooks to agents. An awesome companion for this awesome list.",
+          "title": "Claude Code Templates",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T04:00:28Z",
+            "owner": "davila7",
+            "repo": "claude-code-templates",
+            "stars": 19701
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A tool that adds small enhancements to Claude Code.",
+          "title": "Claude Composer",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-31T02:29:50Z",
+            "owner": "possibilities",
+            "repo": "claude-composer",
+            "stars": 677
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly through pull requests and issues. This integration allows Claude to analyze repositories, answer technical questions, and help developers understand and improve their codebase through simple @mentions.",
+          "title": "Claude Hub",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-27T14:06:25Z",
+            "owner": "claude-did-this",
+            "repo": "claude-hub",
+            "stars": 343
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Efficiently restore context from previous Claude Code sessions by analyzing session files and git history. Features multi-factor data collection across numerous Claude Code capacities with time-based filtering. Uses tail-based parsing for efficient handling of large session files up to 2GB. Includes both a CLI tool for manual analysis and a Claude Code skill for automatic session restoration.",
+          "title": "Claude Session Restore",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-26T07:54:26Z",
+            "owner": "ZENG3LD",
+            "repo": "claude-session-restore",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Well-crafted toolset for session continuity, featuring skills/commands to avoid compaction and recover context across sessions with cross-agent handoff between Claude Code and Codex CLI. Includes a fast Rust/Tantivy-powered full-text session search (TUI for humans, skill/CLI for agents), tmux-cli skill + command for interacting with scripts and CLI agents, and safety hooks to block dangerous commands.",
+          "title": "claude-code-tools",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T19:26:30Z",
+            "owner": "pchalasani",
+            "repo": "claude-code-tools",
+            "stars": 1388
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - This is a starter template repository designed to provide a complete development environment for Claude-Code with pre-configured MCP servers and tools for AI-powered development workflows. The repository is intentionally minimal, containing only configuration templates for three primary systems: Claude Code, Serena, and Task Master.",
+          "title": "claude-starter-kit",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-06T11:34:34Z",
+            "owner": "serpro69",
+            "repo": "claude-starter-kit",
+            "stars": 50
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Impressive CLI toolkit providing auto-save checkpointing, code quality hooks, specification generation and execution, and 20+ specialized subagents including oracle (gpt-5), code-reviewer (6-aspect deep analysis), ai-sdk-expert (Vercel AI SDK), typescript-expert and many more for Claude Code workflows.",
+          "title": "claudekit",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-15T07:31:03Z",
+            "owner": "carlrannaberg",
+            "repo": "claudekit",
+            "stars": 581
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.",
+          "title": "Container Use",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-08T14:24:16Z",
+            "owner": "dagger",
+            "repo": "container-use",
+            "stars": 3527
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A systematic development framework that transforms Claude Code into a proactive development partner. Features 4-phase planning methodology, specialized quality agents, and structured workflows that help AI produce production-ready code on first try.",
+          "title": "ContextKit",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-27T12:49:42Z",
+            "owner": "FlineDev",
+            "repo": "ContextKit",
+            "stars": 145
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Full-text search your Claude Code sessions. Run  in terminal, type to search, Enter to resume. Alternative to .",
+          "title": "recall",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-14T07:49:57Z",
+            "owner": "zippoxer",
+            "repo": "recall",
+            "stars": 114
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Claude Code and other AI agents in both directions.",
+          "title": "Rulesync",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T03:43:42Z",
+            "owner": "dyoshikawa",
+            "repo": "rulesync",
+            "stars": 764
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A self-contained Docker runner that forwards your current workspace into a safe(r) isolated docker container, where you still have access to your Claude Code settings, authentication, ssh agent, pgp, optionally aws keys etc.",
+          "title": "run-claude-docker",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-08-14T21:01:05Z",
+            "owner": "icanhasjonas",
+            "repo": "run-claude-docker",
+            "stars": 68
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A push-to-talk speech transcription setup for Linux using a Python MCP server. Runs locally in Docker with no external API calls. Your speech is recorded, transcribed into text, and then sent to Claude running in a Tmux session.",
+          "title": "stt-mcp-server-linux",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-10T20:37:40Z",
+            "owner": "marcindulak",
+            "repo": "stt-mcp-server-linux",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A versatile configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies, such as \"Introspection\" and \"Orchestration\".",
+          "title": "SuperClaude",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-18T14:20:17Z",
+            "owner": "SuperClaude-Org",
+            "repo": "SuperClaude_Framework",
+            "stars": 20703
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Command-line tool to customize your Claude Code styling.",
+          "title": "tweakcc",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T00:11:31Z",
+            "owner": "Piebald-AI",
+            "repo": "tweakcc",
+            "stars": 1019
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Analyzes your Claude Code prompts locally (using CC), provides intelligent session analysis and actionable strategic guidance - works in the statusline and produces very pretty HTML reports as well. Easy to install and remove.",
+          "title": "Vibe-Log",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-10T22:44:22Z",
+            "owner": "vibe-log",
+            "repo": "vibe-log-cli",
+            "stars": 281
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Run Claude Code in a Docker container with git worktrees as volume mounts to enable safer usage of  for frictionless one-shotting prompts. Allows users to spin up multiple instances of Claude Code in the background easily with reduced permission fatigue.",
+          "title": "viwo-cli",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-09T05:38:39Z",
+            "owner": "OverseedAI",
+            "repo": "viwo",
+            "stars": 23
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - VoiceMode MCP brings natural conversations to Claude Code. It supports any OpenAI API compatible voice services and installs free and open source voice services (Whisper.cpp and Kokoro-FastAPI).",
+          "title": "VoiceMode MCP",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T12:35:27Z",
+            "owner": "mbailey",
+            "repo": "voicemode",
+            "stars": 699
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - An elegant and user-friendly Claude Code chat interface for VS Code.",
+          "title": "Claude Code Chat"
+        },
+        {
+          "children": [],
+          "description": "by  - claude-code-ide.el integrates Claude Code with Emacs, like Anthropic’s VS Code/IntelliJ extensions. It shows ediff-based code suggestions, pulls LSP/flymake/flycheck diagnostics, and tracks buffer context. It adds an extensible MCP tool support for symbol refs/defs, project metadata, and tree-sitter AST queries.",
+          "title": "claude-code-ide.el",
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-02-02T15:50:13Z",
+            "owner": "manzaltu",
+            "repo": "claude-code-ide.el",
+            "stars": 1323
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - An Emacs interface for Claude Code CLI.",
+          "title": "claude-code.el",
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2025-12-18T22:56:06Z",
+            "owner": "stevemolitor",
+            "repo": "claude-code.el",
+            "stars": 606
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A seamless integration between Claude Code AI assistant and Neovim.",
+          "title": "claude-code.nvim",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-02-04T14:44:51Z",
+            "owner": "greggh",
+            "repo": "claude-code.nvim",
+            "stars": 1800
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A VSCode extension that brings Claude Code directly into your editor with interactive chat interface, session management, intelligent file operations, terminal execution, and real-time streaming responses. Built with Vue 3, TypeScript.",
+          "title": "Claudix - Claude Code for VSCode",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-08T18:25:22Z",
+            "owner": "Haleclipse",
+            "repo": "Claudix",
+            "stars": 939
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A full-fledged desktop application for orchestrating, monitoring, and interacting with Claude Code agents.",
+          "title": "crystal",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-19T16:19:35Z",
+            "owner": "stravu",
+            "repo": "crystal",
+            "stars": 2888
+          }
+        }
+      ],
+      "title": "IDE Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc.",
+          "title": "CC Usage",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-02T21:35:51Z",
+            "owner": "ryoppippi",
+            "repo": "ccusage",
+            "stars": 10443
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Claude Code usage dashboard with a web-UI that would put Tableau to shame. Thoroughly comprehensive metrics, frictionless setup, detailed logging, really really nice UI.",
+          "title": "ccflare",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-24T20:28:28Z",
+            "owner": "snipeship",
+            "repo": "ccflare",
+            "stars": 856
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A well-maintained and feature-enhanced fork of the glorious  usage dashboard by @snipeship (which at the time of writing has not had an update in a few months).  builds on this foundation with some performance enhancements, extended provider support, bug fixes, Docker deployment, and more.",
+          "title": "ccflare -> better-ccflare",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-05T21:17:04Z",
+            "owner": "tombii",
+            "repo": "better-ccflare",
+            "stars": 91
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A real-time terminal-based tool for monitoring Claude Code token usage. It shows live token consumption, burn rate, and predictions for token depletion. Features include visual progress bars, session-aware analytics, and support for multiple subscription plans.",
+          "title": "Claude Code Usage Monitor",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-14T03:40:59Z",
+            "owner": "Maciek-roboblog",
+            "repo": "Claude-Code-Usage-Monitor",
+            "stars": 6446
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Claudex - A web-based browser for exploring your Claude Code conversation history across projects. Indexes your codebase for full-text search. Nice, easy-to-navigate UI. Simple dashboard interface for high-level analytics, and multiple export options as well. (And completely local w/ no telemetry!).",
+          "title": "Claudex",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-13T20:47:38Z",
+            "owner": "kunwar-shah",
+            "repo": "claudex",
+            "stars": 42
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A community-driven leaderboard tool that enables developers to visualize, track, and compete based on their Claude Code usage statistics. It features robust data analytics, GitHub OAuth, data validation, and user-friendly CLI/web submission methods.",
+          "title": "viberank",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-26T03:24:17Z",
+            "owner": "sculptdotfun",
+            "repo": "viberank",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "Usage Monitors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.",
+          "title": "Claude Code Flow",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T03:43:50Z",
+            "owner": "ruvnet",
+            "repo": "claude-code-flow",
+            "stars": 13789
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Claude Squad is a terminal app that manages multiple Claude Code, Codex (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.",
+          "title": "Claude Squad",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-24T21:15:01Z",
+            "owner": "smtg-ai",
+            "repo": "claude-squad",
+            "stars": 5938
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Launch Claude Code session that is connected to a swarm of Claude Code Agents.",
+          "title": "Claude Swarm",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-02-08T03:28:58Z",
+            "owner": "parruda",
+            "repo": "claude-swarm",
+            "stars": 1615
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.",
+          "title": "Claude Task Master",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T13:12:52Z",
+            "owner": "eyaltoledano",
+            "repo": "claude-task-master",
+            "stars": 25346
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A specialized tool to manage context isolation and focused task execution with Claude Code, solving the critical challenge of context length limitations and task focus when working with Claude on complex, multi-step projects.",
+          "title": "Claude Task Runner",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-13T23:43:03Z",
+            "owner": "grahama1970",
+            "repo": "claude-task-runner",
+            "stars": 60
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Spawn and control multiple Claude Codes in parallel from your phone or desktop. Happy Coder runs Claude Code on your hardware, sends push notifications when Claude needs more input or permission, and costs nothing.",
+          "title": "Happy Coder",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-29T03:18:53Z",
+            "owner": "slopus",
+            "repo": "happy",
+            "stars": 10613
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Yet Another Claude Orchestrator - a collection of agents, commands, etc., for shipping production code - but I like this because it's comprehensive, well-written, and one of the few resources that actually uses Output Styles! +10 points!",
+          "title": "The Agentic Startup",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-29T14:40:31Z",
+            "owner": "rsmdt",
+            "repo": "the-startup",
+            "stars": 179
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A Rust CLI tool that lets you delegate development tasks to AI agents running in sandboxed Docker environments. Multiple agents work in parallel, returning git branches for human review.",
+          "title": "TSK - AI Agent Task Manager and Sandbox",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-07T21:47:11Z",
+            "owner": "dtormoen",
+            "repo": "tsk",
+            "stars": 130
+          }
+        }
+      ],
+      "title": "Orchestrators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Status Lines 📊"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - A high-performance Claude Code statusline tool written in Rust with Git integration, usage tracking, interactive TUI configuration, and Claude Code enhancement utilities.",
+          "title": "CCometixLine - Claude Code Statusline",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-25T20:19:56Z",
+            "owner": "Haleclipse",
+            "repo": "CCometixLine",
+            "stars": 1699
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.",
+          "title": "ccstatusline",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-02T21:12:29Z",
+            "owner": "sirmalloc",
+            "repo": "ccstatusline",
+            "stars": 3583
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Enhanced 4-line statusline for Claude Code with themes, cost tracking, and MCP server monitoring.",
+          "title": "claude-code-statusline",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-08T03:42:03Z",
+            "owner": "rz1989s",
+            "repo": "claude-code-statusline",
+            "stars": 328
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A vim-style powerline statusline for Claude Code with real-time usage tracking, git integration, custom themes, and more.",
+          "title": "claude-powerline",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-01T04:28:34Z",
+            "owner": "Owloops",
+            "repo": "claude-powerline",
+            "stars": 763
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - High-performance Rust-based statusline for Claude Code with persistent stats tracking, progress bars, and optional cloud sync. Features SQLite-first persistence, git integration, context progress bars, burn rate calculation, XDG-compliant with theme support (dark/light, NO_COLOR).",
+          "title": "claudia-statusline",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-17T23:21:15Z",
+            "owner": "hagan",
+            "repo": "claudia-statusline",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hooks 🪝"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - Claude outputs American spellings by default, which can have an impact on: professional credibility, compliance, documentation, and more. Britfix converts to British English, with a Claude Code hook for automatic conversion as files are written. Context-aware: handles code files intelligently by only converting comments and docstrings, never identifiers or string literals.",
+          "title": "Britfix",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-17T21:50:34Z",
+            "owner": "Talieisin",
+            "repo": "britfix",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - CCNotify provides desktop notifications for Claude Code, alerting you to input needs or task completion, with one-click jumps back to VS Code and task duration display.",
+          "title": "CC Notify",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-14T02:26:09Z",
+            "owner": "dazuiba",
+            "repo": "CCNotify",
+            "stars": 147
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A lightweight Python SDK with a clean API and good documentation; simplifies the process of writing hooks and integrating them into your codebase, providing a nice abstraction over the JSON configuration files.",
+          "title": "cchooks",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-12T04:35:09Z",
+            "owner": "GowayLee",
+            "repo": "cchooks",
+            "stars": 115
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Lightweight CLI tool for real-time communication between Claude Code sub agents using hooks. Enables multi-agent collaboration with @-mention targeting, live dashboard monitoring, and zero-dependency implementation. [NOTE: At the time of posting, this resource is a little unstable - I'm sharing it anyway, because I think it's incredibly promising and creative. I hope by the time you read this, it is production-ready.].",
+          "title": "Claude Code Hook Comms (HCOM)",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T16:54:23Z",
+            "owner": "aannoo",
+            "repo": "claude-hook-comms",
+            "stars": 69
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A Laravel-inspired PHP SDK for building Claude Code hook responses with a clean, fluent API. This SDK makes it easy to create structured JSON responses for Claude Code hooks using an expressive, chainable interface.",
+          "title": "claude-code-hooks-sdk",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-12T05:58:13Z",
+            "owner": "beyondcode",
+            "repo": "claude-hooks-sdk",
+            "stars": 60
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A TypeScript-based system for configuring and customizing Claude Code hooks with a powerful and flexible interface.",
+          "title": "claude-hooks",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-08T03:19:00Z",
+            "owner": "johnlindquist",
+            "repo": "claude-hooks",
+            "stars": 289
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A no-frills little library that adds delightful OS-native sounds to Claude Code via simple hooks. It really sparks joy.",
+          "title": "Claudio",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-08T21:46:13Z",
+            "owner": "ctoth",
+            "repo": "claudio",
+            "stars": 50
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A hooks-driven system that monitors file operations in real-time and blocks changes that violate TDD principles.",
+          "title": "TDD Guard",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-30T13:54:20Z",
+            "owner": "nizos",
+            "repo": "tdd-guard",
+            "stars": 1742
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Quality check hook for Node.js TypeScript projects with TypeScript compilation. ESLint auto-fixing, and Prettier formatting. Uses SHA256 config caching for < 5ms validation performance during real-time editing.",
+          "title": "TypeScript Quality Hooks",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-26T17:11:20Z",
+            "owner": "bartolli",
+            "repo": "claude-code-typescript-hooks",
+            "stars": 165
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Slash-Commands 🔪"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - Slash command for hook creation - intelligently prompts you through the creation process with smart suggestions based on your project setup (TS, Prettier, ESLint...).",
+          "title": "/create-hook",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T09:45:17Z",
+            "owner": "omril321",
+            "repo": "automated-notebooklm",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A library of slash commands intended specifically to facilitate common and advanced operations on Linux desktop environments (although many would also be useful on Linux servers). Command groups include hardware benchmarking, filesystem organisation, and security posture validation.",
+          "title": "/linux-desktop-slash-commands",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-10-31T22:31:21Z",
+            "owner": "danielrosehill",
+            "repo": "Claude-Code-Linux-Desktop-Slash-Commands",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - Fetches GitHub issue details to create comprehensive implementation specifications, analyzing requirements and planning structured approach with clear implementation steps.",
+          "title": "/analyze-issue",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T04:11:18Z",
+            "owner": "jerseycheese",
+            "repo": "Narraitor",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Creates git commits using conventional commit format with appropriate emojis, following project standards and creating descriptive messages that explain the purpose of changes.",
+          "title": "/commit",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-02T00:09:10Z",
+            "owner": "evmts",
+            "repo": "tevm-monorepo",
+            "stars": 428
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Automates git commit process by selecting the first suggested message, generating structured commits with consistent formatting while skipping manual confirmation and removing Claude co-Contributorship footer.",
+          "title": "/commit-fast",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-03T20:24:58Z",
+            "owner": "steadycursor",
+            "repo": "steadystart",
+            "stars": 62
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Streamlines pull request creation by handling the entire workflow: creating a new branch, committing changes, formatting modified files with Biome, and submitting the PR.",
+          "title": "/create-pr",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-28T10:57:54Z",
+            "owner": "toyamarinyon",
+            "repo": "giselle",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Provides comprehensive PR creation guidance with GitHub CLI, enforcing title conventions, following template structure, and offering concrete command examples with best practices.",
+          "title": "/create-pull-request",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-04T20:38:24Z",
+            "owner": "liam-hq",
+            "repo": "liam",
+            "stars": 4688
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Creates git worktrees for all open PRs or specific branches, handling branches with slashes, cleaning up stale worktrees, and supporting custom branch creation for development.",
+          "title": "/create-worktrees",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-02T00:09:10Z",
+            "owner": "evmts",
+            "repo": "tevm-monorepo",
+            "stars": 428
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Analyzes and fixes GitHub issues using a structured approach with GitHub CLI for issue details, implementing necessary code changes, running tests, and creating proper commit messages.",
+          "title": "/fix-github-issue",
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-03T18:35:58Z",
+            "owner": "jeremymailen",
+            "repo": "kotlinter-gradle",
+            "stars": 703
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Addresses GitHub issues by taking issue number as parameter, analyzing context, implementing solution, and testing/validating the fix for proper integration.",
+          "title": "/fix-issue",
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-02-07T23:21:04Z",
+            "owner": "metabase",
+            "repo": "metabase",
+            "stars": 45881
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Fetches and fixes unresolved PR comments by automatically retrieving feedback, addressing reviewer concerns, making targeted code improvements, and streamlining the review process.",
+          "title": "/fix-pr",
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-02-07T23:21:04Z",
+            "owner": "metabase",
+            "repo": "metabase",
+            "stars": 45881
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Sets up and manages Husky Git hooks by configuring pre-commit hooks, establishing commit message standards, integrating with linting tools, and ensuring code quality on commits.",
+          "title": "/husky",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-02T00:09:10Z",
+            "owner": "evmts",
+            "repo": "tevm-monorepo",
+            "stars": 428
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Updates branch names with proper prefixes and formats, enforcing naming conventions, supporting semantic prefixes, and managing remote branch updates.",
+          "title": "/update-branch-name",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T12:02:50Z",
+            "owner": "giselles-ai",
+            "repo": "giselle",
+            "stars": 480
+          }
+        }
+      ],
+      "title": "Version Control & Git"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - Performs comprehensive code quality and security checks, featuring static analysis integration, security vulnerability scanning, code style enforcement, and detailed reporting.",
+          "title": "/check",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-19T03:16:08Z",
+            "owner": "rygwdn",
+            "repo": "slack-tools",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Provides a menu of advanced code analysis commands for deep inspection, including knowledge graph generation, optimization suggestions, and quality evaluation.",
+          "title": "/code_analysis",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-16T17:30:38Z",
+            "owner": "kingler",
+            "repo": "n8n_agent",
+            "stars": 222
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Analyzes code performance to identify bottlenecks, proposing concrete optimizations with implementation guidance for improved application performance.",
+          "title": "/optimize",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-04-24T16:18:24Z",
+            "owner": "to4iki",
+            "repo": "ai-project-rules",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Creates reproducible test cases for GitHub issues, ensuring tests fail reliably and documenting clear reproduction steps for developers.",
+          "title": "/repro-issue",
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-06-27T11:21:50Z",
+            "owner": "rzykov",
+            "repo": "metabase",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Guides development using Test-Driven Development principles, enforcing Red-Green-Refactor discipline, integrating with git workflow, and managing PR creation.",
+          "title": "/tdd",
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2025-03-07T16:35:10Z",
+            "owner": "zscott",
+            "repo": "pane",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Implements Test-Driven Development by analyzing feature requirements, creating tests first (red), implementing minimal passing code (green), and refactoring while maintaining tests.",
+          "title": "/tdd-implement",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T04:11:18Z",
+            "owner": "jerseycheese",
+            "repo": "Narraitor",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Code Analysis & Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - Primes Claude with comprehensive project understanding by loading repository structure, setting development context, establishing project goals, and defining collaboration parameters.",
+          "title": "/context-prime",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T23:19:27Z",
+            "owner": "elizaOS",
+            "repo": "elizaos.github.io",
+            "stars": 99
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Initializes reference documentation structure with standard doc templates, API reference setup, documentation conventions, and placeholder content generation.",
+          "title": "/initref",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-30T00:23:38Z",
+            "owner": "okuvshynov",
+            "repo": "cubestat",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Loads LLM configuration files to context, importing specific terminology, model configurations, and establishing baseline terminology for AI discussions.",
+          "title": "/load-llms-txt",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-08T00:09:55Z",
+            "owner": "ethpandaops",
+            "repo": "xatu-data",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - References specific files for sparse matrix operations, explains transform usage, compares with previous approaches, and sets data formatting context for development.",
+          "title": "/load_coo_context",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-27T17:12:36Z",
+            "owner": "Mjvolk3",
+            "repo": "torchcell",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Sets context for model training by referencing pipeline files, establishing working context, and preparing for pipeline work with relevant documentation.",
+          "title": "/load_dango_pipeline",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-27T17:12:36Z",
+            "owner": "Mjvolk3",
+            "repo": "torchcell",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Sets up initial project context by viewing directory structure and reading key files, creating standardized context with directory visualization and key documentation focus.",
+          "title": "/prime",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-15T14:45:37Z",
+            "owner": "yzyydev",
+            "repo": "AI-Engineering-Structure",
+            "stars": 32
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Reads all commands and key project files to optimize AI-assisted development by streamlining the process, loading command context, and setting up for better development workflow.",
+          "title": "/rsi",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-20T01:27:58Z",
+            "owner": "ddisisto",
+            "repo": "si",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Context Loading & Priming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - Adds new entries to changelog files while maintaining format consistency, properly documenting changes, and following established project standards for version tracking.",
+          "title": "/add-to-changelog",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-28T15:54:35Z",
+            "owner": "berrydev-ai",
+            "repo": "blockdoc-python",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Analyzes code structure and purpose to create comprehensive documentation detailing inputs/outputs, behavior, user interaction flows, and edge cases with error handling.",
+          "title": "/create-docs",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T04:11:18Z",
+            "owner": "jerseycheese",
+            "repo": "Narraitor",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Generates comprehensive documentation that follows project structure, documenting APIs and usage patterns with consistent formatting for better user understanding.",
+          "title": "/docs",
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-11-27T01:50:12Z",
+            "owner": "slunsford",
+            "repo": "coffee-analytics",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Documents solution approaches for GitHub issues, explaining technical decisions, detailing challenges overcome, and providing implementation context for better understanding.",
+          "title": "/explain-issue-fix",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-17T15:04:48Z",
+            "owner": "hackdays-io",
+            "repo": "toban-contribution-viewer",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Reviews current documentation status, updates implementation progress, reviews phase documents, and maintains documentation consistency across the project.",
+          "title": "/update-docs",
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-05-22T23:41:26Z",
+            "owner": "Consiliency",
+            "repo": "Flutter-Structurizr",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Documentation & Changelogs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - Manages software releases by updating changelogs, reviewing README changes, evaluating version increments, and documenting release changes for better version tracking.",
+          "title": "/release",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-02T01:56:45Z",
+            "owner": "kelp",
+            "repo": "webdown",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Activates virtual environments, runs CI-compatible check scripts, iteratively fixes errors, and ensures all tests pass before completion.",
+          "title": "/run-ci",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-17T15:04:48Z",
+            "owner": "hackdays-io",
+            "repo": "toban-contribution-viewer",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "CI / Deployment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - Guides Claude through creating new custom commands with proper structure by analyzing requirements, templating commands by category, enforcing command standards, and creating supporting documentation.",
+          "title": "/create-command",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-09T12:20:07Z",
+            "owner": "scopecraft",
+            "repo": "command",
+            "stars": 170
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Generates comprehensive product requirement documents outlining detailed specifications, requirements, and features following standardized document structure and format.",
+          "title": "/create-plan",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-28T06:10:23Z",
+            "owner": "hesreallyhim",
+            "repo": "inkverse-fork",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Creates product requirement plans by reading PRP methodology, following template structure, creating comprehensive requirements, and structuring product definitions for development.",
+          "title": "/create-prp",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-09T18:47:47Z",
+            "owner": "Wirasm",
+            "repo": "claudecode-utils",
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Implements GitHub issues with manual review points, following a structured approach with issue number parameter and offering alternative automated mode for efficiency.",
+          "title": "/do-issue",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T04:11:18Z",
+            "owner": "jerseycheese",
+            "repo": "Narraitor",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A Claude Code plugin that generates comprehensive Product Requirements Documents (PRDs) from conversation context. Invoke  after discussing requirements and it produces a complete PRD with all standard sections including Executive Summary, User Stories, MVP Scope, Architecture, Success Criteria, and Implementation Phases.",
+          "title": "/prd-generator",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-14T10:29:46Z",
+            "owner": "dredozubov",
+            "repo": "prd-generator",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Creates customizable greeting components with name input, demonstrating argument passing, component reusability, state management, and user input handling.",
+          "title": "/project_hello_w_name",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-10T19:05:53Z",
+            "owner": "disler",
+            "repo": "just-prompt",
+            "stars": 705
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A convenient command to quickly manage project todo items without leaving the Claude Code interface, featuring due dates, sorting, task prioritization, and comprehensive todo list management.",
+          "title": "/todo",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-25T23:12:56Z",
+            "owner": "chrisleyva",
+            "repo": "todo-slash-command",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Project & Task Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - Focuses on Gene Ontology annotation integration in graph databases, handling multiple data sources, addressing graph representation issues, and ensuring correct data incorporation.",
+          "title": "/fixing_go_in_graph",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-27T17:12:36Z",
+            "owner": "Mjvolk3",
+            "repo": "torchcell",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Generates Mermaid diagrams from SQL schema files, creating entity relationship diagrams with table properties, validating diagram compilation, and ensuring complete entity coverage.",
+          "title": "/mermaid",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-08T00:18:04Z",
+            "owner": "GaloyMoney",
+            "repo": "lana-bank",
+            "stars": 42
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Reviews old Dcell implementation files, comparing with newer Dango model, noting changes over time, and analyzing refactoring approaches for better code organization.",
+          "title": "/review_dcell_model",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-27T17:12:36Z",
+            "owner": "Mjvolk3",
+            "repo": "torchcell",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Reformats documentation to use React Stepper component, transforming heading formats, applying proper indentation, and maintaining markdown compatibility with admonition formatting.",
+          "title": "/use-stepper",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T14:34:04Z",
+            "owner": "zuplo",
+            "repo": "docs",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CLAUDE.md Files 📂"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - Provides comprehensive Gradle commands for IntelliJ plugin development with platform-specific coding patterns, detailed package structure guidelines, and clear internationalization standards.",
+          "title": "AI IntelliJ Plugin",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-03-26T22:20:24Z",
+            "owner": "didalgolab",
+            "repo": "ai-intellij-plugin",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Features multiple Python environment setup options with detailed code style guidelines, comprehensive error handling recommendations, and security considerations for AWS CLI interactions.",
+          "title": "AWS MCP Server",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-02T08:50:31Z",
+            "owner": "alexei-led",
+            "repo": "aws-mcp-server",
+            "stars": 173
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Delivers comprehensive Gradle commands for cross-platform Kotlin Multiplatform development with clear module structure and practical guidance for dependency injection.",
+          "title": "DroidconKotlin",
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-01-22T14:42:57Z",
+            "owner": "touchlab",
+            "repo": "DroidconKotlin",
+            "stars": 1130
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Offers detailed build and test commands with strict code style enforcement, comprehensive testing requirements, and standardized development workflow using Black and mypy.",
+          "title": "EDSL",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T04:01:52Z",
+            "owner": "hesreallyhim",
+            "repo": "awesome-claude-code",
+            "stars": 23092
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Provides detailed build and test commands using pnpm and Vitest with strict code formatting requirements and comprehensive naming conventions for code consistency.",
+          "title": "Giselle",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T12:02:50Z",
+            "owner": "giselles-ai",
+            "repo": "giselle",
+            "stars": 480
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Features comprehensive repository structure breakdown with strong emphasis on coding standards, detailed Rust documentation guidelines, and systematic PR review process.",
+          "title": "HASH",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-07T18:26:20Z",
+            "owner": "hashintel",
+            "repo": "hash",
+            "stars": 1406
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Structures development workflow using pnpm with emphasis on TypeScript and Vue 3 Composition API, detailed component creation process, and comprehensive testing recommendations.",
+          "title": "Inkline",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-18T14:06:31Z",
+            "owner": "inkline",
+            "repo": "inkline",
+            "stars": 1438
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Provides development guide for JavaScript BBC Micro emulator with build and testing instructions, architecture documentation, and debugging workflows.",
+          "title": "JSBeeb",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-04T23:56:33Z",
+            "owner": "mattgodbolt",
+            "repo": "jsbeeb",
+            "stars": 379
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Serves as reference for production prompt engineering library with load balancing of AI Models, API documentation, and usage patterns with examples.",
+          "title": "Lamoom Python",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-08-28T13:38:27Z",
+            "owner": "LamoomAI",
+            "repo": "lamoom-python",
+            "stars": 96
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Offers comprehensive build and test commands with detailed TypeScript style guidelines, layered library architecture, and monorepo structure using yarn workspaces.",
+          "title": "LangGraphJS",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T03:24:43Z",
+            "owner": "langchain-ai",
+            "repo": "langgraphjs",
+            "stars": 2524
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Details workflow for REPL-driven development in Clojure/ClojureScript with emphasis on incremental development, testing, and step-by-step approach for feature implementation.",
+          "title": "Metabase",
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-02-07T23:21:04Z",
+            "owner": "metabase",
+            "repo": "metabase",
+            "stars": 45881
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Provides comprehensive structure for TypeScript monorepo projects with detailed commands for development, testing, deployment, and AWS/Cloudflare integration.",
+          "title": "SG Cars Trends Backend",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T14:49:37Z",
+            "owner": "sgcarstrends",
+            "repo": "backend",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Enforces strict coding conventions with comprehensive testing guidelines, multiple code compilation options, and backend-specific test decorators for targeted filtering.",
+          "title": "SPy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T18:16:47Z",
+            "owner": "spylang",
+            "repo": "spy",
+            "stars": 671
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Details Go project conventions with comprehensive error handling recommendations, table-driven testing approach guidelines, and modernization suggestions for latest Go features.",
+          "title": "TPL",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-18T06:25:41Z",
+            "owner": "KarpelesLab",
+            "repo": "tpl",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Language-Specific"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - Structures AI-assisted EigenLayer AVS development workflow with consistent naming conventions for prompt files and established terminology standards for blockchain concepts.",
+          "title": "AVS Vibe Developer Guide",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-22T19:19:06Z",
+            "owner": "Layr-Labs",
+            "repo": "avs-vibe-developer-guide",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Serves as a development reference for E2E-encrypted messaging applications with code organization architecture, security implementation details, and testing procedures.",
+          "title": "Comm",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-22T17:46:11Z",
+            "owner": "CommE2E",
+            "repo": "comm",
+            "stars": 321
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Enables real-time multiplayer capabilities for collaborative course creation with diverse tech stack integration and monorepo architecture using Turborepo.",
+          "title": "Course Builder",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T09:32:05Z",
+            "owner": "badass-courses",
+            "repo": "course-builder",
+            "stars": 626
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Creates a versatile AI command interface supporting multiple providers and models with flexible command options and browser automation through \"Stagehand\" feature.",
+          "title": "Cursor Tools",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-25T10:10:43Z",
+            "owner": "eastlondoner",
+            "repo": "cursor-tools",
+            "stars": 4701
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Serves as development guide for Guitar Git GUI Client with build commands for various platforms, code style guidelines for contributing, and project structure explanation.",
+          "title": "Guitar",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-29T10:56:46Z",
+            "owner": "soramimi",
+            "repo": "Guitar",
+            "stars": 1664
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Presents detailed implementation plan for AI-driven game characters with technical specifications for LLM integration, character guidelines, and service discovery mechanics.",
+          "title": "Network Chronicles",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-08T20:07:59Z",
+            "owner": "Fimeg",
+            "repo": "NetworkChronicles",
+            "stars": 188
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Serves as development guide for Mac security audit tool with build instructions, contribution guidelines, testing procedures, and workflow documentation.",
+          "title": "Pareto Mac",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-01-30T06:25:49Z",
+            "owner": "ParetoSecurity",
+            "repo": "pareto-mac",
+            "stars": 423
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - This repository is about pre-commit-hooks in general, but the  and related  documentation is exemplary. Thorough but not verbose. Unlike a lot of   files, it doesn't primarily consist in shouting at Claude in all-caps. Great learning resource. Also, hooks.",
+          "title": "pre-commit-hooks",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-24T06:43:05Z",
+            "owner": "aRustyDev",
+            "repo": "pre-commit-hooks",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Clear and direct instructives about style, permissions, Claude's \"role\", communications, and documentation of Claude Code sessions for other team members to stay abreast.",
+          "title": "SteadyStart",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-03T20:24:58Z",
+            "owner": "steadycursor",
+            "repo": "steadystart",
+            "stars": 62
+          }
+        }
+      ],
+      "title": "Domain-Specific"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - Presents an innovative AI-human collaboration framework with Model Context Protocol for bidirectional LLM-markdown communication and flexible knowledge structure for complex projects.",
+          "title": "Basic Memory",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T19:41:43Z",
+            "owner": "basicmachines-co",
+            "repo": "basic-memory",
+            "stars": 2473
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Provides detailed and emphatic instructions for Claude to follow as a coding agent, with testing guidance, code examples, and compliance checks.",
+          "title": "claude-code-mcp-enhanced",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-20T18:24:43Z",
+            "owner": "grahama1970",
+            "repo": "claude-code-mcp-enhanced",
+            "stars": 102
+          }
+        }
+      ],
+      "title": "Project Scaffolding & MCP"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Alternative Clients 📱"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly.",
+          "title": "Claudable",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-04T09:11:04Z",
+            "owner": "opactorai",
+            "repo": "Claudable",
+            "stars": 3733
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - A command center for AI agents that syncs Claude Code sessions across terminal, web, and mobile. Allows for remote monitoring, human-in-the-loop interaction, and team collaboration.",
+          "title": "Omnara",
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-01-19T19:14:13Z",
+            "owner": "omnara-ai",
+            "repo": "omnara",
+            "stars": 2605
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Official Documentation 🏛️"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "by  - The official documentation for Claude Code, including installation instructions, usage guidelines, API references, tutorials, examples, loads of information that I won't list individually. Like Claude Code, the documentation is frequently updated.",
+          "title": "Anthropic Documentation"
+        },
+        {
+          "children": [],
+          "description": "by  - Offers comprehensive development guides for three distinct AI-powered demo projects with standardized workflows, strict code style guidelines, and containerization instructions.",
+          "title": "Anthropic Quickstarts",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T20:47:09Z",
+            "owner": "anthropics",
+            "repo": "claude-quickstarts",
+            "stars": 13853
+          }
+        },
+        {
+          "children": [],
+          "description": "by  - Official GitHub Actions integration for Claude Code with examples and documentation for automating AI-powered workflows in CI/CD pipelines.",
+          "title": "Claude Code GitHub Actions",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T22:18:10Z",
+            "owner": "anthropics",
+            "repo": "claude-code-action",
+            "stars": 5543
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Contributing 🔝"
+    },
+    {
+      "description": "Recommending a resource for the list is very simple, and the automated system handles everything for you. Please do not open a PR to submit a recommendation - the only person who is allowed to submit PRs to this repo is Claude.\nMake sure that you have read the CONTRIBUTING.md document and CODE_OF_CONDUCT.md before you submit a recommendation.\nFor suggestions about the repository itself, please open a repository enhancement issue.\nThis project is released with a Code of Conduct. By participating, you agree to abide by its terms. And although I take strong measures to uphold the quality and safety of this list, I take no responsibility or liability for anything that might happen as a result of these third-party resources.",
+      "items": [],
+      "title": "Recommend a new resource here!"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Growing thanks to you"
+    },
+    {
+      "description": "This list is licensed under Creative Commons CC BY-NC-ND 4.0 - this means you are welcome to fork, clone, copy and redistribute the list, provided you include appropriate attribution; however you are not permitted to distribute any modified versions or to use it for any commercial purposes. This is to prevent disregard for the licenses of the authors whose resources are listed here. Please note that all resources included in this list have their own license terms.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:26:25.147Z",
+    "original_repository": "hesreallyhim/awesome-claude-code",
+    "source_repository": "v1nvn/enhansome-claude-code",
+    "source_repository_description": null,
+    "title": "Awesome Claude Code with stars"
+  }
+}

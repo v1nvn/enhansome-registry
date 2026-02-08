@@ -1,0 +1,2261 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Replicated SQLite using the Raft consensus protocol.",
+              "title": "RQLite",
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-02-07T19:56:52Z",
+                "owner": "rqlite",
+                "repo": "rqlite",
+                "stars": 17290
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [],
+                  "description": "A distributed NewSQL database compatible with MySQL protocol.",
+                  "title": "TiDB",
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Go",
+                    "last_commit": "2026-02-07T12:23:50Z",
+                    "owner": "pingcap",
+                    "repo": "tidb",
+                    "stars": 39712
+                  }
+                },
+                {
+                  "children": [],
+                  "description": "A free, open source, complete online backup solution for all versions of Percona Server, MySQL® and MariaDB®.",
+                  "title": "Percona XtraBackup"
+                },
+                {
+                  "children": [],
+                  "description": "Pinterest MySQL Management Tools.",
+                  "title": "mysql_utils",
+                  "repo_info": {
+                    "archived": true,
+                    "language": "Python",
+                    "last_commit": "2019-06-25T19:50:26Z",
+                    "owner": "pinterest",
+                    "repo": "mysql_utils",
+                    "stars": 881
+                  }
+                }
+              ],
+              "description": "The world's most popular open source database.",
+              "title": "MySQL",
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-02-07T12:23:50Z",
+                "owner": "pingcap",
+                "repo": "tidb",
+                "stars": 39712
+              }
+            },
+            {
+              "children": [],
+              "description": "An enhanced, drop-in replacement for MySQL.",
+              "title": "MariaDB"
+            },
+            {
+              "children": [],
+              "description": "The world's most advanced open source database.",
+              "title": "PostgreSQL"
+            },
+            {
+              "children": [],
+              "description": "Makes it easy to set up, operate, and scale a relational database in the cloud.",
+              "title": "Amazon RDS"
+            },
+            {
+              "children": [],
+              "description": "Scalable SQL database with the NOSQL goodies.",
+              "title": "Crate.IO"
+            }
+          ],
+          "description": "Relational",
+          "title": "Relational",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T19:56:52Z",
+            "owner": "rqlite",
+            "repo": "rqlite",
+            "stars": 17290
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "An open source, BSD licensed, advanced key-value cache and store.",
+              "title": "Redis"
+            },
+            {
+              "children": [],
+              "description": "A distributed database designed to deliver maximum data availability by distributing data across multiple servers.",
+              "title": "Riak"
+            },
+            {
+              "children": [],
+              "description": "A fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency at any scale.",
+              "title": "AWS DynamoDB"
+            },
+            {
+              "children": [],
+              "description": "A scalable, searchable key-value store. Deprecated.",
+              "title": "HyperDex",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2024-05-21T01:40:06Z",
+                "owner": "rescrv",
+                "repo": "HyperDex",
+                "stars": 1405
+              }
+            },
+            {
+              "children": [],
+              "description": "A high performance NoSQL database supporting many data structures, an alternative to Redis.",
+              "title": "SSDB"
+            },
+            {
+              "children": [],
+              "description": "A lightweight network server on top of the Kyoto Cabinet key-value database, built for high-performance and concurrency.",
+              "title": "Kyoto Tycoon",
+              "repo_info": {
+                "archived": true,
+                "language": "C++",
+                "last_commit": "2023-12-05T22:28:42Z",
+                "owner": "alticelabs",
+                "repo": "kyoto",
+                "stars": 281
+              }
+            },
+            {
+              "children": [],
+              "description": "A key-value store for microcontroller and IoT applications.",
+              "title": "IonDB",
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2024-06-03T18:56:02Z",
+                "owner": "iondbproject",
+                "repo": "iondb",
+                "stars": 595
+              }
+            }
+          ],
+          "description": "Key-Value",
+          "title": "Key-Value",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-21T01:40:06Z",
+            "owner": "rescrv",
+            "repo": "HyperDex",
+            "stars": 1405
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [],
+                  "description": "This simple form allows you to try out different values for your Apache Cassandra cluster and see what the impact is for your application.",
+                  "title": "Cassandra Calculator"
+                },
+                {
+                  "children": [],
+                  "description": "A script to easily create and destroy an Apache Cassandra cluster on localhost.",
+                  "title": "CCM",
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2025-12-30T21:34:56Z",
+                    "owner": "pcmanus",
+                    "repo": "ccm",
+                    "stars": 1234
+                  }
+                },
+                {
+                  "children": [],
+                  "description": "NoSQL data store using the seastar framework, compatible with Apache Cassandra.",
+                  "title": "ScyllaDB",
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2026-02-06T09:38:36Z",
+                    "owner": "scylladb",
+                    "repo": "scylla",
+                    "stars": 15325
+                  }
+                }
+              ],
+              "description": "The right choice when you need scalability and high availability without compromising performance.",
+              "title": "Cassandra",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-12-30T21:34:56Z",
+                "owner": "pcmanus",
+                "repo": "ccm",
+                "stars": 1234
+              }
+            },
+            {
+              "children": [],
+              "description": "The Hadoop database, a distributed, scalable, big data store.",
+              "title": "HBase"
+            },
+            {
+              "children": [],
+              "description": "A fast, fully managed, petabyte-scale data warehouse that makes it simple and cost-effective to analyze all your data using your existing business intelligence tools.",
+              "title": "AWS Redshift"
+            },
+            {
+              "children": [],
+              "description": "Distributed. Columnar. Versioned. Streaming. SQL.",
+              "title": "FiloDB",
+              "repo_info": {
+                "archived": false,
+                "language": "Scala",
+                "last_commit": "2026-02-04T19:20:30Z",
+                "owner": "filodb",
+                "repo": "FiloDB",
+                "stars": 1463
+              }
+            },
+            {
+              "children": [],
+              "description": "Distributed, MPP columnar database with extensive analytics SQL.",
+              "title": "Vertica"
+            },
+            {
+              "children": [],
+              "description": "Distributed columnar DBMS for OLAP. SQL.",
+              "title": "ClickHouse"
+            }
+          ],
+          "description": "Column",
+          "title": "Column",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-30T21:34:56Z",
+            "owner": "pcmanus",
+            "repo": "ccm",
+            "stars": 1234
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [],
+                  "description": "Percona Server for MongoDB® is a free, enhanced, fully compatible, open source, drop-in replacement for the MongoDB® Community Edition that includes enterprise-grade features and functionality.",
+                  "title": "Percona Server for MongoDB"
+                },
+                {
+                  "children": [],
+                  "description": "Distributed Transactional In-Memory Database (based on MongoDB).",
+                  "title": "MemDB",
+                  "repo_info": {
+                    "archived": false,
+                    "language": "JavaScript",
+                    "last_commit": "2018-04-25T08:57:38Z",
+                    "owner": "rain1017",
+                    "repo": "memdb",
+                    "stars": 593
+                  }
+                }
+              ],
+              "description": "An open-source, document database designed for ease of development and scaling.",
+              "title": "MongoDB",
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-04-25T08:57:38Z",
+                "owner": "rain1017",
+                "repo": "memdb",
+                "stars": 593
+              }
+            },
+            {
+              "children": [],
+              "description": "Search & Analyze Data in Real Time.",
+              "title": "Elasticsearch"
+            },
+            {
+              "children": [],
+              "description": "The highest performing NoSQL distributed database.",
+              "title": "Couchbase"
+            },
+            {
+              "children": [],
+              "description": "The open-source database for the realtime web.",
+              "title": "RethinkDB"
+            },
+            {
+              "children": [],
+              "description": "Fully Transactional NoSQL Document Database.",
+              "title": "RavenDB"
+            }
+          ],
+          "description": "Document",
+          "title": "Document",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-25T08:57:38Z",
+            "owner": "rain1017",
+            "repo": "memdb",
+            "stars": 593
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "The world's leading graph database.",
+              "title": "Neo4j"
+            },
+            {
+              "children": [],
+              "description": "2nd Generation Distributed Graph Database with the flexibility of Documents in one product with an Open Source commercial friendly license.",
+              "title": "OrientDB"
+            },
+            {
+              "children": [],
+              "description": "A distributed free and open-source database with a flexible data model for documents, graphs, and key-values.",
+              "title": "ArangoDB"
+            },
+            {
+              "children": [],
+              "description": "A scalable graph database optimized for storing and querying graphs containing hundreds of billions of vertices and edges distributed across a multi-machine cluster.",
+              "title": "Titan"
+            },
+            {
+              "children": [],
+              "description": "A distributed, fault-tolerant graph database by Twitter. Deprecated.",
+              "title": "FlockDB",
+              "repo_info": {
+                "archived": true,
+                "language": "Scala",
+                "last_commit": "2017-03-16T23:11:18Z",
+                "owner": "twitter-archive",
+                "repo": "flockdb",
+                "stars": 3330
+              }
+            }
+          ],
+          "description": "Graph",
+          "title": "Graph",
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2017-03-16T23:11:18Z",
+            "owner": "twitter-archive",
+            "repo": "flockdb",
+            "stars": 3330
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "The fully transactional, cloud-ready, distributed database.",
+              "title": "DAtomic"
+            },
+            {
+              "children": [],
+              "description": "An open source, distributed, in-memory database for scale-out applications.",
+              "title": "Apache Geode"
+            },
+            {
+              "children": [],
+              "description": "A large-scale graph database.",
+              "title": "Gaffer",
+              "repo_info": {
+                "archived": true,
+                "language": "Java",
+                "last_commit": "2025-06-06T08:50:47Z",
+                "owner": "gchq",
+                "repo": "Gaffer",
+                "stars": 1794
+              }
+            }
+          ],
+          "description": "Distributed",
+          "title": "Distributed",
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2025-06-06T08:50:47Z",
+            "owner": "gchq",
+            "repo": "Gaffer",
+            "stars": 1794
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Scalable datastore for metrics, events, and real-time analytics.",
+              "title": "InfluxDB",
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-02-06T23:03:33Z",
+                "owner": "influxdata",
+                "repo": "influxdb",
+                "stars": 31207
+              }
+            },
+            {
+              "children": [],
+              "description": "A scalable, distributed Time Series Database.",
+              "title": "OpenTSDB",
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2024-12-12T20:03:34Z",
+                "owner": "OpenTSDB",
+                "repo": "opentsdb",
+                "stars": 5064
+              }
+            },
+            {
+              "children": [],
+              "description": "A relational column-oriented database designed for real-time analytics on time series and event data.",
+              "title": "QuestDB"
+            },
+            {
+              "children": [],
+              "description": "Fast scalable time series database.",
+              "title": "kairosdb",
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-01-29T14:36:34Z",
+                "owner": "kairosdb",
+                "repo": "kairosdb",
+                "stars": 1751
+              }
+            },
+            {
+              "children": [],
+              "description": "A scalable time series database based on Cassandra and Elasticsearch, by Spotify.",
+              "title": "Heroic",
+              "repo_info": {
+                "archived": true,
+                "language": "Java",
+                "last_commit": "2021-03-26T19:35:27Z",
+                "owner": "spotify",
+                "repo": "heroic",
+                "stars": 847
+              }
+            },
+            {
+              "children": [],
+              "description": "Column oriented distributed data store ideal for powering interactive applications.",
+              "title": "Druid",
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-02-08T02:09:15Z",
+                "owner": "apache",
+                "repo": "incubator-druid",
+                "stars": 13932
+              }
+            },
+            {
+              "children": [],
+              "description": "Riak TS is the only enterprise-grade NoSQL time series database optimized specifically for IoT and Time Series data.",
+              "title": "Riak-TS"
+            },
+            {
+              "children": [],
+              "description": "A numeric time-series database. It can be used to capture, store and process time-series data in real-time. The word \"akumuli\" can be translated from esperanto as \"accumulate\".",
+              "title": "Akumuli",
+              "repo_info": {
+                "archived": true,
+                "language": "C++",
+                "last_commit": "2022-08-07T01:52:15Z",
+                "owner": "akumuli",
+                "repo": "Akumuli",
+                "stars": 841
+              }
+            },
+            {
+              "children": [],
+              "description": "A time-series object store for Cassandra that handles all the complexity of building wide row indexes.",
+              "title": "Rhombus"
+            },
+            {
+              "children": [],
+              "description": "Fast distributed metrics database.",
+              "title": "Dalmatiner DB",
+              "repo_info": {
+                "archived": false,
+                "language": "Erlang",
+                "last_commit": "2019-02-11T02:48:59Z",
+                "owner": "dalmatinerdb",
+                "repo": "dalmatinerdb",
+                "stars": 691
+              }
+            },
+            {
+              "children": [],
+              "description": "A distributed system designed to ingest and process time series data.",
+              "title": "Blueflood",
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2024-08-19T20:34:55Z",
+                "owner": "rackerlabs",
+                "repo": "blueflood",
+                "stars": 598
+              }
+            },
+            {
+              "children": [],
+              "description": "A time series database application that provides secure access to time series data based on Accumulo and Grafana.",
+              "title": "Timely",
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-01-08T17:46:58Z",
+                "owner": "NationalSecurityAgency",
+                "repo": "timely",
+                "stars": 386
+              }
+            }
+          ],
+          "description": "Timeseries",
+          "title": "Timeseries",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-06T23:03:33Z",
+            "owner": "influxdata",
+            "repo": "influxdb",
+            "stars": 31207
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "An in-memory database and application server.",
+              "title": "Tarantool",
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2026-02-06T13:26:44Z",
+                "owner": "tarantool",
+                "repo": "tarantool",
+                "stars": 3614
+              }
+            },
+            {
+              "children": [],
+              "description": "The Greenplum Database (GPDB) - An advanced, fully featured, open source data warehouse. It provides powerful and rapid analytics on petabyte scale data volumes.",
+              "title": "GreenPlum"
+            },
+            {
+              "children": [],
+              "description": "An open-source graph database. Google.",
+              "title": "cayley",
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2025-11-22T03:55:24Z",
+                "owner": "cayleygraph",
+                "repo": "cayley",
+                "stars": 15029
+              }
+            },
+            {
+              "children": [],
+              "description": "OLTP + OLAP Database built on Apache Spark.",
+              "title": "Snappydata",
+              "repo_info": {
+                "archived": false,
+                "language": "Scala",
+                "last_commit": "2022-11-21T12:17:56Z",
+                "owner": "SnappyDataInc",
+                "repo": "snappydata",
+                "stars": 1035
+              }
+            },
+            {
+              "children": [],
+              "description": "Built as an extension on top of PostgreSQL, TimescaleDB is a time-series SQL database providing fast analytics, scalability, with automated data management on a proven storage engine.",
+              "title": "TimescaleDB"
+            },
+            {
+              "children": [],
+              "description": "A fast in-process analytical database that has zero external dependencies, runs on Linux/macOS/Windows, offers a rich SQL dialect, and is free and extensible.",
+              "title": "DuckDB"
+            }
+          ],
+          "description": "Other",
+          "title": "Other",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-02-06T13:26:44Z",
+            "owner": "tarantool",
+            "repo": "tarantool",
+            "stars": 3614
+          }
+        }
+      ],
+      "title": "Databases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "CLI tool to copy data between databases with a single command. Supports 50+ sources including Postgres, MySQL, MongoDB, Salesforce, Shopify to any data warehouse.",
+          "title": "ingestr",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T13:17:53Z",
+            "owner": "bruin-data",
+            "repo": "ingestr",
+            "stars": 3382
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Change data capture from PostgreSQL into Kafka. Deprecated.",
+              "title": "BottledWater",
+              "repo_info": {
+                "archived": true,
+                "language": "C",
+                "last_commit": "2023-06-12T03:34:18Z",
+                "owner": "confluentinc",
+                "repo": "bottledwater-pg",
+                "stars": 6
+              }
+            },
+            {
+              "children": [],
+              "description": "Simplified command-line administration for Kafka brokers.",
+              "title": "kafkat",
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2019-06-01T03:39:38Z",
+                "owner": "airbnb",
+                "repo": "kafkat",
+                "stars": 503
+              }
+            },
+            {
+              "children": [],
+              "description": "Generic command line non-JVM Apache Kafka producer and consumer.",
+              "title": "kafkacat",
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2024-07-09T16:13:37Z",
+                "owner": "edenhill",
+                "repo": "kafkacat",
+                "stars": 5721
+              }
+            },
+            {
+              "children": [],
+              "description": "A PostgreSQL extension to produce messages to Apache Kafka.",
+              "title": "pg-kafka",
+              "repo_info": {
+                "archived": true,
+                "language": "C",
+                "last_commit": "2015-04-03T00:35:32Z",
+                "owner": "xstevens",
+                "repo": "pg_kafka",
+                "stars": 112
+              }
+            },
+            {
+              "children": [],
+              "description": "The Apache Kafka C/C++ library.",
+              "title": "librdkafka",
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-02-06T13:01:06Z",
+                "owner": "edenhill",
+                "repo": "librdkafka",
+                "stars": 907
+              }
+            },
+            {
+              "children": [],
+              "description": "Kafka in Docker.",
+              "title": "kafka-docker",
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2024-05-08T12:11:08Z",
+                "owner": "wurstmeister",
+                "repo": "kafka-docker",
+                "stars": 6981
+              }
+            },
+            {
+              "children": [],
+              "description": "A tool for managing Apache Kafka.",
+              "title": "kafka-manager",
+              "repo_info": {
+                "archived": false,
+                "language": "Scala",
+                "last_commit": "2023-08-02T19:26:23Z",
+                "owner": "yahoo",
+                "repo": "kafka-manager",
+                "stars": 11947
+              }
+            },
+            {
+              "children": [],
+              "description": "Node.js client for Apache Kafka 0.8.",
+              "title": "kafka-node",
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-08-30T18:34:06Z",
+                "owner": "SOHU-Co",
+                "repo": "kafka-node",
+                "stars": 2665
+              }
+            },
+            {
+              "children": [],
+              "description": "Pinterest's Kafka to S3 distributed consumer.",
+              "title": "Secor",
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-01-05T05:32:10Z",
+                "owner": "pinterest",
+                "repo": "secor",
+                "stars": 1858
+              }
+            },
+            {
+              "children": [],
+              "description": "Kafka-winston logger for Node.js from Uber.",
+              "title": "Kafka-logger",
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2018-10-11T17:52:42Z",
+                "owner": "uber",
+                "repo": "kafka-logger",
+                "stars": 45
+              }
+            },
+            {
+              "children": [],
+              "description": "A Kafka Proxy, solving problems like encrypting your Kafka data at rest.",
+              "title": "Kroxylicious",
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-02-06T01:01:00Z",
+                "owner": "kroxylicious",
+                "repo": "kroxylicious",
+                "stars": 251
+              }
+            }
+          ],
+          "description": "Publish-subscribe messaging rethought as a distributed commit log.",
+          "title": "Kafka",
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2023-06-12T03:34:18Z",
+            "owner": "confluentinc",
+            "repo": "bottledwater-pg",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "A fully managed, cloud-based service for real-time data processing over large, distributed data streams.",
+          "title": "AWS Kinesis"
+        },
+        {
+          "children": [],
+          "description": "Robust messaging for applications.",
+          "title": "RabbitMQ"
+        },
+        {
+          "children": [],
+          "description": "A fast&simple pipeline building library for Python data devs, runs in notebooks, cloud functions, airflow, etc.",
+          "title": "dlt"
+        },
+        {
+          "children": [],
+          "description": "An open source data collector for unified logging layer.",
+          "title": "FluentD"
+        },
+        {
+          "children": [],
+          "description": "An open source bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services.",
+          "title": "Embulk"
+        },
+        {
+          "children": [],
+          "description": "A tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases.",
+          "title": "Apache Sqoop"
+        },
+        {
+          "children": [],
+          "description": "Data Acquisition and Processing Made Easy. Deprecated.",
+          "title": "Heka",
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-01-23T01:44:36Z",
+            "owner": "mozilla-services",
+            "repo": "heka",
+            "stars": 3481
+          }
+        },
+        {
+          "children": [],
+          "description": "Universal data ingestion framework for Hadoop from LinkedIn.",
+          "title": "Gobblin",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-15T06:11:41Z",
+            "owner": "apache",
+            "repo": "incubator-gobblin",
+            "stars": 2260
+          }
+        },
+        {
+          "children": [],
+          "description": "An open source event messaging platform that provides a REST API on top of Kafka-like queues.",
+          "title": "Nakadi"
+        },
+        {
+          "children": [],
+          "description": "Provides a new storage abstraction - a stream - for continuous and unbounded data.",
+          "title": "Pravega"
+        },
+        {
+          "children": [],
+          "description": "An open-source distributed pub-sub messaging system.",
+          "title": "Apache Pulsar"
+        },
+        {
+          "children": [],
+          "description": "Utility belt to handle data on AWS.",
+          "title": "AWS Data Wrangler",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T16:10:42Z",
+            "owner": "awslabs",
+            "repo": "aws-data-wrangler",
+            "stars": 4100
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source data integration for modern data teams.",
+          "title": "Airbyte"
+        },
+        {
+          "children": [],
+          "description": "Real-time data ingestion tool leveraging change data capture.",
+          "title": "Artie"
+        },
+        {
+          "children": [],
+          "description": "CLI data integration tool specialized in moving data between databases, as well as storage systems.",
+          "title": "Sling"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "The fastest way to build custom data extractors and loaders compliant with the Singer Spec.",
+              "title": "Singer SDK"
+            }
+          ],
+          "description": "CLI & code-first ELT.",
+          "title": "Meltano"
+        },
+        {
+          "children": [],
+          "description": "Live import all your Google Sheets to your data warehouse.",
+          "title": "Google Sheets ETL",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-19T14:07:39Z",
+            "owner": "fulldecent",
+            "repo": "google-sheets-etl",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "A delimited data preboarding framework that fills the gap between MFT and the data lake.",
+          "title": "CsvPath Framework"
+        },
+        {
+          "children": [],
+          "description": "No/low-code data pipeline platform that handles both batch and real-time data ingestion.",
+          "title": "Estuary Flow"
+        },
+        {
+          "children": [],
+          "description": "Lightweight Node.js ETL framework for databases → data lakes/warehouses.",
+          "title": "db2lake",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-13T09:03:25Z",
+            "owner": "bahador-r",
+            "repo": "db2lake",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Data Ingestion"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "A pure python HDFS client.",
+              "title": "Snakebite",
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2022-04-19T08:38:22Z",
+                "owner": "spotify",
+                "repo": "snakebite",
+                "stars": 860
+              }
+            }
+          ],
+          "description": "A distributed file system designed to run on commodity hardware.",
+          "title": "HDFS",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-04-19T08:38:22Z",
+            "owner": "spotify",
+            "repo": "snakebite",
+            "stars": 860
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Utils for streaming large files (S3, HDFS, gzip, bz2).",
+              "title": "smart_open",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-28T22:17:20Z",
+                "owner": "RaRe-Technologies",
+                "repo": "smart_open",
+                "stars": 3431
+              }
+            }
+          ],
+          "description": "Object storage built to retrieve any amount of data from anywhere.",
+          "title": "AWS S3",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-28T22:17:20Z",
+            "owner": "RaRe-Technologies",
+            "repo": "smart_open",
+            "stars": 3431
+          }
+        },
+        {
+          "children": [],
+          "description": "A memory-centric distributed storage system enabling reliable data sharing at memory-speed across cluster frameworks, such as Spark and MapReduce.",
+          "title": "Alluxio"
+        },
+        {
+          "children": [],
+          "description": "A unified, distributed storage system designed for excellent performance, reliability, and scalability.",
+          "title": "CEPH"
+        },
+        {
+          "children": [],
+          "description": "A high-performance Cloud-Native file system driven by object storage for large-scale data storage.",
+          "title": "JuiceFS",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T07:44:35Z",
+            "owner": "juicedata",
+            "repo": "juicefs",
+            "stars": 13187
+          }
+        },
+        {
+          "children": [],
+          "description": "Orange File System is a branch of the Parallel Virtual File System.",
+          "title": "OrangeFS"
+        },
+        {
+          "children": [],
+          "description": "A bite-sized, lightweight HDFS compatible file system built over Cassandra.",
+          "title": "SnackFS",
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2015-07-09T12:32:04Z",
+            "owner": "tuplejump",
+            "repo": "snackfs-release",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Gluster Filesystem.",
+          "title": "GlusterFS"
+        },
+        {
+          "children": [],
+          "description": "Fault-tolerant distributed file system for all storage needs.",
+          "title": "XtreemFS"
+        },
+        {
+          "children": [],
+          "description": "Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word \"NoSQL\", you can call it as \"NoFS\".",
+          "title": "SeaweedFS",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-06T22:20:03Z",
+            "owner": "chrislusf",
+            "repo": "seaweedfs",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "A file system that stores all its data online using storage services like Google Storage, Amazon S3, or OpenStack.",
+          "title": "S3QL",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T21:51:08Z",
+            "owner": "s3ql",
+            "repo": "s3ql",
+            "stars": 1222
+          }
+        },
+        {
+          "children": [],
+          "description": "Software Defined Storage is a distributed, parallel, scalable, fault-tolerant, Geo-Redundant and highly available file system.",
+          "title": "LizardFS"
+        }
+      ],
+      "title": "File System"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Apache Avro™ is a data serialization system.",
+          "title": "Apache Avro"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "A fast compressor/decompressor. Used with Parquet.",
+              "title": "Snappy",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-01-21T10:12:50Z",
+                "owner": "google",
+                "repo": "snappy",
+                "stars": 6524
+              }
+            },
+            {
+              "children": [],
+              "description": "A parallel implementation of gzip for modern multi-processor, multi-core machines.",
+              "title": "PigZ"
+            }
+          ],
+          "description": "A columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.",
+          "title": "Apache Parquet",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-21T10:12:50Z",
+            "owner": "google",
+            "repo": "snappy",
+            "stars": 6524
+          }
+        },
+        {
+          "children": [],
+          "description": "The smallest, fastest columnar storage for Hadoop workloads.",
+          "title": "Apache ORC"
+        },
+        {
+          "children": [],
+          "description": "The Apache Thrift software framework, for scalable cross-language services development.",
+          "title": "Apache Thrift"
+        },
+        {
+          "children": [],
+          "description": "Protocol Buffers - Google's data interchange format.",
+          "title": "ProtoBuf",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-08T02:43:07Z",
+            "owner": "protocolbuffers",
+            "repo": "protobuf",
+            "stars": 70655
+          }
+        },
+        {
+          "children": [],
+          "description": "A flat file consisting of binary key/value pairs. It is extensively used in MapReduce as input/output formats.",
+          "title": "SequenceFile"
+        },
+        {
+          "children": [],
+          "description": "A fast and efficient object graph serialization framework for Java.",
+          "title": "Kryo",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-02T13:40:07Z",
+            "owner": "EsotericSoftware",
+            "repo": "kryo",
+            "stars": 6485
+          }
+        }
+      ],
+      "title": "Serialization format"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A unified programming model that implements both batch and streaming data processing jobs that run on many execution engines.",
+          "title": "Apache Beam"
+        },
+        {
+          "children": [],
+          "description": "Makes it easy to build scalable fault-tolerant streaming applications.",
+          "title": "Spark Streaming"
+        },
+        {
+          "children": [],
+          "description": "A streaming dataflow engine that provides data distribution, communication, and fault tolerance for distributed computations over data streams.",
+          "title": "Apache Flink"
+        },
+        {
+          "children": [],
+          "description": "A free and open source distributed realtime computation system.",
+          "title": "Apache Storm"
+        },
+        {
+          "children": [],
+          "description": "A distributed stream processing framework.",
+          "title": "Apache Samza"
+        },
+        {
+          "children": [],
+          "description": "An easy to use, powerful, and reliable system to process and distribute data.",
+          "title": "Apache NiFi"
+        },
+        {
+          "children": [],
+          "description": "An open source framework for managing storage for real time processing, one of the most interesting feature is the Upsert.",
+          "title": "Apache Hudi"
+        },
+        {
+          "children": [],
+          "description": "An open source ETL framework to build fresh index for AI.",
+          "title": "CocoIndex",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-08T02:14:20Z",
+            "owner": "cocoindex-io",
+            "repo": "cocoindex",
+            "stars": 6050
+          }
+        },
+        {
+          "children": [],
+          "description": "An ACID-compliant RDBMS which uses a .",
+          "title": "VoltDB"
+        },
+        {
+          "children": [],
+          "description": "The Streaming SQL Database.",
+          "title": "PipelineDB",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-02-20T10:24:23Z",
+            "owner": "pipelinedb",
+            "repo": "pipelinedb",
+            "stars": 2655
+          }
+        },
+        {
+          "children": [],
+          "description": "Streaming and tasks execution between Spring Boot apps.",
+          "title": "Spring Cloud Dataflow"
+        },
+        {
+          "children": [],
+          "description": "A data-processing toolkit for python 3.5+.",
+          "title": "Bonobo"
+        },
+        {
+          "children": [],
+          "description": "Forever scalable event processing & in-memory durable K/V store as a library with asyncio & static typing.",
+          "title": "Robinhood's Faust",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-27T18:14:13Z",
+            "owner": "faust-streaming",
+            "repo": "faust",
+            "stars": 1859
+          }
+        },
+        {
+          "children": [],
+          "description": "The streaming database built for IoT data storage and real-time processing.",
+          "title": "HStreamDB",
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2024-12-26T02:51:04Z",
+            "owner": "hstreamdb",
+            "repo": "hstream",
+            "stars": 726
+          }
+        },
+        {
+          "children": [],
+          "description": "An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.",
+          "title": "Kuiper",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-02T09:37:13Z",
+            "owner": "emqx",
+            "repo": "kuiper",
+            "stars": 1678
+          }
+        },
+        {
+          "children": [],
+          "description": "An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT, and the native Kafka protocol.",
+          "title": "Zilla",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T05:36:55Z",
+            "owner": "aklivity",
+            "repo": "zilla",
+            "stars": 676
+          }
+        },
+        {
+          "children": [],
+          "description": "A framework for building real-time streaming data processing applications that supports a wide range of ingestion sources.",
+          "title": "SwimOS"
+        },
+        {
+          "children": [],
+          "description": "Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.",
+          "title": "Pathway",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T06:02:03Z",
+            "owner": "pathwaycom",
+            "repo": "pathway",
+            "stars": 59282
+          }
+        }
+      ],
+      "title": "Stream Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A software framework for easily writing applications which process vast amounts of data (multi-terabyte data-sets) - in-parallel on large clusters (thousands of nodes) - of commodity hardware in a reliable, fault-tolerant manner.",
+          "title": "Hadoop MapReduce"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "A community index of packages for Apache Spark.",
+              "title": "Spark Packages"
+            },
+            {
+              "children": [],
+              "description": "Connecting Apache Spark with different data stores. Deprecated.",
+              "title": "Deep Spark",
+              "repo_info": {
+                "archived": true,
+                "language": "Java",
+                "last_commit": "2016-07-04T13:44:14Z",
+                "owner": "Stratio",
+                "repo": "deep-spark",
+                "stars": 197
+              }
+            },
+            {
+              "children": [],
+              "description": "Examples by Zhen He.",
+              "title": "Spark RDD API Examples"
+            },
+            {
+              "children": [],
+              "description": "The REST Spark Server.",
+              "title": "Livy"
+            },
+            {
+              "children": [],
+              "description": "A free & cross platform monitoring tool (Spark UI / Spark History Server alternative).",
+              "title": "Delight",
+              "repo_info": {
+                "archived": true,
+                "language": "Scala",
+                "last_commit": "2024-05-31T14:14:28Z",
+                "owner": "datamechanics",
+                "repo": "delight",
+                "stars": 347
+              }
+            }
+          ],
+          "description": "A multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.",
+          "title": "Spark",
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2016-07-04T13:44:14Z",
+            "owner": "Stratio",
+            "repo": "deep-spark",
+            "stars": 197
+          }
+        },
+        {
+          "children": [],
+          "description": "A web service that makes it easy to quickly and cost-effectively process vast amounts of data.",
+          "title": "AWS EMR"
+        },
+        {
+          "children": [],
+          "description": "A cloud-based platform deployed on Kubernetes making Apache Spark more developer-friendly and cost-effective.",
+          "title": "Data Mechanics"
+        },
+        {
+          "children": [],
+          "description": "An application framework which allows for a complex directed-acyclic-graph of tasks for processing data.",
+          "title": "Tez"
+        },
+        {
+          "children": [],
+          "description": "A light-weight engine for general-purpose data processing including both batch and stream analytics. It is based on a novel unique data model, which represents data via  and processes data via  as opposed to having only set operations in conventional approaches like MapReduce or SQL.",
+          "title": "Bistro",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-09-07T15:50:47Z",
+            "owner": "asavinov",
+            "repo": "bistro",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "A cloud native data pipeline and transformation toolkit written in Go.",
+          "title": "Substation",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-20T18:53:05Z",
+            "owner": "brexhq",
+            "repo": "substation",
+            "stars": 390
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Fast scalable machine learning API for smarter applications.",
+              "title": "H2O"
+            },
+            {
+              "children": [],
+              "description": "An environment for quickly creating scalable performant machine learning applications.",
+              "title": "Mahout"
+            },
+            {
+              "children": [],
+              "description": "Spark's scalable machine learning library consisting of common learning algorithms and utilities, including classification, regression, clustering, collaborative filtering, dimensionality reduction, as well as underlying optimization primitives.",
+              "title": "Spark MLlib"
+            }
+          ],
+          "description": "Batch ML",
+          "title": "Batch ML"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "A machine learning platform that enables data scientists and app developers to easily create intelligent apps at scale.",
+              "title": "GraphLab Create"
+            },
+            {
+              "children": [],
+              "description": "An iterative graph processing system built for high scalability.",
+              "title": "Giraph"
+            },
+            {
+              "children": [],
+              "description": "Apache Spark's API for graphs and graph-parallel computation.",
+              "title": "Spark GraphX"
+            }
+          ],
+          "description": "Batch Graph",
+          "title": "Batch Graph"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "A distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.",
+              "title": "Presto"
+            },
+            {
+              "children": [
+                {
+                  "children": [],
+                  "description": "Scalable machine learning library for Hive/Hadoop.",
+                  "title": "Hivemall",
+                  "repo_info": {
+                    "archived": true,
+                    "language": "Java",
+                    "last_commit": "2022-09-06T15:55:16Z",
+                    "owner": "apache",
+                    "repo": "incubator-hivemall",
+                    "stars": 313
+                  }
+                },
+                {
+                  "children": [],
+                  "description": "Python interface to Hive and Presto.",
+                  "title": "PyHive",
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2024-08-07T19:52:11Z",
+                    "owner": "dropbox",
+                    "repo": "PyHive",
+                    "stars": 1694
+                  }
+                }
+              ],
+              "description": "Data warehouse software facilitates querying and managing large datasets residing in distributed storage.",
+              "title": "Hive",
+              "repo_info": {
+                "archived": true,
+                "language": "Java",
+                "last_commit": "2022-09-06T15:55:16Z",
+                "owner": "apache",
+                "repo": "incubator-hivemall",
+                "stars": 313
+              }
+            },
+            {
+              "children": [],
+              "description": "Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage.",
+              "title": "Drill"
+            }
+          ],
+          "description": "Batch SQL",
+          "title": "Batch SQL",
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-09-06T15:55:16Z",
+            "owner": "apache",
+            "repo": "incubator-hivemall",
+            "stars": 313
+          }
+        }
+      ],
+      "title": "Batch Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application.",
+          "title": "Highcharts"
+        },
+        {
+          "children": [],
+          "description": "Fast JavaScript charts for any data set.",
+          "title": "ZingChart"
+        },
+        {
+          "children": [],
+          "description": "D3-based reusable chart library.",
+          "title": "C3.js"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "D3's simpler, easier to use cousin. Mostly predefined templates that you can just plug data in.",
+              "title": "D3Plus"
+            }
+          ],
+          "description": "A JavaScript library for manipulating documents based on data.",
+          "title": "D3.js"
+        },
+        {
+          "children": [],
+          "description": "A JavaScript Charting Library for Streaming Data.",
+          "title": "SmoothieCharts"
+        },
+        {
+          "children": [],
+          "description": "Python helpers for building dashboards using Flask and React.",
+          "title": "PyXley",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-02T21:35:17Z",
+            "owner": "stitchfix",
+            "repo": "pyxley",
+            "stars": 2271
+          }
+        },
+        {
+          "children": [],
+          "description": "Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python.",
+          "title": "Plotly",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T17:40:21Z",
+            "owner": "plotly",
+            "repo": "dash",
+            "stars": 24460
+          }
+        },
+        {
+          "children": [],
+          "description": "A modern, enterprise-ready business intelligence web application.",
+          "title": "Apache Superset",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T00:11:13Z",
+            "owner": "apache",
+            "repo": "incubator-superset",
+            "stars": 70465
+          }
+        },
+        {
+          "children": [],
+          "description": "Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.",
+          "title": "Redash"
+        },
+        {
+          "children": [],
+          "description": "The easy, open source way for everyone in your company to ask questions and learn from data.",
+          "title": "Metabase",
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-02-07T23:21:04Z",
+            "owner": "metabase",
+            "repo": "metabase",
+            "stars": 45881
+          }
+        },
+        {
+          "children": [],
+          "description": "A pure-python graphics and GUI library built on PyQt4 / PySide and numpy. It is intended for use in mathematics / scientific / engineering applications.",
+          "title": "PyQtGraph"
+        },
+        {
+          "children": [],
+          "description": "A Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.",
+          "title": "Seaborn"
+        },
+        {
+          "children": [],
+          "description": "Natural language database query interface with automatic chart generation, supporting Chinese and English queries.",
+          "title": "QueryGPT",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-23T13:41:54Z",
+            "owner": "MKY508",
+            "repo": "QueryGPT",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Charts and Dashboards"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "End-to-end data pipeline tool that combines ingestion, transformation (SQL + Python), and data quality in a single CLI. Connects to BigQuery, Snowflake, Postgres, Redshift, and more. Includes VS Code extension with live previews.",
+          "title": "Bruin",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T14:34:18Z",
+            "owner": "bruin-data",
+            "repo": "bruin",
+            "stars": 1360
+          }
+        },
+        {
+          "children": [],
+          "description": "A Python module that helps you build complex pipelines of batch jobs.",
+          "title": "Luigi",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T01:24:53Z",
+            "owner": "spotify",
+            "repo": "luigi",
+            "stars": 18656
+          }
+        },
+        {
+          "children": [],
+          "description": "An application cron-like system.  w/Luigi. Deprecated.",
+          "title": "CronQ"
+        },
+        {
+          "children": [],
+          "description": "Java based application development platform.",
+          "title": "Cascading"
+        },
+        {
+          "children": [],
+          "description": "A system to programmatically author, schedule, and monitor data pipelines.",
+          "title": "Airflow",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T03:43:54Z",
+            "owner": "apache",
+            "repo": "airflow",
+            "stars": 44177
+          }
+        },
+        {
+          "children": [],
+          "description": "A batch workflow job scheduler created at LinkedIn to run Hadoop jobs. Azkaban resolves the ordering through job dependencies and provides an easy-to-use web user interface to maintain and track your workflows.",
+          "title": "Azkaban"
+        },
+        {
+          "children": [],
+          "description": "A workflow scheduler system to manage Apache Hadoop jobs.",
+          "title": "Oozie"
+        },
+        {
+          "children": [],
+          "description": "DAG based workflow manager. Job flows are defined programmatically in Python. Support output passing between jobs.",
+          "title": "Pinball",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-12-10T19:01:58Z",
+            "owner": "pinterest",
+            "repo": "pinball",
+            "stars": 1042
+          }
+        },
+        {
+          "children": [],
+          "description": "An open-source Python library for building data applications.",
+          "title": "Dagster",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T22:08:31Z",
+            "owner": "dagster-io",
+            "repo": "dagster",
+            "stars": 14911
+          }
+        },
+        {
+          "children": [],
+          "description": "A lightweight library to define data transformations as a directed-acyclic graph (DAG). If you like dbt for SQL transforms, you will like Hamilton for Python processing.",
+          "title": "Hamilton",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-07T15:14:21Z",
+            "owner": "dagworks-inc",
+            "repo": "hamilton",
+            "stars": 2392
+          }
+        },
+        {
+          "children": [],
+          "description": "A framework that makes it easy to build robust and scalable data pipelines by providing uniform project templates, data abstraction, configuration and pipeline assembly.",
+          "title": "Kedro"
+        },
+        {
+          "children": [],
+          "description": "An open-source framework and web based IDE to manage datasets and their dependencies. SQLX extends your existing SQL warehouse dialect to add features that support dependency management, testing, documentation and more.",
+          "title": "Dataform"
+        },
+        {
+          "children": [],
+          "description": "A reverse-ETL tool that let you sync data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. No engineering favors required—just SQL.",
+          "title": "Census"
+        },
+        {
+          "children": [],
+          "description": "A command line tool that enables data analysts and engineers to transform data in their warehouses more effectively.",
+          "title": "dbt"
+        },
+        {
+          "children": [],
+          "description": "Scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.",
+          "title": "Kestra"
+        },
+        {
+          "children": [],
+          "description": "A warehouse-first Customer Data Platform that enables you to collect data from every application, website and SaaS platform, and then activate it in your warehouse and business tools.",
+          "title": "RudderStack",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T19:54:15Z",
+            "owner": "rudderlabs",
+            "repo": "rudder-server",
+            "stars": 4355
+          }
+        },
+        {
+          "children": [],
+          "description": "An open source framework that allows you to enforce agreements on how data should be accessed, used, and transformed, regardless of the data platform (Snowflake, BigQuery, DataBricks, etc.)",
+          "title": "PACE",
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-07T21:26:37Z",
+            "owner": "getstrm",
+            "repo": "pace",
+            "stars": 38
+          }
+        },
+        {
+          "children": [],
+          "description": "An orchestration and observability platform. With it, developers can rapidly build and scale resilient code, and triage disruptions effortlessly.",
+          "title": "Prefect"
+        },
+        {
+          "children": [],
+          "description": "The open-source reverse ETL, data activation platform for modern data teams.",
+          "title": "Multiwoven",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-02-03T05:58:59Z",
+            "owner": "Multiwoven",
+            "repo": "multiwoven",
+            "stars": 1642
+          }
+        },
+        {
+          "children": [],
+          "description": "Create automated workflows and logic using API's for your notification service. Add templates, batching, preferences, inapp inbox with workflows to trigger notifications directly from your data warehouse.",
+          "title": "SuprSend"
+        },
+        {
+          "children": [],
+          "description": "A versatile open source orchestrator and scheduler built on Java, designed to handle a broad range of workflows with a language-agnostic, API-first architecture.",
+          "title": "Kestra",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T22:50:48Z",
+            "owner": "kestra-io",
+            "repo": "kestra",
+            "stars": 26324
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source data pipeline tool for transforming and integrating data.",
+          "title": "Mage"
+        },
+        {
+          "children": [],
+          "description": "An open-source data transformation framework for managing, testing, and deploying SQL and Python-based data pipelines with version control, environment isolation, and automatic dependency resolution.",
+          "title": "SQLMesh"
+        }
+      ],
+      "title": "Workflow"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "An open source platform that delivers resilience and manageability to object-storage based data lakes.",
+          "title": "lakeFS",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T11:15:54Z",
+            "owner": "treeverse",
+            "repo": "lakeFS",
+            "stars": 5138
+          }
+        },
+        {
+          "children": [],
+          "description": "A Transactional Catalog for Data Lakes with Git-like semantics. Works with Apache Iceberg tables.",
+          "title": "Project Nessie",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-07T09:10:18Z",
+            "owner": "projectnessie",
+            "repo": "nessie",
+            "stars": 1409
+          }
+        },
+        {
+          "children": [],
+          "description": "A modular Data Lakehouse platform that simplifies the management and monitoring of Apache Spark clusters across Kubernetes and Hadoop environments.",
+          "title": "Ilum"
+        },
+        {
+          "children": [],
+          "description": "An open-source, unified metadata management for data lakes, data warehouses, and external catalogs.",
+          "title": "Gravitino",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T15:10:56Z",
+            "owner": "apache",
+            "repo": "gravitino",
+            "stars": 2777
+          }
+        },
+        {
+          "children": [],
+          "description": "FlightPath is a gateway to a data lake's bronze layer, protecting it from invalid external data file feeds as a trusted publisher.",
+          "title": "FlightPath Data"
+        }
+      ],
+      "title": "Data Lake Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A highly configurable Logstash (1.4.4) - Docker image running Elasticsearch (1.7.0) - and Kibana (3.1.2).",
+          "title": "docker-logstash",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2015-12-21T15:15:49Z",
+            "owner": "pblittle",
+            "repo": "docker-logstash",
+            "stars": 237
+          }
+        },
+        {
+          "children": [],
+          "description": "JDBC importer for Elasticsearch.",
+          "title": "elasticsearch-jdbc",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-11-05T18:03:03Z",
+            "owner": "jprante",
+            "repo": "elasticsearch-jdbc",
+            "stars": 2824
+          }
+        },
+        {
+          "children": [],
+          "description": "PostgreSQL Extension that allows creating an index backed by Elasticsearch.",
+          "title": "ZomboDB",
+          "repo_info": {
+            "archived": true,
+            "language": "PLpgSQL",
+            "last_commit": "2025-03-01T19:28:06Z",
+            "owner": "zombodb",
+            "repo": "zombodb",
+            "stars": 4739
+          }
+        }
+      ],
+      "title": "ELK Elastic Logstash Kibana"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Package golang service into minimal Docker containers.",
+          "title": "Gockerize",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-03-02T17:32:26Z",
+            "owner": "redbooth",
+            "repo": "gockerize",
+            "stars": 667
+          }
+        },
+        {
+          "children": [],
+          "description": "Easily manage Docker containers & their data.",
+          "title": "Flocker",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-05-18T07:14:11Z",
+            "owner": "ClusterHQ",
+            "repo": "flocker",
+            "stars": 3393
+          }
+        },
+        {
+          "children": [],
+          "description": "RancherOS is a 20mb Linux distro that runs the entire OS as Docker containers.",
+          "title": "Rancher"
+        },
+        {
+          "children": [],
+          "description": "Application Containers for Masses.",
+          "title": "Kontena"
+        },
+        {
+          "children": [],
+          "description": "Weaving Docker containers into applications.",
+          "title": "Weave",
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-08-09T08:45:55Z",
+            "owner": "weaveworks",
+            "repo": "weave",
+            "stars": 6623
+          }
+        },
+        {
+          "children": [],
+          "description": "A lightweight tool for easy deployment and rollback of dockerized applications.",
+          "title": "Zodiac",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-01-24T17:45:07Z",
+            "owner": "CenturyLinkLabs",
+            "repo": "zodiac",
+            "stars": 200
+          }
+        },
+        {
+          "children": [],
+          "description": "Analyzes resource usage and performance characteristics of running containers.",
+          "title": "cAdvisor",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-29T18:57:38Z",
+            "owner": "google",
+            "repo": "cadvisor",
+            "stars": 18858
+          }
+        },
+        {
+          "children": [],
+          "description": "Docker microservice for saving/restoring volume data to S3.",
+          "title": "Micro S3 persistence",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-09-24T23:11:48Z",
+            "owner": "figadore",
+            "repo": "micro-s3-persistence",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Docker composition tool with idempotency features for deploying apps composed of multiple containers. Deprecated.",
+          "title": "Rocker-compose",
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-03-24T09:47:49Z",
+            "owner": "grammarly",
+            "repo": "rocker-compose",
+            "stars": 408
+          }
+        },
+        {
+          "children": [],
+          "description": "A cluster manager, designed for both long-lived services and short-lived batch processing workloads.",
+          "title": "Nomad",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T22:05:56Z",
+            "owner": "hashicorp",
+            "repo": "nomad",
+            "stars": 16168
+          }
+        },
+        {
+          "children": [],
+          "description": "Visualize Docker images and the layers that compose them.",
+          "title": "ImageLayers"
+        }
+      ],
+      "title": "Docker"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "An open-source service monitoring system and time series database.",
+          "title": "Prometheus.io",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T23:52:23Z",
+            "owner": "prometheus",
+            "repo": "prometheus",
+            "stars": 62596
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.",
+          "title": "HAProxy Exporter",
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-03-08T16:26:18Z",
+            "owner": "prometheus",
+            "repo": "haproxy_exporter",
+            "stars": 627
+          }
+        }
+      ],
+      "title": "Prometheus"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Profiling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.",
+          "title": "Data Profiler",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-26T14:47:41Z",
+            "owner": "capitalone",
+            "repo": "dataprofiler",
+            "stars": 1541
+          }
+        },
+        {
+          "children": [],
+          "description": "A general-purpose open-source data profiler for high-level analysis of a dataset.",
+          "title": "YData Profiling"
+        },
+        {
+          "children": [],
+          "description": "An open-source data profiler specifically focused on discovery and validation of complex patterns in data.",
+          "title": "Desbordante",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-07T11:24:49Z",
+            "owner": "desbordante",
+            "repo": "desbordante-core",
+            "stars": 465
+          }
+        }
+      ],
+      "title": "Data Profiler"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production.",
+          "title": "Grai",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-30T20:28:25Z",
+            "owner": "grai-io",
+            "repo": "grai-core",
+            "stars": 312
+          }
+        },
+        {
+          "children": [],
+          "description": "An open-source data quality platform for the whole data platform lifecycle from profiling new data sources to applying full automation of data quality monitoring.",
+          "title": "DQOps",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-05T15:06:48Z",
+            "owner": "dqops",
+            "repo": "dqo",
+            "stars": 182
+          }
+        },
+        {
+          "children": [],
+          "description": "Open Source Data Observability for end-to-end Data Journey Observability, data profiling, anomaly detection, and auto-created data quality validation tests.",
+          "title": "DataKitchen"
+        },
+        {
+          "children": [],
+          "description": "Open Source data validation framework to manage data quality. Users can define and document “expectations” rules about how data should look and behave.",
+          "title": "GreatExpectation"
+        },
+        {
+          "children": [],
+          "description": "Free online SQL playground for MySQL, PostgreSQL, and SQL Server. Create database structures, run queries, and share results instantly.",
+          "title": "RunSQL"
+        },
+        {
+          "children": [],
+          "description": "Write, run, and test PySpark code on Spark Playground's online compiler. Access real-world sample datasets & solve interview questions to enhance your PySpark skills for data engineering roles.",
+          "title": "Spark Playground"
+        },
+        {
+          "children": [],
+          "description": "Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Pandas/Polars/PyArrow/Modin.",
+          "title": "daffy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T17:36:22Z",
+            "owner": "vertti",
+            "repo": "daffy",
+            "stars": 54
+          }
+        },
+        {
+          "children": [],
+          "description": "A Snowflake-compatible emulator for local development and testing.",
+          "title": "Snowflake Emulator",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-19T23:01:16Z",
+            "owner": "nnnkkk7",
+            "repo": "snowflake-emulator",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:37:19.582Z",
+    "original_repository": "igorbarinov/awesome-data-engineering",
+    "source_repository": "v1nvn/enhansome-data-engineering",
+    "source_repository_description": null,
+    "title": "Awesome Data Engineering with stars"
+  }
+}

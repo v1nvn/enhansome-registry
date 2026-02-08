@@ -1,0 +1,535 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Plugin for GitHub Models APIs.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-02-06T08:28:41Z",
+                "owner": "xavidop",
+                "repo": "genkitx-github",
+                "stars": 42
+              }
+            },
+            {
+              "children": [],
+              "description": "Plugin for Anthropic AI APIs.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-01-29T13:03:27Z",
+                "owner": "BloomLabsInc",
+                "repo": "genkit-plugins",
+                "stars": 180
+              }
+            },
+            {
+              "children": [],
+              "description": "Plugin for Cohere APIs.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-01-29T13:03:27Z",
+                "owner": "BloomLabsInc",
+                "repo": "genkit-plugins",
+                "stars": 180
+              }
+            },
+            {
+              "children": [],
+              "description": "Plugin for Groq APIs.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-01-29T13:03:27Z",
+                "owner": "BloomLabsInc",
+                "repo": "genkit-plugins",
+                "stars": 180
+              }
+            },
+            {
+              "children": [],
+              "description": "Plugin for Mistral AI APIs.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-01-29T13:03:27Z",
+                "owner": "BloomLabsInc",
+                "repo": "genkit-plugins",
+                "stars": 180
+              }
+            },
+            {
+              "children": [],
+              "description": "Plugin for Azure OpenAI APIs.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-01-29T13:03:27Z",
+                "owner": "BloomLabsInc",
+                "repo": "genkit-plugins",
+                "stars": 180
+              }
+            },
+            {
+              "children": [],
+              "description": "Plugin for AWS Bedrock APIs.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-02-06T22:53:12Z",
+                "owner": "xavidop",
+                "repo": "genkitx-aws-bedrock",
+                "stars": 11
+              }
+            },
+            {
+              "children": [],
+              "description": "Plugin for Deepseek Cloud APIs.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-11-24T07:25:04Z",
+                "owner": "oddbit",
+                "repo": "genkitx-deepseek",
+                "stars": 7
+              }
+            },
+            {
+              "children": [],
+              "description": "Plugin for Hugging Face Inference APIs.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-01-18T18:29:12Z",
+                "owner": "aciescrest",
+                "repo": "genkit-huggingface",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Model / Embedding Plugins",
+          "title": "Model / Embedding Plugins",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T08:28:41Z",
+            "owner": "xavidop",
+            "repo": "genkitx-github",
+            "stars": 42
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Plugin for Convex Vector Stores.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-01-29T13:03:27Z",
+                "owner": "BloomLabsInc",
+                "repo": "genkit-plugins",
+                "stars": 180
+              }
+            },
+            {
+              "children": [],
+              "description": "Plugin for HNSW Vector Stores.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-01-29T13:03:27Z",
+                "owner": "BloomLabsInc",
+                "repo": "genkit-plugins",
+                "stars": 180
+              }
+            },
+            {
+              "children": [],
+              "description": "Plugin for Qdrant Vector Stores.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-09-29T08:31:02Z",
+                "owner": "qdrant",
+                "repo": "qdrant-genkit",
+                "stars": 8
+              }
+            },
+            {
+              "children": [],
+              "description": "Plugin for AstraDB Vector Stores.",
+              "title": ""
+            },
+            {
+              "children": [],
+              "description": "Plugin for PostgeSQL (PGVector) Vector Stores.",
+              "title": ""
+            },
+            {
+              "children": [],
+              "description": "Plugin for Redis Vector Stores.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-06-20T23:31:12Z",
+                "owner": "retzd-tech",
+                "repo": "genkitx-redis",
+                "stars": 2
+              }
+            },
+            {
+              "children": [],
+              "description": "Plugin for Voiceflow KB.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-02-06T12:57:20Z",
+                "owner": "xavidop",
+                "repo": "genkitx-voiceflow",
+                "stars": 6
+              }
+            },
+            {
+              "children": [],
+              "description": "Plugin for LanceDB Vector Stores.",
+              "title": ""
+            },
+            {
+              "children": [],
+              "description": "Plugin for Pinecone Vector Stores.",
+              "title": ""
+            },
+            {
+              "children": [],
+              "description": "Plugin for Chroma Vector Stores.",
+              "title": ""
+            },
+            {
+              "children": [],
+              "description": "Plugin for Neo4j Vector Stores.",
+              "title": ""
+            },
+            {
+              "children": [],
+              "description": "Plugin for Cloud SQL for PostgreSQL Vector Stores.",
+              "title": ""
+            },
+            {
+              "children": [],
+              "description": "Plugin for Weaviate Vector Stores.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-02-06T23:45:37Z",
+                "owner": "xavidop",
+                "repo": "genkitx-weaviate",
+                "stars": 1
+              }
+            },
+            {
+              "children": [],
+              "description": "Plugin for MongoDB Vector Stores.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-08-08T05:38:26Z",
+                "owner": "mongodb-partners",
+                "repo": "genkitx-mongodb",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Vector Store Plugins",
+          "title": "Vector Store Plugins",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-29T13:03:27Z",
+            "owner": "BloomLabsInc",
+            "repo": "genkit-plugins",
+            "stars": 180
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Plugin for Promptfoo Evaluations.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-01-03T15:03:39Z",
+                "owner": "yukinagae",
+                "repo": "genkitx-promptfoo",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "Evaluator Plugins",
+          "title": "Evaluator Plugins",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-03T15:03:39Z",
+            "owner": "yukinagae",
+            "repo": "genkitx-promptfoo",
+            "stars": 5
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Plugin for building Graph workflows.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-01-29T13:03:27Z",
+                "owner": "TheFireCo",
+                "repo": "genkit-plugins",
+                "stars": 180
+              }
+            },
+            {
+              "children": [],
+              "description": "A Redis Plugin for Genkit that adds Redis for efficient state storage, trace storage, caching, and rate limiting.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2024-06-11T17:58:09Z",
+                "owner": "invertase",
+                "repo": "genkit-plugin-redis",
+                "stars": 6
+              }
+            },
+            {
+              "children": [],
+              "description": "A simple RxJS helper/adapter for Genkit.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2024-07-17T15:04:50Z",
+                "owner": "pavelgj",
+                "repo": "genkitx-rxjs",
+                "stars": 0
+              }
+            },
+            {
+              "children": [],
+              "description": "Agentic Tools adapter for the Genkit SDK.",
+              "title": ""
+            },
+            {
+              "children": [],
+              "description": "Official Auth0 plugin for Genkit that provides authentication and authorization capabilities.",
+              "title": ""
+            },
+            {
+              "children": [],
+              "description": "Plugin to integrate with Langfuse for telemetry and prompt management.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-09-11T16:56:34Z",
+                "owner": "marcelfolaron",
+                "repo": "genkitx-langfuse",
+                "stars": 6
+              }
+            },
+            {
+              "children": [],
+              "description": "Plugin to integrate with PostHog for telemetry and analytics.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-01-16T23:51:35Z",
+                "owner": "orchlab",
+                "repo": "genkitx-posthog",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "Other Plugins",
+          "title": "Other Plugins",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-29T13:03:27Z",
+            "owner": "TheFireCo",
+            "repo": "genkit-plugins",
+            "stars": 180
+          }
+        }
+      ],
+      "title": "JavaScript - Community"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Plugin for AWS Bedrock APIs.",
+              "title": ""
+            },
+            {
+              "children": [],
+              "description": "Plugin for Azure AI Foundry.",
+              "title": ""
+            }
+          ],
+          "description": "Model / Embedding Plugins",
+          "title": "Model / Embedding Plugins"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Plugin for Qdrant Vector Stores.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-09-29T08:31:02Z",
+                "owner": "qdrant",
+                "repo": "qdrant-genkit",
+                "stars": 8
+              }
+            }
+          ],
+          "description": "Vector Store Plugins",
+          "title": "Vector Store Plugins",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-29T08:31:02Z",
+            "owner": "qdrant",
+            "repo": "qdrant-genkit",
+            "stars": 8
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Plugin for OpenTelemetry to monitor Genkit applications.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-02-06T08:25:12Z",
+                "owner": "xavidop",
+                "repo": "genkit-opentelemetry-go",
+                "stars": 7
+              }
+            }
+          ],
+          "description": "Monitoring Plugin:",
+          "title": "Monitoring Plugin:",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T08:25:12Z",
+            "owner": "xavidop",
+            "repo": "genkit-opentelemetry-go",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Golang - Community"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Client Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "An open-source Genkit-based internal AI chat application.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-05T03:39:06Z",
+            "owner": "tanabee",
+            "repo": "internal-ai",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "A command-line interface (CLI) tool that leverages Genkit to provide AI-powered answers to user queries by utilizing web search results from Tavily AI simulating how Perplexity works.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-26T19:06:25Z",
+            "owner": "xavidop",
+            "repo": "perplexity-cli",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "An MCP server built with Genkit for Go that enables AI assistants to estimate Google Cloud costs directly, replacing manual use of the GCP Pricing Calculator.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-02T14:42:48Z",
+            "owner": "nozomi-koborinai",
+            "repo": "gcp-cost-mcp-server",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Solutions"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:34:17.703Z",
+    "original_repository": "xavidop/awesome-firebase-genkit",
+    "source_repository": "v1nvn/enhansome-firebase-genkit",
+    "source_repository_description": null,
+    "title": "Awesome Genkit with stars"
+  }
+}

@@ -1,0 +1,2642 @@
+{
+  "items": [
+    {
+      "description": "Organizations that contribute to D projects.",
+      "items": [
+        {
+          "children": [],
+          "description": "Official Organization, hosts DMD, Phobos and other official tools and libs.",
+          "title": "D Programming Language"
+        },
+        {
+          "children": [],
+          "description": "LDC releated projects.",
+          "title": "LDC Developers"
+        },
+        {
+          "children": [],
+          "description": "A GitHub organization hosting all Derelict bindings including OpenGL and other multimedia/game related library bindings. (OpenGL 3, Bgfx, ENet, SDL 2, GLFW 3，OpenGLES, Free Image, Assimp3, libtheora, libogg, libvorbis, SFML 2, libpq, PhysicsFS, Open Dynamics Engine, Lua, DevIL, OpenAL, ALURE).",
+          "title": "DerelictOrg"
+        },
+        {
+          "children": [],
+          "description": "A focal point and first port of call for scientific libraries and tooling for D.",
+          "title": "DlangScience"
+        },
+        {
+          "children": [],
+          "description": "We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts , a 3D game engine written in D, and other related libs.",
+          "title": "Circular Studios",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2020-12-18T22:24:39Z",
+            "owner": "Circular-Studios",
+            "repo": "Dash",
+            "stars": 428
+          }
+        },
+        {
+          "children": [],
+          "description": "A Career building company that uses D as their main language. Hosts their opensource projects.",
+          "title": "EMSI"
+        },
+        {
+          "children": [],
+          "description": "Infognition is a self-funded and self-sustained company specializing in video processing and compression technologies for end-users and developers. They provide several opensource video related applications & tools written in D, hosted on . They are also porting their main product-- from C/C++ to D.",
+          "title": "infognition"
+        },
+        {
+          "children": [],
+          "description": "D's numeric library development team",
+          "title": "libmir"
+        },
+        {
+          "children": [],
+          "description": "Berlin based company specializing in real-time bidding for online advertising. Main sponsor of the . Has open-sourced large parts of their codebase as part of the  organization.",
+          "title": "sociomantic labs"
+        },
+        {
+          "children": [],
+          "description": "Symmetry Investments LP is an investment management company with approximately US$4.7 billion in assets under management as of 31 December 2018. Main sponsor of the . Have sponsored the development of , , , , and various other projects.",
+          "title": "Symmetry Investments",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2024-06-11T20:04:21Z",
+            "owner": "atilaneves",
+            "repo": "dpp",
+            "stars": 241
+          }
+        },
+        {
+          "children": [],
+          "description": "A technology group using DLang. Have pure D language implementation of quickly develop server-side applications and build distributed system services.",
+          "title": "HuntLabs"
+        }
+      ],
+      "title": "Organizations"
+    },
+    {
+      "description": "D related tutorials.",
+      "items": [
+        {
+          "children": [],
+          "description": "An interactive tutorial for D, inspired by Golang Tour.",
+          "title": "The Dlang Tour"
+        },
+        {
+          "children": [],
+          "description": "An introductory video series about programming in D.",
+          "title": "Programming in Dlang"
+        },
+        {
+          "children": [],
+          "description": "This is a pragmatic introduction to the D Programming Language. by Andreas Zwinkau.",
+          "title": "Pragmatic D tutorial"
+        },
+        {
+          "children": [],
+          "description": "A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.",
+          "title": "D Template Tutorial",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-09-21T11:50:40Z",
+            "owner": "PhilippeSigaud",
+            "repo": "D-templates-tutorial",
+            "stars": 233
+          }
+        },
+        {
+          "children": [],
+          "description": "A detailed blog post about how to do component programming in a idiomatic D way with ranges, with a full working example.",
+          "title": "Component programming with ranges"
+        },
+        {
+          "children": [],
+          "description": "A very interesting tutorial about writing an image processing lib in D. Shows the power of D's templates/CTFE/Ranges/UFCS for functional style programming.",
+          "title": "Functional image processing in D"
+        },
+        {
+          "children": [],
+          "description": "OpenGL tutorials in D.",
+          "title": "OpenGL tutorials",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2014-12-30T17:34:59Z",
+            "owner": "drewet",
+            "repo": "opengl-tutorials",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "D metaprogramming tutorial series",
+          "title": "Creating a simple JSON serialiser in D"
+        },
+        {
+          "children": [],
+          "description": "A video series on learning game development with D from Ki Rill.  also posts other videos related to D programming.",
+          "title": "Let's learn D programming Game Dev!"
+        },
+        {
+          "children": [],
+          "description": "Series of tutorials covering basic to advanced features of the D programming language and standard library.",
+          "title": "DLang YouTube Tutorials from Mike Shah"
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "Official compilers for the D language.",
+      "items": [
+        {
+          "children": [],
+          "description": "The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.",
+          "title": "DMD",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-02-07T06:44:51Z",
+            "owner": "dlang",
+            "repo": "dmd",
+            "stars": 3219
+          }
+        },
+        {
+          "children": [],
+          "description": "The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.",
+          "title": "LDC",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-02-08T01:08:30Z",
+            "owner": "ldc-developers",
+            "repo": "ldc",
+            "stars": 1315
+          }
+        },
+        {
+          "children": [],
+          "description": "GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.",
+          "title": "GDC",
+          "repo_info": {
+            "archived": true,
+            "language": "D",
+            "last_commit": "2018-12-25T19:50:49Z",
+            "owner": "D-Programming-GDC",
+            "repo": "GDC",
+            "stars": 359
+          }
+        }
+      ],
+      "title": "Compilers"
+    },
+    {
+      "description": "Tools for more productive D development.",
+      "items": [
+        {
+          "children": [],
+          "description": "Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)",
+          "title": "D-Scanner",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-12-27T17:51:19Z",
+            "owner": "dlang-community",
+            "repo": "D-Scanner",
+            "stars": 251
+          }
+        },
+        {
+          "children": [],
+          "description": "formatter for D source code",
+          "title": "dfmt",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-10-09T06:25:40Z",
+            "owner": "dlang-community",
+            "repo": "dfmt",
+            "stars": 212
+          }
+        }
+      ],
+      "title": "Dev Tools"
+    },
+    {
+      "description": "Manage projects and compile software from source code.",
+      "items": [
+        {
+          "children": [],
+          "description": "De facto official package and build management system for D. Will be included officially soon.",
+          "title": "dub",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-01-13T14:08:44Z",
+            "owner": "dlang",
+            "repo": "dub",
+            "stars": 718
+          }
+        },
+        {
+          "children": [],
+          "description": "Scons has built-in support for building D projects, thanks to Russel Winder.",
+          "title": "scons-d"
+        },
+        {
+          "children": [],
+          "description": "Premake has built-in support for D projects",
+          "title": "premake",
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2016-11-16T16:24:13Z",
+            "owner": "premake",
+            "repo": "premake-dlang",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "meta build system in D",
+          "title": "reggae",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-01-15T09:52:10Z",
+            "owner": "atilaneves",
+            "repo": "reggae",
+            "stars": 186
+          }
+        },
+        {
+          "children": [],
+          "description": "Makefile template for D projects",
+          "title": "Makefile",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-04-19T09:37:27Z",
+            "owner": "bioinfornatics",
+            "repo": "MakefileForD",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "CMake D Projects",
+          "title": "cmake-d",
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2023-06-09T09:57:36Z",
+            "owner": "dcarp",
+            "repo": "cmake-d",
+            "stars": 66
+          }
+        },
+        {
+          "children": [],
+          "description": "Fast incremental build tool intended for projects in D",
+          "title": "cook2",
+          "repo_info": {
+            "archived": true,
+            "language": "D",
+            "last_commit": "2023-04-30T22:24:17Z",
+            "owner": "gecko0307",
+            "repo": "Cook2",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "A universal build system to build your software at the push of a button.",
+          "title": "button"
+        },
+        {
+          "children": [],
+          "description": "Wild build system, used to build the  kernel",
+          "title": "wild",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2016-08-14T07:46:25Z",
+            "owner": "Vild",
+            "repo": "Wild",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "XMake is a crossplatform build system, that incorporated the D language and also has support for DUB repositories.",
+          "title": "XMake"
+        },
+        {
+          "children": [],
+          "description": "A highly flexible recipe build system inspired by Make",
+          "title": "wox",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-05-18T00:52:55Z",
+            "owner": "redthing1",
+            "repo": "wox",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Build Tools"
+    },
+    {
+      "description": "Integrated Development Environment.",
+      "items": [
+        {
+          "children": [],
+          "description": "Visual Studio extension for the D programming language.",
+          "title": "Visual D",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-10-19T14:53:37Z",
+            "owner": "dlang",
+            "repo": "visuald",
+            "stars": 301
+          }
+        },
+        {
+          "children": [],
+          "description": "Support for the D programming language within IntelliJ IDEA.",
+          "title": "IntelliJ D Language"
+        },
+        {
+          "children": [],
+          "description": "IDE for the D programming language, its compilers, tools and libraries.",
+          "title": "Dexed"
+        },
+        {
+          "children": [],
+          "description": "Vim plugin that integrates various D development tools",
+          "title": "Dutyl",
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2020-04-02T09:39:52Z",
+            "owner": "idanarye",
+            "repo": "vim-dutyl",
+            "stars": 79
+          }
+        },
+        {
+          "children": [],
+          "description": "Visual Studio Code extension using serve-d",
+          "title": "code-d"
+        },
+        {
+          "children": [],
+          "description": "Pulsar (fork of Atom) extension for D using serve-d",
+          "title": "ide-d"
+        },
+        {
+          "children": [],
+          "description": "Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See .",
+          "title": "DCD",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-12-26T21:22:21Z",
+            "owner": "dlang-community",
+            "repo": "DCD",
+            "stars": 360
+          }
+        },
+        {
+          "children": [],
+          "description": "Language Server Protocol (LSP) implementation for D. Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)",
+          "title": "serve-d",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-12-30T16:28:08Z",
+            "owner": "Pure-D",
+            "repo": "serve-d",
+            "stars": 255
+          }
+        }
+      ],
+      "title": "IDEs & Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A D language lexer and parser, (possibly) future standard D parser/lexer.",
+          "title": "libdparse",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-12-26T12:56:30Z",
+            "owner": "dlang-community",
+            "repo": "libdparse",
+            "stars": 121
+          }
+        },
+        {
+          "children": [],
+          "description": "A lexer generator.",
+          "title": "Martin Nowak's Lexer",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2014-05-18T14:00:37Z",
+            "owner": "MartinNowak",
+            "repo": "lexer",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "A D parser written in C# and used in Mono-D.",
+          "title": "Mono-D's DParser",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-06-04T19:33:09Z",
+            "owner": "aBothe",
+            "repo": "D_Parser",
+            "stars": 30
+          }
+        },
+        {
+          "children": [],
+          "description": "A Parsing Expression Grammar (PEG) module written in D.",
+          "title": "Pegged",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-07-31T23:45:57Z",
+            "owner": "dlang-community",
+            "repo": "Pegged",
+            "stars": 546
+          }
+        },
+        {
+          "children": [],
+          "description": "Goldie Parsing System.",
+          "title": "Goldie"
+        },
+        {
+          "children": [],
+          "description": "Compile-Time Parser (with converter) Generator written in D.",
+          "title": "ctpg",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2015-05-06T04:43:13Z",
+            "owner": "youxkei",
+            "repo": "ctpg",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "LALR(1) Parser Generator written in D.",
+          "title": "dunnart",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2017-07-14T04:25:40Z",
+            "owner": "pwil3058",
+            "repo": "dunnart",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Lexers, Parsers & Generators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A small tool to install and manage DMD (self-hosting) compiler.",
+          "title": "dvm",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-05-08T08:04:29Z",
+            "owner": "jacob-carlborg",
+            "repo": "dvm",
+            "stars": 59
+          }
+        },
+        {
+          "children": [],
+          "description": "A small tool to install and manage LDC2 (LLVM backend) compiler.",
+          "title": "ldcup",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-12-15T01:15:24Z",
+            "owner": "kassane",
+            "repo": "ldcup",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Version Managers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Install D compilers & DUB inside GitHub Actions",
+          "title": "setup-dlang",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-05T19:23:00Z",
+            "owner": "dlang-community",
+            "repo": "setup-dlang",
+            "stars": 50
+          }
+        },
+        {
+          "children": [],
+          "description": "Run  trying to repeat on network failure and using package cache on GitHub Actions",
+          "title": "dub-upgrade",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-11T03:38:02Z",
+            "owner": "WebFreak001",
+            "repo": "dub-upgrade",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "GitHub Actions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Multi-threaded unit test framework",
+          "title": "unit-threaded",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-11-14T16:50:02Z",
+            "owner": "atilaneves",
+            "repo": "unit-threaded",
+            "stars": 121
+          }
+        },
+        {
+          "children": [],
+          "description": "Better test runner for the D programming language. No nonsense.",
+          "title": "silly"
+        },
+        {
+          "children": [],
+          "description": "Fluent assertion framework with expressive syntax and detailed error messages.",
+          "title": "fluent-asserts",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-02-02T08:38:10Z",
+            "owner": "gedaiu",
+            "repo": "fluent-asserts",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "Testing Frameworks"
+    },
+    {
+      "description": "Operating systems written in D.",
+      "items": [
+        {
+          "children": [],
+          "description": "A kernel written in D",
+          "title": "PowerNex",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2019-03-02T00:24:14Z",
+            "owner": "PowerNex",
+            "repo": "PowerNex",
+            "stars": 504
+          }
+        },
+        {
+          "children": [],
+          "description": "Snek factory",
+          "title": "SerpentOS"
+        },
+        {
+          "children": [],
+          "description": "Hybrid operating system for x64 PC written in D",
+          "title": "Trinix",
+          "repo_info": {
+            "archived": true,
+            "language": "D",
+            "last_commit": "2025-06-16T09:36:09Z",
+            "owner": "Rikarin",
+            "repo": "Trinix",
+            "stars": 110
+          }
+        },
+        {
+          "children": [],
+          "description": "An exokernel operating system written in D",
+          "title": "XOmB",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-30T07:47:16Z",
+            "owner": "xomboverlord",
+            "repo": "xomb",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Operating Systems"
+    },
+    {
+      "description": "Data structures and container libraries.",
+      "items": [
+        {
+          "children": [],
+          "description": "Containers that do not use the GC",
+          "title": "EMSI containers",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2023-11-15T12:40:13Z",
+            "owner": "dlang-community",
+            "repo": "containers",
+            "stars": 111
+          }
+        },
+        {
+          "children": [],
+          "description": "Overhead allocators, allocator-aware containers and lifetime management for D objects",
+          "title": "memutils",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-03-14T01:51:11Z",
+            "owner": "etcimon",
+            "repo": "memutils",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "generic data structures (GC-free dynamic and associative arrays and more)",
+          "title": "dlib.container",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-01-01T18:59:55Z",
+            "owner": "gecko0307",
+            "repo": "dlib",
+            "stars": 225
+          }
+        },
+        {
+          "children": [],
+          "description": "A reference counted string implementation for D's build in string construct",
+          "title": "std.rcstring",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2019-09-12T09:39:11Z",
+            "owner": "burner",
+            "repo": "std.rcstring",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "General Containers"
+    },
+    {
+      "description": "General-purpose utility libraries.",
+      "items": [
+        {
+          "children": [],
+          "description": "No-GC memory management utilities for DLang.",
+          "title": "NuMem",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-01-28T17:24:59Z",
+            "owner": "Inochi2D",
+            "repo": "numem",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "D \"standard\" library built ontop of numem.",
+          "title": "NuLib",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-01-28T17:36:49Z",
+            "owner": "Inochi2D",
+            "repo": "nulib",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "A nogc utility library.",
+          "title": "Joka",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-02-07T20:39:52Z",
+            "owner": "Kapendev",
+            "repo": "joka",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Core Utilities"
+    },
+    {
+      "description": "Networking libraries.",
+      "items": [
+        {
+          "children": [],
+          "description": "HTTP client library inspired by python-requests",
+          "title": "dlang-requests",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-09-16T09:59:54Z",
+            "owner": "ikod",
+            "repo": "dlang-requests",
+            "stars": 159
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple, lightweight, and well-documented HTTP server that lets you bootstrap ideas and have something up and running in minutes.",
+          "title": "Handy-Httpd",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-05-30T02:55:38Z",
+            "owner": "andrewlalis",
+            "repo": "handy-httpd",
+            "stars": 36
+          }
+        },
+        {
+          "children": [],
+          "description": "Small and ready-to-go http server, in D",
+          "title": "serverino",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-02-01T21:58:47Z",
+            "owner": "trikko",
+            "repo": "serverino",
+            "stars": 74
+          }
+        },
+        {
+          "children": [],
+          "description": "Cross-platform event loop library of asynchronous objects",
+          "title": "libasync",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2024-07-04T18:26:13Z",
+            "owner": "etcimon",
+            "repo": "libasync",
+            "stars": 149
+          }
+        },
+        {
+          "children": [],
+          "description": "HTTP/2 library in D, translated from nghttp2",
+          "title": "libhttp2",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2023-03-02T19:49:43Z",
+            "owner": "etcimon",
+            "repo": "libhttp2",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Web Frameworks"
+    },
+    {
+      "description": "JSON, XML, protobuf and other data serialization libraries.",
+      "items": [
+        {
+          "children": [],
+          "description": "Serialisation library for D",
+          "title": "cerealed",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2023-06-02T13:36:20Z",
+            "owner": "atilaneves",
+            "repo": "cerealed",
+            "stars": 92
+          }
+        },
+        {
+          "children": [],
+          "description": "Google Protocol Buffer support in D.",
+          "title": "dproto",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2020-05-02T23:36:33Z",
+            "owner": "msoucy",
+            "repo": "dproto",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "Data Serialization"
+    },
+    {
+      "description": "Clients and bindings to C clients for relational and nosql databases.",
+      "items": [
+        {
+          "children": [],
+          "description": "Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects.",
+          "title": "vibe.d",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-12-17T15:25:41Z",
+            "owner": "vibe-d",
+            "repo": "vibe.d",
+            "stars": 1200
+          }
+        },
+        {
+          "children": [],
+          "description": "Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.",
+          "title": "arsd",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-02-07T23:48:10Z",
+            "owner": "adamdruppe",
+            "repo": "arsd",
+            "stars": 549
+          }
+        },
+        {
+          "children": [],
+          "description": "HibernateD is an ORM for D (similar to ).",
+          "title": "hibernated",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2024-12-22T21:33:27Z",
+            "owner": "buggins",
+            "repo": "hibernated",
+            "stars": 83
+          }
+        },
+        {
+          "children": [],
+          "description": "A MySQL client implemented in native D.",
+          "title": "mysql-native",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2024-01-10T00:06:56Z",
+            "owner": "mysql-d",
+            "repo": "mysql-native",
+            "stars": 82
+          }
+        },
+        {
+          "children": [],
+          "description": "Database access for D2. Currently only supports PostgreSQL.",
+          "title": "ddb",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2022-07-31T14:04:41Z",
+            "owner": "pszturmaj",
+            "repo": "ddb",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction.",
+          "title": "ddbc",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-08-26T16:15:03Z",
+            "owner": "buggins",
+            "repo": "ddbc",
+            "stars": 80
+          }
+        },
+        {
+          "children": [],
+          "description": "An ORM for D with Vibe support. Works with vibe.d and mysql-d, giving it the ability to access MongoDB and MySQL.",
+          "title": "dvorm",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2016-05-12T10:57:08Z",
+            "owner": "rikkimax",
+            "repo": "Dvorm",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Redis driver for D. Fast, Simple, Stable. Has no dependencies.",
+          "title": "Tiny Redis"
+        },
+        {
+          "children": [],
+          "description": "Interact with a PocketBase database",
+          "title": "libpb",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2023-06-18T11:35:02Z",
+            "owner": "Hax-io",
+            "repo": "libpb",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Database Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Part of Adam Ruppe's  library supporting cursor and color manipulation on the console.",
+          "title": "terminal.d",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-02-07T23:48:10Z",
+            "owner": "adamdruppe",
+            "repo": "arsd",
+            "stars": 549
+          }
+        },
+        {
+          "children": [],
+          "description": "A modern, powerful command line argument parser.",
+          "title": "commandr",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2024-08-21T09:19:36Z",
+            "owner": "robik",
+            "repo": "commandr",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "A command line and config file parser for DLang",
+          "title": "argsd",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-11-21T21:50:23Z",
+            "owner": "burner",
+            "repo": "argsd",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "A command-line fuzzy finder.",
+          "title": "luneta",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2023-08-14T17:27:35Z",
+            "owner": "fbeline",
+            "repo": "luneta",
+            "stars": 63
+          }
+        },
+        {
+          "children": [],
+          "description": "Flexible parser of command line arguments.",
+          "title": "argparse"
+        },
+        {
+          "children": [],
+          "description": "simple easy-to-use colorful logger for command-line applications",
+          "title": "gogga",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-01-04T13:18:33Z",
+            "owner": "deavmi",
+            "repo": "gogga",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Utility library to aid writing script-like programs in D.",
+          "title": "scriptlike",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2021-03-10T10:47:45Z",
+            "owner": "Abscissa",
+            "repo": "scriptlike",
+            "stars": 94
+          }
+        },
+        {
+          "children": [],
+          "description": "A port of the ruby library . It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.",
+          "title": "d-colorize",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-05-21T23:51:26Z",
+            "owner": "fazibear",
+            "repo": "colorize",
+            "stars": 1283
+          }
+        },
+        {
+          "children": [],
+          "description": "A D implementation of the expect framework. Handy for bash emulation.",
+          "title": "dexpect",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2020-12-21T17:20:22Z",
+            "owner": "grogancolin",
+            "repo": "dexpect",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "A processor for command-line arguments, an alternative to Getopt, written in D.",
+          "title": "Argon",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2017-11-10T19:37:33Z",
+            "owner": "markuslaker",
+            "repo": "Argon",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "CLI Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A literate programming tool for any language.",
+          "title": "Literate",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2022-07-10T23:55:32Z",
+            "owner": "zyedidia",
+            "repo": "Literate",
+            "stars": 897
+          }
+        },
+        {
+          "children": [],
+          "description": "1 Free OneDrive Client for Linux.",
+          "title": "onedrive",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-02-05T10:20:14Z",
+            "owner": "abraunegg",
+            "repo": "onedrive",
+            "stars": 12052
+          }
+        },
+        {
+          "children": [],
+          "description": "Fast file sharing from cli, using transfer.sh.",
+          "title": "tshare",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2023-12-13T14:30:52Z",
+            "owner": "trikko",
+            "repo": "tshare",
+            "stars": 137
+          }
+        },
+        {
+          "children": [],
+          "description": "Todod is a command line based todo list manager. It also has support for shell interaction based on .",
+          "title": "todod",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2017-03-22T19:28:24Z",
+            "owner": "BlackEdder",
+            "repo": "todod",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Soulseek server implementation in D.",
+          "title": "Soulfind",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-01-31T14:08:18Z",
+            "owner": "soulfind-dev",
+            "repo": "soulfind",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "CLI Applications"
+    },
+    {
+      "description": "Libraries for working with graphical user interface applications.",
+      "items": [
+        {
+          "children": [],
+          "description": "GObject Introspection D Package Repository.",
+          "title": "giD",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-01-30T19:23:52Z",
+            "owner": "Kymorphia",
+            "repo": "gid",
+            "stars": 33
+          }
+        },
+        {
+          "children": [],
+          "description": "A declarative cross-platform user interface library for D.",
+          "title": "Fluid"
+        },
+        {
+          "children": [],
+          "description": "A smallish GUI widget library, aiming to be on par with at least HTML4 forms and a few other expected gui components. It's part of the .",
+          "title": "minigui",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-02-07T23:48:10Z",
+            "owner": "adamdruppe",
+            "repo": "arsd",
+            "stars": 549
+          }
+        },
+        {
+          "children": [],
+          "description": "Cross Platform GUI for D programming language. My personal favorite, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE .",
+          "title": "DLangUI",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-12-21T20:38:35Z",
+            "owner": "buggins",
+            "repo": "dlangui",
+            "stars": 858
+          }
+        },
+        {
+          "children": [],
+          "description": "A tiny immediate-mode UI library.",
+          "title": "microui-d",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-08-27T17:22:06Z",
+            "owner": "Kapendev",
+            "repo": "microui-d",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.",
+          "title": "GtkD",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-11-01T18:47:07Z",
+            "owner": "gtkd-developers",
+            "repo": "GtkD",
+            "stars": 328
+          }
+        },
+        {
+          "children": [],
+          "description": "GUI toolkit for the D programming language based on Tcl/Tk.",
+          "title": "tkD",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2021-10-15T16:40:59Z",
+            "owner": "nomad-software",
+            "repo": "tkd",
+            "stars": 119
+          }
+        },
+        {
+          "children": [],
+          "description": "Qt Qml bindings for the D programming language.",
+          "title": "dqml",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2022-10-12T09:24:40Z",
+            "owner": "filcuc",
+            "repo": "dqml",
+            "stars": 42
+          }
+        },
+        {
+          "children": [],
+          "description": "D bindings for the  - crossplatform HTML/CSS/script desktop UI toolkit.",
+          "title": "Sciter-Dport",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2017-06-12T03:17:04Z",
+            "owner": "sciter-sdk",
+            "repo": "Sciter-Dport",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "GUI Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A tiling terminal emulator for Linux using GTK+ 3.",
+          "title": "tilix",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-01-20T17:01:54Z",
+            "owner": "gnunn1",
+            "repo": "tilix",
+            "stars": 5617
+          }
+        },
+        {
+          "children": [],
+          "description": "Inochi2D Rigging Application.",
+          "title": "Inochi Creator",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-06-16T20:39:43Z",
+            "owner": "Inochi2D",
+            "repo": "inochi-creator",
+            "stars": 1088
+          }
+        },
+        {
+          "children": [],
+          "description": "Application that allows streaming with Inochi2D puppets.",
+          "title": "Inochi Session",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-11-08T18:18:23Z",
+            "owner": "Inochi2D",
+            "repo": "inochi-session",
+            "stars": 375
+          }
+        }
+      ],
+      "title": "GUI Applications"
+    },
+    {
+      "description": "Bindings to game development related libraries in C, C++, and other languages.",
+      "items": [
+        {
+          "children": [],
+          "description": "D bindings for raylib.",
+          "title": "raylib-d",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-10-06T14:48:28Z",
+            "owner": "schveiguy",
+            "repo": "raylib-d",
+            "stars": 80
+          }
+        },
+        {
+          "children": [],
+          "description": "D bindings for the sokol headers.",
+          "title": "sokol-d",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-05T08:15:54Z",
+            "owner": "floooh",
+            "repo": "sokol-d",
+            "stars": 23
+          }
+        },
+        {
+          "children": [],
+          "description": "D binding/wrapper to Allegro 5, a modern game programming library.",
+          "title": "DAllegro5",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2024-10-31T05:48:28Z",
+            "owner": "SiegeLord",
+            "repo": "DAllegro5",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "A static binding of SFML in a way that makes sense for D.",
+          "title": "DSFML",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2019-04-28T17:31:53Z",
+            "owner": "Jebbs",
+            "repo": "DSFML",
+            "stars": 97
+          }
+        },
+        {
+          "children": [],
+          "description": "D language bindings for the Godot Engine's GDNative API.",
+          "title": "Godot-D",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2023-09-04T13:02:37Z",
+            "owner": "godot-d",
+            "repo": "godot-d",
+            "stars": 210
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Graphics API",
+              "title": "OpenGL",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2024-10-19T17:30:47Z",
+                "owner": "BindBC",
+                "repo": "bindbc-opengl",
+                "stars": 42
+              }
+            },
+            {
+              "children": [],
+              "description": "Window/Input library",
+              "title": "GLFW 3",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2026-01-02T10:16:26Z",
+                "owner": "BindBC",
+                "repo": "bindbc-glfw",
+                "stars": 42
+              }
+            },
+            {
+              "children": [],
+              "description": "Multimedia library",
+              "title": "SDL 2",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2026-02-07T01:53:04Z",
+                "owner": "BindBC",
+                "repo": "bindbc-sdl",
+                "stars": 124
+              }
+            },
+            {
+              "children": [],
+              "description": "Drawing primitives for SDL2",
+              "title": "SDL2_gfx",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2019-11-19T22:39:34Z",
+                "owner": "aferust",
+                "repo": "bindbc-sdlgfx",
+                "stars": 1
+              }
+            },
+            {
+              "children": [],
+              "description": "Multimedia library",
+              "title": "SFML 2",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2024-11-28T14:22:40Z",
+                "owner": "BindBC",
+                "repo": "bindbc-sfml",
+                "stars": 12
+              }
+            },
+            {
+              "children": [],
+              "description": "Immediate mode GUI",
+              "title": "Imgui",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2025-10-22T19:33:39Z",
+                "owner": "Inochi2D",
+                "repo": "i2d-imgui",
+                "stars": 23
+              }
+            },
+            {
+              "children": [],
+              "description": "Immediate mode GUI",
+              "title": "Nuklear",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2023-09-22T18:03:45Z",
+                "owner": "Timu5",
+                "repo": "bindbc-nuklear",
+                "stars": 45
+              }
+            },
+            {
+              "children": [],
+              "description": "Game library",
+              "title": "raylib3",
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2023-12-24T15:25:37Z",
+                "owner": "o3o",
+                "repo": "bindbc-raylib3",
+                "stars": 16
+              }
+            },
+            {
+              "children": [],
+              "description": "Cross-Platform renderer",
+              "title": "bgfx",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2022-12-17T14:51:48Z",
+                "owner": "GoaLitiuM",
+                "repo": "bindbc-bgfx",
+                "stars": 21
+              }
+            },
+            {
+              "children": [],
+              "description": "Modern GPU API",
+              "title": "WebGPU",
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-12-01T19:03:03Z",
+                "owner": "DLangGamedev",
+                "repo": "bindbc-wgpu",
+                "stars": 32
+              }
+            },
+            {
+              "children": [],
+              "description": "Fast compression",
+              "title": "Zstandard",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2019-05-07T17:05:20Z",
+                "owner": "ZILtoid1991",
+                "repo": "bindbc-zstandard",
+                "stars": 2
+              }
+            },
+            {
+              "children": [],
+              "description": "Messaging library",
+              "title": "nanomsg-next-gen",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2020-10-03T05:42:40Z",
+                "owner": "darkridder",
+                "repo": "bindbc-nng",
+                "stars": 1
+              }
+            },
+            {
+              "children": [],
+              "description": "Audio library",
+              "title": "OpenAL",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2024-01-18T08:17:58Z",
+                "owner": "BindBC",
+                "repo": "bindbc-openal",
+                "stars": 9
+              }
+            },
+            {
+              "children": [],
+              "description": "Audio library",
+              "title": "SoLoud",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2025-04-13T11:32:43Z",
+                "owner": "DLangGamedev",
+                "repo": "bindbc-soloud",
+                "stars": 9
+              }
+            },
+            {
+              "children": [],
+              "description": "UI widget toolkit",
+              "title": "KiWi",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2019-10-25T15:58:16Z",
+                "owner": "aferust",
+                "repo": "bindbc-kiwi",
+                "stars": 4
+              }
+            },
+            {
+              "children": [],
+              "description": "Vector graphics",
+              "title": "NanoVG",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2020-04-20T11:26:03Z",
+                "owner": "aferust",
+                "repo": "bindbc-nanovg",
+                "stars": 3
+              }
+            },
+            {
+              "children": [],
+              "description": "Vector graphics",
+              "title": "Blend2D",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2023-04-05T20:40:04Z",
+                "owner": "kdmult",
+                "repo": "bindbc-blend2d",
+                "stars": 5
+              }
+            },
+            {
+              "children": [],
+              "description": "Scripting language",
+              "title": "Lua",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2024-03-02T18:44:26Z",
+                "owner": "BindBC",
+                "repo": "bindbc-lua",
+                "stars": 18
+              }
+            },
+            {
+              "children": [],
+              "description": "Gamepad/Gyro input",
+              "title": "JoyShockLibrary",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2020-10-01T12:40:40Z",
+                "owner": "ZILtoid1991",
+                "repo": "bindbc-JSL",
+                "stars": 2
+              }
+            },
+            {
+              "children": [],
+              "description": "Physics library",
+              "title": "Newton Dynamics",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2025-03-29T22:31:59Z",
+                "owner": "DLangGamedev",
+                "repo": "bindbc-newton",
+                "stars": 9
+              }
+            },
+            {
+              "children": [],
+              "description": "Image loading",
+              "title": "FreeImage",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2023-07-07T20:52:20Z",
+                "owner": "BindBC",
+                "repo": "bindbc-freeimage",
+                "stars": 6
+              }
+            },
+            {
+              "children": [],
+              "description": "Font rendering",
+              "title": "FreeType",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2025-12-14T09:32:11Z",
+                "owner": "BindBC",
+                "repo": "bindbc-freetype",
+                "stars": 19
+              }
+            },
+            {
+              "children": [],
+              "description": "Text shaping",
+              "title": "HarfBuzz",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2024-11-19T16:29:25Z",
+                "owner": "DlangGraphicsWG",
+                "repo": "bindbc-harfbuzz",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "Bindings compatible with  and , using .",
+          "title": "BindBC",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-01-28T13:37:19Z",
+            "owner": "BindBC",
+            "repo": "bindbc-loader",
+            "stars": 26
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Graphics API",
+              "title": "OpenGLES",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2017-02-12T22:48:33Z",
+                "owner": "DerelictOrg",
+                "repo": "DerelictGLES",
+                "stars": 4
+              }
+            },
+            {
+              "children": [],
+              "description": "Networking library",
+              "title": "ENet",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2020-09-08T12:47:14Z",
+                "owner": "DerelictOrg",
+                "repo": "DerelictENet",
+                "stars": 8
+              }
+            },
+            {
+              "children": [],
+              "description": "Video codec",
+              "title": "libtheora",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2017-06-04T03:59:49Z",
+                "owner": "DerelictOrg",
+                "repo": "DerelictTheora",
+                "stars": 2
+              }
+            },
+            {
+              "children": [],
+              "description": "Audio codec",
+              "title": "libogg",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2017-06-04T03:46:35Z",
+                "owner": "DerelictOrg",
+                "repo": "DerelictOgg",
+                "stars": 5
+              }
+            },
+            {
+              "children": [],
+              "description": "Audio codec",
+              "title": "libvorbis",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2017-08-12T07:59:16Z",
+                "owner": "DerelictOrg",
+                "repo": "DerelictVorbis",
+                "stars": 3
+              }
+            },
+            {
+              "children": [],
+              "description": "PostgreSQL library",
+              "title": "libpq",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2025-09-08T13:05:36Z",
+                "owner": "DerelictOrg",
+                "repo": "DerelictPQ",
+                "stars": 8
+              }
+            },
+            {
+              "children": [],
+              "description": "Virtual file system",
+              "title": "PhysicsFS",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2017-09-22T03:17:19Z",
+                "owner": "DerelictOrg",
+                "repo": "DerelictPHYSFS",
+                "stars": 4
+              }
+            },
+            {
+              "children": [],
+              "description": "Physics library",
+              "title": "Open Dynamics Engine (ODE)",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2017-06-16T12:24:42Z",
+                "owner": "DerelictOrg",
+                "repo": "DerelictODE",
+                "stars": 7
+              }
+            },
+            {
+              "children": [],
+              "description": "Audio library",
+              "title": "ALURE",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2017-06-04T02:46:03Z",
+                "owner": "DerelictOrg",
+                "repo": "DerelictALURE",
+                "stars": 3
+              }
+            },
+            {
+              "children": [],
+              "description": "Image library",
+              "title": "DevIL",
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2017-11-15T07:50:14Z",
+                "owner": "DerelictOrg",
+                "repo": "DerelictIL",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Bindings, now largely outdated. BindBC is its modern successor.",
+          "title": "DerelictOrg",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2017-02-12T22:48:33Z",
+            "owner": "DerelictOrg",
+            "repo": "DerelictGLES",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Game Bindings"
+    },
+    {
+      "description": "D libraries for game development.",
+      "items": [
+        {
+          "children": [],
+          "description": "Games math library for D.",
+          "title": "InMath",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-10-15T21:27:10Z",
+            "owner": "Inochi2D",
+            "repo": "inmath",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "A D port of Godot's linear algebra with unchanged semantics.",
+          "title": "godot-math",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-01-06T13:49:11Z",
+            "owner": "AuburnSounds",
+            "repo": "godot-math",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Virtual text mode with 8x8 Unicode font and markup language.",
+          "title": "text-mode",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-01-22T14:00:18Z",
+            "owner": "AuburnSounds",
+            "repo": "text-mode",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Game Libraries"
+    },
+    {
+      "description": "Games made with D.",
+      "items": [
+        {
+          "children": [],
+          "description": "A 3d multiplayer deathmatch space game written in D 2.0.",
+          "title": "Spacecraft",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2014-06-11T16:52:45Z",
+            "owner": "Ingrater",
+            "repo": "Spacecraft",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Robot Tank Battle Game.",
+          "title": "Dtanks",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-01-28T22:45:34Z",
+            "owner": "kingsleyh",
+            "repo": "dtanks",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "FPS game with physics based puzzles using OpenGL.",
+          "title": "Electronvolt (formerly Atrium)",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-09-08T14:27:44Z",
+            "owner": "gecko0307",
+            "repo": "electronvolt",
+            "stars": 115
+          }
+        },
+        {
+          "children": [],
+          "description": "A Backgammon GUI for Linux built with Gtk.",
+          "title": "Backgammony",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2024-06-19T11:06:47Z",
+            "owner": "jonathanballs",
+            "repo": "backgammony",
+            "stars": 40
+          }
+        },
+        {
+          "children": [],
+          "description": "A bite-sized escape room game.",
+          "title": "Worms Within"
+        },
+        {
+          "children": [],
+          "description": "Clean a spooky haunted house.",
+          "title": "Clean & Haunted"
+        },
+        {
+          "children": [],
+          "description": "An endless runner game where you help cute animals.",
+          "title": "Runani"
+        },
+        {
+          "children": [],
+          "description": "A cute visual novel about looking at an egg.",
+          "title": "A Short Metamorphosis"
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article .",
+          "title": "ArmageddonEngine",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-02-05T13:53:30Z",
+            "owner": "CyberShadow",
+            "repo": "ae",
+            "stars": 177
+          }
+        },
+        {
+          "children": [],
+          "description": "image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)",
+          "title": "dlib.image",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-01-01T18:59:55Z",
+            "owner": "gecko0307",
+            "repo": "dlib",
+            "stars": 225
+          }
+        },
+        {
+          "children": [],
+          "description": "basic color struct, HSL functions and reading and writing image files",
+          "title": "color.d",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-02-07T23:48:10Z",
+            "owner": "adamdruppe",
+            "repo": "arsd",
+            "stars": 549
+          }
+        },
+        {
+          "children": [],
+          "description": "Unofficial OpenCV binding for D",
+          "title": "opencvd",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2021-09-06T12:19:56Z",
+            "owner": "aferust",
+            "repo": "opencvd",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Image Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Nexflix's opensource deep learning framework.",
+          "title": "vectorflow",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2024-05-02T18:52:43Z",
+            "owner": "Netflix",
+            "repo": "vectorflow",
+            "stars": 1298
+          }
+        },
+        {
+          "children": [],
+          "description": "bindbc bindings to Microsoft's cross-platform, high performance ML inferencing and training accelerator",
+          "title": "bindbc-onnxruntime",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2023-03-05T17:05:13Z",
+            "owner": "lempiji",
+            "repo": "bindbc-onnxruntime",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Autograd and GPGPU library for dynamic neural networks in D",
+          "title": "grain2",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2020-03-14T17:15:05Z",
+            "owner": "ShigekiKarita",
+            "repo": "grain2",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Tensorflow wrapper for D",
+          "title": "tfd",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2021-06-15T14:07:00Z",
+            "owner": "ShigekiKarita",
+            "repo": "tfd",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "DCompute",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-02-07T05:30:32Z",
+            "owner": "libmir",
+            "repo": "dcompute",
+            "stars": 139
+          }
+        },
+        {
+          "children": [],
+          "description": "Dynamic bindings to the CUDA library for the D Programming Language.",
+          "title": "DerelictCUDA",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2019-02-22T18:22:43Z",
+            "owner": "DerelictOrg",
+            "repo": "DerelictCUDA",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Dynamic bindings to the OpenCL library for the D Programming Language.",
+          "title": "DerelictCL",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2019-10-30T20:11:43Z",
+            "owner": "DerelictOrg",
+            "repo": "DerelictCL",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Parallel Computing"
+    },
+    {
+      "description": "Scientific programming.",
+      "items": [
+        {
+          "children": [],
+          "description": "Scientific library for the D programming language",
+          "title": "scid",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2020-04-30T01:46:03Z",
+            "owner": "DlangScience",
+            "repo": "scid",
+            "stars": 92
+          }
+        },
+        {
+          "children": [],
+          "description": "A statistics library for D.",
+          "title": "dstats",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2022-12-10T17:22:08Z",
+            "owner": "DlangScience",
+            "repo": "dstats",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "Sandbox for some mir packages: sparse tensors, Hoffman and others.",
+          "title": "mir",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2022-06-05T10:20:02Z",
+            "owner": "libmir",
+            "repo": "mir",
+            "stars": 211
+          }
+        },
+        {
+          "children": [],
+          "description": "N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.",
+          "title": "mir-algorithm",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2022-06-05T10:20:02Z",
+            "owner": "libmir",
+            "repo": "mir",
+            "stars": 211
+          }
+        },
+        {
+          "children": [],
+          "description": "Advanced Random Number Generators.",
+          "title": "mir-random",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2024-12-17T18:38:23Z",
+            "owner": "libmir",
+            "repo": "mir-random",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Scientific"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A markdown parsing and rendering library for D programming language. Support commonMark.",
+          "title": "hunt-markdown",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2022-04-15T09:48:14Z",
+            "owner": "huntlabs",
+            "repo": "hunt-markdown",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Filtering, statistics, sampling, joins and other operations on TSV files. Very fast, especially good for large datasets.",
+          "title": "eBay's TSV utilities",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2022-09-14T17:43:16Z",
+            "owner": "eBay",
+            "repo": "tsv-utils",
+            "stars": 1474
+          }
+        }
+      ],
+      "title": "Text Processing"
+    },
+    {
+      "description": "Print with care.",
+      "items": [
+        {
+          "children": [],
+          "description": "extensible logging framework with message transformation support and custom loggers and contexts",
+          "title": "dlog",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-03-21T12:07:36Z",
+            "owner": "deavmi",
+            "repo": "dlog",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Phobos's upcoming standard logging facility.",
+          "title": "std.experimenatal.logger"
+        },
+        {
+          "children": [],
+          "description": "Logging for concurrent applications and daemons with lazy and delayed logging, logrotate support.",
+          "title": "dlogg",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2017-11-10T01:41:00Z",
+            "owner": "NCrashed",
+            "repo": "dlogg",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Logging"
+    },
+    {
+      "description": "Parsing configuration files.",
+      "items": [
+        {
+          "children": [],
+          "description": "An SDL (Simple Declarative Language) library for D.",
+          "title": "sdlang",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2023-04-30T01:06:05Z",
+            "owner": "dlang-community",
+            "repo": "SDLang-D",
+            "stars": 119
+          }
+        },
+        {
+          "children": [],
+          "description": "YAML parser and emitter for the D programming language.",
+          "title": "D:YAML",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-01-24T17:04:19Z",
+            "owner": "dlang-community",
+            "repo": "D-YAML",
+            "stars": 123
+          }
+        },
+        {
+          "children": [],
+          "description": "A compile time ini file parser and writter generator for D",
+          "title": "inifile-D",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2022-10-19T11:30:42Z",
+            "owner": "burner",
+            "repo": "inifiled",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Configuration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc.",
+          "title": "Botan",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-12-20T15:06:19Z",
+            "owner": "etcimon",
+            "repo": "botan",
+            "stars": 92
+          }
+        },
+        {
+          "children": [],
+          "description": "D version of the C headers for OpenSSL.",
+          "title": "OpenSSL",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-26T11:09:03Z",
+            "owner": "D-Programming-Deimos",
+            "repo": "openssl",
+            "stars": 48
+          }
+        },
+        {
+          "children": [],
+          "description": "A D Library of encryption, decryption, encode, hash, and message digital signatures.",
+          "title": "Crypto",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2025-01-01T09:59:07Z",
+            "owner": "shove70",
+            "repo": "crypto",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Cryptography"
+    },
+    {
+      "description": "Old or archived projects saved for reference.",
+      "items": [
+        {
+          "children": [],
+          "description": "Advanced unit testing & mocking toolkit",
+          "title": "dunit",
+          "repo_info": {
+            "archived": true,
+            "language": "D",
+            "last_commit": "2020-02-04T21:19:51Z",
+            "owner": "nomad-software",
+            "repo": "dunit",
+            "stars": 60
+          }
+        },
+        {
+          "children": [],
+          "description": "A refined core library for D programming language. The module has concurrency / collection / event / io / logging / text / serialize and more.",
+          "title": "hunt",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2024-01-17T09:42:17Z",
+            "owner": "huntlabs",
+            "repo": "hunt",
+            "stars": 98
+          }
+        },
+        {
+          "children": [],
+          "description": "A time library and similar to Joda-time and Java.time api.",
+          "title": "hunt-time",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2021-03-17T11:55:59Z",
+            "owner": "huntlabs",
+            "repo": "hunt-time",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "A data validation library for DLang based on hunt library.",
+          "title": "hunt-validation",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2024-01-18T02:39:18Z",
+            "owner": "huntlabs",
+            "repo": "hunt-validation",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "An asynchronous event-driven network framework written in dlang, like netty framework in D.",
+          "title": "collie",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2018-09-12T02:53:31Z",
+            "owner": "huntlabs",
+            "repo": "collie",
+            "stars": 60
+          }
+        },
+        {
+          "children": [],
+          "description": "High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).",
+          "title": "hunt-net",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2022-02-21T06:18:34Z",
+            "owner": "huntlabs",
+            "repo": "hunt-net",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "HTTP/1 and HTTP/2 protocol library for D.",
+          "title": "hunt-http",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2022-05-17T13:49:58Z",
+            "owner": "huntlabs",
+            "repo": "hunt-http",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.",
+          "title": "Hunt Framework",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2024-03-11T11:03:26Z",
+            "owner": "huntlabs",
+            "repo": "hunt-framework",
+            "stars": 309
+          }
+        },
+        {
+          "children": [],
+          "description": "Grpc for D programming language, hunt-http library based.",
+          "title": "grpc",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2022-03-12T05:22:40Z",
+            "owner": "huntlabs",
+            "repo": "grpc-dlang",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": "Fast and light, flatbuffers based rpc framework.",
+          "title": "kissrpc",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2018-03-22T02:26:40Z",
+            "owner": "huntlabs",
+            "repo": "kissrpc",
+            "stars": 41
+          }
+        },
+        {
+          "children": [],
+          "description": "A Apache V2 gossip protocol implementation for D programming language.",
+          "title": "hunt-gossip",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2019-03-11T12:22:33Z",
+            "owner": "huntlabs",
+            "repo": "hunt-gossip",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "D language universal cache library, using radix, redis and memcached.",
+          "title": "hunt-cache",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2022-12-26T02:17:25Z",
+            "owner": "huntlabs",
+            "repo": "hunt-cache",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "D Programming Language implementation of the google flatbuffers library.",
+          "title": "flatbuffers",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2017-07-21T08:20:50Z",
+            "owner": "huntlabs",
+            "repo": "flatbuffers",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Hunt entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.",
+          "title": "hunt-entity",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2022-07-22T09:57:30Z",
+            "owner": "huntlabs",
+            "repo": "hunt-entity",
+            "stars": 58
+          }
+        },
+        {
+          "children": [],
+          "description": "Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.",
+          "title": "hunt-database",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2023-11-15T08:15:53Z",
+            "owner": "huntlabs",
+            "repo": "hunt-database",
+            "stars": 49
+          }
+        },
+        {
+          "children": [],
+          "description": "Hunt console creation easier to create powerful command-line applications.",
+          "title": "hunt-console",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2021-10-29T10:05:04Z",
+            "owner": "huntlabs",
+            "repo": "hunt-console",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.",
+          "title": "DWT",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2023-09-19T11:28:36Z",
+            "owner": "d-widget-toolkit",
+            "repo": "dwt",
+            "stars": 141
+          }
+        },
+        {
+          "children": [],
+          "description": "Dynamic Binding for",
+          "title": "LibUI",
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2021-05-28T07:59:33Z",
+            "owner": "Extrawurst",
+            "repo": "DerelictLibui",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Unmaintained"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:26:30.527Z",
+    "original_repository": "dlang-community/awesome-d",
+    "source_repository": "v1nvn/enhansome-d",
+    "source_repository_description": null,
+    "title": "Awesome D with stars"
+  }
+}

@@ -1,0 +1,678 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "OpenTofu repository",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T18:42:09Z",
+            "owner": "opentofu",
+            "repo": "opentofu",
+            "stars": 27775
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Fork announcement"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Registry",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-08T02:58:25Z",
+            "owner": "opentofu",
+            "repo": "registry",
+            "stars": 392
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Registry MCP Server",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-08T10:54:09Z",
+            "owner": "opentofu",
+            "repo": "opentofu-mcp-server",
+            "stars": 75
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Weekly updates",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T18:42:09Z",
+            "owner": "opentofu",
+            "repo": "opentofu",
+            "stars": 27775
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Office hours"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Technical Steering Committee updates",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-06T16:59:26Z",
+            "owner": "opentofu",
+            "repo": "org",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Official"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "CLI and Kubernetes app installer.",
+          "title": "arkade",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T09:31:08Z",
+            "owner": "alexellis",
+            "repo": "arkade",
+            "stars": 4536
+          }
+        },
+        {
+          "children": [],
+          "description": "OpenTofu plugin for asdf version manager.",
+          "title": "asdf-opentofu",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-30T18:33:15Z",
+            "owner": "virtualroot",
+            "repo": "asdf-opentofu",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Terraform and OpenTofu version manager written in Go.",
+          "title": "tenv",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-03T09:32:48Z",
+            "owner": "tofuutils",
+            "repo": "tenv",
+            "stars": 1300
+          }
+        },
+        {
+          "children": [],
+          "description": "Terraform and OpenTofu version switcher written in Rust.",
+          "title": "tfswitcher",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-05-26T05:30:50Z",
+            "owner": "ASleepyCat",
+            "repo": "tfswitcher",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "OpenTofu version manager inspired by tfenv.",
+          "title": "tofuenv",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-11-24T09:16:42Z",
+            "owner": "tofuutils",
+            "repo": "tofuenv",
+            "stars": 220
+          }
+        }
+      ],
+      "title": "Environment managers"
+    },
+    {
+      "description": "Simplify your OpenTofu workflows with a thin wrapper.",
+      "items": [
+        {
+          "children": [],
+          "description": "Orchestration tool that keeps environment configuration DRY.",
+          "title": "Atmos",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-08T04:15:13Z",
+            "owner": "cloudposse",
+            "repo": "atmos",
+            "stars": 1249
+          }
+        },
+        {
+          "children": [],
+          "description": "Keep your configurations DRY, work with multiple modules, and manage remote state.",
+          "title": "Terragrunt",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T19:02:46Z",
+            "owner": "gruntwork-io",
+            "repo": "terragrunt",
+            "stars": 9284
+          }
+        },
+        {
+          "children": [],
+          "description": "Automation, orchestration, and code generation for OpenTofu, Terraform, Kubernetes, and others.",
+          "title": "Terramate",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-05T10:52:38Z",
+            "owner": "terramate-io",
+            "repo": "terramate",
+            "stars": 3515
+          }
+        },
+        {
+          "children": [],
+          "description": "Docker container to simplify and secure the use of infrastructure as code.",
+          "title": "easy_infra",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T21:36:03Z",
+            "owner": "SeisoLLC",
+            "repo": "easy_infra",
+            "stars": 78
+          }
+        },
+        {
+          "children": [],
+          "description": "A terminal user interface for power users.",
+          "title": "pug",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-02T11:17:40Z",
+            "owner": "leg100",
+            "repo": "pug",
+            "stars": 651
+          }
+        },
+        {
+          "children": [],
+          "description": "Less verbose and more friendly command outputs.",
+          "title": "tf",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-04T16:56:36Z",
+            "owner": "dex4er",
+            "repo": "tf",
+            "stars": 86
+          }
+        },
+        {
+          "children": [],
+          "description": "Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.",
+          "title": "tfam",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-03-06T14:47:13Z",
+            "owner": "Ant0wan",
+            "repo": "tfam",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.",
+          "title": "tfexe",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-11-03T15:50:59Z",
+            "owner": "Ant0wan",
+            "repo": "tfexe",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Python wrapper that simplifies OpenTofu usage and enforces best practices.",
+          "title": "tfwrapper",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T21:27:34Z",
+            "owner": "claranet",
+            "repo": "tfwrapper",
+            "stars": 151
+          }
+        }
+      ],
+      "title": "Wrappers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Automating workflows via pull requests.",
+          "title": "Atlantis"
+        },
+        {
+          "children": [],
+          "description": "A TACoS (Terraform Automation and Collaboration Software) that works inside Kubernetes.",
+          "title": "Burrito"
+        },
+        {
+          "children": [],
+          "description": "Continuous infrastructure drift detection with historical tracking and notifications.",
+          "title": "drifthound",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-02-07T11:12:22Z",
+            "owner": "treezio",
+            "repo": "drifthound",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "GitHub Action to init, plan and apply Terraform/OpenTofu via PR automation.",
+          "title": "TF-via-PR",
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-02-05T10:54:06Z",
+            "owner": "OP5dev",
+            "repo": "TF-via-PR",
+            "stars": 307
+          }
+        },
+        {
+          "children": [],
+          "description": "Git pre-commit hooks plugin.",
+          "title": "pre-commit-opentofu",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-23T11:07:49Z",
+            "owner": "tofuutils",
+            "repo": "pre-commit-opentofu",
+            "stars": 89
+          }
+        },
+        {
+          "children": [],
+          "description": "Set up OpenTofu CLI in your GitHub Actions workflow.",
+          "title": "setup-opentofu",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-14T15:21:09Z",
+            "owner": "opentofu",
+            "repo": "setup-opentofu",
+            "stars": 148
+          }
+        },
+        {
+          "children": [],
+          "description": "GitHub Actions for OpenTofu.",
+          "title": "terraform-github-actions",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-30T18:34:55Z",
+            "owner": "dflook",
+            "repo": "terraform-github-actions",
+            "stars": 950
+          }
+        },
+        {
+          "children": [],
+          "description": "GitOps OpenTofu and Terraform controller for Flux.",
+          "title": "tofu-controller",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-03T14:45:06Z",
+            "owner": "flux-iac",
+            "repo": "tofu-controller",
+            "stars": 1586
+          }
+        },
+        {
+          "children": [],
+          "description": "Easily export OpenTofu and Terraform plans in HTML for better readability.",
+          "title": "tofUI",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-27T17:22:58Z",
+            "owner": "65156",
+            "repo": "tofUI",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "CI"
+    },
+    {
+      "description": "Alternatives to Terraform Cloud.",
+      "items": [
+        {
+          "children": [],
+          "description": "Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.",
+          "title": "digger",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T16:19:26Z",
+            "owner": "diggerhq",
+            "repo": "digger",
+            "stars": 4847
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source platform with a private registry, remote state, custom flows, scheduled workspaces, and visual states.",
+          "title": "terrakube",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-07T01:10:10Z",
+            "owner": "AzBuilder",
+            "repo": "terrakube",
+            "stars": 825
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source alternative to Terraform Enterprise with SSO, team management, agents, etc.",
+          "title": "tofutf",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-12-13T04:42:12Z",
+            "owner": "tofutf",
+            "repo": "tofutf",
+            "stars": 86
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source alternative to Terraform Cloud/Enterprise. GitOps-first and built for scale, security, and reliability across modern VCS providers.",
+          "title": "Terrateam",
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-02-06T21:49:21Z",
+            "owner": "terrateamio",
+            "repo": "terrateam",
+            "stars": 1169
+          }
+        }
+      ],
+      "title": "Platforms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "An indexer of registries for providers and modules with insights and documentation.",
+          "title": "library.tf"
+        },
+        {
+          "children": [],
+          "description": "An open-source module and provider registry compatible with OpenTofu.",
+          "title": "boring-registry",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-05T20:45:51Z",
+            "owner": "boring-registry",
+            "repo": "boring-registry",
+            "stars": 253
+          }
+        },
+        {
+          "children": [],
+          "description": "Registry network mirroring service compatible with OpenTofu.",
+          "title": "hermitcrab",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-11-20T00:57:10Z",
+            "owner": "seal-io",
+            "repo": "hermitcrab",
+            "stars": 47
+          }
+        },
+        {
+          "children": [],
+          "description": "Minimal private module registry compatible with OpenTofu.",
+          "title": "terrac",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-30T15:51:47Z",
+            "owner": "haoliangyu",
+            "repo": "terrac",
+            "stars": 33
+          }
+        },
+        {
+          "children": [],
+          "description": "Use GitLab projects as a private registry for Terraform modules.",
+          "title": "GitLab Module Registry"
+        },
+        {
+          "children": [],
+          "description": "Private registry for providers and modules.",
+          "title": "terralist",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T17:11:10Z",
+            "owner": "terralist",
+            "repo": "terralist",
+            "stars": 463
+          }
+        },
+        {
+          "children": [],
+          "description": "Private registry for modules and providers with support for multiple databases and storages.",
+          "title": "citizen",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-12T20:14:31Z",
+            "owner": "outsideris",
+            "repo": "citizen",
+            "stars": 649
+          }
+        },
+        {
+          "children": [],
+          "description": "Private registry manager using Google Cloud Storage.",
+          "title": "petra",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-06T20:17:34Z",
+            "owner": "devoteamgcloud",
+            "repo": "petra",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "Private registry for modules and providers with a UI.",
+          "title": "tapir",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-08T01:57:57Z",
+            "owner": "PacoVK",
+            "repo": "tapir",
+            "stars": 235
+          }
+        },
+        {
+          "children": [],
+          "description": "Modules registry with authentication and support for multiple backends.",
+          "title": "terraform-registry",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-01T14:28:04Z",
+            "owner": "nrkno",
+            "repo": "terraform-registry",
+            "stars": 117
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source modules registry with UI, optional Git integration and deep analysis.",
+          "title": "terrareg",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-16T15:25:02Z",
+            "owner": "MatthewJohn",
+            "repo": "terrareg",
+            "stars": 330
+          }
+        },
+        {
+          "children": [],
+          "description": "Proxy registry for providers.",
+          "title": "terustry",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-13T11:56:13Z",
+            "owner": "veepee-oss",
+            "repo": "terustry",
+            "stars": 72
+          }
+        },
+        {
+          "children": [],
+          "description": "TUI for OpenTofu provider registry.",
+          "title": "tofuref",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-28T07:20:26Z",
+            "owner": "djetelina",
+            "repo": "tofuref",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Registry"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The OpenTofu Language Server.",
+          "title": "OpenTofu Language Server",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-08T10:48:32Z",
+            "owner": "opentofu",
+            "repo": "tofu-ls",
+            "stars": 150
+          }
+        },
+        {
+          "children": [],
+          "description": "Extension for Visual Studio Code with the OpenTofu Language Server adds editing features for OpenTofu files such as syntax highlighting, IntelliSense, code navigation, code formatting, module explorer.",
+          "title": "VS Code Extension"
+        },
+        {
+          "children": [],
+          "description": "Extension for the Zed Editor.",
+          "title": "zed Extension",
+          "repo_info": {
+            "archived": false,
+            "language": "Tree-sitter Query",
+            "last_commit": "2025-06-27T01:39:04Z",
+            "owner": "ashpool37",
+            "repo": "zed-extension-opentofu",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.",
+          "title": "terratag",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-17T07:55:32Z",
+            "owner": "env0",
+            "repo": "terratag",
+            "stars": 1037
+          }
+        },
+        {
+          "children": [],
+          "description": "Update version constraints in your Terraform / OpenTofu configurations.",
+          "title": "tfupdate",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-11-20T09:49:38Z",
+            "owner": "minamijoyo",
+            "repo": "tfupdate",
+            "stars": 636
+          }
+        }
+      ],
+      "title": "Helpers"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:31:08.597Z",
+    "original_repository": "virtualroot/awesome-opentofu",
+    "source_repository": "v1nvn/enhansome-opentofu",
+    "source_repository_description": null,
+    "title": "Awesome OpenTofu with stars"
+  }
+}

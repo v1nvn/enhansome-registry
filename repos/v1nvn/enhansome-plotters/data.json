@@ -1,0 +1,1258 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardware"
+    },
+    {
+      "description": "Pen plotters available to build or purchase, historical information, and restoration projects.",
+      "items": [
+        {
+          "children": [],
+          "description": "Pen plotter from Evil Mad Scientist.",
+          "title": "AxiDraw"
+        },
+        {
+          "children": [],
+          "description": "The new AxiDraw, now from Bantam Tools.",
+          "title": "NextDraw"
+        },
+        {
+          "children": [],
+          "description": "Beefy flatbed pen plotters from Bantam Tools.",
+          "title": "ArtFrame"
+        },
+        {
+          "children": [],
+          "description": "A cute little kickstarted robotic drawing arm.",
+          "title": "Line-us"
+        },
+        {
+          "children": [],
+          "description": "3d-Printable AxiDraw clone w/ Arduino CNC Shield controller running grbl firmware.",
+          "title": "Drawing Robot"
+        },
+        {
+          "children": [],
+          "description": "Yet another 3d-printable AxiDraw clone w/ Arduino CNC Shield controller running grbl firmware.",
+          "title": "4xiDraw"
+        },
+        {
+          "children": [],
+          "description": "XY art robot and software to plot with watercolor paints.",
+          "title": "WaterColorBot"
+        },
+        {
+          "children": [],
+          "description": "Pen plotter for egg-shaped and spherical objects.",
+          "title": "EggBot"
+        },
+        {
+          "children": [],
+          "description": "Vintage desktop and floor-standing pen plotters from the creator of the HPGL standard. Model 7475A is very common and can usually be found on eBay.",
+          "title": "HP Pen Plotters"
+        },
+        {
+          "children": [],
+          "description": "Vintage flatbed HPGL pen plotters. Search eBay for \"roland dxy\".",
+          "title": "Roland Pen Plotters"
+        },
+        {
+          "children": [],
+          "description": "An open-source DIY pen plotter from Hack Club with a browser-based editor for generative art.",
+          "title": "Blot"
+        },
+        {
+          "children": [],
+          "description": "A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python. Here's  from the creator.",
+          "title": "BrachioGraph"
+        },
+        {
+          "children": [],
+          "description": "A fairly simple 3d-printed AxiDraw-style plotter with good video documentation.",
+          "title": "Arduino CNC Drawing Machine"
+        },
+        {
+          "children": [],
+          "description": "A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.",
+          "title": "PlotterXY",
+          "repo_info": {
+            "archived": false,
+            "language": "G-code",
+            "last_commit": "2024-07-22T11:55:00Z",
+            "owner": "jamescarruthers",
+            "repo": "PlotterXY",
+            "stars": 74
+          }
+        },
+        {
+          "children": [],
+          "description": "The  successor to the popular AxiDraw pen plotter.",
+          "title": "NextDraw"
+        },
+        {
+          "children": [],
+          "description": "Open source 3d-printable XY gantry and Z-stage designed for automated brush and pen painting.",
+          "title": "openBrushograph",
+          "repo_info": {
+            "archived": false,
+            "language": "OpenSCAD",
+            "last_commit": "2025-12-13T16:27:52Z",
+            "owner": "openBrushograph",
+            "repo": "openBrushograph_hardware",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Pen plotter built entirely of LEGO and programmed with PyBricks and Python.",
+          "title": "Lego-Pen-Plotter",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-02T00:54:31Z",
+            "owner": "Jormono1",
+            "repo": "Lego-Pen-Plotter",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Polargraph robot that draws on a wall, window, or easel.",
+          "title": "Makelangelo 5"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Reviving the Apple 410 Color Plotter"
+        },
+        {
+          "children": [],
+          "description": "Apple 410 Color Plotter documentation, drivers, and ROM dumps.",
+          "title": "Apple-410",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-29T18:02:31Z",
+            "owner": "phooky",
+            "repo": "Apple-410",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Plotters"
+    },
+    {
+      "description": "Hardware for driving stepper motors and controlling pen plotters.",
+      "items": [
+        {
+          "children": [],
+          "description": "All the stepper motor control hardware needed to turn an  into a G-code-based motion controller using the grbl firmware. ()",
+          "title": "grblShield",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2013-11-07T15:53:06Z",
+            "owner": "synthetos",
+            "repo": "grblShield",
+            "stars": 139
+          }
+        },
+        {
+          "children": [],
+          "description": "More featureful and robust 6-axis G-code-based motion control hardware. ()",
+          "title": "TinyG",
+          "repo_info": {
+            "archived": false,
+            "language": "G-code",
+            "last_commit": "2025-09-06T14:18:19Z",
+            "owner": "synthetos",
+            "repo": "TinyG",
+            "stars": 939
+          }
+        },
+        {
+          "children": [],
+          "description": "Grbl-compatible stepper motor control shield for Arduino, similar to the grblShield.",
+          "title": "Arduino CNC Shield"
+        },
+        {
+          "children": [],
+          "description": "Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.",
+          "title": "Raspberry Pi CNC Hat"
+        },
+        {
+          "children": [],
+          "description": "USB-based dual stepper motor controller board, originally designed for the EggBot.",
+          "title": "EBB Driver Board"
+        }
+      ],
+      "title": "Motor Controllers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Software"
+    },
+    {
+      "description": "HPGL is a text-based protocol used by most old pen plotters and many new vinyl cutters.",
+      "items": [
+        {
+          "children": [],
+          "description": "Python library for generating HPGL and interfacing with serial plotters.",
+          "title": "Chiplotle",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-06T21:10:19Z",
+            "owner": "drepetto",
+            "repo": "chiplotle",
+            "stars": 38
+          }
+        },
+        {
+          "children": [],
+          "description": "Chiplotle fork updated for Python 3.x compatibility.",
+          "title": "Chiplotle3",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-10T21:25:46Z",
+            "owner": "cyprienh",
+            "repo": "chiplotle3",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "HTML-based HPGL Reference.",
+          "title": "HPGL Reference Guide"
+        },
+        {
+          "children": [],
+          "description": "Scanned PDF manual that contains a full HPGL reference.",
+          "title": "HP 7475A Interfacing and Programming Manual"
+        },
+        {
+          "children": [],
+          "description": "A Node.js library to communicate with HPGL-compatible plotters and printers.",
+          "title": "djipco/hpgl",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-21T14:21:15Z",
+            "owner": "djipco",
+            "repo": "hpgl",
+            "stars": 41
+          }
+        },
+        {
+          "children": [],
+          "description": "GNU tool to convert HPGL into other vector and raster formats. Can also be used as a previewing in X11.",
+          "title": "hp2xx"
+        },
+        {
+          "children": [],
+          "description": "Example C code for generating HPGL, with a turtle graphics interface.",
+          "title": "vec",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-06-21T22:58:24Z",
+            "owner": "anachrocomputer",
+            "repo": "vec",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "An adapter for the HTML Canvas API so you can output HPGL using the popular  library.",
+          "title": "d3-hpgl",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-09-29T23:17:50Z",
+            "owner": "aubergene",
+            "repo": "d3-hpgl",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "An HPGL Viewer using JavaScript and HTML5 canvas.",
+          "title": "HPGL Viewer",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T15:55:22Z",
+            "owner": "drskullster",
+            "repo": "HPGLViewer",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "A web interface for previewing HPGL and sending it to your plotter.",
+          "title": "HPGL Sender",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-29T18:12:54Z",
+            "owner": "LgHS",
+            "repo": "hpgl-sender",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "A Processing library for writing HPGL files.",
+          "title": "HPGLGraphics",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-12-03T03:13:00Z",
+            "owner": "ciaron",
+            "repo": "HPGLGraphics",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "A Processing library that allows for direct communication with HPGL pen plotters from within a Processing sketch.",
+          "title": "processing2hpgl",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-04-08T19:36:25Z",
+            "owner": "awdriggs",
+            "repo": "processing2hpgl",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "HPGL"
+    },
+    {
+      "description": "G-code is a text-based standard for controlling CNC machines. Though it was designed for industrial machines, its use in many hobbyist 3d printer firmwares has made it ubiquitous in small-scale DIY projects as well.",
+      "items": [
+        {
+          "children": [],
+          "description": "A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.",
+          "title": "grbl",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-02T19:33:15Z",
+            "owner": "grbl",
+            "repo": "grbl",
+            "stars": 6081
+          }
+        },
+        {
+          "children": [],
+          "description": "A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.",
+          "title": "cncjs",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T13:28:55Z",
+            "owner": "cncjs",
+            "repo": "cncjs",
+            "stars": 2530
+          }
+        },
+        {
+          "children": [],
+          "description": "Node.js G-code interpreter and simulator.",
+          "title": "node-gcode",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-04T19:51:01Z",
+            "owner": "ryansturmer",
+            "repo": "node-gcode",
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "Node.js command line utility for converting SVG to G-code.",
+          "title": "svg2gcode",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-12-05T04:24:33Z",
+            "owner": "em",
+            "repo": "svg2gcode",
+            "stars": 54
+          }
+        },
+        {
+          "children": [],
+          "description": "Python utility for fast SVG to G-code conversion.",
+          "title": "svg2gcode",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-07-14T02:13:06Z",
+            "owner": "vishpat",
+            "repo": "svg2gcode",
+            "stars": 97
+          }
+        },
+        {
+          "children": [],
+          "description": "A web-based utility for converting SVG to G-code.",
+          "title": "jscut"
+        },
+        {
+          "children": [],
+          "description": "Java-based grbl-compatible cross-platform G-code sender.",
+          "title": "Universal-G-Code-Sender",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-05T19:13:29Z",
+            "owner": "winder",
+            "repo": "Universal-G-Code-Sender",
+            "stars": 2158
+          }
+        },
+        {
+          "children": [],
+          "description": "Modular web-based workspaces to visualize G-code and control hardware.",
+          "title": "ChiliPeppr Hardware Fiddle"
+        },
+        {
+          "children": [],
+          "description": "Processing library, aiming to create gcode from simple shapes. (Designed for usage with the Creality CR10)",
+          "title": "gcode-generative-for-processing",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-02-28T00:22:52Z",
+            "owner": "o0morgan0o",
+            "repo": "gcode-generative-for-processing",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.",
+          "title": "gcodeplot",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-21T18:46:47Z",
+            "owner": "arpruss",
+            "repo": "gcodeplot",
+            "stars": 190
+          }
+        },
+        {
+          "children": [],
+          "description": "Blender add-on to export geometry node toolpaths as G-code.",
+          "title": "fabnodes"
+        }
+      ],
+      "title": "G-code"
+    },
+    {
+      "description": "Software for controlling plotter hardware.",
+      "items": [
+        {
+          "children": [],
+          "description": "Official AxiDraw extensions for Inkscape.",
+          "title": "axidraw",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-12T20:57:01Z",
+            "owner": "evil-mad",
+            "repo": "axidraw",
+            "stars": 457
+          }
+        },
+        {
+          "children": [],
+          "description": "Unofficial Python library for the AxiDraw v3.",
+          "title": "axi",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-29T10:42:43Z",
+            "owner": "fogleman",
+            "repo": "axi",
+            "stars": 282
+          }
+        },
+        {
+          "children": [],
+          "description": "Cross-platform G-code sender and CNC control software for grbl.",
+          "title": "bCNC",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T14:50:45Z",
+            "owner": "vlachoudis",
+            "repo": "bCNC",
+            "stars": 1700
+          }
+        },
+        {
+          "children": [],
+          "description": "Utilities for the Makeblock XY Plotter Robot Kit.",
+          "title": "xy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-07-25T21:17:49Z",
+            "owner": "fogleman",
+            "repo": "xy",
+            "stars": 71
+          }
+        },
+        {
+          "children": [],
+          "description": "Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.",
+          "title": "LaserGRBL",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-29T16:00:01Z",
+            "owner": "arkypita",
+            "repo": "LaserGRBL",
+            "stars": 1527
+          }
+        },
+        {
+          "children": [],
+          "description": "Sends drawings to the Line-us plotter directly from Inkscape.",
+          "title": "Line-us Inkscape Plugin",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-05-25T13:11:37Z",
+            "owner": "Line-us",
+            "repo": "Inkscape-Plugin",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Example code for the Line-us plotter's G-code-based API.",
+          "title": "Line-us API Examples",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-19T10:00:30Z",
+            "owner": "Line-us",
+            "repo": "Line-us-Programming",
+            "stars": 121
+          }
+        },
+        {
+          "children": [],
+          "description": "JavaScript library for controlling the Line-us machine from Node or the browser.",
+          "title": "@beardicus/line-us",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-04T11:28:10Z",
+            "owner": "beardicus",
+            "repo": "line-us",
+            "stars": 36
+          }
+        },
+        {
+          "children": [],
+          "description": "Polargraph controller that uses repetier firmware.",
+          "title": "PenPlotter",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-12-24T17:15:21Z",
+            "owner": "RickMcConney",
+            "repo": "PenPlotter",
+            "stars": 126
+          }
+        },
+        {
+          "children": [],
+          "description": "Firmware for the Makelangelo polargraph robot.",
+          "title": "Makelangelo-firmware",
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2021-10-18T16:23:59Z",
+            "owner": "MarginallyClever",
+            "repo": "Makelangelo-firmware",
+            "stars": 165
+          }
+        },
+        {
+          "children": [],
+          "description": "Software for the WaterColorBot.",
+          "title": "RoboPaint",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-01-09T06:25:12Z",
+            "owner": "evil-mad",
+            "repo": "robopaint",
+            "stars": 129
+          }
+        },
+        {
+          "children": [],
+          "description": "Turtle graphics for AxiDraw in Processing.",
+          "title": "AxiTurtle",
+          "repo_info": {
+            "archived": false,
+            "language": "Processing",
+            "last_commit": "2018-04-25T09:33:55Z",
+            "owner": "ralphcrutzen",
+            "repo": "AxiTurtle",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.",
+          "title": "GRBL-Plotter",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-06T10:22:30Z",
+            "owner": "svenhb",
+            "repo": "GRBL-Plotter",
+            "stars": 826
+          }
+        },
+        {
+          "children": [],
+          "description": "Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.",
+          "title": "saxi",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-20T10:59:20Z",
+            "owner": "nornagon",
+            "repo": "saxi",
+            "stars": 498
+          }
+        },
+        {
+          "children": [],
+          "description": "Software for converting HPGL to Graphtec's GPGL format, as well as CAD files for a Graphtec plotter pen adapter.",
+          "title": "MP2300-Tools",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-06T19:58:52Z",
+            "owner": "Jan--Henrik",
+            "repo": "MP2300-Tools",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Application for controlling 2D plotters, cutters, engravers, and CNC machines.",
+          "title": "Inkcut",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-22T15:13:01Z",
+            "owner": "inkcut",
+            "repo": "inkcut",
+            "stars": 390
+          }
+        },
+        {
+          "children": [],
+          "description": "Command-line tool for controlling Silhouette plotters and cutters with SVG input.",
+          "title": "plottie",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-01T15:17:38Z",
+            "owner": "mossblaser",
+            "repo": "plottie",
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "Python library for controlling Silhouette plotters and cutters.",
+          "title": "py_silhouette",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-12T06:40:35Z",
+            "owner": "mossblaser",
+            "repo": "py_silhouette",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "Python script to convert and send SVG drawings to the Panasonic PenWriter family of typewriter plotters.",
+          "title": "pypenwriter",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-27T00:41:43Z",
+            "owner": "Lana-chan",
+            "repo": "pypenwriter",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Plotter Control"
+    },
+    {
+      "description": "Tools to create vector artwork from scratch or by conversion from other formats.",
+      "items": [
+        {
+          "children": [],
+          "description": "Popular cross-platform open source vector graphics editor.",
+          "title": "Inkscape"
+        },
+        {
+          "children": [],
+          "description": "JavaScript library that makes coding accessible for artists, designers, educators, and beginners\".",
+          "title": "p5.js"
+        },
+        {
+          "children": [],
+          "description": "The Swiss Army Knife of Vector Graphics Scripting\".",
+          "title": "Paper.js"
+        },
+        {
+          "children": [],
+          "description": "Vector-based 3D renderer written in Go.",
+          "title": "ln",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-07-19T09:00:40Z",
+            "owner": "fogleman",
+            "repo": "ln",
+            "stars": 3353
+          }
+        },
+        {
+          "children": [],
+          "description": "Converts bitmap images to vector graphics.",
+          "title": "autotrace",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-16T22:44:39Z",
+            "owner": "autotrace",
+            "repo": "autotrace",
+            "stars": 674
+          }
+        },
+        {
+          "children": [],
+          "description": "Creates interesting stippled drawings from bitmap images. ()",
+          "title": "stipplegen",
+          "repo_info": {
+            "archived": false,
+            "language": "Processing",
+            "last_commit": "2022-04-09T00:45:16Z",
+            "owner": "evil-mad",
+            "repo": "stipplegen",
+            "stars": 463
+          }
+        },
+        {
+          "children": [],
+          "description": "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves\".",
+          "title": "SquiggleDraw",
+          "repo_info": {
+            "archived": false,
+            "language": "Processing",
+            "last_commit": "2023-01-28T19:58:31Z",
+            "owner": "gwygonik",
+            "repo": "SquiggleDraw",
+            "stars": 333
+          }
+        },
+        {
+          "children": [],
+          "description": "Web-based PNG to SVG creative noodler.",
+          "title": "svgurt"
+        },
+        {
+          "children": [],
+          "description": "Produce watertight polygonal vector maps by tracing raster images.",
+          "title": "maptrace",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-28T15:30:39Z",
+            "owner": "mzucker",
+            "repo": "maptrace",
+            "stars": 126
+          }
+        },
+        {
+          "children": [],
+          "description": "Creates G-code for use on drawbots.",
+          "title": "Drawbot_image_to_gcode_v2",
+          "repo_info": {
+            "archived": false,
+            "language": "Processing",
+            "last_commit": "2018-05-29T06:15:43Z",
+            "owner": "Scott-Cooper",
+            "repo": "Drawbot_image_to_gcode_v2",
+            "stars": 178
+          }
+        },
+        {
+          "children": [],
+          "description": "Turns a PNG image into a SVG line drawing.",
+          "title": "blackstripes",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-04-27T06:18:00Z",
+            "owner": "fullscreennl",
+            "repo": "blackstripes-python-extensions",
+            "stars": 100
+          }
+        },
+        {
+          "children": [],
+          "description": "A development environment for plotter art in JavaScript.",
+          "title": "penplot",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-08T15:49:54Z",
+            "owner": "mattdesl",
+            "repo": "penplot",
+            "stars": 269
+          }
+        },
+        {
+          "children": [],
+          "description": "A Python library for creating line-based SVG graphics.",
+          "title": "penkit",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-02-01T06:16:23Z",
+            "owner": "paulgb",
+            "repo": "penkit",
+            "stars": 158
+          }
+        },
+        {
+          "children": [],
+          "description": "Example Processing code that generates plottable PDFs.",
+          "title": "generativeExamples",
+          "repo_info": {
+            "archived": false,
+            "language": "Processing",
+            "last_commit": "2018-01-11T06:40:24Z",
+            "owner": "digitalcoleman",
+            "repo": "generativeExamples",
+            "stars": 64
+          }
+        },
+        {
+          "children": [],
+          "description": "Web-based tool to export an SVG map from Mapzen tiles.",
+          "title": "Let's make map"
+        },
+        {
+          "children": [],
+          "description": "A generative art library for Python that can export SVGs.",
+          "title": "LineDream"
+        },
+        {
+          "children": [],
+          "description": "A generative line art web app.",
+          "title": "SuperformulaSVG for web"
+        },
+        {
+          "children": [],
+          "description": "Scribbly image transformations in Processing.",
+          "title": "scribbleplot",
+          "repo_info": {
+            "archived": false,
+            "language": "Processing",
+            "last_commit": "2018-02-22T09:52:17Z",
+            "owner": "bleeptrack",
+            "repo": "scribbleplot",
+            "stars": 50
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for creating 2D vector drawings for CNC and laser cutter machines.",
+          "title": "Maker.js"
+        },
+        {
+          "children": [],
+          "description": "Browser-based JavaScript turtle graphics API with SVG export.",
+          "title": "Turtletoy"
+        },
+        {
+          "children": [],
+          "description": "Web/Standalone terminal environment for plotter art and tweet plots.",
+          "title": "cozyvec",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-12T14:45:42Z",
+            "owner": "brubsby",
+            "repo": "cozyvec",
+            "stars": 74
+          }
+        },
+        {
+          "children": [],
+          "description": "An  notebook collection full of plotter-oriented work.",
+          "title": "makio135/plotter"
+        },
+        {
+          "children": [],
+          "description": "Browser-based Image to SVG converter similar to SquiggleDraw.",
+          "title": "PlotterFun"
+        },
+        {
+          "children": [],
+          "description": "Dependency-free lightweight library for creating, manipulating, and animating SVG.",
+          "title": "SVG.js"
+        },
+        {
+          "children": [],
+          "description": "Experimental computational design platform for exploring generative space.",
+          "title": "Components AI"
+        },
+        {
+          "children": [],
+          "description": "Cross-platform software for converting images to line drawings.",
+          "title": "DrawingBotV3",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-10-08T21:39:54Z",
+            "owner": "SonarSonic",
+            "repo": "DrawingBotV3",
+            "stars": 472
+          }
+        },
+        {
+          "children": [],
+          "description": "Python tool to convert images to sketchy vector line drawings.",
+          "title": "linedraw",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-22T09:07:03Z",
+            "owner": "LingDong-",
+            "repo": "linedraw",
+            "stars": 837
+          }
+        },
+        {
+          "children": [],
+          "description": "Interactive website for hidden line removal of STL files to generate plottable SVG. Also supports Red/Blue 3D glasses.",
+          "title": "plotter.vision"
+        },
+        {
+          "children": [],
+          "description": "A simple web tool to create OpenStreetMap SVG maps for plotting.",
+          "title": "plotting-maps",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-12-11T17:04:50Z",
+            "owner": "piebro",
+            "repo": "plotting-maps",
+            "stars": 89
+          }
+        },
+        {
+          "children": [],
+          "description": "A toolkit for the design and fabrication of delicate punch needle embroidery using X-Y plotters\".",
+          "title": "ThreadPlotter",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-12T04:17:47Z",
+            "owner": "LiciaHe",
+            "repo": "threadPlotter",
+            "stars": 139
+          }
+        },
+        {
+          "children": [],
+          "description": "Plottable random line drawings from your images.",
+          "title": "PINTR"
+        },
+        {
+          "children": [],
+          "description": "A bunch of web-based pen plotter tools with SVG output.",
+          "title": "REVDANCATT Plotter Tools"
+        },
+        {
+          "children": [],
+          "description": "A tool for generating flow line representations using SVG paths / polylines.",
+          "title": "Flow Lines"
+        },
+        {
+          "children": [],
+          "description": "A web-based generative art thing with SVG export.",
+          "title": "UJI"
+        },
+        {
+          "children": [],
+          "description": "A web-based radial lines vector generation tool with SVG export.",
+          "title": "Rad Lines"
+        },
+        {
+          "children": [],
+          "description": "A web-based tool to generate ridge line charts from map data.",
+          "title": "Peak Map"
+        }
+      ],
+      "title": "Vector Creation"
+    },
+    {
+      "description": "Tools to manipulate and optimize vector-based file formats.",
+      "items": [
+        {
+          "children": [],
+          "description": "Path planning for plotting SVG files, reduces time spent moving with the pen up.",
+          "title": "svgsort",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-08-25T14:30:46Z",
+            "owner": "inconvergent",
+            "repo": "svgsort",
+            "stars": 261
+          }
+        },
+        {
+          "children": [],
+          "description": "Python library to extract strokes and outlines from SVGs as line segments.",
+          "title": "svgoutline",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-04T06:31:18Z",
+            "owner": "mossblaser",
+            "repo": "svgoutline",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "Node.js-based tool for optimizing SVG files.",
+          "title": "svgo",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-01T00:03:28Z",
+            "owner": "svg",
+            "repo": "svgo",
+            "stars": 22292
+          }
+        },
+        {
+          "children": [],
+          "description": "Optimize drawing plan for a polargraph.",
+          "title": "Polargraph Optimizer",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-05-03T19:25:26Z",
+            "owner": "ezheidtmann",
+            "repo": "polargraph-optimizer",
+            "stars": 58
+          }
+        },
+        {
+          "children": [],
+          "description": "An SVG optimizer that uses a vehicle routing solver to minimize plot time.",
+          "title": "penkit-optimize",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-02-01T06:16:23Z",
+            "owner": "paulgb",
+            "repo": "penkit",
+            "stars": 158
+          }
+        },
+        {
+          "children": [],
+          "description": "Chrome-only bookmarklet for extracting SVG from an HTML document.",
+          "title": "svg-crowbar",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-02-28T02:17:13Z",
+            "owner": "NYTimes",
+            "repo": "svg-crowbar",
+            "stars": 841
+          }
+        },
+        {
+          "children": [],
+          "description": "Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.",
+          "title": "vpype",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-02T10:21:20Z",
+            "owner": "abey79",
+            "repo": "vpype",
+            "stars": 864
+          }
+        },
+        {
+          "children": [],
+          "description": "A browser-based tool to crop SVGs using different primitives, custom shapes, or other SVGs.",
+          "title": "SVG Cropper"
+        }
+      ],
+      "title": "Vector Utilities"
+    },
+    {
+      "description": "Single-line vector fonts or \"engraving fonts\".",
+      "items": [
+        {
+          "children": [],
+          "description": "Good information and links to other resources and fonts.",
+          "title": "Summary of single line fonts"
+        },
+        {
+          "children": [],
+          "description": "format of vector fonts from the 60s. Includes a good overview of the original data format of the fonts.",
+          "title": "Hershey Vector Font"
+        },
+        {
+          "children": [],
+          "description": "C library and original font data for the Hershey fonts.",
+          "title": "hershey-fonts",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-01-01T22:29:08Z",
+            "owner": "kamalmostafa",
+            "repo": "hershey-fonts",
+            "stars": 81
+          }
+        },
+        {
+          "children": [],
+          "description": "Single-line fonts in an SVG format, mainly for use with the  Inkscape plugin.",
+          "title": "svg-fonts"
+        },
+        {
+          "children": [],
+          "description": "Browser-based Hershey Text tool with export to SVG.",
+          "title": "CNC Text Tool"
+        },
+        {
+          "children": [],
+          "description": "Generates G-code from text with a Hershey font.",
+          "title": "hf2gcode",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-04-25T11:59:01Z",
+            "owner": "Andy1978",
+            "repo": "hf2gcode",
+            "stars": 53
+          }
+        },
+        {
+          "children": [],
+          "description": "about the creation of this font from the original ROM.",
+          "title": "FifteenTwenty: Commodore 1520 plotter font",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-11T12:10:05Z",
+            "owner": "scruss",
+            "repo": "FifteenTwenty",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Pulling Teeth From a Corpse: Extracting the Vector Font From the Apple 410 Color Plotter"
+        }
+      ],
+      "title": "Fonts"
+    },
+    {
+      "description": "Scanned plotter manuals, marketing ephemera, academic papers, and patents. Thank you to the Internet Archive for hosting most of these.",
+      "items": [],
+      "title": "Manuals, Ephemera, Papers, and Patents"
+    },
+    {
+      "description": "Related awesome lists for further exploration.",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "awesome-generative-art",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-04T08:35:54Z",
+            "owner": "kosmos",
+            "repo": "awesome-generative-art",
+            "stars": 1801
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "awesome-creative-coding",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-06-16T16:37:13Z",
+            "owner": "terkelg",
+            "repo": "awesome-creative-coding",
+            "stars": 14413
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "awesome-3d-engines-for-plotters",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-29T21:21:31Z",
+            "owner": "msurguy",
+            "repo": "awesome-3d-engines-for-plotters",
+            "stars": 97
+          }
+        }
+      ],
+      "title": "Other Awesomes"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:25:02.211Z",
+    "original_repository": "beardicus/awesome-plotters",
+    "source_repository": "v1nvn/enhansome-plotters",
+    "source_repository_description": null,
+    "title": "Awesome Plotters with stars"
+  }
+}

@@ -1,0 +1,1137 @@
+{
+  "items": [
+    {
+      "description": "This is intended to be an incomplete list of resources about visual regression testing. It is not tailored to a specific area or role (Developer/QA/UX-Designer). Note that this is for all areas of regression software testing after the code in question is written. For a awesome list on general software testing see e.g. awesome-testing.\nFinally, I'm sure everyone who reads this list has one thing they want to add. Please read the How to Contribute page and Feel free to add to the list!!. If you think this is helpful Please give a Star ⭐️.",
+      "items": [],
+      "title": "Foreword"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "An automation framework that runs in-browser.",
+          "title": "Cypress.io"
+        },
+        {
+          "children": [],
+          "description": "Browser automation framework and ecosystem.",
+          "title": "Selenium",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-08T00:32:20Z",
+            "owner": "SeleniumHQ",
+            "repo": "selenium",
+            "stars": 33986
+          }
+        },
+        {
+          "children": [],
+          "description": "Scriptable browser like PhantomJS, based on Firefox.",
+          "title": "SlimerJS",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-09T01:45:51Z",
+            "owner": "laurentj",
+            "repo": "slimerjs",
+            "stars": 2995
+          }
+        },
+        {
+          "children": [],
+          "description": "Node.js bindings implementation for the W3C WebDriver protocol.",
+          "title": "Webdriver.io",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T14:38:11Z",
+            "owner": "webdriverio",
+            "repo": "webdriverio",
+            "stars": 9718
+          }
+        }
+      ],
+      "title": "Browser automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.",
+          "title": "AET",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-01-15T15:13:21Z",
+            "owner": "Cognifide",
+            "repo": "aet",
+            "stars": 150
+          }
+        },
+        {
+          "children": [],
+          "description": "44 image comparisons in 90 seconds.",
+          "title": "AyeSpy",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-06T13:49:22Z",
+            "owner": "newsuk",
+            "repo": "ayespy",
+            "stars": 218
+          }
+        },
+        {
+          "children": [],
+          "description": "Config-driven automated screenshot test framework.",
+          "title": "BackstopJS",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-07T22:39:52Z",
+            "owner": "garris",
+            "repo": "BackstopJS",
+            "stars": 7098
+          }
+        },
+        {
+          "children": [],
+          "description": "Open source platform for generating and reviewing visual differences. Supports multiple browsers, integrations for github and slack.",
+          "title": "basset"
+        },
+        {
+          "children": [],
+          "description": "Develop acceptance tests & end-to-end tests with realtime feedback.",
+          "title": "Chimp",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-10T20:56:25Z",
+            "owner": "xolvio",
+            "repo": "chimp",
+            "stars": 802
+          }
+        },
+        {
+          "children": [],
+          "description": "Modern Era Acceptance Testing Framework for NodeJS.",
+          "title": "CodeceptJS",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T19:51:21Z",
+            "owner": "codeception",
+            "repo": "codeceptjs",
+            "stars": 4218
+          }
+        },
+        {
+          "children": [],
+          "description": "Cross-browser visual testing with magic. Feature-rich tool with UI Runner, Tests Hot Reloading, Docker and Storybook integration.",
+          "title": "Creevey",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-02T10:58:02Z",
+            "owner": "wKich",
+            "repo": "creevey",
+            "stars": 425
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight CSS regression testing.",
+          "title": "CSSCritic",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-28T16:43:50Z",
+            "owner": "cburgmer",
+            "repo": "csscritic",
+            "stars": 490
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for visual regression testing using .",
+          "title": "Differencify",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-02T12:59:51Z",
+            "owner": "NimaSoroush",
+            "repo": "differencify",
+            "stars": 636
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple visual regression testing for .",
+          "title": "ember-visual-test",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-17T14:09:50Z",
+            "owner": "Cropster",
+            "repo": "ember-visual-test",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "A functional test suite based on jQuery",
+          "title": "FuncUnit",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-01T21:06:52Z",
+            "owner": "bitovi",
+            "repo": "funcunit",
+            "stars": 572
+          }
+        },
+        {
+          "children": [],
+          "description": "Java framework based on .",
+          "title": "Galen",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-07-15T20:08:10Z",
+            "owner": "galenframework",
+            "repo": "galen",
+            "stars": 1414
+          }
+        },
+        {
+          "children": [],
+          "description": "Integrated visual RSpec matcher which makes real visual testing easy (Ruby).",
+          "title": "gatling",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2013-08-01T05:24:55Z",
+            "owner": "gabrielrotbart",
+            "repo": "gatling",
+            "stars": 57
+          }
+        },
+        {
+          "children": [],
+          "description": "Plugin to prevent your project of broken layout via screenshot photo sessions of your site.",
+          "title": "grunt-photobox",
+          "repo_info": {
+            "archived": false,
+            "language": "Smarty",
+            "last_commit": "2016-06-13T22:58:44Z",
+            "owner": "stefanjudis",
+            "repo": "grunt-photobox",
+            "stars": 278
+          }
+        },
+        {
+          "children": [],
+          "description": "Visual diffing in CI for user interfaces.",
+          "title": "Happo",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T23:34:30Z",
+            "owner": "happo",
+            "repo": "happo.io",
+            "stars": 207
+          }
+        },
+        {
+          "children": [],
+          "description": "Selenium-driven, cucumber-powered CSS testing.",
+          "title": "Hardy",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-03-27T13:13:54Z",
+            "owner": "thingsinjars",
+            "repo": "Hardy",
+            "stars": 324
+          }
+        },
+        {
+          "children": [],
+          "description": "Jest matcher that performs image comparisons using",
+          "title": "jest-image-snapshot",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-22T02:09:06Z",
+            "owner": "americanexpress",
+            "repo": "jest-image-snapshot",
+            "stars": 3909
+          }
+        },
+        {
+          "children": [],
+          "description": "Visual regression testing with Jest and puppeteer for React components",
+          "title": "jest-puppeteer-react",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-10-23T09:44:55Z",
+            "owner": "Hapag-Lloyd",
+            "repo": "jest-puppeteer-react",
+            "stars": 73
+          }
+        },
+        {
+          "children": [],
+          "description": "A test runner by the AngularJS team, that fits all our needs.",
+          "title": "Karma"
+        },
+        {
+          "children": [],
+          "description": "Visual regression testing for Storybook using Chrome in docker et al.",
+          "title": "Loki",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-12T05:41:37Z",
+            "owner": "oblador",
+            "repo": "loki",
+            "stars": 1892
+          }
+        },
+        {
+          "children": [],
+          "description": "Chrome Extension for taking and comparing screenshots.",
+          "title": "Look-alike",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-07T21:46:56Z",
+            "owner": "kdzwinel",
+            "repo": "Look-alike",
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "Holistic visual regression testing for full pages, components (via Storybook and Ladle integration), and custom shots (e.g. via Cypress).",
+          "title": "Lost Pixel",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T17:55:50Z",
+            "owner": "lost-pixel",
+            "repo": "lost-pixel",
+            "stars": 1629
+          }
+        },
+        {
+          "children": [],
+          "description": "Visual regression testing framework for Chrome using  and .",
+          "title": "Muppeteer",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-04-29T09:50:55Z",
+            "owner": "HuddleEng",
+            "repo": "Muppeteer",
+            "stars": 66
+          }
+        },
+        {
+          "children": [],
+          "description": "Needle is a tool for testing visuals with Selenium and nose (Python).",
+          "title": "Needle",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-05T17:23:40Z",
+            "owner": "python-needle",
+            "repo": "needle",
+            "stars": 595
+          }
+        },
+        {
+          "children": [],
+          "description": "High-level browser automation library based on Electron.",
+          "title": "Nightmare",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-20T17:54:13Z",
+            "owner": "segmentio",
+            "repo": "nightmare",
+            "stars": 20000
+          }
+        },
+        {
+          "children": [],
+          "description": "Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol.",
+          "title": "Nightwatch",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T16:24:49Z",
+            "owner": "nightwatchjs",
+            "repo": "nightwatch",
+            "stars": 11949
+          }
+        },
+        {
+          "children": [],
+          "description": "The speedy and easy to use Snapshot Testing tool for your project (1200 snapshots will run in under 3 minutes).",
+          "title": "OSnap",
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2025-08-30T20:08:30Z",
+            "owner": "eWert-Online",
+            "repo": "osnap",
+            "stars": 168
+          }
+        },
+        {
+          "children": [],
+          "description": "Node library to automate Chromium, Firefox and WebKit with a single API.",
+          "title": "Playwright",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T04:13:43Z",
+            "owner": "microsoft",
+            "repo": "playwright",
+            "stars": 82292
+          }
+        },
+        {
+          "children": [],
+          "description": "E2E test framework for Angular apps.",
+          "title": "Protractor",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-05-24T20:07:37Z",
+            "owner": "angular",
+            "repo": "protractor",
+            "stars": 8698
+          }
+        },
+        {
+          "children": [],
+          "description": "Headless Google Chrome Node API.",
+          "title": "Puppeteer",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T04:02:25Z",
+            "owner": "GoogleChrome",
+            "repo": "puppeteer",
+            "stars": 93520
+          }
+        },
+        {
+          "children": [],
+          "description": "CasperJS-based UI regression and functional testing focused on Drupal 8 sites.",
+          "title": "qd_screenshottests"
+        },
+        {
+          "children": [],
+          "description": "Visual regression test tool which output easy-to-read single file html report.",
+          "title": "reg-cli",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T21:15:17Z",
+            "owner": "bokuweb",
+            "repo": "reg-cli",
+            "stars": 398
+          }
+        },
+        {
+          "children": [],
+          "description": "Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo.",
+          "title": "reg-suit",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-02T15:15:48Z",
+            "owner": "reg-viz",
+            "repo": "reg-suit",
+            "stars": 1246
+          }
+        },
+        {
+          "children": [],
+          "description": "Analyse and compare images with Javascript and HTML5.",
+          "title": "ResembleJS",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-06T21:57:14Z",
+            "owner": "Huddle",
+            "repo": "Resemble.js",
+            "stars": 4602
+          }
+        },
+        {
+          "children": [],
+          "description": "Framework powered by Selenium WebDriver for writing easy-to-read and easy-to-maintain automated tests in Java.",
+          "title": "Selenide",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T08:12:34Z",
+            "owner": "selenide",
+            "repo": "selenide",
+            "stars": 1910
+          }
+        },
+        {
+          "children": [],
+          "description": "UI regression and functional testing focused on Drupal 7 sites.",
+          "title": "Shoov",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-12-07T18:00:41Z",
+            "owner": "shoov",
+            "repo": "shoov",
+            "stars": 40
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides image comparison capabilities and an admin interface for managing screenshots.",
+          "title": "Spectre",
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2022-05-29T01:25:19Z",
+            "owner": "wearefriday",
+            "repo": "spectre",
+            "stars": 459
+          }
+        },
+        {
+          "children": [],
+          "description": "Visual regression testing, by crawling a website and providing snapshot comparison reports.",
+          "title": "test-crawler",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-02-18T13:00:13Z",
+            "owner": "apiel",
+            "repo": "test-crawler",
+            "stars": 33
+          }
+        },
+        {
+          "children": [],
+          "description": "Automated browser testing for the modern web development stack.",
+          "title": "TestCafe",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T23:12:55Z",
+            "owner": "DevExpress",
+            "repo": "testcafe",
+            "stars": 9902
+          }
+        },
+        {
+          "children": [],
+          "description": "Open source continuous regression testing without the hassle of managing snapshot files.",
+          "title": "Touca",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-04T05:32:25Z",
+            "owner": "trytouca",
+            "repo": "trytouca",
+            "stars": 509
+          }
+        },
+        {
+          "children": [],
+          "description": "JavaScript library for running visual regression tests on your components cross browser via selenium.",
+          "title": "vrtest",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-19T16:14:33Z",
+            "owner": "nathanmarks",
+            "repo": "vrtest",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Visual regression tool for webdriver.io",
+          "title": "wdio-visual-regression",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-06T11:07:45Z",
+            "owner": "ennjin",
+            "repo": "wdio-visual-regression",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Test-oriented browser automation library based on Puppeteer.",
+          "title": "Wendigo",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-08T12:06:25Z",
+            "owner": "angrykoala",
+            "repo": "wendigo",
+            "stars": 152
+          }
+        },
+        {
+          "children": [],
+          "description": "Easy to use ruby tool with docker support.",
+          "title": "Wraith",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-30T05:32:23Z",
+            "owner": "BBC-News",
+            "repo": "wraith",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Insanely fast, headless full-stack testing using Node.js.",
+          "title": "Zombie.js"
+        }
+      ],
+      "title": "Tools and frameworks (a-z↓)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Cloud base visual tests.",
+          "title": "applitools"
+        },
+        {
+          "children": [],
+          "description": "The open source visual testing platform for modern engineering teams.",
+          "title": "Argos"
+        },
+        {
+          "children": [],
+          "description": "Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage.",
+          "title": "Axcept"
+        },
+        {
+          "children": [],
+          "description": "Screenshots only.",
+          "title": "Browser Shots"
+        },
+        {
+          "children": [],
+          "description": "LIVE interactive cross-browser testing.",
+          "title": "browserling"
+        },
+        {
+          "children": [],
+          "description": "Free for Open Source. Supports .",
+          "title": "BrowserStack",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-08T00:32:20Z",
+            "owner": "SeleniumHQ",
+            "repo": "selenium",
+            "stars": 33986
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. It's free, with unlimited tests. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.",
+          "title": "BugBug.io"
+        },
+        {
+          "children": [],
+          "description": "Visual testing and UI review for component libraries. Cloud-based.",
+          "title": "Chromatic"
+        },
+        {
+          "children": [],
+          "description": "Manual & exploratory testing on 1500+ real browsers and mobile devices.",
+          "title": "CrossBrowserTesting"
+        },
+        {
+          "children": [],
+          "description": "Cloud based visual regression tool that focuses on Drupal and WordPress. Full page screenshots and minimal number of false positives. Just provide URLs of your sites to get started. No coding required.",
+          "title": "Diffy"
+        },
+        {
+          "children": [],
+          "description": "Screenshot pixel and DOM change comparisons and regressions.",
+          "title": "Fluxguard"
+        },
+        {
+          "children": [],
+          "description": "See .",
+          "title": "Ghost Inspector"
+        },
+        {
+          "children": [],
+          "description": "Cloud-based screenshot testing service with support for multiple browsers.",
+          "title": "Happo"
+        },
+        {
+          "children": [],
+          "description": "HeadSpin's Regression testing gives you a powerful comparison tool for analysing degradation across new app builds, OS releases, feature additions, locations, and more.",
+          "title": "HeadSpin"
+        },
+        {
+          "children": [],
+          "description": "Perform Automated and Live Interactive Cross Browser Testing on 2000+ Real Browsers and Operating Systems Online.",
+          "title": "LambdaTest"
+        },
+        {
+          "children": [],
+          "description": "Easily create frontend tests without writing code. Use Meticulous to record workflows on your web app. You can then replay those flows on new frontend code, and create a test by diffing two replays.",
+          "title": "Meticulous.ai"
+        },
+        {
+          "children": [],
+          "description": "Open source service for all UI application visual regression solution",
+          "title": "Micoo",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-05T22:08:22Z",
+            "owner": "Mikuu",
+            "repo": "Micoo",
+            "stars": 194
+          }
+        },
+        {
+          "children": [],
+          "description": "Continuous visual reviews for web apps.",
+          "title": "percy.io"
+        },
+        {
+          "children": [],
+          "description": "Open-source, multi-browser visual review and testing platform with the option to self-host. It has first-class support for Storybook, Cypress, Playwright & Puppeteer.",
+          "title": "Pixeleye"
+        },
+        {
+          "children": [],
+          "description": "Create AI-powered Cypress Tests/POM models in your browser and automate Email & Visual testing for Cypress.",
+          "title": "Preflight: Cypress Recorder"
+        },
+        {
+          "children": [],
+          "description": "Easiest Visual regression testing and Automated Web Testing tool. (Limited) free use.",
+          "title": "Preflight"
+        },
+        {
+          "children": [],
+          "description": "Visual regression testing and test automation tool.",
+          "title": "Reflect"
+        },
+        {
+          "children": [],
+          "description": "For React, looks open source.",
+          "title": "screener.io"
+        },
+        {
+          "children": [],
+          "description": "Cloud based automation testing platform for web and mobile UI.",
+          "title": "screenster.io"
+        },
+        {
+          "children": [],
+          "description": "Perform End to End test automation be it cross browser testing, mobile app testing, performance testing or API testing on cloud or on-premise.",
+          "title": "TestGrid"
+        },
+        {
+          "children": [],
+          "description": "Provides +3600 browsers to run automated visual tests. Free for Open Source.",
+          "title": "TestingBot"
+        },
+        {
+          "children": [],
+          "description": "Allows to collect tests to a Test Case Management System (TCMS) like testomat.io and sync manual and automated tests in one place.",
+          "title": "Testomat.io Reporter",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T21:03:00Z",
+            "owner": "testomatio",
+            "repo": "reporter",
+            "stars": 145
+          }
+        },
+        {
+          "children": [],
+          "description": "E2E functional test automation tool for web, mobile, and desktop tests.",
+          "title": "testRigor"
+        },
+        {
+          "children": [],
+          "description": "Cloud-based visual regression testing across stages.",
+          "title": "Vidiff"
+        },
+        {
+          "children": [],
+          "description": "Cloud-based visual testing platform with realtime results for testing tools.",
+          "title": "Visual Knight"
+        },
+        {
+          "children": [],
+          "description": "Open Source selfhosted service for visual regression testing",
+          "title": "Visual Regression Tracker",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-09T11:43:57Z",
+            "owner": "Visual-Regression-Tracker",
+            "repo": "Visual-Regression-Tracker",
+            "stars": 674
+          }
+        },
+        {
+          "children": [],
+          "description": "Flexible visual regression testing service.",
+          "title": "VisWiz.io"
+        },
+        {
+          "children": [],
+          "description": "WordPress plugin auto-updating screenshots on content updates, preventing false positives.",
+          "title": "VRTs - Visual Regression Tests"
+        }
+      ],
+      "title": "Online services (a-z↓)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Tutorial using BackstopJS.",
+          "title": "Angela Riggs: Visual Regression Testing with BackstopJS"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Automated screenshot comparison tests with headless Chrome, Puppeteer and Pixelmatch, in Bitbucket pipeline"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Automatic visual diffing with Puppeteer"
+        },
+        {
+          "children": [],
+          "description": "Headless Chrome is shaking up traditional approaches to test automation.",
+          "title": "Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD"
+        },
+        {
+          "children": [],
+          "description": "Intro to visual regression testing with tools updated as of 2022.",
+          "title": "Everything you need to know about Visual Regression Testing in 2022"
+        },
+        {
+          "children": [],
+          "description": "Tutorial using BackstopJS.",
+          "title": "Garris Shipon: Automating CSS Regression Testing"
+        },
+        {
+          "children": [],
+          "description": "Tutorial using BackstopJS.",
+          "title": "Garris Shipon: Visual Regression Testing For Angular Applications"
+        },
+        {
+          "children": [],
+          "description": "Using percy, and jest puppeteer to visually test a React component library.",
+          "title": "Keeping a React Design System consistent: using visual regression testing to save time and headaches"
+        },
+        {
+          "children": [],
+          "description": "Compares: Wraith, PhantomCSS, Gemini, WebdriverCSS and Spectre.",
+          "title": "Kevin Lamping: The 5 best visual regression testing tools"
+        },
+        {
+          "children": [],
+          "description": "Introduction to  and how to use it.",
+          "title": "Make visual regression testing easier",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-02T12:59:51Z",
+            "owner": "NimaSoroush",
+            "repo": "differencify",
+            "stars": 636
+          }
+        },
+        {
+          "children": [],
+          "description": "Introduction to PhantomCSS.",
+          "title": "Pavels Jelisejevs: Visual Regression Testing with PhantomCSS"
+        },
+        {
+          "children": [],
+          "description": "Why you should use BackstopJS.",
+          "title": "Phillip Gourley: Making visual regression useful"
+        },
+        {
+          "children": [],
+          "description": "Improved manual visual regression testing with the PerfectPixel chrome plugin.",
+          "title": "Poor man's visual regression testing"
+        },
+        {
+          "children": [],
+          "description": "Blog with practical guides and runnable examples on Playwright and Puppeteer.",
+          "title": "theheadless.dev"
+        },
+        {
+          "children": [],
+          "description": "Introduction about how to do visual regression testing with Micoo service",
+          "title": "UI Visual Regression Testing with Micoo"
+        },
+        {
+          "children": [],
+          "description": "Tutorial using WebdriverIO and WebdriverCSS with Spec Reporter",
+          "title": "Visual Regression Test with WebdriverIO & WebdriverCSS"
+        },
+        {
+          "children": [],
+          "description": "How to automate regression testing for Hugo with BackstopJS",
+          "title": "Visual regression testing for Hugo with Github-CI and BackstopJS"
+        },
+        {
+          "children": [],
+          "description": "Tutorial using Chromeless and jest-image-snapshot.",
+          "title": "Visual regression testing using Jest, Chromeless and AWS Lambda",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-09T18:15:28Z",
+            "owner": "novemberfiveco",
+            "repo": "visual-regression-testing-jest-chromeless",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
+          "description": "Tutorial to setup visual testing with Puppeteer, Jest and VisWiz.io.",
+          "title": "Visual Regression Testing with Puppeteer & Jest"
+        }
+      ],
+      "title": "Blog posts (a-z↓)"
+    },
+    {
+      "description": "The following projects are no longer maintained actively but are still worth mentioning because of their user base.",
+      "items": [
+        {
+          "children": [],
+          "description": "Navigation scripting and testing utility for PhantomJS and SlimerJS. (archived 2018)",
+          "title": "CasperJS",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-04-03T21:57:20Z",
+            "owner": "casperjs",
+            "repo": "casperjs",
+            "stars": 7180
+          }
+        },
+        {
+          "children": [],
+          "description": "Chrome automation made simple. Runs locally or headless on AWS Lambda. (archived 2018)",
+          "title": "Chromeless",
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2018-11-13T02:23:55Z",
+            "owner": "graphcool",
+            "repo": "chromeless",
+            "stars": 13251
+          }
+        },
+        {
+          "children": [],
+          "description": "Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.",
+          "title": "DalekJS",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-03T09:39:43Z",
+            "owner": "dalekjs",
+            "repo": "dalek",
+            "stars": 693
+          }
+        },
+        {
+          "children": [],
+          "description": "End-to-end testing with Python.",
+          "title": "dpxdt",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-12-05T18:07:01Z",
+            "owner": "bslatkin",
+            "repo": "dpxdt",
+            "stars": 1445
+          }
+        },
+        {
+          "children": [],
+          "description": "Feature rich framework with support for  and  . Gemini is deprecated, use hermione instead.",
+          "title": "Gemini",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-05-20T15:49:32Z",
+            "owner": "gemini-testing",
+            "repo": "gemini",
+            "stars": 1506
+          }
+        },
+        {
+          "children": [],
+          "description": "Python framework based on .",
+          "title": "Huxley",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-09-07T23:22:47Z",
+            "owner": "facebookarchive",
+            "repo": "huxley",
+            "stars": 4053
+          }
+        },
+        {
+          "children": [],
+          "description": "Browser Automation based on headless Chrome and GraphQL. (archived 2018)",
+          "title": "Navalia",
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2018-07-24T17:25:36Z",
+            "owner": "joelgriffith",
+            "repo": "navalia",
+            "stars": 970
+          }
+        },
+        {
+          "children": [],
+          "description": "uses .",
+          "title": "OcularJS",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-22T17:38:21Z",
+            "owner": "mmacartney10",
+            "repo": "ocularjs",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.",
+          "title": "PhantomCSS"
+        },
+        {
+          "children": [],
+          "description": "Experimental approach to UI testing, based on Decision Trees.",
+          "title": "PhantomFlow"
+        },
+        {
+          "children": [],
+          "description": "Scriptable Headless WebKit. No longer maintained since 2 June 2018.",
+          "title": "PhantomJS",
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-11-26T19:43:12Z",
+            "owner": "ariya",
+            "repo": "phantomjs",
+            "stars": 29497
+          }
+        },
+        {
+          "children": [],
+          "description": "Headless automation for Internet Explorer. (last update 2016)",
+          "title": "trifleJS",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-07-05T13:59:16Z",
+            "owner": "sdesalas",
+            "repo": "trifleJS",
+            "stars": 823
+          }
+        },
+        {
+          "children": [],
+          "description": "A human-friendly tool for testing and reviewing visual regressions.",
+          "title": "Visual Review",
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2020-02-10T20:58:02Z",
+            "owner": "xebia",
+            "repo": "VisualReview",
+            "stars": 274
+          }
+        },
+        {
+          "children": [],
+          "description": "WebdriverCSS sits on top of  and hooks into .",
+          "title": "WebdriverCSS",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-04-24T18:19:15Z",
+            "owner": "webdriverio",
+            "repo": "webdrivercss",
+            "stars": 611
+          }
+        }
+      ],
+      "title": "Deprecated (a-z↓)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "See the Contribution Guide for details on how to contribute.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "See the Code of Conduct for details. Basically it comes down to:",
+      "items": [],
+      "title": "Code of Conduct"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.\nLicense holders are all contributors.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:34:48.763Z",
+    "original_repository": "mojoaxel/awesome-regression-testing",
+    "source_repository": "v1nvn/enhansome-regression-testing",
+    "source_repository_description": null,
+    "title": "Awesome Visual Regression Testing with stars"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "items": [
+    {
+      "description": "Kustomize works as a standalone binary; also, it's built into (since v1.14). It can be used with off-the-shelf applications like Helm charts. Also, it has a deep integration with different GitOps tools like ArgoCD, Flux, and many others.",
+      "items": [],
+      "title": "Overview"
+    },
+    {
+      "description": "Kustomize has 3 types of plugins , , and .",
+      "items": [],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Generating Kubernetes Secret from various sources. It's like a swiss army knife, but for Kubernetes secrets (Exec).",
+          "title": "Secretize",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-07-15T13:14:57Z",
+            "owner": "bbl",
+            "repo": "secretize",
+            "stars": 71
+          }
+        },
+        {
+          "children": [],
+          "description": "Generating Secrets from sops-encrypted files (Exec, Exec KRM).",
+          "title": "SopsSecretGenerator",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-11T09:29:01Z",
+            "owner": "goabout",
+            "repo": "kustomize-sopssecretgenerator",
+            "stars": 117
+          }
+        },
+        {
+          "children": [],
+          "description": "Generating Secrets from sops-encrypted files (Exec).",
+          "title": "KSops",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-11-24T03:18:24Z",
+            "owner": "viaduct-ai",
+            "repo": "kustomize-sops",
+            "stars": 799
+          }
+        },
+        {
+          "children": [],
+          "description": "Generating Open Cluster Management policies (Exec).",
+          "title": "PolicyGenerator",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-15T21:38:15Z",
+            "owner": "open-cluster-management-io",
+            "repo": "policy-generator-plugin",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "Running builtin generators transformers (Exec).",
+          "title": "KRMFfnBuiltin",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-01T22:59:50Z",
+            "owner": "kaweezle",
+            "repo": "krmfnbuiltin",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Generating manifests seamlessly by extending Kustomize merge strategies using schemaless StrategicMerge (Containerized KRM, Exec KRM).",
+          "title": "Merger",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-07T05:52:43Z",
+            "owner": "aabouzaid",
+            "repo": "kustomize-plugin-merger",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "Generators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Transforming values in HelmRelease CustomResource. It helps to manage a lot of HelmRelease's value in single transformer file (Exec).",
+          "title": "HelmValuesTransformer",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-10-29T01:26:13Z",
+            "owner": "openinfradev",
+            "repo": "kustomize-helm-transformer",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Providing a set of KRM Functions to run builtin transformers in place (Containerized KRM, Exec KRM).",
+          "title": "TemplateTransformer",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-11-29T17:09:09Z",
+            "owner": "joshdk",
+            "repo": "template-transformer",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Transformers"
+    },
+    {
+      "description": "Kustomize guides based on their level or type like 📰 Article, 📺 Video, 🧪 Lab.",
+      "items": [],
+      "title": "Guides"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A curated list of awesome Kubernetes resources.",
+          "title": "Awesome Kubernetes",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-08-28T14:41:12Z",
+            "owner": "ramitsurana",
+            "repo": "awesome-kubernetes",
+            "stars": 15800
+          }
+        },
+        {
+          "children": [],
+          "description": "A curated list of awesome Kubectl plugins.",
+          "title": "Awesome Kubectl plugins",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-05T14:35:56Z",
+            "owner": "ishantanu",
+            "repo": "awesome-kubectl-plugins",
+            "stars": 995
+          }
+        },
+        {
+          "children": [],
+          "description": "A curated list of awesome Helm charts and resources.",
+          "title": "Awesome Helm",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-23T20:56:11Z",
+            "owner": "cdwv",
+            "repo": "awesome-helm",
+            "stars": 1085
+          }
+        }
+      ],
+      "title": "Related lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:35:42.261Z",
+    "original_repository": "DevOpsHiveHQ/awesome-kustomize",
+    "source_repository": "v1nvn/enhansome-kustomize",
+    "source_repository_description": null,
+    "title": "Awesome Kustomize with stars"
+  }
+}

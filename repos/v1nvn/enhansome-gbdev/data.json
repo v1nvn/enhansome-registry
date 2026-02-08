@@ -1,0 +1,3294 @@
+{
+  "items": [
+    {
+      "description": "A curated list of awesome Game Boy (Color) Development resources, tools, docs, related projects and open-source ROMs. Inspired by the awesome list thing.\nYou can find a (way cooler) web version of this list here.",
+      "items": [],
+      "title": "Join us on Discord"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "The single, most comprehensive technical reference to Game Boy available to the public. Corrected, updated and maintained by the community.",
+          "title": "Pan Docs"
+        },
+        {
+          "children": [],
+          "description": "A precise documentation by AntonioND to make a cycle-accurate Game Boy emulator.",
+          "title": "The Cycle-Accurate Game Boy Docs",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-25T02:02:07Z",
+            "owner": "AntonioND",
+            "repo": "giibiiadvance",
+            "stars": 206
+          }
+        },
+        {
+          "children": [],
+          "description": "by Gekkio.",
+          "title": "Complete Technical Reference"
+        },
+        {
+          "children": [],
+          "description": "by Rodrigo Copetti.",
+          "title": "Game Boy Architecture: A Practical Analysis"
+        },
+        {
+          "children": [],
+          "description": "Report of an hardware  (on a Terasic DE1-SoC Board) developed as final project for the CSEE4840 Embedded Systems Design course at Columbia University.",
+          "title": "Game Boy Project Report",
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2021-04-15T19:20:05Z",
+            "owner": "kitsuneh",
+            "repo": "SVGameBoy",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Hardware schematics.",
+          "title": "DMG Schematics"
+        },
+        {
+          "children": [],
+          "description": "Provides a study on the hardware and detailed constructional information for the implementation of three 8-bit bidirectional parallel ports.",
+          "title": "The Game Boy Project"
+        },
+        {
+          "children": [],
+          "description": "by Gekkio.",
+          "title": "Related custom hardware",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-07-20T14:50:12Z",
+            "owner": "Gekkio",
+            "repo": "gb-hardware",
+            "stars": 359
+          }
+        },
+        {
+          "children": [],
+          "description": "Dev board for Game Boy accessories development, powered by ESP8266.",
+          "title": "ESP8266 GB Dev Board",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-14T06:21:55Z",
+            "owner": "applefreak",
+            "repo": "esp8266-gameboy-dev-board",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "A device that emulates the GB Printer and lets you retrieve images using WiFi.",
+          "title": "ESP8266 GB Printer",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-10-12T00:26:25Z",
+            "owner": "applefreak",
+            "repo": "esp8266-gameboy-printer",
+            "stars": 49
+          }
+        },
+        {
+          "children": [],
+          "description": "Page with loads of information on the hardware, custom boards to interface with the console and other related projects.",
+          "title": "fruttenboel"
+        },
+        {
+          "children": [],
+          "description": "Data and photos of various types of Game Boy consoles.",
+          "title": "Game Boy hardware database"
+        },
+        {
+          "children": [],
+          "description": "Schematics and annotated overlay for the DMG-CPU B chip, extracted from die photos, made with KiCad. Also contains Electric VLSI library with layouts for some of the cells and memories.",
+          "title": "dmg-schematics",
+          "repo_info": {
+            "archived": false,
+            "language": "KiCad Schematic",
+            "last_commit": "2025-12-25T15:16:14Z",
+            "owner": "msinger",
+            "repo": "dmg-schematics",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Hardware"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Obscure Game Boy hardware documentation.",
+          "title": "Dan Docs"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Internet connectivity and DLC on the Game Boy Color.",
+              "title": "Mobile Adapter GB"
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "The Game Boy Printer"
+            },
+            {
+              "children": [],
+              "description": "A blue cart with built-in sonar hardware.",
+              "title": "Pocket Sonar"
+            },
+            {
+              "children": [],
+              "description": "Zok Zok Heroes' Full Changer, a motion-activated accessory.",
+              "title": "Zok Zok Heroes"
+            },
+            {
+              "children": [],
+              "description": "Infrared communication on the Game Boy Color.",
+              "title": "Infrared Madness"
+            },
+            {
+              "children": [],
+              "description": "DMG-07.",
+              "title": "Game Boy 4-Player Adapter"
+            },
+            {
+              "children": [],
+              "description": "The first Game Boy card-scanner.",
+              "title": "Barcode Boy"
+            },
+            {
+              "children": [],
+              "description": "A late 90s DMG-GBC barcode reader.",
+              "title": "Barcode Taisen Bardigun"
+            }
+          ],
+          "description": "a series of articles about emulating and investigating Game Boy accessories. Also available as  in the GBE- emulator documentation.",
+          "title": "Edge of Emulation",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-08T02:54:17Z",
+            "owner": "shonumi",
+            "repo": "gbe-plus",
+            "stars": 572
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "DMG-07 Technical Documentation"
+        },
+        {
+          "children": [],
+          "description": "Documentation about GB Camera and tools used to reverse engineer it by using Arduino.",
+          "title": "Game Boy Camera RE",
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2026-01-25T02:06:27Z",
+            "owner": "AntonioND",
+            "repo": "gbcam-rev-engineer",
+            "stars": 92
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Creating photo realistic images with neural networks and a Gameboy Camera"
+        },
+        {
+          "children": [],
+          "description": "An in-depth technical document about the printer hardware, the communication protocol and the usual routine that games used for implementing the print feature.",
+          "title": "The Game Boy Printer"
+        },
+        {
+          "children": [],
+          "description": "Errata: the used thermal paper is expired, 4 colors are actually printable).",
+          "title": "Ben Heck Reverse Engineers Game Boy Printer"
+        },
+        {
+          "children": [],
+          "description": "Emulating a Game Boy Printer via the Game Boy Link cable with an Arduino.",
+          "title": "Arduino Game Boy Printer Emulator",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-15T09:36:59Z",
+            "owner": "mofosyne",
+            "repo": "arduino-gameboy-printer-emulator",
+            "stars": 352
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Mobile Game Boy Adapter"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "GB KISS LINK MODEM"
+        }
+      ],
+      "title": "Peripherals"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Emulating the functionality of a Game Boy cartridge with the development board STM32F4.",
+          "title": "Emulating a GameBoy Cartridge"
+        },
+        {
+          "children": [],
+          "description": "Game Boy cartridge with co-processor.",
+          "title": "Wolf"
+        },
+        {
+          "children": [],
+          "description": "Eagle library, schematic, and board files for a cartridge PCB using an Atmel AT49F040 as ROM.",
+          "title": "Homebrew-Gameboy-Cartridge",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-02-13T12:53:17Z",
+            "owner": "dwaq",
+            "repo": "Homebrew-Gameboy-Cartridge",
+            "stars": 139
+          }
+        },
+        {
+          "children": [],
+          "description": "Board layout for an EEPROM powered cartridge.",
+          "title": "Homebrew Gameboy Color Cartridge",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-24T14:29:19Z",
+            "owner": "Xyl2k",
+            "repo": "Gameboy-Color-Cartridge",
+            "stars": 75
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source flash cartridge using an Xilinx CPLD as MBC5 ().",
+          "title": "Nekocart",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-06-06T09:18:20Z",
+            "owner": "zephray",
+            "repo": "NekoCart-GB",
+            "stars": 130
+          }
+        },
+        {
+          "children": [],
+          "description": "Commercial and homemade programmable cartridges and programming systems. Tutorials, wiring and schematics provided.",
+          "title": "Reiner Ziegler's Game Boy page"
+        },
+        {
+          "children": [],
+          "description": "CPLD implementation of a MBC5/MBC1 Hybrid cartridge.",
+          "title": "Gameboy-MBC5-MBC1-Hybrid",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-05-17T01:51:57Z",
+            "owner": "insidegadgets",
+            "repo": "Gameboy-MBC5-MBC1-Hybrid",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "Custom cartridges"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "43 minutes talk by Gekkio given at Disobey 2018 ().",
+          "title": "Reverse Engineering fine details of Game Boy hardware"
+        },
+        {
+          "children": [],
+          "description": "Overview of the Game Boy hardware with the perspective of building an emulator.",
+          "title": "Emulation of Nintendo Game Boy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-31T14:04:47Z",
+            "owner": "Baekalfen",
+            "repo": "PyBoy",
+            "stars": 5068
+          }
+        },
+        {
+          "children": [],
+          "description": "An educational Gameboy Emulator in Rust and a companion book explaining its development. *- is a talk given at Rust Fest 18 about this.",
+          "title": "DMG-01"
+        },
+        {
+          "children": [],
+          "description": "Step by step tutorial.",
+          "title": "Building a Game Boy emulator in JavaScript"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Writing a Game Boy emulator, Cinoop"
+        },
+        {
+          "children": [],
+          "description": "Learning Rust by building a partial Game Boy emulator.",
+          "title": "0dmg"
+        },
+        {
+          "children": [],
+          "description": "A series of posts about the design and implementation of the RealBoy Emulator.",
+          "title": "RealBoy Emulator"
+        },
+        {
+          "children": [],
+          "description": "Another series of posts documenting the building of an emulator.",
+          "title": "Codeslinger"
+        },
+        {
+          "children": [],
+          "description": "Blog post.",
+          "title": "Why did I spend 1.5 months creating a Gameboy emulator?"
+        },
+        {
+          "children": [],
+          "description": "Implementing a *rewind- feature.",
+          "title": "binjgb rewind"
+        },
+        {
+          "children": [],
+          "description": "Porting of the binjgb emulator to Web Assembly.",
+          "title": "binjgb on the web"
+        },
+        {
+          "children": [],
+          "description": "Investigations on emulations quirks.",
+          "title": "binjgb debugging hangs"
+        },
+        {
+          "children": [],
+          "description": "How to algorithmically decode Game Boy instructions (as opposed to writing one huge switch-case statement).",
+          "title": "Decoding Gameboy Z80 opcodes"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Porting a GO Game Boy emulator to WebAssembly"
+        },
+        {
+          "children": [],
+          "description": "Notes about the development of a Game Boy emulator in JavaScript.",
+          "title": "About swotGB"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "List of open source emulators"
+        },
+        {
+          "children": [],
+          "description": "A command line tool for comparing logs from your emulator to those from a known-correct one. Useful for line-by-line debugging of Blargg's test ROMs.",
+          "title": "Game Boy Doctor",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-06T07:04:03Z",
+            "owner": "robert",
+            "repo": "gameboy-doctor",
+            "stars": 260
+          }
+        }
+      ],
+      "title": "Emulator Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Blargg's test roms"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Gekkio's test roms"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "SameSuite",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-10-11T16:08:35Z",
+            "owner": "LIJI32",
+            "repo": "SameSuite",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Mealybug Tearoom Tests",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2020-12-19T22:12:48Z",
+            "owner": "mattcurrie",
+            "repo": "mealybug-tearoom-tests",
+            "stars": 65
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "GB Accuracy Tests"
+        },
+        {
+          "children": [],
+          "description": "Port of Artemio Urbina's 240p Test Suite to the Game Boy.",
+          "title": "144p Test Suite",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-09-02T02:22:13Z",
+            "owner": "pinobatch",
+            "repo": "240p-test-mini",
+            "stars": 277
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "MBC3 RTC test ROM",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-12-03T02:44:51Z",
+            "owner": "aaaaaa123456789",
+            "repo": "rtc3test",
+            "stars": 38
+          }
+        },
+        {
+          "children": [],
+          "description": "and  - Basic PPU rendering tests.",
+          "title": "dmg-acid2",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-05-23T20:52:52Z",
+            "owner": "mattcurrie",
+            "repo": "dmg-acid2",
+            "stars": 228
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "The Choosing tools for Game Boy development essay provides an overview of the available development tools for Game Boy.",
+      "items": [],
+      "title": "Software Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Assembler and linker package. .",
+          "title": "RGBDS",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-07T00:38:30Z",
+            "owner": "gbdev",
+            "repo": "rgbds",
+            "stars": 1559
+          }
+        },
+        {
+          "children": [],
+          "description": "Assembler engine and development system targeting Game Boy, among other CPUs. Written by the original RGBDS author. .",
+          "title": "ASMotor",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-21T16:39:27Z",
+            "owner": "csoren",
+            "repo": "asmotor",
+            "stars": 88
+          }
+        },
+        {
+          "children": [],
+          "description": "Yet Another GB-Z80/Z80/... Multi Platform Cross Assembler Package. .",
+          "title": "wla-dx",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-07T18:32:41Z",
+            "owner": "vhelin",
+            "repo": "wla-dx",
+            "stars": 587
+          }
+        }
+      ],
+      "title": "Assemblers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "In-browser coding environment to try out RGBDS.",
+          "title": "RGBDS-Live"
+        },
+        {
+          "children": [],
+          "description": "A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).",
+          "title": "Wiz",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-10T11:29:21Z",
+            "owner": "wiz-lang",
+            "repo": "wiz",
+            "stars": 427
+          }
+        },
+        {
+          "children": [],
+          "description": "A Forth-based Game Boy development kit.",
+          "title": "gbforth",
+          "repo_info": {
+            "archived": false,
+            "language": "Forth",
+            "last_commit": "2025-10-09T01:17:48Z",
+            "owner": "ams-hackers",
+            "repo": "gbforth",
+            "stars": 147
+          }
+        },
+        {
+          "children": [],
+          "description": "An opinionated Rust based compiler for Game Boy z80 assembly code.",
+          "title": "gbasm-rs"
+        },
+        {
+          "children": [],
+          "description": "A JavaScript based compiler for Game Boy z80 assembly code.",
+          "title": "gbasm",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-27T17:28:26Z",
+            "owner": "BonsaiDen",
+            "repo": "gbasm",
+            "stars": 132
+          }
+        },
+        {
+          "children": [],
+          "description": "Macro Assembler.",
+          "title": "tniASM"
+        },
+        {
+          "children": [],
+          "description": "Assembler written in Swift.",
+          "title": "Assembler",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-10-21T10:11:09Z",
+            "owner": "ulrikdamm",
+            "repo": "Assembler",
+            "stars": 119
+          }
+        },
+        {
+          "children": [],
+          "description": "Clang/LLVM port to the GBZ80 CPU (similar to the deprecated ).",
+          "title": "llvm-gbz80",
+          "repo_info": {
+            "archived": false,
+            "language": "LLVM",
+            "last_commit": "2018-10-20T16:15:13Z",
+            "owner": "Bevinsky",
+            "repo": "llvm-gbz80",
+            "stars": 37
+          }
+        },
+        {
+          "children": [],
+          "description": "A compiler translates Go programs to C code. The output C code is built into GB ROM by GBDK.",
+          "title": "gbdk-go",
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-01-04T23:02:18Z",
+            "owner": "pokemium",
+            "repo": "gbdk-go",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "A compiler and library that enable the development of GB ROMs using Rust.",
+          "title": "Rust-GB",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-06T15:38:05Z",
+            "owner": "zlfn",
+            "repo": "rust-gb",
+            "stars": 251
+          }
+        }
+      ],
+      "title": "Experimental/Proof of Concepts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Powerful emulator and debugger. Provides an accurate hardware emulation.",
+          "title": "BGB"
+        },
+        {
+          "children": [],
+          "description": "Accurate emulator with a wide range of powerful debugging features.",
+          "title": "SameBoy",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-28T22:01:30Z",
+            "owner": "LIJI32",
+            "repo": "SameBoy",
+            "stars": 2006
+          }
+        },
+        {
+          "children": [],
+          "description": "Research project and emulator in Rust.",
+          "title": "Mooneye GB",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-03-16T03:58:55Z",
+            "owner": "Gekkio",
+            "repo": "mooneye-gb",
+            "stars": 957
+          }
+        },
+        {
+          "children": [],
+          "description": "Modern cross platform GBA emulator which also runs GB/GBC games.",
+          "title": "mGBA",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-06T03:03:07Z",
+            "owner": "mgba-emu",
+            "repo": "mgba",
+            "stars": 6770
+          }
+        },
+        {
+          "children": [],
+          "description": "5Kloc emulator that passes most of the tests. *Rewind- feature. Runs in the browser using WebAssembly.",
+          "title": "Binjgb",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-05T08:36:50Z",
+            "owner": "binji",
+            "repo": "binjgb",
+            "stars": 596
+          }
+        },
+        {
+          "children": [],
+          "description": "Cross-platform and accurate emulator.",
+          "title": "Gambatte",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2021-07-06T22:58:50Z",
+            "owner": "gb-archive",
+            "repo": "gambatte",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "A playable, circuit-level simulation of an entire Game Boy.",
+          "title": "MetroBoy",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-23T03:36:26Z",
+            "owner": "aappleby",
+            "repo": "MetroBoy",
+            "stars": 1155
+          }
+        },
+        {
+          "children": [],
+          "description": "A recently rewritten emulator that has a large effort in preserving the functions of obscure accessories (such as IR link, Mobile Network GB, Barcode Boy, GB Printer, local and online GB Serial Link Cable, ... )",
+          "title": "gbe-plus",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-08T02:54:17Z",
+            "owner": "shonumi",
+            "repo": "gbe-plus",
+            "stars": 572
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides accurate emulation and includes powerful tools such as a profiler and source-level debugging for ASM and C via a .",
+          "title": "Emulicious"
+        }
+      ],
+      "title": "Emulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "C library extending gbdk.",
+          "title": "GBExtended"
+        },
+        {
+          "children": [],
+          "description": "A small set of sources and tools for the Game Boy Development Kit by Michael Hope.",
+          "title": "gbdk-lib-extension",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2013-08-07T21:59:09Z",
+            "owner": "ProGM",
+            "repo": "gbdk-lib-extension",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Game Boy ROM disassembler with RGBDS compatible output.",
+          "title": "mgbdis",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-12-17T10:47:58Z",
+            "owner": "mattcurrie",
+            "repo": "mgbdis",
+            "stars": 298
+          }
+        },
+        {
+          "children": [],
+          "description": "An online tool to inspect and modify a ROM's header data, including the logo.",
+          "title": "ROM Header Utility"
+        },
+        {
+          "children": [],
+          "description": "Command line tool for estimating usage (free space) of Game Boy ROMs from a .map, .noi or ihx file. Works with GBDK-2020 and RGBDS.",
+          "title": "romusage",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-01T08:00:48Z",
+            "owner": "bbbbbr",
+            "repo": "romusage",
+            "stars": 56
+          }
+        },
+        {
+          "children": [],
+          "description": "Game Boy decompiler.",
+          "title": "awake",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-01-30T01:01:29Z",
+            "owner": "devdri",
+            "repo": "awake",
+            "stars": 76
+          }
+        },
+        {
+          "children": [],
+          "description": "Set of tools for text manipulation and translation of Game Boy ROMs written in Node.js.",
+          "title": "Game Boy Text Tools",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-02T23:01:42Z",
+            "owner": "raphaklaus",
+            "repo": "gameboy-text-tools",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "A scripting language for the Game Boy, useful for enemy AI, dialogue, animations, and coroutines.",
+          "title": "evscript",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-03-11T15:22:13Z",
+            "owner": "eievui5",
+            "repo": "evscript",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "A unit testing program for assembly code.",
+          "title": "evunit",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-28T18:13:46Z",
+            "owner": "eievui5",
+            "repo": "evunit",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "Generates statistics on which CPU instructions are run the most often using Python and Emulicious",
+          "title": "opcode_count",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-01T01:26:53Z",
+            "owner": "rondnelson99",
+            "repo": "opcode_count",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Development tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "HTML5 / JS web application that will convert bitmap images to hexadecimal data appropriate for use in tile based graphical applications, specifically GB.",
+          "title": "Game Boy Tile Data Generator",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-31T14:49:38Z",
+            "owner": "chrisantonellis",
+            "repo": "gbtdg",
+            "stars": 92
+          }
+        },
+        {
+          "children": [],
+          "description": "Some sources and home of Game Boy Tile Designer (GBTD) and Game Boy Map Builder (GBMB) tools.",
+          "title": "Harry Mulder's GB Development"
+        },
+        {
+          "children": [],
+          "description": "Converts .GBR files created with Harry Mulder's Tile Designer (GBTD) and .GBM files created with Harry Mulder's Map Builder (GBMB) to different formats for use with the Game Boy and GBDK.",
+          "title": "GBTiles",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2016-04-27T23:53:27Z",
+            "owner": "bashaus",
+            "repo": "gbtiles",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Graphics converter for Game Boy Color development providing real time palette adjustments.",
+          "title": "bmp2cgb",
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2023-10-11T19:46:21Z",
+            "owner": "gitendo",
+            "repo": "bmp2cgb",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "CLI tool to convert image file to game boy .c array.",
+          "title": "png2gb",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-08-02T17:11:52Z",
+            "owner": "LuckyLights",
+            "repo": "png2gb",
+            "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "Game Boy tile conversion and map editor tool (converts to assembly).",
+          "title": "GB-convert",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-05-21T13:33:04Z",
+            "owner": "gb-archive",
+            "repo": "gb-convert",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of primitive editor/converter tools for making assets used with homebrew ROM development.",
+          "title": "brewtool"
+        },
+        {
+          "children": [],
+          "description": "A minimalistic ncurses tile editor.",
+          "title": "vtGBte",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-05-24T09:57:50Z",
+            "owner": "paul-arutyunov",
+            "repo": "vtGBte",
+            "stars": 36
+          }
+        },
+        {
+          "children": [],
+          "description": "Definition and specification of a custom GB/GBC memory/hardware mapper, as a functional superset of MBC.",
+          "title": "tpp1",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-10-02T18:00:54Z",
+            "owner": "TwitchPlaysPokemon",
+            "repo": "tpp1",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "A C library of useful Game Boy operations (SDCC).",
+          "title": "libstdgb",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-08T15:50:29Z",
+            "owner": "delwink",
+            "repo": "libstdgb",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "GIMP image editor plug-in for importing & exporting GBMB and GBTD tilemaps and tilesets (as bitmap images or .GBM/.GBR files).",
+          "title": "Tilemap GB",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-16T06:49:15Z",
+            "owner": "bbbbbr",
+            "repo": "gimp-tilemap-gb",
+            "stars": 67
+          }
+        },
+        {
+          "children": [],
+          "description": "GIMP image editor plug-in for optimizing tile maps and tile sets.",
+          "title": "Tilemap Helper",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-11-11T16:35:02Z",
+            "owner": "bbbbbr",
+            "repo": "gimp-tilemap-helper",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "A tilemap editor for Game Boy, Color, Advance, and SNES projects. Written in C++ with FLTK.",
+          "title": "Tilemap Studio",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-12T05:44:48Z",
+            "owner": "Rangi42",
+            "repo": "tilemap-studio",
+            "stars": 484
+          }
+        },
+        {
+          "children": [],
+          "description": "Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive and PC Engine formats.",
+          "title": "Superfamiconv",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-19T06:57:59Z",
+            "owner": "Optiroc",
+            "repo": "SuperFamiconv",
+            "stars": 179
+          }
+        }
+      ],
+      "title": "Graphics utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Game Boy Cartridge Dumper ROM.",
+          "title": "cart-dumper",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2018-07-09T16:50:55Z",
+            "owner": "Palmr",
+            "repo": "cart-dumper",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "Extracts photos from Game Boy Camera saves.",
+          "title": "gbcamextract",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-05-08T20:52:56Z",
+            "owner": "jkbenaim",
+            "repo": "gbcamextract",
+            "stars": 53
+          }
+        },
+        {
+          "children": [],
+          "description": "Sniff your Game Boy's LCD using a logic analyzer.",
+          "title": "Game Boy LCD sniffing",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-08-11T07:21:29Z",
+            "owner": "svendahlstrand",
+            "repo": "game-boy-lcd-sniffing",
+            "stars": 180
+          }
+        },
+        {
+          "children": [],
+          "description": "Diagnostic utility for Game Boy flashcarts.",
+          "title": "swapdump",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2016-07-23T21:42:11Z",
+            "owner": "sanqui",
+            "repo": "swapdump",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Game Boy LinkUp serial cable networking project.",
+          "title": "Gameboy-LinkUp",
+          "repo_info": {
+            "archived": true,
+            "language": "Assembly",
+            "last_commit": "2013-04-26T07:43:00Z",
+            "owner": "JustinLloyd",
+            "repo": "Gameboy-LinkUp",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Hardware and ROM utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Sound driver embeddable in homebrews which supports pulse width manipulation, arpeggios, and multiple waveforms.",
+          "title": "DevSoundX",
+          "repo_info": {
+            "archived": true,
+            "language": "Assembly",
+            "last_commit": "2024-12-22T17:38:15Z",
+            "owner": "DevEd2",
+            "repo": "DevSoundX",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "Music Engine.",
+          "title": "Carillon Player"
+        },
+        {
+          "children": [],
+          "description": "A music player library and converter kit.",
+          "title": "GBT PLAYER",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-25T02:19:31Z",
+            "owner": "AntonioND",
+            "repo": "gbt-player",
+            "stars": 299
+          }
+        },
+        {
+          "children": [],
+          "description": "A MML parser and GBDK sound driver for the Nintendo Game Boy.",
+          "title": "mmlgb",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-12T09:43:03Z",
+            "owner": "SimonLarsen",
+            "repo": "mmlgb",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": "An MML based music compiler with support for Game Boy & Game Boy Color.",
+          "title": "XPMCK",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2016-04-15T18:23:45Z",
+            "owner": "bazzinotti",
+            "repo": "XPMCK",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "A modernized audio driver for GameBoy Tracker (aka the Paragon 5 music player).",
+          "title": "GBSoundSystem",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2023-05-09T01:58:02Z",
+            "owner": "gbdev",
+            "repo": "GBSoundSystem",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "A music tracker based on OpenMPT, focused on ease of use, compact output, and embeddability in homebrew games.",
+          "title": "hUGETracker",
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2025-09-07T17:59:46Z",
+            "owner": "SuperDisk",
+            "repo": "hUGETracker",
+            "stars": 335
+          }
+        },
+        {
+          "children": [],
+          "description": "A GBDK-2020 sound effect driver compatible with FX-Hammer sound effects.",
+          "title": "CBT-FX",
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2022-07-19T20:16:11Z",
+            "owner": "datguywitha3ds",
+            "repo": "CBT-FX",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Music drivers and trackers"
+    },
+    {
+      "description": "Guides, tutorials and tools to develop software for Game Boy using the development toolchains described in the Software Development chapter.",
+      "items": [],
+      "title": "Programming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Step by step tutorial, building several ROMs to accompany its explanations.",
+          "title": "gb asm tutorial - Step by step tutorial, building several ROMs to accompany its explanations."
+        },
+        {
+          "children": [],
+          "description": "Standard include file containing Game Boy hardware definitions for use in RGBDS projects.",
+          "title": "hardware.inc",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-01-01T14:20:45Z",
+            "owner": "tobiasvl",
+            "repo": "hardware.inc",
+            "stars": 151
+          }
+        },
+        {
+          "children": [],
+          "description": "Good document to learn to produce working asm code for gb. Brief explanations of many important topics. Many examples with commented source code.",
+          "title": "Assembly tutorial by David Pello"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "Making an Empty Game Boy ROM (in Wiz)"
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "Making Art for the Game Boy"
+            }
+          ],
+          "description": "Exploring Game Boy programming techniques:",
+          "title": "assemblydigest",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-10-26T13:48:09Z",
+            "owner": "assemblydigest",
+            "repo": "gameboy",
+            "stars": 78
+          }
+        },
+        {
+          "children": [],
+          "description": "Some starting tips on disassembling and reverse engineering.",
+          "title": "Beginner's Guide to Reverse Engineering GB"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "FlappyBoy: Making a simple Game Boy Game"
+        },
+        {
+          "children": [],
+          "description": "Step by step tutorial to implement Super Game Boy features (frame and palettes).",
+          "title": "Super Game Boy development"
+        },
+        {
+          "children": [],
+          "description": "Step by step tutorial.",
+          "title": "GameBoy programming tutorial: Hello World!"
+        },
+        {
+          "children": [],
+          "description": "Game programming tutorials in assembly.",
+          "title": "DMGreport",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-09-01T19:29:46Z",
+            "owner": "lancekindle",
+            "repo": "DMGreport",
+            "stars": 62
+          }
+        },
+        {
+          "children": [],
+          "description": "Example of how to use OAM DMA in assembly.",
+          "title": "OAM DMA tutorial"
+        },
+        {
+          "children": [],
+          "description": "An e-book about making Game Boy games in Assembly.",
+          "title": "Game Boy Assembly Programming for the Modern Game Developer",
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2023-02-25T21:26:54Z",
+            "owner": "ahrnbom",
+            "repo": "gbapfomgd",
+            "stars": 166
+          }
+        }
+      ],
+      "title": "ASM"
+    },
+    {
+      "description": "Fragments of code, effects, proof of concepts and generally non complete games.",
+      "items": [
+        {
+          "children": [],
+          "description": "A lot of working demos and sources.",
+          "title": "dev'rs ASM section"
+        },
+        {
+          "children": [],
+          "description": "A collection of prototype programs, mostly just toying around. Among others, a daylight effect, transparency and a weather effect.",
+          "title": "EmmaEwert's experiments",
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2017-03-02T12:13:21Z",
+            "owner": "EmmaEwert",
+            "repo": "gameboy",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "A detailed tutorial on how to make the screen wobble, among other \"raster effects\"",
+          "title": "DeadCScroll",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-04-17T18:32:08Z",
+            "owner": "gb-archive",
+            "repo": "DeadCScroll",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Sources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Basic hello-world example for Game Boy using RGBDS.",
+          "title": "rgbds-template",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2015-01-31T17:48:30Z",
+            "owner": "nezticle",
+            "repo": "rgbds-template",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple template code with memory defines, copy routines and IBM font tilemap.",
+          "title": "Game Boy Assembly Language Primer"
+        },
+        {
+          "children": [],
+          "description": "An example Game Boy project.",
+          "title": "bootstrap.gb",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-05-31T17:50:39Z",
+            "owner": "yenatch",
+            "repo": "bootstrap.gb",
+            "stars": 32
+          }
+        },
+        {
+          "children": [],
+          "description": "Boilerplate project to move quicker into the actual assembly code for your game.",
+          "title": "Gameboy Boilerplate",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2020-07-15T20:14:32Z",
+            "owner": "junebug12851",
+            "repo": "GameboyBoilerplateProj",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "A software library for making your own Game Boy games. It is made to be used alongside the book  which also doubles as documentation.",
+          "title": "GingerBread",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2021-01-19T08:13:36Z",
+            "owner": "ahrnbom",
+            "repo": "gingerbread",
+            "stars": 138
+          }
+        },
+        {
+          "children": [],
+          "description": "Library to print variable-width text, comes with a demo.",
+          "title": "gb-vwf",
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-09-23T11:28:47Z",
+            "owner": "ISSOtm",
+            "repo": "gb-vwf",
+            "stars": 56
+          }
+        },
+        {
+          "children": [],
+          "description": "A template for starting Game Boy projects, providing a Makefile for infrastructure.",
+          "title": "gb-boilerplate",
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-09-23T11:50:25Z",
+            "owner": "ISSOtm",
+            "repo": "gb-boilerplate",
+            "stars": 75
+          }
+        },
+        {
+          "children": [],
+          "description": "An expansion on the above, including base library code as well to get started faster.",
+          "title": "gb-starter-kit",
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-09-23T11:23:19Z",
+            "owner": "ISSOtm",
+            "repo": "gb-starter-kit",
+            "stars": 67
+          }
+        },
+        {
+          "children": [],
+          "description": "A template with basic functions such as joypad input, DMA transfers, and map/tile data loading.",
+          "title": "gb-template",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2018-05-21T13:30:37Z",
+            "owner": "gb-archive",
+            "repo": "gb-template",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Boilerplates and libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Notepad+- and gedit syntax highlighting files for RGBDS assembly.",
+          "title": "gbz80-highlight",
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-09-24T21:35:27Z",
+            "owner": "ISSOtm",
+            "repo": "gbz80-highlight",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Vim syntax highlighting for RGBDS assembly.",
+          "title": "Vim syntax file for the Game Boy assembler RGBASM"
+        },
+        {
+          "children": [],
+          "description": "Another Vim syntax highlighting file for RGBDS assembly.",
+          "title": "Vim syntax file for RGBDS",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-02-04T16:17:51Z",
+            "owner": "Leandros",
+            "repo": "dotfiles",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "A Sublime Text 3 package for RGBDS, including syntax highlighting and some completion snippets.",
+          "title": "sublime-rgbds"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Z80 Assembly support for Visual Studio Code",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-16T16:48:36Z",
+            "owner": "Imanolea",
+            "repo": "z80asm-vscode",
+            "stars": 36
+          }
+        },
+        {
+          "children": [],
+          "description": "Visual Studio Code language extension for RGBDS GBZ80 Assembly.",
+          "title": "rgbds-vscode",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-06T21:25:09Z",
+            "owner": "DonaldHays",
+            "repo": "rgbds-vscode",
+            "stars": 76
+          }
+        },
+        {
+          "children": [],
+          "description": "Emacs major mode for RGBDS assembly.",
+          "title": "rgbds-mode",
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2018-12-25T16:21:35Z",
+            "owner": "japanoise",
+            "repo": "rgbds-mode",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Syntax highlighting packages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Well-written introductory document about how the Game Boy works and how to start developing working code for it.",
+          "title": "8-Bit Wonderland",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-04-22T08:44:05Z",
+            "owner": "gb-archive",
+            "repo": "salvage",
+            "stars": 38
+          }
+        },
+        {
+          "children": [],
+          "description": "A complete set of lessons about implementing various game mechanics in a Game Boy game.",
+          "title": "Grooves Game Boy Programming",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-03-30T22:03:30Z",
+            "owner": "gbdk-salvage",
+            "repo": "grooves-game-boy-programming",
+            "stars": 89
+          }
+        },
+        {
+          "children": [],
+          "description": "Old (but still relevant) tutorial.",
+          "title": "How to Write a Simple Side Scrolling Game"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Just another simple tutorial"
+        },
+        {
+          "children": [],
+          "description": "Fairly minimal game demo for getting started with GBDK.",
+          "title": "GBDK Tutorial"
+        },
+        {
+          "children": [],
+          "description": "Presents a workflow for getting multiple sprites to display and animate.",
+          "title": "GBDK Sprite"
+        },
+        {
+          "children": [],
+          "description": "Extends your knowledge of basic spriting on the Game Boy by adding colors to sprites, backgrounds and the window layer.",
+          "title": "GBDK Color"
+        },
+        {
+          "children": [],
+          "description": "Details the use of the joypad with GBDK.",
+          "title": "GBDK Joypad"
+        },
+        {
+          "children": [],
+          "description": "Some full games and sources.",
+          "title": "Game Boy home of Flavor"
+        },
+        {
+          "children": [],
+          "description": "Configuring GBDK, Using Tiles, Colliding Sprites, GBTD, GBMB, Memory Management and ROM Banking.",
+          "title": "GBDK Configuring and Programming Tutorial"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Simplified GBDK examples",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-09-30T06:12:30Z",
+            "owner": "mrombout",
+            "repo": "gbdk_playground",
+            "stars": 203
+          }
+        },
+        {
+          "children": [],
+          "description": "A series of video tutorials introducing beginners to programming with GBDK.",
+          "title": "GBDK Programming Video Tutorials"
+        },
+        {
+          "children": [],
+          "description": "A collection of detailed GBDK-2020 based tutorials.",
+          "title": "Larold's Retro Gameyard"
+        }
+      ],
+      "title": "C"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Tuff",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2018-10-27T20:29:49Z",
+            "owner": "BonsaiDen",
+            "repo": "Tuff.gb",
+            "stars": 312
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "2048-gb",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2015-02-11T11:22:50Z",
+            "owner": "Sanqui",
+            "repo": "2048-gb",
+            "stars": 116
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Snake"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Lazerpong",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2015-05-02T19:59:08Z",
+            "owner": "huderlem",
+            "repo": "lazerpong",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Geometrix",
+          "repo_info": {
+            "archived": true,
+            "language": "Assembly",
+            "last_commit": "2026-01-25T01:53:26Z",
+            "owner": "AntonioND",
+            "repo": "geometrix",
+            "stars": 30
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "µCity",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-01-25T01:04:17Z",
+            "owner": "AntonioND",
+            "repo": "ucity",
+            "stars": 467
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Carazu",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2019-09-11T21:15:54Z",
+            "owner": "mholtkamp",
+            "repo": "carazu",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Snake-gb",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2023-04-03T02:31:39Z",
+            "owner": "DonaldHays",
+            "repo": "snake-gb",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "GB303 wavetable-based TB-303 style synthesizer for the Nintendo Game Boy.",
+          "title": "GB303",
+          "repo_info": {
+            "archived": true,
+            "language": "Assembly",
+            "last_commit": "2023-07-19T19:07:48Z",
+            "owner": "furrtek",
+            "repo": "GB303",
+            "stars": 137
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Sushi",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2017-01-22T13:49:30Z",
+            "owner": "JustSid",
+            "repo": "Sushi",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Flappy-boy-asm",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2020-08-25T13:44:54Z",
+            "owner": "bitnenfer",
+            "repo": "flappy-boy-asm",
+            "stars": 94
+          }
+        },
+        {
+          "children": [],
+          "description": "and some other projects.",
+          "title": "kupman",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2017-11-05T00:31:42Z",
+            "owner": "dubvulture",
+            "repo": "gbdev",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Adjustris",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-01-19T15:20:40Z",
+            "owner": "tbsp",
+            "repo": "Adjustris",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "exeman",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2018-05-21T13:32:53Z",
+            "owner": "gb-archive",
+            "repo": "exeman",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Aevilia",
+          "repo_info": {
+            "archived": true,
+            "language": "Assembly",
+            "last_commit": "2022-05-12T12:51:46Z",
+            "owner": "ISSOtm",
+            "repo": "Aevilia-GB",
+            "stars": 56
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple Game Boy Powerpoint-like slides viewer.",
+          "title": "GBSlides",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-09-19T17:50:10Z",
+            "owner": "Kartones",
+            "repo": "gameboy",
+            "stars": 32
+          }
+        },
+        {
+          "children": [],
+          "description": "Pokémon Red remade with full GBC support.",
+          "title": "Pokered-gbc",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-01-25T18:27:55Z",
+            "owner": "dannye",
+            "repo": "pokered-gbc",
+            "stars": 171
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "ToyToy",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2018-01-21T19:06:31Z",
+            "owner": "tslanina",
+            "repo": "Retro-GameBoyColor-ToyToy",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Fourway Breakout clone.",
+          "title": "StefaN",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2017-04-19T17:37:15Z",
+            "owner": "tslanina",
+            "repo": "Retro-GameBoyColor-StefaN",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Galaxia",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2018-02-13T19:34:41Z",
+            "owner": "tslanina",
+            "repo": "Retro-GameBoyColor-Galaxia",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "DES encryption.",
+          "title": "desgb",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2018-03-29T08:52:01Z",
+            "owner": "sanqui",
+            "repo": "desgb",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "superhappyfunbubbletime",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2020-02-19T22:14:11Z",
+            "owner": "l0k1",
+            "repo": "superhappyfunbubbletime",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "minesweepGB",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2017-12-14T23:54:42Z",
+            "owner": "lancekindle",
+            "repo": "minesweepGB",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Libbet and the Magic Floor",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-02T02:26:00Z",
+            "owner": "pinobatch",
+            "repo": "libbet",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "Program visualizing the wave form used by the wave channel. The wave form can be edited freely and playback of the wave is updated immediately.",
+          "title": "waveform-gb",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2021-02-11T00:37:41Z",
+            "owner": "dannye",
+            "repo": "waveform-gb",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "Developed with gbasm.",
+          "title": "vectroid.gb"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "PlantBoy",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2018-05-21T13:30:53Z",
+            "owner": "gb-archive",
+            "repo": "plantboy",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Death Planet"
+        },
+        {
+          "children": [],
+          "description": "Puzzle game for the Game Boy (Color) and Super Game Boy.",
+          "title": "Quartet"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Dangan"
+        }
+      ],
+      "title": "ASM"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "FlappyBoy",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-03-26T02:50:53Z",
+            "owner": "bitnenfer",
+            "repo": "FlappyBoy",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "flappybird-gameboy",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-05-18T09:43:39Z",
+            "owner": "pashutk",
+            "repo": "flappybird-gameboy",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "fbgb",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-01-09T08:27:07Z",
+            "owner": "gb-archive",
+            "repo": "fbgb",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Novascape"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Squishy the Turtle",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-26T02:48:30Z",
+            "owner": "cppchriscpp",
+            "repo": "SquishyTheTurtle",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Quadratino",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-07-09T08:50:53Z",
+            "owner": "avivace",
+            "repo": "quadratino",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Doctor How",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2016-04-10T00:02:22Z",
+            "owner": "elfgames",
+            "repo": "doctorhow",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Super Princess' 2092 Exodus",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-11-02T16:28:45Z",
+            "owner": "Zal0",
+            "repo": "gbjam2016",
+            "stars": 30
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "GBsnake",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-04-23T09:18:45Z",
+            "owner": "brovador",
+            "repo": "GBsnake",
+            "stars": 32
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "gb-mines",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-05-06T21:15:52Z",
+            "owner": "andreasjhkarlsson",
+            "repo": "gb-mines",
+            "stars": 36
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "oranges"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "red hot princess carnage",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-07-04T15:26:06Z",
+            "owner": "Imanolea",
+            "repo": "bitbitjam3_red_hot_princess_carnage",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "loderunner"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Hives"
+        },
+        {
+          "children": [],
+          "description": "Vanilla- SDCC (no gbdk).",
+          "title": "Bubble Factory",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-04-03T02:41:23Z",
+            "owner": "DonaldHays",
+            "repo": "bubblefactory",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "Atari 2600 Boxing clone for the Game Boy (Color).",
+          "title": "GBC Atari Boxing",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-10-11T11:26:26Z",
+            "owner": "rubfi",
+            "repo": "gbc-atari-boxing",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "and some other projects.",
+          "title": "GB raycaster, Vision-8",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-11-02T12:41:48Z",
+            "owner": "haroldo-ok",
+            "repo": "really-old-stuff",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "An arcade platformer for the Game Boy (Color).",
+          "title": "Tobu Tobu Girl Deluxe",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-01-29T08:39:26Z",
+            "owner": "SimonLarsen",
+            "repo": "tobutobugirl-dx",
+            "stars": 86
+          }
+        },
+        {
+          "children": [],
+          "description": "port)",
+          "title": "Burly Bear vs. The Mean Foxes"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "PostBot",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-10-02T07:54:32Z",
+            "owner": "MasterIV",
+            "repo": "PostBot",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Guns & Riders",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-05-16T15:32:48Z",
+            "owner": "kanfor",
+            "repo": "gunsridersgameboy",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "A clone of the Google Chrome offline game.",
+          "title": "Dino's Offline Adventure",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-14T10:25:01Z",
+            "owner": "gingemonster",
+            "repo": "DinosOfflineAdventure",
+            "stars": 59
+          }
+        },
+        {
+          "children": [],
+          "description": "Another clone of the Chrome game.",
+          "title": "dino-gb",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-10T20:28:11Z",
+            "owner": "rnegron",
+            "repo": "dino-gb",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "A port of the first level of Evoland.",
+          "title": "Evoland.gb",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-04-21T13:46:26Z",
+            "owner": "flozz",
+            "repo": "evoland.gb",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": "A puzzle game of shapely pets for the Game Boy Color ().",
+          "title": "Petris",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-18T00:51:48Z",
+            "owner": "bbbbbr",
+            "repo": "Petris",
+            "stars": 34
+          }
+        },
+        {
+          "children": [],
+          "description": "RPG developed by Affinix Software primarily between the years 1999 and 2001. The game never found a publisher and was eventually canceled. Got recently released with the full source, development tools and workflows.",
+          "title": "Infinity",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-04-14T18:29:38Z",
+            "owner": "gb-archive",
+            "repo": "infinity-gbc",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "Side scrolling platformer for the Game Boy ().",
+          "title": "Black Castle"
+        },
+        {
+          "children": [],
+          "description": "Shmup for the Game Boy ().",
+          "title": "Genesis"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Indestructo Tank!"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Super JetPak DX"
+        },
+        {
+          "children": [],
+          "description": "Side scrolling platformer for the Game Boy (Color)  ().",
+          "title": "Powa!",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-01T05:49:24Z",
+            "owner": "Zal0",
+            "repo": "ZGB",
+            "stars": 774
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Cavern",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-01T05:49:24Z",
+            "owner": "Zal0",
+            "repo": "ZGB",
+            "stars": 774
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Mona and the Witch's Hat Deluxe",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-01T05:49:24Z",
+            "owner": "Zal0",
+            "repo": "ZGB",
+            "stars": 774
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "The Bouncing Ball"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "DMG Deals Damage"
+        }
+      ],
+      "title": "C"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Back to Color",
+          "repo_info": {
+            "archived": true,
+            "language": "Assembly",
+            "last_commit": "2026-01-25T01:48:42Z",
+            "owner": "AntonioND",
+            "repo": "back-to-color",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "beach-gbc",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-21T09:45:12Z",
+            "owner": "vegard",
+            "repo": "beach-gbc",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "CUTE DEMO",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-06-17T10:05:04Z",
+            "owner": "mills32",
+            "repo": "CUTE_DEMO",
+            "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Game Boy",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2018-07-30T11:08:53Z",
+            "owner": "svendahlstrand",
+            "repo": "10-print-game-boy",
+            "stars": 30
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Roboto Demo",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2018-03-13T13:39:28Z",
+            "owner": "naavis",
+            "repo": "roboto-demo",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "A Matrix digital rain effect in assembler.",
+          "title": "matrix-rain-gb",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-07-30T01:41:44Z",
+            "owner": "wtjones",
+            "repo": "matrix-rain-gb",
+            "stars": 32
+          }
+        },
+        {
+          "children": [],
+          "description": "A technical demo demonstrating how the Game Boy LCD controller can be hacked to make a Game Boy Color play a full motion video in color, together with music.",
+          "title": "GBVideoPlayer",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-26T00:58:56Z",
+            "owner": "LIJI32",
+            "repo": "GBVideoPlayer",
+            "stars": 100
+          }
+        },
+        {
+          "children": [],
+          "description": "The second iteration of the above demo, which increases the resolution, adds .",
+          "title": "GBVideoPlayer2",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-11-02T13:01:56Z",
+            "owner": "LIJI32",
+            "repo": "GBVideoPlayer2",
+            "stars": 124
+          }
+        }
+      ],
+      "title": "Demos"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Reverse engineering Kirby's Dreamland 2"
+        },
+        {
+          "children": [],
+          "description": "a python module that provides various reverse engineering components for various Pokémon games.",
+          "title": "pokemontools",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-12-16T23:41:38Z",
+            "owner": "pret",
+            "repo": "pokemon-reverse-engineering-tools",
+            "stars": 347
+          }
+        },
+        {
+          "children": [],
+          "description": "A walkthrough to reverse engineer a Game Boy ROM challenge using radare2.",
+          "title": "Reverse Engineering a Gameboy ROM with radare2"
+        },
+        {
+          "children": [],
+          "description": "A series of blog posts about disassembling Link's Awakening DX.",
+          "title": "Disassembling Link's Awakening"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Reverse Engineering the GameBoy Tetris",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-07-17T04:14:24Z",
+            "owner": "h3nnn4n",
+            "repo": "Reverse-Engineering-the-GameBoy-Tetris",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple technique that allows you to run custom code in most GB/SGB/CGB games, provided you have an ACE exploit.",
+          "title": "DMA hijacking"
+        }
+      ],
+      "title": "Reverse Engineering"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Pokémon Red/Blue",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-01-24T15:00:03Z",
+            "owner": "pret",
+            "repo": "pokered",
+            "stars": 4544
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Pokémon Crystal",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-01-24T20:44:26Z",
+            "owner": "pret",
+            "repo": "pokecrystal",
+            "stars": 2346
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Pokémon Yellow",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-01-18T04:40:06Z",
+            "owner": "pret",
+            "repo": "pokeyellow",
+            "stars": 805
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Pokémon Gold and Silver",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-01-21T00:17:48Z",
+            "owner": "pret",
+            "repo": "pokegold",
+            "stars": 641
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Pokémon Pinball",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-11-14T05:17:30Z",
+            "owner": "pret",
+            "repo": "pokepinball",
+            "stars": 184
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Pokémon TCG",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-02-06T15:46:26Z",
+            "owner": "pret",
+            "repo": "poketcg",
+            "stars": 303
+          }
+        },
+        {
+          "children": [],
+          "description": "Pokémon Gold and Silver 1997 Space World demo.",
+          "title": "pokegold-spaceworld",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-01-21T23:43:18Z",
+            "owner": "pret",
+            "repo": "pokegold-spaceworld",
+            "stars": 374
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Link's Awakening DX",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-02-05T12:05:45Z",
+            "owner": "mojobojo",
+            "repo": "LADX-Disassembly",
+            "stars": 877
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Oracle of Ages",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-12-23T23:05:29Z",
+            "owner": "drenn1",
+            "repo": "ages-disasm",
+            "stars": 186
+          }
+        },
+        {
+          "children": [],
+          "description": "Complete Tetris disassembly.",
+          "title": "Tetris",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2023-01-19T09:20:58Z",
+            "owner": "vinheim3",
+            "repo": "tetris-gb-disasm",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "FX Hammer",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-03-09T16:00:38Z",
+            "owner": "DevEd2",
+            "repo": "FXHammer-Disasm",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Harvest Moon 3",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2023-05-01T07:42:32Z",
+            "owner": "sanqui",
+            "repo": "hm3",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Final Fantasy Adventure"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "The Jungle Book",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-01-10T08:33:12Z",
+            "owner": "not-chciken",
+            "repo": "jungle-book-gb-disassembly",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Game Disassemblies"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Game Boy Camera"
+    },
+    {
+      "description": "Game Boy Printer emulation (e.g. to retrieve images from the camera):",
+      "items": [
+        {
+          "children": [],
+          "description": "Emulate a gameboy printer via the gameboy link cable.",
+          "title": "Arduino Gameboy Printer Emulator",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-15T09:36:59Z",
+            "owner": "mofosyne",
+            "repo": "arduino-gameboy-printer-emulator",
+            "stars": 352
+          }
+        },
+        {
+          "children": [],
+          "description": "A device that emulates the Gameboy Printer and lets you retrieve images using WiFi powered by an ESP8266.",
+          "title": "ESP8266 Game Boy Printer",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-10-12T00:26:25Z",
+            "owner": "applefreak",
+            "repo": "esp8266-gameboy-printer",
+            "stars": 49
+          }
+        },
+        {
+          "children": [],
+          "description": "A GameBoy printer emulator which provides the received data over a WiFi connection.",
+          "title": "WiFi GBP Emulator",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-31T00:32:39Z",
+            "owner": "HerrZatacke",
+            "repo": "wifi-gbp-emulator",
+            "stars": 74
+          }
+        },
+        {
+          "children": [],
+          "description": "Game Boy Printer interface shield for D1 mini/mini Pro ESP8266 boards.",
+          "title": "Game Boy WiFi Printer - D1 Mini Shield",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-31T21:26:19Z",
+            "owner": "cristofercruz",
+            "repo": "gbp-esp-shield-pcb",
+            "stars": 23
+          }
+        },
+        {
+          "children": [],
+          "description": "Sniff packet communications between a Game Boy and the Printer.",
+          "title": "Game Boy Printer Sniffer",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-06-21T18:32:48Z",
+            "owner": "mofosyne",
+            "repo": "GameboyPrinterSniffer",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Retrieving images"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Generate as-if-printed images of digital printed images.",
+          "title": "Game Boy Printer Paper Simulation",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-30T10:11:58Z",
+            "owner": "mofosyne",
+            "repo": "GameboyPrinterPaperSimulation",
+            "stars": 83
+          }
+        },
+        {
+          "children": [],
+          "description": "Gallery app for to the Game Boy camera: import pictures from exports or cartridge dumps and choose color palettes.",
+          "title": "Game Boy Printer Web",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-05T21:06:17Z",
+            "owner": "HerrZatacke",
+            "repo": "gb-printer-web",
+            "stars": 69
+          }
+        }
+      ],
+      "title": "Post processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": null,
+              "title": "Resources to get started"
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "Dedicated Discord"
+            },
+            {
+              "children": [],
+              "description": "A course designed to teach anyone how to create a platformer game using GB Studio 4+.",
+              "title": "Lets Build a Platformer Game!"
+            }
+          ],
+          "description": "Drag and drop game creator with simple, no knowledge required, visual scripting.",
+          "title": "GB Studio"
+        },
+        {
+          "children": [],
+          "description": "Serial communication (MIDI) from an Arduino to the Game Boy for music applications such as LittleSoundDJ, Nanoloop, and mGB.",
+          "title": "ArduinoBoy",
+          "repo_info": {
+            "archived": false,
+            "language": "Max",
+            "last_commit": "2020-11-16T05:24:36Z",
+            "owner": "trash80",
+            "repo": "Arduinoboy",
+            "stars": 357
+          }
+        },
+        {
+          "children": [],
+          "description": "Game Boy Classic fully functional FPGA implementation from scratch.",
+          "title": "papiGB",
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2017-07-19T06:59:29Z",
+            "owner": "diegovalverde",
+            "repo": "papiGB",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Implementation Nintendo's Game Boy console on an FPGA.",
+          "title": "fpgaboy",
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2016-09-10T20:58:19Z",
+            "owner": "trun",
+            "repo": "fpgaboy",
+            "stars": 99
+          }
+        },
+        {
+          "children": [],
+          "description": "A LUA-driven AI that plays classic Game Boy color games using experimentation. In active development.",
+          "title": "Piglet",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2014-12-08T07:16:36Z",
+            "owner": "danShumway",
+            "repo": "Piglet",
+            "stars": 44
+          }
+        },
+        {
+          "children": [],
+          "description": "A Game Boy Sound System player written in Swift.",
+          "title": "Ostrich",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-06-09T07:49:08Z",
+            "owner": "PumpMagic",
+            "repo": "ostrich",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": "A Game Boy cartridge program that enables the Game Boy to act as a full MIDI supported sound module.",
+          "title": "mGB",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-07-16T05:22:28Z",
+            "owner": "trash80",
+            "repo": "mGB",
+            "stars": 258
+          }
+        },
+        {
+          "children": [],
+          "description": "Demonstrating the use of two undocumented Game Boy Color registers, nicknamed PCM12 (FF76) and PCM34 (FF77), which can be used to read the current PCM amplitude of the 4 APU channels.",
+          "title": "GBVisualizer",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2017-04-14T15:58:37Z",
+            "owner": "LIJI32",
+            "repo": "GBVisualizer",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "Arduino based Game Boy cartridge reader and writer.",
+          "title": "ArduinoGameBoy",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-13T23:22:56Z",
+            "owner": "drhelius",
+            "repo": "arduinogameboy",
+            "stars": 163
+          }
+        },
+        {
+          "children": [],
+          "description": "Brainf*ck interpreter.",
+          "title": "gameboy-brainfuck",
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2017-01-27T17:39:51Z",
+            "owner": "bitnenfer",
+            "repo": "gameboy-brainfuck",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "Brainf*ck interpreter, with input.",
+          "title": "gbfk",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2018-07-11T21:21:07Z",
+            "owner": "elseyf",
+            "repo": "gbfk",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Patches to add save state support to Game Boy games when playing on the original hardware.",
+          "title": "gb-save-states",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-02-18T09:07:06Z",
+            "owner": "mattcurrie",
+            "repo": "gb-save-states",
+            "stars": 176
+          }
+        },
+        {
+          "children": [],
+          "description": "A CPU and peripherals implementing the Game Boy instruction set and functionality.",
+          "title": "gbcpu",
+          "repo_info": {
+            "archived": false,
+            "language": "VHDL",
+            "last_commit": "2013-04-25T14:38:20Z",
+            "owner": "jdeblese",
+            "repo": "gbcpu",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Digitized Speech in Game Boy Games"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Sniffing Game Boy serial traffic with an STM32F4"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Virtual Game Boy Printer with an STM32F4"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Printing on the Game Boy Printer using an STM32F4"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Programming Game Boy Chinese cartridges with an STM32F4"
+        },
+        {
+          "children": [],
+          "description": "What is it and how to use it to make cheat codes.",
+          "title": "Pokemon Pocket Computer:"
+        },
+        {
+          "children": [],
+          "description": "Bypassing the Nintendo logo check.",
+          "title": "Booting the Game Boy with a custom logo"
+        },
+        {
+          "children": [],
+          "description": "Making a Game Boy game in 2017: A \"Sheep It Up!\" Post-Mortem (, )",
+          "title": "part 1"
+        },
+        {
+          "children": [],
+          "description": "Every cartridge has to show the authentic logo to be considered valid and be run, but obviously some companies managed to exploit the check system.",
+          "title": "Nintendo's fake logos"
+        },
+        {
+          "children": [],
+          "description": "Utility library for interacting with the LSDj save format (.sav), song files (.lsdsng) and more.",
+          "title": "liblsdj",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-02T21:08:24Z",
+            "owner": "stijnfrishert",
+            "repo": "liblsdj",
+            "stars": 104
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool for modifying samples, fonts and palettes on LSDj ROM images.",
+          "title": "lsdpatch",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-10-19T19:04:01Z",
+            "owner": "jkotlinski",
+            "repo": "lsdpatch",
+            "stars": 201
+          }
+        },
+        {
+          "children": [],
+          "description": "Some little experiments using the STAT interrupt to do funny video manipulations.",
+          "title": "Game Boy video effects",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2018-03-13T14:52:44Z",
+            "owner": "ChaosCabbage",
+            "repo": "crazy-gameboy-video-experiments",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "A basic operating system for the Game Boy.",
+          "title": "gbos",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2019-09-25T14:53:55Z",
+            "owner": "ekimekim",
+            "repo": "gbos",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
+          "description": "Russian multi tasking operating system.",
+          "title": "Work Master OS"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Game Boy Link Cable Breakout Board",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-18T09:20:22Z",
+            "owner": "Palmr",
+            "repo": "gb-link-cable",
+            "stars": 104
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "GBCartFlasher firmware",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-06-01T13:08:03Z",
+            "owner": "Tauwasser",
+            "repo": "GBCartFlasher",
+            "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "Game Boy compatible console Verilog RTL implementation.",
+          "title": "VerilogBoy",
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2022-12-10T01:05:49Z",
+            "owner": "zephray",
+            "repo": "VerilogBoy",
+            "stars": 511
+          }
+        },
+        {
+          "children": [],
+          "description": "Lo-Fi portable video recorder using a GameBoy Camera cartridge.",
+          "title": "GBCamcorder",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-12-20T09:07:59Z",
+            "owner": "furrtek",
+            "repo": "GBCamcorder",
+            "stars": 95
+          }
+        },
+        {
+          "children": [],
+          "description": "Read ROM, Read RAM or Write RAM from/to a GameBoy Cartridge.",
+          "title": "GBCartRead",
+          "repo_info": {
+            "archived": false,
+            "language": "Eagle",
+            "last_commit": "2016-07-21T08:48:25Z",
+            "owner": "insidegadgets",
+            "repo": "GBCartRead",
+            "stars": 68
+          }
+        },
+        {
+          "children": [],
+          "description": "A device for reading game ROMs, save games and restoring saves for GB, GBC and GBA carts from your PC via USB.",
+          "title": "GBxCart-RW",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-12-29T01:39:44Z",
+            "owner": "insidegadgets",
+            "repo": "GBxCart-RW",
+            "stars": 103
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Dumping the Super Game Boy Boot ROM"
+        },
+        {
+          "children": [],
+          "description": "A 3D model of the Game Boy CPU layout in Blender.",
+          "title": "sm83-render",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-16T23:38:57Z",
+            "owner": "msinger",
+            "repo": "sm83-render",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "A visual transistor level simulation of the Game Boy CPU core in JavaScript, running in a browser.",
+          "title": "visual-sm83"
+        }
+      ],
+      "title": "Related projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "About"
+    },
+    {
+      "description": "Take a look at Contribution Guidelines.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "Licensed under GPLv3. See LICENSE for more information.",
+      "items": [],
+      "title": "License"
+    },
+    {
+      "description": "Thanks to every contributor of this project, Jeff Frohwein, Pascal Felber, KOOPa, Pan of Anthrox, GABY, Marat Fayzullin, Paul Robson, BOWSER, neviksti, Martin \"nocash\" Korth, Nitro2k01, Duo, Chris Antonellis, Michael Hope, Beware, Jonathan “Lord Nightmare” Gevaryahu, Carsten Sorense, Sindre Aamås, Otaku No Zoku, GeeBee.",
+      "items": [],
+      "title": "Acknowledgements"
+    },
+    {
+      "description": "Special thanks to our friends at DigitalOcean and Incube8 Games, sponsoring the open source activites of our Game Boy Development community.",
+      "items": [],
+      "title": "Sponsors"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:37:17.931Z",
+    "original_repository": "gbdev/awesome-gbdev",
+    "source_repository": "v1nvn/enhansome-gbdev",
+    "source_repository_description": null,
+    "title": "Awesome Game Boy Development"
+  }
+}

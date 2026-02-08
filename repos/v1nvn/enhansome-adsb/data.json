@@ -1,0 +1,202 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "ADS-B Aggregators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "ADS-B decoder swiss knife.",
+          "title": "readsb",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-03T19:48:23Z",
+            "owner": "wiedehopf",
+            "repo": "readsb",
+            "stars": 559
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple Mode S decoder for RTLSDR devices.",
+          "title": "dump1090",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-14T23:53:13Z",
+            "owner": "MalcolmRobb",
+            "repo": "dump1090",
+            "stars": 1091
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple command-line \"GUI\" for showing current dump1090/readsb data.",
+          "title": "flightmon",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-06-13T14:32:51Z",
+            "owner": "mik3y",
+            "repo": "flightmon",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.",
+          "title": "sdr-enthusiasts/plane-alert-db",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T00:35:20Z",
+            "owner": "sdr-enthusiasts",
+            "repo": "plane-alert-db",
+            "stars": 113
+          }
+        },
+        {
+          "children": [],
+          "description": "A python decoder for Mode S and ADS-B signals.",
+          "title": "junzis/pyModeS",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-25T10:34:20Z",
+            "owner": "junzis",
+            "repo": "pyModeS",
+            "stars": 642
+          }
+        },
+        {
+          "children": [],
+          "description": "Python tool to detect, act on, and visualize ADS-B traffic and events.",
+          "title": "adsb_actions",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T15:49:43Z",
+            "owner": "eastham",
+            "repo": "adsb_actions",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "All-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in.",
+          "title": "sdr-enthusiasts/docker-adsb-ultrafeeder",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-28T21:07:54Z",
+            "owner": "sdr-enthusiasts",
+            "repo": "docker-adsb-ultrafeeder",
+            "stars": 445
+          }
+        },
+        {
+          "children": [],
+          "description": "Easy to use feeder install script for feeding to adsb.fi.",
+          "title": "adsbfi/adsb-fi-scripts",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-08-29T19:42:15Z",
+            "owner": "adsbfi",
+            "repo": "adsb-fi-scripts",
+            "stars": 139
+          }
+        },
+        {
+          "children": [],
+          "description": "Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client. Powered by  images.",
+          "title": "adsblol/feed",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-10-18T18:15:11Z",
+            "owner": "adsblol",
+            "repo": "feed",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "Feeding"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A little tool that can be used to log, display and tweet the aircraft that come within range of your receiver (i.e. the fence).",
+          "title": "docker-planefence",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-12T22:57:33Z",
+            "owner": "kx1t",
+            "repo": "docker-planefence",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data.",
+          "title": "Jxck-S/plane-notify",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T05:52:03Z",
+            "owner": "Jxck-S",
+            "repo": "plane-notify",
+            "stars": 2538
+          }
+        }
+      ],
+      "title": "Social"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardware"
+    },
+    {
+      "description": "Who else should we be following?",
+      "items": [],
+      "title": "Follow"
+    },
+    {
+      "description": "Contributions of any kind are welcome 💙! Please check out the contributing guidelines.\n",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "This project exists thanks to all the people that contributed!",
+      "items": [],
+      "title": "Contributors"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:29:38.343Z",
+    "original_repository": "rickstaa/awesome-adsb",
+    "source_repository": "v1nvn/enhansome-adsb",
+    "source_repository_description": null,
+    "title": "Awesome ADS-B"
+  }
+}

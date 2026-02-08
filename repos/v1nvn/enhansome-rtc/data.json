@@ -1,0 +1,811 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Server Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Open source SIP server widely deployed by carriers and providers. Formerly known as OpenSER.",
+          "title": "Kamailio"
+        },
+        {
+          "children": [],
+          "description": "Open source SIP server, tracing its roots in OpenSER (presently Kamailio).",
+          "title": "OpenSIPS"
+        },
+        {
+          "children": [],
+          "description": "Lightweight SIP proxy, location server, and registrar written in Node.js.",
+          "title": "Routr"
+        },
+        {
+          "children": [],
+          "description": "Back-to-back user agent server written in Python.",
+          "title": "Sippy B2BUA",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T21:28:02Z",
+            "owner": "sippy",
+            "repo": "b2bua",
+            "stars": 196
+          }
+        },
+        {
+          "children": [],
+          "description": "SIP server suite comprising proxy, presence and group chat functions.",
+          "title": "Flexisip",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-06T16:04:48Z",
+            "owner": "BelledonneCommunications",
+            "repo": "flexisip",
+            "stars": 175
+          }
+        }
+      ],
+      "title": "SIP Servers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Lightweight open source, general purpose, WebRTC gateway.",
+          "title": "Janus"
+        },
+        {
+          "children": [],
+          "description": "General purpose high performance RTP proxy.",
+          "title": "RTPProxy"
+        },
+        {
+          "children": [],
+          "description": "RTP and UDP based media traffic proxy, usable as a kernel module.",
+          "title": "RTP:Engine",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-06T15:09:39Z",
+            "owner": "sipwise",
+            "repo": "rtpengine",
+            "stars": 907
+          }
+        },
+        {
+          "children": [],
+          "description": "Specialized WebRTC conferencing system.",
+          "title": "mediasoup"
+        },
+        {
+          "children": [],
+          "description": "Open source media and application server for SIP based VoIP services.",
+          "title": "SEMS",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-06T14:37:00Z",
+            "owner": "sems-server",
+            "repo": "sems",
+            "stars": 181
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of RTC open source projects, with a focus on conferencing software.",
+          "title": "Jitsi"
+        }
+      ],
+      "title": "Media Servers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Fully featured TURN/STUN server supporting multiple platforms.",
+          "title": "coturn",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-04T15:12:36Z",
+            "owner": "coturn",
+            "repo": "coturn",
+            "stars": 13561
+          }
+        },
+        {
+          "children": [],
+          "description": "Modern and scalable STUN/TURN server written in Erlang.",
+          "title": "eturnal"
+        },
+        {
+          "children": [],
+          "description": "RFC compliant open source STUN implementation.",
+          "title": "STUNTMAN",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-30T07:04:34Z",
+            "owner": "jselbie",
+            "repo": "stunserver",
+            "stars": 1575
+          }
+        }
+      ],
+      "title": "STUN/TURN"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Operations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Terminal based SIP flow viewer.",
+          "title": "sngrep",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-26T16:00:10Z",
+            "owner": "irontec",
+            "repo": "sngrep",
+            "stars": 1156
+          }
+        },
+        {
+          "children": [],
+          "description": "Console tool for sniffing, capturing and exploring SIP traffic.",
+          "title": "sipgrep",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-09-10T08:48:35Z",
+            "owner": "sipcapture",
+            "repo": "sipgrep",
+            "stars": 172
+          }
+        },
+        {
+          "children": [],
+          "description": "Detect, reconstruct and analyze RTP sessions.",
+          "title": "rtpbreak",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-02-02T09:43:46Z",
+            "owner": "Naishy",
+            "repo": "rtpsplit",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "Multi-protocol capturing and monitoring framework for RTC.",
+          "title": "HOMER",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-28T21:33:16Z",
+            "owner": "sipcapture",
+            "repo": "homer",
+            "stars": 1899
+          }
+        },
+        {
+          "children": [],
+          "description": "Self-hosted one stop client-side WebRTC troubleshooter.",
+          "title": "WebRTC Troubleshooter",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-03-15T13:30:11Z",
+            "owner": "webrtc",
+            "repo": "testrtc",
+            "stars": 491
+          }
+        },
+        {
+          "children": [],
+          "description": "Exposes client-side NAT traversal debug data.",
+          "title": "Trickle ICE"
+        },
+        {
+          "children": [],
+          "description": "VoIP & RTC traffic monitoring and analysis platform.",
+          "title": "SIP3"
+        }
+      ],
+      "title": "Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Traffic generator for the SIP protocol.",
+          "title": "SIPp"
+        },
+        {
+          "children": [],
+          "description": "Suite of security tools that can be used to audit SIP based VoIP systems.",
+          "title": "SIPVicious",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-06T18:55:08Z",
+            "owner": "EnableSecurity",
+            "repo": "sipvicious",
+            "stars": 1032
+          }
+        },
+        {
+          "children": [],
+          "description": "SIP stress and diagnostics utility.",
+          "title": "sipsak",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-05-26T20:04:22Z",
+            "owner": "nils-ohlmeier",
+            "repo": "sipsak",
+            "stars": 168
+          }
+        },
+        {
+          "children": [],
+          "description": "Modern and flexible SIP command line tool.",
+          "title": "sipexer",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-05T07:51:25Z",
+            "owner": "miconda",
+            "repo": "sipexer",
+            "stars": 375
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Open source programmable-voice/telephony API platform.",
+          "title": "Eqivo"
+        },
+        {
+          "children": [],
+          "description": "Carrier-grade VoIP API platform using FreeSWITCH and Kamailio.",
+          "title": "Kazoo"
+        },
+        {
+          "children": [],
+          "description": "Multitenant system built on top of FreeSWITCH.",
+          "title": "FusionPBX"
+        },
+        {
+          "children": [],
+          "description": "Web Manager for Asterisk.",
+          "title": "FreePBX"
+        },
+        {
+          "children": [],
+          "description": "Telecommunication stack built with Node.js.",
+          "title": "Fonoster",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-04T20:40:01Z",
+            "owner": "fonoster",
+            "repo": "fonoster",
+            "stars": 7547
+          }
+        },
+        {
+          "children": [],
+          "description": "VoIP API platform built on top of Asterisk, Kamailio and RTPEngine.",
+          "title": "Wazo"
+        },
+        {
+          "children": [],
+          "description": "Open source CPaaS built for communications service providers.",
+          "title": "jambonz"
+        },
+        {
+          "children": [],
+          "description": "Multitenant solution for VoIP telephony providers.",
+          "title": "IVOZ Provider",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-03T10:10:45Z",
+            "owner": "irontec",
+            "repo": "ivozprovider",
+            "stars": 220
+          }
+        },
+        {
+          "children": [],
+          "description": "Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.",
+          "title": "Sayna",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-07T20:20:43Z",
+            "owner": "SaynaAI",
+            "repo": "sayna",
+            "stars": 121
+          }
+        }
+      ],
+      "title": "Web/API Interfaces"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Developer Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Node.js SIP server framework.",
+          "title": "drachtio"
+        },
+        {
+          "children": [],
+          "description": "JavaScript shim for abstracting WebRTC spec changes and inconsistencies.",
+          "title": "adapter.js",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-08T23:30:12Z",
+            "owner": "webrtcHacks",
+            "repo": "adapter",
+            "stars": 3739
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight open source JavaScript SIP library.",
+          "title": "JsSIP"
+        },
+        {
+          "children": [],
+          "description": "Open source JavaScript SIP client with WebRTC media stack.",
+          "title": "sipML5"
+        },
+        {
+          "children": [],
+          "description": "WebRTC video, voice, and data channels abstraction for Node.js and the browser.",
+          "title": "simple-peer",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-26T14:45:57Z",
+            "owner": "feross",
+            "repo": "simple-peer",
+            "stars": 7785
+          }
+        },
+        {
+          "children": [],
+          "description": "Isomorphic JavaScript peer to peer transport API for client and server.",
+          "title": "Netflux",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-01-18T21:13:38Z",
+            "owner": "coast-team",
+            "repo": "netflux",
+            "stars": 217
+          }
+        },
+        {
+          "children": [],
+          "description": "Data and media peer-to-peer connection API implemented over WebRTC.",
+          "title": "PeerJS"
+        },
+        {
+          "children": [],
+          "description": "A WebSocket Real-Time Communication (RTC) API framework. Realtime Front-end, Back-end reactivity.",
+          "title": "Socio",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-15T09:51:04Z",
+            "owner": "Rolands-Laucis",
+            "repo": "Socio",
+            "stars": 126
+          }
+        }
+      ],
+      "title": "JavaScript Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Portable SIP Stack along with companion libraries for media handling, STUN/TURN and a modular user agent.",
+          "title": "libre",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-02-06T08:26:27Z",
+            "owner": "creytiv",
+            "repo": "re",
+            "stars": 544
+          }
+        },
+        {
+          "children": [],
+          "description": "Multi-protocol RTC library written in C.",
+          "title": "PJSIP"
+        },
+        {
+          "children": [],
+          "description": "eXtended osip is a mature C library for abstracting the SIP protocol.",
+          "title": "eXosip"
+        },
+        {
+          "children": [],
+          "description": "Standalone WebRTC DataChannels C++ implementation.",
+          "title": "libdatachannel",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-07T23:13:00Z",
+            "owner": "paullouisageneau",
+            "repo": "libdatachannel",
+            "stars": 2468
+          }
+        },
+        {
+          "children": [],
+          "description": "Secure Real-time Transport Protocol (SRTP) library for C.",
+          "title": "libSRTP",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-04T21:39:29Z",
+            "owner": "cisco",
+            "repo": "libsrtp",
+            "stars": 1357
+          }
+        },
+        {
+          "children": [],
+          "description": "Portable Stream Control Transmission Protocol (SCTP) user-land stack.",
+          "title": "usrsctp",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-16T18:51:48Z",
+            "owner": "sctplab",
+            "repo": "usrsctp",
+            "stars": 740
+          }
+        },
+        {
+          "children": [],
+          "description": "WebRTC and ORTC library with a small footprint.",
+          "title": "rawrtc",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-12-23T16:45:33Z",
+            "owner": "rawrtc",
+            "repo": "rawrtc",
+            "stars": 389
+          }
+        },
+        {
+          "children": [],
+          "description": "General purpose C++ library for Real Time Communications.",
+          "title": "OSS Core",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-11-18T15:32:22Z",
+            "owner": "joegen",
+            "repo": "oss_core",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "WebRTC development toolkit with bindings for multiple platforms.",
+          "title": "Open WebRTC Toolkit"
+        },
+        {
+          "children": [],
+          "description": "Open source SIP library used by FreeSWITCH.",
+          "title": "Sofia-SIP",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-14T21:51:19Z",
+            "owner": "freeswitch",
+            "repo": "sofia-sip",
+            "stars": 322
+          }
+        }
+      ],
+      "title": "C/C++ Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Extensive software stack for WebRTC written in Go.",
+          "title": "Pion"
+        },
+        {
+          "children": [],
+          "description": "SIP stack for stateful user agents written in Go.",
+          "title": "gossip",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-02-21T04:01:43Z",
+            "owner": "StefanKopieczek",
+            "repo": "gossip",
+            "stars": 345
+          }
+        },
+        {
+          "children": [],
+          "description": "Fast SIP and SDP packet parser.",
+          "title": "siprocket",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-08-23T16:40:07Z",
+            "owner": "marv2097",
+            "repo": "siprocket",
+            "stars": 74
+          }
+        },
+        {
+          "children": [],
+          "description": "RFC compliant Diameter protocol library.",
+          "title": "go-diameter",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-07-15T13:06:45Z",
+            "owner": "fiorix",
+            "repo": "go-diameter",
+            "stars": 282
+          }
+        }
+      ],
+      "title": "Go Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "WebRTC and ORTC implementation for Python using asyncio.",
+          "title": "aiortc",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-29T14:07:40Z",
+            "owner": "aiortc",
+            "repo": "aiortc",
+            "stars": 5002
+          }
+        },
+        {
+          "children": [],
+          "description": "SIP stack application framework.",
+          "title": "Katari",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-25T21:33:27Z",
+            "owner": "hyperioxx",
+            "repo": "Katari",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Python port of the PeerJS peer-to-peer connection library.",
+          "title": "peerjs-python",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-31T14:32:55Z",
+            "owner": "ambianic",
+            "repo": "peerjs-python",
+            "stars": 97
+          }
+        }
+      ],
+      "title": "Python Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Extendable SIP server framework.",
+          "title": "NkSIP",
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2024-05-23T07:24:03Z",
+            "owner": "NetComposer",
+            "repo": "nksip",
+            "stars": 362
+          }
+        },
+        {
+          "children": [],
+          "description": "Library comprising building blocks for SIP applications.",
+          "title": "ersip",
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2024-09-25T08:07:56Z",
+            "owner": "poroh",
+            "repo": "ersip",
+            "stars": 128
+          }
+        }
+      ],
+      "title": "Erlang Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "SIP implementation, with a focus towards softphone clients.",
+          "title": "libsip"
+        },
+        {
+          "children": [],
+          "description": "Rust framework for creating SIP applications.",
+          "title": "sipcore",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-03-14T14:20:32Z",
+            "owner": "armatusmiles",
+            "repo": "sipcore",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "WebRTC stack, supporting SDP, RTP, RTCP and SRTP.",
+          "title": "rtcrs/webrtc",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-07T00:39:32Z",
+            "owner": "rtcrs",
+            "repo": "webrtc",
+            "stars": 4919
+          }
+        }
+      ],
+      "title": "Rust Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Real Time Internet Peering for Telephony.",
+          "title": "Awesome RIPT",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-30T17:47:38Z",
+            "owner": "rtckit",
+            "repo": "awesome-ript",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "Real Time Communications hacking and penetration testing resources.",
+          "title": "Awesome RTC Hacking",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-25T06:17:23Z",
+            "owner": "EnableSecurity",
+            "repo": "awesome-rtc-hacking",
+            "stars": 510
+          }
+        },
+        {
+          "children": [],
+          "description": "5G frameworks, libraries, software and resources.",
+          "title": "Awesome 5G",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-03T11:09:03Z",
+            "owner": "calee0219",
+            "repo": "awesome-5g",
+            "stars": 865
+          }
+        },
+        {
+          "children": [],
+          "description": "Research resources in the 3G/4G/5G Cellular security space.",
+          "title": "Awesome Cellular Hacking",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-08T09:44:49Z",
+            "owner": "W00t3k",
+            "repo": "Awesome-Cellular-Hacking",
+            "stars": 3596
+          }
+        },
+        {
+          "children": [],
+          "description": "Telco resources and projects.",
+          "title": "Awesome Telco",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T11:55:02Z",
+            "owner": "ravens",
+            "repo": "awesome-telco",
+            "stars": 891
+          }
+        },
+        {
+          "children": [],
+          "description": "Useful SIP resources curated by Kamailio's head developer.",
+          "title": "SIP Resources",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-09T08:50:45Z",
+            "owner": "miconda",
+            "repo": "sip-resources",
+            "stars": 252
+          }
+        }
+      ],
+      "title": "Related Lists"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:33:00.880Z",
+    "original_repository": "rtckit/awesome-rtc",
+    "source_repository": "v1nvn/enhansome-rtc",
+    "source_repository_description": null,
+    "title": "Awesome Real Time Communications with stars"
+  }
+}

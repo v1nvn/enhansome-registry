@@ -1,0 +1,1630 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Roy Fielding's dissertation defining REST",
+          "title": "Architectural Styles and the Design of Network-based Software Architectures"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "HTTP API design guide extracted from work on the Heroku Platform API",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-16T20:27:54Z",
+            "owner": "interagent",
+            "repo": "http-api-design",
+            "stars": 13699
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Best Practices for Designing a Pragmatic RESTful API"
+        },
+        {
+          "children": [],
+          "description": "Full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.",
+          "title": "How to design a REST API?"
+        },
+        {
+          "children": [],
+          "description": "Explained by Martin Fowler, originally presented by Leonard Richardson at the .",
+          "title": "Richardson Maturity Model"
+        },
+        {
+          "children": [],
+          "description": "Discusses the constraints and flexibility that you have with nonpublic APIs, and lessons learned from doing large scale RESTful integration across multiple teams.",
+          "title": "Enterprise Integration Using REST"
+        },
+        {
+          "children": [],
+          "description": "Clear explanation on what HATEOAS is, and why you should use it.",
+          "title": "HATEOAS"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "How to GET a cup of coffee"
+        },
+        {
+          "children": [],
+          "description": "RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available to enable quick reference and self education for the development crafts-person.",
+          "title": "REST API Tutorial"
+        },
+        {
+          "children": [],
+          "description": "Best practices about REST API security",
+          "title": "API-Security-Checklist",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-03T05:27:19Z",
+            "owner": "shieldfy",
+            "repo": "API-Security-Checklist",
+            "stars": 23166
+          }
+        }
+      ],
+      "title": "Design"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Adidas REST API Guidelines define standards and guidelines for building REST APIs at adidas.",
+          "title": "Adidas REST API Guidelines",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-19T13:46:58Z",
+            "owner": "adidas",
+            "repo": "api-guidelines",
+            "stars": 398
+          }
+        },
+        {
+          "children": [],
+          "description": "This document provides guidelines to Atlassian developers who are designing REST APIs for Atlassian applications.",
+          "title": "Atlassian REST API design guidelines version 1"
+        },
+        {
+          "children": [],
+          "description": "Guidelines for designing REST APIs at Cisco.",
+          "title": "Cisco REST API Guide",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-11T20:06:54Z",
+            "owner": "CiscoDevNet",
+            "repo": "api-design-guide",
+            "stars": 119
+          }
+        },
+        {
+          "children": [],
+          "description": "Guidelines Google follows when designing Cloud APIs and other Google APIs (REST APIs and gRPC APIs).",
+          "title": "Google Cloud API design guide"
+        },
+        {
+          "children": [],
+          "description": "Guidelines created by Haufe-Lexware CTO team.",
+          "title": "Haufe API Style Guide",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-20T06:25:08Z",
+            "owner": "Haufe-Lexware",
+            "repo": "api-style-guide",
+            "stars": 243
+          }
+        },
+        {
+          "children": [],
+          "description": "The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface.",
+          "title": "Microsoft REST API Guidelines",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-11T21:31:30Z",
+            "owner": "Microsoft",
+            "repo": "api-guidelines",
+            "stars": 23222
+          }
+        },
+        {
+          "children": [],
+          "description": "Developing Restful APIs: A Comprehensive Set of Guidelines.",
+          "title": "Restful API Guidelines by Zalando",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-01-06T17:30:35Z",
+            "owner": "zalando",
+            "repo": "restful-api-guidelines",
+            "stars": 3144
+          }
+        }
+      ],
+      "title": "Guidelines"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "HTTP client and framework for consuming RESTful web services.",
+          "title": "Guzzle"
+        },
+        {
+          "children": [],
+          "description": "Another lightweight HTTP client.",
+          "title": "Buzz",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-07-07T07:38:25Z",
+            "owner": "kriswallsmith",
+            "repo": "buzz",
+            "stars": 1925
+          }
+        },
+        {
+          "children": [],
+          "description": "Simplified, lightweight HTTP client library.",
+          "title": "unirest for PHP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-14T22:43:11Z",
+            "owner": "Mashape",
+            "repo": "unirest-php",
+            "stars": 1281
+          }
+        }
+      ],
+      "title": "PHP Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "AngularJS service to handle REST API properly and easily.",
+          "title": "restangular",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-05T12:55:23Z",
+            "owner": "mgonto",
+            "repo": "restangular",
+            "stars": 7820
+          }
+        },
+        {
+          "children": [],
+          "description": "JS client for interacting with server-side RESTful resources.",
+          "title": "restful.js",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-05-04T07:29:39Z",
+            "owner": "marmelab",
+            "repo": "restful.js",
+            "stars": 964
+          }
+        },
+        {
+          "children": [],
+          "description": "A Hypermedia API/HATEOAS Client for Node.js and the Browser",
+          "title": "traverson",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-03T00:46:34Z",
+            "owner": "basti1302",
+            "repo": "traverson",
+            "stars": 461
+          }
+        },
+        {
+          "children": [],
+          "description": "Generates static client libs for js.",
+          "title": "raml-client-generator",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-11-29T02:57:29Z",
+            "owner": "mulesoft",
+            "repo": "raml-client-generator",
+            "stars": 121
+          }
+        }
+      ],
+      "title": "JavaScript Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "REST client library for node.js.",
+          "title": "restler",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-07-10T11:40:53Z",
+            "owner": "danwrong",
+            "repo": "restler",
+            "stars": 1984
+          }
+        },
+        {
+          "children": [],
+          "description": "Simplified, lightweight HTTP client library.",
+          "title": "unirest for Node.js",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-14T22:43:00Z",
+            "owner": "Mashape",
+            "repo": "unirest-nodejs",
+            "stars": 958
+          }
+        }
+      ],
+      "title": "Node.js Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.",
+          "title": "RESTClient",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-05-19T10:18:13Z",
+            "owner": "rest-client",
+            "repo": "rest-client",
+            "stars": 5230
+          }
+        },
+        {
+          "children": [],
+          "description": "Interact with REST services in an ActiveRecord-like manner.",
+          "title": "Spyke",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-11-04T01:35:03Z",
+            "owner": "balvig",
+            "repo": "spyke",
+            "stars": 906
+          }
+        },
+        {
+          "children": [],
+          "description": "Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.",
+          "title": "excon",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-02-03T02:35:13Z",
+            "owner": "excon",
+            "repo": "excon",
+            "stars": 1172
+          }
+        },
+        {
+          "children": [],
+          "description": "Makes HTTP fun again!",
+          "title": "httparty",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-01-14T22:54:37Z",
+            "owner": "jnunemaker",
+            "repo": "httparty",
+            "stars": 5896
+          }
+        },
+        {
+          "children": [],
+          "description": "Net::HTTP provides a rich library which can be used to build HTTP user-agents.",
+          "title": "Net::HTTP"
+        },
+        {
+          "children": [],
+          "description": "Auto generate API client from a RAML file.",
+          "title": "raml-ruby-client-generator",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2016-02-24T10:10:48Z",
+            "owner": "zlx",
+            "repo": "raml-ruby-client-generator",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Ruby Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Small and simple package to easily consume REST APIs.",
+          "title": "gopencils",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-02-18T01:03:37Z",
+            "owner": "bndr",
+            "repo": "gopencils",
+            "stars": 453
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple HTTP and REST client for Go inspired by Ruby rest-client.",
+          "title": "resty",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-01T01:04:26Z",
+            "owner": "go-resty",
+            "repo": "resty",
+            "stars": 11521
+          }
+        }
+      ],
+      "title": "Go Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Simple REST and HTTP API client for .NET",
+          "title": "RestSharp",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-06T13:27:04Z",
+            "owner": "restsharp",
+            "repo": "RestSharp",
+            "stars": 9823
+          }
+        },
+        {
+          "children": [],
+          "description": "The automatic type-safe REST library for Xamarin and .NET",
+          "title": "Refit",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-06T02:32:59Z",
+            "owner": "reactiveui",
+            "repo": "refit",
+            "stars": 9391
+          }
+        },
+        {
+          "children": [],
+          "description": "Fluent, portable, testable REST/HTTP client library",
+          "title": "Flurl"
+        },
+        {
+          "children": [],
+          "description": "Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit",
+          "title": "RestEase",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-10T14:55:20Z",
+            "owner": "canton7",
+            "repo": "RestEase",
+            "stars": 1110
+          }
+        },
+        {
+          "children": [],
+          "description": "Simpliest Fluent REST client for .NET.",
+          "title": "Tiny.RestClient",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-02T14:22:09Z",
+            "owner": "jgiacomini",
+            "repo": "Tiny.RestClient",
+            "stars": 209
+          }
+        },
+        {
+          "children": [],
+          "description": "The automatic type-safe-reflectionless REST API client library for .Net Standard.",
+          "title": "RestLess",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-07T19:40:34Z",
+            "owner": "letsar",
+            "repo": "RestLess",
+            "stars": 113
+          }
+        },
+        {
+          "children": [],
+          "description": "Refit-based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).",
+          "title": "Apizr",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-16T09:26:13Z",
+            "owner": "Respawnsive",
+            "repo": "Apizr",
+            "stars": 172
+          }
+        }
+      ],
+      "title": ".NET Clients"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Servers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Serve a fully RESTful API directly from an existing PostgreSQL database.",
+          "title": "postgrest",
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-02-08T00:44:36Z",
+            "owner": "begriffs",
+            "repo": "postgrest",
+            "stars": 26474
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple REST-like / CRUD server for any MySQL database.",
+          "title": "MySQL HTTP plugin"
+        },
+        {
+          "children": [],
+          "description": "A fully RESTful API from any existing PostgreSQL database written in Go.",
+          "title": "pREST",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-30T09:22:27Z",
+            "owner": "prest",
+            "repo": "prest",
+            "stars": 4518
+          }
+        }
+      ],
+      "title": "Directly On Top Of A RMDB"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Framework specifically meant for REST API.",
+          "title": "node-restify",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-19T11:43:29Z",
+            "owner": "restify",
+            "repo": "node-restify",
+            "stars": 10720
+          }
+        },
+        {
+          "children": [],
+          "description": "Node.js Web framework embedding a command to generate automatically a REST API.",
+          "title": "Sails.js"
+        },
+        {
+          "children": [],
+          "description": "Express service exposing Mongoose finders as RESTful API.",
+          "title": "mers",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-06-21T20:56:17Z",
+            "owner": "jspears",
+            "repo": "mers",
+            "stars": 343
+          }
+        },
+        {
+          "children": [],
+          "description": "Isomorphic Resource engine for JavaScript.",
+          "title": "flatiron/resourceful",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-01-12T22:05:14Z",
+            "owner": "flatiron",
+            "repo": "resourceful",
+            "stars": 355
+          }
+        },
+        {
+          "children": [],
+          "description": "Powerful Node.js framework for creating APIs and easily connecting to backend data sources.",
+          "title": "loopback"
+        },
+        {
+          "children": [],
+          "description": "is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.",
+          "title": "Feathers"
+        },
+        {
+          "children": [],
+          "description": "Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.",
+          "title": "Expressa",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-22T11:50:01Z",
+            "owner": "thomas4019",
+            "repo": "expressa",
+            "stars": 449
+          }
+        },
+        {
+          "children": [],
+          "description": "Generate RESTful API based on mongoose models that supports relational data.",
+          "title": "rest-hapi",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-26T17:51:24Z",
+            "owner": "JKHeadley",
+            "repo": "rest-hapi",
+            "stars": 1186
+          }
+        },
+        {
+          "children": [],
+          "description": "Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.",
+          "title": "Nestjsx/crud",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-16T21:43:39Z",
+            "owner": "nestjsx",
+            "repo": "crud",
+            "stars": 4324
+          }
+        }
+      ],
+      "title": "Node.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Micro-web application providing a REST API on top of any relational database.",
+          "title": "Microrest",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2019-04-17T11:30:05Z",
+            "owner": "marmelab",
+            "repo": "microrest.php",
+            "stars": 185
+          }
+        },
+        {
+          "children": [],
+          "description": "Content negotiation library.",
+          "title": "Negotiation",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-08-03T17:52:44Z",
+            "owner": "willdurand",
+            "repo": "Negotiation",
+            "stars": 1423
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for exposing Doctrine entities as REST resource endpoints.",
+          "title": "Drest",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-05-11T10:05:01Z",
+            "owner": "leedavis81",
+            "repo": "drest",
+            "stars": 87
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight framework to expose PHP methods as RESTful web API.",
+          "title": "Restler",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-02T15:10:19Z",
+            "owner": "Luracast",
+            "repo": "Restler",
+            "stars": 1372
+          }
+        },
+        {
+          "children": [],
+          "description": "Hypertext Application Language (HAL) builder library.",
+          "title": "HAL",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-05T12:42:47Z",
+            "owner": "blongden",
+            "repo": "hal",
+            "stars": 201
+          }
+        },
+        {
+          "children": [],
+          "description": "API builder built with Zend Framework 2.",
+          "title": "Apigility",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2020-01-20T17:32:46Z",
+            "owner": "zfcampus",
+            "repo": "zf-apigility-skeleton",
+            "stars": 442
+          }
+        },
+        {
+          "children": [],
+          "description": "Specialized REST microframework for PHP.",
+          "title": "phprest",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-07-28T12:07:38Z",
+            "owner": "phprest",
+            "repo": "phprest",
+            "stars": 304
+          }
+        },
+        {
+          "children": [],
+          "description": "PHP library to support implementing representations for HATEOAS REST web services.",
+          "title": "Hateoas",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-10T10:11:02Z",
+            "owner": "willdurand",
+            "repo": "Hateoas",
+            "stars": 1045
+          }
+        },
+        {
+          "children": [],
+          "description": "Open source API management platform.",
+          "title": "Fusio",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-07T23:00:15Z",
+            "owner": "apioo",
+            "repo": "fusio",
+            "stars": 2071
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Complete guide to build a state-of-the-art REST API with Symfony2 framework.",
+          "title": "REST APIs with Symfony2: the Right Way"
+        },
+        {
+          "children": [],
+          "description": "Bundle handling view, routing, error handling, etc. for your REST API.",
+          "title": "FOSRestBundle",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-16T07:56:43Z",
+            "owner": "FriendsOfSymfony",
+            "repo": "FOSRestBundle",
+            "stars": 2804
+          }
+        },
+        {
+          "children": [],
+          "description": "Build a REST API based on Doctrine entities using conventions over configuration.",
+          "title": "stanlemon/rest-bundle",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2022-03-23T01:01:49Z",
+            "owner": "stanlemon",
+            "repo": "rest-bundle",
+            "stars": 121
+          }
+        },
+        {
+          "children": [],
+          "description": "Integrate the  library into a Symfony2 application.",
+          "title": "BazingaHateoasBundle",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-22T13:28:54Z",
+            "owner": "willdurand",
+            "repo": "BazingaHateoasBundle",
+            "stars": 296
+          }
+        },
+        {
+          "children": [],
+          "description": "Start with a Symfony2 application with all REST-friendly bundles pre-configured.",
+          "title": "Symfony REST Edition",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2017-02-04T20:42:24Z",
+            "owner": "gimler",
+            "repo": "symfony-rest-edition",
+            "stars": 632
+          }
+        },
+        {
+          "children": [],
+          "description": "Boostrap ng-admin configuration based on .",
+          "title": "NgAdminGeneratorBundle",
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2019-05-04T07:39:23Z",
+            "owner": "marmelab",
+            "repo": "NgAdminGeneratorBundle",
+            "stars": 75
+          }
+        },
+        {
+          "children": [],
+          "description": "Build a REST API which follow Hydra/JSON-LD specification.",
+          "title": "DunglasApiBundle",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T20:00:35Z",
+            "owner": "dunglas",
+            "repo": "DunglasApiBundle",
+            "stars": 2552
+          }
+        },
+        {
+          "children": [],
+          "description": "Specialize Symfony edition for the creation of hypermedia REST APIs.",
+          "title": "API Platform",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-04T12:16:05Z",
+            "owner": "api-platform",
+            "repo": "api-platform",
+            "stars": 9106
+          }
+        },
+        {
+          "children": [],
+          "description": "Generate documentation for your REST API from annotations.",
+          "title": "NelmioApiDocBundle",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-04T12:42:08Z",
+            "owner": "nelmio",
+            "repo": "NelmioApiDocBundle",
+            "stars": 2333
+          }
+        }
+      ],
+      "title": "Symfony2"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Powerful and flexible toolkit that makes it easy to build Web APIs.",
+          "title": "Django REST framework"
+        },
+        {
+          "children": [],
+          "description": "Creating delicious APIs for Django apps.",
+          "title": "django-tastypie"
+        },
+        {
+          "children": [],
+          "description": "Extension for Flask that adds support for quickly building REST APIs.",
+          "title": "flask-restful"
+        },
+        {
+          "children": [],
+          "description": "Flask extension for generating ReSTful APIs for database models defined with SQLAlchemy (or Flask-SQLAlchemy).",
+          "title": "flask-restless"
+        },
+        {
+          "children": [],
+          "description": "Automated REST APIs for existing database-driven systems.",
+          "title": "sandman",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-25T11:42:58Z",
+            "owner": "jeffknupp",
+            "repo": "sandman",
+            "stars": 2297
+          }
+        },
+        {
+          "children": [],
+          "description": "Framework agnostic REST framework based on lessons learned from TastyPie.",
+          "title": "restless"
+        },
+        {
+          "children": [],
+          "description": "Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.",
+          "title": "Python Eve"
+        },
+        {
+          "children": [],
+          "description": "Makes RAML files executable by generating production-ready APIs from them at runtime.",
+          "title": "Ramses"
+        },
+        {
+          "children": [],
+          "description": "Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.",
+          "title": "Flask-Potion",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-04-23T17:00:39Z",
+            "owner": "biosustain",
+            "repo": "potion",
+            "stars": 489
+          }
+        },
+        {
+          "children": [],
+          "description": "A smart Web API framework, designed for Python 3.",
+          "title": "apistar",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-02-24T05:00:58Z",
+            "owner": "encode",
+            "repo": "apistar",
+            "stars": 5562
+          }
+        },
+        {
+          "children": [],
+          "description": "Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.",
+          "title": "Falcon",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-25T20:14:55Z",
+            "owner": "falconry",
+            "repo": "falcon",
+            "stars": 9795
+          }
+        },
+        {
+          "children": [],
+          "description": "FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.",
+          "title": "FastAPI",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T23:37:32Z",
+            "owner": "tiangolo",
+            "repo": "fastapi",
+            "stars": 94884
+          }
+        },
+        {
+          "children": [],
+          "description": "Platform for building server-side integrations, automations and API backends in Python.",
+          "title": "Zato"
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.",
+          "title": "gocrud",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-03-01T00:20:42Z",
+            "owner": "manishrjain",
+            "repo": "gocrud",
+            "stars": 306
+          }
+        },
+        {
+          "children": [],
+          "description": "Thin layer on top of  that helps building RESTful APIs easily.",
+          "title": "go-json-rest",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-01-23T18:47:50Z",
+            "owner": "ant0ine",
+            "repo": "go-json-rest",
+            "stars": 3502
+          }
+        },
+        {
+          "children": [],
+          "description": "RESTful micro-framework written in Go.",
+          "title": "sleepy",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-11-26T18:15:34Z",
+            "owner": "dougblack",
+            "repo": "sleepy",
+            "stars": 670
+          }
+        },
+        {
+          "children": [],
+          "description": "Go micro framework to help writing RESTful API integration test.",
+          "title": "restit",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-04-16T21:50:23Z",
+            "owner": "yookoala",
+            "repo": "restit",
+            "stars": 55
+          }
+        },
+        {
+          "children": [],
+          "description": "Framework of pluggable components to build RESTful API's.",
+          "title": "go-relax",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-11-02T04:24:03Z",
+            "owner": "codehack",
+            "repo": "go-relax",
+            "stars": 154
+          }
+        },
+        {
+          "children": [],
+          "description": "Small and evil REST framework for Go.",
+          "title": "go-rest",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-01-20T13:26:12Z",
+            "owner": "ungerik",
+            "repo": "go-rest",
+            "stars": 128
+          }
+        },
+        {
+          "children": [],
+          "description": "A declarative highly readable framework for building restful API's.",
+          "title": "go-restful",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-15T19:11:09Z",
+            "owner": "emicklei",
+            "repo": "go-restful",
+            "stars": 5114
+          }
+        },
+        {
+          "children": [],
+          "description": "REST framework for quickly writing resource based services.",
+          "title": "Resoursea",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2015-02-01T22:58:21Z",
+            "owner": "resoursea",
+            "repo": "api",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.",
+          "title": "RestExpress",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-20T20:23:32Z",
+            "owner": "RestExpress",
+            "repo": "RestExpress",
+            "stars": 940
+          }
+        },
+        {
+          "children": [],
+          "description": "Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.",
+          "title": "Vertx-Web",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-05T20:01:04Z",
+            "owner": "vert-x3",
+            "repo": "vertx-web",
+            "stars": 1144
+          }
+        },
+        {
+          "children": [],
+          "description": "A framework for developing ops-friendly, high-performance, RESTful web services.",
+          "title": "Dropwizard",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-06T16:35:34Z",
+            "owner": "dropwizard",
+            "repo": "dropwizard",
+            "stars": 8592
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Command line HTTP client, far more dev-friendly than .",
+          "title": "httpie",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-17T17:30:35Z",
+            "owner": "jkbrzt",
+            "repo": "httpie",
+            "stars": 37510
+          }
+        },
+        {
+          "children": [],
+          "description": "Little command line REST client that you can use in pipelines (bash or zsh).",
+          "title": "resty",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-02-17T16:10:52Z",
+            "owner": "micha",
+            "repo": "resty",
+            "stars": 2653
+          }
+        },
+        {
+          "children": [],
+          "description": "Command line JSON processor, to use in combination with a command-line HTTP client like cURL.",
+          "title": "jq",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-01T06:15:38Z",
+            "owner": "stedolan",
+            "repo": "jq",
+            "stars": 33498
+          }
+        },
+        {
+          "children": [],
+          "description": "GUI tool for testing REST APIs and services. Windows OS only.",
+          "title": "HttpMaster"
+        },
+        {
+          "children": [],
+          "description": "Command line interface for HTTP that let you",
+          "title": "Http-console",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-07T20:39:31Z",
+            "owner": "cloudhead",
+            "repo": "http-console",
+            "stars": 1474
+          }
+        },
+        {
+          "children": [],
+          "description": "HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt_toolkit.",
+          "title": "HTTP Prompt",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-21T06:03:21Z",
+            "owner": "eliangcs",
+            "repo": "http-prompt",
+            "stars": 9102
+          }
+        },
+        {
+          "children": [],
+          "description": "Java DSL for easy testing of REST services.",
+          "title": "rest-assured",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-04T07:20:31Z",
+            "owner": "rest-assured",
+            "repo": "rest-assured",
+            "stars": 7109
+          }
+        },
+        {
+          "children": [],
+          "description": "Cross-platform HTTP and GraphQL Client",
+          "title": "Insomnia",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T19:31:54Z",
+            "owner": "getinsomnia",
+            "repo": "insomnia",
+            "stars": 37912
+          }
+        },
+        {
+          "children": [],
+          "description": "Make HTTP requests with a simple web-based HTTP client.",
+          "title": "ExtendsClass"
+        },
+        {
+          "children": [],
+          "description": "Cross-platform simple but powerful IDE for API automation testing.",
+          "title": "TestMace"
+        },
+        {
+          "children": [],
+          "description": "Extensible cross-platform request/response workbench, not only for http calls.",
+          "title": "Milkman",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-12-18T12:46:05Z",
+            "owner": "warmuuh",
+            "repo": "milkman",
+            "stars": 1324
+          }
+        },
+        {
+          "children": [],
+          "description": "Property-based testing tool for web applications built with Open API and GraphQL specifications.",
+          "title": "Schemathesis",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T00:09:57Z",
+            "owner": "schemathesis",
+            "repo": "schemathesis",
+            "stars": 3025
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec.",
+          "title": "Step CI",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-03T09:44:52Z",
+            "owner": "stepci",
+            "repo": "stepci",
+            "stars": 1835
+          }
+        },
+        {
+          "children": [],
+          "description": "A REST API testing Framework based on BDD / Gherkin to manage microservice local testing.",
+          "title": "RestQA",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-13T09:55:50Z",
+            "owner": "restqa",
+            "repo": "restqa",
+            "stars": 93
+          }
+        }
+      ],
+      "title": "Querying"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Redirect fetch() calls to a client-side fake REST API.",
+          "title": "FakeRest",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-22T09:44:19Z",
+            "owner": "marmelab",
+            "repo": "FakeRest",
+            "stars": 451
+          }
+        },
+        {
+          "children": [],
+          "description": "Serve a REST API from fixture files using quick prototyping.",
+          "title": "json-server",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T10:18:18Z",
+            "owner": "typicode",
+            "repo": "json-server",
+            "stars": 75628
+          }
+        },
+        {
+          "children": [],
+          "description": "Inspect and debug webhook requests sent by your clients or third-party APIs.",
+          "title": "RequestBin"
+        },
+        {
+          "children": [],
+          "description": "HTTP request and response service - a/k/a Swiss Army Knife for HTTP.",
+          "title": "httpbin"
+        },
+        {
+          "children": [],
+          "description": "Easy mocking of any system you integrate with via HTTP or HTTPS.",
+          "title": "MockServer"
+        },
+        {
+          "children": [],
+          "description": "Service to collect HTTP requests and inspect them via RESTful API or web UI.",
+          "title": "Request Baskets",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-27T23:44:23Z",
+            "owner": "darklynx",
+            "repo": "request-baskets",
+            "stars": 418
+          }
+        },
+        {
+          "children": [],
+          "description": "Mock quickly & dynamically API endpoints.",
+          "title": "DuckRails",
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2025-12-11T15:39:07Z",
+            "owner": "iridakos",
+            "repo": "duckrails",
+            "stars": 1716
+          }
+        },
+        {
+          "children": [],
+          "description": "Easily create mock APIs locally. No remote deployment, no account required, open source.",
+          "title": "Mockoon"
+        },
+        {
+          "children": [],
+          "description": "A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.",
+          "title": "Mockintosh"
+        },
+        {
+          "children": [],
+          "description": "Fake REST API powered by Lua.",
+          "title": "Mockae"
+        }
+      ],
+      "title": "Mocking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Documentation/querying web interface for REST APIs.",
+          "title": "Swagger"
+        },
+        {
+          "children": [],
+          "description": "Inline Documentation for RESTful web APIs.",
+          "title": "API doc"
+        },
+        {
+          "children": [],
+          "description": "Generates HTML documentation from a RAML file.",
+          "title": "raml2html",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-22T08:36:40Z",
+            "owner": "raml2html",
+            "repo": "raml2html",
+            "stars": 1134
+          }
+        },
+        {
+          "children": [],
+          "description": "OpenAPI/Swagger-powered three-panel documentation.",
+          "title": "ReDoc",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T06:18:05Z",
+            "owner": "Rebilly",
+            "repo": "ReDoc",
+            "stars": 25473
+          }
+        },
+        {
+          "children": [],
+          "description": "Beautiful and responsive three-panel API documentation using Middleman.",
+          "title": "Slate",
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-02-01T05:54:12Z",
+            "owner": "lord",
+            "repo": "slate",
+            "stars": 36167
+          }
+        },
+        {
+          "children": [],
+          "description": "Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack",
+          "title": "Optic",
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-01-08T21:11:15Z",
+            "owner": "opticdev",
+            "repo": "optic",
+            "stars": 1524
+          }
+        },
+        {
+          "children": [],
+          "description": "Create clean, consistent API docs with Zudoku — open source, extensible, and developer-first",
+          "title": "Zudoku"
+        }
+      ],
+      "title": "Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Scalable, distributed, and plugin oriented API gateway backed by Nginx.",
+          "title": "Kong",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-19T08:09:28Z",
+            "owner": "Kong",
+            "repo": "kong",
+            "stars": 42706
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight API gateway with analytics logging, written in Go.",
+          "title": "Tyk API Gateway",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T16:34:20Z",
+            "owner": "TykTechnologies",
+            "repo": "tyk",
+            "stars": 10626
+          }
+        },
+        {
+          "children": [],
+          "description": "API management platform for exposing web services, with web interface and analytics, written in Lua.",
+          "title": "API Umbrella",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-02-06T15:52:38Z",
+            "owner": "NREL",
+            "repo": "api-umbrella",
+            "stars": 2145
+          }
+        },
+        {
+          "children": [],
+          "description": "API management tool with lightweight gateway and API lifecycle management, written in Java.",
+          "title": "WSO2 API Management",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-03T05:29:32Z",
+            "owner": "wso2",
+            "repo": "product-apim",
+            "stars": 964
+          }
+        },
+        {
+          "children": [],
+          "description": "Microservices API Gateway built on top of ExpressJS (Node.js).",
+          "title": "Express Gateway",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-14T10:22:42Z",
+            "owner": "ExpressGateway",
+            "repo": "express-gateway",
+            "stars": 3035
+          }
+        },
+        {
+          "children": [],
+          "description": "Ultra performant API Gateway with middleware. Written in Go.",
+          "title": "KrakenD",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-02T22:46:46Z",
+            "owner": "devopsfaith",
+            "repo": "krakend",
+            "stars": 6731
+          }
+        },
+        {
+          "children": [],
+          "description": "Fully managed service that helps developers to create, publish, maintain, monitor, and secure APIs at any scale.",
+          "title": "AWS API Gateway"
+        },
+        {
+          "children": [],
+          "description": "OpenAPI-Powered API & MCP Management platform for Security, Deployment, and Documentation. Add auth, rate-limiting, and monetization to your API or MCP Server in minutes, written in TypeScript & Go.",
+          "title": "Zuplo"
+        }
+      ],
+      "title": "API Gateway"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Build internal tools, admin panels, B2B apps, and dashboards on top of any REST API",
+          "title": "shadcn-admin-kit",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T15:51:30Z",
+            "owner": "marmelab",
+            "repo": "shadcn-admin-kit",
+            "stars": 734
+          }
+        },
+        {
+          "children": [],
+          "description": "Add a ReactJS admin GUI to any RESTful API.",
+          "title": "react-admin",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T11:36:26Z",
+            "owner": "marmelab",
+            "repo": "react-admin",
+            "stars": 26517
+          }
+        },
+        {
+          "children": [],
+          "description": "Add an AngularJS admin GUI to any RESTful API.",
+          "title": "ng-admin",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-01T07:58:30Z",
+            "owner": "marmelab",
+            "repo": "ng-admin",
+            "stars": 3921
+          }
+        },
+        {
+          "children": [],
+          "description": "Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).",
+          "title": "swagger-codegen",
+          "repo_info": {
+            "archived": false,
+            "language": "Mustache",
+            "last_commit": "2026-02-05T15:13:42Z",
+            "owner": "swagger-api",
+            "repo": "swagger-codegen",
+            "stars": 17697
+          }
+        },
+        {
+          "children": [],
+          "description": "Low-code API platform. Build, debug and host REST APIs",
+          "title": "Linx"
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:35:30.580Z",
+    "original_repository": "marmelab/awesome-rest",
+    "source_repository": "v1nvn/enhansome-rest",
+    "source_repository_description": null,
+    "title": "Awesome REST with stars"
+  }
+}

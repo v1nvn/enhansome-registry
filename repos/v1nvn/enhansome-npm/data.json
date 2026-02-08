@@ -1,0 +1,1008 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Small focused modules",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-24T07:05:30Z",
+            "owner": "sindresorhus",
+            "repo": "ama",
+            "stars": 145
+          }
+        },
+        {
+          "children": [],
+          "description": "Write programs that do one thing and do it well.",
+          "title": "Unix philosophy and Node.js"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Writing small modules"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Semver: A Primer"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Semver: Tilde and Caret"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Offline installation of npm packages"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Task automation with npm run"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "How to use npm as a build tool"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Install npm packages globally without sudo on macOS and Linux",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-20T10:13:43Z",
+            "owner": "sindresorhus",
+            "repo": "guides",
+            "stars": 2515
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Optimizing the footprint of an npm package"
+        },
+        {
+          "children": [],
+          "description": "An introduction to Node.js and client-side development with npm.",
+          "title": "The Art of Node",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-03T14:56:30Z",
+            "owner": "maxogden",
+            "repo": "art-of-node",
+            "stars": 9892
+          }
+        },
+        {
+          "children": [],
+          "description": "An introduction to npm scripts with common packages and scripts, as well as a boilerplate project.",
+          "title": "Why npm scripts?"
+        }
+      ],
+      "title": "Articles"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Better ZSH completion for npm.",
+          "title": "zsh-better-npm-completion",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-10-31T09:38:35Z",
+            "owner": "lukechilds",
+            "repo": "zsh-better-npm-completion",
+            "stars": 496
+          }
+        },
+        {
+          "children": [],
+          "description": "Easily find and remove old and heavy node_modules folders.",
+          "title": "npkill",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-26T20:15:38Z",
+            "owner": "voidcosmos",
+            "repo": "npkill",
+            "stars": 9039
+          }
+        }
+      ],
+      "title": "CLI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Packages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A better .",
+          "title": "np",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-29T03:51:55Z",
+            "owner": "sindresorhus",
+            "repo": "np",
+            "stars": 7680
+          }
+        },
+        {
+          "children": [],
+          "description": "Publish packages safely and gracefully.",
+          "title": "publish-please",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-24T04:21:01Z",
+            "owner": "inikulin",
+            "repo": "publish-please",
+            "stars": 738
+          }
+        },
+        {
+          "children": [],
+          "description": "Making releasing to npm so easy a kitten could probably do it™.",
+          "title": "npm-release",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-15T22:54:04Z",
+            "owner": "phuu",
+            "repo": "npm-release",
+            "stars": 103
+          }
+        },
+        {
+          "children": [],
+          "description": "List all files which would be published in a package.",
+          "title": "pkgfiles",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-10T16:19:51Z",
+            "owner": "timoxley",
+            "repo": "pkgfiles",
+            "stars": 85
+          }
+        },
+        {
+          "children": [],
+          "description": "Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.",
+          "title": "release-it",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-20T18:40:03Z",
+            "owner": "webpro",
+            "repo": "release-it",
+            "stars": 8830
+          }
+        },
+        {
+          "children": [],
+          "description": "Fully automated package publishing.",
+          "title": "semantic-release",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-08T00:22:34Z",
+            "owner": "semantic-release",
+            "repo": "semantic-release",
+            "stars": 23279
+          }
+        }
+      ],
+      "title": "Publishing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Check whether a package name is available on npm.",
+          "title": "npm-name",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-15T11:45:17Z",
+            "owner": "sindresorhus",
+            "repo": "npm-name-cli",
+            "stars": 288
+          }
+        },
+        {
+          "children": [],
+          "description": "Get the package.json of a package from the npm registry.",
+          "title": "package-json",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-14T11:05:58Z",
+            "owner": "sindresorhus",
+            "repo": "package-json",
+            "stars": 247
+          }
+        },
+        {
+          "children": [],
+          "description": "Get the latest version of an npm package.",
+          "title": "latest-version",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-27T07:15:32Z",
+            "owner": "sindresorhus",
+            "repo": "latest-version-cli",
+            "stars": 54
+          }
+        },
+        {
+          "children": [],
+          "description": "Get a list of npm packages with a certain keyword.",
+          "title": "npm-keyword",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-26T04:04:48Z",
+            "owner": "sindresorhus",
+            "repo": "npm-keyword",
+            "stars": 52
+          }
+        },
+        {
+          "children": [],
+          "description": "Get user info of an npm user.",
+          "title": "npm-user",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-28T20:01:07Z",
+            "owner": "sindresorhus",
+            "repo": "npm-user",
+            "stars": 58
+          }
+        },
+        {
+          "children": [],
+          "description": "Get the email of an npm user.",
+          "title": "npm-email",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-29T06:29:16Z",
+            "owner": "sindresorhus",
+            "repo": "npm-email",
+            "stars": 32
+          }
+        },
+        {
+          "children": [],
+          "description": "Get packages by an npm user.",
+          "title": "npm-user-packages",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-06T00:21:33Z",
+            "owner": "kevva",
+            "repo": "npm-user-packages-cli",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "Get the dependents of a user's npm packages.",
+          "title": "dpn",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-23T10:47:04Z",
+            "owner": "gillstrom",
+            "repo": "dpn",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "Get data from an npm registry.",
+          "title": "npm-stats",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-03-29T06:08:12Z",
+            "owner": "hughsk",
+            "repo": "npm-stats",
+            "stars": 51
+          }
+        },
+        {
+          "children": [],
+          "description": "Log in to npm.",
+          "title": "npm-cli-login",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-20T08:36:35Z",
+            "owner": "postmanlabs",
+            "repo": "npm-cli-login",
+            "stars": 118
+          }
+        },
+        {
+          "children": [],
+          "description": "Registry manager.",
+          "title": "nrm",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-13T02:08:58Z",
+            "owner": "Pana",
+            "repo": "nrm",
+            "stars": 2998
+          }
+        },
+        {
+          "children": [],
+          "description": "Easy to set up and maintain npm registry and proxy.",
+          "title": "npm-register",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-01-08T23:02:25Z",
+            "owner": "dickeyxxx",
+            "repo": "npm-register",
+            "stars": 485
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight private npm proxy registry.",
+          "title": "verdaccio",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T01:08:05Z",
+            "owner": "verdaccio",
+            "repo": "verdaccio",
+            "stars": 17458
+          }
+        },
+        {
+          "children": [],
+          "description": "A fully managed package management SaaS with support for public and private npm registries (and many others).",
+          "title": "cloudsmith"
+        },
+        {
+          "children": [],
+          "description": "A simple and easy-to-use package management platform, available for both cloud and self-hosted deployments.",
+          "title": "RepoFlow"
+        }
+      ],
+      "title": "Registry"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Open the npm page of a package.",
+          "title": "npm-home",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-25T18:28:26Z",
+            "owner": "sindresorhus",
+            "repo": "npm-home",
+            "stars": 201
+          }
+        },
+        {
+          "children": [],
+          "description": "Open the GitHub page of a package.",
+          "title": "gh-home",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-21T11:57:59Z",
+            "owner": "sindresorhus",
+            "repo": "gh-home",
+            "stars": 193
+          }
+        },
+        {
+          "children": [],
+          "description": "Check if your package dependencies are out of date.",
+          "title": "david",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T10:06:02Z",
+            "owner": "alanshaw",
+            "repo": "david",
+            "stars": 968
+          }
+        },
+        {
+          "children": [],
+          "description": "Check for outdated, incorrect, and unused dependencies, as well as interactive update.",
+          "title": "npm-check",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T17:04:19Z",
+            "owner": "dylang",
+            "repo": "npm-check",
+            "stars": 6642
+          }
+        },
+        {
+          "children": [],
+          "description": "Update outdated npm dependencies interactively.",
+          "title": "npm-upgrade",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-14T16:47:24Z",
+            "owner": "th0r",
+            "repo": "npm-upgrade",
+            "stars": 336
+          }
+        },
+        {
+          "children": [],
+          "description": "A consistent shrinkwrap tool.",
+          "title": "npm-shrinkwrap",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-07-07T19:00:30Z",
+            "owner": "uber",
+            "repo": "npm-shrinkwrap",
+            "stars": 771
+          }
+        },
+        {
+          "children": [],
+          "description": "Upgrade npm on Windows.",
+          "title": "npm-windows-upgrade",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-05-10T13:07:29Z",
+            "owner": "felixrieseberg",
+            "repo": "npm-windows-upgrade",
+            "stars": 2516
+          }
+        },
+        {
+          "children": [],
+          "description": "Scaffold out an npm package.",
+          "title": "generator-nm",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-05-02T14:34:36Z",
+            "owner": "sindresorhus",
+            "repo": "generator-nm",
+            "stars": 740
+          }
+        },
+        {
+          "children": [],
+          "description": "Find the closest package.json file.",
+          "title": "package-up",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-05T18:56:51Z",
+            "owner": "sindresorhus",
+            "repo": "package-up",
+            "stars": 166
+          }
+        },
+        {
+          "children": [],
+          "description": "Read the closest package.json file.",
+          "title": "read-package-up",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-07T18:11:06Z",
+            "owner": "sindresorhus",
+            "repo": "read-package-up",
+            "stars": 268
+          }
+        },
+        {
+          "children": [],
+          "description": "Normalize package metadata.",
+          "title": "normalize-package-data",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T17:15:57Z",
+            "owner": "npm",
+            "repo": "normalize-package-data",
+            "stars": 204
+          }
+        },
+        {
+          "children": [],
+          "description": "Get namespaced config from the closest package.json.",
+          "title": "package-config",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-05T19:11:54Z",
+            "owner": "sindresorhus",
+            "repo": "package-config",
+            "stars": 121
+          }
+        },
+        {
+          "children": [],
+          "description": "Run locally installed binaries in the terminal by name like with global ones.",
+          "title": "npm-run-path",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-28T05:10:35Z",
+            "owner": "sindresorhus",
+            "repo": "npm-run-path",
+            "stars": 107
+          }
+        },
+        {
+          "children": [],
+          "description": "Use npm .",
+          "title": "local-npm",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-02-24T19:45:19Z",
+            "owner": "nolanlawson",
+            "repo": "local-npm",
+            "stars": 1170
+          }
+        },
+        {
+          "children": [],
+          "description": "CLI for inspecting and editing properties in package.json.",
+          "title": "npe",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-05-25T16:48:08Z",
+            "owner": "zeke",
+            "repo": "npe",
+            "stars": 92
+          }
+        },
+        {
+          "children": [],
+          "description": "Manage Node.js version specific dependencies with ease.",
+          "title": "engine-deps",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-22T17:12:49Z",
+            "owner": "samccone",
+            "repo": "engine-deps",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "Search packages by scraping the npm web search.",
+          "title": "enpeem-search",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-17T15:37:04Z",
+            "owner": "amovah",
+            "repo": "enpeem-search",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Search known issues of all your packages at once.",
+          "title": "npm-issues",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-17T06:10:19Z",
+            "owner": "seanzarrin",
+            "repo": "npm-issues",
+            "stars": 48
+          }
+        },
+        {
+          "children": [],
+          "description": "Make npm3's flat dependencies easier to find and sort.",
+          "title": "john",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-09T12:36:21Z",
+            "owner": "davej",
+            "repo": "john",
+            "stars": 42
+          }
+        },
+        {
+          "children": [],
+          "description": "Interactive CLI menu to list & run npm tasks.",
+          "title": "ntl",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-23T13:18:51Z",
+            "owner": "ruyadorno",
+            "repo": "ntl",
+            "stars": 956
+          }
+        },
+        {
+          "children": [],
+          "description": "Explore dependencies of npm packages in the command-line.",
+          "title": "decheck",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-25T14:32:03Z",
+            "owner": "egoist",
+            "repo": "decheck",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Lock down your dependencies and install offline.",
+          "title": "shrinkpack",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-16T23:23:21Z",
+            "owner": "JamieMason",
+            "repo": "shrinkpack",
+            "stars": 805
+          }
+        },
+        {
+          "children": [],
+          "description": "Expand scripts from package.json to improve execution speed.",
+          "title": "redrun",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-26T12:32:55Z",
+            "owner": "coderaiser",
+            "repo": "redrun",
+            "stars": 127
+          }
+        },
+        {
+          "children": [],
+          "description": "Get the bundle size of an npm package.",
+          "title": "package-size",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-18T15:55:45Z",
+            "owner": "egoist",
+            "repo": "package-size",
+            "stars": 426
+          }
+        },
+        {
+          "children": [],
+          "description": "Convert yarn.lock to package-lock.json and vice versa.",
+          "title": "synp",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T23:37:06Z",
+            "owner": "imsnif",
+            "repo": "synp",
+            "stars": 783
+          }
+        },
+        {
+          "children": [],
+          "description": "CLI tool to run multiple npm-scripts in parallel or serial.",
+          "title": "npm-run-all",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-15T05:51:28Z",
+            "owner": "mysticatea",
+            "repo": "npm-run-all",
+            "stars": 5841
+          }
+        },
+        {
+          "children": [],
+          "description": "Watch files and folders and run a command when something changed.",
+          "title": "onchange",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-09T06:33:47Z",
+            "owner": "Qard",
+            "repo": "onchange",
+            "stars": 830
+          }
+        },
+        {
+          "children": [],
+          "description": "Sends native desktop notifications when npm scripts fail.",
+          "title": "cli-error-notifier",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-19T22:29:02Z",
+            "owner": "micromata",
+            "repo": "cli-error-notifier",
+            "stars": 72
+          }
+        },
+        {
+          "children": [],
+          "description": "App to manage npm dependencies.",
+          "title": "luna",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-01T14:35:02Z",
+            "owner": "rvpanoz",
+            "repo": "luna",
+            "stars": 1005
+          }
+        },
+        {
+          "children": [],
+          "description": "Interactive CLI package search utility.",
+          "title": "emma-cli",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-02T20:14:55Z",
+            "owner": "maticzav",
+            "repo": "emma-cli",
+            "stars": 1244
+          }
+        },
+        {
+          "children": [],
+          "description": "Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.",
+          "title": "lockfile-lint",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-25T15:12:53Z",
+            "owner": "lirantal",
+            "repo": "lockfile-lint",
+            "stars": 837
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Fast, reliable, and secure dependency management.",
+          "title": "yarn",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-07T00:39:33Z",
+            "owner": "yarnpkg",
+            "repo": "yarn",
+            "stars": 41557
+          }
+        },
+        {
+          "children": [],
+          "description": "The official client.",
+          "title": "npm",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T20:15:13Z",
+            "owner": "npm",
+            "repo": "cli",
+            "stars": 9499
+          }
+        },
+        {
+          "children": [],
+          "description": "Fast, disk space efficient package manager.",
+          "title": "pnpm",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T20:18:35Z",
+            "owner": "pnpm",
+            "repo": "pnpm",
+            "stars": 33922
+          }
+        }
+      ],
+      "title": "Clients"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tips"
+    },
+    {
+      "description": "Windows users, read more.",
+      "items": [],
+      "title": "Update to the latest npm version"
+    },
+    {
+      "description": "Speed up your common npm tasks.\nIn your /:",
+      "items": [],
+      "title": "Shell aliases"
+    },
+    {
+      "description": "By default npm adds packages you install to the field in package.json (since v5). You can prevent this by specifying the flag. You can add a package to with /:",
+      "items": [],
+      "title": "Don't add to package.json when installing"
+    },
+    {
+      "description": "You can easily run scripts using npm by adding them to the field in package.json and run them with . Run to see available scripts. Binaries of locally install packages are made available in the PATH, so you can run them by name.\nAll package.json properties are exposed as environment variables:",
+      "items": [],
+      "title": "Run scripts"
+    },
+    {
+      "description": "You can pass options to the command you are using in your npm script by adding like in the example below. The marks the end of options parsing, so will just ignore it and pass it to the command.\nAdding the option is like executing .",
+      "items": [],
+      "title": "Passing options to commands"
+    },
+    {
+      "description": "has a option which is especially useful when combining npm scripts.\nImagine you have a setup for linting your JavaScript files like the following:\nUsing the option reduces the output in the terminal. See this comparison.",
+      "items": [],
+      "title": "Silent option"
+    },
+    {
+      "description": "npm comes with predefined lifecyle scripts which are excuted under specific conditions if they are defined in your package.json.\nThis will be executed automatically before your npm package is published to the registry via to check for known vulnerabilties in your dependencies.\nNote: prepublishOnly is available since npm v4.0.0. See npm docs.",
+      "items": [],
+      "title": "Lifecycle scripts"
+    },
+    {
+      "description": "and are also lifecycle scripts but are not executed automatically.\nTherefore they can be executed simply with:",
+      "items": [],
+      "title": "and"
+    },
+    {
+      "description": "These are special lifecycle scripts which can be used to run scripts automatically in sequence.\nThis will lint your files before running your tests. The tests will not run if linting fails. Or more generally spoken: the following script won’t be executed if one of the scripts running in sequence exits with an exit code other than 0.\nNote: and scripts can also be used for your custom npm scripts. So will also run and if defined.",
+      "items": [],
+      "title": "and scripts"
+    },
+    {
+      "description": "comes bundled with (Since v5.2.0) — a tool to execute package binaries. Each command is executed either from the local directory, or from a central cache, installing any packages needed in order for to run.\nIf the binary is already installed, it will be executed from .\nBut if the binary is missing, it will be installed first.",
+      "items": [],
+      "title": "Run script with"
+    },
+    {
+      "description": "With (Comes bundled with npm v5.2.0 or newer) and the package, you can easily try out code in different Node.js versions without having to use a version manager like , , or .",
+      "items": [],
+      "title": "Run commands with different Node.js versions"
+    },
+    {
+      "description": "Sometimes it can be useful to have a local version of a package as a dependency. You can use to link one local package into another. Run in the package you want to use. This creates a global reference. Then go into your original package and run to link in the other package.\nYou can now use as a dependency in the package.",
+      "items": [],
+      "title": "Link local packages"
+    },
+    {
+      "description": "npm supports using a shorthand for installing a package directly from a GitHub repo:\nLet's target a specific commit as the main branch is a moving target:\nSpecify either a commit SHA, branch, tag, or nothing.\nYou can also install Git dependencies with semver: (Requires npm v5 or newer)",
+      "items": [],
+      "title": "Install a package from GitHub"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Install a specific version of a package"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "List top-level installed packages and their version"
+    },
+    {
+      "description": "Get help docs for a command:\nExample:",
+      "items": [],
+      "title": "Command help"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Official"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Troubleshooting",
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-08-07T14:31:21Z",
+            "owner": "npm",
+            "repo": "npm",
+            "stars": 17605
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Semantic versioning"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Fixing npm permissions"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "package.json"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "npm run script"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Stats API",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-03-24T19:01:08Z",
+            "owner": "npm",
+            "repo": "download-counts",
+            "stars": 330
+          }
+        }
+      ],
+      "title": "Documentation"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:37:21.323Z",
+    "original_repository": "sindresorhus/awesome-npm",
+    "source_repository": "v1nvn/enhansome-npm",
+    "source_repository_description": null,
+    "title": "Awesome npm with stars"
+  }
+}

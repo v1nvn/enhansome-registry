@@ -1,0 +1,633 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Articles"
+    },
+    {
+      "description": "A collection of the most popular, well-maintained, and collaborative dotfiles repositories & frameworks. Some projects\ncontain just the dotfiles. Others go further by allowing you to easily add your own custom dotfiles, and some include\nscripts to manage dotfiles and plugins.",
+      "items": [],
+      "title": "Example dotfiles repos"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bash"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Zsh"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fish"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Ansible"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Radically simple configuration-management, application deployment,\ntask-execution, and multinode orchestration engine.",
+          "title": "Ansible"
+        },
+        {
+          "children": [],
+          "description": "Minimalist dotfile management framework written entirely in bash.",
+          "title": "bashdot",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-01-20T16:05:54Z",
+            "owner": "bashdot",
+            "repo": "bashdot",
+            "stars": 107
+          }
+        },
+        {
+          "children": [],
+          "description": "Manage your dotfiles securely across multiple machines.",
+          "title": "chezmoi",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T20:49:48Z",
+            "owner": "twpayne",
+            "repo": "chezmoi",
+            "stars": 17903
+          }
+        },
+        {
+          "children": [],
+          "description": "Configuration management for localhost, written in Rust, for Linux,\nBSD, macOS, and Windows.",
+          "title": "comtrya",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-05T18:46:05Z",
+            "owner": "comtrya",
+            "repo": "comtrya",
+            "stars": 595
+          }
+        },
+        {
+          "children": [],
+          "description": "Manage dotfiles interactively with fzf.",
+          "title": "dotbare",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-04-28T02:15:31Z",
+            "owner": "kazhala",
+            "repo": "dotbare",
+            "stars": 725
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool that bootstraps your dotfiles.",
+          "title": "dotbot",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-01T00:09:05Z",
+            "owner": "anishathalye",
+            "repo": "dotbot",
+            "stars": 7792
+          }
+        },
+        {
+          "children": [],
+          "description": "Save your dotfiles once, deploy them everywhere.",
+          "title": "dotdrop",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-02T21:18:41Z",
+            "owner": "deadc0de6",
+            "repo": "dotdrop",
+            "stars": 1897
+          }
+        },
+        {
+          "children": [],
+          "description": "A package manager for Fish.",
+          "title": "Fisher",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-31T04:23:23Z",
+            "owner": "jorgebucaran",
+            "repo": "fisher",
+            "stars": 8957
+          }
+        },
+        {
+          "children": [],
+          "description": "Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases,\nfunctions, etc) from others into your own configuration files.",
+          "title": "fresh"
+        },
+        {
+          "children": [],
+          "description": "Symlink farm manager which takes distinct packages of software and/or\ndata located in separate directories on the filesystem, and makes them appear to be installed in the same place.",
+          "title": "GNU Stow"
+        },
+        {
+          "children": [],
+          "description": "Git dotfile synchronizer written in Bash.",
+          "title": "homeshick",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-10-06T13:59:29Z",
+            "owner": "andsens",
+            "repo": "homeshick",
+            "stars": 2186
+          }
+        },
+        {
+          "children": [],
+          "description": "Keep your application settings in sync (macOS/Linux).",
+          "title": "mackup",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-12T20:51:57Z",
+            "owner": "lra",
+            "repo": "mackup",
+            "stars": 15099
+          }
+        },
+        {
+          "children": [],
+          "description": "Package manager that allows to control, sync, share dotfiles as\npackages automatically activated during shells or editors startup. There is a wide range of packages already\navailable. in the  (for Linux and OSX).",
+          "title": "Pearl",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-23T16:55:50Z",
+            "owner": "pearl-core",
+            "repo": "pearl",
+            "stars": 233
+          }
+        },
+        {
+          "children": [],
+          "description": "rc file (dotfile) management.",
+          "title": "rcm",
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2025-05-23T15:40:16Z",
+            "owner": "thoughtbot",
+            "repo": "rcm",
+            "stars": 3224
+          }
+        },
+        {
+          "children": [],
+          "description": "Fully cross-platform dotfile manager and dev environment bootstrapper\nwritten in Rust.",
+          "title": "rotz",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-05T12:34:07Z",
+            "owner": "volllly",
+            "repo": "rotz",
+            "stars": 423
+          }
+        },
+        {
+          "children": [],
+          "description": "Manage and generate themes across your development tools from within\nyour dotfiles.",
+          "title": "themer",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-15T00:22:18Z",
+            "owner": "themerdev",
+            "repo": "themer",
+            "stars": 5779
+          }
+        },
+        {
+          "children": [],
+          "description": "Templatize and manage your dotfiles.",
+          "title": "toml-bombadil",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-05T09:10:54Z",
+            "owner": "oknozor",
+            "repo": "toml-bombadil",
+            "stars": 320
+          }
+        },
+        {
+          "children": [],
+          "description": "A shell script which checks your $HOME for unwanted files and\ndirectories.",
+          "title": "xdg-ninja",
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2025-11-01T22:00:31Z",
+            "owner": "b3nj5m1n",
+            "repo": "xdg-ninja",
+            "stars": 3107
+          }
+        },
+        {
+          "children": [],
+          "description": "Tool for managing a collection of files across multiple computers,\nusing a shared Git repository and some additional features.",
+          "title": "yadm",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-10T21:40:07Z",
+            "owner": "TheLocehiliosan",
+            "repo": "yadm",
+            "stars": 6150
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Command line tool for managing dock items.",
+          "title": "dockutil",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-12-30T05:42:26Z",
+            "owner": "kcrawford",
+            "repo": "dockutil",
+            "stars": 1531
+          }
+        },
+        {
+          "children": [],
+          "description": "Mac App Store command line interface.",
+          "title": "mas",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-01-30T02:51:05Z",
+            "owner": "mas-cli",
+            "repo": "mas",
+            "stars": 11970
+          }
+        },
+        {
+          "children": [],
+          "description": "Radically simple personal bootstrapping tool for macOS.",
+          "title": "zero",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-08-01T01:51:19Z",
+            "owner": "zero-sh",
+            "repo": "zero.sh",
+            "stars": 322
+          }
+        }
+      ],
+      "title": "macOS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Curated list of awesome tools, resources and workflow\ntips making an awesome development environment.",
+          "title": "Awesome Dev Env",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-29T13:08:35Z",
+            "owner": "jondot",
+            "repo": "awesome-devenv",
+            "stars": 3155
+          }
+        },
+        {
+          "children": [],
+          "description": "Curated list of packages, prompts, and resources for the\nfish shell.",
+          "title": "Awesome Fish",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-25T05:07:30Z",
+            "owner": "jorgebucaran",
+            "repo": "awsm.fish",
+            "stars": 4835
+          }
+        },
+        {
+          "children": [],
+          "description": "Curated list of awesome command-line frameworks, toolkits,\nguides and gizmos.",
+          "title": "Awesome Shell",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-28T14:40:51Z",
+            "owner": "alebcay",
+            "repo": "awesome-shell",
+            "stars": 36445
+          }
+        },
+        {
+          "children": [],
+          "description": "A curated list of amazingly awesome open source\nsysadmin resources.",
+          "title": "Awesome Sysadmin",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-01T13:41:44Z",
+            "owner": "awesome-foss",
+            "repo": "awesome-sysadmin",
+            "stars": 32704
+          }
+        },
+        {
+          "children": [],
+          "description": "List of Zsh plugins suitable for use with\noh-my-zsh, antigen & Prezto.",
+          "title": "Awesome Zsh Plugins",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-03T04:30:08Z",
+            "owner": "unixorn",
+            "repo": "awesome-zsh-plugins",
+            "stars": 17375
+          }
+        },
+        {
+          "children": [],
+          "description": "A curated list of Terminal frameworks, plugins &\nresources for CLI lovers.",
+          "title": "Terminals Are Sexy",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-07-26T15:27:31Z",
+            "owner": "k4m4",
+            "repo": "terminals-are-sexy",
+            "stars": 12873
+          }
+        }
+      ],
+      "title": "Related Lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "antigen"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Bashstrap",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-05-22T22:01:57Z",
+            "owner": "barryclark",
+            "repo": "bashstrap",
+            "stars": 1559
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "battleschool",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2016-01-05T13:13:48Z",
+            "owner": "spencergibb",
+            "repo": "battleschool",
+            "stars": 420
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Bork",
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2021-02-13T22:41:21Z",
+            "owner": "mattly",
+            "repo": "bork",
+            "stars": 219
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Cider",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-08-01T01:44:14Z",
+            "owner": "msanders",
+            "repo": "cider",
+            "stars": 838
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "dev-setup",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-27T18:00:26Z",
+            "owner": "donnemartin",
+            "repo": "dev-setup",
+            "stars": 6261
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "dotfiles",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-25T14:48:30Z",
+            "owner": "jbernard",
+            "repo": "dotfiles",
+            "stars": 586
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "dotstow",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-05-03T11:34:24Z",
+            "owner": "clayrisser",
+            "repo": "dotstow",
+            "stars": 99
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Eduardo's dotfiles",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-06-02T06:33:50Z",
+            "owner": "eduardolundgren",
+            "repo": "dotfiles",
+            "stars": 419
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "ellipsis",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-06-13T02:49:55Z",
+            "owner": "ellipsis",
+            "repo": "ellipsis",
+            "stars": 362
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "emplace",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-06T00:49:23Z",
+            "owner": "tversteeg",
+            "repo": "emplace",
+            "stars": 283
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "holman does dotfiles",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-06T01:11:51Z",
+            "owner": "holman",
+            "repo": "dotfiles",
+            "stars": 7649
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "homesick",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2020-10-19T07:53:51Z",
+            "owner": "technicalpickles",
+            "repo": "homesick",
+            "stars": 2504
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Kevin's dotfiles",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-28T16:35:23Z",
+            "owner": "kdeldycke",
+            "repo": "dotfiles",
+            "stars": 163
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "kody",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-02T07:32:08Z",
+            "owner": "jh3y",
+            "repo": "kody",
+            "stars": 141
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "macOS Defaults",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-03-07T04:09:11Z",
+            "owner": "kevinSuttle",
+            "repo": "macOS-Defaults",
+            "stars": 1345
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "osxc"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "vcsh",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-29T22:56:16Z",
+            "owner": "RichiH",
+            "repo": "vcsh",
+            "stars": 2249
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "YADR"
+        }
+      ],
+      "title": "Archive/abandoned projects"
+    },
+    {
+      "description": "To the extent possible under law, Lars Kappert has waived all copyright and related or\nneighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-08T04:30:50.330Z",
+    "original_repository": "webpro/awesome-dotfiles",
+    "source_repository": "v1nvn/enhansome-dotfiles",
+    "source_repository_description": null,
+    "title": "Awesome Dotfiles with stars"
+  }
+}
