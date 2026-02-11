@@ -273,6 +273,32 @@
             "repo": "micropython_nonblocking_buzzer",
             "stars": 1
           }
+        },
+        {
+          "children": [],
+          "description": "Library for RP2 boards, providing an interface for UART and PIO based hardware MIDI and USB MIDI 1.0.",
+          "title": "multi-midi",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-24T08:16:07Z",
+            "owner": "HLammers",
+            "repo": "multi-midi",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Driver for the VS1003 MP3 decoder / encoder. Supports playing of MP3, WMA, MIDI, ADPCM, and recording of ADPCM.",
+          "title": "IoTy vs1003",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-03T01:54:06Z",
+            "owner": "QuirkyCort",
+            "repo": "IoTy",
+            "stars": 15
+          }
         }
       ],
       "title": "Audio"
@@ -586,6 +612,19 @@
             "repo": "micropython_aioble_examples",
             "stars": 5
           }
+        },
+        {
+          "children": [],
+          "description": "MicroPython module to format sensor readings for BTHome BLE advertising payloads.",
+          "title": "BTHome-MicroPython",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-09T20:17:45Z",
+            "owner": "DavesCodeMusings",
+            "repo": "BTHome-MicroPython",
+            "stars": 15
+          }
         }
       ],
       "title": "Bluetooth"
@@ -680,6 +719,19 @@
             "owner": "jonnor",
             "repo": "micropython-zipfile",
             "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "MicroPython port of .",
+          "title": "bitstruct-micropython",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-03-22T15:02:22Z",
+            "owner": "peterzuger",
+            "repo": "bitstruct-micropython",
+            "stars": 6
           }
         }
       ],
@@ -859,7 +911,7 @@
         },
         {
           "children": [],
-          "description": "A minimal aws signature version 4 (SigV4) implementation for micropython/embedded use.",
+          "description": "A minimal AWS signature version 4 (SigV4) implementation for MicroPython/embedded use.",
           "title": "usigv4",
           "repo_info": {
             "archived": false,
@@ -1310,7 +1362,7 @@
       "items": [
         {
           "children": [],
-          "description": "Asynchronous MQTT Client for Micropython AND CPython.",
+          "description": "Asynchronous MQTT Client for MicroPython AND CPython.",
           "title": "aiomqttc",
           "repo_info": {
             "archived": false,
@@ -1687,6 +1739,45 @@
             "owner": "scopelemanuele",
             "repo": "silvergeko_rfm9x",
             "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "MicroPython LoRa EBYTE E220 devices.",
+          "title": "EByte_LoRa_E220_micropython_library",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-29T14:15:13Z",
+            "owner": "xreef",
+            "repo": "EByte_LoRa_E220_micropython_library",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "MicroPython LoRa EBYTE E22 devices.",
+          "title": "EByte_LoRa_E22_micropython_library",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-23T20:56:49Z",
+            "owner": "xreef",
+            "repo": "EByte_LoRa_E22_micropython_library",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "MicroPython LoRa EBYTE E32 devices.",
+          "title": "EByte_LoRa_E32_micropython_library",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-12T15:50:47Z",
+            "owner": "xreef",
+            "repo": "EByte_LoRa_E32_micropython_library",
+            "stars": 9
           }
         }
       ],
@@ -2139,6 +2230,19 @@
             "repo": "micropython-ntp",
             "stars": 16
           }
+        },
+        {
+          "children": [],
+          "description": "Very simple async MicroPython module to receive the current time from an NTP server.",
+          "title": "micropython-simple-async-ntpclient",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T12:35:38Z",
+            "owner": "dsiggi",
+            "repo": "micropython-simple_async_ntpclient",
+            "stars": 1
+          }
         }
       ],
       "title": "NTP"
@@ -2404,45 +2508,6 @@
             "repo": "micropython-dcf77",
             "stars": 4
           }
-        },
-        {
-          "children": [],
-          "description": "MicroPython LoRa EBYTE E220 devices.",
-          "title": "EByte_LoRa_E220_micropython_library",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-29T14:15:13Z",
-            "owner": "xreef",
-            "repo": "EByte_LoRa_E220_micropython_library",
-            "stars": 25
-          }
-        },
-        {
-          "children": [],
-          "description": "MicroPython LoRa EBYTE E22 devices.",
-          "title": "EByte_LoRa_E22_micropython_library",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-23T20:56:49Z",
-            "owner": "xreef",
-            "repo": "EByte_LoRa_E22_micropython_library",
-            "stars": 9
-          }
-        },
-        {
-          "children": [],
-          "description": "MicroPython LoRa EBYTE E32 devices.",
-          "title": "EByte_LoRa_E32_micropython_library",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-12T15:50:47Z",
-            "owner": "xreef",
-            "repo": "EByte_LoRa_E32_micropython_library",
-            "stars": 9
-          }
         }
       ],
       "title": "Radio"
@@ -2650,6 +2715,19 @@
             "repo": "micropython_rx-8035",
             "stars": 0
           }
+        },
+        {
+          "children": [],
+          "description": "DS1302 RTC Clock driver for MicroPython.",
+          "title": "micropython-ds1302-rtc",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-27T20:24:16Z",
+            "owner": "PaszaVonPomiot",
+            "repo": "micropython-ds1302-rtc",
+            "stars": 1
+          }
         }
       ],
       "title": "RTC"
@@ -2771,9 +2849,86 @@
             "repo": "upy-msgpack",
             "stars": 1
           }
+        },
+        {
+          "children": [],
+          "description": "MessagePack serialisation library optimised for MicroPython.",
+          "title": "micropython-msgpack",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-23T08:24:07Z",
+            "owner": "gitcnd",
+            "repo": "micropython-msgpack",
+            "stars": 0
+          }
         }
       ],
       "title": "Serialization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Simple telnet server for MicroPython and the ESP8266 allowing telnet clients access to the REPL.",
+          "title": "MicroTelnetServer",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-27T17:15:55Z",
+            "owner": "cpopp",
+            "repo": "MicroTelnetServer",
+            "stars": 79
+          }
+        },
+        {
+          "children": [],
+          "description": "Powerful telnetd server to access MicroPython REPL (with strong password support, and unlimited connections).",
+          "title": "telnetd",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-17T08:02:14Z",
+            "owner": "gitcnd",
+            "repo": "telnetd",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Telnet"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "MicroPython library for the VoiceTX SYN6988 text to speech module.",
+          "title": "micropython-SYN6988",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-29T01:22:54Z",
+            "owner": "scruss",
+            "repo": "micropython-SYN6988",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "A MicroPython port of Software Automatic Mouth Text-To-Speech program.",
+          "title": "micropython-samtts",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-20T02:21:52Z",
+            "owner": "jacklinquan",
+            "repo": "micropython-samtts",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Text-to-Speech"
     },
     {
       "description": "",
@@ -2905,7 +3060,7 @@
             "last_commit": "2020-12-12T19:48:19Z",
             "owner": "jczic",
             "repo": "MicroRESTCli",
-            "stars": 29
+            "stars": 30
           }
         },
         {
@@ -3050,6 +3205,32 @@
             "repo": "wlan-relays",
             "stars": 0
           }
+        },
+        {
+          "children": [],
+          "description": "Simple web dashboard served directly from MicroPython boards (ESP32, Pico W).",
+          "title": "micropidash",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-10T21:02:11Z",
+            "owner": "kritishmohapatra",
+            "repo": "micropidash",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A  client for Python and MicroPython.",
+          "title": "microsky",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-05T07:36:32Z",
+            "owner": "nakagami",
+            "repo": "microsky",
+            "stars": 2
+          }
         }
       ],
       "title": "Web"
@@ -3174,7 +3355,7 @@
             "last_commit": "2021-09-01T19:10:33Z",
             "owner": "mcauser",
             "repo": "micropython-waveshare-epaper",
-            "stars": 382
+            "stars": 383
           }
         },
         {
@@ -3323,7 +3504,7 @@
             "last_commit": "2025-05-28T09:18:59Z",
             "owner": "peterhinch",
             "repo": "micropython-font-to-py",
-            "stars": 452
+            "stars": 453
           }
         },
         {
@@ -3336,7 +3517,7 @@
             "last_commit": "2025-05-28T09:18:59Z",
             "owner": "peterhinch",
             "repo": "micropython-font-to-py",
-            "stars": 452
+            "stars": 453
           }
         },
         {
@@ -3969,7 +4150,7 @@
             "last_commit": "2022-12-30T04:09:19Z",
             "owner": "boochow",
             "repo": "MicroPython-ST7735",
-            "stars": 266
+            "stars": 267
           }
         },
         {
@@ -4009,6 +4190,315 @@
             "owner": "robert-hh",
             "repo": "SSD1963-TFT-Library-for-PyBoard-and-RP2040",
             "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "MicroPython ILI9341 display & XPT2046 touch screen driver.",
+          "title": "micropython-ili9341",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-02T04:30:37Z",
+            "owner": "rdagger",
+            "repo": "micropython-ili9341",
+            "stars": 288
+          }
+        },
+        {
+          "children": [],
+          "description": "Fast pure-C driver for MicroPython that can handle display modules on ST7789 chip.",
+          "title": "st7789_mpy",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-23T08:45:47Z",
+            "owner": "devbis",
+            "repo": "st7789_mpy",
+            "stars": 224
+          }
+        },
+        {
+          "children": [],
+          "description": "Slow MicroPython driver for 240x240 ST7789 display without CS pin from AliExpress, written in MicroPython.",
+          "title": "st7789py_mpy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-27T18:07:52Z",
+            "owner": "devbis",
+            "repo": "st7789py_mpy",
+            "stars": 94
+          }
+        },
+        {
+          "children": [],
+          "description": "MicroPython Driver for ILI9341 display.",
+          "title": "micropython-ili9341",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-21T09:23:51Z",
+            "owner": "jeffmer",
+            "repo": "micropython-ili9341",
+            "stars": 144
+          }
+        },
+        {
+          "children": [],
+          "description": "ILI9341 TFT driver for MicroPython on ESP32.",
+          "title": "micropython-ili9341",
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-10-06T16:06:57Z",
+            "owner": "tkurbad",
+            "repo": "micropython-ili9341",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Fast MicroPython driver for ST7789 display module written in C.",
+          "title": "st7789_mpy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-16T08:30:25Z",
+            "owner": "russhughes",
+            "repo": "st7789_mpy",
+            "stars": 689
+          }
+        },
+        {
+          "children": [],
+          "description": "Driver for 320x240, 240x240 and 135x240 ST7789 displays written in MicroPython.",
+          "title": "st7789py_mpy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-05T23:55:12Z",
+            "owner": "russhughes",
+            "repo": "st7789py_mpy",
+            "stars": 233
+          }
+        },
+        {
+          "children": [],
+          "description": "ILI9342C Fast 'C' Driver for MicroPython (M5Stack Core).",
+          "title": "ili9342c_mpy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T04:29:41Z",
+            "owner": "russhughes",
+            "repo": "ili9342c_mpy",
+            "stars": 59
+          }
+        },
+        {
+          "children": [],
+          "description": "GC9A01 Display driver in MicroPython.",
+          "title": "gc9a01py",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-06T04:16:32Z",
+            "owner": "russhughes",
+            "repo": "gc9a01py",
+            "stars": 57
+          }
+        },
+        {
+          "children": [],
+          "description": "Fast MicroPython driver for GC9A01 display modules written in C.",
+          "title": "gc9a01_mpy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-24T23:18:38Z",
+            "owner": "russhughes",
+            "repo": "gc9a01_mpy",
+            "stars": 200
+          }
+        },
+        {
+          "children": [],
+          "description": "An ESP8266 MicroPython library for ST7735 160x80, 128x128, 128x160 TFT LCD displays.",
+          "title": "st7735-esp8266-micropython",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-13T08:36:44Z",
+            "owner": "cheungbx",
+            "repo": "st7735-esp8266-micropython",
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "MicroPython ST7789 display driver for TTGO T-Display ESP32 CP2104 WiFi Bluetooth Module 1.14 Inch LCD.",
+          "title": "TTGO-ST7789-MicroPython",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-09-22T19:45:48Z",
+            "owner": "schumixmd",
+            "repo": "TTGO-ST7789-MicroPython",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "ST7735 MicroPython drivers for 80x160, 128x128, 128x160 for ESP8266.",
+          "title": "st7735_micropython",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-29T23:30:54Z",
+            "owner": "cheungbx",
+            "repo": "st7735_micropython",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Library for using ILI9341 display drivers with MicroPython.",
+          "title": "ili934x-micropython"
+        },
+        {
+          "children": [],
+          "description": "MicroPython driver for ST7735 TFT displays on the ESP8266.",
+          "title": "micropython-st7735-esp8266"
+        },
+        {
+          "children": [],
+          "description": "Fast ESP_LCD based MicroPython driver for the TTGO T-Display-S3 st7789 display written in C.",
+          "title": "st7789s3_esp_lcd",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T04:37:27Z",
+            "owner": "russhughes",
+            "repo": "st7789s3_esp_lcd",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "ESP_LCD based MicroPython driver for ESP32-S3 Devices with ST7789 or compatible displays.",
+          "title": "s3lcd",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T04:23:56Z",
+            "owner": "russhughes",
+            "repo": "s3lcd",
+            "stars": 106
+          }
+        },
+        {
+          "children": [],
+          "description": "MicroPython display driver for the LILYGO T-HMI written in Python.",
+          "title": "thmi_py",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-27T21:05:19Z",
+            "owner": "russhughes",
+            "repo": "thmi_py",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "WT32SC01 Plus MicroPython Display Driver.",
+          "title": "wt32sc01py",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-15T18:16:01Z",
+            "owner": "russhughes",
+            "repo": "wt32sc01py",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "MicroPython display driver for the TTGO T-Display-S3 ST7789 written in C.",
+          "title": "st7789s3_mpy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T04:32:12Z",
+            "owner": "russhughes",
+            "repo": "st7789s3_mpy",
+            "stars": 80
+          }
+        },
+        {
+          "children": [],
+          "description": "MicroPython display driver for the TTGO T-Display-S3 ST7789 written in Python.",
+          "title": "t-display-s3",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-08T23:43:21Z",
+            "owner": "russhughes",
+            "repo": "t-display-s3",
+            "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "MicroPython Driver for ILI9341 TFT Display.",
+          "title": "mp-ili9341",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-26T18:51:48Z",
+            "owner": "tkurbad",
+            "repo": "mp-ili9341",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Driver for displays using the GC901 driver for use with LVGL MicroPython.",
+          "title": "lvgl_esp32_gc9a01",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-26T08:32:37Z",
+            "owner": "minyiky",
+            "repo": "lvgl_esp32_gc9a01",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Pure MicroPython driver for ST77xx displays. Low memory requirements.",
+          "title": "ST77xx-pure-MP",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-25T19:50:54Z",
+            "owner": "antirez",
+            "repo": "ST77xx-pure-MP",
+            "stars": 50
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple ST7789 driver written in MicroPython.",
+          "title": "upy-st7789",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-09T01:02:57Z",
+            "owner": "OneMadGypsy",
+            "repo": "upy-st7789",
+            "stars": 6
           }
         }
       ],
@@ -4253,6 +4743,19 @@
             "repo": "micropython-sevenseg",
             "stars": 0
           }
+        },
+        {
+          "children": [],
+          "description": "MicroPython driver for the MAX7219 with 8 x 7-segment display.",
+          "title": "max7219_8digit",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-16T15:26:38Z",
+            "owner": "GM-Script-Writer-62850",
+            "repo": "max7219_8digit",
+            "stars": 0
+          }
         }
       ],
       "title": "LED Segment"
@@ -4435,6 +4938,19 @@
             "repo": "micropython-aw210xx",
             "stars": 0
           }
+        },
+        {
+          "children": [],
+          "description": "I2C driver for the IS31FL3197 chip, found on the Arduino GIGA Display Shield.",
+          "title": "IS31FL3197",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-10T12:22:43Z",
+            "owner": "omeErik",
+            "repo": "IS31FL3197",
+            "stars": 1
+          }
         }
       ],
       "title": "LEDs"
@@ -4530,7 +5046,7 @@
             "last_commit": "2025-05-22T07:37:50Z",
             "owner": "robert-hh",
             "repo": "SH1106",
-            "stars": 233
+            "stars": 234
           }
         },
         {
@@ -4781,6 +5297,19 @@
             "owner": "scruss",
             "repo": "micropython-MCP3001",
             "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Driver for the ADS1256 24-bit low noise ADC, both as a generic MicroPython version and using the RP2040/RP2350 PIO.",
+          "title": "ADS1256",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-22T16:10:56Z",
+            "owner": "robert-hh",
+            "repo": "ADS1256",
+            "stars": 2
           }
         }
       ],
@@ -6655,7 +7184,20 @@
         {
           "children": [],
           "description": "MicroPython driver for the DFRobot Husky Lens. An easy-to-use AI Camera / Vision Sensor, featuring face recognition, object tracking, object recognition, line tracking, color recognition, and QR code recognition.",
-          "title": "huskylib",
+          "title": "IoTy huskylib",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-03T01:54:06Z",
+            "owner": "QuirkyCort",
+            "repo": "IoTy",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple machine vision library that provides blob and circle detection.",
+          "title": "IoTy mv",
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
@@ -7059,6 +7601,45 @@
             "owner": "antirez",
             "repo": "vl53l0x-nb",
             "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Driver for the LDS02RR 360 degree LiDAR.",
+          "title": "IoTy lds02rr",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-03T01:54:06Z",
+            "owner": "QuirkyCort",
+            "repo": "IoTy",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Driver for the COIN-D4 360 degree LiDAR.",
+          "title": "IoTy coind4",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-03T01:54:06Z",
+            "owner": "QuirkyCort",
+            "repo": "IoTy",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Driver for the Delta-2D 360 degree LiDAR.",
+          "title": "IoTy delta2d",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-03T01:54:06Z",
+            "owner": "QuirkyCort",
+            "repo": "IoTy",
+            "stars": 15
           }
         }
       ],
@@ -7729,7 +8310,7 @@
             "last_commit": "2025-10-11T10:36:01Z",
             "owner": "micropython-IMU",
             "repo": "micropython-bno055",
-            "stars": 60
+            "stars": 61
           }
         },
         {
@@ -7891,6 +8472,19 @@
             "owner": "OneMadGypsy",
             "repo": "upy-motion",
             "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "MPU6050 (Accelerometer/Gyroscope) driver which works on ESP32.",
+          "title": "MPU6050-ESP32-MicroPython",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-30T14:28:55Z",
+            "owner": "gitcnd",
+            "repo": "MPU6050-ESP32-MicroPython",
+            "stars": 1
           }
         },
         {
@@ -9022,6 +9616,19 @@
             "repo": "micropython-aioschedule",
             "stars": 12
           }
+        },
+        {
+          "children": [],
+          "description": "Approximated calculation of sunrise and sunset time. Given a  and the coordinate pair  of a place on Earth, this library computes when sun rises above the horizon and when it sets down on that day in that place.",
+          "title": "Suntime",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-07T14:04:51Z",
+            "owner": "lorcap",
+            "repo": "micropython-suntime",
+            "stars": 0
+          }
         }
       ],
       "title": "Scheduling"
@@ -9030,6 +9637,38 @@
       "description": "",
       "items": [],
       "title": "Storage"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "MicroPython Far Too Simple Config File. Single file library that writes configurations to itself.",
+          "title": "uPyftsConf",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-23T23:30:36Z",
+            "owner": "aleppax",
+            "repo": "upyftsconf",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Read and write .toml files. Works in MicroPython and CircuitPython.",
+          "title": "toml",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-09T12:37:05Z",
+            "owner": "gitcnd",
+            "repo": "toml",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Configuration file"
     },
     {
       "description": "",
@@ -9101,7 +9740,7 @@
         },
         {
           "children": [],
-          "description": "The lightest PostgreSQL database driver for micropython based on micropg_lite/micropg, but has even stronger restrictions in functionality and focuses only on the absolutely necessary functions.",
+          "description": "The lightest PostgreSQL database driver for MicroPython based on micropg_lite/micropg, but has even stronger restrictions in functionality and focuses only on the absolutely necessary functions.",
           "title": "micropg_superlite",
           "repo_info": {
             "archived": false,
@@ -9119,7 +9758,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-10T00:29:10Z",
+            "last_commit": "2026-02-10T17:19:16Z",
             "owner": "crate",
             "repo": "micropython-cratedb",
             "stars": 10
@@ -9189,9 +9828,22 @@
             "repo": "usqlite",
             "stars": 125
           }
+        },
+        {
+          "children": [],
+          "description": "MicroPython relational database using B-tree.",
+          "title": "simple-db",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-05T21:35:38Z",
+            "owner": "ctimmer",
+            "repo": "simple-db",
+            "stars": 1
+          }
         }
       ],
-      "title": "Databases"
+      "title": "Database"
     },
     {
       "description": "",
@@ -9343,6 +9995,19 @@
             "repo": "mp_wcwidth",
             "stars": 3
           }
+        },
+        {
+          "children": [],
+          "description": "A library for working with physical quantities in MicroPython.",
+          "title": "micropython-units",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-15T20:00:51Z",
+            "owner": "WoolleySheep",
+            "repo": "micropython-units",
+            "stars": 1
+          }
         }
       ],
       "title": "Utilities"
@@ -9451,7 +10116,7 @@
             "last_commit": "2026-02-08T18:14:43Z",
             "owner": "BxNxM",
             "repo": "micrOS",
-            "stars": 128
+            "stars": 129
           }
         },
         {
@@ -9484,6 +10149,19 @@
             "repo": "meerkat",
             "stars": 10
           }
+        },
+        {
+          "children": [],
+          "description": "Project Fred MicroPython IOT Platform, code to control relays, temp sensors, buttons, touchscreen, GPS etc. Has a responsive Web UI, MQTT, Home Assistant and ThingsBoard support.",
+          "title": "public-micropython-iot-platform",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-21T08:50:43Z",
+            "owner": "wolfen351",
+            "repo": "public-micropython-iot-platform",
+            "stars": 7
+          }
         }
       ],
       "title": "Frameworks"
@@ -9503,10 +10181,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-10T03:49:04Z",
+            "last_commit": "2026-02-11T00:35:29Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21449
+            "stars": 21452
           }
         },
         {
@@ -9521,10 +10199,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-10T03:49:04Z",
+            "last_commit": "2026-02-11T00:35:29Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21449
+            "stars": 21452
           }
         },
         {
@@ -9586,7 +10264,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-01-08T07:36:52Z",
+            "last_commit": "2026-02-11T02:45:03Z",
             "owner": "Josverl",
             "repo": "micropython-stubber",
             "stars": 244
@@ -9599,7 +10277,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-07T22:04:57Z",
+            "last_commit": "2026-02-10T22:13:17Z",
             "owner": "Josverl",
             "repo": "micropython-stubs",
             "stars": 287
@@ -9936,6 +10614,19 @@
             "repo": "Micropython-Editor",
             "stars": 249
           }
+        },
+        {
+          "children": [],
+          "description": "Linux-like shell for MicroPython. Full featured, very lightweight.",
+          "title": "mpy_shell",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-17T08:01:15Z",
+            "owner": "gitcnd",
+            "repo": "mpy_shell",
+            "stars": 4
+          }
         }
       ],
       "title": "On Device"
@@ -9992,7 +10683,7 @@
             "last_commit": "2025-01-09T14:53:46Z",
             "owner": "wendlers",
             "repo": "mpfshell",
-            "stars": 415
+            "stars": 416
           }
         },
         {
@@ -10015,10 +10706,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-10T03:49:04Z",
+            "last_commit": "2026-02-11T00:35:29Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21449
+            "stars": 21452
           }
         },
         {
@@ -10064,13 +10755,58 @@
       "title": "On Host"
     },
     {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Belay is a Python library that enables the rapid development of projects that interact with hardware via a MicroPython-compatible board.",
+          "title": "belay",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-13T16:00:42Z",
+            "owner": "BrianPugh",
+            "repo": "belay",
+            "stars": 265
+          }
+        },
+        {
+          "children": [],
+          "description": "Web-based file manager directly running on ESP32 in MicroPython.",
+          "title": "ESP-File_manager",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-18T23:36:07Z",
+            "owner": "mispacek",
+            "repo": "ESP-File_manager",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Command line serial emulator to connect to MicroPython boards.",
+          "title": "mcu_serial",
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-07-28T10:27:36Z",
+            "owner": "gitcnd",
+            "repo": "mcu_serial",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
       "description": "Contributions and suggestions are always welcome! Please take a look at the contribution guidelines first.\nI will keep some pull requests open if I'm not sure whether those libraries are awesome, you could vote for them by adding 👍 to them.",
       "items": [],
       "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-10T04:34:39.330Z",
+    "last_updated": "2026-02-11T04:32:34.518Z",
     "original_repository": "mcauser/awesome-micropython",
     "source_repository": "v1nvn/enhansome-micropython",
     "source_repository_description": null,

@@ -26,7 +26,7 @@
             "last_commit": "2024-11-26T00:45:06Z",
             "owner": "jeremycole",
             "repo": "innodb_ruby",
-            "stars": 1785
+            "stars": 1784
           }
         },
         {
@@ -78,7 +78,7 @@
             "last_commit": "2026-01-18T22:37:57Z",
             "owner": "major",
             "repo": "MySQLTuner-perl",
-            "stars": 9430
+            "stars": 9431
           }
         },
         {
@@ -88,10 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-09T20:44:54Z",
+            "last_commit": "2026-02-11T03:03:28Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 62634
+            "stars": 62651
           }
         },
         {
@@ -101,7 +101,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-09T17:04:08Z",
+            "last_commit": "2026-02-10T08:35:39Z",
             "owner": "sjmudd",
             "repo": "ps-top",
             "stars": 209
@@ -138,10 +138,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-09T13:59:17Z",
+            "last_commit": "2026-02-10T19:59:25Z",
             "owner": "databasus",
             "repo": "databasus",
-            "stars": 5463
+            "stars": 5482
           }
         },
         {
@@ -151,10 +151,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-10T03:22:38Z",
+            "last_commit": "2026-02-11T04:29:59Z",
             "owner": "pingcap",
             "repo": "tidb",
-            "stars": 39723
+            "stars": 39726
           }
         },
         {
@@ -167,7 +167,7 @@
             "last_commit": "2026-02-08T18:17:39Z",
             "owner": "mydumper",
             "repo": "mydumper",
-            "stars": 3015
+            "stars": 3018
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-01-29T12:27:44Z",
             "owner": "percona",
             "repo": "percona-xtrabackup",
-            "stars": 1489
+            "stars": 1491
           }
         },
         {
@@ -190,10 +190,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-09T22:39:18Z",
+            "last_commit": "2026-02-10T19:50:37Z",
             "owner": "Portabase",
             "repo": "portabase",
-            "stars": 319
+            "stars": 320
           }
         }
       ],
@@ -225,7 +225,7 @@
             "last_commit": "2026-01-13T04:56:59Z",
             "owner": "pingcap",
             "repo": "go-tpc",
-            "stars": 208
+            "stars": 210
           }
         },
         {
@@ -367,7 +367,7 @@
             "last_commit": "2025-06-13T06:21:14Z",
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15419
+            "stars": 15421
           }
         },
         {
@@ -424,7 +424,7 @@
             "last_commit": "2026-01-21T11:16:44Z",
             "owner": "mysql",
             "repo": "mysql-connector-cpp",
-            "stars": 698
+            "stars": 699
           }
         },
         {
@@ -486,7 +486,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-10T03:12:18Z",
+            "last_commit": "2026-02-10T08:33:43Z",
             "owner": "PyMySQL",
             "repo": "mysqlclient",
             "stars": 2525
@@ -495,7 +495,15 @@
         {
           "children": [],
           "description": "A pure Nodejs Javascript client implementing the MySQL protocol.",
-          "title": "node-mysql"
+          "title": "node-mysql",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-25T12:03:39Z",
+            "owner": "mysqljs",
+            "repo": "mysql",
+            "stars": 18845
+          }
         },
         {
           "children": [],
@@ -512,7 +520,7 @@
             "last_commit": "2025-08-24T12:54:32Z",
             "owner": "PyMySQL",
             "repo": "PyMySQL",
-            "stars": 7844
+            "stars": 7843
           }
         },
         {
@@ -551,48 +559,11 @@
             "last_commit": "2026-02-03T00:18:52Z",
             "owner": "c410-f3r",
             "repo": "wtx",
-            "stars": 341
+            "stars": 342
           }
         }
       ],
       "title": "Connectors"
-    },
-    {
-      "description": "MySQL deployment tools",
-      "items": [
-        {
-          "children": [],
-          "description": "archived) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.",
-          "title": "dbdeployer",
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2023-10-29T15:39:14Z",
-            "owner": "datacharmer",
-            "repo": "dbdeployer",
-            "stars": 716
-          }
-        },
-        {
-          "children": [],
-          "description": "A Java launcher to run MariaDB without installation or external dependencies.",
-          "title": "MariaDB4j",
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-01-02T23:58:57Z",
-            "owner": "MariaDB4j",
-            "repo": "MariaDB4j",
-            "stars": 894
-          }
-        },
-        {
-          "children": [],
-          "description": "Official Docker images.",
-          "title": "MySQL Docker"
-        }
-      ],
-      "title": "Deployment"
     },
     {
       "description": "Tools to support MySQL-related development",
@@ -607,7 +578,7 @@
             "last_commit": "2026-01-28T13:50:04Z",
             "owner": "flyway",
             "repo": "flyway",
-            "stars": 9521
+            "stars": 9523
           }
         },
         {
@@ -617,10 +588,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-09T13:21:30Z",
+            "last_commit": "2026-02-10T12:03:37Z",
             "owner": "liquibase",
             "repo": "liquibase",
-            "stars": 5416
+            "stars": 5417
           }
         },
         {
@@ -659,7 +630,7 @@
             "last_commit": "2026-02-06T07:15:59Z",
             "owner": "actiontech",
             "repo": "sqle",
-            "stars": 1470
+            "stars": 1471
           }
         },
         {
@@ -672,7 +643,7 @@
             "last_commit": "2024-08-06T09:58:55Z",
             "owner": "datacharmer",
             "repo": "test_db",
-            "stars": 4384
+            "stars": 4383
           }
         }
       ],
@@ -691,7 +662,7 @@
             "last_commit": "2026-02-08T15:44:15Z",
             "owner": "vrana",
             "repo": "adminer",
-            "stars": 7256
+            "stars": 7258
           }
         },
         {
@@ -701,10 +672,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-10T00:07:18Z",
+            "last_commit": "2026-02-10T19:02:44Z",
             "owner": "dbeaver",
             "repo": "dbeaver",
-            "stars": 48613
+            "stars": 48630
           }
         },
         {
@@ -714,10 +685,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-02-09T12:47:40Z",
+            "last_commit": "2026-02-10T18:36:25Z",
             "owner": "HeidiSQL",
             "repo": "HeidiSQL",
-            "stars": 5793
+            "stars": 5795
           }
         },
         {
@@ -727,7 +698,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-06T14:35:49Z",
+            "last_commit": "2026-02-11T02:17:49Z",
             "owner": "illacloud",
             "repo": "illa-builder",
             "stars": 12368
@@ -740,10 +711,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-09T20:33:58Z",
+            "last_commit": "2026-02-10T11:21:52Z",
             "owner": "dbcli",
             "repo": "mycli",
-            "stars": 11870
+            "stars": 11869
           }
         },
         {
@@ -769,7 +740,7 @@
             "last_commit": "2026-01-21T12:34:34Z",
             "owner": "mysql",
             "repo": "mysql-workbench",
-            "stars": 982
+            "stars": 981
           }
         },
         {
@@ -805,10 +776,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-10T02:58:49Z",
+            "last_commit": "2026-02-11T02:15:40Z",
             "owner": "percona",
             "repo": "pmm",
-            "stars": 963
+            "stars": 965
           }
         },
         {
@@ -818,10 +789,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-02-08T16:56:57Z",
+            "last_commit": "2026-02-11T04:23:15Z",
             "owner": "phpmyadmin",
             "repo": "phpmyadmin",
-            "stars": 7792
+            "stars": 7793
           }
         },
         {
@@ -847,7 +818,7 @@
             "last_commit": "2026-02-09T23:21:44Z",
             "owner": "Sequel-Ace",
             "repo": "Sequel-Ace",
-            "stars": 7291
+            "stars": 7292
           }
         },
         {
@@ -910,7 +881,7 @@
         },
         {
           "children": [],
-          "description": "MySQL replication topology management and High Availability solution.",
+          "description": "archived) - MySQL replication topology management and High Availability solution.",
           "title": "Orchestrator",
           "repo_info": {
             "archived": true,
@@ -941,7 +912,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-10T00:39:04Z",
+            "last_commit": "2026-02-10T07:55:24Z",
             "owner": "signal18",
             "repo": "replication-manager",
             "stars": 726
@@ -973,7 +944,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-07T19:55:13Z",
+            "last_commit": "2026-02-10T20:50:34Z",
             "owner": "askdba",
             "repo": "mysql-mcp-server",
             "stars": 8
@@ -1015,7 +986,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-10T00:39:58Z",
+            "last_commit": "2026-02-10T18:07:34Z",
             "owner": "sysown",
             "repo": "proxysql",
             "stars": 6619
@@ -1042,7 +1013,7 @@
         },
         {
           "children": [],
-          "description": "A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.",
+          "description": "archived) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage. See",
           "title": "sys",
           "repo_info": {
             "archived": true,
@@ -1069,7 +1040,7 @@
             "last_commit": "2025-12-05T10:57:49Z",
             "owner": "cossacklabs",
             "repo": "acra",
-            "stars": 1452
+            "stars": 1453
           }
         },
         {
@@ -1098,10 +1069,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-10T01:22:47Z",
+            "last_commit": "2026-02-11T00:45:14Z",
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 7143
+            "stars": 7148
           }
         },
         {
@@ -1114,7 +1085,7 @@
             "last_commit": "2026-01-22T11:09:35Z",
             "owner": "mysql",
             "repo": "mysql-server",
-            "stars": 12063
+            "stars": 12064
           }
         },
         {
@@ -1124,7 +1095,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-07T20:32:48Z",
+            "last_commit": "2026-02-10T21:22:42Z",
             "owner": "askdba",
             "repo": "myvector",
             "stars": 1
@@ -1150,10 +1121,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-10T03:22:38Z",
+            "last_commit": "2026-02-11T04:29:59Z",
             "owner": "pingcap",
             "repo": "tidb",
-            "stars": 39723
+            "stars": 39726
           }
         }
       ],
@@ -1182,10 +1153,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-10T03:46:14Z",
+            "last_commit": "2026-02-11T03:10:43Z",
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 20683
+            "stars": 20687
           }
         }
       ],
@@ -1201,7 +1172,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-01-30T19:33:03Z",
+            "last_commit": "2026-02-10T18:01:12Z",
             "owner": "github",
             "repo": "gh-ost",
             "stars": 13205
@@ -1214,10 +1185,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-08T12:00:48Z",
+            "last_commit": "2026-02-11T02:25:23Z",
             "owner": "go-mysql-org",
             "repo": "go-mysql",
-            "stars": 4917
+            "stars": 4918
           }
         },
         {
@@ -1243,7 +1214,7 @@
             "last_commit": "2026-02-09T16:39:01Z",
             "owner": "percona",
             "repo": "percona-toolkit",
-            "stars": 1445
+            "stars": 1446
           }
         },
         {
@@ -1261,7 +1232,7 @@
         },
         {
           "children": [],
-          "description": "a tool to recover data from dropped or corrupted InnoDB tables.",
+          "description": "archived) - a tool to recover data from dropped or corrupted InnoDB tables.",
           "title": "UnDROP",
           "repo_info": {
             "archived": true,
@@ -1274,20 +1245,10 @@
         }
       ],
       "title": "Toolkits"
-    },
-    {
-      "description": "Public, ongoing video & audio casts. This excludes conference presentations in fear of list size",
-      "items": [],
-      "title": "Media"
-    },
-    {
-      "description": "Newsletters require an email address, by definition. List below are newsletters that require nothing but an email address",
-      "items": [],
-      "title": "Newsletters"
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-10T04:35:21.501Z",
+    "last_updated": "2026-02-11T04:33:42.095Z",
     "original_repository": "shlomi-noach/awesome-mysql",
     "source_repository": "v1nvn/enhansome-mysql",
     "source_repository_description": null,
