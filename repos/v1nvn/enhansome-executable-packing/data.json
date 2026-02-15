@@ -35,6 +35,11 @@
         },
         {
           "children": [],
+          "description": "notebook:",
+          "title": "Anti-unpacker tricks"
+        },
+        {
+          "children": [],
           "description": "page_facing_up:",
           "title": "Anti-unpacker tricks - Part 14 (and previous parts)"
         },
@@ -42,6 +47,11 @@
           "children": [],
           "description": "bar_chart:",
           "title": "API deobfuscator: Resolving obfuscated API functions in modern packers"
+        },
+        {
+          "children": [],
+          "description": "earth_americas:",
+          "title": "Armouring the ELF: Binary encryption on the UNIX platform"
         },
         {
           "children": [],
@@ -60,10 +70,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-01-03T21:59:03Z",
+            "last_commit": "2026-02-14T08:37:57Z",
             "owner": "packing-box",
             "repo": "awesome-executable-packing",
-            "stars": 1530
+            "stars": 1531
           }
         },
         {
@@ -121,6 +131,11 @@
         },
         {
           "children": [],
+          "description": "bar_chart:",
+          "title": "Dealing with virtualization packers"
+        },
+        {
+          "children": [],
           "description": "earth_americas:",
           "title": "Defacto2"
         },
@@ -143,6 +158,11 @@
           "children": [],
           "description": "pushpin:",
           "title": "Entropy and the distinctive signs of packer PE files"
+        },
+        {
+          "children": [],
+          "description": "notebook:",
+          "title": "Evading machine learning malware detection"
         },
         {
           "children": [],
@@ -176,6 +196,11 @@
         },
         {
           "children": [],
+          "description": "notebook:",
+          "title": "Gunpack: Un outil générique d'unpacking de malwares"
+        },
+        {
+          "children": [],
           "description": "newspaper:",
           "title": "How to use t-SNE effectively"
         },
@@ -188,6 +213,16 @@
           "children": [],
           "description": "scroll:",
           "title": "Implementing your own generic unpacker"
+        },
+        {
+          "children": [],
+          "description": "earth_americas:",
+          "title": "Learn symbolic execution and angr"
+        },
+        {
+          "children": [],
+          "description": "bar_chart:",
+          "title": "LIEF: Library to instrument executable formats"
         },
         {
           "children": [],
@@ -221,6 +256,11 @@
           "children": [],
           "description": "pushpin:",
           "title": "Making our own executable packer"
+        },
+        {
+          "children": [],
+          "description": "earth_americas:",
+          "title": "The malware analyst's guide to aPLib decompression"
         },
         {
           "children": [],
@@ -282,6 +322,11 @@
         },
         {
           "children": [],
+          "description": "newspaper:",
+          "title": "Packer analysis report debugging and unpacking the NsPack 3.4 and 3.7 packer"
+        },
+        {
+          "children": [],
           "description": "pushpin:",
           "title": "Packer detection tool evaluation",
           "repo_info": {
@@ -297,6 +342,11 @@
           "children": [],
           "description": "page_facing_up:",
           "title": "Packers"
+        },
+        {
+          "children": [],
+          "description": "pushpin:",
+          "title": "Packers/Protectors for Linux"
         },
         {
           "children": [],
@@ -351,12 +401,32 @@
         {
           "children": [],
           "description": "bar_chart:",
+          "title": "Qualitative and quantitative evaluation of software packers"
+        },
+        {
+          "children": [],
+          "description": "bar_chart:",
           "title": "Reverse engineering malware: Binary obfuscation and protection"
         },
         {
           "children": [],
           "description": "bar_chart:",
+          "title": "Runtime packers testing experiences"
+        },
+        {
+          "children": [],
+          "description": "bar_chart:",
           "title": "Runtime packers: The hidden problem?"
+        },
+        {
+          "children": [],
+          "description": "newspaper:",
+          "title": "Standards and policies on packer use"
+        },
+        {
+          "children": [],
+          "description": "green_book: Surreptitious software: Obfuscation, watermarking, and tamperproofing for software protection",
+          "title": ":green_book: Surreptitious software: Obfuscation, watermarking, and tamperproofing for software protection"
         },
         {
           "children": [],
@@ -406,6 +476,11 @@
         {
           "children": [],
           "description": "bar_chart:",
+          "title": "WaveAtlas: Surfing through the landscape of current malware packers"
+        },
+        {
+          "children": [],
+          "description": "bar_chart:",
           "title": "We can still crack you! General unpacking method for Android Packer (NO ROOT)"
         },
         {
@@ -445,6 +520,11 @@
           "children": [],
           "description": "earth_americas:",
           "title": "x86 disassembly/Windows executable files"
+        },
+        {
+          "children": [],
+          "description": "earth_americas:",
+          "title": "YARA - The pattern matching swiss knife for malware researchers."
         }
       ],
       "title": "Documentation"
@@ -467,7 +547,7 @@
         },
         {
           "children": [],
-          "description": "Contagio is a collection of the latest malware samples, threats, observations, and analyses.",
+          "description": "Collection of the latest malware samples, threats, observations, and analyses.",
           "title": "Contagio"
         },
         {
@@ -477,7 +557,7 @@
         },
         {
           "children": [],
-          "description": "Dataset of packed ELF samples.",
+          "description": "Compilation of packed ELF samples.",
           "title": "Dataset of Packed ELF",
           "repo_info": {
             "archived": false,
@@ -511,7 +591,20 @@
             "last_commit": "2024-11-22T20:36:57Z",
             "owner": "elastic",
             "repo": "ember",
-            "stars": 1124
+            "stars": 1125
+          }
+        },
+        {
+          "children": [],
+          "description": "Update to the EMBER2017 and EMBER2018 datasets.",
+          "title": "Ember2024",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-22T20:16:42Z",
+            "owner": "futurecomputing4ai",
+            "repo": "ember2024",
+            "stars": 92
           }
         },
         {
@@ -570,12 +663,12 @@
             "last_commit": "2024-01-13T17:39:44Z",
             "owner": "jstrosch",
             "repo": "malware-samples",
-            "stars": 1608
+            "stars": 1609
           }
         },
         {
           "children": [],
-          "description": "The Malware Museum is a collection of malware programs, usually viruses, that were distributed in the 1980s and 1990s on home computers.",
+          "description": "Collection of malware programs, usually viruses, that were distributed in the 1980s and 1990s on home computers.",
           "title": "The Malware Museum"
         },
         {
@@ -595,7 +688,7 @@
         },
         {
           "children": [],
-          "description": "MalwareTips is a community-driven platform providing the latest information and resources on malware and cyber threats.",
+          "description": "Community-driven platform providing the latest information and resources on malware and cyber threats.",
           "title": "MalwareTips"
         },
         {
@@ -680,7 +773,7 @@
             "last_commit": "2025-11-19T05:55:59Z",
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 12681
+            "stars": 12682
           }
         },
         {
@@ -830,6 +923,19 @@
         },
         {
           "children": [],
+          "description": null,
+          "title": "Backpack",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-05-01T20:54:57Z",
+            "owner": "Enelg52",
+            "repo": "Backpack",
+            "stars": 19
+          }
+        },
+        {
+          "children": [],
           "description": "Protection tool using the second generation Android Hardening Protection, loading the encrypted DEX file from memory dynamically.",
           "title": "BangCle",
           "repo_info": {
@@ -843,7 +949,7 @@
         },
         {
           "children": [],
-          "description": "Bero EXE Packer (BEP) for 32-bit windows executables.",
+          "description": "BEP (Bero EXE Packer) for 32-bit windows executables.",
           "title": "Bero"
         },
         {
@@ -858,7 +964,7 @@
         },
         {
           "children": [],
-          "description": "Code Virtualizer is a powerful code obfuscation system for Windows, Linux and macOS applications that helps developers to protect their sensitive code areas against Reverse Engineering with very strong obfuscation code, based on code virtualization.",
+          "description": "Powerful code obfuscation system for Windows, Linux and macOS applications that helps developers to protect their sensitive code areas against Reverse Engineering with very strong obfuscation code, based on code virtualization.",
           "title": "Code Virtualizer"
         },
         {
@@ -884,7 +990,7 @@
             "last_commit": "2026-02-12T16:43:03Z",
             "owner": "runestubbe",
             "repo": "Crinkler",
-            "stars": 1184
+            "stars": 1185
           }
         },
         {
@@ -932,6 +1038,24 @@
         },
         {
           "children": [],
+          "description": "Collection of programs to encrypt ELF binaries using various algorithms.",
+          "title": "ELF-Encrypter"
+        },
+        {
+          "children": [],
+          "description": "Simple Polymorphic x86_64 Runtime Code Segment Cryptor.",
+          "title": "ELF-Packer",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-08T01:07:53Z",
+            "owner": "glen-mac",
+            "repo": "ELF-Packer",
+            "stars": 59
+          }
+        },
+        {
+          "children": [],
           "description": "Simple ELF crypter using RC4 encryption.",
           "title": "ELFCrypt",
           "repo_info": {
@@ -941,6 +1065,19 @@
             "owner": "droberson",
             "repo": "ELFcrypt",
             "stars": 127
+          }
+        },
+        {
+          "children": [],
+          "description": "A collection of programs that access and manipulate ELF files.",
+          "title": "ELFkickers",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-11-07T18:31:04Z",
+            "owner": "BR903",
+            "repo": "ELFkickers",
+            "stars": 614
           }
         },
         {
@@ -986,8 +1123,8 @@
         },
         {
           "children": [],
-          "description": "Anti-cracking protection and licensing tool for PE files featuring compression and encryption polymorphic technology.",
-          "title": "EXE Stealth"
+          "description": "EXE Stealth - Anti-cracking protection and licensing tool for PE files featuring compression and encryption polymorphic technology.",
+          "title": "EXE Stealth - Anti-cracking protection and licensing tool for PE files featuring compression and encryption polymorphic technology."
         },
         {
           "children": [],
@@ -1040,12 +1177,12 @@
         },
         {
           "children": [],
-          "description": "LM-X License Manager lets you protect your products against piracy by enforcing various levels of security, save time, and reduce business risks.",
+          "description": "Lets you protect your products against piracy by enforcing various levels of security, save time, and reduce business risks.",
           "title": "LM-X License Manager"
         },
         {
           "children": [],
-          "description": "Just a modern packer for elf binaries ( works on linux executables only ).",
+          "description": "Just a modern packer for elf binaries ( works on Linux executables only ).",
           "title": "m0dern_p4cker",
           "repo_info": {
             "archived": false,
@@ -1058,7 +1195,7 @@
         },
         {
           "children": [],
-          "description": "Midgetpack is a binary packer for ELF binaries, such as burneye, upx or other tools.",
+          "description": "ELF binary packer, such as burneye, upx or other tools.",
           "title": "MidgetPack",
           "repo_info": {
             "archived": false,
@@ -1104,6 +1241,19 @@
         },
         {
           "children": [],
+          "description": "Library for ELF obfuscation ; it uses PRESENT and blake244 to encrypt your payload on the fly.",
+          "title": "oplzkwp",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-08-14T02:02:16Z",
+            "owner": "tweksteen",
+            "repo": "oplzkwp",
+            "stars": 70
+          }
+        },
+        {
+          "children": [],
           "description": "Packer compressing .net assemblies, (ab)using the PE format for data storage.",
           "title": "Origami",
           "repo_info": {
@@ -1122,7 +1272,7 @@
         },
         {
           "children": [],
-          "description": "Pakkero is a binary packer written in Go made for fun and educational purpose.",
+          "description": "Binary packer written in Go made for fun and educational purpose.",
           "title": "Pakkero",
           "repo_info": {
             "archived": false,
@@ -1130,7 +1280,7 @@
             "last_commit": "2023-01-16T21:07:13Z",
             "owner": "89luca89",
             "repo": "pakkero",
-            "stars": 269
+            "stars": 270
           }
         },
         {
@@ -1238,6 +1388,19 @@
         },
         {
           "children": [],
+          "description": "Naive Proof of Concept Crypter for GNU/Linux ELF64.",
+          "title": "pocrypt",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-12-14T06:31:09Z",
+            "owner": "picoflamingo",
+            "repo": "pocrypt",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
           "description": "Multi-Packer wrapper letting us daisy-chain various packers, obfuscators and other Red Team oriented weaponry.",
           "title": "ProtectMyTooling",
           "repo_info": {
@@ -1251,8 +1414,34 @@
         },
         {
           "children": [],
+          "description": "Create packed ELF files to run on the PS2.",
+          "title": "ps2-packer",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-10T23:03:49Z",
+            "owner": "ps2dev",
+            "repo": "ps2-packer",
+            "stars": 80
+          }
+        },
+        {
+          "children": [],
           "description": "Simple and efficient way to convert a PHP/Python script to a standalone executable.",
           "title": "RapidEXE"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "sherlocked",
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2014-10-30T22:03:18Z",
+            "owner": "elfmaster",
+            "repo": "sherlocked",
+            "stars": 105
+          }
         },
         {
           "children": [],
@@ -1333,7 +1522,7 @@
         },
         {
           "children": [],
-          "description": "VMProtect protects code by executing it on a virtual machine with non-standard architecture that makes it extremely difficult to analyze and crack the software.",
+          "description": "Protects code by executing it on a virtual machine with non-standard architecture that makes it extremely difficult to analyze and crack the software.",
           "title": "VMProtect"
         },
         {
@@ -1374,6 +1563,37 @@
             "repo": "xorPacker",
             "stars": 15
           }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "XyrisPack",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-11-18T22:49:02Z",
+            "owner": "01Xyris",
+            "repo": "XyrisPack",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "A modular ELF64 packer for Linux x86_64 featuring 22 compression codecs, ML-based codec selection, and support for both static and PIE binaries.",
+          "title": "zELF",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-30T01:27:16Z",
+            "owner": "seb3773",
+            "repo": "zelf",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Renames metadata entities and supports advanced obfuscation methods that harden protection scheme and foil reverse engineering altogether.",
+          "title": "ZProtect"
         }
       ],
       "title": "After 2010"
@@ -1383,7 +1603,7 @@
       "items": [
         {
           "children": [],
-          "description": "Android Unpacker presented at Defcon 22: Android Hacker Protection Level 0.",
+          "description": "Presented at Defcon 22: Android Hacker Protection Level 0.",
           "title": "Android Unpacker",
           "repo_info": {
             "archived": false,
@@ -1401,10 +1621,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-14T02:05:54Z",
+            "last_commit": "2026-02-15T03:24:42Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 8488
+            "stars": 8493
           }
         },
         {
@@ -1453,7 +1673,7 @@
             "last_commit": "2024-10-22T15:14:41Z",
             "owner": "malicialab",
             "repo": "avclass",
-            "stars": 483
+            "stars": 484
           }
         },
         {
@@ -1494,7 +1714,7 @@
             "last_commit": "2026-02-12T10:45:17Z",
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 5822
+            "stars": 5823
           }
         },
         {
@@ -1558,7 +1778,7 @@
             "last_commit": "2021-11-12T01:47:34Z",
             "owner": "lelinhtinh",
             "repo": "de4js",
-            "stars": 1549
+            "stars": 1550
           }
         },
         {
@@ -1583,10 +1803,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-13T18:02:13Z",
+            "last_commit": "2026-02-14T21:05:13Z",
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 2964
+            "stars": 2967
           }
         },
         {
@@ -1678,7 +1898,7 @@
             "last_commit": "2022-11-21T22:04:05Z",
             "owner": "endgameinc",
             "repo": "gym-malware",
-            "stars": 632
+            "stars": 633
           }
         },
         {
@@ -1716,10 +1936,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-03T19:32:10Z",
+            "last_commit": "2026-02-14T20:22:16Z",
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5274
+            "stars": 5276
           }
         },
         {
@@ -1755,7 +1975,7 @@
             "last_commit": "2025-09-13T23:37:33Z",
             "owner": "hasherezade",
             "repo": "mal_unpack",
-            "stars": 793
+            "stars": 794
           }
         },
         {
@@ -1768,7 +1988,7 @@
             "last_commit": "2026-01-30T15:39:03Z",
             "owner": "JusticeRage",
             "repo": "Manalyze",
-            "stars": 1104
+            "stars": 1105
           }
         },
         {
@@ -1915,10 +2135,23 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-04T21:39:33Z",
+            "last_commit": "2026-02-14T15:34:04Z",
             "owner": "panda-re",
             "repo": "panda",
-            "stars": 2717
+            "stars": 2718
+          }
+        },
+        {
+          "children": [],
+          "description": "Dynamic packing detection solution built on top of PANDA.",
+          "title": "PANDI",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-03T14:30:05Z",
+            "owner": "dimitriwauters",
+            "repo": "PANDI",
+            "stars": 3
           }
         },
         {
@@ -1928,7 +2161,7 @@
         },
         {
           "children": [],
-          "description": "PCjs uses JavaScript to recreate the IBM PC experience, using original ROMs, CPUs running at their original speeds, and early IBM video cards and monitors.",
+          "description": "Uses JavaScript to recreate the IBM PC experience, using original ROMs, CPUs running at their original speeds, and early IBM video cards and monitors.",
           "title": "PCjs"
         },
         {
@@ -1982,7 +2215,7 @@
             "last_commit": "2026-02-13T09:54:35Z",
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2017
+            "stars": 2019
           }
         },
         {
@@ -1995,7 +2228,7 @@
             "last_commit": "2022-08-08T14:04:56Z",
             "owner": "guelfoweb",
             "repo": "peframe",
-            "stars": 618
+            "stars": 619
           }
         },
         {
@@ -2139,7 +2372,7 @@
         },
         {
           "children": [],
-          "description": "Small python script/library to detect whether an executable is packed.",
+          "description": "Small Python script/library to detect whether an executable is packed.",
           "title": "PyPackerDetect",
           "repo_info": {
             "archived": false,
@@ -2196,7 +2429,7 @@
             "last_commit": "2026-02-04T02:24:26Z",
             "owner": "uxmal",
             "repo": "reko",
-            "stars": 2521
+            "stars": 2524
           }
         },
         {
@@ -2237,7 +2470,7 @@
             "last_commit": "2025-07-03T07:58:59Z",
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8478
+            "stars": 8481
           }
         },
         {
@@ -2311,7 +2544,7 @@
             "last_commit": "2025-12-02T07:45:33Z",
             "owner": "jonathansalwan",
             "repo": "Triton",
-            "stars": 4048
+            "stars": 4049
           }
         },
         {
@@ -2372,7 +2605,7 @@
             "last_commit": "2018-11-25T23:24:34Z",
             "owner": "s3team",
             "repo": "VMHunt",
-            "stars": 177
+            "stars": 178
           }
         },
         {
@@ -2387,10 +2620,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-13T11:46:12Z",
+            "last_commit": "2026-02-14T08:36:15Z",
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 756
+            "stars": 758
           }
         },
         {
@@ -2403,7 +2636,7 @@
             "last_commit": "2026-01-10T15:02:41Z",
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1772
+            "stars": 1773
           }
         }
       ],
@@ -2416,7 +2649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-14T04:11:05.986Z",
+    "last_updated": "2026-02-15T04:23:17.073Z",
     "original_repository": "dhondta/awesome-executable-packing",
     "source_repository": "v1nvn/enhansome-executable-packing",
     "source_repository_description": null,

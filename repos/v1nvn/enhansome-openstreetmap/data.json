@@ -62,7 +62,7 @@
             "last_commit": "2026-01-22T15:14:06Z",
             "owner": "osmlab",
             "repo": "onosm.org",
-            "stars": 86
+            "stars": 87
           }
         },
         {
@@ -94,7 +94,7 @@
             "last_commit": "2026-02-13T14:14:16Z",
             "owner": "westnordost",
             "repo": "StreetComplete",
-            "stars": 4474
+            "stars": 4475
           }
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "children": [],
-          "description": "Every Door is an Android and iOS app that lets you create and edit objects in OpenStreetMap. It supports editing node and polygon features, and creating point features like shops, benches, and building entrances. ( /  /  / )",
+          "description": "Android and iOS app that lets you create and edit objects in OpenStreetMap. It supports editing node and polygon features, and creating point features like shops, benches, and building entrances. ( /  /  / )",
           "title": "Every Door",
           "repo_info": {
             "archived": false,
@@ -138,7 +138,7 @@
         },
         {
           "children": [],
-          "description": "OSM Go! is an Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. ( /  / )",
+          "description": "Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. ( /  / )",
           "title": "OSM Go!",
           "repo_info": {
             "archived": false,
@@ -147,6 +147,19 @@
             "owner": "DoFabien",
             "repo": "OsmGo",
             "stars": 124
+          }
+        },
+        {
+          "children": [],
+          "description": "StreetComplete Expert Edition: A modified version of StreetComplete that allows advanced editing capabilities. ( / )",
+          "title": "SCEE",
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-14T11:48:42Z",
+            "owner": "Helium314",
+            "repo": "SCEE",
+            "stars": 201
           }
         }
       ],
@@ -248,7 +261,7 @@
             "last_commit": "2026-01-31T10:06:36Z",
             "owner": "opening-hours",
             "repo": "opening_hours.js",
-            "stars": 245
+            "stars": 246
           }
         },
         {
@@ -258,7 +271,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-02-06T16:29:06Z",
+            "last_commit": "2026-02-14T17:26:58Z",
             "owner": "taginfo",
             "repo": "taginfo",
             "stars": 134
@@ -544,7 +557,7 @@
         },
         {
           "children": [],
-          "description": "OSM Streak makes you do small tasks for OSM every day. Tasks are small and about five minutes each, but the point is to map every day, not map as much as you can. ()",
+          "description": "Helps you do small tasks for OSM every day. Tasks are small and about five minutes each, but the point is to map every day, not map as much as you can. ()",
           "title": "OSM Streak",
           "repo_info": {
             "archived": false,
@@ -730,10 +743,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-13T22:10:48Z",
+            "last_commit": "2026-02-14T23:11:05Z",
             "owner": "osmandapp",
             "repo": "OsmAnd",
-            "stars": 5543
+            "stars": 5545
           }
         },
         {
@@ -743,10 +756,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-13T20:37:58Z",
+            "last_commit": "2026-02-15T03:13:47Z",
             "owner": "organicmaps",
             "repo": "organicmaps",
-            "stars": 13258
+            "stars": 13261
           }
         },
         {
@@ -758,6 +771,11 @@
           "children": [],
           "description": "A route planner and navigation app specializing in hiking and cycling. (,  / )",
           "title": "Komoot"
+        },
+        {
+          "children": [],
+          "description": "A free, open-source offline navigation app prioritizing user privacy and using OSM. (Android, iOS /  / )",
+          "title": "CoMaps"
         }
       ],
       "title": "Mobile Maps"
@@ -803,8 +821,8 @@
           "title": "Back Of Your Hand",
           "repo_info": {
             "archived": false,
-            "language": "Svelte",
-            "last_commit": "2026-02-14T01:04:43Z",
+            "language": "TypeScript",
+            "last_commit": "2026-02-14T20:15:33Z",
             "owner": "adam-lynch",
             "repo": "back-of-your-hand",
             "stars": 98
@@ -830,11 +848,21 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-02-10T21:23:41Z",
+            "last_commit": "2026-02-14T21:17:09Z",
             "owner": "louis-e",
             "repo": "arnis",
-            "stars": 8302
+            "stars": 8303
           }
+        },
+        {
+          "children": [],
+          "description": "A geography game that uses Panoramax to challenge players in identifying locations worldwide from Panoramax images. ()",
+          "title": "PanoGuessr"
+        },
+        {
+          "children": [],
+          "description": "A geography game that serves as a FOSS alternative to GeoGuessr, using Panoramax imagery for location identification. ()",
+          "title": "PanoramaxGuessr"
         }
       ],
       "title": "Map Games"
@@ -867,10 +895,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-13T17:01:00Z",
+            "last_commit": "2026-02-14T18:29:31Z",
             "owner": "Project-OSRM",
             "repo": "osrm-backend",
-            "stars": 7476
+            "stars": 7475
           }
         },
         {
@@ -930,10 +958,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-13T11:52:28Z",
+            "last_commit": "2026-02-14T12:43:11Z",
             "owner": "Leaflet",
             "repo": "Leaflet",
-            "stars": 44490
+            "stars": 44496
           }
         },
         {
@@ -943,10 +971,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-11T15:42:22Z",
+            "last_commit": "2026-02-14T10:36:27Z",
             "owner": "openlayers",
             "repo": "openlayers",
-            "stars": 12325
+            "stars": 12326
           }
         },
         {
@@ -956,10 +984,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-13T16:38:37Z",
+            "last_commit": "2026-02-14T18:52:41Z",
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 9891
+            "stars": 9895
           }
         },
         {
@@ -1150,15 +1178,15 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-13T23:27:53Z",
+            "last_commit": "2026-02-14T21:34:49Z",
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6267
+            "stars": 6269
           }
         },
         {
           "children": [],
-          "description": "OSM2World is a converter that creates three-dimensional models of the world from OpenStreetMap data. It can be used as a stand-alone tool, on a server or as a library in Java programs. ( / )",
+          "description": "converter that creates three-dimensional models of the world from OpenStreetMap data. It can be used as a stand-alone tool, on a server or as a library in Java programs. ( / )",
           "title": "OSM2World",
           "repo_info": {
             "archived": false,
@@ -1241,6 +1269,29 @@
           "children": [],
           "description": "Free extracts of OSM features as GeoJSON, filtering on tags and bounding box. ()",
           "title": "Bunting Labs' OSM Extract API"
+        },
+        {
+          "children": [],
+          "description": "PostGIS-powered SQL API for OSM data. ()",
+          "title": "Postpass",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-12T23:43:38Z",
+            "owner": "woodpeck",
+            "repo": "postpass-ops",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
+          "description": "SPARQL API for OSM data. ()",
+          "title": "QLever"
+        },
+        {
+          "children": [],
+          "description": "SPARQL API for OSM data. ()",
+          "title": "Sophox"
         }
       ],
       "title": "Public APIs"
@@ -1267,7 +1318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-14T04:13:58.039Z",
+    "last_updated": "2026-02-15T04:26:02.792Z",
     "original_repository": "osmlab/awesome-openstreetmap",
     "source_repository": "v1nvn/enhansome-openstreetmap",
     "source_repository_description": null,
