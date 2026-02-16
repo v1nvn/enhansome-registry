@@ -40,7 +40,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-14T08:59:56Z",
+            "last_commit": "2026-02-15T20:48:57Z",
             "owner": "keploy",
             "repo": "keploy",
             "stars": 15672
@@ -129,7 +129,7 @@
             "last_commit": "2026-02-11T10:21:21Z",
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 14751
+            "stars": 14755
           }
         },
         {
@@ -147,11 +147,43 @@
             "last_commit": "2026-02-11T00:19:55Z",
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 27028
+            "stars": 27052
           }
         }
       ],
       "title": "Security Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.",
+          "title": "promptfoo",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-16T04:09:41Z",
+            "owner": "promptfoo",
+            "repo": "promptfoo",
+            "stars": 10467
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.",
+          "title": "voicetest",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-16T04:05:41Z",
+            "owner": "voicetestdev",
+            "repo": "voicetest",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "AI & LLM Testing"
     },
     {
       "description": "",
@@ -181,10 +213,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-13T18:04:58Z",
+            "last_commit": "2026-02-16T04:04:47Z",
             "owner": "wiremock",
             "repo": "wiremock",
-            "stars": 7131
+            "stars": 7134
           }
         }
       ],
@@ -272,10 +304,23 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-02-13T06:26:45Z",
+            "last_commit": "2026-02-15T15:14:26Z",
             "owner": "rubycdp",
             "repo": "ferrum",
-            "stars": 1973
+            "stars": 1975
+          }
+        },
+        {
+          "children": [],
+          "description": "AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.",
+          "title": "flutter-skill",
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-02-15T20:13:21Z",
+            "owner": "ai-dashboad",
+            "repo": "flutter-skill",
+            "stars": 11
           }
         },
         {
@@ -326,7 +371,7 @@
             "last_commit": "2026-02-13T11:41:19Z",
             "owner": "vitalets",
             "repo": "playwright-bdd",
-            "stars": 608
+            "stars": 610
           }
         },
         {
@@ -368,7 +413,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-13T03:03:16Z",
+            "last_commit": "2026-02-16T03:03:26Z",
             "owner": "kiwitcms",
             "repo": "Kiwi",
             "stars": 1163
@@ -384,7 +429,7 @@
             "last_commit": "2025-12-08T11:02:07Z",
             "owner": "TestLinkOpenSourceTRMS",
             "repo": "testlink-code",
-            "stars": 1576
+            "stars": 1577
           }
         },
         {
@@ -465,7 +510,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-02-15T01:52:24Z",
+            "last_commit": "2026-02-16T02:10:10Z",
             "owner": "foundry-rs",
             "repo": "foundry",
             "stars": 10116
@@ -515,7 +560,7 @@
             "last_commit": "2026-01-20T09:26:35Z",
             "owner": "kdeldycke",
             "repo": "awesome-falsehood",
-            "stars": 27043
+            "stars": 27045
           }
         },
         {
@@ -528,7 +573,7 @@
             "last_commit": "2024-04-18T03:26:59Z",
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47576
+            "stars": 47575
           }
         },
         {
@@ -560,7 +605,7 @@
             "last_commit": "2026-01-28T14:08:49Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 437495
+            "stars": 437720
           }
         },
         {
@@ -573,7 +618,7 @@
             "last_commit": "2025-05-10T22:50:40Z",
             "owner": "karlhorky",
             "repo": "learn-to-program",
-            "stars": 4682
+            "stars": 4684
           }
         },
         {
@@ -586,7 +631,7 @@
             "last_commit": "2025-02-22T16:39:11Z",
             "owner": "paragonie",
             "repo": "awesome-appsec",
-            "stars": 6825
+            "stars": 6826
           }
         },
         {
@@ -612,7 +657,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 13986
+            "stars": 14002
           }
         },
         {
@@ -687,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-15T04:16:28.288Z",
+    "last_updated": "2026-02-16T04:19:51.121Z",
     "original_repository": "TheJambo/awesome-testing",
     "source_repository": "v1nvn/enhansome-testing",
     "source_repository_description": null,
