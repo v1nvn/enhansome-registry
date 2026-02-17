@@ -43,12 +43,68 @@
           }
         }
       ],
-      "title": "Frameworks"
+      "title": "Library Collections"
     },
     {
       "description": "",
       "items": [],
       "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Complete scripting platform with JavaScript-like syntax, native Office ecosystem integration, classes with inheritance, professional debugging, zero dependencies, and VS Code extension.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "VBA",
+            "last_commit": "2026-02-17T03:33:00Z",
+            "owner": "ECP-Solutions",
+            "repo": "ASF",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
+          "description": "Use C# from VBA using the .NET CLR runtime.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "VBA",
+            "last_commit": "2023-02-12T08:29:31Z",
+            "owner": "jet2jet",
+            "repo": "vb2clr",
+            "stars": 31
+          }
+        },
+        {
+          "children": [],
+          "description": "A powerful string expression evaluator focussed on mathematics and data processing.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "VBA",
+            "last_commit": "2026-02-12T13:44:48Z",
+            "owner": "ECP-Solutions",
+            "repo": "VBA-Expressions",
+            "stars": 44
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "In  find  - Full programming language including object manipulation, call stack, etc.",
+              "title": ""
+            }
+          ],
+          "description": "From Library Collections:",
+          "title": "From Library Collections:"
+        }
+      ],
+      "title": "Embedded programming languages"
     },
     {
       "description": "",
@@ -81,7 +137,7 @@
             "last_commit": "2024-03-14T16:29:13Z",
             "owner": "VBA-tools",
             "repo": "VBA-JSON",
-            "stars": 2080
+            "stars": 2082
           }
         },
         {
@@ -102,8 +158,8 @@
               "title": ""
             }
           ],
-          "description": "From Frameworks:",
-          "title": "From Frameworks:"
+          "description": "From Library Collections:",
+          "title": "From Library Collections:"
         }
       ],
       "title": "JSON"
@@ -210,8 +266,8 @@
               "title": ""
             }
           ],
-          "description": "From Frameworks:",
-          "title": "From Frameworks:"
+          "description": "From Library Collections:",
+          "title": "From Library Collections:"
         }
       ],
       "title": "Dictionary"
@@ -544,19 +600,6 @@
           }
         },
         {
-          "children": [],
-          "description": "Use C# from VBA using the .NET CLR runtime.",
-          "title": "",
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2023-02-12T08:29:31Z",
-            "owner": "jet2jet",
-            "repo": "vb2clr",
-            "stars": 31
-          }
-        },
-        {
           "children": [
             {
               "children": [],
@@ -569,8 +612,8 @@
               "title": ""
             }
           ],
-          "description": "From Frameworks:",
-          "title": "From Frameworks:"
+          "description": "From Library Collections:",
+          "title": "From Library Collections:"
         }
       ],
       "title": "Low level tools"
@@ -578,19 +621,6 @@
     {
       "description": "",
       "items": [
-        {
-          "children": [],
-          "description": "Full featured scripting language and runtime with C-like syntax, closures, FFI for VBA calls and native regex support.",
-          "title": "",
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2026-02-15T11:12:21Z",
-            "owner": "ECP-Solutions",
-            "repo": "ASF",
-            "stars": 26
-          }
-        },
         {
           "children": [],
           "description": "A native regex expression parser and runtime engine.",
@@ -624,19 +654,6 @@
         },
         {
           "children": [],
-          "description": "A powerful string expression evaluator focussed on mathematics and data processing.",
-          "title": "",
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2026-02-12T13:44:48Z",
-            "owner": "ws-garcia",
-            "repo": "VBA-Expressions",
-            "stars": 44
-          }
-        },
-        {
-          "children": [],
           "description": "Execute OpenCL from VBA, using either the GPU or CPU.",
           "title": "",
           "repo_info": {
@@ -647,17 +664,6 @@
             "repo": "ClooWrapperVBA",
             "stars": 17
           }
-        },
-        {
-          "children": [
-            {
-              "children": [],
-              "description": "In  find  - Full programming language including object manipulation, call stack, etc.",
-              "title": ""
-            }
-          ],
-          "description": "From Frameworks:",
-          "title": "From Frameworks:"
         }
       ],
       "title": "Parsers / Interpreters"
@@ -675,7 +681,7 @@
             "last_commit": "2024-03-14T10:17:52Z",
             "owner": "VBA-tools",
             "repo": "VBA-Web",
-            "stars": 2117
+            "stars": 2118
           }
         },
         {
@@ -764,8 +770,8 @@
               "title": ""
             }
           ],
-          "description": "From Frameworks:",
-          "title": "From Frameworks:"
+          "description": "From Library Collections:",
+          "title": "From Library Collections:"
         }
       ],
       "title": "Web tools"
@@ -985,7 +991,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3286
+            "stars": 3288
           }
         },
         {
@@ -1000,7 +1006,7 @@
           "repo_info": {
             "archived": false,
             "language": "VBA",
-            "last_commit": "2026-02-03T19:39:52Z",
+            "last_commit": "2026-02-16T11:42:52Z",
             "owner": "serkonda7",
             "repo": "vscode-vba",
             "stars": 55
@@ -1107,7 +1113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-16T04:25:20.584Z",
+    "last_updated": "2026-02-17T04:20:22.569Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
