@@ -673,6 +673,38 @@
       "items": [
         {
           "children": [],
+          "description": "A key/value store where pairs can expire after a specified interval",
+          "title": "cache",
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-01-07T19:34:25Z",
+            "owner": "crystal-cache",
+            "repo": "cache",
+            "stars": 49
+          }
+        },
+        {
+          "children": [],
+          "description": "Implementation of a memcached client",
+          "title": "crystal-memcached",
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-08-31T16:24:45Z",
+            "owner": "comandeo",
+            "repo": "crystal-memcached",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Caching"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
           "description": "A robust DSL for writing command line interfaces",
           "title": "admiral",
           "repo_info": {
@@ -848,7 +880,7 @@
             "last_commit": "2026-02-07T14:02:00Z",
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3293
+            "stars": 3299
           }
         },
         {
@@ -1489,7 +1521,7 @@
             "last_commit": "2020-02-25T05:49:27Z",
             "owner": "wontruefree",
             "repo": "prime",
-            "stars": 2
+            "stars": 3
           }
         }
       ],
@@ -2361,7 +2393,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-02-17T19:02:11Z",
+            "last_commit": "2026-02-19T16:06:52Z",
             "owner": "cable-cr",
             "repo": "cable",
             "stars": 131
@@ -3302,7 +3334,7 @@
             "last_commit": "2025-12-07T10:44:58Z",
             "owner": "naqvis",
             "repo": "cr-xmpp",
-            "stars": 16
+            "stars": 17
           }
         },
         {
@@ -3625,6 +3657,19 @@
         },
         {
           "children": [],
+          "description": "Advanced PostgreSQL ORM with ActiveRecord pattern, full-text search, geometry types, and more",
+          "title": "lustra",
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-02-19T12:34:35Z",
+            "owner": "crystal-garage",
+            "repo": "lustra",
+            "stars": 22
+          }
+        },
+        {
+          "children": [],
           "description": "ORM for RethinkDB / RebirthDB",
           "title": "rethinkdb-orm",
           "repo_info": {
@@ -3791,7 +3836,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-02-19T00:57:54Z",
+            "last_commit": "2026-02-19T14:38:47Z",
             "owner": "mosquito-cr",
             "repo": "mosquito",
             "stars": 238
@@ -3931,7 +3976,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2024-01-11T10:39:31Z",
+            "last_commit": "2026-02-19T18:17:18Z",
             "owner": "konovod",
             "repo": "linalg",
             "stars": 52
@@ -3989,7 +4034,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-02-18T15:51:39Z",
+            "last_commit": "2026-02-19T05:15:36Z",
             "owner": "hahwul",
             "repo": "cyclonedx-cr",
             "stars": 4
@@ -4002,7 +4047,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-02-19T01:32:28Z",
+            "last_commit": "2026-02-19T11:47:06Z",
             "owner": "owasp-noir",
             "repo": "noir",
             "stars": 1102
@@ -5296,7 +5341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-19T04:11:54.171Z",
+    "last_updated": "2026-02-20T04:07:38.871Z",
     "original_repository": "veelenga/awesome-crystal",
     "source_repository": "v1nvn/enhansome-crystal",
     "source_repository_description": null,
