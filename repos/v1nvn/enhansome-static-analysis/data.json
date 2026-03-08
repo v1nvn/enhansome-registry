@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vim Script",
-            "last_commit": "2026-02-17T20:28:20Z",
-            "owner": "w0rp",
+            "last_commit": "2026-02-28T09:39:35Z",
+            "owner": "dense-analysis",
             "repo": "ale",
-            "stars": 13966
+            "stars": 13980
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-02-17T17:51:17Z",
             "owner": "microsoft",
             "repo": "ApplicationInspector",
-            "stars": 4383
+            "stars": 4386
           }
         },
         {
@@ -91,10 +91,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-20T15:40:49Z",
-            "owner": "bearer",
+            "last_commit": "2026-03-06T13:30:48Z",
+            "owner": "Bearer",
             "repo": "bearer",
-            "stars": 2566
+            "stars": 2588
           }
         },
         {
@@ -119,7 +119,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-02-17T17:59:43Z",
+            "last_commit": "2026-03-02T17:55:41Z",
             "owner": "mennanov",
             "repo": "blockwatch",
             "stars": 22
@@ -140,7 +140,7 @@
             "last_commit": "2024-11-20T02:51:11Z",
             "owner": "koknat",
             "repo": "callGraph",
-            "stars": 325
+            "stars": 326
           }
         },
         {
@@ -163,7 +163,7 @@
             "last_commit": "2025-10-10T10:05:26Z",
             "owner": "classgraph",
             "repo": "classgraph",
-            "stars": 2959
+            "stars": 2964
           }
         },
         {
@@ -218,11 +218,6 @@
         },
         {
           "children": [],
-          "description": "copyright: — CodeIt.Right™ provides a fast, automated way to ensure that your source code adheres to (your) predefined design and style guidelines as well as best coding practices.",
-          "title": "CodeIt.Right"
-        },
-        {
-          "children": [],
           "description": "Codemodder is a pluggable framework for building expressive codemods. Use Codemodder when you need more than a linter or code formatting tool. Use it to fix non-trivial security issues and other code quality problems.",
           "title": "Codemodder"
         },
@@ -233,10 +228,10 @@
           "repo_info": {
             "archived": false,
             "language": "CodeQL",
-            "last_commit": "2026-02-20T18:31:51Z",
+            "last_commit": "2026-03-06T20:48:12Z",
             "owner": "github",
             "repo": "codeql",
-            "stars": 9252
+            "stars": 9296
           }
         },
         {
@@ -326,10 +321,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-10T13:27:06Z",
+            "last_commit": "2026-02-23T07:35:15Z",
             "owner": "multilang-depends",
             "repo": "depends",
-            "stars": 243
+            "stars": 246
           }
         },
         {
@@ -344,9 +339,9 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-02-17T17:02:09Z",
+            "last_commit": "2026-03-04T21:37:15Z",
             "owner": "microsoft",
-            "repo": "devskim",
+            "repo": "DevSkim",
             "stars": 973
           }
         },
@@ -357,10 +352,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-02-16T17:53:51Z",
+            "last_commit": "2026-02-25T02:37:02Z",
             "owner": "dotnet",
             "repo": "format",
-            "stars": 1947
+            "stars": 1946
           }
         },
         {
@@ -385,10 +380,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-21T01:30:33Z",
+            "last_commit": "2026-03-07T07:55:59Z",
             "owner": "eslint",
             "repo": "eslint",
-            "stars": 27066
+            "stars": 27177
           }
         },
         {
@@ -479,15 +474,7 @@
         {
           "children": [],
           "description": "Automated translation platform for code comments and docstrings across 20+ file types. Eliminates language barriers in international software collaboration. Supports 100+ language pairs with syntax protection. Integrates into CI/CD pipelines like Ruff. 10-20x faster with concurrent processing.",
-          "title": "LangLint",
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-12-17T03:37:47Z",
-            "owner": "HzaCode",
-            "repo": "Langlint",
-            "stars": 32
-          }
+          "title": "LangLint"
         },
         {
           "children": [],
@@ -501,10 +488,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-03T09:50:26Z",
+            "last_commit": "2026-03-02T07:11:37Z",
             "owner": "terryyin",
             "repo": "lizard",
-            "stars": 2272
+            "stars": 2284
           }
         },
         {
@@ -524,8 +511,13 @@
         },
         {
           "children": [],
-          "description": "warning: — A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C.",
-          "title": "oclint :warning: — A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C."
+          "description": "Deterministic code transformation tool using AST parsing and rule-based transformations.\nAutomatically fixes 50+ issues including accessibility violations, hydration errors,\nReact 19/Next.js 16 migrations, and configuration updates. Features 5-step fail-safe\norchestration to ensure zero breaking changes. Specialized for React, Next.js, and TypeScript projects.",
+          "title": "Neurolint-CLI"
+        },
+        {
+          "children": [],
+          "description": "A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C.",
+          "title": "oclint"
         },
         {
           "children": [],
@@ -557,10 +549,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-02-21T03:41:21Z",
-            "owner": "web-infra-dev",
+            "last_commit": "2026-03-08T04:01:38Z",
+            "owner": "oxc-project",
             "repo": "oxc",
-            "stars": 19114
+            "stars": 19736
           }
         },
         {
@@ -578,7 +570,7 @@
             "last_commit": "2019-03-27T23:04:23Z",
             "owner": "facebookarchive",
             "repo": "pfff",
-            "stars": 2439
+            "stars": 2438
           }
         },
         {
@@ -613,10 +605,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-02-09T04:34:54Z",
+            "last_commit": "2026-03-02T04:29:30Z",
             "owner": "prontolabs",
             "repo": "pronto",
-            "stars": 2658
+            "stars": 2661
           }
         },
         {
@@ -631,7 +623,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-20T18:40:51Z",
+            "last_commit": "2026-03-07T22:47:51Z",
             "owner": "coderaiser",
             "repo": "putout",
             "stars": 782
@@ -672,7 +664,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2025-12-15T15:28:58Z",
+            "last_commit": "2026-03-02T16:23:05Z",
             "owner": "codingjoe",
             "repo": "relint",
             "stars": 65
@@ -690,10 +682,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-19T20:07:09Z",
+            "last_commit": "2026-03-07T15:07:32Z",
             "owner": "jayu",
             "repo": "rev-dep",
-            "stars": 36
+            "stars": 211
           }
         },
         {
@@ -708,10 +700,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-02-18T17:56:32Z",
+            "last_commit": "2026-03-04T02:16:53Z",
             "owner": "dotnet",
             "repo": "roslyn-analyzers",
-            "stars": 1669
+            "stars": 1670
           }
         },
         {
@@ -773,6 +765,19 @@
           "children": [],
           "description": "A tool that finds similarities between or within files to support you encountering DRY principle violations.",
           "title": "Similarity Tester"
+        },
+        {
+          "children": [],
+          "description": "Dead code detection, security scanning, secrets detection, and code quality analysis for Python, TypeScript, and Go. Framework-aware analysis with 98% recall. Includes CI/CD GitHub Action, VS Code extension, and MCP server for AI agent integration.",
+          "title": "Skylos",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-08T02:20:13Z",
+            "owner": "duriantaco",
+            "repo": "skylos",
+            "stars": 327
+          }
         },
         {
           "children": [],
@@ -859,10 +864,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-01-08T17:51:41Z",
+            "last_commit": "2026-03-08T03:35:58Z",
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5234
+            "stars": 5236
           }
         },
         {
@@ -873,9 +878,9 @@
             "archived": false,
             "language": "Go",
             "last_commit": "2025-08-02T10:09:40Z",
-            "owner": "preslavmihaylov",
+            "owner": "presmihaylov",
             "repo": "todocheck",
-            "stars": 436
+            "stars": 435
           }
         },
         {
@@ -885,10 +890,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-20T06:23:54Z",
+            "last_commit": "2026-03-06T06:42:06Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 32117
+            "stars": 33012
           }
         },
         {
@@ -906,7 +911,7 @@
             "last_commit": "2023-12-25T08:33:11Z",
             "owner": "Tencent",
             "repo": "TscanCode",
-            "stars": 2112
+            "stars": 2114
           }
         },
         {
@@ -917,7 +922,7 @@
             "archived": true,
             "language": "Python",
             "last_commit": "2021-04-05T13:44:46Z",
-            "owner": "Yelp",
+            "owner": "YelpArchive",
             "repo": "undebt",
             "stars": 1627
           }
@@ -949,10 +954,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-03T02:46:35Z",
+            "last_commit": "2026-03-06T03:18:00Z",
             "owner": "wala",
             "repo": "WALA",
-            "stars": 834
+            "stars": 837
           }
         },
         {
@@ -963,9 +968,9 @@
             "archived": false,
             "language": "Rust",
             "last_commit": "2024-07-12T16:50:14Z",
-            "owner": "googleprojectzero",
+            "owner": "weggli-rs",
             "repo": "weggli",
-            "stars": 2477
+            "stars": 2482
           }
         },
         {
@@ -1011,10 +1016,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-13T18:59:57Z",
+            "last_commit": "2026-02-25T22:05:55Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6721
+            "stars": 6730
           }
         },
         {
@@ -1045,8 +1050,13 @@
             "last_commit": "2025-01-28T07:15:33Z",
             "owner": "exakat",
             "repo": "php-static-analysis-tools",
-            "stars": 2868
+            "stars": 2871
           }
+        },
+        {
+          "children": [],
+          "description": "Independent comparison of 30+ static analysis security testing tools with features, pricing, and alternatives",
+          "title": "AppSec Santa — SAST Tools"
         },
         {
           "children": [],
@@ -1063,10 +1073,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-21T04:14:09.937Z",
+    "last_updated": "2026-03-08T04:16:42.654Z",
     "original_repository": "analysis-tools-dev/static-analysis",
     "source_repository": "v1nvn/enhansome-static-analysis",
     "source_repository_description": null,
-    "title": "Untitled"
+    "title": "Awesome enhansome static analysis"
   }
 }

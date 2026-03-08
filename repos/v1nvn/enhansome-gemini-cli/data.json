@@ -10,15 +10,41 @@
       "items": [
         {
           "children": [],
+          "description": "Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.",
+          "title": "BGPT MCP",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-24T18:23:28Z",
+            "owner": "connerlambden",
+            "repo": "bgpt-mcp",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Let AI agents message, watch, and spawn each other across terminals. First-class Gemini CLI support with hooks integration and PTY wrapper. Also works with Claude Code, Codex, and OpenCode.",
+          "title": "hcom",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-05T14:29:51Z",
+            "owner": "aannoo",
+            "repo": "hcom",
+            "stars": 112
+          }
+        },
+        {
+          "children": [],
           "description": "A unified AI-powered CLI tool for automating GitHub repository management (issues, PRs, topics, profiles) powered by Gemini 3 and Gemma 3.  ()",
           "title": "Git-Alchemist",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-13T09:37:44Z",
+            "last_commit": "2026-02-24T07:58:47Z",
             "owner": "abduznik",
             "repo": "Git-Alchemist",
-            "stars": 4
+            "stars": 22
           }
         },
         {
@@ -28,10 +54,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-10T16:17:48Z",
+            "last_commit": "2026-02-21T04:12:04Z",
             "owner": "stevenAthompson",
             "repo": "self-command",
-            "stars": 14
+            "stars": 17
           }
         },
         {
@@ -44,59 +70,7 @@
             "last_commit": "2026-02-13T19:09:53Z",
             "owner": "thoreinstein",
             "repo": "gemini-notifier",
-            "stars": 10
-          }
-        },
-        {
-          "children": [],
-          "description": "Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, Codex, and Gemini CLI with automatic format conversion (JSON ↔ TOML ↔ JSONC).",
-          "title": "vsync",
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-27T03:27:42Z",
-            "owner": "nicepkg",
-            "repo": "vsync",
-            "stars": 22
-          }
-        },
-        {
-          "children": [],
-          "description": "This extension transforms the Gemini CLI into \"Pickle Rick,\" a hyper-intelligent, arrogant, yet extremely competent engineering persona. It enforces a rigid, iterative software development lifecycle through continuous AI agent loops.",
-          "title": "Pickle Rick",
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-13T19:26:22Z",
-            "owner": "galz10",
-            "repo": "pickle-rick-extension",
-            "stars": 384
-          }
-        },
-        {
-          "children": [],
-          "description": "Git-backed persistent memory and task management for Gemini CLI.",
-          "title": "gemini-beads",
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-01-31T20:52:19Z",
-            "owner": "thoreinstein",
-            "repo": "gemini-beads",
-            "stars": 14
-          }
-        },
-        {
-          "children": [],
-          "description": "Open source CLI for AI agent coordination that organizes agents into domain-aligned squads with persistent memory, goal tracking, and Git-native state.  Works with Gemini CLI.",
-          "title": "Agent Squads",
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-21T01:33:13Z",
-            "owner": "agents-squads",
-            "repo": "squads-cli",
-            "stars": 27
+            "stars": 13
           }
         }
       ],
@@ -112,10 +86,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-21T03:31:40Z",
+            "last_commit": "2026-03-08T04:01:58Z",
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 95108
+            "stars": 96831
           }
         },
         {
@@ -125,10 +99,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-02-19T16:11:25Z",
+            "last_commit": "2026-03-05T09:29:30Z",
             "owner": "google-gemini",
             "repo": "cookbook",
-            "stars": 16520
+            "stars": 16671
           }
         },
         {
@@ -138,10 +112,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-18T17:10:16Z",
+            "last_commit": "2026-03-06T17:43:33Z",
             "owner": "google-github-actions",
             "repo": "run-gemini-cli",
-            "stars": 1782
+            "stars": 1836
           }
         }
       ],
@@ -157,10 +131,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-01-24T16:39:47Z",
+            "last_commit": "2026-03-08T00:16:05Z",
             "owner": "Piebald-AI",
-            "repo": "gemini-CLI-desktop",
-            "stars": 267
+            "repo": "gemini-cli-desktop",
+            "stars": 299
           }
         },
         {
@@ -170,10 +144,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-21T02:35:44Z",
+            "last_commit": "2026-03-07T15:22:03Z",
             "owner": "iOfficeAI",
             "repo": "AionUi",
-            "stars": 16729
+            "stars": 18149
           }
         }
       ],
@@ -189,10 +163,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-21T01:42:06Z",
+            "last_commit": "2026-03-08T02:44:58Z",
             "owner": "vybestack",
             "repo": "llxprt-code",
-            "stars": 634
+            "stars": 643
           }
         },
         {
@@ -202,10 +176,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-01-05T04:30:11Z",
+            "last_commit": "2026-03-02T06:59:23Z",
             "owner": "iflow-ai",
             "repo": "iflow-cli",
-            "stars": 4610
+            "stars": 4937
           }
         },
         {
@@ -215,14 +189,46 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-21T00:19:07Z",
+            "last_commit": "2026-03-08T00:23:56Z",
             "owner": "QwenLM",
             "repo": "qwen-code",
-            "stars": 19126
+            "stars": 20150
           }
         }
       ],
       "title": "Forks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Let AI agents message, watch, and spawn each other across terminals. First-class Gemini CLI support with hooks integration and PTY wrapper. Also works with Claude Code, Codex, and OpenCode.",
+          "title": "hcom",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-05T14:29:51Z",
+            "owner": "aannoo",
+            "repo": "hcom",
+            "stars": 112
+          }
+        },
+        {
+          "children": [],
+          "description": "Open source CLI for AI agent coordination that organizes agents into domain-aligned squads with persistent memory, goal tracking, and Git-native state.  Works with Gemini CLI.",
+          "title": "squads-cli",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-08T03:07:58Z",
+            "owner": "agents-squads",
+            "repo": "squads-cli",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Agent Orchestration & CLI Tools"
     },
     {
       "description": "Tools that enhance your development workflow when using Gemini CLI.",
@@ -234,10 +240,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-02-21T04:05:39Z",
-            "owner": "avifenesh",
+            "last_commit": "2026-03-07T12:46:45Z",
+            "owner": "agent-sh",
             "repo": "agnix",
-            "stars": 49
+            "stars": 80
           }
         },
         {
@@ -247,10 +253,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-10T16:17:48Z",
+            "last_commit": "2026-02-21T04:12:04Z",
             "owner": "stevenAthompson",
             "repo": "self-command",
-            "stars": 14
+            "stars": 17
           }
         },
         {
@@ -263,7 +269,7 @@
             "last_commit": "2026-01-27T03:27:42Z",
             "owner": "nicepkg",
             "repo": "vsync",
-            "stars": 22
+            "stars": 28
           }
         },
         {
@@ -291,10 +297,10 @@
           "repo_info": {
             "archived": false,
             "language": "Makefile",
-            "last_commit": "2026-02-18T16:24:44Z",
+            "last_commit": "2026-03-02T21:56:25Z",
             "owner": "tgagor",
             "repo": "docker-gemini-cli",
-            "stars": 9
+            "stars": 12
           }
         },
         {
@@ -304,10 +310,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-21T02:13:20Z",
+            "last_commit": "2026-03-08T03:31:20Z",
             "owner": "dyoshikawa",
             "repo": "rulesync",
-            "stars": 811
+            "stars": 858
           }
         },
         {
@@ -317,10 +323,10 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-02-21T03:13:25Z",
+            "last_commit": "2026-03-08T03:40:39Z",
             "owner": "numtide",
-            "repo": "nix-ai-tools",
-            "stars": 657
+            "repo": "llm-agents.nix",
+            "stars": 773
           }
         },
         {
@@ -330,10 +336,23 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-02-21T01:03:41Z",
+            "last_commit": "2026-03-01T18:05:37Z",
             "owner": "BA-CalderonMorales",
             "repo": "terminal-jarvis",
-            "stars": 120
+            "stars": 122
+          }
+        },
+        {
+          "children": [],
+          "description": "Generate AI coding rules from your actual codebase using Google Gemini. Feeds source files into Gemini's 1M token context window and produces project-specific rules. Supports Cursor (.mdc), Claude Code (CLAUDE.md), Copilot, and Windsurf output formats. Zero dependencies.",
+          "title": "rule-gen",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-06T02:08:56Z",
+            "owner": "nedcodes-ok",
+            "repo": "rule-gen",
+            "stars": 3
           }
         },
         {
@@ -343,10 +362,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-02-18T22:32:41Z",
+            "last_commit": "2026-02-28T00:52:59Z",
             "owner": "Piebald-AI",
             "repo": "splitrail",
-            "stars": 115
+            "stars": 123
           }
         },
         {
@@ -356,10 +375,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-12T15:01:14Z",
+            "last_commit": "2026-03-08T03:34:48Z",
             "owner": "kbwo",
             "repo": "ccmanager",
-            "stars": 874
+            "stars": 923
           }
         },
         {
@@ -369,7 +388,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-20T15:53:52Z",
+            "last_commit": "2026-03-01T15:28:59Z",
             "owner": "Manamama",
             "repo": "Puzzles_for_AIs",
             "stars": 12
@@ -391,7 +410,7 @@
             "last_commit": "2025-09-30T14:55:35Z",
             "owner": "oneryalcin",
             "repo": "gemini-cli-sdk",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -404,7 +423,7 @@
             "last_commit": "2026-01-12T01:11:51Z",
             "owner": "ben-vargas",
             "repo": "ai-sdk-provider-gemini-cli",
-            "stars": 60
+            "stars": 64
           }
         }
       ],
@@ -423,7 +442,7 @@
             "last_commit": "2025-12-17T20:20:28Z",
             "owner": "gzzhongqi",
             "repo": "geminicli2api",
-            "stars": 515
+            "stars": 538
           }
         },
         {
@@ -436,7 +455,7 @@
             "last_commit": "2026-02-15T14:05:23Z",
             "owner": "print-yuhuan",
             "repo": "Gemini-CLI-Termux",
-            "stars": 152
+            "stars": 158
           }
         },
         {
@@ -449,7 +468,7 @@
             "last_commit": "2025-08-07T19:55:50Z",
             "owner": "Brioch",
             "repo": "gemini-openai-proxy",
-            "stars": 51
+            "stars": 52
           }
         },
         {
@@ -462,7 +481,7 @@
             "last_commit": "2026-02-09T02:47:57Z",
             "owner": "GewoonJaap",
             "repo": "gemini-cli-openai",
-            "stars": 841
+            "stars": 854
           }
         },
         {
@@ -472,7 +491,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2025-08-13T14:55:18Z",
+            "last_commit": "2026-02-24T12:43:51Z",
             "owner": "nettee",
             "repo": "gemini-cli-proxy",
             "stars": 132
@@ -493,7 +512,7 @@
             "last_commit": "2025-07-23T03:33:33Z",
             "owner": "Intelligent-Internet",
             "repo": "gemini-cli-mcp-openai-bridge",
-            "stars": 130
+            "stars": 132
           }
         }
       ],
@@ -512,7 +531,7 @@
             "last_commit": "2026-02-13T19:09:53Z",
             "owner": "thoreinstein",
             "repo": "gemini-notifier",
-            "stars": 10
+            "stars": 13
           }
         },
         {
@@ -522,10 +541,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-13T19:26:22Z",
+            "last_commit": "2026-02-24T18:48:17Z",
             "owner": "galz10",
             "repo": "pickle-rick-extension",
-            "stars": 384
+            "stars": 414
           }
         },
         {
@@ -535,10 +554,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-01-31T20:52:19Z",
+            "last_commit": "2026-02-25T23:49:14Z",
             "owner": "thoreinstein",
             "repo": "gemini-beads",
-            "stars": 14
+            "stars": 18
           }
         },
         {
@@ -548,10 +567,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-02-20T22:52:38Z",
+            "last_commit": "2026-03-06T22:01:50Z",
             "owner": "gemini-cli-extensions",
             "repo": "conductor",
-            "stars": 2767
+            "stars": 3072
           }
         },
         {
@@ -564,7 +583,7 @@
             "last_commit": "2025-10-14T18:50:53Z",
             "owner": "automateyournetwork",
             "repo": "GeminiCLI_Listen_Extension",
-            "stars": 10
+            "stars": 12
           }
         },
         {
@@ -616,7 +635,7 @@
             "last_commit": "2025-11-17T15:53:39Z",
             "owner": "automateyournetwork",
             "repo": "GeminiCLI_Packet_Buddy_Extension",
-            "stars": 18
+            "stars": 19
           }
         },
         {
@@ -660,7 +679,7 @@
             "last_commit": "2025-07-31T22:05:46Z",
             "owner": "amitkmaraj",
             "repo": "gemini-cli-custom-slash-commands",
-            "stars": 153
+            "stars": 162
           }
         },
         {
@@ -673,7 +692,7 @@
             "last_commit": "2026-01-29T16:47:49Z",
             "owner": "clduab11",
             "repo": "gemini-flow",
-            "stars": 371
+            "stars": 373
           }
         }
       ],
@@ -684,6 +703,19 @@
       "items": [
         {
           "children": [],
+          "description": "Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.",
+          "title": "BGPT MCP",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-24T18:23:28Z",
+            "owner": "connerlambden",
+            "repo": "bgpt-mcp",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
           "description": "Bridges Gemini CLI with Google Workspace through Apps Script integration, automating document processing, spreadsheet manipulation, and workflow automation.",
           "title": "ToolsForMCPServer",
           "repo_info": {
@@ -692,7 +724,7 @@
             "last_commit": "2026-01-01T02:54:47Z",
             "owner": "tanaikech",
             "repo": "ToolsForMCPServer",
-            "stars": 96
+            "stars": 97
           }
         },
         {
@@ -705,7 +737,7 @@
             "last_commit": "2025-11-25T11:48:56Z",
             "owner": "jamubc",
             "repo": "gemini-mcp-tool",
-            "stars": 1994
+            "stars": 2037
           }
         },
         {
@@ -776,7 +808,7 @@
             "last_commit": "2026-02-08T18:49:59Z",
             "owner": "gutsavgupta",
             "repo": "nvim-gemini-companion",
-            "stars": 74
+            "stars": 77
           }
         },
         {
@@ -801,7 +833,7 @@
             "language": "Lua",
             "last_commit": "2026-02-09T08:23:20Z",
             "owner": "JunYang-tes",
-            "repo": "gemini-nvim",
+            "repo": "agents-parter.nvim",
             "stars": 6
           }
         }
@@ -834,7 +866,7 @@
             "last_commit": "2025-06-27T14:57:52Z",
             "owner": "Theopsguide",
             "repo": "gemini-code-flow",
-            "stars": 139
+            "stars": 145
           }
         },
         {
@@ -847,7 +879,7 @@
             "last_commit": "2025-07-31T04:07:59Z",
             "owner": "pauldatta",
             "repo": "gemini-cli-commands-demo",
-            "stars": 87
+            "stars": 88
           }
         }
       ],
@@ -866,7 +898,7 @@
             "last_commit": "2025-10-19T03:25:32Z",
             "owner": "addyosmani",
             "repo": "gemini-cli-tips",
-            "stars": 2223
+            "stars": 2250
           }
         },
         {
@@ -879,7 +911,7 @@
             "last_commit": "2025-07-27T16:33:32Z",
             "owner": "philschmid",
             "repo": "gemini-cli-extension",
-            "stars": 147
+            "stars": 146
           }
         },
         {
@@ -931,7 +963,7 @@
             "last_commit": "2025-07-29T21:16:37Z",
             "owner": "ptone",
             "repo": "cli-demo-cookbook",
-            "stars": 7
+            "stars": 8
           }
         }
       ],
@@ -944,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-21T04:07:27.398Z",
+    "last_updated": "2026-03-08T04:10:52.295Z",
     "original_repository": "Piebald-AI/awesome-gemini-cli",
     "source_repository": "v1nvn/enhansome-gemini-cli",
     "source_repository_description": null,

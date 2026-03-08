@@ -13,7 +13,7 @@
             "last_commit": "2022-03-19T17:13:11Z",
             "owner": "codenamecpp",
             "repo": "carnage3d",
-            "stars": 534
+            "stars": 538
           }
         },
         {
@@ -26,7 +26,7 @@
             "last_commit": "2024-03-27T15:44:58Z",
             "owner": "plowteam",
             "repo": "donut",
-            "stars": 459
+            "stars": 463
           }
         },
         {
@@ -39,7 +39,7 @@
             "last_commit": "2025-12-07T14:09:59Z",
             "owner": "JACoders",
             "repo": "OpenJK",
-            "stars": 2173
+            "stars": 2176
           }
         },
         {
@@ -49,10 +49,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2025-11-24T20:47:54Z",
+            "last_commit": "2026-03-06T11:33:54Z",
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 4954
+            "stars": 4966
           }
         },
         {
@@ -80,10 +80,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T14:27:35Z",
+            "last_commit": "2026-03-07T10:41:29Z",
             "owner": "turican0",
             "repo": "remc2",
-            "stars": 127
+            "stars": 128
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-05-26T10:08:17Z",
             "owner": "lethal-guitar",
             "repo": "RigelEngine",
-            "stars": 975
+            "stars": 976
           }
         },
         {
@@ -107,9 +107,9 @@
             "archived": false,
             "language": "C#",
             "last_commit": "2023-06-16T14:51:41Z",
-            "owner": "GTA-ASM",
+            "owner": "in0finite",
             "repo": "SanAndreasUnity",
-            "stars": 2518
+            "stars": 2525
           }
         },
         {
@@ -122,7 +122,7 @@
             "last_commit": "2022-02-03T17:20:35Z",
             "owner": "TOMB5",
             "repo": "TOMB5",
-            "stars": 509
+            "stars": 511
           }
         },
         {
@@ -132,10 +132,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-20T17:30:53Z",
+            "last_commit": "2026-03-07T20:46:45Z",
             "owner": "LostArtefacts",
-            "repo": "TR1X",
-            "stars": 849
+            "repo": "TRX",
+            "stars": 852
           }
         }
       ],
@@ -144,6 +144,116 @@
     {
       "description": "",
       "items": [
+        {
+          "children": [],
+          "description": "A remake of the original C64 classic The Detective Game for Nintendo DS.",
+          "title": "DetectiveDS",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-30T19:14:26Z",
+            "owner": "RustyPixelsUK",
+            "repo": "DetectiveDS",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Allows you to run certain classic graphical point-and-click adventure games such Maniac Mansion and Monkey Island.",
+          "title": "ScummVM",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-08T02:02:51Z",
+            "owner": "scummvm",
+            "repo": "scummvm",
+            "stars": 2653
+          }
+        },
+        {
+          "children": [],
+          "description": "A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React.",
+          "title": "lba2remake",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-06T16:37:42Z",
+            "owner": "LBALab",
+            "repo": "lba2remake",
+            "stars": 276
+          }
+        },
+        {
+          "children": [],
+          "description": "TwinEngine: a Little Big Adventure engine.",
+          "title": "twin-e",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-31T18:59:42Z",
+            "owner": "LBALab",
+            "repo": "twin-e",
+            "stars": 87
+          }
+        },
+        {
+          "children": [],
+          "description": "Time Commando Reimplementation",
+          "title": "timeco",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-13T15:56:55Z",
+            "owner": "LBALab",
+            "repo": "timeco",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
+          "description": "Little Big Adventure: Twinsen's Adventure Definitive Edition",
+          "title": "lba1-classic",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-11-28T23:11:23Z",
+            "owner": "LBALab",
+            "repo": "lba1-classic",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Little Big Adventure 2 engine source code.",
+          "title": "lba2-classic-community",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-04T15:54:01Z",
+            "owner": "LBALab",
+            "repo": "lba2-classic-community",
+            "stars": 87
+          }
+        }
+      ],
+      "title": "Adventure"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Remake of classic Atari 2600 game \"Acid Drop\".",
+          "title": "AcidDrop",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-02T08:41:21Z",
+            "owner": "lostjared",
+            "repo": "AcidDrop",
+            "stars": 1
+          }
+        },
         {
           "children": [],
           "description": "Open-source clone of Barbarian: The Ultimate Warrior.",
@@ -156,7 +266,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-14T05:05:10Z",
+            "last_commit": "2026-03-07T12:01:40Z",
             "owner": "cxong",
             "repo": "cdogs-sdl",
             "stars": 1026
@@ -169,10 +279,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-21T02:02:45Z",
+            "last_commit": "2026-03-08T02:41:23Z",
             "owner": "banteg",
             "repo": "crimson",
-            "stars": 121
+            "stars": 135
           }
         },
         {
@@ -198,7 +308,7 @@
             "last_commit": "2025-01-11T23:12:54Z",
             "owner": "openclonk",
             "repo": "openclonk",
-            "stars": 380
+            "stars": 382
           }
         },
         {
@@ -208,10 +318,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T00:07:07Z",
+            "last_commit": "2026-03-01T12:06:03Z",
             "owner": "AlisterT",
             "repo": "openjazz",
-            "stars": 372
+            "stars": 375
           }
         },
         {
@@ -229,6 +339,19 @@
         },
         {
           "children": [],
+          "description": "One Must Fall 2097 Remake.",
+          "title": "openomf",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-14T21:19:14Z",
+            "owner": "omf2097",
+            "repo": "openomf",
+            "stars": 448
+          }
+        },
+        {
+          "children": [],
           "description": "An open-source port of Tyrian from Turbo Pascal to C. :flower_playing_cards:",
           "title": "OpenTyrian",
           "repo_info": {
@@ -242,15 +365,41 @@
         },
         {
           "children": [],
+          "description": "C++ retro arcade remakes showcasing clean OOP design, game loops, collision systems, and state management.",
+          "title": "Retro-Arcade-Remakes",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-24T23:36:24Z",
+            "owner": "danywaked",
+            "repo": "Retro-Arcade-Remakes",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "2D Asteroids Style Game using MX2.",
+          "title": "SpaceRox.MX2",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-28T22:25:34Z",
+            "owner": "lostjared",
+            "repo": "SpaceRox.MX2",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
           "description": "Fan-made, open-source clone of the Touhou series. :flower_playing_cards:",
           "title": "Taisei",
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-19T05:32:09Z",
+            "last_commit": "2026-03-05T20:38:26Z",
             "owner": "taisei-project",
             "repo": "taisei",
-            "stars": 1494
+            "stars": 1504
           }
         },
         {
@@ -263,7 +412,7 @@
             "last_commit": "2024-01-21T12:35:26Z",
             "owner": "dpt",
             "repo": "The-Great-Escape-in-C",
-            "stars": 123
+            "stars": 124
           }
         },
         {
@@ -276,7 +425,20 @@
             "last_commit": "2024-12-14T00:25:51Z",
             "owner": "ArmageddonGames",
             "repo": "ZeldaClassic",
-            "stars": 29
+            "stars": 30
+          }
+        },
+        {
+          "children": [],
+          "description": "Warhawk DS remake of the C64 game Warhawk to the Nintendo DS in native assembler.",
+          "title": "WarhawkDS",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-01-30T19:13:56Z",
+            "owner": "RustyPixelsUK",
+            "repo": "WarhawkDS",
+            "stars": 1
           }
         }
       ],
@@ -292,10 +454,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-13T15:10:23Z",
+            "last_commit": "2026-03-01T20:17:46Z",
             "owner": "Aleph-One-Marathon",
             "repo": "alephone",
-            "stars": 746
+            "stars": 755
           }
         },
         {
@@ -321,7 +483,20 @@
             "last_commit": "2025-07-30T16:18:47Z",
             "owner": "xtreme8000",
             "repo": "BetterSpades",
-            "stars": 271
+            "stars": 272
+          }
+        },
+        {
+          "children": [],
+          "description": "Advanced and featureful Rise of the Triad source port for modern systems.",
+          "title": "Barrett",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-06T17:38:20Z",
+            "owner": "lunarmeadow",
+            "repo": "barrett",
+            "stars": 21
           }
         },
         {
@@ -334,7 +509,7 @@
             "last_commit": "2026-02-19T17:56:39Z",
             "owner": "bibendovsky",
             "repo": "bstone",
-            "stars": 344
+            "stars": 346
           }
         },
         {
@@ -344,10 +519,23 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T08:43:02Z",
+            "last_commit": "2026-03-07T07:44:09Z",
             "owner": "ArnoAnsems",
             "repo": "CatacombGL",
-            "stars": 177
+            "stars": 179
+          }
+        },
+        {
+          "children": [],
+          "description": "PanzerChasm\" is a free recreation of the game \"Chash: - The Rift\" by \"ActionForms\" using the original game data (CSM.BIN file).",
+          "title": "Chasm-Reverse",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-09T18:56:31Z",
+            "owner": "Panzerschrek",
+            "repo": "Chasm-Reverse",
+            "stars": 171
           }
         },
         {
@@ -360,7 +548,7 @@
             "last_commit": "2026-01-22T12:44:52Z",
             "owner": "chocolate-doom",
             "repo": "chocolate-doom",
-            "stars": 2270
+            "stars": 2275
           }
         },
         {
@@ -370,10 +558,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-15T19:39:22Z",
+            "last_commit": "2026-02-28T11:20:49Z",
             "owner": "Henrique194",
             "repo": "chocolate-quake",
-            "stars": 187
+            "stars": 189
           }
         },
         {
@@ -383,10 +571,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-17T12:28:45Z",
+            "last_commit": "2026-03-08T00:18:33Z",
             "owner": "ClassiCube",
             "repo": "ClassiCube",
-            "stars": 1911
+            "stars": 1931
           }
         },
         {
@@ -396,10 +584,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-01-30T22:35:29Z",
+            "last_commit": "2026-03-07T09:57:50Z",
             "owner": "fabiangreffrath",
             "repo": "crispy-doom",
-            "stars": 911
+            "stars": 914
           }
         },
         {
@@ -409,10 +597,23 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-15T01:16:06Z",
+            "last_commit": "2026-03-02T03:37:58Z",
             "owner": "dhewm",
             "repo": "dhewm3",
-            "stars": 2045
+            "stars": 2053
+          }
+        },
+        {
+          "children": [],
+          "description": "fork of the Doom 64 EX+ engine, Its main goal is to show what the Doom 64 engine would have looked like if it hadn't been limited by the N64 console.",
+          "title": "DOOM64-EX-Plus-Enhanced",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-24T06:33:40Z",
+            "owner": "Styd051",
+            "repo": "DOOM64-EX-Plus-Enhanced",
+            "stars": 35
           }
         },
         {
@@ -427,7 +628,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-21T01:48:21Z",
+            "last_commit": "2026-03-06T18:53:50Z",
             "owner": "bradharding",
             "repo": "doomretro",
             "stars": 751
@@ -443,7 +644,7 @@
             "last_commit": "2024-01-23T07:42:46Z",
             "owner": "skyjake",
             "repo": "Doomsday-Engine",
-            "stars": 291
+            "stars": 292
           }
         },
         {
@@ -453,7 +654,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-18T16:03:45Z",
+            "last_commit": "2026-02-27T10:36:49Z",
             "owner": "kraflab",
             "repo": "dsda-doom",
             "stars": 473
@@ -471,6 +672,19 @@
         },
         {
           "children": [],
+          "description": "Cross-Platform OpenGL Doom Source Port with powerful modding features.",
+          "title": "EDGE-classic",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-16T14:57:46Z",
+            "owner": "edge-classic",
+            "repo": "EDGE-classic",
+            "stars": 98
+          }
+        },
+        {
+          "children": [],
           "description": "Source port of Duke Nukem 3D and the BUILD Engine.",
           "title": "Eduke32"
         },
@@ -481,10 +695,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-19T20:33:33Z",
-            "owner": "ezQuake",
+            "last_commit": "2026-03-01T20:02:13Z",
+            "owner": "QW-Group",
             "repo": "ezquake-source",
-            "stars": 304
+            "stars": 343
           }
         },
         {
@@ -502,7 +716,7 @@
             "last_commit": "2025-12-06T15:49:58Z",
             "owner": "freedoom",
             "repo": "freedoom",
-            "stars": 1245
+            "stars": 1253
           }
         },
         {
@@ -517,6 +731,19 @@
         },
         {
           "children": [],
+          "description": "DOOM III/Quake 4/Prey(2006) GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/SeriousSam/Skin Deep on Android.",
+          "title": "idTech4A++ (Harmattan Edition)",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-06T11:14:13Z",
+            "owner": "glKarin",
+            "repo": "com.n0n3m4.diii4a",
+            "stars": 519
+          }
+        },
+        {
+          "children": [],
           "description": "The free software FPS engine that can be used to play Quake 3, or make your own game.",
           "title": "ioquake3",
           "repo_info": {
@@ -525,7 +752,7 @@
             "last_commit": "2026-02-12T02:55:36Z",
             "owner": "ioquake",
             "repo": "ioq3",
-            "stars": 2687
+            "stars": 2697
           }
         },
         {
@@ -538,7 +765,7 @@
             "last_commit": "2024-06-27T08:45:31Z",
             "owner": "iortcw",
             "repo": "iortcw",
-            "stars": 708
+            "stars": 714
           }
         },
         {
@@ -551,7 +778,46 @@
             "last_commit": "2026-02-04T19:52:47Z",
             "owner": "andrei-drexler",
             "repo": "ironwail",
-            "stars": 871
+            "stars": 897
+          }
+        },
+        {
+          "children": [],
+          "description": "Port of the 3D Realms game \"Shadow Warrior\".",
+          "title": "jfsw",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-25T09:14:22Z",
+            "owner": "jonof",
+            "repo": "jfsw",
+            "stars": 92
+          }
+        },
+        {
+          "children": [],
+          "description": "No-promises port of the Capstone Software game \"TekWar\".",
+          "title": "jftekwar",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-25T09:14:26Z",
+            "owner": "jonof",
+            "repo": "jftekwar",
+            "stars": 26
+          }
+        },
+        {
+          "children": [],
+          "description": "No-promises port of the Capstone Software game \"Witchaven\".",
+          "title": "jfwhaven",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-25T09:14:29Z",
+            "owner": "jonof",
+            "repo": "jfwhaven",
+            "stars": 25
           }
         },
         {
@@ -562,9 +828,9 @@
             "archived": false,
             "language": "C++",
             "last_commit": "2026-01-08T01:09:54Z",
-            "owner": "nukeykt",
+            "owner": "NBlood",
             "repo": "NBlood",
-            "stars": 748
+            "stars": 753
           }
         },
         {
@@ -574,10 +840,23 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-06T03:52:19Z",
+            "last_commit": "2026-02-28T17:33:55Z",
             "owner": "rohit-n",
             "repo": "NearChuckle",
             "stars": 41
+          }
+        },
+        {
+          "children": [],
+          "description": "Free software reconstruction of Chasm: The Rift game.",
+          "title": "OpenChasm",
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2014-01-13T13:44:52Z",
+            "owner": "alexey-lysiuk",
+            "repo": "OpenChasm",
+            "stars": 19
           }
         },
         {
@@ -587,10 +866,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-21T04:00:56Z",
+            "last_commit": "2026-03-06T20:50:52Z",
             "owner": "odamex",
             "repo": "odamex",
-            "stars": 256
+            "stars": 260
           }
         },
         {
@@ -600,10 +879,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-19T23:11:39Z",
+            "last_commit": "2026-03-05T23:57:56Z",
             "owner": "openmoh",
             "repo": "openmohaa",
-            "stars": 709
+            "stars": 716
           }
         },
         {
@@ -616,7 +895,7 @@
             "last_commit": "2024-06-06T23:14:52Z",
             "owner": "yvt",
             "repo": "openspades",
-            "stars": 1209
+            "stars": 1212
           }
         },
         {
@@ -626,16 +905,42 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-13T19:42:16Z",
+            "last_commit": "2026-02-28T13:39:57Z",
             "owner": "ec-",
             "repo": "Quake3e",
-            "stars": 1428
+            "stars": 1431
+          }
+        },
+        {
+          "children": [],
+          "description": "QuakeForge is descended from the original Quake engine as released by Id Software in December 1999, and can be used to play original Quake and QuakeWorld games and mods (including many modern mods).",
+          "title": "quakeforge",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-05T04:34:57Z",
+            "owner": "quakeforge",
+            "repo": "quakeforge",
+            "stars": 59
           }
         },
         {
           "children": [],
           "description": "A modern, cross-platform Quake game engine.",
           "title": "QuakeSpasm"
+        },
+        {
+          "children": [],
+          "description": "Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed.",
+          "title": "Raze",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-19T12:24:42Z",
+            "owner": "ZDoom",
+            "repo": "Raze",
+            "stars": 834
+          }
         },
         {
           "children": [],
@@ -647,7 +952,7 @@
             "last_commit": "2026-02-10T11:30:41Z",
             "owner": "RobertBeckebans",
             "repo": "RBDOOM-3-BFG",
-            "stars": 1755
+            "stars": 1760
           }
         },
         {
@@ -665,7 +970,20 @@
             "last_commit": "2026-01-14T00:22:09Z",
             "owner": "tx00100xt",
             "repo": "SeriousSamClassic-VK",
-            "stars": 147
+            "stars": 148
+          }
+        },
+        {
+          "children": [],
+          "description": "Serious Sam Alpha Remake open source project based.",
+          "title": "SeriousSamAlphaRemake",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-05T14:24:48Z",
+            "owner": "tx00100xt",
+            "repo": "SeriousSamAlphaRemake",
+            "stars": 31
           }
         },
         {
@@ -675,10 +993,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-21T01:41:36Z",
+            "last_commit": "2026-03-07T20:54:04Z",
             "owner": "dpjudas",
             "repo": "SurrealEngine",
-            "stars": 1020
+            "stars": 1024
           }
         },
         {
@@ -701,10 +1019,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T20:10:10Z",
+            "last_commit": "2026-03-07T12:15:36Z",
             "owner": "team-eternity",
             "repo": "eternity",
-            "stars": 261
+            "stars": 262
           }
         },
         {
@@ -717,7 +1035,7 @@
             "last_commit": "2026-02-10T20:21:11Z",
             "owner": "luciusDXL",
             "repo": "TheForceEngine",
-            "stars": 1111
+            "stars": 1113
           }
         },
         {
@@ -730,7 +1048,7 @@
             "last_commit": "2025-12-13T13:20:00Z",
             "owner": "libretro",
             "repo": "tyrquake",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -740,10 +1058,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-21T03:53:09Z",
+            "last_commit": "2026-03-07T22:59:12Z",
             "owner": "UZDoom",
             "repo": "UZDoom",
-            "stars": 1732
+            "stars": 1748
           }
         },
         {
@@ -753,10 +1071,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-20T19:05:59Z",
+            "last_commit": "2026-03-07T11:54:03Z",
             "owner": "Novum",
             "repo": "vkQuake",
-            "stars": 2147
+            "stars": 2161
           }
         },
         {
@@ -766,10 +1084,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-01-24T15:47:01Z",
+            "last_commit": "2026-03-05T19:21:20Z",
             "owner": "yquake2",
             "repo": "yquake2",
-            "stars": 959
+            "stars": 960
           }
         },
         {
@@ -793,7 +1111,7 @@
             "last_commit": "2020-12-31T18:52:48Z",
             "owner": "dginovker",
             "repo": "2006rebotted",
-            "stars": 33
+            "stars": 34
           }
         },
         {
@@ -818,10 +1136,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-02-09T01:55:31Z",
+            "last_commit": "2026-02-23T20:18:31Z",
             "owner": "riperiperi",
             "repo": "FreeSO",
-            "stars": 926
+            "stars": 930
           }
         },
         {
@@ -831,10 +1149,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-11T19:24:10Z",
+            "last_commit": "2026-03-05T13:51:20Z",
             "owner": "Meridian59",
             "repo": "Meridian59",
-            "stars": 476
+            "stars": 477
           }
         },
         {
@@ -854,10 +1172,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-17T17:30:12Z",
+            "last_commit": "2026-02-22T13:35:57Z",
             "owner": "2003scape",
             "repo": "rsc-c",
-            "stars": 113
+            "stars": 114
           }
         },
         {
@@ -867,10 +1185,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-20T01:42:53Z",
+            "last_commit": "2026-03-04T11:10:20Z",
             "owner": "runelite",
             "repo": "runelite",
-            "stars": 5292
+            "stars": 5313
           }
         },
         {
@@ -880,10 +1198,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-21T04:04:39Z",
+            "last_commit": "2026-03-07T18:31:52Z",
             "owner": "ryzom",
             "repo": "ryzomcore",
-            "stars": 416
+            "stars": 418
           }
         },
         {
@@ -893,10 +1211,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-02-21T00:34:19Z",
+            "last_commit": "2026-03-08T01:06:33Z",
             "owner": "space-wizards",
             "repo": "space-station-14",
-            "stars": 3523
+            "stars": 3541
           }
         },
         {
@@ -920,7 +1238,7 @@
             "last_commit": "2024-04-21T16:13:07Z",
             "owner": "AbyssEngine",
             "repo": "AbyssEngine",
-            "stars": 223
+            "stars": 226
           }
         },
         {
@@ -933,7 +1251,7 @@
             "last_commit": "2024-08-22T17:58:15Z",
             "owner": "arx",
             "repo": "ArxLibertatis",
-            "stars": 1037
+            "stars": 1038
           }
         },
         {
@@ -946,7 +1264,7 @@
             "last_commit": "2026-02-21T03:10:51Z",
             "owner": "TurningWheel",
             "repo": "Barony",
-            "stars": 640
+            "stars": 643
           }
         },
         {
@@ -972,7 +1290,7 @@
             "last_commit": "2025-10-05T01:34:39Z",
             "owner": "Interkarma",
             "repo": "daggerfall-unity",
-            "stars": 3303
+            "stars": 3330
           }
         },
         {
@@ -985,7 +1303,7 @@
             "last_commit": "2025-09-15T02:01:36Z",
             "owner": "diasurgical",
             "repo": "devilution",
-            "stars": 8951
+            "stars": 8955
           }
         },
         {
@@ -995,10 +1313,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T19:44:14Z",
+            "last_commit": "2026-03-04T22:50:05Z",
             "owner": "diasurgical",
-            "repo": "devilutionX",
-            "stars": 9341
+            "repo": "DevilutionX",
+            "stars": 9372
           }
         },
         {
@@ -1009,7 +1327,7 @@
             "archived": false,
             "language": "C++",
             "last_commit": "2025-07-21T21:48:21Z",
-            "owner": "dgengin",
+            "owner": "dgcor",
             "repo": "DGEngine",
             "stars": 271
           }
@@ -1021,10 +1339,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T04:32:48Z",
+            "last_commit": "2026-03-07T04:19:43Z",
             "owner": "exult",
             "repo": "exult",
-            "stars": 642
+            "stars": 645
           }
         },
         {
@@ -1037,7 +1355,7 @@
             "last_commit": "2023-01-05T21:09:54Z",
             "owner": "falltergeist",
             "repo": "falltergeist",
-            "stars": 886
+            "stars": 887
           }
         },
         {
@@ -1063,7 +1381,7 @@
             "last_commit": "2025-11-29T12:28:51Z",
             "owner": "nadult",
             "repo": "FreeFT",
-            "stars": 182
+            "stars": 183
           }
         },
         {
@@ -1073,10 +1391,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T22:50:55Z",
+            "last_commit": "2026-03-04T18:44:27Z",
             "owner": "gemrb",
             "repo": "gemrb",
-            "stars": 1157
+            "stars": 1162
           }
         },
         {
@@ -1086,10 +1404,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T11:39:30Z",
+            "last_commit": "2026-03-07T11:29:28Z",
             "owner": "OpenEnroth",
             "repo": "OpenEnroth",
-            "stars": 809
+            "stars": 816
           }
         },
         {
@@ -1099,10 +1417,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-19T22:17:33Z",
+            "last_commit": "2026-03-07T21:37:44Z",
             "owner": "Try",
             "repo": "OpenGothic",
-            "stars": 1448
+            "stars": 1473
           }
         },
         {
@@ -1112,10 +1430,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-18T21:33:58Z",
+            "last_commit": "2026-03-07T21:48:54Z",
             "owner": "OpenMW",
             "repo": "openmw",
-            "stars": 6184
+            "stars": 6213
           }
         },
         {
@@ -1128,7 +1446,7 @@
             "last_commit": "2024-11-23T12:04:40Z",
             "owner": "noxworld-dev",
             "repo": "opennox",
-            "stars": 17
+            "stars": 18
           }
         },
         {
@@ -1138,10 +1456,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-17T22:46:18Z",
+            "last_commit": "2026-03-07T20:16:29Z",
             "owner": "afritz1",
             "repo": "OpenTESArena",
-            "stars": 1301
+            "stars": 1305
           }
         },
         {
@@ -1153,8 +1471,8 @@
             "language": "C#",
             "last_commit": "2024-10-15T22:12:00Z",
             "owner": "MaKiPL",
-            "repo": "OpenVIII",
-            "stars": 677
+            "repo": "OpenVIII-monogame",
+            "stars": 678
           }
         },
         {
@@ -1167,7 +1485,7 @@
             "last_commit": "2020-05-29T13:32:50Z",
             "owner": "REGoth-project",
             "repo": "REGoth-bs",
-            "stars": 485
+            "stars": 486
           }
         },
         {
@@ -1180,7 +1498,7 @@
             "last_commit": "2025-01-13T06:57:44Z",
             "owner": "collinsmith",
             "repo": "riiablo",
-            "stars": 1064
+            "stars": 1066
           }
         },
         {
@@ -1190,10 +1508,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T00:52:11Z",
-            "owner": "phobos2077",
+            "last_commit": "2026-03-01T01:38:08Z",
+            "owner": "sfall-team",
             "repo": "sfall",
-            "stars": 407
+            "stars": 412
           }
         },
         {
@@ -1206,7 +1524,7 @@
             "last_commit": "2025-10-01T16:22:45Z",
             "owner": "Interrupt",
             "repo": "systemshock",
-            "stars": 886
+            "stars": 888
           }
         },
         {
@@ -1232,7 +1550,7 @@
             "last_commit": "2026-01-31T16:52:17Z",
             "owner": "hankmorgan",
             "repo": "UnderworldGodot",
-            "stars": 283
+            "stars": 286
           }
         },
         {
@@ -1263,7 +1581,7 @@
             "last_commit": "2023-12-27T23:15:02Z",
             "owner": "snesrev",
             "repo": "zelda3",
-            "stars": 4550
+            "stars": 4556
           }
         },
         {
@@ -1276,7 +1594,7 @@
             "last_commit": "2023-06-01T04:57:06Z",
             "owner": "vatbub",
             "repo": "zorkClone",
-            "stars": 17
+            "stars": 18
           }
         }
       ],
@@ -1292,10 +1610,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2025-09-17T12:25:19Z",
+            "last_commit": "2026-02-26T21:52:38Z",
             "owner": "AliveTeam",
             "repo": "alive_reversing",
-            "stars": 413
+            "stars": 414
           }
         },
         {
@@ -1308,7 +1626,7 @@
             "last_commit": "2026-01-31T13:17:04Z",
             "owner": "BanjoRecomp",
             "repo": "BanjoRecomp",
-            "stars": 1582
+            "stars": 1636
           }
         },
         {
@@ -1323,10 +1641,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-21T02:24:06Z",
+            "last_commit": "2026-03-05T03:36:58Z",
             "owner": "HarbourMasters",
             "repo": "Ghostship",
-            "stars": 400
+            "stars": 424
           }
         },
         {
@@ -1339,7 +1657,7 @@
             "last_commit": "2026-01-08T13:36:46Z",
             "owner": "deathkiller",
             "repo": "jazz2",
-            "stars": 539
+            "stars": 540
           }
         },
         {
@@ -1352,7 +1670,20 @@
             "last_commit": "2025-12-19T23:41:51Z",
             "owner": "b3dgs",
             "repo": "lionheart-remake",
-            "stars": 84
+            "stars": 85
+          }
+        },
+        {
+          "children": [],
+          "description": "A re-working of Manic Miner onto the DS using levels created for other official computer released versions.",
+          "title": "ManicMinerLL",
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-01-30T19:14:09Z",
+            "owner": "RustyPixelsUK",
+            "repo": "ManicMinerLL",
+            "stars": 3
           }
         },
         {
@@ -1362,10 +1693,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-01-20T20:23:43Z",
+            "last_commit": "2026-03-04T02:13:55Z",
             "owner": "nxengine",
             "repo": "nxengine-evo",
-            "stars": 526
+            "stars": 528
           }
         },
         {
@@ -1375,10 +1706,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2025-12-26T02:40:32Z",
+            "last_commit": "2026-03-07T09:02:03Z",
             "owner": "sulix",
             "repo": "omnispeak",
-            "stars": 305
+            "stars": 306
           }
         },
         {
@@ -1404,7 +1735,7 @@
             "last_commit": "2025-12-24T11:24:48Z",
             "owner": "NagyD",
             "repo": "SDLPoP",
-            "stars": 1225
+            "stars": 1232
           }
         },
         {
@@ -1428,7 +1759,7 @@
             "archived": false,
             "language": "C++",
             "last_commit": "2026-02-20T15:35:02Z",
-            "owner": "secretchronicles",
+            "owner": "Secretchronicles",
             "repo": "TSC",
             "stars": 220
           }
@@ -1440,10 +1771,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-16T21:09:54Z",
+            "last_commit": "2026-02-28T14:30:51Z",
             "owner": "hedge-dev",
             "repo": "UnleashedRecomp",
-            "stars": 4649
+            "stars": 4674
           }
         },
         {
@@ -1453,10 +1784,10 @@
           "repo_info": {
             "archived": false,
             "language": "ActionScript",
-            "last_commit": "2026-02-16T16:43:28Z",
+            "last_commit": "2026-02-26T01:32:55Z",
             "owner": "TerryCavanagh",
-            "repo": "vvvvvv",
-            "stars": 7916
+            "repo": "VVVVVV",
+            "stars": 7922
           }
         }
       ],
@@ -1475,7 +1806,20 @@
             "last_commit": "2024-06-17T13:36:46Z",
             "owner": "reburndev",
             "repo": "reburn3",
-            "stars": 150
+            "stars": 155
+          }
+        },
+        {
+          "children": [],
+          "description": "Open Source Engine / Death Rally [1996]",
+          "title": "dRally",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-07-26T08:56:53Z",
+            "owner": "urxp",
+            "repo": "dRally",
+            "stars": 70
           }
         },
         {
@@ -1488,7 +1832,46 @@
             "last_commit": "2021-09-10T11:37:12Z",
             "owner": "enriquesomolinos",
             "repo": "DreeRally",
-            "stars": 98
+            "stars": 99
+          }
+        },
+        {
+          "children": [],
+          "description": "Reverse engineering the 1997 game \"Carmageddon\"",
+          "title": "dethrace",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-05T08:20:12Z",
+            "owner": "dethrace-labs",
+            "repo": "dethrace",
+            "stars": 1097
+          }
+        },
+        {
+          "children": [],
+          "description": "Hi-Octane with level editor using Irrlicht engine.",
+          "title": "hi-octane202x",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-15T15:57:28Z",
+            "owner": "woalexan",
+            "repo": "hi-octane202x",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
+          "description": "Tools to inspect and modify levels of the game Hi-Octane by Bullfrog (1995).",
+          "title": "HiOctaneTools",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-02-12T18:12:30Z",
+            "owner": "movAX13h",
+            "repo": "HiOctaneTools",
+            "stars": 31
           }
         },
         {
@@ -1498,10 +1881,23 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T07:54:11Z",
+            "last_commit": "2026-02-21T16:35:36Z",
             "owner": "OpenNFS",
             "repo": "OpenNFS",
-            "stars": 755
+            "stars": 756
+          }
+        },
+        {
+          "children": [],
+          "description": "64-bit vesion of DOS game Tube (Bullfrog, 1994)",
+          "title": "tube64",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-07T20:38:51Z",
+            "owner": "rep-stosw",
+            "repo": "tube64",
+            "stars": 19
           }
         },
         {
@@ -1514,7 +1910,7 @@
             "last_commit": "2025-12-07T07:57:05Z",
             "owner": "KranX",
             "repo": "Vangers",
-            "stars": 717
+            "stars": 719
           }
         },
         {
@@ -1527,7 +1923,7 @@
             "last_commit": "2024-12-09T07:54:38Z",
             "owner": "kvark",
             "repo": "vange-rs",
-            "stars": 472
+            "stars": 473
           }
         },
         {
@@ -1540,7 +1936,20 @@
             "last_commit": "2026-02-20T20:19:56Z",
             "owner": "phoboslab",
             "repo": "wipeout-rewrite",
-            "stars": 2875
+            "stars": 2890
+          }
+        },
+        {
+          "children": [],
+          "description": "Reverse engineered Hard Truck Apocalypse.",
+          "title": "retruxx",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-02T14:48:29Z",
+            "owner": "mindflower",
+            "repo": "retruxx",
+            "stars": 3
           }
         }
       ],
@@ -1551,6 +1960,19 @@
       "items": [
         {
           "children": [],
+          "description": "Descent 3 by Outrage Entertainment",
+          "title": "Descent3",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-21T15:12:21Z",
+            "owner": "DescentDevelopers",
+            "repo": "Descent3",
+            "stars": 2987
+          }
+        },
+        {
+          "children": [],
           "description": "Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.",
           "title": "DXX-Rebirth",
           "repo_info": {
@@ -1559,7 +1981,7 @@
             "last_commit": "2026-01-25T01:52:00Z",
             "owner": "dxx-rebirth",
             "repo": "dxx-rebirth",
-            "stars": 595
+            "stars": 600
           }
         },
         {
@@ -1574,10 +1996,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T14:12:09Z",
+            "last_commit": "2026-03-07T06:22:33Z",
             "owner": "scp-fs2open",
             "repo": "fs2open.github.com",
-            "stars": 460
+            "stars": 461
           }
         },
         {
@@ -1587,10 +2009,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-02-17T16:43:52Z",
+            "last_commit": "2026-03-04T22:39:39Z",
             "owner": "Librelancer",
             "repo": "Librelancer",
-            "stars": 555
+            "stars": 557
           }
         }
       ],
@@ -1606,10 +2028,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-14T12:43:15Z",
+            "last_commit": "2026-03-06T16:06:32Z",
             "owner": "FreezingMoon",
             "repo": "AncientBeast",
-            "stars": 1832
+            "stars": 1837
           }
         },
         {
@@ -1633,9 +2055,61 @@
             "archived": false,
             "language": "C#",
             "last_commit": "2021-01-02T02:29:31Z",
-            "owner": "SWY1985",
+            "owner": "Solen1985",
             "repo": "CivOne",
             "stars": 261
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source Android/Desktop remake of Civ V.",
+          "title": "Unciv",
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-03-07T21:23:20Z",
+            "owner": "yairm210",
+            "repo": "Unciv",
+            "stars": 10149
+          }
+        },
+        {
+          "children": [],
+          "description": "OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#.",
+          "title": "OpenCiv3",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-06T00:51:35Z",
+            "owner": "C7-Game",
+            "repo": "OpenCiv3",
+            "stars": 547
+          }
+        },
+        {
+          "children": [],
+          "description": "Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.",
+          "title": "freeciv",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-07T04:55:40Z",
+            "owner": "freeciv",
+            "repo": "freeciv",
+            "stars": 1492
+          }
+        },
+        {
+          "children": [],
+          "description": "Freecivworld.net is the 3D version of Freeciv.",
+          "title": "freecivworld",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-07T21:20:48Z",
+            "owner": "freecivworld",
+            "repo": "freecivworld",
+            "stars": 10
           }
         },
         {
@@ -1645,10 +2119,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-02-20T20:30:49Z",
+            "last_commit": "2026-03-07T20:33:09Z",
             "owner": "CorsixTH",
             "repo": "CorsixTH",
-            "stars": 4379
+            "stars": 4391
           }
         },
         {
@@ -1671,10 +2145,23 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-18T14:35:15Z",
+            "last_commit": "2026-03-07T13:19:38Z",
             "owner": "ihhub",
             "repo": "fheroes2",
-            "stars": 3234
+            "stars": 3251
+          }
+        },
+        {
+          "children": [],
+          "description": "Dungeon Keeper II partial recompilation with bug fixes.",
+          "title": "Flame",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-28T21:10:07Z",
+            "owner": "DiaLight",
+            "repo": "Flame",
+            "stars": 84
           }
         },
         {
@@ -1689,10 +2176,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-17T12:42:58Z",
+            "last_commit": "2026-03-06T16:40:42Z",
             "owner": "afwbkbc",
             "repo": "glsmac",
-            "stars": 558
+            "stars": 563
           }
         },
         {
@@ -1702,10 +2189,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T04:12:24Z",
+            "last_commit": "2026-03-08T04:08:34Z",
             "owner": "ja2-stracciatella",
             "repo": "ja2-stracciatella",
-            "stars": 499
+            "stars": 501
           }
         },
         {
@@ -1718,7 +2205,7 @@
             "last_commit": "2026-01-04T09:13:08Z",
             "owner": "bvschaik",
             "repo": "julius",
-            "stars": 3166
+            "stars": 3170
           }
         },
         {
@@ -1731,7 +2218,7 @@
             "last_commit": "2022-06-01T17:40:02Z",
             "owner": "Kromster80",
             "repo": "kam_remake",
-            "stars": 372
+            "stars": 373
           }
         },
         {
@@ -1741,10 +2228,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-20T22:34:10Z",
+            "last_commit": "2026-03-05T00:39:16Z",
             "owner": "dkfans",
             "repo": "keeperfx",
-            "stars": 913
+            "stars": 915
           }
         },
         {
@@ -1757,7 +2244,46 @@
             "last_commit": "2025-10-27T19:50:05Z",
             "owner": "miki151",
             "repo": "keeperrl",
-            "stars": 957
+            "stars": 961
+          }
+        },
+        {
+          "children": [],
+          "description": "A turn based strategy game.",
+          "title": "maxr",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-02T12:23:49Z",
+            "owner": "maxr-dot-org",
+            "repo": "maxr",
+            "stars": 38
+          }
+        },
+        {
+          "children": [],
+          "description": "Mech Commander 2 open source engine + OpenGL Linux port.",
+          "title": "mc2",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-08T09:30:09Z",
+            "owner": "alariq",
+            "repo": "mc2",
+            "stars": 133
+          }
+        },
+        {
+          "children": [],
+          "description": "MegaGlest real-time strategy game engine (cross-platform, 3-d).",
+          "title": "MegaGlest",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-02T02:25:31Z",
+            "owner": "MegaGlest",
+            "repo": "megaglest-source",
+            "stars": 394
           }
         },
         {
@@ -1770,7 +2296,7 @@
             "last_commit": "2025-06-14T09:20:29Z",
             "owner": "SFTtech",
             "repo": "openage",
-            "stars": 14099
+            "stars": 14119
           }
         },
         {
@@ -1780,10 +2306,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-01T22:45:47Z",
+            "last_commit": "2026-03-06T09:52:55Z",
             "owner": "OpenApoc",
             "repo": "OpenApoc",
-            "stars": 561
+            "stars": 565
           }
         },
         {
@@ -1793,10 +2319,23 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-01T19:54:31Z",
+            "last_commit": "2026-03-01T19:52:17Z",
             "owner": "openblack",
             "repo": "openblack",
-            "stars": 1460
+            "stars": 1466
+          }
+        },
+        {
+          "children": [],
+          "description": "Open source game inspired by Dungeon Keeper - Dark, damp and dangerous...",
+          "title": "OpenDungeonsPlus",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-03T16:57:53Z",
+            "owner": "tomluchowski",
+            "repo": "OpenDungeonsPlus",
+            "stars": 18
           }
         },
         {
@@ -1806,10 +2345,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-02-16T20:56:34Z",
+            "last_commit": "2026-03-07T23:06:06Z",
             "owner": "OpenE2140",
             "repo": "OpenE2140",
-            "stars": 60
+            "stars": 64
           }
         },
         {
@@ -1832,10 +2371,23 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-19T19:55:37Z",
+            "last_commit": "2026-02-24T23:22:34Z",
             "owner": "OpenFodder",
             "repo": "openfodder",
-            "stars": 569
+            "stars": 572
+          }
+        },
+        {
+          "children": [],
+          "description": "OutpostHD - Open source remake of Sierra On-Line's Outpost.",
+          "title": "OPHD",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-05T21:52:39Z",
+            "owner": "OutpostUniverse",
+            "repo": "OPHD",
+            "stars": 131
           }
         },
         {
@@ -1845,10 +2397,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-02-14T16:52:40Z",
+            "last_commit": "2026-02-27T17:29:52Z",
             "owner": "OpenHV",
             "repo": "OpenHV",
-            "stars": 980
+            "stars": 984
           }
         },
         {
@@ -1861,7 +2413,7 @@
             "last_commit": "2025-11-17T08:19:26Z",
             "owner": "IceReaper",
             "repo": "OpenKrush",
-            "stars": 116
+            "stars": 117
           }
         },
         {
@@ -1871,10 +2423,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-19T22:00:43Z",
+            "last_commit": "2026-03-07T12:30:07Z",
             "owner": "OpenLoco",
             "repo": "OpenLoco",
-            "stars": 1621
+            "stars": 1627
           }
         },
         {
@@ -1897,10 +2449,23 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-02-17T16:16:50Z",
+            "last_commit": "2026-02-26T20:24:44Z",
             "owner": "OpenRA",
             "repo": "OpenRA",
-            "stars": 16447
+            "stars": 16494
+          }
+        },
+        {
+          "children": [],
+          "description": "OCC is an unofficial open source engine reimplementation of the game trilogy Crystal Caves.",
+          "title": "OpenCrystalCaves",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-07T04:12:19Z",
+            "owner": "OpenCrystalCaves",
+            "repo": "OpenCrystalCaves",
+            "stars": 81
           }
         },
         {
@@ -1910,10 +2475,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T21:05:03Z",
+            "last_commit": "2026-03-07T22:45:15Z",
             "owner": "OpenRCT2",
             "repo": "OpenRCT2",
-            "stars": 15213
+            "stars": 15264
           }
         },
         {
@@ -1926,7 +2491,7 @@
             "last_commit": "2023-10-01T19:41:56Z",
             "owner": "Dzierzan",
             "repo": "OpenSA",
-            "stars": 114
+            "stars": 115
           }
         },
         {
@@ -1936,10 +2501,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-02-18T22:49:02Z",
+            "last_commit": "2026-03-03T00:01:27Z",
             "owner": "OpenSAGE",
             "repo": "OpenSAGE",
-            "stars": 1576
+            "stars": 1581
           }
         },
         {
@@ -1952,7 +2517,20 @@
             "last_commit": "2020-01-27T03:38:22Z",
             "owner": "nicholas-ochoa",
             "repo": "OpenSC2K",
-            "stars": 5056
+            "stars": 5060
+          }
+        },
+        {
+          "children": [],
+          "description": "An open-source re-implementation of Bullfrog's Sim Theme Park / Theme Park World (1999).",
+          "title": "OpenTPW",
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-17T10:32:42Z",
+            "owner": "OpenTPW",
+            "repo": "OpenTPW",
+            "stars": 145
           }
         },
         {
@@ -1962,10 +2540,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T18:00:15Z",
+            "last_commit": "2026-03-07T16:18:45Z",
             "owner": "OpenTTD",
             "repo": "OpenTTD",
-            "stars": 7612
+            "stars": 7652
           }
         },
         {
@@ -1976,9 +2554,9 @@
             "archived": false,
             "language": "C++",
             "last_commit": "2026-02-04T07:32:10Z",
-            "owner": "SupSuper",
+            "owner": "OpenXcom",
             "repo": "OpenXcom",
-            "stars": 2123
+            "stars": 2126
           }
         },
         {
@@ -1988,10 +2566,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-01-13T01:47:57Z",
+            "last_commit": "2026-03-05T21:52:39Z",
             "owner": "OutpostUniverse",
             "repo": "OPHD",
-            "stars": 130
+            "stars": 131
           }
         },
         {
@@ -2014,7 +2592,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T15:56:52Z",
+            "last_commit": "2026-03-07T16:29:51Z",
             "owner": "raceintospace",
             "repo": "raceintospace",
             "stars": 202
@@ -2027,10 +2605,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-19T19:28:44Z",
+            "last_commit": "2026-03-07T11:02:29Z",
             "owner": "Return-To-The-Roots",
             "repo": "s25client",
-            "stars": 557
+            "stars": 560
           }
         },
         {
@@ -2048,6 +2626,32 @@
         },
         {
           "children": [],
+          "description": "Simutrans is a freeware and open-source transportation simulator. :flower_playing_cards:",
+          "title": "simutrans",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-02T08:43:27Z",
+            "owner": "simutrans",
+            "repo": "simutrans",
+            "stars": 77
+          }
+        },
+        {
+          "children": [],
+          "description": "Syndicate Wars Fan Expansion, Open Source remake of the classic Bullfrog game.",
+          "title": "Syndicate Wars",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-07T23:29:39Z",
+            "owner": "swfans",
+            "repo": "syndwarsfx",
+            "stars": 205
+          }
+        },
+        {
+          "children": [],
           "description": "Remake of C&C Red Alert 2 based on",
           "title": "Romanov's Vengeance",
           "repo_info": {
@@ -2056,7 +2660,7 @@
             "last_commit": "2025-07-26T17:44:53Z",
             "owner": "MustaphaTR",
             "repo": "Romanovs-Vengeance",
-            "stars": 320
+            "stars": 323
           }
         },
         {
@@ -2069,7 +2673,7 @@
             "last_commit": "2024-07-08T17:24:53Z",
             "owner": "sourcehold",
             "repo": "Sourcehold",
-            "stars": 275
+            "stars": 274
           }
         },
         {
@@ -2087,7 +2691,7 @@
             "last_commit": "2025-11-14T22:57:56Z",
             "owner": "TheAssemblyArmada",
             "repo": "Vanilla-Conquer",
-            "stars": 439
+            "stars": 443
           }
         },
         {
@@ -2097,10 +2701,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T21:33:35Z",
+            "last_commit": "2026-03-08T00:32:07Z",
             "owner": "vcmi",
             "repo": "vcmi",
-            "stars": 5477
+            "stars": 5525
           }
         },
         {
@@ -2110,10 +2714,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2025-12-15T08:49:12Z",
+            "last_commit": "2026-03-02T08:50:37Z",
             "owner": "Wargus",
             "repo": "wargus",
-            "stars": 411
+            "stars": 413
           }
         },
         {
@@ -2123,10 +2727,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-19T03:05:54Z",
+            "last_commit": "2026-03-01T03:52:49Z",
             "owner": "Warzone2100",
             "repo": "warzone2100",
-            "stars": 3690
+            "stars": 3704
           }
         },
         {
@@ -2139,7 +2743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-21T04:07:28.240Z",
+    "last_updated": "2026-03-08T04:11:06.010Z",
     "original_repository": "radek-sprta/awesome-game-remakes",
     "source_repository": "v1nvn/enhansome-game-remakes",
     "source_repository_description": null,

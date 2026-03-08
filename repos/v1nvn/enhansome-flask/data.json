@@ -20,10 +20,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-01T08:02:34Z",
+            "last_commit": "2026-03-04T14:53:53Z",
             "owner": "apiflask",
             "repo": "apiflask",
-            "stars": 1120
+            "stars": 1122
           }
         },
         {
@@ -69,10 +69,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-20T00:22:45Z",
+            "last_commit": "2026-03-02T19:25:32Z",
             "owner": "marshmallow-code",
             "repo": "flask-smorest",
-            "stars": 717
+            "stars": 718
           }
         }
       ],
@@ -82,6 +82,53 @@
       "description": "",
       "items": [],
       "title": "Auth"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "OAuth2/OIDC authentication and authorization for Flask APIs. Supports authentication and claim-based fine-grained authorization (scopes, roles, permissions) using JWT tokens.",
+          "title": "Axioms-Flask-Py",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-24T02:58:24Z",
+            "owner": "axioms-io",
+            "repo": "axioms-flask-py",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Basic support for working with JWTs.",
+          "title": "Flask-JWT"
+        },
+        {
+          "children": [],
+          "description": "Advanced support for working with JWTs.",
+          "title": "Flask-JWT-Extended"
+        },
+        {
+          "children": [],
+          "description": "Adds authorized routes to a Flask app.",
+          "title": "Flask-JWT-Router",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-11-17T21:30:39Z",
+            "owner": "joegasewicz",
+            "repo": "flask-jwt-router",
+            "stars": 56
+          }
+        },
+        {
+          "children": [],
+          "description": "Authentication and authorization for Flask APIs.",
+          "title": "Flask-Praetorian"
+        }
+      ],
+      "title": "JWT-based (for JSON Endpoints)"
     },
     {
       "description": "",
@@ -156,7 +203,7 @@
             "last_commit": "2022-02-01T14:19:30Z",
             "owner": "blakev",
             "repo": "Flask-WhooshAlchemy3",
-            "stars": 28
+            "stars": 29
           }
         },
         {
@@ -232,10 +279,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-21T00:39:21Z",
+            "last_commit": "2026-03-07T08:43:42Z",
             "owner": "apitally",
             "repo": "apitally-py",
-            "stars": 217
+            "stars": 216
           }
         },
         {
@@ -248,7 +295,7 @@
             "last_commit": "2024-08-07T06:38:21Z",
             "owner": "python-babel",
             "repo": "flask-babel",
-            "stars": 453
+            "stars": 452
           }
         },
         {
@@ -292,7 +339,7 @@
             "last_commit": "2023-01-03T16:53:50Z",
             "owner": "graphql-python",
             "repo": "flask-graphql",
-            "stars": 1338
+            "stars": 1339
           }
         },
         {
@@ -305,7 +352,7 @@
             "last_commit": "2024-05-08T17:18:49Z",
             "owner": "python-injector",
             "repo": "flask_injector",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -323,7 +370,7 @@
             "last_commit": "2025-12-25T19:32:24Z",
             "owner": "miguelgrinberg",
             "repo": "Flask-Moment",
-            "stars": 382
+            "stars": 381
           }
         },
         {
@@ -352,7 +399,7 @@
             "archived": false,
             "language": "Python",
             "last_commit": "2024-11-22T17:03:07Z",
-            "owner": "Eshaan7",
+            "owner": "eshaan7",
             "repo": "Flask-Shell2HTTP",
             "stars": 189
           }
@@ -398,7 +445,7 @@
             "last_commit": "2023-03-23T13:59:31Z",
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11854
+            "stars": 11851
           }
         },
         {
@@ -411,7 +458,7 @@
             "last_commit": "2025-05-29T16:45:37Z",
             "owner": "aws",
             "repo": "chalice",
-            "stars": 11060
+            "stars": 11056
           }
         }
       ],
@@ -435,7 +482,7 @@
             "last_commit": "2025-12-02T04:56:04Z",
             "owner": "cookiecutter-flask",
             "repo": "cookiecutter-flask",
-            "stars": 4731
+            "stars": 4730
           }
         },
         {
@@ -458,10 +505,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-20T11:30:46Z",
+            "last_commit": "2026-03-02T14:42:52Z",
             "owner": "dpgaspar",
             "repo": "Flask-AppBuilder",
-            "stars": 4942
+            "stars": 4944
           }
         },
         {
@@ -502,10 +549,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2025-11-25T16:19:32Z",
+            "last_commit": "2026-03-06T13:42:27Z",
             "owner": "tiangolo",
             "repo": "uwsgi-nginx-flask-docker",
-            "stars": 3011
+            "stars": 3012
           }
         },
         {
@@ -537,20 +584,7 @@
             "last_commit": "2022-12-10T18:39:06Z",
             "owner": "actorcloud",
             "repo": "ActorCloud",
-            "stars": 197
-          }
-        },
-        {
-          "children": [],
-          "description": null,
-          "title": "Airflow",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-21T03:46:59Z",
-            "owner": "apache",
-            "repo": "airflow",
-            "stars": 44338
+            "stars": 196
           }
         },
         {
@@ -563,7 +597,7 @@
             "last_commit": "2022-12-08T05:15:55Z",
             "owner": "busy-beaver-dev",
             "repo": "busy-beaver",
-            "stars": 72
+            "stars": 71
           }
         },
         {
@@ -573,7 +607,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-18T18:51:17Z",
+            "last_commit": "2026-03-05T11:03:00Z",
             "owner": "flaskbb",
             "repo": "flaskbb",
             "stars": 2662
@@ -586,10 +620,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-19T15:27:20Z",
+            "last_commit": "2026-03-05T15:20:35Z",
             "owner": "indico",
             "repo": "indico",
-            "stars": 2024
+            "stars": 2031
           }
         },
         {
@@ -607,7 +641,7 @@
             "last_commit": "2026-02-20T19:44:36Z",
             "owner": "ethanchewy",
             "repo": "PythonBuddy",
-            "stars": 283
+            "stars": 282
           }
         },
         {
@@ -617,10 +651,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-20T22:21:14Z",
+            "last_commit": "2026-03-02T14:22:53Z",
             "owner": "getredash",
             "repo": "redash",
-            "stars": 28236
+            "stars": 28259
           }
         },
         {
@@ -630,10 +664,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-20T23:40:01Z",
+            "last_commit": "2026-03-07T00:56:36Z",
             "owner": "skylines-project",
             "repo": "skylines",
-            "stars": 402
+            "stars": 403
           }
         },
         {
@@ -646,7 +680,7 @@
             "last_commit": "2021-02-11T02:32:12Z",
             "owner": "Netflix",
             "repo": "security_monkey",
-            "stars": 4373
+            "stars": 4372
           }
         },
         {
@@ -656,10 +690,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-20T18:28:52Z",
+            "last_commit": "2026-03-07T15:40:01Z",
             "owner": "freedomofpress",
             "repo": "securedrop",
-            "stars": 3777
+            "stars": 3785
           }
         },
         {
@@ -669,10 +703,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-13T14:43:51Z",
+            "last_commit": "2026-03-02T15:46:47Z",
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6460
+            "stars": 6488
           }
         },
         {
@@ -687,10 +721,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-20T23:22:41Z",
+            "last_commit": "2026-03-06T11:06:58Z",
             "owner": "google",
             "repo": "timesketch",
-            "stars": 3271
+            "stars": 3278
           }
         }
       ],
@@ -698,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-21T03:58:13.165Z",
+    "last_updated": "2026-03-08T04:02:20.320Z",
     "original_repository": "mjhea0/awesome-flask",
     "source_repository": "v1nvn/enhansome-flask",
     "source_repository_description": null,
