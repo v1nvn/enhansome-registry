@@ -10,7 +10,7 @@
       "items": [
         {
           "children": [],
-          "description": "Composable docker orchestration with added scripting support by .",
+          "description": "ice_cube: - Composable docker orchestration with added scripting support by .",
           "title": "Capitan",
           "repo_info": {
             "archived": false,
@@ -31,12 +31,12 @@
             "last_commit": "2026-01-17T12:14:28Z",
             "owner": "composerize",
             "repo": "composerize",
-            "stars": 3703
+            "stars": 3705
           }
         },
         {
           "children": [],
-          "description": "Tool for managing multiple Docker containers ( alternative).",
+          "description": "ice_cube: - Tool for managing multiple Docker containers ( alternative).",
           "title": "crowdr",
           "repo_info": {
             "archived": false,
@@ -62,7 +62,7 @@
         },
         {
           "children": [],
-          "description": "Utility to update docker configs and secrets for deploying in a compose file.",
+          "description": "ice_cube: - Utility to update docker configs and secrets for deploying in a compose file.",
           "title": "docker-config-update",
           "repo_info": {
             "archived": false,
@@ -75,7 +75,7 @@
         },
         {
           "children": [],
-          "description": "An opinionated, multi-language, build tool based on Docker and Docker Compose.",
+          "description": "ice_cube: - An opinionated, multi-language, build tool based on Docker and Docker Compose.",
           "title": "elsy",
           "repo_info": {
             "archived": false,
@@ -88,7 +88,7 @@
         },
         {
           "children": [],
-          "description": "A Build Flow Tool for Docker.",
+          "description": "ice_cube: - A Build Flow Tool for Docker.",
           "title": "habitus",
           "repo_info": {
             "archived": false,
@@ -109,7 +109,7 @@
             "last_commit": "2026-02-27T14:23:27Z",
             "owner": "kubernetes",
             "repo": "kompose",
-            "stars": 10465
+            "stars": 10464
           }
         },
         {
@@ -145,10 +145,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-09T16:18:25Z",
+            "last_commit": "2026-03-10T15:58:52Z",
             "owner": "containers",
             "repo": "podman-compose",
-            "stars": 5992
+            "stars": 5996
           }
         },
         {
@@ -190,7 +190,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-03-09T20:06:17Z",
+            "last_commit": "2026-03-10T18:52:43Z",
             "owner": "ethibox",
             "repo": "awesome-stacks",
             "stars": 1251
@@ -208,20 +208,7 @@
         },
         {
           "children": [],
-          "description": "Centurion is a mass deployment tool for Docker fleets. It takes containers from a Docker registry and runs them on a fleet of hosts with the correct environment variables, host volume mappings, and port mappings. By .",
-          "title": "Centurion",
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2025-09-11T20:47:50Z",
-            "owner": "newrelic",
-            "repo": "centurion",
-            "stars": 1757
-          }
-        },
-        {
-          "children": [],
-          "description": "Clocker creates and manages a Docker cloud infrastructure. Clocker supports single-click deployments and runtime management of multi-node applications that run as containers distributed across multiple hosts, on both Docker and Marathon. It leverages  and  for networking and  for application blueprints. By .",
+          "description": "ice_cube: - Clocker creates and manages a Docker cloud infrastructure. Clocker supports single-click deployments and runtime management of multi-node applications that run as containers distributed across multiple hosts, on both Docker and Marathon. It leverages  and  for networking and  for application blueprints. By .",
           "title": "Clocker",
           "repo_info": {
             "archived": false,
@@ -234,7 +221,7 @@
         },
         {
           "children": [],
-          "description": "Experimental deployment system for Docker.",
+          "description": "ice_cube: - Experimental deployment system for Docker.",
           "title": "Conduit",
           "repo_info": {
             "archived": false,
@@ -247,7 +234,7 @@
         },
         {
           "children": [],
-          "description": "Depcon is written in Go and allows you to easily deploy Docker containers to Apache Mesos/Marathon, Amazon ECS and Kubernetes. By .",
+          "description": "ice_cube: - Depcon is written in Go and allows you to easily deploy Docker containers to Apache Mesos/Marathon, Amazon ECS and Kubernetes. By .",
           "title": "depcon",
           "repo_info": {
             "archived": false,
@@ -273,7 +260,7 @@
         },
         {
           "children": [],
-          "description": "Gitkube is a tool for building and deploying docker images on Kubernetes using . By .",
+          "description": "ice_cube: - Gitkube is a tool for building and deploying docker images on Kubernetes using . By .",
           "title": "gitkube",
           "repo_info": {
             "archived": false,
@@ -281,7 +268,7 @@
             "last_commit": "2023-08-31T07:48:24Z",
             "owner": "hasura",
             "repo": "gitkube",
-            "stars": 3851
+            "stars": 3852
           }
         },
         {
@@ -304,7 +291,7 @@
           "repo_info": {
             "archived": false,
             "language": "HCL",
-            "last_commit": "2026-01-24T22:01:08Z",
+            "last_commit": "2026-03-10T23:06:30Z",
             "owner": "LombardiDaniel",
             "repo": "swarm-ansible",
             "stars": 59
@@ -330,10 +317,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-06T15:47:09Z",
+            "last_commit": "2026-03-10T21:13:56Z",
             "owner": "werf",
             "repo": "werf",
-            "stars": 4664
+            "stars": 4663
           }
         }
       ],
@@ -344,6 +331,19 @@
       "items": [
         {
           "children": [],
+          "description": "Dynamic Docker resource governor using cgroups v2 to manage system load.",
+          "title": "ADRG",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-07T21:00:08Z",
+            "owner": "jaldertech",
+            "repo": "adrg",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
           "description": "Monitor and restart unhealthy docker containers automatically.",
           "title": "Autoheal",
           "repo_info": {
@@ -352,7 +352,7 @@
             "last_commit": "2025-09-09T16:33:25Z",
             "owner": "willfarrell",
             "repo": "docker-autoheal",
-            "stars": 1802
+            "stars": 1803
           }
         },
         {
@@ -365,7 +365,7 @@
             "last_commit": "2026-03-02T18:35:32Z",
             "owner": "google",
             "repo": "cadvisor",
-            "stars": 18954
+            "stars": 18953
           }
         },
         {
@@ -375,10 +375,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-09T18:34:45Z",
+            "last_commit": "2026-03-10T23:04:13Z",
             "owner": "bluewave-labs",
             "repo": "Checkmate",
-            "stars": 9377
+            "stars": 9378
           }
         },
         {
@@ -396,7 +396,7 @@
         },
         {
           "children": [],
-          "description": "Monitor and send alerts based on docker container resource usage/statistics.",
+          "description": "ice_cube: - Monitor and send alerts based on docker container resource usage/statistics.",
           "title": "Docker-Alertd",
           "repo_info": {
             "archived": false,
@@ -409,7 +409,7 @@
         },
         {
           "children": [],
-          "description": "Reconfigures Prometheus when a new service is updated or deployed automatically.",
+          "description": "ice_cube: - Reconfigures Prometheus when a new service is updated or deployed automatically.",
           "title": "Docker-Flow-Monitor",
           "repo_info": {
             "archived": false,
@@ -435,7 +435,7 @@
             "last_commit": "2026-03-06T05:28:07Z",
             "owner": "stefanprodan",
             "repo": "dockprom",
-            "stars": 6488
+            "stars": 6490
           }
         },
         {
@@ -458,7 +458,20 @@
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: Monitor containerized applications without installing agents or modifying your Run commands.",
+          "description": "Container update monitoring with web dashboard, 23 registry providers, 20 notification triggers, and distributed agent architecture. By .",
+          "title": "Drydock",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-11T03:17:42Z",
+            "owner": "CodesWhat",
+            "repo": "drydock",
+            "stars": 115
+          }
+        },
+        {
+          "children": [],
+          "description": "yen: Monitor containerized applications without installing agents or modifying your Run commands.",
           "title": "Dynatrace"
         },
         {
@@ -471,7 +484,7 @@
             "last_commit": "2026-03-09T09:54:10Z",
             "owner": "nicolargo",
             "repo": "glances",
-            "stars": 32010
+            "stars": 32020
           }
         },
         {
@@ -486,15 +499,15 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-03-09T16:04:32Z",
+            "last_commit": "2026-03-10T13:21:21Z",
             "owner": "apache",
             "repo": "hertzbeat",
-            "stars": 7115
+            "stars": 7116
           }
         },
         {
           "children": [],
-          "description": "InfluxDB Time series DB in combination with Grafana and cAdvisor.",
+          "description": "ice_cube: - InfluxDB Time series DB in combination with Grafana and cAdvisor.",
           "title": "InfluxDB, cAdvisor, Grafana",
           "repo_info": {
             "archived": false,
@@ -507,7 +520,7 @@
         },
         {
           "children": [],
-          "description": "Log routing for Docker container logs.",
+          "description": "ice_cube: - Log routing for Docker container logs.",
           "title": "Logspout",
           "repo_info": {
             "archived": false,
@@ -520,7 +533,7 @@
         },
         {
           "children": [],
-          "description": "Monitor docker containers resources usage or status and execute docker commands or inside containers. [decryptus][decryptus].",
+          "description": "ice_cube: - Monitor docker containers resources usage or status and execute docker commands or inside containers. [decryptus][decryptus].",
           "title": "monit-docker",
           "repo_info": {
             "archived": false,
@@ -533,7 +546,7 @@
         },
         {
           "children": [],
-          "description": "NexClipper is the container monitoring and performance management solution specialized in Docker, Apache Mesos, Marathon, DC/OS, Mesosphere, Kubernetes.",
+          "description": "ice_cube: - NexClipper is the container monitoring and performance management solution specialized in Docker, Apache Mesos, Marathon, DC/OS, Mesosphere, Kubernetes.",
           "title": "NexClipper",
           "repo_info": {
             "archived": false,
@@ -546,7 +559,7 @@
         },
         {
           "children": [],
-          "description": "Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertmanager for alerting. Set up in 5 Minutes. Secure mode for production use with built-in .",
+          "description": "ice_cube: - Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertmanager for alerting. Set up in 5 Minutes. Secure mode for production use with built-in .",
           "title": "Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack",
           "repo_info": {
             "archived": false,
@@ -559,7 +572,7 @@
         },
         {
           "children": [],
-          "description": "Open source live application debugger like Chrome DevTools for your backend. Collect traces and generate logs on-demand without stopping & redeploying your applications.",
+          "description": "ice_cube: - Open source live application debugger like Chrome DevTools for your backend. Collect traces and generate logs on-demand without stopping & redeploying your applications.",
           "title": "Sidekick",
           "repo_info": {
             "archived": false,
@@ -572,7 +585,7 @@
         },
         {
           "children": [],
-          "description": "Monitors a Docker Swarm and sends Pushover alerts when it finds a container with no healthy service task running.",
+          "description": "ice_cube: - Monitors a Docker Swarm and sends Pushover alerts when it finds a container with no healthy service task running.",
           "title": "SwarmAlert",
           "repo_info": {
             "archived": false,
@@ -585,7 +598,7 @@
         },
         {
           "children": [],
-          "description": "Monitor containers automatically using zabbix LLD feature.",
+          "description": "ice_cube: - Monitor containers automatically using zabbix LLD feature.",
           "title": "Zabbix Docker",
           "repo_info": {
             "archived": false,
@@ -593,12 +606,12 @@
             "last_commit": "2017-07-28T14:29:08Z",
             "owner": "gomex",
             "repo": "docker-zabbix",
-            "stars": 53
+            "stars": 52
           }
         },
         {
           "children": [],
-          "description": "Zabbix module that provides discovery of running containers, CPU/memory/blk IO/net container metrics. Systemd Docker and LXC execution driver is also supported. It's a dynamically linked shared object library, so its performance is (~10x) better, than any script solution.",
+          "description": "ice_cube: - Zabbix module that provides discovery of running containers, CPU/memory/blk IO/net container metrics. Systemd Docker and LXC execution driver is also supported. It's a dynamically linked shared object library, so its performance is (~10x) better, than any script solution.",
           "title": "Zabbix Docker module",
           "repo_info": {
             "archived": false,
@@ -606,7 +619,7 @@
             "last_commit": "2022-02-22T17:01:39Z",
             "owner": "monitoringartist",
             "repo": "zabbix-docker-monitoring",
-            "stars": 1197
+            "stars": 1196
           }
         }
       ],
@@ -627,7 +640,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-09T09:33:34Z",
+            "last_commit": "2026-03-10T21:46:03Z",
             "owner": "flannel-io",
             "repo": "flannel",
             "stars": 9410
@@ -635,7 +648,7 @@
         },
         {
           "children": [],
-          "description": "High performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. By .",
+          "description": "ice_cube: - High performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. By .",
           "title": "Freeflow",
           "repo_info": {
             "archived": false,
@@ -656,7 +669,7 @@
             "last_commit": "2026-02-10T07:38:47Z",
             "owner": "jason5ng32",
             "repo": "MyIP",
-            "stars": 9901
+            "stars": 9904
           }
         },
         {
@@ -669,7 +682,7 @@
             "last_commit": "2026-03-05T17:23:33Z",
             "owner": "nicolaka",
             "repo": "netshoot",
-            "stars": 10451
+            "stars": 10455
           }
         },
         {
@@ -682,7 +695,7 @@
             "last_commit": "2024-11-04T17:31:57Z",
             "owner": "jpetazzo",
             "repo": "pipework",
-            "stars": 4252
+            "stars": 4251
           }
         }
       ],
@@ -693,7 +706,7 @@
       "items": [
         {
           "children": [],
-          "description": "Run Ansible from a Linux container. By .",
+          "description": "ice_cube: - Run Ansible from a Linux container. By .",
           "title": "Ansible Linux Docker",
           "repo_info": {
             "archived": false,
@@ -706,7 +719,7 @@
         },
         {
           "children": [],
-          "description": "An automation platform with a plugin architecture that allows you to easily create and share services.",
+          "description": "ice_cube: - An automation platform with a plugin architecture that allows you to easily create and share services.",
           "title": "athena",
           "repo_info": {
             "archived": false,
@@ -732,7 +745,7 @@
         },
         {
           "children": [],
-          "description": "Docker container orchestration to enable the testing of long-running cluster deployments.",
+          "description": "ice_cube: - Docker container orchestration to enable the testing of long-running cluster deployments.",
           "title": "clusterdock",
           "repo_info": {
             "archived": false,
@@ -745,7 +758,7 @@
         },
         {
           "children": [],
-          "description": "Control plane based on docker built-in swarm .",
+          "description": "ice_cube: - Control plane based on docker built-in swarm .",
           "title": "Crane",
           "repo_info": {
             "archived": false,
@@ -758,7 +771,7 @@
         },
         {
           "children": [],
-          "description": "Docker Flow Swarm Listener project is to listen to Docker Swarm events and send requests when a change occurs. By .",
+          "description": "ice_cube: - Docker Flow Swarm Listener project is to listen to Docker Swarm events and send requests when a change occurs. By .",
           "title": "Docker Flow Swarm Listener",
           "repo_info": {
             "archived": false,
@@ -779,12 +792,12 @@
             "last_commit": "2025-07-25T17:57:48Z",
             "owner": "wowu",
             "repo": "docker-rollout",
-            "stars": 3113
+            "stars": 3114
           }
         },
         {
           "children": [],
-          "description": "Haven is a simplified container management platform that integrates container, application, cluster, image, and registry managements. By .",
+          "description": "ice_cube: - Haven is a simplified container management platform that integrates container, application, cluster, image, and registry managements. By .",
           "title": "Haven",
           "repo_info": {
             "archived": false,
@@ -802,10 +815,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-10T03:23:11Z",
+            "last_commit": "2026-03-11T02:33:10Z",
             "owner": "kubernetes",
             "repo": "kubernetes",
-            "stars": 121079
+            "stars": 121108
           }
         },
         {
@@ -846,10 +859,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-09T21:52:17Z",
+            "last_commit": "2026-03-10T23:31:07Z",
             "owner": "hashicorp",
             "repo": "nomad",
-            "stars": 16268
+            "stars": 16276
           }
         },
         {
@@ -859,15 +872,15 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-09T21:27:18Z",
+            "last_commit": "2026-03-10T20:23:54Z",
             "owner": "rancher",
             "repo": "rancher",
-            "stars": 25403
+            "stars": 25404
           }
         },
         {
           "children": [],
-          "description": "RedHerd is a collaborative and serverless framework for orchestrating a geographically distributed group of assets capable of simulating complex offensive cyberspace operations. By .",
+          "description": "ice_cube: - RedHerd is a collaborative and serverless framework for orchestrating a geographically distributed group of assets capable of simulating complex offensive cyberspace operations. By .",
           "title": "RedHerd Framework",
           "repo_info": {
             "archived": false,
@@ -888,7 +901,7 @@
             "last_commit": "2026-03-09T07:02:38Z",
             "owner": "crazy-max",
             "repo": "swarm-cronjob",
-            "stars": 862
+            "stars": 864
           }
         }
       ],
@@ -907,7 +920,7 @@
             "last_commit": "2026-01-31T15:42:45Z",
             "owner": "caprover",
             "repo": "caprover",
-            "stars": 14892
+            "stars": 14897
           }
         },
         {
@@ -925,7 +938,7 @@
         },
         {
           "children": [],
-          "description": "Docker-compose SSH wrapper: a very poor man PaaS, exposing the docker-compose and custom-container commands defined in container labels.",
+          "description": "ice_cube: - Docker-compose SSH wrapper: a very poor man PaaS, exposing the docker-compose and custom-container commands defined in container labels.",
           "title": "Dcw",
           "repo_info": {
             "archived": false,
@@ -943,15 +956,15 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-09T17:36:17Z",
+            "last_commit": "2026-03-11T00:59:54Z",
             "owner": "dokku",
             "repo": "dokku",
-            "stars": 31900
+            "stars": 31904
           }
         },
         {
           "children": [],
-          "description": "A PaaS built on top of Amazon EC2 Container Service (ECS).",
+          "description": "ice_cube: - A PaaS built on top of Amazon EC2 Container Service (ECS).",
           "title": "Empire",
           "repo_info": {
             "archived": false,
@@ -977,7 +990,7 @@
         },
         {
           "children": [],
-          "description": "Open source PaaS for Kubernetes that adds a developer-friendly layer to any Kubernetes cluster, making it easy to deploy and manage applications. Fork of .",
+          "description": "ice_cube: - Open source PaaS for Kubernetes that adds a developer-friendly layer to any Kubernetes cluster, making it easy to deploy and manage applications. Fork of .",
           "title": "Hephy Workflow",
           "repo_info": {
             "archived": false,
@@ -990,7 +1003,7 @@
         },
         {
           "children": [],
-          "description": "Toolset for managing container workloads on remote servers.",
+          "description": "ice_cube: - Toolset for managing container workloads on remote servers.",
           "title": "Krane",
           "repo_info": {
             "archived": false,
@@ -1003,7 +1016,7 @@
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: An application development platform that creates local environments that can then be deployed and scaled in the cloud.",
+          "description": "ice_cube: - :yen: An application development platform that creates local environments that can then be deployed and scaled in the cloud.",
           "title": "Nanobox",
           "repo_info": {
             "archived": false,
@@ -1029,7 +1042,7 @@
             "last_commit": "2026-03-05T03:11:24Z",
             "owner": "tsuru",
             "repo": "tsuru",
-            "stars": 5259
+            "stars": 5260
           }
         }
       ],
@@ -1045,10 +1058,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-09T09:13:33Z",
+            "last_commit": "2026-03-10T15:52:00Z",
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 10119
+            "stars": 10123
           }
         },
         {
@@ -1061,7 +1074,7 @@
             "last_commit": "2026-03-08T07:04:18Z",
             "owner": "lucaslorentz",
             "repo": "caddy-docker-proxy",
-            "stars": 4319
+            "stars": 4320
           }
         },
         {
@@ -1118,6 +1131,19 @@
         },
         {
           "children": [],
+          "description": "Reverse proxy with automatic Wake-on-LAN — wakes sleeping backend servers when traffic arrives, shows a waiting screen, and redirects when ready. By .",
+          "title": "idle-less",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-10T13:36:14Z",
+            "owner": "tvup",
+            "repo": "idle-less",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
           "description": "A lightweight companion container for the nginx-proxy. It allow the creation/renewal of Let's Encrypt certificates automatically. By .",
           "title": "Let's Encrypt Nginx-proxy Companion",
           "repo_info": {
@@ -1152,7 +1178,7 @@
             "last_commit": "2026-03-10T01:11:29Z",
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 32033
+            "stars": 32047
           }
         },
         {
@@ -1170,7 +1196,7 @@
             "last_commit": "2026-01-25T10:38:42Z",
             "owner": "Safe3",
             "repo": "openresty-manager",
-            "stars": 1324
+            "stars": 1327
           }
         },
         {
@@ -1196,7 +1222,7 @@
             "last_commit": "2026-03-09T16:41:10Z",
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 62168
+            "stars": 62197
           }
         }
       ],
@@ -1212,10 +1238,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-10T00:14:48Z",
+            "last_commit": "2026-03-11T00:16:11Z",
             "owner": "cri-o",
             "repo": "cri-o",
-            "stars": 5589
+            "stars": 5590
           }
         },
         {
@@ -1225,10 +1251,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-03-02T14:26:30Z",
+            "last_commit": "2026-03-10T19:15:56Z",
             "owner": "lxc",
             "repo": "lxc",
-            "stars": 5127
+            "stars": 5128
           }
         },
         {
@@ -1238,15 +1264,15 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-09T16:43:31Z",
+            "last_commit": "2026-03-10T19:49:13Z",
             "owner": "containers",
             "repo": "podman",
-            "stars": 30953
+            "stars": 30968
           }
         },
         {
           "children": [],
-          "description": "LXC binary written in Rust.",
+          "description": "ice_cube: - LXC binary written in Rust.",
           "title": "rlxc",
           "repo_info": {
             "archived": false,
@@ -1291,17 +1317,17 @@
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: Analyze images for CVE vulnerabilities and against custom security policies.",
+          "description": "yen: Analyze images for CVE vulnerabilities and against custom security policies.",
           "title": "Anchor Enterprise"
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: Securing container-based applications from Dev to Production on any platform.",
+          "description": "yen: Securing container-based applications from Dev to Production on any platform.",
           "title": "Aqua Security"
         },
         {
           "children": [],
-          "description": "AppArmor profile generator for Docker containers.",
+          "description": "ice_cube: - AppArmor profile generator for Docker containers.",
           "title": "bane",
           "repo_info": {
             "archived": false,
@@ -1348,12 +1374,12 @@
             "last_commit": "2026-03-08T23:02:38Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8513
+            "stars": 8517
           }
         },
         {
           "children": [],
-          "description": "This  compliance profile implement the CIS Docker 1.12.0 Benchmark in an automated way to provide security best-practice tests around Docker daemon and containers in a production environment. By .",
+          "description": "ice_cube: - This  compliance profile implement the CIS Docker 1.12.0 Benchmark in an automated way to provide security best-practice tests around Docker daemon and containers in a production environment. By .",
           "title": "CIS Docker Benchmark",
           "repo_info": {
             "archived": false,
@@ -1384,7 +1410,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-09T14:24:35Z",
+            "last_commit": "2026-03-10T14:43:00Z",
             "owner": "wolffcatskyy",
             "repo": "crowdsec-blocklist-import",
             "stars": 178
@@ -1392,7 +1418,7 @@
         },
         {
           "children": [],
-          "description": "Dagda is a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities. By .",
+          "description": "ice_cube: - Dagda is a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities. By .",
           "title": "Dagda",
           "repo_info": {
             "archived": false,
@@ -1405,7 +1431,7 @@
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless. By .",
+          "description": "yen: Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless. By .",
           "title": "Deepfence Enterprise"
         },
         {
@@ -1449,12 +1475,7 @@
         },
         {
           "children": [],
-          "description": "A cli-plugin for docker to automatically manage image digests by tracking them in a separate Lockfile. By .",
-          "title": "docker-lock"
-        },
-        {
-          "children": [],
-          "description": "SSL-enabled Damn Vulnerable Web App to test Web Application Firewalls. By .",
+          "description": "ice_cube: - SSL-enabled Damn Vulnerable Web App to test Web Application Firewalls. By .",
           "title": "dvwassl",
           "repo_info": {
             "archived": false,
@@ -1472,23 +1493,10 @@
           "repo_info": {
             "archived": false,
             "language": "Open Policy Agent",
-            "last_commit": "2026-03-09T23:52:51Z",
+            "last_commit": "2026-03-10T17:23:05Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2581
-          }
-        },
-        {
-          "children": [],
-          "description": "A server and a client for running and interacting with trusted collections. By .",
-          "title": "notary",
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2024-08-07T19:02:32Z",
-            "owner": "notaryproject",
-            "repo": "notary",
-            "stars": 3287
+            "stars": 2582
           }
         },
         {
@@ -1501,12 +1509,12 @@
             "last_commit": "2026-02-27T12:44:50Z",
             "owner": "OpenSCAP",
             "repo": "openscap",
-            "stars": 1676
+            "stars": 1677
           }
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: (Previously Twistlock Security Suite) detects vulnerabilities, hardens container images, and enforces security policies across the lifecycle of applications.",
+          "description": "yen: (Previously Twistlock Security Suite) detects vulnerabilities, hardens container images, and enforces security policies across the lifecycle of applications.",
           "title": "Prisma Cloud"
         },
         {
@@ -1529,10 +1537,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-09T18:26:48Z",
+            "last_commit": "2026-03-10T08:19:02Z",
             "owner": "anchore",
             "repo": "syft",
-            "stars": 8464
+            "stars": 8484
           }
         },
         {
@@ -1545,17 +1553,17 @@
             "last_commit": "2026-03-09T06:45:43Z",
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 8719
+            "stars": 8722
           }
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: Sysdig Secure addresses run-time security through behavioral monitoring and defense, and provides deep forensics based on open source Sysdig for incident response.",
+          "description": "yen: Sysdig Secure addresses run-time security through behavioral monitoring and defense, and provides deep forensics based on open source Sysdig for incident response.",
           "title": "Sysdig Secure"
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: Trend Micro DeepSecurity offers runtime protection for container workloads and hosts as well as preruntime scanning of images to identify vulnerabilities, malware and content such as hardcoded secrets.",
+          "description": "yen: Trend Micro DeepSecurity offers runtime protection for container workloads and hosts as well as preruntime scanning of images to identify vulnerabilities, malware and content such as hardcoded secrets.",
           "title": "Trend Micro DeepSecurity"
         },
         {
@@ -1565,10 +1573,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-06T06:42:06Z",
+            "last_commit": "2026-03-11T03:28:51Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 33044
+            "stars": 33062
           }
         }
       ],
@@ -1613,7 +1621,7 @@
             "last_commit": "2026-03-09T11:25:18Z",
             "owner": "etcd-io",
             "repo": "etcd",
-            "stars": 51688
+            "stars": 51694
           }
         },
         {
@@ -1623,10 +1631,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-09T21:07:05Z",
+            "last_commit": "2026-03-10T19:29:45Z",
             "owner": "istio",
             "repo": "istio",
-            "stars": 38139
+            "stars": 38146
           }
         },
         {
@@ -1639,7 +1647,7 @@
             "last_commit": "2025-05-22T04:16:52Z",
             "owner": "gliderlabs",
             "repo": "registrator",
-            "stars": 4676
+            "stars": 4675
           }
         }
       ],
@@ -1650,7 +1658,7 @@
       "items": [
         {
           "children": [],
-          "description": "heavy_dollar_sign:- The Blockbridge plugin is a volume plugin that provides access to an extensible set of container-based persistent storage options. It supports single and multi-host Docker environments with features that include tenant isolation, automated provisioning, encryption, secure deletion, snapshots and QoS. By",
+          "description": "yen:- The Blockbridge plugin is a volume plugin that provides access to an extensible set of container-based persistent storage options. It supports single and multi-host Docker environments with features that include tenant isolation, automated provisioning, encryption, secure deletion, snapshots and QoS. By",
           "title": "Blockbridge",
           "repo_info": {
             "archived": false,
@@ -1695,23 +1703,23 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-09T22:29:20Z",
+            "last_commit": "2026-03-10T17:58:20Z",
             "owner": "offen",
             "repo": "docker-volume-backup",
-            "stars": 3423
+            "stars": 3425
           }
         },
         {
           "children": [],
-          "description": "S3 compatible object storage server in Docker containers.",
-          "title": "Minio",
+          "description": "Docker-based encrypted dual-storage backup automation using Duplicacy CLI with cross-site redundancy and Telegram notifications. By .",
+          "title": "duplicacy-cli-cron",
           "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2026-02-12T20:18:51Z",
-            "owner": "minio",
-            "repo": "minio",
-            "stars": 60445
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-10T11:05:08Z",
+            "owner": "GeiserX",
+            "repo": "duplicacy-cli-cron",
+            "stars": 1
           }
         },
         {
@@ -1729,12 +1737,12 @@
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: Decentralized storage solution for persistent, shared and replicated volumes.",
+          "description": "yen: Decentralized storage solution for persistent, shared and replicated volumes.",
           "title": "portworx"
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: Fully fault-tolerant distributed file system with a docker volume driver.",
+          "description": "yen: Fully fault-tolerant distributed file system with a docker volume driver.",
           "title": "quobyte"
         },
         {
@@ -1752,7 +1760,7 @@
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: Software-defined Persistent Storage for Kubernetes and Docker Swarm.",
+          "description": "ice_cube: - :yen: Software-defined Persistent Storage for Kubernetes and Docker Swarm.",
           "title": "Storidge",
           "repo_info": {
             "archived": false,
@@ -1802,7 +1810,7 @@
             "last_commit": "2024-09-06T09:31:07Z",
             "owner": "felixgborrego",
             "repo": "simple-docker-ui",
-            "stars": 606
+            "stars": 605
           }
         },
         {
@@ -1836,10 +1844,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-04T21:15:58Z",
+            "last_commit": "2026-03-11T00:28:17Z",
             "owner": "jr-k",
             "repo": "d4s",
-            "stars": 55
+            "stars": 56
           }
         },
         {
@@ -1852,7 +1860,7 @@
             "last_commit": "2025-12-15T17:20:36Z",
             "owner": "wagoodman",
             "repo": "dive",
-            "stars": 53512
+            "stars": 53523
           }
         },
         {
@@ -1891,7 +1899,7 @@
             "last_commit": "2026-01-14T06:52:19Z",
             "owner": "shubh-io",
             "repo": "DockMate",
-            "stars": 278
+            "stars": 279
           }
         },
         {
@@ -1930,7 +1938,7 @@
             "last_commit": "2026-03-08T10:25:15Z",
             "owner": "moncho",
             "repo": "dry",
-            "stars": 3226
+            "stars": 3225
           }
         },
         {
@@ -1956,7 +1964,7 @@
             "last_commit": "2026-01-17T06:16:20Z",
             "owner": "jesseduffield",
             "repo": "lazydocker",
-            "stars": 50051
+            "stars": 50065
           }
         },
         {
@@ -1969,7 +1977,7 @@
             "last_commit": "2026-03-06T14:14:51Z",
             "owner": "Lifailon",
             "repo": "lazyjournal",
-            "stars": 1176
+            "stars": 1178
           }
         },
         {
@@ -1982,7 +1990,7 @@
             "last_commit": "2026-02-23T15:18:34Z",
             "owner": "mrjackwills",
             "repo": "oxker",
-            "stars": 1552
+            "stars": 1553
           }
         }
       ],
@@ -1993,7 +2001,7 @@
       "items": [
         {
           "children": [],
-          "description": "Easily start and stop docker compose projects from any directory. By .",
+          "description": "ice_cube: - Easily start and stop docker compose projects from any directory. By .",
           "title": "captain",
           "repo_info": {
             "archived": false,
@@ -2019,7 +2027,7 @@
         },
         {
           "children": [],
-          "description": "A simple tool for copying files from container filesystems. By .",
+          "description": "ice_cube: - A simple tool for copying files from container filesystems. By .",
           "title": "dcp",
           "repo_info": {
             "archived": false,
@@ -2084,20 +2092,7 @@
         },
         {
           "children": [],
-          "description": "CLI tools for browsing and manipulating docker registries.",
-          "title": "docker-ls",
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2023-08-31T06:44:18Z",
-            "owner": "mayflower",
-            "repo": "docker-ls",
-            "stars": 456
-          }
-        },
-        {
-          "children": [],
-          "description": "Docker version manager.",
+          "description": "ice_cube: - Docker version manager.",
           "title": "DVM",
           "repo_info": {
             "archived": false,
@@ -2105,12 +2100,12 @@
             "last_commit": "2022-03-30T13:23:11Z",
             "owner": "howtowhale",
             "repo": "dvm",
-            "stars": 525
+            "stars": 526
           }
         },
         {
           "children": [],
-          "description": "Get inside a running docker container easily.",
+          "description": "ice_cube: - Get inside a running docker container easily.",
           "title": "goinside",
           "repo_info": {
             "archived": false,
@@ -2123,7 +2118,7 @@
         },
         {
           "children": [],
-          "description": "A simple tool to manage and maintain Docker for personal projects.",
+          "description": "ice_cube: - A simple tool to manage and maintain Docker for personal projects.",
           "title": "Pdocker",
           "repo_info": {
             "archived": false,
@@ -2167,10 +2162,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-09T21:37:32Z",
+            "last_commit": "2026-03-10T17:28:18Z",
             "owner": "containers",
             "repo": "skopeo",
-            "stars": 10543
+            "stars": 10549
           }
         },
         {
@@ -2188,7 +2183,7 @@
         },
         {
           "children": [],
-          "description": "Python based Assistance for Docker.",
+          "description": "ice_cube: - Python based Assistance for Docker.",
           "title": "tsaotun",
           "repo_info": {
             "archived": false,
@@ -2207,7 +2202,7 @@
       "items": [
         {
           "children": [],
-          "description": "Search the Docker Registry with the Dext smart launcher. By .",
+          "description": "ice_cube: - Search the Docker Registry with the Dext smart launcher. By .",
           "title": "dext-docker-registry-plugin",
           "repo_info": {
             "archived": false,
@@ -2220,7 +2215,7 @@
         },
         {
           "children": [],
-          "description": "SSH Server for Docker containers ~ Because every container should be accessible. By .",
+          "description": "ice_cube: - SSH Server for Docker containers ~ Because every container should be accessible. By .",
           "title": "docker-ssh",
           "repo_info": {
             "archived": false,
@@ -2246,7 +2241,7 @@
         },
         {
           "children": [],
-          "description": "Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.",
+          "description": "ice_cube: - Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.",
           "title": "MultiDocker",
           "repo_info": {
             "archived": false,
@@ -2259,7 +2254,7 @@
         },
         {
           "children": [],
-          "description": "A Powerline segment for showing the status of Docker containers.",
+          "description": "ice_cube: - A Powerline segment for showing the status of Docker containers.",
           "title": "Powerline-Docker",
           "repo_info": {
             "archived": false,
@@ -2276,6 +2271,19 @@
     {
       "description": "",
       "items": [
+        {
+          "children": [],
+          "description": "An easy and modern Docker management platform, built with everybody in mind. By .",
+          "title": "Arcane",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-11T01:58:05Z",
+            "owner": "getarcaneapp",
+            "repo": "arcane",
+            "stars": 4953
+          }
+        },
         {
           "children": [],
           "description": "Outsource the administration of a handful of containers to your co-workers,.",
@@ -2304,7 +2312,7 @@
         },
         {
           "children": [],
-          "description": "Docker Container Management GUI.",
+          "description": "ice_cube: - Docker Container Management GUI.",
           "title": "dockemon",
           "repo_info": {
             "archived": false,
@@ -2330,7 +2338,7 @@
         },
         {
           "children": [],
-          "description": "Web UI, authentication service and event recorder for private docker registry v2.",
+          "description": "ice_cube: - Web UI, authentication service and event recorder for private docker registry v2.",
           "title": "docker-registry-web",
           "repo_info": {
             "archived": false,
@@ -2364,7 +2372,7 @@
             "last_commit": "2026-01-21T10:51:44Z",
             "owner": "louislam",
             "repo": "dockge",
-            "stars": 22382
+            "stars": 22391
           }
         },
         {
@@ -2374,15 +2382,15 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-09T10:13:42Z",
+            "last_commit": "2026-03-10T23:24:53Z",
             "owner": "moghtech",
             "repo": "komodo",
-            "stars": 10499
+            "stars": 10507
           }
         },
         {
           "children": [],
-          "description": "A highly visual web UI for Kubernetes which renders configuration and state in an application centric way.",
+          "description": "ice_cube: - A highly visual web UI for Kubernetes which renders configuration and state in an application centric way.",
           "title": "Kubevious",
           "repo_info": {
             "archived": false,
@@ -2403,7 +2411,7 @@
             "last_commit": "2025-10-26T02:26:26Z",
             "owner": "hywax",
             "repo": "mafl",
-            "stars": 675
+            "stars": 676
           }
         },
         {
@@ -2413,15 +2421,15 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-03-10T00:18:58Z",
+            "last_commit": "2026-03-11T00:18:36Z",
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 78006
+            "stars": 78019
           }
         },
         {
           "children": [],
-          "description": "A browser extension for GitHub that makes the image name in a  clickable and redirect you to the related Docker Hub page.",
+          "description": "ice_cube: - A browser extension for GitHub that makes the image name in a  clickable and redirect you to the related Docker Hub page.",
           "title": "OctoLinker",
           "repo_info": {
             "archived": false,
@@ -2429,7 +2437,7 @@
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5352
+            "stars": 5351
           }
         },
         {
@@ -2439,15 +2447,15 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-09T13:26:26Z",
+            "last_commit": "2026-03-10T13:24:54Z",
             "owner": "portainer",
             "repo": "portainer",
-            "stars": 36798
+            "stars": 36808
           }
         },
         {
           "children": [],
-          "description": "A simple query dashboard to use Docker Remote API.",
+          "description": "ice_cube: - A simple query dashboard to use Docker Remote API.",
           "title": "Rapid Dashboard",
           "repo_info": {
             "archived": false,
@@ -2460,7 +2468,7 @@
         },
         {
           "children": [],
-          "description": "Friendly Web UI to monitor docker daemon.",
+          "description": "ice_cube: - Friendly Web UI to monitor docker daemon.",
           "title": "Seagull",
           "repo_info": {
             "archived": false,
@@ -2486,7 +2494,7 @@
         },
         {
           "children": [],
-          "description": "Swirl is a web management tool for Docker, focused on swarm cluster By .",
+          "description": "ice_cube: - Swirl is a web management tool for Docker, focused on swarm cluster By .",
           "title": "Swirl",
           "repo_info": {
             "archived": false,
@@ -2504,10 +2512,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-09T17:14:56Z",
+            "last_commit": "2026-03-10T15:52:08Z",
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21393
+            "stars": 21391
           }
         },
         {
@@ -2536,7 +2544,7 @@
       "items": [
         {
           "children": [],
-          "description": "Container introspection tool. Find out what container runtime is being used as well as features available.",
+          "description": "ice_cube: - Container introspection tool. Find out what container runtime is being used as well as features available.",
           "title": "amicontained",
           "repo_info": {
             "archived": false,
@@ -2549,7 +2557,7 @@
         },
         {
           "children": [],
-          "description": "A single PID1 process designed for docker containers. Does user management, log management, startup, zombie reaping, all in one small package.",
+          "description": "ice_cube: - A single PID1 process designed for docker containers. Does user management, log management, startup, zombie reaping, all in one small package.",
           "title": "Chaperone",
           "repo_info": {
             "archived": false,
@@ -2588,12 +2596,12 @@
             "last_commit": "2026-03-09T20:45:59Z",
             "owner": "GoogleContainerTools",
             "repo": "distroless",
-            "stars": 22339
+            "stars": 22343
           }
         },
         {
           "children": [],
-          "description": "A super small Docker base image  using Alpine Linux.",
+          "description": "ice_cube: - A super small Docker base image  using Alpine Linux.",
           "title": "docker-alpine",
           "repo_info": {
             "archived": false,
@@ -2601,7 +2609,7 @@
             "last_commit": "2021-04-01T08:02:51Z",
             "owner": "gliderlabs",
             "repo": "docker-alpine",
-            "stars": 5720
+            "stars": 5721
           }
         },
         {
@@ -2658,7 +2666,7 @@
         },
         {
           "children": [],
-          "description": "Sync Docker images across registries.",
+          "description": "ice_cube: - Sync Docker images across registries.",
           "title": "lstags",
           "repo_info": {
             "archived": false,
@@ -2692,7 +2700,7 @@
             "last_commit": "2026-03-08T01:55:37Z",
             "owner": "mcuadros",
             "repo": "ofelia",
-            "stars": 3744
+            "stars": 3745
           }
         },
         {
@@ -2723,7 +2731,7 @@
         },
         {
           "children": [],
-          "description": "Executes a program as a user different from the user running sue. This is a maintainable alternative to ncopa/su-exec, which is the better tianon/gosu. This one is far better (higher performance, smaller size), than the original gosu, however it is far easier to maintain, than su-exec, which is written in plain C. Made by .",
+          "description": "ice_cube: - Executes a program as a user different from the user running sue. This is a maintainable alternative to ncopa/su-exec, which is the better tianon/gosu. This one is far better (higher performance, smaller size), than the original gosu, however it is far easier to maintain, than su-exec, which is written in plain C. Made by .",
           "title": "sue",
           "repo_info": {
             "archived": false,
@@ -2744,12 +2752,12 @@
             "last_commit": "2026-03-06T13:28:13Z",
             "owner": "aptible",
             "repo": "supercronic",
-            "stars": 2395
+            "stars": 2396
           }
         },
         {
           "children": [],
-          "description": "A minimalistic Runtime Configuration system and process manager for containers .",
+          "description": "ice_cube: - A minimalistic Runtime Configuration system and process manager for containers .",
           "title": "TrivialRC",
           "repo_info": {
             "archived": false,
@@ -2786,10 +2794,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-08T17:53:57Z",
+            "last_commit": "2026-03-10T12:32:17Z",
             "owner": "containers",
             "repo": "buildah",
-            "stars": 8663
+            "stars": 8662
           }
         },
         {
@@ -2799,7 +2807,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-09T23:44:54Z",
+            "last_commit": "2026-03-10T16:06:08Z",
             "owner": "moby",
             "repo": "buildkit",
             "stars": 9820
@@ -2820,7 +2828,7 @@
         },
         {
           "children": [],
-          "description": "Produces Docker images from tarballs of application source code.",
+          "description": "ice_cube: - Produces Docker images from tarballs of application source code.",
           "title": "container-factory",
           "repo_info": {
             "archived": false,
@@ -2833,7 +2841,7 @@
         },
         {
           "children": [],
-          "description": "Copy a Docker image between registries without a full Docker installation.",
+          "description": "ice_cube: - Copy a Docker image between registries without a full Docker installation.",
           "title": "copy-docker-image",
           "repo_info": {
             "archived": false,
@@ -2846,7 +2854,7 @@
         },
         {
           "children": [],
-          "description": "A tool help you to automate the generation of Dockerfile and dockerize application by scanning the code. By .",
+          "description": "ice_cube: - A tool help you to automate the generation of Dockerfile and dockerize application by scanning the code. By .",
           "title": "Derrick",
           "repo_info": {
             "archived": false,
@@ -2864,7 +2872,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-02T09:11:34Z",
+            "last_commit": "2026-03-10T05:09:54Z",
             "owner": "orisano",
             "repo": "dlayer",
             "stars": 445
@@ -2885,7 +2893,7 @@
         },
         {
           "children": [],
-          "description": "Build, tag,and push a bunch of related docker images via a single command.",
+          "description": "ice_cube: - Build, tag,and push a bunch of related docker images via a single command.",
           "title": "docker-make",
           "repo_info": {
             "archived": false,
@@ -2911,7 +2919,7 @@
         },
         {
           "children": [],
-          "description": "Generate command and options from running containers. By .",
+          "description": "ice_cube: - Generate command and options from running containers. By .",
           "title": "docker-replay",
           "repo_info": {
             "archived": false,
@@ -2932,12 +2940,12 @@
             "last_commit": "2026-03-05T03:26:41Z",
             "owner": "slimtoolkit",
             "repo": "slim",
-            "stars": 23033
+            "stars": 23036
           }
         },
         {
           "children": [],
-          "description": "Dockly is a gem made to ease the pain of packaging an application in Docker.",
+          "description": "ice_cube: - Dockly is a gem made to ease the pain of packaging an application in Docker.",
           "title": "Dockly",
           "repo_info": {
             "archived": false,
@@ -2971,7 +2979,7 @@
             "last_commit": "2026-02-19T23:22:06Z",
             "owner": "NVIDIA",
             "repo": "hpc-container-maker",
-            "stars": 510
+            "stars": 511
           }
         },
         {
@@ -2994,7 +3002,7 @@
         },
         {
           "children": [],
-          "description": "Apache Mesos framework for building Docker images.",
+          "description": "ice_cube: - Apache Mesos framework for building Docker images.",
           "title": "portainer",
           "repo_info": {
             "archived": false,
@@ -3008,7 +3016,7 @@
         {
           "children": [],
           "description": "A template for creating production-ready Docker images for Python applications.",
-          "title": "Production-Ready Python Containers :heavy_dollar_sign:"
+          "title": "Production-Ready Python Containers :yen:"
         },
         {
           "children": [],
@@ -3020,7 +3028,7 @@
             "last_commit": "2026-03-10T01:52:09Z",
             "owner": "cybersecsi",
             "repo": "RAUDI",
-            "stars": 560
+            "stars": 561
           }
         },
         {
@@ -3038,7 +3046,7 @@
         },
         {
           "children": [],
-          "description": "An advanced  for your Alpine based Docker images. Made by .",
+          "description": "ice_cube: - An advanced  for your Alpine based Docker images. Made by .",
           "title": "userdef",
           "repo_info": {
             "archived": false,
@@ -3064,7 +3072,7 @@
         },
         {
           "children": [],
-          "description": "A tool to automatically dockerize your applications.",
+          "description": "ice_cube: - A tool to automatically dockerize your applications.",
           "title": "Whales",
           "repo_info": {
             "archived": false,
@@ -3083,7 +3091,7 @@
       "items": [
         {
           "children": [],
-          "description": "A set of images using the Chaperone process manager, including a lean Alpine image, LAMP, LEMP, and bare-bones base kits.",
+          "description": "ice_cube: - A set of images using the Chaperone process manager, including a lean Alpine image, LAMP, LEMP, and bare-bones base kits.",
           "title": "chaperone-docker",
           "repo_info": {
             "archived": false,
@@ -3159,7 +3167,7 @@
             "last_commit": "2026-01-12T09:26:02Z",
             "owner": "deckrun",
             "repo": "dockadvisor",
-            "stars": 186
+            "stars": 193
           }
         },
         {
@@ -3177,7 +3185,7 @@
         },
         {
           "children": [],
-          "description": "The linter lets you verify Dockerfile syntax to make sure it follows the best practices for building efficient Docker images.",
+          "description": "ice_cube: - The linter lets you verify Dockerfile syntax to make sure it follows the best practices for building efficient Docker images.",
           "title": "Dockerfile Linter action",
           "repo_info": {
             "archived": false,
@@ -3190,7 +3198,7 @@
         },
         {
           "children": [],
-          "description": "An opinionated Dockerfile linter.",
+          "description": "ice_cube: - An opinionated Dockerfile linter.",
           "title": "FROM:latest",
           "repo_info": {
             "archived": false,
@@ -3211,7 +3219,7 @@
             "last_commit": "2026-03-09T08:56:35Z",
             "owner": "hadolint",
             "repo": "hadolint",
-            "stars": 11989
+            "stars": 11991
           }
         }
       ],
@@ -3223,16 +3231,16 @@
         {
           "children": [],
           "description": "Amazon Elastic Container Registry (ECR) is a fully-managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images.",
-          "title": "Amazon Elastic Container Registry :heavy_dollar_sign:"
+          "title": "Amazon Elastic Container Registry :yen:"
         },
         {
           "children": [],
           "description": "Manage a Docker private registry as a first-class Azure resource.",
-          "title": "Azure Container Registry :heavy_dollar_sign:"
+          "title": "Azure Container Registry :yen:"
         },
         {
           "children": [],
-          "description": "A bare essential OS for running the Docker Engine on bare metal or Cloud. By .",
+          "description": "ice_cube: - A bare essential OS for running the Docker Engine on bare metal or Cloud. By .",
           "title": "CargoOS",
           "repo_info": {
             "archived": false,
@@ -3245,7 +3253,7 @@
         },
         {
           "children": [],
-          "description": "A small tool to delete image manifests from a Docker Registry implementing the API v2, dereferencing them for the GC.",
+          "description": "ice_cube: - A small tool to delete image manifests from a Docker Registry implementing the API v2, dereferencing them for the GC.",
           "title": "cleanreg",
           "repo_info": {
             "archived": false,
@@ -3259,22 +3267,22 @@
         {
           "children": [],
           "description": "A fully managed package management SaaS, with first-class support for public and private Docker registries (and many others, incl. Helm charts for the Kubernetes ecosystem). Has a generous free-tier and is also completely free for open-source.",
-          "title": "Cloudsmith :heavy_dollar_sign:"
+          "title": "Cloudsmith :yen:"
         },
         {
           "children": [],
           "description": "Harbor based Container Management Solution as a Service for teams and organizations. Free tier offers 1 GB storage for private repositories.",
-          "title": "Container Registry Service :heavy_dollar_sign:"
+          "title": "Container Registry Service :yen:"
         },
         {
           "children": [],
           "description": "Bare-metal container hosting.",
-          "title": "Cycle.io :heavy_dollar_sign:"
+          "title": "Cycle.io :yen:"
         },
         {
           "children": [],
           "description": "DigitalOcean Container Registry.",
-          "title": "DigitalOcean :heavy_dollar_sign:"
+          "title": "DigitalOcean :yen:"
         },
         {
           "children": [],
@@ -3288,7 +3296,7 @@
         },
         {
           "children": [],
-          "description": "Custom docker registry that allows for lightning fast deploys through bittorrent.",
+          "description": "ice_cube: - Custom docker registry that allows for lightning fast deploys through bittorrent.",
           "title": "Docket",
           "repo_info": {
             "archived": false,
@@ -3306,16 +3314,16 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-10T03:47:51Z",
+            "last_commit": "2026-03-10T12:26:15Z",
             "owner": "dragonflyoss",
             "repo": "dragonfly",
-            "stars": 3073
+            "stars": 3077
           }
         },
         {
           "children": [],
           "description": "Fast, private Docker image storage on Google Cloud Platform.",
-          "title": "GCP Artifact Registry :heavy_dollar_sign:"
+          "title": "GCP Artifact Registry :yen:"
         },
         {
           "children": [],
@@ -3339,16 +3347,16 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-10T03:01:06Z",
+            "last_commit": "2026-03-10T23:47:32Z",
             "owner": "goharbor",
             "repo": "harbor",
-            "stars": 27698
+            "stars": 27704
           }
         },
         {
           "children": [],
           "description": "Artifact Repository Manager, can be used as private Docker Registry as well.",
-          "title": "JFrog Artifactory :heavy_dollar_sign:"
+          "title": "JFrog Artifactory :yen:"
         },
         {
           "children": [],
@@ -3360,7 +3368,7 @@
             "last_commit": "2026-03-09T14:28:44Z",
             "owner": "uber",
             "repo": "kraken",
-            "stars": 6659
+            "stars": 6660
           }
         },
         {
@@ -3379,7 +3387,7 @@
         {
           "children": [],
           "description": "Secure hosting for private Docker repositories.",
-          "title": "Quay.io :heavy_dollar_sign:"
+          "title": "Quay.io :yen:"
         },
         {
           "children": [],
@@ -3401,7 +3409,7 @@
         },
         {
           "children": [],
-          "description": "Private Docker registry (free and open source).",
+          "description": "ice_cube: - Private Docker registry (free and open source).",
           "title": "Rescoyl",
           "repo_info": {
             "archived": false,
@@ -3430,7 +3438,7 @@
       "items": [
         {
           "children": [],
-          "description": "Docker event handling with Python.",
+          "description": "ice_cube: - Docker event handling with Python.",
           "title": "ahab",
           "repo_info": {
             "archived": false,
@@ -3461,7 +3469,7 @@
           "repo_info": {
             "archived": false,
             "language": "Groovy",
-            "last_commit": "2026-03-09T18:35:21Z",
+            "last_commit": "2026-03-10T22:12:49Z",
             "owner": "gesellix",
             "repo": "docker-client",
             "stars": 119
@@ -3487,7 +3495,7 @@
         },
         {
           "children": [],
-          "description": "Docker integration testing kit with Scala.",
+          "description": "ice_cube: - Docker integration testing kit with Scala.",
           "title": "docker-it-scala",
           "repo_info": {
             "archived": false,
@@ -3500,7 +3508,7 @@
         },
         {
           "children": [],
-          "description": "Lightweight, truly object-oriented, Java client for Docker's API. By .",
+          "description": "ice_cube: - Lightweight, truly object-oriented, Java client for Docker's API. By .",
           "title": "docker-java-api",
           "repo_info": {
             "archived": false,
@@ -3560,12 +3568,12 @@
             "last_commit": "2026-02-28T03:51:43Z",
             "owner": "apocas",
             "repo": "dockerode",
-            "stars": 4840
+            "stars": 4842
           }
         },
         {
           "children": [],
-          "description": "A simple Docker Monitoring wrapper For Docker API.",
+          "description": "ice_cube: - A simple Docker Monitoring wrapper For Docker API.",
           "title": "DoMonit",
           "repo_info": {
             "archived": false,
@@ -3637,7 +3645,7 @@
         {
           "children": [],
           "description": "The best of Git, build & deployment tools combined into one powerful tool that supercharged our development.",
-          "title": "Buddy :heavy_dollar_sign:"
+          "title": "Buddy :yen:"
         },
         {
           "children": [],
@@ -3654,7 +3662,7 @@
         },
         {
           "children": [],
-          "description": "Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources.",
+          "description": "ice_cube: - Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources.",
           "title": "Cyclone",
           "repo_info": {
             "archived": false,
@@ -3672,7 +3680,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-09T22:36:27Z",
+            "last_commit": "2026-03-11T01:11:26Z",
             "owner": "DefangLabs",
             "repo": "defang",
             "stars": 146
@@ -3681,7 +3689,7 @@
         {
           "children": [],
           "description": "Build Docker images fast, in the cloud. Blazing fast compute, automatic intelligent caching, and zero configuration. .",
-          "title": "Depot :heavy_dollar_sign:"
+          "title": "Depot :yen:"
         },
         {
           "children": [],
@@ -3690,10 +3698,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-08T18:34:32Z",
+            "last_commit": "2026-03-10T07:03:12Z",
             "owner": "crazy-max",
             "repo": "diun",
-            "stars": 4460
+            "stars": 4462
           }
         },
         {
@@ -3706,7 +3714,7 @@
             "last_commit": "2026-03-05T18:27:54Z",
             "owner": "mag37",
             "repo": "dockcheck",
-            "stars": 2241
+            "stars": 2242
           }
         },
         {
@@ -3729,23 +3737,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-07T12:23:43Z",
+            "last_commit": "2026-03-11T01:24:12Z",
             "owner": "harness",
             "repo": "harness",
-            "stars": 33867
-          }
-        },
-        {
-          "children": [],
-          "description": "Open-source container update monitoring with web dashboard, 15 registries, 16 notification triggers, and security scanning. Drop-in WUD replacement. By .",
-          "title": "Drydock",
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-10T02:18:15Z",
-            "owner": "CodesWhat",
-            "repo": "drydock",
-            "stars": 113
+            "stars": 33873
           }
         },
         {
@@ -3755,10 +3750,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-09T21:42:02Z",
+            "last_commit": "2026-03-10T16:24:28Z",
             "owner": "shizunge",
             "repo": "gantry",
-            "stars": 84
+            "stars": 85
           }
         },
         {
@@ -3794,7 +3789,7 @@
         },
         {
           "children": [],
-          "description": "Continuous deployment of a microservices application.",
+          "description": "ice_cube: - Continuous deployment of a microservices application.",
           "title": "Microservices Continuous Deployment",
           "repo_info": {
             "archived": false,
@@ -3807,7 +3802,7 @@
         },
         {
           "children": [],
-          "description": "Tool to configure CI/CD of your container applications via AWS CodePipeline, CodeBuild and ECS .",
+          "description": "ice_cube: - Tool to configure CI/CD of your container applications via AWS CodePipeline, CodeBuild and ECS .",
           "title": "mu",
           "repo_info": {
             "archived": false,
@@ -3820,7 +3815,7 @@
         },
         {
           "children": [],
-          "description": "Github actions workflow (HCL syntax) execution engine.",
+          "description": "ice_cube: - Github actions workflow (HCL syntax) execution engine.",
           "title": "Popper",
           "repo_info": {
             "archived": false,
@@ -3834,7 +3829,7 @@
         {
           "children": [],
           "description": "Yahoo's OpenSource buildplatform designed for Continous Delivery.",
-          "title": "Screwdriver :heavy_dollar_sign:"
+          "title": "Screwdriver :yen:"
         },
         {
           "children": [],
@@ -3851,7 +3846,7 @@
         },
         {
           "children": [],
-          "description": "Create a distributed, isolated task pipeline in your Docker Swarm.",
+          "description": "ice_cube: - Create a distributed, isolated task pipeline in your Docker Swarm.",
           "title": "SwarmCI",
           "repo_info": {
             "archived": false,
@@ -3875,7 +3870,7 @@
       "items": [
         {
           "children": [],
-          "description": "Containerize your development workflow. (formerly DevLab by ).",
+          "description": "ice_cube: - Containerize your development workflow. (formerly DevLab by ).",
           "title": "Binci",
           "repo_info": {
             "archived": false,
@@ -3893,15 +3888,15 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-10T03:55:04Z",
+            "last_commit": "2026-03-11T02:36:58Z",
             "owner": "coder",
             "repo": "coder",
-            "stars": 12440
+            "stars": 12447
           }
         },
         {
           "children": [],
-          "description": "Run your builds inside a Docker defined environment.",
+          "description": "ice_cube: - Run your builds inside a Docker defined environment.",
           "title": "construi",
           "repo_info": {
             "archived": false,
@@ -3940,7 +3935,7 @@
         },
         {
           "children": [],
-          "description": "A build automation tool for Docker applications. By .",
+          "description": "ice_cube: - A build automation tool for Docker applications. By .",
           "title": "dobi",
           "repo_info": {
             "archived": false,
@@ -3953,7 +3948,7 @@
         },
         {
           "children": [],
-          "description": "A set of bash commands to shortcut typical docker dev-ops. An alternative to creating typical helper scripts like \"build.sh\" and \"deploy.sh\" inside code repositories. By .",
+          "description": "ice_cube: - A set of bash commands to shortcut typical docker dev-ops. An alternative to creating typical helper scripts like \"build.sh\" and \"deploy.sh\" inside code repositories. By .",
           "title": "Docker Missing Tools",
           "repo_info": {
             "archived": false,
@@ -3966,7 +3961,7 @@
         },
         {
           "children": [],
-          "description": "Generate Web/CLI projects Dockerized development environments, from 1 simple YAML file. By .",
+          "description": "ice_cube: - Generate Web/CLI projects Dockerized development environments, from 1 simple YAML file. By .",
           "title": "Docker-Arch",
           "repo_info": {
             "archived": false,
@@ -3987,12 +3982,12 @@
             "last_commit": "2025-11-30T20:06:16Z",
             "owner": "EugenMayer",
             "repo": "docker-sync",
-            "stars": 3564
+            "stars": 3563
           }
         },
         {
           "children": [],
-          "description": "Simple and transparent alternative to boot2docker (backed by Vagrant).",
+          "description": "ice_cube: - Simple and transparent alternative to boot2docker (backed by Vagrant).",
           "title": "docker-vm",
           "repo_info": {
             "archived": false,
@@ -4070,7 +4065,7 @@
         },
         {
           "children": [],
-          "description": "A portable and disposable Shell environment, based on Docker and Nix. By .",
+          "description": "ice_cube: - A portable and disposable Shell environment, based on Docker and Nix. By .",
           "title": "Kitt",
           "repo_info": {
             "archived": false,
@@ -4096,7 +4091,7 @@
         },
         {
           "children": [],
-          "description": "Container solution to compile Rust projects for Linux, macOS and Windows. By .",
+          "description": "ice_cube: - Container solution to compile Rust projects for Linux, macOS and Windows. By .",
           "title": "Rust Universal Compiler",
           "repo_info": {
             "archived": false,
@@ -4122,7 +4117,7 @@
         },
         {
           "children": [],
-          "description": "Vagga is a containerisation tool without daemons. It is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.",
+          "description": "ice_cube: - Vagga is a containerisation tool without daemons. It is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.",
           "title": "Vagga",
           "repo_info": {
             "archived": false,
@@ -4154,7 +4149,7 @@
       "items": [
         {
           "children": [],
-          "description": "A docker garbage collector cleaning stuff you did not use recently.",
+          "description": "ice_cube: - A docker garbage collector cleaning stuff you did not use recently.",
           "title": "caduc",
           "repo_info": {
             "archived": false,
@@ -4167,7 +4162,7 @@
         },
         {
           "children": [],
-          "description": "A script that cleans Docker containers, images and volumes.",
+          "description": "ice_cube: - A script that cleans Docker containers, images and volumes.",
           "title": "Docker Clean",
           "repo_info": {
             "archived": false,
@@ -4193,7 +4188,7 @@
         },
         {
           "children": [],
-          "description": "Image for automatic removing unused Docker Swarm objects. Also works just as Docker Service.",
+          "description": "ice_cube: - Image for automatic removing unused Docker Swarm objects. Also works just as Docker Service.",
           "title": "docker_gc",
           "repo_info": {
             "archived": false,
@@ -4238,7 +4233,7 @@
         },
         {
           "children": [],
-          "description": "Functions as Docker containers example voting app. By .",
+          "description": "ice_cube: - Functions as Docker containers example voting app. By .",
           "title": "Funker",
           "repo_info": {
             "archived": false,
@@ -4251,7 +4246,7 @@
         },
         {
           "children": [],
-          "description": "The serverless microservices platform FaaS (Functions as a Service) which uses Docker containers to run Any language or AWS Lambda functions.",
+          "description": "ice_cube: - The serverless microservices platform FaaS (Functions as a Service) which uses Docker containers to run Any language or AWS Lambda functions.",
           "title": "IronFunctions",
           "repo_info": {
             "archived": false,
@@ -4264,7 +4259,7 @@
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery.",
+          "description": "yen: Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery.",
           "title": "Koyeb"
         },
         {
@@ -4277,12 +4272,12 @@
             "last_commit": "2026-03-09T11:40:14Z",
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26105
+            "stars": 26109
           }
         },
         {
           "children": [],
-          "description": "Serverless Container-aware Architectures (SCAR) is a serverless framework that allows easy deployment and execution of containers (e.g. Docker) in Serverless environments (e.g. Lambda).",
+          "description": "ice_cube: - Serverless Container-aware Architectures (SCAR) is a serverless framework that allows easy deployment and execution of containers (e.g. Docker) in Serverless environments (e.g. Lambda).",
           "title": "SCAR",
           "repo_info": {
             "archived": false,
@@ -4309,7 +4304,7 @@
             "last_commit": "2026-02-20T23:41:16Z",
             "owner": "GoogleContainerTools",
             "repo": "container-structure-test",
-            "stars": 2462
+            "stars": 2464
           }
         },
         {
@@ -4327,7 +4322,7 @@
         },
         {
           "children": [],
-          "description": "A small Ruby Gem to run RSpec and Serverspec, Infrataster and Capybara tests against Dockerfiles or Docker images easily. By .",
+          "description": "ice_cube: - A small Ruby Gem to run RSpec and Serverspec, Infrataster and Capybara tests against Dockerfiles or Docker images easily. By .",
           "title": "DockerSpec",
           "repo_info": {
             "archived": false,
@@ -4340,7 +4335,7 @@
         },
         {
           "children": [],
-          "description": "Golang test harness for easily setting up tests that rely on services in a docker-compose.yml. By .",
+          "description": "ice_cube: - Golang test harness for easily setting up tests that rely on services in a docker-compose.yml. By .",
           "title": "EZDC",
           "repo_info": {
             "archived": false,
@@ -4363,7 +4358,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-06T11:06:13Z",
+            "last_commit": "2026-03-11T00:03:57Z",
             "owner": "kurtosis-tech",
             "repo": "kurtosis",
             "stars": 526
@@ -4400,7 +4395,7 @@
         },
         {
           "children": [],
-          "description": "Command line interface written in Go for running code with Docker Exec images.",
+          "description": "ice_cube: - Command line interface written in Go for running code with Docker Exec images.",
           "title": "dexec",
           "repo_info": {
             "archived": false,
@@ -4413,7 +4408,7 @@
         },
         {
           "children": [],
-          "description": "Seamlessly execute commands in a container.",
+          "description": "ice_cube: - Seamlessly execute commands in a container.",
           "title": "dockerized",
           "repo_info": {
             "archived": false,
@@ -4426,7 +4421,7 @@
         },
         {
           "children": [],
-          "description": "An engine for managing the execution of container-based workflows.",
+          "description": "ice_cube: - An engine for managing the execution of container-based workflows.",
           "title": "Dray",
           "repo_info": {
             "archived": false,
@@ -4465,7 +4460,7 @@
         },
         {
           "children": [],
-          "description": "Tool for building and maintaining complex Docker deployments.",
+          "description": "ice_cube: - Tool for building and maintaining complex Docker deployments.",
           "title": "Shutit",
           "repo_info": {
             "archived": false,
@@ -4491,7 +4486,7 @@
         },
         {
           "children": [],
-          "description": "Terraform module for deploying a single Docker image or  file to any Cloud™ VM.",
+          "description": "ice_cube: - Terraform module for deploying a single Docker image or  file to any Cloud™ VM.",
           "title": "Terraform cloud-init config",
           "repo_info": {
             "archived": false,
@@ -4504,7 +4499,7 @@
         },
         {
           "children": [],
-          "description": "Simple and Powerful utility for docker. By .",
+          "description": "ice_cube: - Simple and Powerful utility for docker. By .",
           "title": "Turbo",
           "repo_info": {
             "archived": false,
@@ -4547,7 +4542,7 @@
     {
       "description": "",
       "items": [],
-      "title": "Services based on Docker (mostly :heavy_dollar_sign:)"
+      "title": "Services based on Docker (mostly :yen:)"
     },
     {
       "description": "",
@@ -4567,12 +4562,12 @@
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: A Docker-compatible observability stack that delivers robust log aggregation and uptime monitoring capabilities for various software application.",
+          "description": "yen: A Docker-compatible observability stack that delivers robust log aggregation and uptime monitoring capabilities for various software application.",
           "title": "Better Stack"
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: Agile Operations solutions from Broadcom deliver the modern Docker monitoring businesses need to accelerate and optimize the performance of microservices and the dynamic Docker environments running them. Monitor both the Docker environment and apps that run inside them. (former CA Technologies).",
+          "description": "yen: Agile Operations solutions from Broadcom deliver the modern Docker monitoring businesses need to accelerate and optimize the performance of microservices and the dynamic Docker environments running them. Monitor both the Docker environment and apps that run inside them. (former CA Technologies).",
           "title": "Broadcom Docker Monitoring"
         },
         {
@@ -4582,22 +4577,22 @@
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: Datadog is a full-stack monitoring service for large-scale cloud environments that aggregates metrics/events from servers, databases, and applications. It includes support for Docker, Kubernetes, and Mesos.",
+          "description": "yen: Datadog is a full-stack monitoring service for large-scale cloud environments that aggregates metrics/events from servers, databases, and applications. It includes support for Docker, Kubernetes, and Mesos.",
           "title": "Datadog"
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: Open-source service monitoring system and time series database.",
+          "description": "yen: Open-source service monitoring system and time series database.",
           "title": "Prometheus"
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: Docker Monitoring for DevOps and IT is a SaaS Pay per Host model.",
+          "description": "yen: Docker Monitoring for DevOps and IT is a SaaS Pay per Host model.",
           "title": "Site24x7"
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: Monitoring of host and container metrics, Docker events and logs. Automatic log parser. Anomaly Detection and alerting for metrics and logs. .",
+          "description": "ice_cube: - :yen: Monitoring of host and container metrics, Docker events and logs. Automatic log parser. Anomaly Detection and alerting for metrics and logs. .",
           "title": "SPM for Docker",
           "repo_info": {
             "archived": false,
@@ -4610,7 +4605,7 @@
         },
         {
           "children": [],
-          "description": "heavy_dollar_sign: Sysdig Monitor can be used as either software or a SaaS service to monitor, alert, and troubleshoot containers using system calls. It has container-specific features for Docker and Kubernetes.",
+          "description": "yen: Sysdig Monitor can be used as either software or a SaaS service to monitor, alert, and troubleshoot containers using system calls. It has container-specific features for Docker and Kubernetes.",
           "title": "Sysdig Monitor"
         }
       ],
@@ -4621,7 +4616,7 @@
       "items": [
         {
           "children": [],
-          "description": "Not specific to docker but relevant.",
+          "description": "ice_cube: - Not specific to docker but relevant.",
           "title": "Awesome CI/CD",
           "repo_info": {
             "archived": false,
@@ -4642,7 +4637,7 @@
             "last_commit": "2026-03-05T09:59:09Z",
             "owner": "docker",
             "repo": "awesome-compose",
-            "stars": 44307
+            "stars": 44319
           }
         },
         {
@@ -4681,7 +4676,7 @@
             "last_commit": "2026-03-09T21:11:26Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 279048
+            "stars": 279282
           }
         },
         {
@@ -4694,7 +4689,7 @@
             "last_commit": "2026-03-03T19:56:52Z",
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 33157
+            "stars": 33170
           }
         },
         {
@@ -4707,7 +4702,7 @@
             "last_commit": "2024-08-03T06:59:58Z",
             "owner": "cjbarber",
             "repo": "ToolsOfTheTrade",
-            "stars": 16958
+            "stars": 16959
           }
         }
       ],
@@ -4843,10 +4838,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-09T22:53:05Z",
+            "last_commit": "2026-03-10T22:33:54Z",
             "owner": "docker-library",
             "repo": "official-images",
-            "stars": 6932
+            "stars": 6933
           }
         },
         {
@@ -4894,7 +4889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-10T04:14:43.109Z",
+    "last_updated": "2026-03-11T04:14:44.999Z",
     "original_repository": "veggiemonk/awesome-docker",
     "source_repository": "v1nvn/enhansome-docker",
     "source_repository_description": null,

@@ -18,7 +18,7 @@
             "last_commit": "2026-03-01T06:55:57Z",
             "owner": "reitzig",
             "repo": "texlive-docker",
-            "stars": 31
+            "stars": 32
           }
         },
         {
@@ -76,7 +76,7 @@
                 "last_commit": "2019-03-19T06:59:18Z",
                 "owner": "LaTeXing",
                 "repo": "LaTeXing",
-                "stars": 81
+                "stars": 82
               }
             },
             {
@@ -89,7 +89,7 @@
                 "last_commit": "2026-02-13T20:20:14Z",
                 "owner": "SublimeText",
                 "repo": "LaTeXTools",
-                "stars": 2022
+                "stars": 2023
               }
             }
           ],
@@ -125,7 +125,7 @@
             "last_commit": "2026-03-08T07:02:13Z",
             "owner": "emacs-tw",
             "repo": "awesome-emacs",
-            "stars": 9198
+            "stars": 9199
           }
         },
         {
@@ -158,7 +158,7 @@
                 "last_commit": "2026-03-04T22:13:58Z",
                 "owner": "lervag",
                 "repo": "vimtex",
-                "stars": 6199
+                "stars": 6201
               }
             }
           ],
@@ -170,7 +170,7 @@
             "last_commit": "2023-12-22T22:15:38Z",
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17767
+            "stars": 17769
           }
         },
         {
@@ -212,7 +212,7 @@
                 "last_commit": "2026-03-05T19:15:26Z",
                 "owner": "James-Yu",
                 "repo": "LaTeX-Workshop",
-                "stars": 11903
+                "stars": 11905
               }
             },
             {
@@ -242,7 +242,7 @@
             "last_commit": "2024-06-21T09:46:41Z",
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 28595
+            "stars": 28599
           }
         }
       ],
@@ -296,7 +296,7 @@
                 "last_commit": "2026-03-09T01:18:23Z",
                 "owner": "aloth",
                 "repo": "olcli",
-                "stars": 12
+                "stars": 13
               }
             }
           ],
@@ -308,7 +308,20 @@
             "last_commit": "2026-03-09T01:18:23Z",
             "owner": "aloth",
             "repo": "olcli",
-            "stars": 12
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
+          "description": "Self-hostable online editor with AI assistant integration, figure/table/citation management, real-time collaboration, and an MCP server (29 tools).",
+          "title": "SciTeX Cloud",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-10T09:39:00Z",
+            "owner": "ywatanabe1989",
+            "repo": "scitex-cloud",
+            "stars": 0
           }
         },
         {
@@ -321,7 +334,7 @@
             "last_commit": "2024-05-23T01:16:42Z",
             "owner": "sanjib-sen",
             "repo": "WebLaTex",
-            "stars": 1642
+            "stars": 1643
           }
         },
         {
@@ -360,7 +373,7 @@
             "last_commit": "2026-03-09T09:03:35Z",
             "owner": "papis",
             "repo": "papis",
-            "stars": 1656
+            "stars": 1658
           }
         },
         {
@@ -403,6 +416,32 @@
             "repo": "OneCite",
             "stars": 56
           }
+        },
+        {
+          "children": [],
+          "description": "Local CrossRef database (167M papers) with full-text search, impact factor data, Python API for bibliography enrichment, and an MCP server (15 tools).",
+          "title": "CrossRef Local",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-27T07:16:17Z",
+            "owner": "ywatanabe1989",
+            "repo": "crossref-local",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Local OpenAlex database (284M scholarly works) with abstracts and semantic search for literature discovery, and an MCP server.",
+          "title": "OpenAlex Local",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-07T15:24:26Z",
+            "owner": "ywatanabe1989",
+            "repo": "openalex-local",
+            "stars": 0
+          }
         }
       ],
       "title": "Bibliography tools"
@@ -420,7 +459,7 @@
             "last_commit": "2026-01-14T22:38:46Z",
             "owner": "xu-cheng",
             "repo": "latex-action",
-            "stars": 1357
+            "stars": 1358
           }
         },
         {
@@ -438,6 +477,43 @@
         }
       ],
       "title": "GitHub Actions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Concatenates LaTeX documents with attention for properly merging the preamble.",
+          "title": "CaTeX",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-26T20:15:02Z",
+            "owner": "Alexis-benoist",
+            "repo": "CaTeX",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "This program converts almost any document format (LaTeX, DOC, markdown, etc.) to almost any other format. A great tool to aid workflows where multiple formats are used.",
+          "title": "Pandoc"
+        },
+        {
+          "children": [],
+          "description": "Manuscript compilation system with templates for manuscripts, revisions, and supplementary materials, plus figure, table, and citation handling, and an MCP server (38 tools).",
+          "title": "SciTeX Writer",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-07T15:24:28Z",
+            "owner": "ywatanabe1989",
+            "repo": "scitex-writer",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Misc. Tools"
     },
     {
       "description": "",
@@ -571,7 +647,7 @@
             "last_commit": "2023-05-05T18:14:07Z",
             "owner": "PetarV-",
             "repo": "TikZ",
-            "stars": 1388
+            "stars": 1389
           }
         },
         {
@@ -597,7 +673,7 @@
             "last_commit": "2024-08-16T05:00:45Z",
             "owner": "nschloe",
             "repo": "tikzplotlib",
-            "stars": 2566
+            "stars": 2567
           }
         },
         {
@@ -626,7 +702,7 @@
             "last_commit": "2025-07-23T11:16:04Z",
             "owner": "martinbjeldbak",
             "repo": "ultimate-beamer-theme-list",
-            "stars": 1682
+            "stars": 1686
           }
         },
         {
@@ -652,7 +728,7 @@
             "last_commit": "2026-02-08T21:36:23Z",
             "owner": "jdujava",
             "repo": "TeXtured",
-            "stars": 257
+            "stars": 258
           }
         }
       ],
@@ -670,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-10T03:59:53.988Z",
+    "last_updated": "2026-03-11T04:00:39.063Z",
     "original_repository": "egeerardyn/awesome-LaTeX",
     "source_repository": "v1nvn/enhansome-LaTeX",
     "source_repository_description": null,

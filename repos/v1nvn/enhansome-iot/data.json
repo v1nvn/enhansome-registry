@@ -2,6 +2,123 @@
   "items": [
     {
       "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's intended for anyone making interactive projects.",
+          "title": "Arduino"
+        },
+        {
+          "children": [],
+          "description": "The BeagleBoard is a low-power open-source hardware single-board computer produced by Texas Instruments in association with Digi-Key and Newark element14.",
+          "title": "BeagleBoard"
+        },
+        {
+          "children": [],
+          "description": "The DragonBoard 410c, a product of Arrow Electronics, is the development board based on the mid-tier Qualcomm® Snapdragon™ 410E processor. It features advanced processing power, Wi-Fi, Bluetooth connectivity, and GPS, all packed into a board the size of a credit card.",
+          "title": "Dragonboard"
+        },
+        {
+          "children": [],
+          "description": "ESP32, the successor to the ESP8266. ESP32 is power packed with hardware features. The high speed dual core processors along with the numerous built in peripherals it is set to replace micro-controllers in connected products.",
+          "title": "ESP32"
+        },
+        {
+          "children": [],
+          "description": "HummingBoard is a family of three Linux- and Android-ready, open source SBCs based on 1GHz Freescale i.MX6 SoCs, with a Pi-like 26-pin I/O connector.",
+          "title": "HummingBoard"
+        },
+        {
+          "children": [],
+          "description": "The Intel® Galileo Gen 2 board is the first in a family of Arduino*-certified development and prototyping boards based on Intel® architecture and specifically designed for makers, students, educators, and DIY electronics enthusiasts.",
+          "title": "Intel Galileo"
+        },
+        {
+          "children": [],
+          "description": "Microduino and mCookie bring powerful, small, stackable electronic hardware to makers, designers, engineers, students and curious tinkerers of all ages. Build open-source projects or create innovative new ones.",
+          "title": "Microduino"
+        },
+        {
+          "children": [],
+          "description": "NodeMCU is an open source IoT platform. It uses the Lua scripting language. It is based on the eLua project, and built on the ESP8266 SDK 0.9.5.",
+          "title": "Node MCU (ESP 8266)"
+        },
+        {
+          "children": [],
+          "description": "OLinuXino is an Open Source Software and Open Source Hardware low cost (EUR 30) Linux Industrial grade single board computer with GPIOs capable of operating from -25°C to +85°C.",
+          "title": "OLinuXino"
+        },
+        {
+          "children": [],
+          "description": "The ODROID means Open + Droid. It is a development platform for the hardware as well as the software.",
+          "title": "Odroid"
+        },
+        {
+          "children": [],
+          "description": "A suite of hardware and software tools to help you prototype, scale, and manage your Internet of Things products.",
+          "title": "Particle"
+        },
+        {
+          "children": [],
+          "description": "Pinoccio is a solution to add mesh networking capability and WiFi-Internet access to all your IoT devices, and it is Arduino compatible.",
+          "title": "Pinoccio"
+        },
+        {
+          "children": [],
+          "description": "Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.",
+          "title": "PiSpot Show",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-10T13:22:14Z",
+            "owner": "GeiserX",
+            "repo": "PiSpot-Show",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Software for running a PiSpot Watch (composed of a Raspberry Pi Zero and a PaPiRus Zero) for the company GPConnect.",
+          "title": "PiSpot Watch",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-10T13:22:17Z",
+            "owner": "GeiserX",
+            "repo": "PiSpot-Watch",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse. It’s capable of doing everything you’d expect a desktop computer to do, from browsing the internet and playing high-definition video, to making spreadsheets, word-processing, and playing games.",
+          "title": "Raspberry Pi"
+        },
+        {
+          "children": [],
+          "description": "Tessel is a completely open source and community-driven IoT and robotics development platform. It encompasses development boards, hardware module add-ons, and the software that runs on them.",
+          "title": "Tessel"
+        },
+        {
+          "children": [],
+          "description": "UDOO is a single-board computer with an integrated Arduino 2 compatible microcontroller, designed for computer science education, the world of Makers and the Internet of Things.",
+          "title": "UDOO"
+        },
+        {
+          "children": [],
+          "description": "Raspberry Pi Pico is a small, fast and versatile board that is equipped with the RP2040 microcontroller chip developed by the Raspberry Pi Foundation. It also comes with a 2.4GHz 802.11n wireless LAN variant, which makes it great for IoT.",
+          "title": "Raspberry Pi Pico"
+        },
+        {
+          "children": [],
+          "description": "WisBlock is a modular system that makes it easy to implement low power wide area network (LPWAN) into IoT solutions. WisBlock consists of a base board, core compute module and combination of several sensor modules.",
+          "title": "WisBlock"
+        }
+      ],
+      "title": "Hardware"
+    },
+    {
+      "description": "",
       "items": [],
       "title": "Software"
     },
@@ -58,7 +175,7 @@
             "last_commit": "2026-02-26T02:34:45Z",
             "owner": "pikasTech",
             "repo": "PikaPython",
-            "stars": 1710
+            "stars": 1709
           }
         },
         {
@@ -112,7 +229,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-03-10T00:07:52Z",
+            "last_commit": "2026-03-10T20:31:16Z",
             "owner": "aregtech",
             "repo": "areg-sdk",
             "stars": 338
@@ -125,7 +242,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-03-09T16:10:00Z",
+            "last_commit": "2026-03-10T15:56:28Z",
             "owner": "astarte-platform",
             "repo": "astarte",
             "stars": 267
@@ -143,10 +260,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-10T01:23:09Z",
+            "last_commit": "2026-03-11T02:42:05Z",
             "owner": "Countly",
             "repo": "countly-server",
-            "stars": 5834
+            "stars": 5835
           }
         },
         {
@@ -206,10 +323,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-10T02:27:49Z",
+            "last_commit": "2026-03-11T03:29:59Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 85239
+            "stars": 85264
           }
         },
         {
@@ -224,10 +341,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-27T13:32:46Z",
+            "last_commit": "2026-03-10T07:08:04Z",
             "owner": "thingsboard",
             "repo": "thingsboard-gateway",
-            "stars": 2091
+            "stars": 2090
           }
         },
         {
@@ -315,7 +432,7 @@
             "last_commit": "2026-03-09T02:11:37Z",
             "owner": "huginn",
             "repo": "huginn",
-            "stars": 48840
+            "stars": 48844
           }
         },
         {
@@ -373,7 +490,7 @@
             "last_commit": "2026-03-09T21:11:04Z",
             "owner": "vernemq",
             "repo": "vernemq",
-            "stars": 3541
+            "stars": 3542
           }
         },
         {
@@ -386,7 +503,7 @@
             "last_commit": "2026-03-02T16:27:41Z",
             "owner": "kuzzleio",
             "repo": "kuzzle",
-            "stars": 1637
+            "stars": 1638
           }
         },
         {
@@ -411,10 +528,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-03-10T03:44:24Z",
+            "last_commit": "2026-03-11T03:36:57Z",
             "owner": "nanomq",
             "repo": "nanomq",
-            "stars": 2425
+            "stars": 2426
           }
         },
         {
@@ -424,7 +541,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-05T03:22:03Z",
+            "last_commit": "2026-03-11T00:51:28Z",
             "owner": "lf-edge",
             "repo": "ekuiper",
             "stars": 1682
@@ -453,7 +570,7 @@
             "last_commit": "2026-03-09T12:11:32Z",
             "owner": "IoTSharp",
             "repo": "IoTSharp",
-            "stars": 1260
+            "stars": 1262
           }
         },
         {
@@ -468,10 +585,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-03-06T12:53:56Z",
+            "last_commit": "2026-03-11T00:10:17Z",
             "owner": "aklivity",
             "repo": "zilla",
-            "stars": 681
+            "stars": 682
           }
         }
       ],
@@ -487,10 +604,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-05T11:36:53Z",
+            "last_commit": "2026-03-10T16:10:26Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 32
+            "stars": 34
           }
         },
         {
@@ -563,7 +680,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-09T16:54:29Z",
+            "last_commit": "2026-03-10T17:28:08Z",
             "owner": "united-manufacturing-hub",
             "repo": "united-manufacturing-hub",
             "stars": 352
@@ -576,10 +693,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-03-10T01:38:57Z",
+            "last_commit": "2026-03-11T03:50:01Z",
             "owner": "questdb",
             "repo": "questdb",
-            "stars": 16743
+            "stars": 16745
           }
         },
         {
@@ -667,15 +784,15 @@
         },
         {
           "children": [],
-          "description": "A Raspberry Pi captive portal that creates a WiFi hotspot displaying a customizable web page to connected users using hostapd, dnsmasq, and nginx. Useful for events, marketing, and education.",
+          "description": "Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.",
           "title": "PiSpot-Show",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-08T19:06:11Z",
+            "last_commit": "2026-03-10T13:22:14Z",
             "owner": "GeiserX",
             "repo": "PiSpot-Show",
-            "stars": 0
+            "stars": 1
           }
         },
         {
@@ -898,7 +1015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-10T04:06:39.317Z",
+    "last_updated": "2026-03-11T04:07:16.980Z",
     "original_repository": "HQarroum/awesome-iot",
     "source_repository": "v1nvn/enhansome-iot",
     "source_repository_description": null,
