@@ -537,7 +537,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-03-12T06:41:45Z",
+            "last_commit": "2026-03-14T03:28:57Z",
             "owner": "docandrew",
             "repo": "CuBit",
             "stars": 86
@@ -574,7 +574,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nim",
-            "last_commit": "2026-03-12T04:15:11Z",
+            "last_commit": "2026-03-13T04:19:46Z",
             "owner": "thindil",
             "repo": "steamsky",
             "stars": 101
@@ -744,6 +744,32 @@
             "owner": "tsoding",
             "repo": "eepers",
             "stars": 448
+          }
+        },
+        {
+          "children": [],
+          "description": "A Game Boy emulation library in Ada.",
+          "title": "gade",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-03-14T02:14:12Z",
+            "owner": "ellamosi",
+            "repo": "gade",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
+          "description": "An SDL2 Game Boy emulation front end for  using .",
+          "title": "gade-sdl",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-03-14T02:12:17Z",
+            "owner": "ellamosi",
+            "repo": "gade-sdl",
+            "stars": 0
           }
         }
       ],
@@ -1182,6 +1208,19 @@
             "repo": "scripted_testing",
             "stars": 2
           }
+        },
+        {
+          "children": [],
+          "description": "Ada testing framework, part of .",
+          "title": "testy",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-03-12T10:23:59Z",
+            "owner": "tomekw",
+            "repo": "testy",
+            "stars": 2
+          }
         }
       ],
       "title": "Unit Test, Testing"
@@ -1246,7 +1285,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-03-13T00:54:57Z",
+            "last_commit": "2026-03-13T17:35:21Z",
             "owner": "AdaCore",
             "repo": "gnatcoverage",
             "stars": 46
@@ -1264,7 +1303,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-03-13T00:20:37Z",
+            "last_commit": "2026-03-13T14:46:47Z",
             "owner": "AdaCore",
             "repo": "spark2014",
             "stars": 297
@@ -1521,7 +1560,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-03-13T00:55:57Z",
+            "last_commit": "2026-03-13T14:01:25Z",
             "owner": "AdaCore",
             "repo": "ada_language_server",
             "stars": 289
@@ -3241,7 +3280,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-03-11T22:43:51Z",
+            "last_commit": "2026-03-13T20:46:46Z",
             "owner": "gabriele-galeotti",
             "repo": "SweetAda",
             "stars": 50
@@ -3704,6 +3743,43 @@
       "items": [
         {
           "children": [],
+          "description": "A simple 3DS Max model renderer.",
+          "title": "ada-3ds",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2015-01-05T02:21:13Z",
+            "owner": "AdaDoom3",
+            "repo": "Ada3DS",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "A tool to help to sing in tune.",
+          "title": "canta"
+        },
+        {
+          "children": [],
+          "description": "A stand-alone lightweight auxiliary video player support for .",
+          "title": "blackvideo-mini-player",
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-03-13T14:16:54Z",
+            "owner": "BlackBlazent",
+            "repo": "blackvideo-mini-player",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Multimedia"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
           "description": "Apollo 11 lunar lander simulator (/Cairo).",
           "title": "eagle-lander",
           "repo_info": {
@@ -3722,10 +3798,10 @@
           "repo_info": {
             "archived": false,
             "language": "VHDL",
-            "last_commit": "2026-03-12T07:32:00Z",
+            "last_commit": "2026-03-13T19:00:41Z",
             "owner": "ghdl",
             "repo": "ghdl",
-            "stars": 2766
+            "stars": 2767
           }
         },
         {
@@ -4006,7 +4082,7 @@
             "last_commit": "2025-01-21T17:50:13Z",
             "owner": "mk270",
             "repo": "whitakers-words",
-            "stars": 311
+            "stars": 312
           }
         },
         {
@@ -4040,7 +4116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-13T04:14:00.140Z",
+    "last_updated": "2026-03-14T04:12:19.158Z",
     "original_repository": "ohenley/awesome-ada",
     "source_repository": "v1nvn/enhansome-ada",
     "source_repository_description": null,
