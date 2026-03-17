@@ -56,7 +56,7 @@
             "last_commit": "2026-02-17T17:51:17Z",
             "owner": "microsoft",
             "repo": "ApplicationInspector",
-            "stars": 4387
+            "stars": 4388
           }
         },
         {
@@ -91,10 +91,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-16T02:33:26Z",
+            "last_commit": "2026-03-16T09:16:50Z",
             "owner": "Bearer",
             "repo": "bearer",
-            "stars": 2593
+            "stars": 2594
           }
         },
         {
@@ -193,6 +193,11 @@
         },
         {
           "children": [],
+          "description": "Builds knowledge graphs from multi-language codebases using Tree-sitter AST parsing and stores them in Memgraph. Supports 11 programming languages with a unified graph schema and enables natural language querying and editing of code structure and relationships. Functions as an MCP server for AI assistant integration.",
+          "title": "Code-Graph-RAG"
+        },
+        {
+          "children": [],
           "description": "copyright: — Automated code review tool integrates with GitHub, Bitbucket and GitLab (even self-hosted). Available for JavaScript, TypeScript, Python, Ruby, Go, PHP, Java, Docker, and more. (open-source free)",
           "title": "Codeac"
         },
@@ -228,10 +233,10 @@
           "repo_info": {
             "archived": false,
             "language": "CodeQL",
-            "last_commit": "2026-03-16T03:10:57Z",
+            "last_commit": "2026-03-16T21:12:05Z",
             "owner": "github",
             "repo": "codeql",
-            "stars": 9329
+            "stars": 9342
           }
         },
         {
@@ -347,6 +352,19 @@
         },
         {
           "children": [],
+          "description": "Linter for dangerous Postgres migration patterns in Diesel and SQLx. Prevents downtime caused by unsafe schema changes.",
+          "title": "diesel-guard",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-17T02:51:06Z",
+            "owner": "ayarotsky",
+            "repo": "diesel-guard",
+            "stars": 106
+          }
+        },
+        {
+          "children": [],
           "description": "A code formatter for .NET. Preferences will be read from an  file, if present, otherwise a default set of preferences will be used. At this time dotnet-format is able to format C# and Visual Basic projects with a subset of supported  options.",
           "title": "dotnet-format",
           "repo_info": {
@@ -380,10 +398,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-15T14:50:52Z",
+            "last_commit": "2026-03-16T21:14:06Z",
             "owner": "eslint",
             "repo": "eslint",
-            "stars": 27202
+            "stars": 27212
           }
         },
         {
@@ -458,6 +476,11 @@
         },
         {
           "children": [],
+          "description": "jQAssistant is a plugin based software analytics platform which allows scanning code structures and metadata from repositories into a Neo4j graph database.  The gathered data can be used for ad-hoc exploration using queries, visualization or defining rules for continuous architecture validation.",
+          "title": "jQAssistant"
+        },
+        {
+          "children": [],
           "description": "Keploy is an open-source testing platform that helps developers automate and streamline their testing process. It provides API, and integration testing agents, generating tests, mocks/stubs for APIs that actually work. Additionally, Keploy offers an AI-powered Unit Testing Agent that generates stable, useful unit tests directly in your GitHub PRs and in VSCode, helping catch errors and improve code quality.",
           "title": "keploy"
         },
@@ -491,7 +514,7 @@
             "last_commit": "2026-03-02T07:11:37Z",
             "owner": "terryyin",
             "repo": "lizard",
-            "stars": 2289
+            "stars": 2290
           }
         },
         {
@@ -549,10 +572,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-16T02:04:11Z",
+            "last_commit": "2026-03-17T04:14:22Z",
             "owner": "oxc-project",
             "repo": "oxc",
-            "stars": 20039
+            "stars": 20081
           }
         },
         {
@@ -608,7 +631,7 @@
             "last_commit": "2026-03-16T04:25:07Z",
             "owner": "prontolabs",
             "repo": "pronto",
-            "stars": 2661
+            "stars": 2662
           }
         },
         {
@@ -623,7 +646,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-15T18:33:02Z",
+            "last_commit": "2026-03-16T20:58:43Z",
             "owner": "coderaiser",
             "repo": "putout",
             "stars": 782
@@ -700,7 +723,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-03-16T03:01:59Z",
+            "last_commit": "2026-03-17T00:42:44Z",
             "owner": "dotnet",
             "repo": "roslyn-analyzers",
             "stars": 1670
@@ -773,10 +796,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-11T00:35:42Z",
+            "last_commit": "2026-03-16T05:38:39Z",
             "owner": "duriantaco",
             "repo": "skylos",
-            "stars": 335
+            "stars": 336
           }
         },
         {
@@ -890,10 +913,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-13T17:53:20Z",
+            "last_commit": "2026-03-16T07:25:58Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 33145
+            "stars": 33163
           }
         },
         {
@@ -911,7 +934,7 @@
             "last_commit": "2023-12-25T08:33:11Z",
             "owner": "Tencent",
             "repo": "TscanCode",
-            "stars": 2114
+            "stars": 2115
           }
         },
         {
@@ -970,7 +993,7 @@
             "last_commit": "2024-07-12T16:50:14Z",
             "owner": "weggli-rs",
             "repo": "weggli",
-            "stars": 2483
+            "stars": 2482
           }
         },
         {
@@ -1029,7 +1052,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-03-10T22:28:47Z",
+            "last_commit": "2026-03-17T00:37:45Z",
             "owner": "mcandre",
             "repo": "linters",
             "stars": 349
@@ -1073,7 +1096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-16T04:44:48.434Z",
+    "last_updated": "2026-03-17T04:24:00.583Z",
     "original_repository": "analysis-tools-dev/static-analysis",
     "source_repository": "v1nvn/enhansome-static-analysis",
     "source_repository_description": null,
