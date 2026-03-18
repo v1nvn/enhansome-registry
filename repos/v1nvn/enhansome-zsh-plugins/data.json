@@ -23,7 +23,7 @@
             "last_commit": "2025-02-09T17:51:07Z",
             "owner": "rossmacarthur",
             "repo": "zsh-plugin-manager-benchmark",
-            "stars": 122
+            "stars": 123
           }
         },
         {
@@ -183,12 +183,12 @@
       "title": "zeesh"
     },
     {
-      "description": "zgem is a plugin manager for ZSH that supports loading and updating plugins and themes from git, http and local files.",
+      "description": "zgem is a plugin manager for ZSH that supports loading and updating plugins and themes from , http and local files.",
       "items": [],
       "title": "zgem"
     },
     {
-      "description": "Zgen is currently not being actively maintained. I recommend you use the zgenom fork instead, which is actively maintained and continues to get new features and bug fixes.\nZgen is a lightweight plugin manager for ZSH inspired by Antigen. The goal is to have minimal overhead when starting up the shell because nobody likes waiting.",
+      "description": "Zgen is currently not being actively maintained. I recommend you use the zgenom fork instead, which is actively maintained and continues to get new features and bug fixes.\nZgen was a lightweight plugin manager for ZSH inspired by Antigen. The goal was to have minimal overhead when starting up the shell because nobody likes waiting.",
       "items": [],
       "title": "zgen"
     },
@@ -257,7 +257,7 @@
                 "last_commit": "2026-03-16T11:00:44Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 185422
+                "stars": 185419
               }
             },
             {
@@ -280,7 +280,7 @@
                 "last_commit": "2026-03-04T09:40:33Z",
                 "owner": "zplug",
                 "repo": "zplug",
-                "stars": 6003
+                "stars": 6002
               }
             }
           ],
@@ -292,7 +292,7 @@
             "last_commit": "2026-03-16T11:00:44Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 185422
+            "stars": 185419
           }
         },
         {
@@ -340,10 +340,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-17T02:45:00Z",
+            "last_commit": "2026-03-18T01:18:57Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 78674
+            "stars": 78687
           }
         },
         {
@@ -356,7 +356,7 @@
             "last_commit": "2026-03-04T09:40:33Z",
             "owner": "zplug",
             "repo": "zplug",
-            "stars": 6003
+            "stars": 6002
           }
         }
       ],
@@ -403,7 +403,7 @@
       "title": "Setups"
     },
     {
-      "description": "If you're on a Mac, the that comes with it is usually pretty stale. You can use to update it.\nMany of the themes here use special glyphs for things like displaying a branch icon. You'll need to use a Nerd Font or a Powerline-compatible font in your terminal program or you'll see ugly broken boxes where the symbols should be.\nHere are a few good sources for Nerd Fonts and Powerline-compatible fonts:",
+      "description": "If you're on a Mac, the that comes with each OS update is usually very stale. You can use to update it.\nMany of the themes here use special glyphs for things like displaying a branch icon. You'll need to use a Nerd Font or a Powerline-compatible font in your terminal program or you'll see ugly broken boxes where the symbols should be.\nHere are a few good sources for Nerd Fonts and Powerline-compatible fonts:",
       "items": [
         {
           "children": [],
@@ -428,7 +428,7 @@
             "last_commit": "2025-03-06T03:26:32Z",
             "owner": "microsoft",
             "repo": "cascadia-code",
-            "stars": 27574
+            "stars": 27578
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2020-12-16T10:22:30Z",
             "owner": "mozilla",
             "repo": "Fira",
-            "stars": 5155
+            "stars": 5156
           }
         },
         {
@@ -479,6 +479,19 @@
         },
         {
           "children": [],
+          "description": "Monaspace is five interchangable type families, each of which is packaged into three distinct formats. You can install all of them side-by-side; their family names are distinct by family and format.",
+          "title": "Monaspace",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-04T21:03:01Z",
+            "owner": "githubnext",
+            "repo": "monaspace",
+            "stars": 18616
+          }
+        },
+        {
+          "children": [],
           "description": "Monoid is customizable and optimized for coding with bitmap-like sharpness at 15px line-height even on low res displays.",
           "title": "Monoid"
         },
@@ -489,7 +502,7 @@
         },
         {
           "children": [],
-          "description": "Another site to download Nerd Fonts.",
+          "description": "Another site collecting Nerd Fonts to download.",
           "title": "More Nerd Fonts"
         },
         {
@@ -499,10 +512,10 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-02-07T18:04:48Z",
+            "last_commit": "2026-03-17T19:17:14Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 62037
+            "stars": 62049
           }
         },
         {
@@ -515,7 +528,7 @@
             "last_commit": "2024-03-22T16:47:30Z",
             "owner": "powerline",
             "repo": "fonts",
-            "stars": 26235
+            "stars": 26233
           }
         },
         {
@@ -557,7 +570,7 @@
             "last_commit": "2026-02-26T16:01:25Z",
             "owner": "sorin-ionescu",
             "repo": "prezto",
-            "stars": 14479
+            "stars": 14480
           }
         },
         {
@@ -969,7 +982,7 @@
             "last_commit": "2024-02-09T22:53:42Z",
             "owner": "momo-lab",
             "repo": "zsh-abbrev-alias",
-            "stars": 122
+            "stars": 121
           }
         },
         {
@@ -1736,7 +1749,7 @@
             "last_commit": "2026-03-16T14:55:56Z",
             "owner": "marlonrichert",
             "repo": "zsh-autocomplete",
-            "stars": 6450
+            "stars": 6452
           }
         },
         {
@@ -1866,7 +1879,7 @@
             "last_commit": "2025-06-24T16:15:03Z",
             "owner": "zsh-users",
             "repo": "zsh-autosuggestions",
-            "stars": 35031
+            "stars": 35043
           }
         },
         {
@@ -2321,7 +2334,7 @@
             "last_commit": "2025-11-05T15:44:20Z",
             "owner": "StackExchange",
             "repo": "blackbox",
-            "stars": 6768
+            "stars": 6769
           }
         },
         {
@@ -2976,7 +2989,7 @@
             "last_commit": "2025-03-22T23:56:40Z",
             "owner": "tom-doerr",
             "repo": "zsh_codex",
-            "stars": 1714
+            "stars": 1716
           }
         },
         {
@@ -3311,7 +3324,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-17T02:25:27Z",
+            "last_commit": "2026-03-18T02:30:29Z",
             "owner": "phucisstupid",
             "repo": "cowsay.zsh",
             "stars": 4
@@ -3415,7 +3428,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-01-19T09:10:57Z",
+            "last_commit": "2026-03-17T15:32:54Z",
             "owner": "aemonge",
             "repo": "zsh-cycle-jobs",
             "stars": 7
@@ -3925,7 +3938,7 @@
             "last_commit": "2024-04-28T02:15:31Z",
             "owner": "kazhala",
             "repo": "dotbare",
-            "stars": 727
+            "stars": 726
           }
         },
         {
@@ -4250,7 +4263,7 @@
             "last_commit": "2025-11-24T17:05:19Z",
             "owner": "mroth",
             "repo": "evalcache",
-            "stars": 258
+            "stars": 259
           }
         },
         {
@@ -4367,7 +4380,7 @@
             "last_commit": "2026-01-01T08:08:34Z",
             "owner": "z-shell",
             "repo": "zsh-eza",
-            "stars": 114
+            "stars": 115
           }
         },
         {
@@ -4420,6 +4433,19 @@
             "owner": "zigius",
             "repo": "expand-ealias.plugin.zsh",
             "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Expand command-position  aliases when you press space.",
+          "title": "expand-space",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-16T14:42:51Z",
+            "owner": "spqw",
+            "repo": "zsh-alias-expand-space",
+            "stars": 0
           }
         },
         {
@@ -4562,7 +4588,7 @@
             "last_commit": "2026-01-01T08:08:34Z",
             "owner": "z-shell",
             "repo": "zsh-eza",
-            "stars": 114
+            "stars": 115
           }
         },
         {
@@ -4650,7 +4676,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2025-01-20T16:04:57Z",
+            "last_commit": "2026-03-17T15:54:24Z",
             "owner": "QuarticCat",
             "repo": "zsh-smartcache",
             "stars": 45
@@ -4871,10 +4897,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-17T04:07:55Z",
+            "last_commit": "2026-03-17T16:22:32Z",
             "owner": "wfxr",
             "repo": "forgit",
-            "stars": 4927
+            "stars": 4928
           }
         },
         {
@@ -4939,7 +4965,7 @@
             "last_commit": "2024-02-25T23:44:23Z",
             "owner": "mrjohannchang",
             "repo": "fz.sh",
-            "stars": 573
+            "stars": 572
           }
         },
         {
@@ -5170,7 +5196,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-16T02:38:58Z",
+            "last_commit": "2026-03-17T11:39:13Z",
             "owner": "Aloxaf",
             "repo": "fzf-tab",
             "stars": 4570
@@ -5628,7 +5654,7 @@
             "last_commit": "2025-11-06T19:05:18Z",
             "owner": "Maks0u",
             "repo": "git-graph",
-            "stars": 1
+            "stars": 2
           }
         },
         {
@@ -5755,7 +5781,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-14T22:39:04Z",
+            "last_commit": "2026-03-17T08:51:08Z",
             "owner": "shields",
             "repo": "git-prompt-watcher",
             "stars": 0
@@ -5810,7 +5836,7 @@
             "last_commit": "2026-03-03T21:03:51Z",
             "owner": "sobolevn",
             "repo": "git-secret",
-            "stars": 3992
+            "stars": 3993
           }
         },
         {
@@ -6382,7 +6408,7 @@
             "last_commit": "2023-07-09T12:11:30Z",
             "owner": "oldratlee",
             "repo": "hacker-quotes",
-            "stars": 101
+            "stars": 102
           }
         },
         {
@@ -6525,7 +6551,7 @@
             "last_commit": "2024-04-27T05:27:19Z",
             "owner": "larkery",
             "repo": "zsh-histdb",
-            "stars": 1360
+            "stars": 1359
           }
         },
         {
@@ -6616,7 +6642,7 @@
             "last_commit": "2023-04-24T13:16:16Z",
             "owner": "zdharma-continuum",
             "repo": "history-search-multi-word",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -6629,7 +6655,7 @@
             "last_commit": "2026-01-15T17:44:56Z",
             "owner": "zsh-users",
             "repo": "zsh-history-substring-search",
-            "stars": 3006
+            "stars": 3007
           }
         },
         {
@@ -6655,7 +6681,7 @@
             "last_commit": "2025-12-18T00:25:21Z",
             "owner": "wulfgarpro",
             "repo": "history-sync",
-            "stars": 267
+            "stars": 268
           }
         },
         {
@@ -6964,7 +6990,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-04T18:01:44Z",
+            "last_commit": "2026-03-17T21:25:27Z",
             "owner": "gnachman",
             "repo": "iTerm2-shell-integration",
             "stars": 64
@@ -7201,7 +7227,7 @@
             "last_commit": "2023-02-04T05:43:53Z",
             "owner": "supercrabtree",
             "repo": "k",
-            "stars": 1814
+            "stars": 1815
           }
         },
         {
@@ -7783,7 +7809,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-03T06:35:12Z",
+            "last_commit": "2026-03-17T23:11:46Z",
             "owner": "m3at",
             "repo": "zsh-llm-replace",
             "stars": 2
@@ -8930,7 +8956,7 @@
             "last_commit": "2024-07-03T04:34:11Z",
             "owner": "lukechilds",
             "repo": "zsh-nvm",
-            "stars": 2396
+            "stars": 2397
           }
         },
         {
@@ -9286,7 +9312,7 @@
             "last_commit": "2026-03-15T17:31:06Z",
             "owner": "stefanoamorelli",
             "repo": "zsh-paste-guard",
-            "stars": 0
+            "stars": 1
           }
         },
         {
@@ -10219,7 +10245,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-16T23:22:24Z",
+            "last_commit": "2026-03-18T00:59:09Z",
             "owner": "fab1o",
             "repo": "pump-zsh",
             "stars": 0
@@ -11558,7 +11584,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2025-01-20T16:04:57Z",
+            "last_commit": "2026-03-17T15:54:24Z",
             "owner": "QuarticCat",
             "repo": "zsh-smartcache",
             "stars": 45
@@ -11990,7 +12016,7 @@
             "last_commit": "2026-02-08T16:50:52Z",
             "owner": "zsh-users",
             "repo": "zsh-syntax-highlighting",
-            "stars": 22368
+            "stars": 22375
           }
         },
         {
@@ -12484,7 +12510,7 @@
             "last_commit": "2026-03-08T02:28:45Z",
             "owner": "tinted-theming",
             "repo": "tinted-shell",
-            "stars": 82
+            "stars": 81
           }
         },
         {
@@ -13173,7 +13199,7 @@
             "last_commit": "2026-01-14T01:17:32Z",
             "owner": "jeffreytse",
             "repo": "zsh-vi-mode",
-            "stars": 4252
+            "stars": 4253
           }
         },
         {
@@ -13927,7 +13953,7 @@
             "last_commit": "2026-02-26T11:49:10Z",
             "owner": "MichaelAquilina",
             "repo": "zsh-you-should-use",
-            "stars": 1869
+            "stars": 1870
           }
         },
         {
@@ -14119,10 +14145,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-16T21:06:41Z",
+            "last_commit": "2026-03-17T15:01:00Z",
             "owner": "zellij-org",
             "repo": "zellij",
-            "stars": 30031
+            "stars": 30070
           }
         },
         {
@@ -14135,7 +14161,7 @@
             "last_commit": "2026-03-14T00:04:12Z",
             "owner": "yuki-yano",
             "repo": "zeno.zsh",
-            "stars": 287
+            "stars": 288
           }
         },
         {
@@ -14356,7 +14382,7 @@
             "last_commit": "2025-02-15T15:31:38Z",
             "owner": "zdharma-continuum",
             "repo": "zinit-annex-patch-dl",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -14382,7 +14408,7 @@
             "last_commit": "2025-04-12T12:48:59Z",
             "owner": "zdharma-continuum",
             "repo": "zinit-annex-rust",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -14473,7 +14499,7 @@
             "last_commit": "2026-02-21T15:30:26Z",
             "owner": "Piotr1215",
             "repo": "zledit",
-            "stars": 11
+            "stars": 12
           }
         },
         {
@@ -14577,7 +14603,7 @@
             "last_commit": "2026-03-16T20:19:31Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 34567
+            "stars": 34584
           }
         },
         {
@@ -14691,7 +14717,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2025-08-20T12:54:27Z",
+            "last_commit": "2026-03-17T15:32:58Z",
             "owner": "aemonge",
             "repo": "zsh-hookie-projects",
             "stars": 0
@@ -14785,7 +14811,7 @@
             "last_commit": "2026-02-24T18:04:44Z",
             "owner": "agkozak",
             "repo": "zsh-z",
-            "stars": 2351
+            "stars": 2355
           }
         },
         {
@@ -15360,7 +15386,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-16T21:05:23Z",
+            "last_commit": "2026-03-17T18:42:19Z",
             "owner": "carapace-sh",
             "repo": "carapace-bin",
             "stars": 1737
@@ -15438,7 +15464,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-15T07:04:27Z",
+            "last_commit": "2026-03-17T12:24:59Z",
             "owner": "wbingli",
             "repo": "zsh-claudecode-completion",
             "stars": 12
@@ -15685,7 +15711,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-17T02:36:55Z",
+            "last_commit": "2026-03-18T02:42:56Z",
             "owner": "jygastaud",
             "repo": "dagger-oh-my-zsh",
             "stars": 1
@@ -16218,7 +16244,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-03-10T15:50:06Z",
+            "last_commit": "2026-03-17T10:24:42Z",
             "owner": "gradle",
             "repo": "gradle-completion",
             "stars": 1097
@@ -16364,7 +16390,7 @@
             "last_commit": "2026-03-16T17:42:40Z",
             "owner": "microsoft",
             "repo": "inshellisense",
-            "stars": 9801
+            "stars": 9800
           }
         },
         {
@@ -16611,7 +16637,7 @@
             "last_commit": "2026-02-22T12:03:01Z",
             "owner": "duoyuncloud",
             "repo": "zsh-llm-cli-autocomplete-tool",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -16676,7 +16702,7 @@
             "last_commit": "2026-02-25T00:28:48Z",
             "owner": "cantino",
             "repo": "mcfly",
-            "stars": 7641
+            "stars": 7643
           }
         },
         {
@@ -17352,7 +17378,7 @@
             "last_commit": "2026-02-25T11:15:40Z",
             "owner": "sunlei",
             "repo": "zsh-ssh",
-            "stars": 206
+            "stars": 207
           }
         },
         {
@@ -19640,11 +19666,6 @@
         },
         {
           "children": [],
-          "description": "Includes  status decorations.",
-          "title": "brunty"
-        },
-        {
-          "children": [],
           "description": "Inspired by the  and  themes.",
           "title": "bryce-robbyrussell",
           "repo_info": {
@@ -20373,7 +20394,7 @@
             "last_commit": "2022-12-23T19:11:48Z",
             "owner": "wesbos",
             "repo": "Cobalt2-iterm",
-            "stars": 1213
+            "stars": 1212
           }
         },
         {
@@ -21098,7 +21119,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-16T16:08:53Z",
+            "last_commit": "2026-03-18T04:02:21Z",
             "owner": "sabertazimi",
             "repo": "dotfiles",
             "stars": 13
@@ -24616,7 +24637,7 @@
             "last_commit": "2026-02-17T17:48:59Z",
             "owner": "liquidprompt",
             "repo": "liquidprompt",
-            "stars": 4637
+            "stars": 4638
           }
         },
         {
@@ -25814,10 +25835,10 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-02-07T18:04:48Z",
+            "last_commit": "2026-03-17T19:17:14Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 62037
+            "stars": 62049
           }
         },
         {
@@ -26760,7 +26781,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2024-12-07T15:05:19Z",
+            "last_commit": "2026-03-18T03:50:43Z",
             "owner": "persiliao",
             "repo": "persi-zsh-theme",
             "stars": 3
@@ -27049,7 +27070,7 @@
             "last_commit": "2026-03-14T06:07:30Z",
             "owner": "romkatv",
             "repo": "powerlevel10k",
-            "stars": 53334
+            "stars": 53324
           }
         },
         {
@@ -27166,7 +27187,7 @@
             "last_commit": "2024-03-19T14:08:57Z",
             "owner": "b-ryan",
             "repo": "powerline-shell",
-            "stars": 6309
+            "stars": 6310
           }
         },
         {
@@ -27179,7 +27200,7 @@
             "last_commit": "2024-03-19T14:08:57Z",
             "owner": "b-ryan",
             "repo": "powerline-shell",
-            "stars": 6309
+            "stars": 6310
           }
         },
         {
@@ -27504,7 +27525,7 @@
             "last_commit": "2026-02-11T12:03:02Z",
             "owner": "sindresorhus",
             "repo": "pure",
-            "stars": 14138
+            "stars": 14140
           }
         },
         {
@@ -29435,10 +29456,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-16T22:32:20Z",
+            "last_commit": "2026-03-17T20:52:40Z",
             "owner": "spaceship-prompt",
             "repo": "spaceship-prompt",
-            "stars": 20417
+            "stars": 20416
           }
         },
         {
@@ -29913,11 +29934,6 @@
             "repo": "Termux-zsh-theme",
             "stars": 1
           }
-        },
-        {
-          "children": [],
-          "description": "Theme inspired by  and linuxer.",
-          "title": "termuxer"
         },
         {
           "children": [],
@@ -31621,7 +31637,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-14T10:06:23Z",
+            "last_commit": "2026-03-17T12:19:57Z",
             "owner": "nrjdalal",
             "repo": "zshify",
             "stars": 5
@@ -31793,10 +31809,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-14T20:31:21Z",
+            "last_commit": "2026-03-18T00:02:06Z",
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 21870
+            "stars": 21876
           }
         },
         {
@@ -31809,7 +31825,7 @@
             "last_commit": "2026-03-16T01:16:11Z",
             "owner": "subframe7536",
             "repo": "maple-font",
-            "stars": 24489
+            "stars": 24507
           }
         },
         {
@@ -31824,10 +31840,10 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-02-07T18:04:48Z",
+            "last_commit": "2026-03-17T19:17:14Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 62037
+            "stars": 62049
           }
         },
         {
@@ -31840,7 +31856,7 @@
             "last_commit": "2024-03-22T16:47:30Z",
             "owner": "powerline",
             "repo": "fonts",
-            "stars": 26235
+            "stars": 26233
           }
         },
         {
@@ -31853,7 +31869,7 @@
             "last_commit": "2023-07-02T00:33:46Z",
             "owner": "shaunsingh",
             "repo": "SFMono-Nerd-Font-Ligaturized",
-            "stars": 1018
+            "stars": 1017
           }
         },
         {
@@ -31979,7 +31995,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-16T14:04:10Z",
+            "last_commit": "2026-03-17T11:33:28Z",
             "owner": "adaszko",
             "repo": "complgen",
             "stars": 294
@@ -31995,7 +32011,7 @@
             "last_commit": "2026-03-09T18:13:39Z",
             "owner": "crazy-complete",
             "repo": "crazy-complete",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -32057,7 +32073,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-17T01:34:55Z",
+            "last_commit": "2026-03-18T03:01:25Z",
             "owner": "Agentrifat",
             "repo": "scog",
             "stars": 0
@@ -32196,7 +32212,7 @@
             "last_commit": "2024-07-29T13:08:35Z",
             "owner": "jondot",
             "repo": "awesome-devenv",
-            "stars": 3184
+            "stars": 3185
           }
         },
         {
@@ -32206,10 +32222,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-03-16T19:29:03Z",
+            "last_commit": "2026-03-17T09:01:08Z",
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 33232
+            "stars": 33241
           }
         },
         {
@@ -32222,7 +32238,7 @@
             "last_commit": "2024-07-26T15:27:31Z",
             "owner": "k4m4",
             "repo": "terminals-are-sexy",
-            "stars": 12927
+            "stars": 12928
           }
         }
       ],
@@ -32235,7 +32251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-17T04:20:41.047Z",
+    "last_updated": "2026-03-18T04:26:43.395Z",
     "original_repository": "unixorn/awesome-zsh-plugins",
     "source_repository": "v1nvn/enhansome-zsh-plugins",
     "source_repository_description": null,
