@@ -812,7 +812,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T21:20:19Z",
+            "last_commit": "2026-03-18T15:50:27Z",
             "owner": "diybitcoinhardware",
             "repo": "embit",
             "stars": 108
@@ -1222,7 +1222,7 @@
             "last_commit": "2026-03-16T15:03:14Z",
             "owner": "peterhinch",
             "repo": "micropython-async",
-            "stars": 820
+            "stars": 819
           }
         }
       ],
@@ -2249,10 +2249,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T05:24:12Z",
+            "last_commit": "2026-03-19T02:11:34Z",
             "owner": "micropython",
             "repo": "micropython-lib",
-            "stars": 2770
+            "stars": 2771
           }
         },
         {
@@ -2365,10 +2365,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T05:24:12Z",
+            "last_commit": "2026-03-19T02:11:34Z",
             "owner": "micropython",
             "repo": "micropython-lib",
-            "stars": 2770
+            "stars": 2771
           }
         },
         {
@@ -2492,6 +2492,19 @@
           "children": [],
           "description": "DCF77 receiver and decoder.",
           "title": "micropython_dcf77"
+        },
+        {
+          "children": [],
+          "description": "Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver and Decoder.",
+          "title": "MicroPython-BresserWeatherSensorReceiver",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-13T08:07:02Z",
+            "owner": "matthias-bs",
+            "repo": "MicroPython-BresserWeatherSensorReceiver",
+            "stars": 5
+          }
         }
       ],
       "title": "Radio"
@@ -2747,7 +2760,7 @@
             "last_commit": "2026-03-16T15:03:14Z",
             "owner": "peterhinch",
             "repo": "micropython-async",
-            "stars": 820
+            "stars": 819
           }
         },
         {
@@ -2953,7 +2966,7 @@
             "last_commit": "2024-05-14T17:04:49Z",
             "owner": "belyalov",
             "repo": "tinyweb",
-            "stars": 279
+            "stars": 278
           }
         },
         {
@@ -3083,7 +3096,7 @@
             "last_commit": "2026-03-10T23:30:41Z",
             "owner": "miguelgrinberg",
             "repo": "microdot",
-            "stars": 2093
+            "stars": 2094
           }
         },
         {
@@ -3200,7 +3213,7 @@
             "last_commit": "2026-03-12T20:22:01Z",
             "owner": "kritishmohapatra",
             "repo": "micropidash",
-            "stars": 10
+            "stars": 11
           }
         },
         {
@@ -3566,7 +3579,7 @@
             "last_commit": "2023-06-05T22:59:13Z",
             "owner": "mark-gladding",
             "repo": "packed-font",
-            "stars": 31
+            "stars": 32
           }
         },
         {
@@ -4060,10 +4073,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T05:24:12Z",
+            "last_commit": "2026-03-19T02:11:34Z",
             "owner": "micropython",
             "repo": "micropython-lib",
-            "stars": 2770
+            "stars": 2771
           }
         },
         {
@@ -4251,7 +4264,7 @@
             "last_commit": "2026-02-13T19:31:33Z",
             "owner": "russhughes",
             "repo": "st7789_mpy",
-            "stars": 694
+            "stars": 695
           }
         },
         {
@@ -5014,10 +5027,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T05:24:12Z",
+            "last_commit": "2026-03-19T02:11:34Z",
             "owner": "micropython",
             "repo": "micropython-lib",
-            "stars": 2770
+            "stars": 2771
           }
         },
         {
@@ -5822,7 +5835,7 @@
             "last_commit": "2026-03-16T15:03:14Z",
             "owner": "peterhinch",
             "repo": "micropython-async",
-            "stars": 820
+            "stars": 819
           }
         },
         {
@@ -6230,6 +6243,81 @@
       "items": [
         {
           "children": [],
+          "description": "AccelStepper Library for MicroPython - ESP32.",
+          "title": "AccelStepper-MicroPython",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-16T20:52:37Z",
+            "owner": "pedromneto97",
+            "repo": "AccelStepper-MicroPython",
+            "stars": 45
+          }
+        },
+        {
+          "children": [],
+          "description": "MicroPython library for Stepper Driver control using AMIS-30543 driver.",
+          "title": "microPython_AMIS-30543",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-04T01:31:58Z",
+            "owner": "capella-ben",
+            "repo": "microPython_AMIS-30543",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "A MicroPython library for the Trinamic TMC5160 Motion Controller.",
+          "title": "microPython_TMC5160",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-22T07:09:08Z",
+            "owner": "capella-ben",
+            "repo": "microPython_TMC5160",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Driver and example in MicroPython to control a stepper motor via a DRV8825 controller board.",
+          "title": "micropython-drv8825"
+        },
+        {
+          "children": [],
+          "description": "Multiaxis with MicroPython ESP32 and DRV8825.",
+          "title": "micropython-multiaxis"
+        },
+        {
+          "children": [],
+          "description": "RP2040/RP2350 library using PIO and DMA to control a stepper motor.",
+          "title": "micropython-rp2-smartStepper",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-07T19:55:19Z",
+            "owner": "bikeNomad",
+            "repo": "micropython-rp2-smartStepper",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Drive a 28BYJ-48 motor attached to a ULN2003 driver.",
+          "title": "micropython-stepper-motor",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-14T15:44:02Z",
+            "owner": "larsks",
+            "repo": "micropython-stepper-motor",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
           "description": "Library to control common stepper drivers in a tidy way.",
           "title": "micropython-stepper",
           "repo_info": {
@@ -6256,21 +6344,16 @@
         },
         {
           "children": [],
-          "description": "Driver for 5V 28BYJ-48 stepper motors.",
-          "title": "uln2003",
+          "description": "MicroPython Stepper Motor Sequence Control.",
+          "title": "pystepper",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2017-07-29T19:35:48Z",
-            "owner": "IDWizard",
-            "repo": "uln2003",
-            "stars": 49
+            "last_commit": "2019-12-10T15:01:22Z",
+            "owner": "marcio-pessoa",
+            "repo": "pystepper",
+            "stars": 3
           }
-        },
-        {
-          "children": [],
-          "description": "Multiaxis with MicroPython ESP32 and DRV8825.",
-          "title": "micropython-multiaxis"
         },
         {
           "children": [],
@@ -6287,28 +6370,15 @@
         },
         {
           "children": [],
-          "description": "AccelStepper Library for MicroPython - ESP32.",
-          "title": "AccelStepper-MicroPython",
+          "description": "Driver for 5V 28BYJ-48 stepper motors.",
+          "title": "uln2003",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2019-04-16T20:52:37Z",
-            "owner": "pedromneto97",
-            "repo": "AccelStepper-MicroPython",
-            "stars": 45
-          }
-        },
-        {
-          "children": [],
-          "description": "MicroPython Stepper Motor Sequence Control.",
-          "title": "pystepper",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-12-10T15:01:22Z",
-            "owner": "marcio-pessoa",
-            "repo": "pystepper",
-            "stars": 3
+            "last_commit": "2017-07-29T19:35:48Z",
+            "owner": "IDWizard",
+            "repo": "uln2003",
+            "stars": 49
           }
         },
         {
@@ -6322,50 +6392,6 @@
             "owner": "lemariva",
             "repo": "uPySteppers",
             "stars": 15
-          }
-        },
-        {
-          "children": [],
-          "description": "MicroPython library for Stepper Driver control using AMIS-30543 driver.",
-          "title": "microPython_AMIS-30543",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-09-04T01:31:58Z",
-            "owner": "capella-ben",
-            "repo": "microPython_AMIS-30543",
-            "stars": 0
-          }
-        },
-        {
-          "children": [],
-          "description": "Driver and example in MicroPython to control a stepper motor via a DRV8825 controller board.",
-          "title": "micropython-drv8825"
-        },
-        {
-          "children": [],
-          "description": "A MicroPython library for the Trinamic TMC5160 Motion Controller.",
-          "title": "microPython_TMC5160",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-12-22T07:09:08Z",
-            "owner": "capella-ben",
-            "repo": "microPython_TMC5160",
-            "stars": 3
-          }
-        },
-        {
-          "children": [],
-          "description": "Drive a 28BYJ-48 motor attached to a ULN2003 driver.",
-          "title": "micropython-stepper-motor",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-14T15:44:02Z",
-            "owner": "larsks",
-            "repo": "micropython-stepper-motor",
-            "stars": 12
           }
         }
       ],
@@ -8958,10 +8984,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T05:24:12Z",
+            "last_commit": "2026-03-19T02:11:34Z",
             "owner": "micropython",
             "repo": "micropython-lib",
-            "stars": 2770
+            "stars": 2771
           }
         },
         {
@@ -9052,7 +9078,7 @@
             "last_commit": "2026-03-16T15:03:14Z",
             "owner": "peterhinch",
             "repo": "micropython-async",
-            "stars": 820
+            "stars": 819
           }
         },
         {
@@ -9569,7 +9595,7 @@
             "last_commit": "2026-03-16T15:03:14Z",
             "owner": "peterhinch",
             "repo": "micropython-async",
-            "stars": 820
+            "stars": 819
           }
         },
         {
@@ -9985,6 +10011,19 @@
       "items": [
         {
           "children": [],
+          "description": "A 100-day challenge building real-world IoT projects with MicroPython on ESP32, ESP8266 and Raspberry Pi Pico 2W. Step-by-step documented with wiring diagrams and code for beginners.",
+          "title": "100 Days 100 IoT Projects",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T16:03:09Z",
+            "owner": "kritishmohapatra",
+            "repo": "100_Days_100_IoT_Projects",
+            "stars": 274
+          }
+        },
+        {
+          "children": [],
           "description": "Write asynchronous code which interfaces to hardware devices.",
           "title": "asyncio",
           "repo_info": {
@@ -9993,7 +10032,7 @@
             "last_commit": "2026-03-16T15:03:14Z",
             "owner": "peterhinch",
             "repo": "micropython-async",
-            "stars": 820
+            "stars": 819
           }
         },
         {
@@ -10006,7 +10045,7 @@
             "last_commit": "2026-03-16T15:03:14Z",
             "owner": "peterhinch",
             "repo": "micropython-async",
-            "stars": 820
+            "stars": 819
           }
         },
         {
@@ -10081,7 +10120,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-15T14:27:41Z",
+            "last_commit": "2026-03-18T21:58:59Z",
             "owner": "BxNxM",
             "repo": "micrOS",
             "stars": 128
@@ -10149,10 +10188,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-03-17T05:16:38Z",
+            "last_commit": "2026-03-18T22:37:19Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21554
+            "stars": 21555
           }
         },
         {
@@ -10167,10 +10206,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-03-17T05:16:38Z",
+            "last_commit": "2026-03-18T22:37:19Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21554
+            "stars": 21555
           }
         },
         {
@@ -10245,7 +10284,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T22:09:09Z",
+            "last_commit": "2026-03-18T22:07:35Z",
             "owner": "Josverl",
             "repo": "micropython-stubs",
             "stars": 289
@@ -10674,10 +10713,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-03-17T05:16:38Z",
+            "last_commit": "2026-03-18T22:37:19Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21554
+            "stars": 21555
           }
         },
         {
@@ -10774,7 +10813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-18T04:28:11.212Z",
+    "last_updated": "2026-03-19T04:26:36.100Z",
     "original_repository": "mcauser/awesome-micropython",
     "source_repository": "v1nvn/enhansome-micropython",
     "source_repository_description": null,

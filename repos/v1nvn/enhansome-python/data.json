@@ -13,7 +13,7 @@
             "last_commit": "2026-02-26T08:27:52Z",
             "owner": "ajenti",
             "repo": "ajenti",
-            "stars": 7908
+            "stars": 7909
           }
         },
         {
@@ -36,10 +36,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T17:17:58Z",
+            "last_commit": "2026-03-18T15:00:19Z",
             "owner": "unfoldadmin",
             "repo": "django-unfold",
-            "stars": 3371
+            "stars": 3372
           }
         },
         {
@@ -65,7 +65,7 @@
             "last_commit": "2026-03-09T21:22:38Z",
             "owner": "mher",
             "repo": "flower",
-            "stars": 7130
+            "stars": 7133
           }
         },
         {
@@ -96,19 +96,6 @@
         },
         {
           "children": [],
-          "description": "A framework which lets you build dashboards, generate reports, or create chat apps in minutes.",
-          "title": "streamlit",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-18T00:41:56Z",
-            "owner": "streamlit",
-            "repo": "streamlit",
-            "stars": 43926
-          }
-        },
-        {
-          "children": [],
           "description": "A Django app which creates automatic web UIs for Python scripts.",
           "title": "wooey",
           "repo_info": {
@@ -117,11 +104,121 @@
             "last_commit": "2024-03-06T07:07:13Z",
             "owner": "wooey",
             "repo": "Wooey",
-            "stars": 2218
+            "stars": 2219
           }
         }
       ],
       "title": "Admin Panels"
+    },
+    {
+      "description": "Libraries for building AI applications, LLM integrations, and autonomous agents.",
+      "items": [
+        {
+          "children": [],
+          "description": "Open-source Python library for building AI agents and agentic systems.",
+          "title": "agno",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T19:46:39Z",
+            "owner": "agno-agi",
+            "repo": "agno",
+            "stars": 38800
+          }
+        },
+        {
+          "children": [],
+          "description": "AI agents running autonomous research experiments on single-GPU LLM training.",
+          "title": "autoresearch",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-16T18:43:26Z",
+            "owner": "karpathy",
+            "repo": "autoresearch",
+            "stars": 42356
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for extracting structured data from LLMs, powered by Pydantic.",
+          "title": "instructor",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T03:20:08Z",
+            "owner": "567-labs",
+            "repo": "instructor",
+            "stars": 12557
+          }
+        },
+        {
+          "children": [],
+          "description": "Building applications with LLMs through composability.",
+          "title": "langchain",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T01:24:49Z",
+            "owner": "langchain-ai",
+            "repo": "langchain",
+            "stars": 130123
+          }
+        },
+        {
+          "children": [],
+          "description": "A data framework for your LLM application.",
+          "title": "llama_index",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T00:03:15Z",
+            "owner": "run-llama",
+            "repo": "llama_index",
+            "stars": 47779
+          }
+        },
+        {
+          "children": [],
+          "description": "Production-ready Multi-AI Agents framework with self-reflection, 100+ LLM support, MCP integration, and agentic workflows.",
+          "title": "praisonai",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T21:10:00Z",
+            "owner": "MervinPraison",
+            "repo": "PraisonAI",
+            "stars": 5688
+          }
+        },
+        {
+          "children": [],
+          "description": "A Python agent framework for building generative AI applications with structured schemas.",
+          "title": "pydantic-ai",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T23:39:43Z",
+            "owner": "pydantic",
+            "repo": "pydantic-ai",
+            "stars": 15568
+          }
+        },
+        {
+          "children": [],
+          "description": "An open-source RAG engine for document understanding and question answering with LLMs.",
+          "title": "ragflow",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T02:25:36Z",
+            "owner": "infiniflow",
+            "repo": "ragflow",
+            "stars": 75454
+          }
+        }
+      ],
+      "title": "AI and Agents"
     },
     {
       "description": "Python implementation of data structures, algorithms and design patterns. Also see awesome-algorithms.",
@@ -138,7 +235,7 @@
                 "last_commit": "2026-03-13T20:58:07Z",
                 "owner": "keon",
                 "repo": "algorithms",
-                "stars": 25391
+                "stars": 25396
               }
             },
             {
@@ -164,7 +261,7 @@
                 "last_commit": "2024-03-08T17:47:09Z",
                 "owner": "grantjenks",
                 "repo": "python-sortedcontainers",
-                "stars": 3935
+                "stars": 3934
               }
             },
             {
@@ -177,7 +274,7 @@
                 "last_commit": "2026-03-13T21:53:47Z",
                 "owner": "TheAlgorithms",
                 "repo": "Python",
-                "stars": 218773
+                "stars": 218804
               }
             }
           ],
@@ -189,7 +286,7 @@
             "last_commit": "2026-03-13T20:58:07Z",
             "owner": "keon",
             "repo": "algorithms",
-            "stars": 25391
+            "stars": 25396
           }
         },
         {
@@ -217,7 +314,7 @@
                 "last_commit": "2026-03-13T17:04:16Z",
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 42795
+                "stars": 42799
               }
             },
             {
@@ -261,7 +358,7 @@
             "last_commit": "2026-01-05T18:51:27Z",
             "owner": "django",
             "repo": "daphne",
-            "stars": 2651
+            "stars": 2653
           }
         },
         {
@@ -274,7 +371,7 @@
             "last_commit": "2026-03-13T16:11:51Z",
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5174
+            "stars": 5175
           }
         },
         {
@@ -287,7 +384,7 @@
             "last_commit": "2025-11-08T13:49:26Z",
             "owner": "pgjones",
             "repo": "hypercorn",
-            "stars": 1536
+            "stars": 1537
           }
         },
         {
@@ -300,7 +397,7 @@
             "last_commit": "2026-03-16T06:17:46Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10499
+            "stars": 10501
           }
         }
       ],
@@ -351,7 +448,7 @@
             "last_commit": "2026-03-01T21:34:21Z",
             "owner": "gevent",
             "repo": "gevent",
-            "stars": 6443
+            "stars": 6444
           }
         },
         {
@@ -366,10 +463,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-16T22:58:38Z",
+            "last_commit": "2026-03-19T03:06:26Z",
             "owner": "python-trio",
             "repo": "trio",
-            "stars": 7204
+            "stars": 7206
           }
         },
         {
@@ -382,7 +479,7 @@
             "last_commit": "2026-03-16T20:34:24Z",
             "owner": "twisted",
             "repo": "twisted",
-            "stars": 5951
+            "stars": 5952
           }
         },
         {
@@ -395,7 +492,7 @@
             "last_commit": "2026-01-30T14:24:05Z",
             "owner": "MagicStack",
             "repo": "uvloop",
-            "stars": 11687
+            "stars": 11690
           }
         }
       ],
@@ -409,7 +506,7 @@
             {
               "children": [],
               "description": "A library for audio and music analysis, feature extraction.",
-              "title": "audioFlux",
+              "title": "audioflux",
               "repo_info": {
                 "archived": false,
                 "language": "C",
@@ -442,13 +539,13 @@
                 "last_commit": "2024-04-22T19:23:00Z",
                 "owner": "worldveil",
                 "repo": "dejavu",
-                "stars": 6736
+                "stars": 6737
               }
             },
             {
               "children": [],
               "description": "Python library and CLI tool for converting text to speech using Google Translate TTS.",
-              "title": "gTTS",
+              "title": "gtts",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
@@ -481,7 +578,7 @@
                 "last_commit": "2026-03-16T18:35:52Z",
                 "owner": "librosa",
                 "repo": "librosa",
-                "stars": 8264
+                "stars": 8267
               }
             },
             {
@@ -500,12 +597,20 @@
             {
               "children": [],
               "description": "An advanced music theory and notation package with MIDI file and playback support.",
-              "title": "mingus"
+              "title": "mingus",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-04-21T22:15:47Z",
+                "owner": "bspaans",
+                "repo": "python-mingus",
+                "stars": 926
+              }
             },
             {
               "children": [],
               "description": "Audio feature extraction, classification, segmentation and applications.",
-              "title": "pyaudioanalysis",
+              "title": "pyAudioAnalysis",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
@@ -525,13 +630,13 @@
                 "last_commit": "2025-07-26T22:24:06Z",
                 "owner": "jiaaro",
                 "repo": "pydub",
-                "stars": 9744
+                "stars": 9745
               }
             },
             {
               "children": [],
               "description": "Open web audio processing framework.",
-              "title": "timeside",
+              "title": "TimeSide",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
@@ -562,10 +667,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-17T20:48:49Z",
+                "last_commit": "2026-03-18T22:37:11Z",
                 "owner": "beetbox",
                 "repo": "beets",
-                "stars": 14858
+                "stars": 14861
               }
             },
             {
@@ -613,10 +718,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T20:48:49Z",
+            "last_commit": "2026-03-18T22:37:11Z",
             "owner": "beetbox",
             "repo": "beets",
-            "stars": 14858
+            "stars": 14861
           }
         }
       ],
@@ -650,7 +755,7 @@
                 "last_commit": "2026-03-09T13:52:25Z",
                 "owner": "pennersr",
                 "repo": "django-allauth",
-                "stars": 10307
+                "stars": 10309
               }
             },
             {
@@ -703,7 +808,7 @@
                 "last_commit": "2026-03-16T22:02:47Z",
                 "owner": "jpadilla",
                 "repo": "pyjwt",
-                "stars": 5622
+                "stars": 5621
               }
             },
             {
@@ -716,7 +821,7 @@
                 "last_commit": "2026-02-11T02:14:54Z",
                 "owner": "mpdavis",
                 "repo": "python-jose",
-                "stars": 1743
+                "stars": 1744
               }
             }
           ],
@@ -728,7 +833,7 @@
             "last_commit": "2026-03-16T22:02:47Z",
             "owner": "jpadilla",
             "repo": "pyjwt",
-            "stars": 5622
+            "stars": 5621
           }
         }
       ],
@@ -747,7 +852,7 @@
             "last_commit": "2026-03-17T22:49:35Z",
             "owner": "openembedded",
             "repo": "bitbake",
-            "stars": 509
+            "stars": 511
           }
         },
         {
@@ -760,7 +865,7 @@
             "last_commit": "2026-03-07T13:02:59Z",
             "owner": "buildout",
             "repo": "buildout",
-            "stars": 613
+            "stars": 614
           }
         },
         {
@@ -773,7 +878,7 @@
             "last_commit": "2026-02-23T12:44:49Z",
             "owner": "platformio",
             "repo": "platformio-core",
-            "stars": 8935
+            "stars": 8938
           }
         },
         {
@@ -799,7 +904,7 @@
             "last_commit": "2026-03-15T01:43:25Z",
             "owner": "SCons",
             "repo": "scons",
-            "stars": 2357
+            "stars": 2358
           }
         }
       ],
@@ -815,7 +920,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-14T17:54:05Z",
+            "last_commit": "2026-03-18T14:01:10Z",
             "owner": "python-attrs",
             "repo": "attrs",
             "stars": 5746
@@ -846,24 +951,6 @@
             "repo": "Box",
             "stars": 2822
           }
-        },
-        {
-          "children": [],
-          "description": "Python standard library) Data classes.",
-          "title": "dataclasses"
-        },
-        {
-          "children": [],
-          "description": "A library that provides a method of accessing lists and dicts with a dotted path notation.",
-          "title": "dotteddict",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-09T14:16:33Z",
-            "owner": "carlosescri",
-            "repo": "DottedDict",
-            "stars": 222
-          }
         }
       ],
       "title": "Built-in Classes Enhancement"
@@ -891,10 +978,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T19:38:17Z",
+            "last_commit": "2026-03-18T15:48:48Z",
             "owner": "indico",
             "repo": "indico",
-            "stars": 2031
+            "stars": 2033
           }
         },
         {
@@ -904,7 +991,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T01:31:41Z",
+            "last_commit": "2026-03-18T23:41:50Z",
             "owner": "wagtail",
             "repo": "wagtail",
             "stars": 20241
@@ -1017,7 +1104,7 @@
                 "last_commit": "2026-03-18T01:05:00Z",
                 "owner": "vitali87",
                 "repo": "code-graph-rag",
-                "stars": 2134
+                "stars": 2147
               }
             },
             {
@@ -1056,7 +1143,7 @@
                 "last_commit": "2026-03-04T21:50:07Z",
                 "owner": "jendrikseipp",
                 "repo": "vulture",
-                "stars": 4380
+                "stars": 4382
               }
             }
           ],
@@ -1068,7 +1155,7 @@
             "last_commit": "2026-03-18T01:05:00Z",
             "owner": "vitali87",
             "repo": "code-graph-rag",
-            "stars": 2134
+            "stars": 2147
           }
         },
         {
@@ -1110,7 +1197,7 @@
                 "last_commit": "2026-03-17T20:40:20Z",
                 "owner": "pylint-dev",
                 "repo": "pylint",
-                "stars": 5661
+                "stars": 5662
               }
             },
             {
@@ -1120,10 +1207,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-03-18T04:09:40Z",
+                "last_commit": "2026-03-19T01:24:28Z",
                 "owner": "astral-sh",
                 "repo": "ruff",
-                "stars": 46334
+                "stars": 46358
               }
             }
           ],
@@ -1150,7 +1237,7 @@
                 "last_commit": "2026-03-17T00:18:47Z",
                 "owner": "psf",
                 "repo": "black",
-                "stars": 41431
+                "stars": 41432
               }
             },
             {
@@ -1160,10 +1247,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-14T21:01:07Z",
+                "last_commit": "2026-03-18T21:17:04Z",
                 "owner": "PyCQA",
                 "repo": "isort",
-                "stars": 6917
+                "stars": 6916
               }
             },
             {
@@ -1188,7 +1275,7 @@
             "last_commit": "2026-03-17T00:18:47Z",
             "owner": "psf",
             "repo": "black",
-            "stars": 41431
+            "stars": 41432
           }
         },
         {
@@ -1200,10 +1287,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-17T22:24:59Z",
+                "last_commit": "2026-03-18T17:41:16Z",
                 "owner": "python",
                 "repo": "mypy",
-                "stars": 20302
+                "stars": 20304
               }
             },
             {
@@ -1213,10 +1300,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "OCaml",
-                "last_commit": "2026-03-17T19:21:02Z",
+                "last_commit": "2026-03-19T03:45:25Z",
                 "owner": "facebook",
                 "repo": "pyre-check",
-                "stars": 7153
+                "stars": 7150
               }
             },
             {
@@ -1226,10 +1313,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-16T23:40:07Z",
+                "last_commit": "2026-03-18T14:25:29Z",
                 "owner": "astral-sh",
                 "repo": "ty",
-                "stars": 17746
+                "stars": 17758
               }
             },
             {
@@ -1239,10 +1326,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-18T00:46:36Z",
+                "last_commit": "2026-03-18T12:49:52Z",
                 "owner": "python",
                 "repo": "typeshed",
-                "stars": 5022
+                "stars": 5021
               }
             }
           ],
@@ -1269,7 +1356,7 @@
                 "last_commit": "2026-02-11T02:19:15Z",
                 "owner": "Instagram",
                 "repo": "MonkeyType",
-                "stars": 4996
+                "stars": 4995
               }
             },
             {
@@ -1294,7 +1381,7 @@
             "last_commit": "2026-02-11T02:19:15Z",
             "owner": "Instagram",
             "repo": "MonkeyType",
-            "stars": 4996
+            "stars": 4995
           }
         }
       ],
@@ -1333,7 +1420,7 @@
                 "last_commit": "2026-03-15T05:57:36Z",
                 "owner": "pallets",
                 "repo": "click",
-                "stars": 17340
+                "stars": 17335
               }
             },
             {
@@ -1359,7 +1446,7 @@
                 "last_commit": "2026-03-01T08:17:33Z",
                 "owner": "google",
                 "repo": "python-fire",
-                "stars": 28155
+                "stars": 28156
               }
             },
             {
@@ -1372,20 +1459,20 @@
                 "last_commit": "2026-03-17T12:10:47Z",
                 "owner": "prompt-toolkit",
                 "repo": "python-prompt-toolkit",
-                "stars": 10331
+                "stars": 10334
               }
             },
             {
               "children": [],
               "description": "Modern CLI framework that uses Python type hints. Built on Click and Pydantic.",
-              "title": "Typer",
+              "title": "typer",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
                 "last_commit": "2026-03-16T13:02:43Z",
                 "owner": "fastapi",
                 "repo": "typer",
-                "stars": 19042
+                "stars": 19052
               }
             }
           ],
@@ -1412,7 +1499,7 @@
                 "last_commit": "2025-10-10T00:39:31Z",
                 "owner": "rsalmei",
                 "repo": "alive-progress",
-                "stars": 6256
+                "stars": 6257
               }
             },
             {
@@ -1451,7 +1538,7 @@
                 "last_commit": "2025-07-09T17:06:02Z",
                 "owner": "tartley",
                 "repo": "colorama",
-                "stars": 3770
+                "stars": 3771
               }
             },
             {
@@ -1464,7 +1551,7 @@
                 "last_commit": "2026-02-26T09:52:16Z",
                 "owner": "Textualize",
                 "repo": "rich",
-                "stars": 55803
+                "stars": 55804
               }
             },
             {
@@ -1474,10 +1561,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-10T10:02:32Z",
+                "last_commit": "2026-03-18T08:13:55Z",
                 "owner": "Textualize",
                 "repo": "textual",
-                "stars": 34881
+                "stars": 34890
               }
             },
             {
@@ -1490,7 +1577,7 @@
                 "last_commit": "2026-02-14T00:27:00Z",
                 "owner": "tqdm",
                 "repo": "tqdm",
-                "stars": 31042
+                "stars": 31044
               }
             }
           ],
@@ -1502,7 +1589,7 @@
             "last_commit": "2025-10-10T00:39:31Z",
             "owner": "rsalmei",
             "repo": "alive-progress",
-            "stars": 6256
+            "stars": 6257
           }
         }
       ],
@@ -1523,7 +1610,7 @@
                 "last_commit": "2026-03-17T01:51:42Z",
                 "owner": "bfly123",
                 "repo": "claude_code_bridge",
-                "stars": 1646
+                "stars": 1674
               }
             },
             {
@@ -1536,7 +1623,7 @@
                 "last_commit": "2026-03-04T08:51:57Z",
                 "owner": "cookiecutter",
                 "repo": "cookiecutter",
-                "stars": 24745
+                "stars": 24749
               }
             },
             {
@@ -1546,10 +1633,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-16T17:04:05Z",
+                "last_commit": "2026-03-18T20:55:57Z",
                 "owner": "copier-org",
                 "repo": "copier",
-                "stars": 3214
+                "stars": 3215
               }
             },
             {
@@ -1588,13 +1675,13 @@
                 "last_commit": "2025-10-20T02:48:25Z",
                 "owner": "pyinvoke",
                 "repo": "invoke",
-                "stars": 4722
+                "stars": 4720
               }
             },
             {
               "children": [],
               "description": "Select files out of bash output.",
-              "title": "pathpicker",
+              "title": "fpp",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
@@ -1614,7 +1701,7 @@
                 "last_commit": "2024-07-19T14:56:13Z",
                 "owner": "nvbn",
                 "repo": "thefuck",
-                "stars": 95715
+                "stars": 95726
               }
             },
             {
@@ -1627,7 +1714,7 @@
                 "last_commit": "2026-03-17T22:51:51Z",
                 "owner": "tmux-python",
                 "repo": "tmuxp",
-                "stars": 4451
+                "stars": 4452
               }
             },
             {
@@ -1652,7 +1739,7 @@
             "last_commit": "2026-03-17T01:51:42Z",
             "owner": "bfly123",
             "repo": "claude_code_bridge",
-            "stars": 1646
+            "stars": 1674
           }
         },
         {
@@ -1667,7 +1754,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 37722
+                "stars": 37737
               }
             },
             {
@@ -1677,7 +1764,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-13T04:34:47Z",
+                "last_commit": "2026-03-18T06:31:50Z",
                 "owner": "laixintao",
                 "repo": "iredis",
                 "stars": 2728
@@ -1703,10 +1790,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-17T19:32:07Z",
+                "last_commit": "2026-03-18T11:58:14Z",
                 "owner": "dbcli",
                 "repo": "mycli",
-                "stars": 11886
+                "stars": 11890
               }
             },
             {
@@ -1719,7 +1806,7 @@
                 "last_commit": "2026-02-22T03:42:48Z",
                 "owner": "dbcli",
                 "repo": "pgcli",
-                "stars": 13073
+                "stars": 13074
               }
             }
           ],
@@ -1731,7 +1818,7 @@
             "last_commit": "2024-12-17T17:30:35Z",
             "owner": "httpie",
             "repo": "cli",
-            "stars": 37722
+            "stars": 37737
           }
         }
       ],
@@ -1750,7 +1837,7 @@
             "last_commit": "2025-12-05T12:23:12Z",
             "owner": "JaidedAI",
             "repo": "EasyOCR",
-            "stars": 29098
+            "stars": 29109
           }
         },
         {
@@ -1760,16 +1847,24 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T21:13:57Z",
+            "last_commit": "2026-03-18T12:28:31Z",
             "owner": "kornia",
             "repo": "kornia",
-            "stars": 11120
+            "stars": 11121
           }
         },
         {
           "children": [],
           "description": "Open Source Computer Vision Library.",
-          "title": "opencv"
+          "title": "opencv",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T07:13:13Z",
+            "owner": "opencv",
+            "repo": "opencv-python",
+            "stars": 5212
+          }
         },
         {
           "children": [],
@@ -1781,7 +1876,7 @@
             "last_commit": "2026-03-16T19:26:01Z",
             "owner": "madmaze",
             "repo": "pytesseract",
-            "stars": 6321
+            "stars": 6323
           }
         },
         {
@@ -1844,7 +1939,7 @@
             "last_commit": "2026-02-07T16:15:48Z",
             "owner": "facebookresearch",
             "repo": "hydra",
-            "stars": 10259
+            "stars": 10263
           }
         },
         {
@@ -1873,7 +1968,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T01:24:48Z",
+            "last_commit": "2026-03-19T01:50:22Z",
             "owner": "pyca",
             "repo": "cryptography",
             "stars": 7515
@@ -1889,7 +1984,7 @@
             "last_commit": "2026-03-01T20:44:01Z",
             "owner": "paramiko",
             "repo": "paramiko",
-            "stars": 9712
+            "stars": 9713
           }
         },
         {
@@ -1899,7 +1994,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-03-16T12:39:57Z",
+            "last_commit": "2026-03-18T11:13:32Z",
             "owner": "pyca",
             "repo": "pynacl",
             "stars": 1185
@@ -1918,7 +2013,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-16T09:07:22Z",
+            "last_commit": "2026-03-18T21:02:04Z",
             "owner": "aws",
             "repo": "aws-sdk-pandas",
             "stars": 4106
@@ -1931,10 +2026,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T15:47:06Z",
+            "last_commit": "2026-03-18T22:16:19Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 10837
+            "stars": 10839
           }
         },
         {
@@ -1948,19 +2043,6 @@
             "owner": "Desbordante",
             "repo": "desbordante-core",
             "stars": 469
-          }
-        },
-        {
-          "children": [],
-          "description": "Library for converting documents into structured data.",
-          "title": "docling",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-17T13:51:23Z",
-            "owner": "docling-project",
-            "repo": "docling",
-            "stars": 55985
           }
         },
         {
@@ -1979,7 +2061,15 @@
         {
           "children": [],
           "description": "A library providing high-performance, easy-to-use data structures and data analysis tools.",
-          "title": "pandas"
+          "title": "pandas",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T01:07:24Z",
+            "owner": "pandas-dev",
+            "repo": "pandas",
+            "stars": 48173
+          }
         },
         {
           "children": [],
@@ -1988,10 +2078,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T14:15:40Z",
+            "last_commit": "2026-03-18T06:08:39Z",
             "owner": "pathwaycom",
             "repo": "pathway",
-            "stars": 60300
+            "stars": 60671
           }
         },
         {
@@ -2001,10 +2091,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-18T04:00:48Z",
+            "last_commit": "2026-03-18T16:16:57Z",
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 37778
+            "stars": 37791
           }
         }
       ],
@@ -2059,10 +2149,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T12:17:07Z",
+            "last_commit": "2026-03-18T16:54:44Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 27210
+            "stars": 27216
           }
         },
         {
@@ -2075,7 +2165,7 @@
             "last_commit": "2026-03-04T20:33:24Z",
             "owner": "keleshev",
             "repo": "schema",
-            "stars": 2944
+            "stars": 2943
           }
         },
         {
@@ -2130,10 +2220,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-17T23:59:46Z",
+            "last_commit": "2026-03-18T17:57:15Z",
             "owner": "bokeh",
             "repo": "bokeh",
-            "stars": 20366
+            "stars": 20367
           }
         },
         {
@@ -2172,7 +2262,7 @@
             "last_commit": "2026-02-07T11:02:07Z",
             "owner": "mingrammer",
             "repo": "diagrams",
-            "stars": 42082
+            "stars": 42089
           }
         },
         {
@@ -2182,10 +2272,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T23:41:30Z",
+            "last_commit": "2026-03-18T23:47:11Z",
             "owner": "matplotlib",
             "repo": "matplotlib",
-            "stars": 22589
+            "stars": 22596
           }
         },
         {
@@ -2195,10 +2285,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T00:29:18Z",
+            "last_commit": "2026-03-18T22:10:07Z",
             "owner": "plotly",
             "repo": "plotly.py",
-            "stars": 18357
+            "stars": 18363
           }
         },
         {
@@ -2263,20 +2353,33 @@
             "last_commit": "2026-01-22T13:03:07Z",
             "owner": "mwaskom",
             "repo": "seaborn",
-            "stars": 13769
+            "stars": 13770
+          }
+        },
+        {
+          "children": [],
+          "description": "A framework which lets you build dashboards, generate reports, or create chat apps in minutes.",
+          "title": "streamlit",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T23:47:25Z",
+            "owner": "streamlit",
+            "repo": "streamlit",
+            "stars": 43939
           }
         },
         {
           "children": [],
           "description": "Matplotlib wrapper for publication-ready scientific figures with minimal code. Includes advanced subplot management, panel layouts, and batteries-included geoscience plotting.",
-          "title": "UltraPlot",
+          "title": "ultraplot",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T09:21:59Z",
+            "last_commit": "2026-03-19T02:54:17Z",
             "owner": "Ultraplot",
             "repo": "UltraPlot",
-            "stars": 279
+            "stars": 280
           }
         },
         {
@@ -2301,12 +2404,20 @@
         {
           "children": [],
           "description": "An in-process SQL OLAP database management system; optimized for analytics and fast queries, similar to SQLite but for analytical workloads.",
-          "title": "DuckDB"
+          "title": "duckdb",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-18T22:02:14Z",
+            "owner": "duckdb",
+            "repo": "duckdb",
+            "stars": 36765
+          }
         },
         {
           "children": [],
           "description": "A simple and lightweight key-value store for Python.",
-          "title": "pickleDB",
+          "title": "pickledb",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -2332,7 +2443,7 @@
         {
           "children": [],
           "description": "A native object database for Python. A key-value and object graph database.",
-          "title": "zodb",
+          "title": "ZODB",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -2373,7 +2484,7 @@
                 "last_commit": "2025-08-24T12:54:32Z",
                 "owner": "PyMySQL",
                 "repo": "PyMySQL",
-                "stars": 7838
+                "stars": 7837
               }
             }
           ],
@@ -2382,10 +2493,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-12T06:06:44Z",
-            "owner": "PyMySQL",
-            "repo": "mysqlclient",
-            "stars": 2525
+            "last_commit": "2026-02-25T18:20:33Z",
+            "owner": "shlomi-noach",
+            "repo": "awesome-mysql",
+            "stars": 2551
           }
         },
         {
@@ -2397,10 +2508,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-10T18:42:54Z",
+                "last_commit": "2026-03-18T23:49:33Z",
                 "owner": "psycopg",
                 "repo": "psycopg",
-                "stars": 2322
+                "stars": 2324
               }
             }
           ],
@@ -2412,7 +2523,7 @@
             "last_commit": "2026-02-22T05:54:13Z",
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 11771
+            "stars": 11775
           }
         },
         {
@@ -2427,7 +2538,7 @@
                 "last_commit": "2026-01-21T15:26:24Z",
                 "owner": "simonw",
                 "repo": "sqlite-utils",
-                "stars": 2019
+                "stars": 2018
               }
             },
             {
@@ -2459,7 +2570,7 @@
                 "last_commit": "2025-11-17T16:10:53Z",
                 "owner": "mymarilyn",
                 "repo": "clickhouse-driver",
-                "stars": 1293
+                "stars": 1292
               }
             },
             {
@@ -2472,7 +2583,7 @@
                 "last_commit": "2026-03-10T00:40:09Z",
                 "owner": "pymssql",
                 "repo": "pymssql",
-                "stars": 880
+                "stars": 881
               }
             }
           ],
@@ -2484,7 +2595,7 @@
             "last_commit": "2025-11-17T16:10:53Z",
             "owner": "mymarilyn",
             "repo": "clickhouse-driver",
-            "stars": 1293
+            "stars": 1292
           }
         },
         {
@@ -2496,7 +2607,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-11T19:30:07Z",
+                "last_commit": "2026-03-18T20:43:12Z",
                 "owner": "apache",
                 "repo": "cassandra-python-driver",
                 "stars": 1426
@@ -2505,11 +2616,11 @@
             {
               "children": [],
               "description": "Official MongoDB database backend for Django.",
-              "title": "Django MongoDB Backend",
+              "title": "django-mongodb-backend",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-17T14:13:12Z",
+                "last_commit": "2026-03-18T10:57:16Z",
                 "owner": "mongodb",
                 "repo": "django-mongodb-backend",
                 "stars": 218
@@ -2522,7 +2633,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-17T21:07:04Z",
+                "last_commit": "2026-03-18T23:58:51Z",
                 "owner": "dpkp",
                 "repo": "kafka-python",
                 "stars": 5887
@@ -2535,10 +2646,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-16T21:44:14Z",
+                "last_commit": "2026-03-18T21:46:24Z",
                 "owner": "mongodb",
                 "repo": "mongo-python-driver",
-                "stars": 4338
+                "stars": 4339
               }
             },
             {
@@ -2548,23 +2659,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-17T16:34:50Z",
+                "last_commit": "2026-03-18T17:01:17Z",
                 "owner": "redis",
                 "repo": "redis-py",
-                "stars": 13505
-              }
-            },
-            {
-              "children": [],
-              "description": "An asynchronous Python object-document mapper (ODM) for MongoDB.",
-              "title": "Beanie",
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-03-16T19:51:45Z",
-                "owner": "BeanieODM",
-                "repo": "beanie",
-                "stars": 2661
+                "stars": 13514
               }
             }
           ],
@@ -2573,7 +2671,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-11T19:30:07Z",
+            "last_commit": "2026-03-18T20:43:12Z",
             "owner": "apache",
             "repo": "cassandra-python-driver",
             "stars": 1426
@@ -2621,13 +2719,13 @@
             "last_commit": "2026-03-06T02:51:59Z",
             "owner": "python-pendulum",
             "repo": "pendulum",
-            "stars": 6628
+            "stars": 6627
           }
         },
         {
           "children": [],
-          "description": "World timezone definitions, modern and historical. Brings the  into Python.",
-          "title": "pytz"
+          "description": "Python standard library) IANA time zone support. Brings the  into Python.",
+          "title": "zoneinfo"
         }
       ],
       "title": "Date and Time"
@@ -2727,7 +2825,7 @@
                 "last_commit": "2026-03-05T01:36:28Z",
                 "owner": "benfred",
                 "repo": "py-spy",
-                "stars": 15033
+                "stars": 15037
               }
             },
             {
@@ -2752,7 +2850,7 @@
             "last_commit": "2026-03-05T01:36:28Z",
             "owner": "benfred",
             "repo": "py-spy",
-            "stars": 15033
+            "stars": 15037
           }
         },
         {
@@ -2764,7 +2862,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-17T06:56:37Z",
+                "last_commit": "2026-03-18T19:45:34Z",
                 "owner": "django-commons",
                 "repo": "django-debug-toolbar",
                 "stars": 8351
@@ -2799,14 +2897,14 @@
             {
               "children": [],
               "description": "Visualize Python data at runtime to debug references, mutability, and aliasing.",
-              "title": "memory-graph",
+              "title": "memory_graph",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
                 "last_commit": "2026-03-04T09:21:16Z",
                 "owner": "bterwijn",
                 "repo": "memory_graph",
-                "stars": 771
+                "stars": 775
               }
             },
             {
@@ -2828,7 +2926,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T06:56:37Z",
+            "last_commit": "2026-03-18T19:45:34Z",
             "owner": "django-commons",
             "repo": "django-debug-toolbar",
             "stars": 8351
@@ -2847,10 +2945,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T03:52:27Z",
+            "last_commit": "2026-03-19T01:31:26Z",
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 35126
+            "stars": 35141
           }
         },
         {
@@ -2860,10 +2958,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-13T23:34:27Z",
+            "last_commit": "2026-03-18T19:52:56Z",
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 63909
+            "stars": 63914
           }
         },
         {
@@ -2873,10 +2971,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T09:20:11Z",
+            "last_commit": "2026-03-19T03:00:34Z",
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 30937
+            "stars": 30944
           }
         },
         {
@@ -2886,10 +2984,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T04:15:08Z",
+            "last_commit": "2026-03-19T04:13:17Z",
             "owner": "pytorch",
             "repo": "pytorch",
-            "stars": 98338
+            "stars": 98371
           }
         },
         {
@@ -2899,10 +2997,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-13T18:01:37Z",
+            "last_commit": "2026-03-18T17:33:43Z",
             "owner": "DLR-RM",
             "repo": "stable-baselines3",
-            "stars": 12910
+            "stars": 12918
           }
         },
         {
@@ -2912,10 +3010,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-03-18T04:14:09Z",
+            "last_commit": "2026-03-19T04:15:05Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 194179
+            "stars": 194210
           }
         },
         {
@@ -2925,10 +3023,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T03:13:27Z",
+            "last_commit": "2026-03-19T03:51:29Z",
             "owner": "vllm-project",
             "repo": "vllm",
-            "stars": 73469
+            "stars": 73595
           }
         }
       ],
@@ -2946,7 +3044,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-17T19:36:48Z",
+                "last_commit": "2026-03-18T19:37:57Z",
                 "owner": "boto",
                 "repo": "boto3",
                 "stars": 9736
@@ -2958,7 +3056,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T19:36:48Z",
+            "last_commit": "2026-03-18T19:37:57Z",
             "owner": "boto",
             "repo": "boto3",
             "stars": 9736
@@ -2973,10 +3071,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-16T22:19:35Z",
+                "last_commit": "2026-03-18T21:10:54Z",
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 68294
+                "stars": 68299
               }
             },
             {
@@ -2989,7 +3087,7 @@
                 "last_commit": "2026-03-16T16:34:47Z",
                 "owner": "canonical",
                 "repo": "cloud-init",
-                "stars": 3628
+                "stars": 3630
               }
             },
             {
@@ -3007,7 +3105,7 @@
                 "last_commit": "2026-03-17T10:59:38Z",
                 "owner": "pyinfra-dev",
                 "repo": "pyinfra",
-                "stars": 4870
+                "stars": 4874
               }
             },
             {
@@ -3017,10 +3115,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-17T21:32:42Z",
+                "last_commit": "2026-03-18T22:38:57Z",
                 "owner": "saltstack",
                 "repo": "salt",
-                "stars": 15282
+                "stars": 15281
               }
             }
           ],
@@ -3029,10 +3127,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-16T22:19:35Z",
+            "last_commit": "2026-03-18T21:10:54Z",
             "owner": "ansible",
             "repo": "ansible",
-            "stars": 68294
+            "stars": 68299
           }
         },
         {
@@ -3060,7 +3158,7 @@
                 "last_commit": "2025-07-20T17:33:07Z",
                 "owner": "fabric",
                 "repo": "fabric",
-                "stars": 15406
+                "stars": 15407
               }
             }
           ],
@@ -3087,7 +3185,7 @@
                 "last_commit": "2025-12-21T21:03:13Z",
                 "owner": "Supervisor",
                 "repo": "supervisor",
-                "stars": 9007
+                "stars": 9006
               }
             }
           ],
@@ -3099,7 +3197,7 @@
             "last_commit": "2025-12-21T21:03:13Z",
             "owner": "Supervisor",
             "repo": "supervisor",
-            "stars": 9007
+            "stars": 9006
           }
         },
         {
@@ -3111,10 +3209,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-17T21:55:13Z",
+                "last_commit": "2026-03-19T01:12:16Z",
                 "owner": "giampaolo",
                 "repo": "psutil",
-                "stars": 11108
+                "stars": 11107
               }
             }
           ],
@@ -3123,10 +3221,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T21:55:13Z",
+            "last_commit": "2026-03-19T01:12:16Z",
             "owner": "giampaolo",
             "repo": "psutil",
-            "stars": 11108
+            "stars": 11107
           }
         },
         {
@@ -3138,10 +3236,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-17T14:43:06Z",
+                "last_commit": "2026-03-18T23:02:31Z",
                 "owner": "borgbackup",
                 "repo": "borg",
-                "stars": 13082
+                "stars": 13087
               }
             }
           ],
@@ -3150,10 +3248,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T14:43:06Z",
+            "last_commit": "2026-03-18T23:02:31Z",
             "owner": "borgbackup",
             "repo": "borg",
-            "stars": 13082
+            "stars": 13087
           }
         },
         {
@@ -3168,7 +3266,7 @@
                 "last_commit": "2024-07-20T16:58:33Z",
                 "owner": "chaostoolkit",
                 "repo": "chaostoolkit",
-                "stars": 2001
+                "stars": 2002
               }
             }
           ],
@@ -3180,7 +3278,7 @@
             "last_commit": "2024-07-20T16:58:33Z",
             "owner": "chaostoolkit",
             "repo": "chaostoolkit",
-            "stars": 2001
+            "stars": 2002
           }
         }
       ],
@@ -3214,7 +3312,7 @@
                 "last_commit": "2026-03-18T02:22:01Z",
                 "owner": "spotify",
                 "repo": "luigi",
-                "stars": 18694
+                "stars": 18695
               }
             },
             {
@@ -3233,27 +3331,27 @@
             {
               "children": [],
               "description": "Python API.",
-              "title": "PySpark",
+              "title": "pyspark",
               "repo_info": {
                 "archived": false,
                 "language": "Scala",
-                "last_commit": "2026-03-18T04:07:04Z",
+                "last_commit": "2026-03-19T04:06:13Z",
                 "owner": "apache",
                 "repo": "spark",
-                "stars": 42995
+                "stars": 42999
               }
             },
             {
               "children": [],
               "description": "A system for parallel and distributed Python that unifies the machine learning ecosystem.",
-              "title": "Ray",
+              "title": "ray",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-18T04:13:43Z",
+                "last_commit": "2026-03-19T03:39:52Z",
                 "owner": "ray-project",
                 "repo": "ray",
-                "stars": 41764
+                "stars": 41769
               }
             }
           ],
@@ -3304,11 +3402,11 @@
         {
           "children": [],
           "description": "It is a Python tool that converts Python scripts into standalone executables and installers for Windows, macOS, and Linux.",
-          "title": "cx_freeze",
+          "title": "cx-Freeze",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T14:34:19Z",
+            "last_commit": "2026-03-18T14:12:46Z",
             "owner": "marcelotduarte",
             "repo": "cx_Freeze",
             "stars": 1532
@@ -3321,10 +3419,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-16T13:37:10Z",
+            "last_commit": "2026-03-18T16:29:22Z",
             "owner": "Nuitka",
             "repo": "Nuitka",
-            "stars": 14644
+            "stars": 14648
           }
         },
         {
@@ -3373,10 +3471,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-16T15:45:58Z",
+            "last_commit": "2026-03-18T22:02:08Z",
             "owner": "pyinstaller",
             "repo": "pyinstaller",
-            "stars": 12925
+            "stars": 12926
           }
         },
         {
@@ -3422,7 +3520,7 @@
             "last_commit": "2026-03-15T22:48:04Z",
             "owner": "sphinx-doc",
             "repo": "sphinx",
-            "stars": 7722
+            "stars": 7726
           }
         },
         {
@@ -3445,81 +3543,109 @@
       "description": "Libraries for downloading.",
       "items": [
         {
-          "children": [],
-          "description": "A financial data interface library, built for human beings!",
-          "title": "akshare",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-16T15:07:03Z",
-            "owner": "akfamily",
-            "repo": "akshare",
-            "stars": 17406
-          }
-        },
-        {
-          "children": [],
-          "description": "Library for downloading structured data from SEC EDGAR filings and XBRL financial statements.",
-          "title": "edgartools",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-17T15:24:22Z",
-            "owner": "dgunning",
-            "repo": "edgartools",
-            "stars": 1861
-          }
-        },
-        {
-          "children": [],
-          "description": "A financial data platform for analysts, quants and AI agents.",
-          "title": "OpenBB",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-18T00:16:15Z",
-            "owner": "OpenBB-finance",
-            "repo": "OpenBB",
-            "stars": 63247
-          }
-        },
-        {
-          "children": [],
-          "description": "A command line tool for managing Amazon S3 and CloudFront.",
-          "title": "s3cmd",
+          "children": [
+            {
+              "children": [],
+              "description": "A command line tool for managing Amazon S3 and CloudFront.",
+              "title": "s3cmd",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-22T23:26:17Z",
+                "owner": "s3tools",
+                "repo": "s3cmd",
+                "stars": 4870
+              }
+            },
+            {
+              "children": [],
+              "description": "A command-line program to download videos from YouTube and other video sites.",
+              "title": "youtube-dl",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-19T16:45:25Z",
+                "owner": "ytdl-org",
+                "repo": "youtube-dl",
+                "stars": 139903
+              }
+            }
+          ],
+          "description": "General",
+          "title": "General",
           "repo_info": {
             "archived": false,
             "language": "Python",
             "last_commit": "2025-10-22T23:26:17Z",
             "owner": "s3tools",
             "repo": "s3cmd",
-            "stars": 4869
+            "stars": 4870
           }
         },
         {
-          "children": [],
-          "description": "Easy Pythonic way to download market and financial data from Yahoo Finance.",
-          "title": "yfinance",
+          "children": [
+            {
+              "children": [],
+              "description": "A financial data interface library, built for human beings!",
+              "title": "akshare",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-16T15:07:03Z",
+                "owner": "akfamily",
+                "repo": "akshare",
+                "stars": 17454
+              }
+            },
+            {
+              "children": [],
+              "description": "Library for downloading structured data from SEC EDGAR filings and XBRL financial statements.",
+              "title": "edgartools",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-19T00:22:25Z",
+                "owner": "dgunning",
+                "repo": "edgartools",
+                "stars": 1862
+              }
+            },
+            {
+              "children": [],
+              "description": "A financial data platform for analysts, quants and AI agents.",
+              "title": "openbb",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-18T23:41:13Z",
+                "owner": "OpenBB-finance",
+                "repo": "OpenBB",
+                "stars": 63288
+              }
+            },
+            {
+              "children": [],
+              "description": "Easy Pythonic way to download market and financial data from Yahoo Finance.",
+              "title": "yfinance",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-12T22:18:35Z",
+                "owner": "ranaroussi",
+                "repo": "yfinance",
+                "stars": 22202
+              }
+            }
+          ],
+          "description": "Financial Data",
+          "title": "Financial Data",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-12T22:18:35Z",
-            "owner": "ranaroussi",
-            "repo": "yfinance",
-            "stars": 22181
-          }
-        },
-        {
-          "children": [],
-          "description": "A command-line program to download videos from YouTube and other video sites.",
-          "title": "youtube-dl",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-19T16:45:25Z",
-            "owner": "ytdl-org",
-            "repo": "youtube-dl",
-            "stars": 139895
+            "last_commit": "2026-03-16T15:07:03Z",
+            "owner": "akfamily",
+            "repo": "akshare",
+            "stars": 17454
           }
         }
       ],
@@ -3567,7 +3693,7 @@
                 "last_commit": "2026-02-10T10:10:33Z",
                 "owner": "davidhalter",
                 "repo": "jedi-vim",
-                "stars": 5319
+                "stars": 5318
               }
             },
             {
@@ -3605,7 +3731,7 @@
             "last_commit": "2026-02-10T10:10:33Z",
             "owner": "davidhalter",
             "repo": "jedi-vim",
-            "stars": 5319
+            "stars": 5318
           }
         },
         {
@@ -3617,7 +3743,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C#",
-                "last_commit": "2026-03-17T21:25:20Z",
+                "last_commit": "2026-03-18T23:07:14Z",
                 "owner": "microsoft",
                 "repo": "PTVS",
                 "stars": 2567
@@ -3629,7 +3755,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-03-17T21:25:20Z",
+            "last_commit": "2026-03-18T23:07:14Z",
             "owner": "microsoft",
             "repo": "PTVS",
             "stars": 2567
@@ -3640,7 +3766,7 @@
             {
               "children": [],
               "description": "The official VSCode extension with rich support for Python.",
-              "title": "Python"
+              "title": "Python for VSCode"
             }
           ],
           "description": "Visual Studio Code",
@@ -3660,7 +3786,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-18T01:56:09Z",
+                "last_commit": "2026-03-18T22:48:37Z",
                 "owner": "spyder-ide",
                 "repo": "spyder",
                 "stars": 9163
@@ -3672,7 +3798,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T01:56:09Z",
+            "last_commit": "2026-03-18T22:48:37Z",
             "owner": "spyder-ide",
             "repo": "spyder",
             "stars": 9163
@@ -3693,10 +3819,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-17T19:46:10Z",
+                "last_commit": "2026-03-18T17:06:58Z",
                 "owner": "modoboa",
                 "repo": "modoboa",
-                "stars": 3468
+                "stars": 3470
               }
             }
           ],
@@ -3705,10 +3831,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T19:46:10Z",
+            "last_commit": "2026-03-18T17:06:58Z",
             "owner": "modoboa",
             "repo": "modoboa",
-            "stars": 3468
+            "stars": 3470
           }
         },
         {
@@ -3799,19 +3925,6 @@
       "items": [
         {
           "children": [],
-          "description": "Simple Python version management.",
-          "title": "pyenv",
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-03-14T08:23:19Z",
-            "owner": "pyenv",
-            "repo": "pyenv",
-            "stars": 44441
-          }
-        },
-        {
-          "children": [],
           "description": "Pyenv for Windows, Simple Python version management.",
           "title": "pyenv-win",
           "repo_info": {
@@ -3820,20 +3933,20 @@
             "last_commit": "2026-03-13T02:46:58Z",
             "owner": "pyenv-win",
             "repo": "pyenv-win",
-            "stars": 7065
+            "stars": 7070
           }
         },
         {
           "children": [],
-          "description": "An extremely fast Python package and project manager, written in Rust.",
-          "title": "uv",
+          "description": "Simple Python version management.",
+          "title": "pyenv",
           "repo_info": {
             "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-18T01:57:45Z",
-            "owner": "astral-sh",
-            "repo": "uv",
-            "stars": 81219
+            "language": "Shell",
+            "last_commit": "2026-03-14T08:23:19Z",
+            "owner": "pyenv",
+            "repo": "pyenv",
+            "stars": 44444
           }
         },
         {
@@ -3855,19 +3968,6 @@
     {
       "description": "Libraries for file manipulation.",
       "items": [
-        {
-          "children": [],
-          "description": "Python tool for converting files and office documents to Markdown.",
-          "title": "markitdown",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-16T17:35:24Z",
-            "owner": "microsoft",
-            "repo": "markitdown",
-            "stars": 90900
-          }
-        },
         {
           "children": [],
           "description": "Python standard library) Map filenames to MIME types.",
@@ -3927,7 +4027,7 @@
             "last_commit": "2025-11-28T23:00:57Z",
             "owner": "samuelcolvin",
             "repo": "watchfiles",
-            "stars": 2445
+            "stars": 2446
           }
         }
       ],
@@ -3977,7 +4077,7 @@
             "last_commit": "2026-03-09T09:06:24Z",
             "owner": "Suor",
             "repo": "funcy",
-            "stars": 3501
+            "stars": 3502
           }
         },
         {
@@ -3990,7 +4090,7 @@
             "last_commit": "2026-03-17T15:52:45Z",
             "owner": "more-itertools",
             "repo": "more-itertools",
-            "stars": 4044
+            "stars": 4043
           }
         },
         {
@@ -4016,7 +4116,7 @@
             "last_commit": "2026-01-01T18:01:22Z",
             "owner": "pytoolz",
             "repo": "toolz",
-            "stars": 5126
+            "stars": 5127
           }
         }
       ],
@@ -4033,27 +4133,27 @@
         {
           "children": [],
           "description": "A modern and customizable python UI-library based on Tkinter.",
-          "title": "CustomTkinter",
+          "title": "customtkinter",
           "repo_info": {
             "archived": false,
             "language": "Python",
             "last_commit": "2026-02-24T21:08:14Z",
             "owner": "TomSchimansky",
             "repo": "CustomTkinter",
-            "stars": 13225
+            "stars": 13220
           }
         },
         {
           "children": [],
           "description": "A Simple GPU accelerated Python GUI framework",
-          "title": "DearPyGui",
+          "title": "dearpygui",
           "repo_info": {
             "archived": false,
             "language": "C++",
             "last_commit": "2026-03-10T16:12:53Z",
             "owner": "hoffstadt",
             "repo": "DearPyGui",
-            "stars": 15278
+            "stars": 15283
           }
         },
         {
@@ -4072,12 +4172,20 @@
         {
           "children": [],
           "description": "Cross-platform GUI framework for building modern apps in pure Python.",
-          "title": "Flet"
+          "title": "flet",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T04:00:35Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 15771
+          }
         },
         {
           "children": [],
           "description": "Flexx is a pure Python toolkit for creating GUI's, that uses web technology for its rendering.",
-          "title": "Flexx",
+          "title": "flexx",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -4090,32 +4198,40 @@
         {
           "children": [],
           "description": "Turn command line programs into a full GUI application with one line.",
-          "title": "Gooey",
+          "title": "gooey",
           "repo_info": {
             "archived": false,
             "language": "Python",
             "last_commit": "2026-03-12T04:32:43Z",
             "owner": "chriskiehl",
             "repo": "Gooey",
-            "stars": 22026
+            "stars": 22025
           }
         },
         {
           "children": [],
           "description": "A library for creating NUI applications, running on Windows, Linux, Mac OS X, Android and iOS.",
-          "title": "kivy"
+          "title": "kivy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-16T01:54:10Z",
+            "owner": "kivy",
+            "repo": "kivy",
+            "stars": 18894
+          }
         },
         {
           "children": [],
           "description": "An easy-to-use, Python-based UI framework, which shows up in your web browser.",
-          "title": "NiceGUI",
+          "title": "nicegui",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T14:33:10Z",
+            "last_commit": "2026-03-18T15:50:56Z",
             "owner": "zauberzeug",
             "repo": "nicegui",
-            "stars": 15518
+            "stars": 15524
           }
         },
         {
@@ -4134,12 +4250,15 @@
         {
           "children": [],
           "description": "Python Bindings for GLib/GObject/GIO/GTK+ (GTK+3).",
-          "title": "PyGObject"
-        },
-        {
-          "children": [],
-          "description": "Qt for Python offers the official Python bindings for , this is same as PyQt but it's the official binding with different licensing.",
-          "title": "PySide"
+          "title": "pygobject",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T07:59:14Z",
+            "owner": "GNOME",
+            "repo": "pygobject",
+            "stars": 156
+          }
         },
         {
           "children": [],
@@ -4148,44 +4267,73 @@
         },
         {
           "children": [],
+          "description": "Qt for Python offers the official Python bindings for , this is same as PyQt but it's the official binding with different licensing.",
+          "title": "pyside",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-19T03:26:30Z",
+            "owner": "pyside",
+            "repo": "pyside-setup",
+            "stars": 119
+          }
+        },
+        {
+          "children": [],
           "description": "A lightweight cross-platform native wrapper around a webview component.",
           "title": "pywebview",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-13T21:31:55Z",
+            "last_commit": "2026-03-18T13:35:24Z",
             "owner": "r0x0r",
             "repo": "pywebview",
-            "stars": 5804
+            "stars": 5805
           }
         },
         {
           "children": [],
-          "description": "Tkinter is Python's de-facto standard GUI package.",
-          "title": "Tkinter"
+          "description": "Python standard library) The standard Python interface to the Tcl/Tk GUI toolkit.",
+          "title": "tkinter"
         },
         {
           "children": [],
           "description": "A Python native, OS native GUI toolkit.",
-          "title": "Toga",
+          "title": "toga",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T04:04:32Z",
+            "last_commit": "2026-03-18T22:00:31Z",
             "owner": "beeware",
             "repo": "toga",
-            "stars": 5324
+            "stars": 5326
           }
         },
         {
           "children": [],
           "description": "A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.",
-          "title": "urwid"
+          "title": "urwid",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-16T12:45:07Z",
+            "owner": "urwid",
+            "repo": "urwid",
+            "stars": 2993
+          }
         },
         {
           "children": [],
           "description": "A blending of the wxWidgets C++ class library with the Python.",
-          "title": "wxPython"
+          "title": "wxPython",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-26T18:00:11Z",
+            "owner": "wxWidgets",
+            "repo": "Phoenix",
+            "stars": 2595
+          }
         }
       ],
       "title": "GUI Development"
@@ -4203,7 +4351,7 @@
             "last_commit": "2025-09-04T15:43:44Z",
             "owner": "graphql-python",
             "repo": "graphene",
-            "stars": 8252
+            "stars": 8251
           }
         },
         {
@@ -4221,6 +4369,116 @@
         }
       ],
       "title": "GraphQL"
+    },
+    {
+      "description": "Awesome game development libraries.",
+      "items": [
+        {
+          "children": [],
+          "description": "Arcade is a modern Python framework for crafting games with compelling graphics and sound.",
+          "title": "arcade",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-14T07:52:46Z",
+            "owner": "pythonarcade",
+            "repo": "arcade",
+            "stars": 1998
+          }
+        },
+        {
+          "children": [],
+          "description": "A framework for building 2D games, demos, and other graphical/interactive applications.",
+          "title": "cocos",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-08T02:08:15Z",
+            "owner": "los-cocos",
+            "repo": "cocos",
+            "stars": 638
+          }
+        },
+        {
+          "children": [],
+          "description": "Python framework for 3D, VR and game development.",
+          "title": "harfang3d",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-09-08T07:36:17Z",
+            "owner": "harfang3d",
+            "repo": "harfang3d",
+            "stars": 641
+          }
+        },
+        {
+          "children": [],
+          "description": "3D game engine developed by Disney.",
+          "title": "panda3d",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-28T10:26:20Z",
+            "owner": "panda3d",
+            "repo": "panda3d",
+            "stars": 5068
+          }
+        },
+        {
+          "children": [],
+          "description": "Pygame is a set of Python modules designed for writing games.",
+          "title": "pygame",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-01T03:05:13Z",
+            "owner": "pygame",
+            "repo": "pygame",
+            "stars": 8663
+          }
+        },
+        {
+          "children": [],
+          "description": "Python ctypes bindings for OpenGL and it's related APIs.",
+          "title": "pyopengl",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-04T22:39:28Z",
+            "owner": "mcfletch",
+            "repo": "pyopengl",
+            "stars": 399
+          }
+        },
+        {
+          "children": [],
+          "description": "A ctypes based wrapper for the SDL2 library.",
+          "title": "py-sdl2",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-18T19:03:42Z",
+            "owner": "py-sdl",
+            "repo": "py-sdl2",
+            "stars": 338
+          }
+        },
+        {
+          "children": [],
+          "description": "A Visual Novel engine.",
+          "title": "renpy",
+          "repo_info": {
+            "archived": false,
+            "language": "Ren'Py",
+            "last_commit": "2026-03-19T03:39:53Z",
+            "owner": "renpy",
+            "repo": "renpy",
+            "stars": 6307
+          }
+        }
+      ],
+      "title": "Game Development"
     },
     {
       "description": "Libraries for geocoding addresses and working with latitudes and longitudes.",
@@ -4296,7 +4554,15 @@
         {
           "children": [],
           "description": "A CSS library for Python.",
-          "title": "cssutils"
+          "title": "cssutils",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-14T06:57:23Z",
+            "owner": "jaraco",
+            "repo": "cssutils",
+            "stars": 89
+          }
         },
         {
           "children": [],
@@ -4314,20 +4580,28 @@
         {
           "children": [],
           "description": "A pure Python HTML5 parser that just works.",
-          "title": "JustHTML",
+          "title": "justhtml",
           "repo_info": {
             "archived": false,
             "language": "Python",
             "last_commit": "2026-03-17T21:58:17Z",
             "owner": "EmilStenstrom",
             "repo": "justhtml",
-            "stars": 1115
+            "stars": 1116
           }
         },
         {
           "children": [],
           "description": "A very fast, easy-to-use and versatile library for handling HTML and XML.",
-          "title": "lxml"
+          "title": "lxml",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-09T12:11:05Z",
+            "owner": "lxml",
+            "repo": "lxml",
+            "stars": 3004
+          }
         },
         {
           "children": [],
@@ -4371,12 +4645,28 @@
         {
           "children": [],
           "description": "A visual rendering engine for HTML and CSS that can export to PDF.",
-          "title": "WeasyPrint"
+          "title": "weasyprint",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T10:30:54Z",
+            "owner": "Kozea",
+            "repo": "WeasyPrint",
+            "stars": 8735
+          }
         },
         {
           "children": [],
           "description": "Simple XML Parsing.",
-          "title": "xmldataset"
+          "title": "xmldataset",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-04T12:45:33Z",
+            "owner": "spurin",
+            "repo": "xmldataset",
+            "stars": 80
+          }
         },
         {
           "children": [],
@@ -4407,7 +4697,7 @@
             "last_commit": "2026-03-01T16:44:00Z",
             "owner": "encode",
             "repo": "httpx",
-            "stars": 15139
+            "stars": 15138
           }
         },
         {
@@ -4420,7 +4710,7 @@
             "last_commit": "2026-03-18T01:19:40Z",
             "owner": "psf",
             "repo": "requests",
-            "stars": 53856
+            "stars": 53854
           }
         },
         {
@@ -4446,7 +4736,7 @@
             "last_commit": "2026-03-15T06:53:33Z",
             "owner": "urllib3",
             "repo": "urllib3",
-            "stars": 4012
+            "stars": 4010
           }
         }
       ],
@@ -4465,7 +4755,7 @@
             "last_commit": "2026-02-17T16:54:46Z",
             "owner": "hbldh",
             "repo": "bleak",
-            "stars": 2352
+            "stars": 2353
           }
         },
         {
@@ -4504,7 +4794,7 @@
             "last_commit": "2026-03-17T22:19:36Z",
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12109
+            "stars": 12114
           }
         }
       ],
@@ -4523,7 +4813,7 @@
             "last_commit": "2026-03-13T22:42:15Z",
             "owner": "python-pillow",
             "repo": "Pillow",
-            "stars": 13437
+            "stars": 13441
           }
         },
         {
@@ -4562,7 +4852,7 @@
             "last_commit": "2026-01-12T03:27:33Z",
             "owner": "lincolnloop",
             "repo": "python-qrcode",
-            "stars": 4865
+            "stars": 4868
           }
         },
         {
@@ -4594,7 +4884,15 @@
         {
           "children": [],
           "description": "A Python library for (scientific) image processing.",
-          "title": "scikit-image"
+          "title": "scikit-image",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-17T15:40:19Z",
+            "owner": "scikit-image",
+            "repo": "scikit-image",
+            "stars": 6481
+          }
         },
         {
           "children": [],
@@ -4603,7 +4901,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T21:49:01Z",
+            "last_commit": "2026-03-19T03:30:14Z",
             "owner": "thumbor",
             "repo": "thumbor",
             "stars": 10465
@@ -4648,10 +4946,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T20:59:26Z",
+            "last_commit": "2026-03-19T02:05:10Z",
             "owner": "python",
             "repo": "cpython",
-            "stars": 71998
+            "stars": 72019
           }
         },
         {
@@ -4661,10 +4959,10 @@
           "repo_info": {
             "archived": false,
             "language": "Cython",
-            "last_commit": "2026-03-15T13:46:04Z",
+            "last_commit": "2026-03-18T17:40:38Z",
             "owner": "cython",
             "repo": "cython",
-            "stars": 10654
+            "stars": 10655
           }
         },
         {
@@ -4674,10 +4972,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-03-17T23:59:07Z",
+            "last_commit": "2026-03-18T13:04:54Z",
             "owner": "IronLanguages",
             "repo": "ironpython3",
-            "stars": 2735
+            "stars": 2736
           }
         },
         {
@@ -4687,10 +4985,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-03-17T05:16:38Z",
+            "last_commit": "2026-03-18T22:37:19Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21554
+            "stars": 21555
           }
         },
         {
@@ -4709,7 +5007,7 @@
         {
           "children": [],
           "description": "x86-64 assembler embedded in Python.",
-          "title": "peachpy",
+          "title": "PeachPy",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -4722,7 +5020,15 @@
         {
           "children": [],
           "description": "A very fast and compliant implementation of the Python language.",
-          "title": "pypy"
+          "title": "pypy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-16T11:57:50Z",
+            "owner": "pypy",
+            "repo": "pypy",
+            "stars": 1682
+          }
         },
         {
           "children": [],
@@ -4765,7 +5071,7 @@
               "repo_info": {
                 "archived": false,
                 "language": null,
-                "last_commit": "2026-03-18T00:01:43Z",
+                "last_commit": "2026-03-19T00:00:31Z",
                 "owner": "markusschanta",
                 "repo": "awesome-jupyter",
                 "stars": 4569
@@ -4773,14 +5079,14 @@
             }
           ],
           "description": "A rich toolkit to help you make the most out of using Python interactively.",
-          "title": "Jupyter Notebook (IPython)",
+          "title": "jupyter",
           "repo_info": {
             "archived": false,
-            "language": null,
-            "last_commit": "2026-03-18T00:01:43Z",
-            "owner": "markusschanta",
-            "repo": "awesome-jupyter",
-            "stars": 4569
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-14T13:07:45Z",
+            "owner": "jupyter",
+            "repo": "notebook",
+            "stars": 13011
           }
         },
         {
@@ -4790,10 +5096,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T04:04:56Z",
+            "last_commit": "2026-03-19T01:55:02Z",
             "owner": "marimo-team",
             "repo": "marimo",
-            "stars": 19730
+            "stars": 19762
           }
         },
         {
@@ -4818,12 +5124,28 @@
         {
           "children": [],
           "description": "Airflow is a platform to programmatically author, schedule and monitor workflows.",
-          "title": "Airflow"
+          "title": "airflow",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T04:10:29Z",
+            "owner": "apache",
+            "repo": "airflow",
+            "stars": 44693
+          }
         },
         {
           "children": [],
           "description": "A light but powerful in-process task scheduler that lets you schedule functions.",
-          "title": "APScheduler"
+          "title": "apscheduler",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-01T18:38:56Z",
+            "owner": "agronholm",
+            "repo": "apscheduler",
+            "stars": 7377
+          }
         },
         {
           "children": [],
@@ -4841,17 +5163,33 @@
         {
           "children": [],
           "description": "A task runner and build tool.",
-          "title": "doit"
+          "title": "doit",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-12T12:57:06Z",
+            "owner": "pydoit",
+            "repo": "doit",
+            "stars": 2034
+          }
         },
         {
           "children": [],
           "description": "A set of tools to provide lightweight pipelining in Python.",
-          "title": "Joblib"
+          "title": "joblib",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-03T10:14:42Z",
+            "owner": "joblib",
+            "repo": "joblib",
+            "stars": 4333
+          }
         },
         {
           "children": [],
           "description": "Writing crontab file in Python like a charm.",
-          "title": "Plan",
+          "title": "plan",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -4864,14 +5202,14 @@
         {
           "children": [],
           "description": "A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.",
-          "title": "Prefect",
+          "title": "prefect",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T04:02:28Z",
+            "last_commit": "2026-03-19T03:18:00Z",
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 21892
+            "stars": 21896
           }
         },
         {
@@ -4890,20 +5228,20 @@
         {
           "children": [],
           "description": "A powerful workflow engine implemented in pure Python.",
-          "title": "Spiff",
+          "title": "SpiffWorkflow",
           "repo_info": {
             "archived": false,
             "language": "Python",
             "last_commit": "2026-03-07T15:46:26Z",
             "owner": "sartography",
             "repo": "SpiffWorkflow",
-            "stars": 1864
+            "stars": 1865
           }
         },
         {
           "children": [],
           "description": "A Python library that helps to make task execution easy, consistent and reliable.",
-          "title": "TaskFlow"
+          "title": "taskflow"
         }
       ],
       "title": "Job Scheduler"
@@ -4914,7 +5252,15 @@
         {
           "children": [],
           "description": "Logging replacement for Python.",
-          "title": "logbook"
+          "title": "logbook",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T12:23:30Z",
+            "owner": "getlogbook",
+            "repo": "logbook",
+            "stars": 1495
+          }
         },
         {
           "children": [],
@@ -4931,7 +5277,7 @@
             "last_commit": "2026-02-22T14:57:48Z",
             "owner": "Delgan",
             "repo": "loguru",
-            "stars": 23689
+            "stars": 23697
           }
         },
         {
@@ -4941,16 +5287,24 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T21:30:32Z",
+            "last_commit": "2026-03-18T22:11:04Z",
             "owner": "getsentry",
             "repo": "sentry-python",
-            "stars": 2156
+            "stars": 2157
           }
         },
         {
           "children": [],
           "description": "Structured logging made easy.",
-          "title": "structlog"
+          "title": "structlog",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-17T04:21:42Z",
+            "owner": "hynek",
+            "repo": "structlog",
+            "stars": 4651
+          }
         }
       ],
       "title": "Logging"
@@ -4960,28 +5314,28 @@
       "items": [
         {
           "children": [],
-          "description": "Open-source Python library for building AI agents and agentic systems.",
-          "title": "Agno",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-18T01:04:41Z",
-            "owner": "agno-agi",
-            "repo": "agno",
-            "stars": 38766
-          }
-        },
-        {
-          "children": [],
           "description": "A library that provides pretrained diffusion models for generating and editing images, audio, and video.",
           "title": "diffusers",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T04:09:52Z",
+            "last_commit": "2026-03-19T03:55:08Z",
             "owner": "huggingface",
             "repo": "diffusers",
-            "stars": 33081
+            "stars": 33093
+          }
+        },
+        {
+          "children": [],
+          "description": "sklearn compatible API with the widest toolset for feature engineering and selection.",
+          "title": "feature_engine",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-09T02:52:02Z",
+            "owner": "feature-engine",
+            "repo": "feature_engine",
+            "stars": 2214
           }
         },
         {
@@ -4994,78 +5348,26 @@
             "last_commit": "2024-10-11T20:07:05Z",
             "owner": "openai",
             "repo": "gym",
-            "stars": 37098
-          }
-        },
-        {
-          "children": [],
-          "description": "sklearn compatible API with the widest toolset for feature engineering and selection.",
-          "title": "Feature-engine",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-09T02:52:02Z",
-            "owner": "feature-engine",
-            "repo": "feature_engine",
-            "stars": 2214
+            "stars": 37102
           }
         },
         {
           "children": [],
           "description": "Open Source Fast Scalable Machine Learning Platform.",
-          "title": "H2O",
+          "title": "h2o",
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-03-18T02:28:39Z",
+            "last_commit": "2026-03-19T03:00:17Z",
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7511
-          }
-        },
-        {
-          "children": [],
-          "description": "A library for extracting structured data from LLMs, powered by Pydantic.",
-          "title": "Instructor",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-18T03:20:08Z",
-            "owner": "567-labs",
-            "repo": "instructor",
-            "stars": 12554
-          }
-        },
-        {
-          "children": [],
-          "description": "Building applications with LLMs through composability.",
-          "title": "LangChain",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-18T02:40:32Z",
-            "owner": "langchain-ai",
-            "repo": "langchain",
-            "stars": 129972
-          }
-        },
-        {
-          "children": [],
-          "description": "A data framework for your LLM application.",
-          "title": "LlamaIndex",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-17T19:29:58Z",
-            "owner": "run-llama",
-            "repo": "llama_index",
-            "stars": 47750
+            "stars": 7514
           }
         },
         {
           "children": [],
           "description": "Machine learning evaluation metrics.",
-          "title": "Metrics",
+          "title": "metrics",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -5078,14 +5380,14 @@
         {
           "children": [],
           "description": "MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.",
-          "title": "MindsDB",
+          "title": "mindsdb",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T22:44:01Z",
+            "last_commit": "2026-03-19T03:49:59Z",
             "owner": "mindsdb",
             "repo": "mindsdb",
-            "stars": 38780
+            "stars": 38788
           }
         },
         {
@@ -5095,49 +5397,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T22:55:35Z",
+            "last_commit": "2026-03-18T18:41:50Z",
             "owner": "pgmpy",
             "repo": "pgmpy",
-            "stars": 3213
-          }
-        },
-        {
-          "children": [],
-          "description": "Production-ready Multi-AI Agents framework with self-reflection, 100+ LLM support, MCP integration, and agentic workflows.",
-          "title": "PraisonAI",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-17T14:57:15Z",
-            "owner": "MervinPraison",
-            "repo": "PraisonAI",
-            "stars": 5681
-          }
-        },
-        {
-          "children": [],
-          "description": "A Python agent framework for building generative AI applications with structured schemas.",
-          "title": "pydantic-ai",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-18T04:15:30Z",
-            "owner": "pydantic",
-            "repo": "pydantic-ai",
-            "stars": 15539
-          }
-        },
-        {
-          "children": [],
-          "description": "An open-source RAG engine for document understanding and question answering with LLMs.",
-          "title": "RAGFlow",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-18T03:51:04Z",
-            "owner": "infiniflow",
-            "repo": "ragflow",
-            "stars": 75310
+            "stars": 3214
           }
         },
         {
@@ -5150,30 +5413,38 @@
             "last_commit": "2026-01-29T19:10:46Z",
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21086
+            "stars": 21088
           }
         },
         {
           "children": [],
           "description": "The most popular Python library for Machine Learning with extensive documentation and community support.",
-          "title": "scikit-learn"
+          "title": "scikit-learn",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T17:45:39Z",
+            "owner": "scikit-learn",
+            "repo": "scikit-learn",
+            "stars": 65425
+          }
         },
         {
           "children": [],
           "description": "s scalable Machine Learning library for distributed computing.",
-          "title": "Spark ML"
+          "title": "spark.ml"
         },
         {
           "children": [],
           "description": "A framework that lets you easily use pretrained transformer models for NLP, vision, and audio tasks.",
-          "title": "Transformers",
+          "title": "transformers",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T00:10:27Z",
+            "last_commit": "2026-03-18T21:35:13Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 157979
+            "stars": 158050
           }
         },
         {
@@ -5183,10 +5454,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-03-17T18:30:16Z",
+            "last_commit": "2026-03-18T13:26:25Z",
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28137
+            "stars": 28140
           }
         }
       ],
@@ -5198,20 +5469,20 @@
         {
           "children": [],
           "description": "Python Integration with the .NET Common Language Runtime (CLR).",
-          "title": "PythonNet",
+          "title": "pythonnet",
           "repo_info": {
             "archived": false,
             "language": "C#",
             "last_commit": "2026-03-09T07:42:08Z",
             "owner": "pythonnet",
             "repo": "pythonnet",
-            "stars": 5419
+            "stars": 5418
           }
         },
         {
           "children": [],
           "description": "Python Extensions for Windows.",
-          "title": "PyWin32",
+          "title": "pywin32",
           "repo_info": {
             "archived": false,
             "language": "C++",
@@ -5224,7 +5495,15 @@
         {
           "children": [],
           "description": "Portable development environment for Windows 10/11.",
-          "title": "WinPython"
+          "title": "winpython",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-10T19:28:59Z",
+            "owner": "winpython",
+            "repo": "winpython",
+            "stars": 2230
+          }
         }
       ],
       "title": "Microsoft Windows"
@@ -5255,7 +5534,7 @@
             "last_commit": "2026-03-06T22:18:37Z",
             "owner": "mahmoud",
             "repo": "boltons",
-            "stars": 6856
+            "stars": 6858
           }
         },
         {
@@ -5287,7 +5566,15 @@
         {
           "children": [],
           "description": "A general-purpose business framework.",
-          "title": "tryton"
+          "title": "tryton",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T00:17:49Z",
+            "owner": "tryton",
+            "repo": "tryton",
+            "stars": 171
+          }
         }
       ],
       "title": "Miscellaneous"
@@ -5320,13 +5607,21 @@
                 "last_commit": "2020-01-01T10:49:30Z",
                 "owner": "saffsd",
                 "repo": "langid.py",
-                "stars": 2455
+                "stars": 2454
               }
             },
             {
               "children": [],
               "description": "A leading platform for building Python programs to work with human language data.",
-              "title": "nltk"
+              "title": "nltk",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-18T12:17:47Z",
+                "owner": "nltk",
+                "repo": "nltk",
+                "stars": 14557
+              }
             },
             {
               "children": [],
@@ -5357,19 +5652,27 @@
             {
               "children": [],
               "description": "A library for industrial-strength natural language processing in Python and Cython.",
-              "title": "spacy"
+              "title": "spacy",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-15T10:29:09Z",
+                "owner": "explosion",
+                "repo": "spaCy",
+                "stars": 33352
+              }
             },
             {
               "children": [],
               "description": "The Stanford NLP Group's official Python library, supporting 60+ languages.",
-              "title": "Stanza",
+              "title": "stanza",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-17T21:17:08Z",
+                "last_commit": "2026-03-18T22:50:07Z",
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7740
+                "stars": 7741
               }
             }
           ],
@@ -5389,14 +5692,14 @@
             {
               "children": [],
               "description": "A collection of tools and datasets for Chinese NLP.",
-              "title": "funNLP",
+              "title": "funnlp",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
                 "last_commit": "2024-05-10T07:38:24Z",
                 "owner": "fighting41love",
                 "repo": "funNLP",
-                "stars": 79466
+                "stars": 79485
               }
             },
             {
@@ -5409,7 +5712,7 @@
                 "last_commit": "2024-08-21T09:23:45Z",
                 "owner": "fxsjy",
                 "repo": "jieba",
-                "stars": 34803
+                "stars": 34809
               }
             },
             {
@@ -5422,7 +5725,7 @@
                 "last_commit": "2022-11-05T13:37:41Z",
                 "owner": "lancopku",
                 "repo": "pkuseg-python",
-                "stars": 6703
+                "stars": 6704
               }
             },
             {
@@ -5447,7 +5750,7 @@
             "last_commit": "2024-05-10T07:38:24Z",
             "owner": "fighting41love",
             "repo": "funNLP",
-            "stars": 79466
+            "stars": 79485
           }
         }
       ],
@@ -5466,7 +5769,7 @@
             "last_commit": "2024-07-09T13:25:31Z",
             "owner": "mininet",
             "repo": "mininet",
-            "stars": 5788
+            "stars": 5789
           }
         },
         {
@@ -5506,7 +5809,7 @@
             {
               "children": [],
               "description": "The Django ORM.",
-              "title": "Django Models"
+              "title": "django.db.models"
             },
             {
               "children": [
@@ -5520,19 +5823,19 @@
                     "last_commit": "2026-02-25T14:13:09Z",
                     "owner": "dahlia",
                     "repo": "awesome-sqlalchemy",
-                    "stars": 3032
+                    "stars": 3033
                   }
                 }
               ],
               "description": "The Python SQL Toolkit and Object Relational Mapper.",
-              "title": "SQLAlchemy",
+              "title": "sqlalchemy",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-02-25T14:13:09Z",
-                "owner": "dahlia",
-                "repo": "awesome-sqlalchemy",
-                "stars": 3032
+                "last_commit": "2026-03-19T03:44:24Z",
+                "owner": "sqlalchemy",
+                "repo": "sqlalchemy",
+                "stars": 11666
               }
             },
             {
@@ -5555,7 +5858,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-18T01:49:59Z",
+                "last_commit": "2026-03-18T13:14:47Z",
                 "owner": "coleifer",
                 "repo": "peewee",
                 "stars": 11952
@@ -5590,7 +5893,15 @@
             {
               "children": [],
               "description": "SQLModel is based on Python type annotations, and powered by Pydantic and SQLAlchemy.",
-              "title": "SQLModel"
+              "title": "sqlmodel",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-17T09:36:24Z",
+                "owner": "fastapi",
+                "repo": "sqlmodel",
+                "stars": 17733
+              }
             }
           ],
           "description": "Relational Databases",
@@ -5598,14 +5909,27 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-25T14:13:09Z",
-            "owner": "dahlia",
-            "repo": "awesome-sqlalchemy",
-            "stars": 3032
+            "last_commit": "2026-03-19T03:44:24Z",
+            "owner": "sqlalchemy",
+            "repo": "sqlalchemy",
+            "stars": 11666
           }
         },
         {
           "children": [
+            {
+              "children": [],
+              "description": "An asynchronous Python object-document mapper (ODM) for MongoDB.",
+              "title": "beanie",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-16T19:51:45Z",
+                "owner": "BeanieODM",
+                "repo": "beanie",
+                "stars": 2661
+              }
+            },
             {
               "children": [],
               "description": "A Python Object-Document-Mapper for working with MongoDB.",
@@ -5622,7 +5946,7 @@
             {
               "children": [],
               "description": "Sync and Async ODM for MongoDB built on top of Pydantic for model definition and validation.",
-              "title": "ODMantic",
+              "title": "odmantic",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
@@ -5635,7 +5959,7 @@
             {
               "children": [],
               "description": "A Pythonic interface for .",
-              "title": "PynamoDB",
+              "title": "pynamodb",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
@@ -5651,10 +5975,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-10T15:14:11Z",
-            "owner": "MongoEngine",
-            "repo": "mongoengine",
-            "stars": 4349
+            "last_commit": "2026-03-16T19:51:45Z",
+            "owner": "BeanieODM",
+            "repo": "beanie",
+            "stars": 2661
           }
         }
       ],
@@ -5684,10 +6008,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-16T17:38:10Z",
-            "owner": "jazzband",
-            "repo": "pip-tools",
-            "stars": 7994
+            "last_commit": "2026-03-16T22:59:43Z",
+            "owner": "pypa",
+            "repo": "pip",
+            "stars": 10169
           }
         },
         {
@@ -5697,10 +6021,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T23:24:10Z",
+            "last_commit": "2026-03-18T16:26:24Z",
             "owner": "conda",
             "repo": "conda",
-            "stars": 7343
+            "stars": 7342
           }
         },
         {
@@ -5713,7 +6037,7 @@
             "last_commit": "2026-02-27T18:51:31Z",
             "owner": "pypa",
             "repo": "hatch",
-            "stars": 7147
+            "stars": 7149
           }
         },
         {
@@ -5726,7 +6050,7 @@
             "last_commit": "2026-03-16T21:40:41Z",
             "owner": "python-poetry",
             "repo": "poetry",
-            "stars": 34294
+            "stars": 34292
           }
         },
         {
@@ -5736,10 +6060,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-18T01:57:45Z",
+            "last_commit": "2026-03-19T04:11:16Z",
             "owner": "astral-sh",
             "repo": "uv",
-            "stars": 81219
+            "stars": 81306
           }
         }
       ],
@@ -5781,10 +6105,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T16:49:31Z",
+            "last_commit": "2026-03-18T18:30:00Z",
             "owner": "pypi",
             "repo": "warehouse",
-            "stars": 3978
+            "stars": 3982
           }
         }
       ],
@@ -5803,7 +6127,7 @@
             "last_commit": "2024-08-08T19:55:47Z",
             "owner": "Manisso",
             "repo": "fsociety",
-            "stars": 11927
+            "stars": 11932
           }
         },
         {
@@ -5816,7 +6140,7 @@
             "last_commit": "2024-10-21T15:46:18Z",
             "owner": "trustedsec",
             "repo": "social-engineer-toolkit",
-            "stars": 14671
+            "stars": 14672
           }
         },
         {
@@ -5826,10 +6150,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T06:26:18Z",
+            "last_commit": "2026-03-18T05:35:32Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 73811
+            "stars": 73837
           }
         },
         {
@@ -5839,10 +6163,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T21:22:43Z",
+            "last_commit": "2026-03-18T16:47:39Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 36853
+            "stars": 36861
           }
         }
       ],
@@ -5899,7 +6223,15 @@
         {
           "children": [],
           "description": "Yet another wrapper for subprocess.",
-          "title": "sarge"
+          "title": "sarge",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-20T08:32:59Z",
+            "owner": "vsajip",
+            "repo": "sarge",
+            "stars": 35
+          }
         },
         {
           "children": [],
@@ -5911,7 +6243,7 @@
             "last_commit": "2025-11-01T12:42:25Z",
             "owner": "amoffat",
             "repo": "sh",
-            "stars": 7241
+            "stars": 7242
           }
         }
       ],
@@ -5930,39 +6262,47 @@
             "last_commit": "2026-03-17T20:42:07Z",
             "owner": "quantumlib",
             "repo": "Cirq",
-            "stars": 4891
+            "stars": 4894
           }
         },
         {
           "children": [],
           "description": "A hybrid quantum-classical machine learning library with automatic differentiation support.",
-          "title": "PennyLane",
+          "title": "pennylane",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T03:43:54Z",
+            "last_commit": "2026-03-19T03:43:44Z",
             "owner": "PennyLaneAI",
             "repo": "pennylane",
-            "stars": 3111
+            "stars": 3113
           }
         },
         {
           "children": [],
           "description": "An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.",
-          "title": "Qiskit",
+          "title": "qiskit",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T21:49:51Z",
+            "last_commit": "2026-03-18T21:23:17Z",
             "owner": "Qiskit",
             "repo": "qiskit",
-            "stars": 7139
+            "stars": 7141
           }
         },
         {
           "children": [],
           "description": "Quantum Toolbox in Python.",
-          "title": "QuTiP"
+          "title": "qutip",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T01:58:39Z",
+            "owner": "qutip",
+            "repo": "qutip",
+            "stars": 1978
+          }
         }
       ],
       "title": "Quantum Computing"
@@ -5980,7 +6320,7 @@
             "last_commit": "2025-10-29T14:08:37Z",
             "owner": "spotify",
             "repo": "annoy",
-            "stars": 14180
+            "stars": 14182
           }
         },
         {
@@ -6019,7 +6359,7 @@
             "last_commit": "2024-07-24T18:48:54Z",
             "owner": "lyst",
             "repo": "lightfm",
-            "stars": 5066
+            "stars": 5068
           }
         },
         {
@@ -6032,20 +6372,20 @@
             "last_commit": "2022-12-21T23:38:02Z",
             "owner": "maciejkula",
             "repo": "spotlight",
-            "stars": 3042
+            "stars": 3043
           }
         },
         {
           "children": [],
           "description": "A scikit for building and analyzing recommender systems.",
-          "title": "Surprise",
+          "title": "scikit-surprise",
           "repo_info": {
             "archived": false,
             "language": "Python",
             "last_commit": "2025-07-24T00:48:57Z",
             "owner": "NicolasHug",
             "repo": "Surprise",
-            "stars": 6773
+            "stars": 6775
           }
         },
         {
@@ -6065,6 +6405,38 @@
       "title": "Recommender Systems"
     },
     {
+      "description": "Refactoring tools and libraries for Python.",
+      "items": [
+        {
+          "children": [],
+          "description": "Safe code refactoring for modern Python.",
+          "title": "bowler",
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-06-21T03:38:05Z",
+            "owner": "facebookincubator",
+            "repo": "Bowler",
+            "stars": 1613
+          }
+        },
+        {
+          "children": [],
+          "description": "Rope is a python refactoring library.",
+          "title": "rope",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-04T14:49:29Z",
+            "owner": "python-rope",
+            "repo": "rope",
+            "stars": 2183
+          }
+        }
+      ],
+      "title": "Refactoring"
+    },
+    {
       "description": "Libraries for building RESTful APIs.",
       "items": [
         {
@@ -6076,10 +6448,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-17T21:09:33Z",
+                "last_commit": "2026-03-18T20:41:06Z",
                 "owner": "encode",
                 "repo": "django-rest-framework",
-                "stars": 29928
+                "stars": 29929
               }
             },
             {
@@ -6101,10 +6473,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T21:09:33Z",
+            "last_commit": "2026-03-18T20:41:06Z",
             "owner": "encode",
             "repo": "django-rest-framework",
-            "stars": 29928
+            "stars": 29929
           }
         },
         {
@@ -6209,10 +6581,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-17T20:22:08Z",
+                "last_commit": "2026-03-18T23:41:06Z",
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 96293
+                "stars": 96323
               }
             },
             {
@@ -6251,7 +6623,7 @@
                 "last_commit": "2026-01-07T11:11:51Z",
                 "owner": "sanic-org",
                 "repo": "sanic",
-                "stars": 18639
+                "stars": 18637
               }
             }
           ],
@@ -6275,7 +6647,7 @@
         {
           "children": [],
           "description": "Remote Python Call) - A transparent and symmetric RPC library for Python",
-          "title": "RPyC",
+          "title": "rpyc",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -6288,7 +6660,7 @@
         {
           "children": [],
           "description": "zerorpc is a flexible RPC implementation based on  and .",
-          "title": "zeroRPC",
+          "title": "zerorpc",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -6307,19 +6679,14 @@
         {
           "children": [],
           "description": "A community Python library for Astronomy.",
-          "title": "astropy"
-        },
-        {
-          "children": [],
-          "description": "Providing best-practice pipelines for fully automated high throughput sequencing analysis.",
-          "title": "bcbio-nextgen",
+          "title": "astropy",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2024-08-24T11:11:30Z",
-            "owner": "bcbio",
-            "repo": "bcbio-nextgen",
-            "stars": 1027
+            "last_commit": "2026-03-18T17:43:52Z",
+            "owner": "astropy",
+            "repo": "astropy",
+            "stars": 5086
           }
         },
         {
@@ -6337,23 +6704,60 @@
         },
         {
           "children": [],
+          "description": "Providing best-practice pipelines for fully automated high throughput sequencing analysis.",
+          "title": "bcbio-nextgen",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-24T11:11:30Z",
+            "owner": "bcbio",
+            "repo": "bcbio-nextgen",
+            "stars": 1027
+          }
+        },
+        {
+          "children": [],
           "description": "Biopython is a set of freely available tools for biological computation.",
-          "title": "Biopython"
+          "title": "biopython",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-16T14:57:21Z",
+            "owner": "biopython",
+            "repo": "biopython",
+            "stars": 4928
+          }
         },
         {
           "children": [],
           "description": "A library for parsing and interpreting the results of computational chemistry packages.",
-          "title": "cclib"
+          "title": "cclib",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T20:43:17Z",
+            "owner": "cclib",
+            "repo": "cclib",
+            "stars": 396
+          }
         },
         {
           "children": [],
           "description": "Implementing a comprehensive number of colour theory transformations and algorithms.",
-          "title": "Colour"
+          "title": "colour",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T08:21:29Z",
+            "owner": "colour-science",
+            "repo": "colour",
+            "stars": 2533
+          }
         },
         {
           "children": [],
           "description": "Unsupervised machine learning toolbox for graph structured data.",
-          "title": "Karate Club",
+          "title": "karateclub",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -6370,49 +6774,81 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T03:28:52Z",
+            "last_commit": "2026-03-18T14:15:45Z",
             "owner": "ManimCommunity",
             "repo": "manim",
-            "stars": 37257
+            "stars": 37273
           }
         },
         {
           "children": [],
           "description": "A high-productivity software for complex networks.",
-          "title": "NetworkX"
+          "title": "networkx",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T16:52:09Z",
+            "owner": "networkx",
+            "repo": "networkx",
+            "stars": 16745
+          }
         },
         {
           "children": [],
           "description": "A collection of neuroimaging toolkits.",
-          "title": "NIPY"
+          "title": "nipy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-24T16:12:08Z",
+            "owner": "nipy",
+            "repo": "nipy",
+            "stars": 407
+          }
         },
         {
           "children": [],
           "description": "A fundamental package for scientific computing with Python.",
-          "title": "NumPy"
+          "title": "numpy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T17:44:14Z",
+            "owner": "numpy",
+            "repo": "numpy",
+            "stars": 31620
+          }
         },
         {
           "children": [],
           "description": "A Python toolbox for seismology.",
-          "title": "ObsPy",
+          "title": "obspy",
           "repo_info": {
             "archived": false,
             "language": "Python",
             "last_commit": "2026-03-17T15:45:44Z",
             "owner": "obspy",
             "repo": "obspy",
-            "stars": 1287
+            "stars": 1289
           }
         },
         {
           "children": [],
           "description": "A chemical toolbox designed to speak the many languages of chemical data.",
-          "title": "Open Babel"
+          "title": "openbabel",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-04T22:30:25Z",
+            "owner": "openbabel",
+            "repo": "openbabel",
+            "stars": 1291
+          }
         },
         {
           "children": [],
           "description": "A block-based system modeling and simulation framework with a browser-based visual editor.",
-          "title": "PathSim",
+          "title": "pathsim",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -6425,30 +6861,54 @@
         {
           "children": [],
           "description": "Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.",
-          "title": "PyDy"
+          "title": "pydy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-03T07:44:24Z",
+            "owner": "pydy",
+            "repo": "pydy",
+            "stars": 409
+          }
         },
         {
           "children": [],
           "description": "Markov Chain Monte Carlo sampling toolkit.",
-          "title": "PyMC",
+          "title": "pymc",
           "repo_info": {
             "archived": false,
             "language": "Python",
             "last_commit": "2026-03-17T14:36:22Z",
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9528
+            "stars": 9530
           }
         },
         {
           "children": [],
           "description": "Cheminformatics and Machine Learning Software.",
-          "title": "RDKit"
+          "title": "rdkit",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-03-17T14:03:00Z",
+            "owner": "rdkit",
+            "repo": "rdkit",
+            "stars": 3344
+          }
         },
         {
           "children": [],
           "description": "A Python-based ecosystem of open-source software for mathematics, science, and engineering.",
-          "title": "SciPy"
+          "title": "scipy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T15:42:57Z",
+            "owner": "scipy",
+            "repo": "scipy",
+            "stars": 14543
+          }
         },
         {
           "children": [],
@@ -6460,13 +6920,13 @@
             "last_commit": "2026-03-10T08:57:35Z",
             "owner": "shapely",
             "repo": "shapely",
-            "stars": 4396
+            "stars": 4395
           }
         },
         {
           "children": [],
           "description": "A process-based discrete-event simulation framework.",
-          "title": "SimPy"
+          "title": "simpy"
         },
         {
           "children": [],
@@ -6475,36 +6935,23 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-12T16:03:41Z",
+            "last_commit": "2026-03-18T14:54:16Z",
             "owner": "statsmodels",
             "repo": "statsmodels",
-            "stars": 11298
+            "stars": 11302
           }
         },
         {
           "children": [],
           "description": "A Python library for symbolic mathematics.",
-          "title": "SymPy",
+          "title": "sympy",
           "repo_info": {
             "archived": false,
             "language": "Python",
             "last_commit": "2026-03-15T20:23:47Z",
             "owner": "sympy",
             "repo": "sympy",
-            "stars": 14495
-          }
-        },
-        {
-          "children": [],
-          "description": "A Pythonic algorithmic trading library.",
-          "title": "Zipline",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-13T08:02:51Z",
-            "owner": "quantopian",
-            "repo": "zipline",
-            "stars": 19515
+            "stars": 14494
           }
         }
       ],
@@ -6542,7 +6989,15 @@
         {
           "children": [],
           "description": "The official low-level Python client for .",
-          "title": "elasticsearch-py"
+          "title": "elasticsearch-py",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-16T10:46:28Z",
+            "owner": "elastic",
+            "repo": "elasticsearch-py",
+            "stars": 4370
+          }
         },
         {
           "children": [],
@@ -6560,7 +7015,15 @@
         {
           "children": [],
           "description": "A fast, pure Python search engine library.",
-          "title": "whoosh"
+          "title": "whoosh",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-03T13:23:50Z",
+            "owner": "mchaput",
+            "repo": "whoosh",
+            "stars": 657
+          }
         }
       ],
       "title": "Search"
@@ -6591,7 +7054,7 @@
             "last_commit": "2026-03-03T17:09:40Z",
             "owner": "ijl",
             "repo": "orjson",
-            "stars": 7962
+            "stars": 7963
           }
         },
         {
@@ -6643,7 +7106,7 @@
             "last_commit": "2026-03-11T22:02:33Z",
             "owner": "ultrajson",
             "repo": "ultrajson",
-            "stars": 4474
+            "stars": 4475
           }
         }
       ],
@@ -6668,7 +7131,7 @@
         {
           "children": [],
           "description": "A tool for deploying WSGI applications on AWS Lambda and API Gateway.",
-          "title": "Zappa",
+          "title": "zappa",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -6688,15 +7151,28 @@
           "children": [
             {
               "children": [],
+              "description": "Library for converting documents into structured data.",
+              "title": "docling",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-17T13:51:23Z",
+                "owner": "docling-project",
+                "repo": "docling",
+                "stars": 56068
+              }
+            },
+            {
+              "children": [],
               "description": "High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.",
               "title": "kreuzberg",
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-03-17T20:15:28Z",
+                "last_commit": "2026-03-18T20:16:36Z",
                 "owner": "kreuzberg-dev",
                 "repo": "kreuzberg",
-                "stars": 6740
+                "stars": 6749
               }
             },
             {
@@ -6709,7 +7185,20 @@
                 "last_commit": "2026-01-06T16:49:32Z",
                 "owner": "jazzband",
                 "repo": "tablib",
-                "stars": 4751
+                "stars": 4752
+              }
+            },
+            {
+              "children": [],
+              "description": "Extract text from any document, Word, PowerPoint, PDFs, etc.",
+              "title": "textract",
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-02-04T04:01:18Z",
+                "owner": "deanmalmgren",
+                "repo": "textract",
+                "stars": 4483
               }
             }
           ],
@@ -6717,11 +7206,11 @@
           "title": "General",
           "repo_info": {
             "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-17T20:15:28Z",
-            "owner": "kreuzberg-dev",
-            "repo": "kreuzberg",
-            "stars": 6740
+            "language": "Python",
+            "last_commit": "2026-03-17T13:51:23Z",
+            "owner": "docling-project",
+            "repo": "docling",
+            "stars": 56068
           }
         },
         {
@@ -6736,7 +7225,7 @@
                 "last_commit": "2026-03-12T20:18:14Z",
                 "owner": "elapouya",
                 "repo": "python-docx-template",
-                "stars": 2588
+                "stars": 2589
               }
             },
             {
@@ -6786,14 +7275,14 @@
             {
               "children": [],
               "description": "A Python module for creating Excel .xlsx files.",
-              "title": "XlsxWriter",
+              "title": "xlsxwriter",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
                 "last_commit": "2026-01-28T17:55:09Z",
                 "owner": "jmcnamara",
                 "repo": "XlsxWriter",
-                "stars": 3920
+                "stars": 3922
               }
             },
             {
@@ -6818,7 +7307,7 @@
             "last_commit": "2026-03-12T20:18:14Z",
             "owner": "elapouya",
             "repo": "python-docx-template",
-            "stars": 2588
+            "stars": 2589
           }
         },
         {
@@ -6833,7 +7322,7 @@
                 "last_commit": "2026-03-17T12:46:07Z",
                 "owner": "yfedoseev",
                 "repo": "pdf_oxide",
-                "stars": 431
+                "stars": 435
               }
             },
             {
@@ -6846,7 +7335,7 @@
                 "last_commit": "2026-03-13T13:46:54Z",
                 "owner": "pdfminer",
                 "repo": "pdfminer.six",
-                "stars": 6933
+                "stars": 6935
               }
             },
             {
@@ -6856,7 +7345,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-14T20:41:33Z",
+                "last_commit": "2026-03-18T07:54:10Z",
                 "owner": "pikepdf",
                 "repo": "pikepdf",
                 "stars": 2667
@@ -6872,13 +7361,13 @@
                 "last_commit": "2026-03-17T13:36:00Z",
                 "owner": "py-pdf",
                 "repo": "pypdf",
-                "stars": 9880
+                "stars": 9882
               }
             },
             {
               "children": [],
               "description": "Allowing Rapid creation of rich PDF documents.",
-              "title": "ReportLab"
+              "title": "reportlab"
             }
           ],
           "description": "PDF",
@@ -6889,48 +7378,61 @@
             "last_commit": "2026-03-17T12:46:07Z",
             "owner": "yfedoseev",
             "repo": "pdf_oxide",
-            "stars": 431
+            "stars": 435
           }
         },
         {
           "children": [
             {
               "children": [],
-              "description": "Convert your notes to Markdown.",
-              "title": "Jimmy",
+              "description": "Markdown parser with 100% CommonMark support, extensions, and syntax plugins.",
+              "title": "markdown-it-py",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-08T17:12:37Z",
-                "owner": "marph91",
-                "repo": "jimmy",
-                "stars": 400
-              }
-            },
-            {
-              "children": [],
-              "description": "Fastest and full featured pure Python parsers of Markdown.",
-              "title": "Mistune",
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-03-16T13:00:59Z",
-                "owner": "lepture",
-                "repo": "mistune",
-                "stars": 2998
+                "last_commit": "2026-03-16T16:38:28Z",
+                "owner": "executablebooks",
+                "repo": "markdown-it-py",
+                "stars": 1258
               }
             },
             {
               "children": [],
               "description": "A Python implementation of John Gruber’s Markdown.",
-              "title": "Python-Markdown",
+              "title": "markdown",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
                 "last_commit": "2026-02-09T14:57:00Z",
                 "owner": "Python-Markdown",
                 "repo": "markdown",
-                "stars": 4186
+                "stars": 4185
+              }
+            },
+            {
+              "children": [],
+              "description": "Python tool for converting files and office documents to Markdown.",
+              "title": "markitdown",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-16T17:35:24Z",
+                "owner": "microsoft",
+                "repo": "markitdown",
+                "stars": 90954
+              }
+            },
+            {
+              "children": [],
+              "description": "Fastest and full featured pure Python parsers of Markdown.",
+              "title": "mistune",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-16T13:00:59Z",
+                "owner": "lepture",
+                "repo": "mistune",
+                "stars": 2997
               }
             }
           ],
@@ -6939,10 +7441,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-08T17:12:37Z",
-            "owner": "marph91",
-            "repo": "jimmy",
-            "stars": 400
+            "last_commit": "2026-03-16T16:38:28Z",
+            "owner": "executablebooks",
+            "repo": "markdown-it-py",
+            "stars": 1258
           }
         },
         {
@@ -6950,11 +7452,38 @@
             {
               "children": [],
               "description": "YAML implementations for Python.",
-              "title": "PyYAML"
+              "title": "pyyaml",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-25T21:29:27Z",
+                "owner": "yaml",
+                "repo": "pyyaml",
+                "stars": 2867
+              }
             }
           ],
           "description": "YAML",
-          "title": "YAML"
+          "title": "YAML",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-25T21:29:27Z",
+            "owner": "yaml",
+            "repo": "pyyaml",
+            "stars": 2867
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Python standard library) Parse TOML files.",
+              "title": "tomllib"
+            }
+          ],
+          "description": "TOML",
+          "title": "TOML"
         },
         {
           "children": [
@@ -6965,7 +7494,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-05T23:54:51Z",
+                "last_commit": "2026-03-18T23:53:27Z",
                 "owner": "wireservice",
                 "repo": "csvkit",
                 "stars": 6360
@@ -6977,7 +7506,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-05T23:54:51Z",
+            "last_commit": "2026-03-18T23:53:27Z",
             "owner": "wireservice",
             "repo": "csvkit",
             "stars": 6360
@@ -7052,7 +7581,7 @@
             "last_commit": "2025-10-20T13:17:06Z",
             "owner": "mkdocs",
             "repo": "mkdocs",
-            "stars": 21862
+            "stars": 21869
           }
         },
         {
@@ -7078,7 +7607,7 @@
             "last_commit": "2026-02-03T11:11:45Z",
             "owner": "getpelican",
             "repo": "pelican",
-            "stars": 13248
+            "stars": 13250
           }
         }
       ],
@@ -7090,7 +7619,15 @@
         {
           "children": [],
           "description": "An asynchronous task queue/job queue based on distributed message passing.",
-          "title": "celery"
+          "title": "celery",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-15T10:51:04Z",
+            "owner": "celery",
+            "repo": "celery",
+            "stars": 28237
+          }
         },
         {
           "children": [],
@@ -7102,7 +7639,7 @@
             "last_commit": "2026-03-15T06:58:54Z",
             "owner": "Bogdanp",
             "repo": "dramatiq",
-            "stars": 5173
+            "stars": 5175
           }
         },
         {
@@ -7115,7 +7652,7 @@
             "last_commit": "2026-02-28T13:46:39Z",
             "owner": "coleifer",
             "repo": "huey",
-            "stars": 5940
+            "stars": 5941
           }
         },
         {
@@ -7138,14 +7675,59 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-14T11:13:10Z",
+            "last_commit": "2026-03-18T19:12:57Z",
             "owner": "rq",
             "repo": "rq",
-            "stars": 10605
+            "stars": 10606
           }
         }
       ],
       "title": "Task Queues"
+    },
+    {
+      "description": "Libraries and tools for templating and lexing.",
+      "items": [
+        {
+          "children": [],
+          "description": "Python templating toolkit for generation of web-aware output.",
+          "title": "genshi",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-09T13:41:59Z",
+            "owner": "edgewall",
+            "repo": "genshi",
+            "stars": 97
+          }
+        },
+        {
+          "children": [],
+          "description": "A modern and designer friendly templating language.",
+          "title": "jinja",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-14T20:35:04Z",
+            "owner": "pallets",
+            "repo": "jinja",
+            "stars": 11514
+          }
+        },
+        {
+          "children": [],
+          "description": "Hyperfast and lightweight templating for the Python platform.",
+          "title": "mako",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-16T14:49:49Z",
+            "owner": "sqlalchemy",
+            "repo": "mako",
+            "stars": 430
+          }
+        }
+      ],
+      "title": "Template Engine"
     },
     {
       "description": "Libraries for testing codebases and generating test data.",
@@ -7162,7 +7744,7 @@
                 "last_commit": "2026-03-16T20:41:07Z",
                 "owner": "HypothesisWorks",
                 "repo": "hypothesis",
-                "stars": 8500
+                "stars": 8504
               }
             },
             {
@@ -7181,25 +7763,41 @@
             {
               "children": [],
               "description": "A mature full-featured Python testing tool.",
-              "title": "pytest"
+              "title": "pytest",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-18T13:38:41Z",
+                "owner": "pytest-dev",
+                "repo": "pytest",
+                "stars": 13701
+              }
             },
             {
               "children": [],
               "description": "A generic test automation framework.",
-              "title": "Robot Framework",
+              "title": "robotframework",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
                 "last_commit": "2026-03-17T20:43:17Z",
                 "owner": "robotframework",
                 "repo": "robotframework",
-                "stars": 11478
+                "stars": 11488
               }
             },
             {
               "children": [],
               "description": "Automated Testing and Documentation for your REST API.",
-              "title": "ScanAPI"
+              "title": "scanapi",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-27T16:12:20Z",
+                "owner": "scanapi",
+                "repo": "scanapi",
+                "stars": 1471
+              }
             },
             {
               "children": [],
@@ -7215,7 +7813,7 @@
             "last_commit": "2026-03-16T20:41:07Z",
             "owner": "HypothesisWorks",
             "repo": "hypothesis",
-            "stars": 8500
+            "stars": 8504
           }
         },
         {
@@ -7236,12 +7834,28 @@
             {
               "children": [],
               "description": "The definitive testing tool for Python. Born under the banner of BDD.",
-              "title": "mamba"
+              "title": "mamba",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-11-09T15:31:43Z",
+                "owner": "nestorsalceda",
+                "repo": "mamba",
+                "stars": 537
+              }
             },
             {
               "children": [],
               "description": "Auto builds and tests distributions in multiple Python versions",
-              "title": "tox"
+              "title": "tox",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-19T01:56:27Z",
+                "owner": "tox-dev",
+                "repo": "tox",
+                "stars": 3904
+              }
             }
           ],
           "description": "Test Runners",
@@ -7264,42 +7878,50 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-13T21:23:57Z",
+                "last_commit": "2026-03-18T13:40:08Z",
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 27609
+                "stars": 27611
               }
             },
             {
               "children": [],
               "description": "PyAutoGUI is a cross-platform GUI automation Python module for human beings.",
-              "title": "PyAutoGUI",
+              "title": "pyautogui",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
                 "last_commit": "2024-08-20T18:34:57Z",
                 "owner": "asweigart",
                 "repo": "pyautogui",
-                "stars": 12364
+                "stars": 12366
               }
             },
             {
               "children": [],
               "description": "A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.",
-              "title": "Schemathesis",
+              "title": "schemathesis",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
                 "last_commit": "2026-03-16T15:31:54Z",
                 "owner": "schemathesis",
                 "repo": "schemathesis",
-                "stars": 3115
+                "stars": 3121
               }
             },
             {
               "children": [],
               "description": "Python bindings for  .",
-              "title": "Selenium"
+              "title": "selenium",
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-03-19T00:53:55Z",
+                "owner": "SeleniumHQ",
+                "repo": "selenium",
+                "stars": 34139
+              }
             },
             {
               "children": [],
@@ -7320,10 +7942,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-13T21:23:57Z",
+            "last_commit": "2026-03-18T13:40:08Z",
             "owner": "locustio",
             "repo": "locust",
-            "stars": 27609
+            "stars": 27611
           }
         },
         {
@@ -7406,14 +8028,14 @@
             {
               "children": [],
               "description": "Record and replay HTTP interactions on your tests.",
-              "title": "VCR.py",
+              "title": "vcrpy",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
                 "last_commit": "2026-03-13T16:14:07Z",
                 "owner": "kevin1024",
                 "repo": "vcrpy",
-                "stars": 2951
+                "stars": 2953
               }
             }
           ],
@@ -7440,7 +8062,7 @@
                 "last_commit": "2026-01-01T19:04:12Z",
                 "owner": "FactoryBoy",
                 "repo": "factory_boy",
-                "stars": 3781
+                "stars": 3780
               }
             },
             {
@@ -7463,10 +8085,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-16T22:42:53Z",
+                "last_commit": "2026-03-18T22:42:50Z",
                 "owner": "litestar-org",
                 "repo": "polyfactory",
-                "stars": 1428
+                "stars": 1429
               }
             }
           ],
@@ -7478,7 +8100,7 @@
             "last_commit": "2026-01-01T19:04:12Z",
             "owner": "FactoryBoy",
             "repo": "factory_boy",
-            "stars": 3781
+            "stars": 3780
           }
         },
         {
@@ -7486,11 +8108,27 @@
             {
               "children": [],
               "description": "Code coverage measurement.",
-              "title": "coverage"
+              "title": "coverage",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-17T10:51:40Z",
+                "owner": "coveragepy",
+                "repo": "coveragepy",
+                "stars": 3334
+              }
             }
           ],
           "description": "Code Coverage",
-          "title": "Code Coverage"
+          "title": "Code Coverage",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-17T10:51:40Z",
+            "owner": "coveragepy",
+            "repo": "coveragepy",
+            "stars": 3334
+          }
         },
         {
           "children": [
@@ -7504,7 +8142,7 @@
                 "last_commit": "2026-03-13T14:36:15Z",
                 "owner": "joke2k",
                 "repo": "faker",
-                "stars": 19202
+                "stars": 19196
               }
             },
             {
@@ -7529,7 +8167,7 @@
             "last_commit": "2026-03-13T14:36:15Z",
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19202
+            "stars": 19196
           }
         }
       ],
@@ -7550,7 +8188,7 @@
                 "last_commit": "2026-03-17T23:50:32Z",
                 "owner": "chardet",
                 "repo": "chardet",
-                "stars": 2489
+                "stars": 2494
               }
             },
             {
@@ -7568,7 +8206,7 @@
                 "last_commit": "2024-10-30T21:00:49Z",
                 "owner": "rspeer",
                 "repo": "python-ftfy",
-                "stars": 4015
+                "stars": 4016
               }
             },
             {
@@ -7581,7 +8219,7 @@
                 "last_commit": "2021-08-11T16:38:39Z",
                 "owner": "ztane",
                 "repo": "python-Levenshtein",
-                "stars": 1278
+                "stars": 1279
               }
             },
             {
@@ -7639,7 +8277,15 @@
             {
               "children": [],
               "description": "ASCII transliterations of Unicode text.",
-              "title": "unidecode"
+              "title": "unidecode",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-05T07:54:51Z",
+                "owner": "avian2",
+                "repo": "unidecode",
+                "stars": 602
+              }
             }
           ],
           "description": "General",
@@ -7650,7 +8296,7 @@
             "last_commit": "2026-03-17T23:50:32Z",
             "owner": "chardet",
             "repo": "chardet",
-            "stars": 2489
+            "stars": 2494
           }
         },
         {
@@ -7678,7 +8324,7 @@
                 "last_commit": "2026-01-07T16:28:09Z",
                 "owner": "un33k",
                 "repo": "python-slugify",
-                "stars": 1599
+                "stars": 1600
               }
             },
             {
@@ -7751,7 +8397,15 @@
             {
               "children": [],
               "description": "A generic syntax highlighter.",
-              "title": "pygments"
+              "title": "pygments",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-12T21:39:28Z",
+                "owner": "pygments",
+                "repo": "pygments",
+                "stars": 2127
+              }
             },
             {
               "children": [],
@@ -7824,10 +8478,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-22T17:57:48Z",
-            "owner": "pyparsing",
-            "repo": "pyparsing",
-            "stars": 2465
+            "last_commit": "2026-03-12T21:39:28Z",
+            "owner": "pygments",
+            "repo": "pygments",
+            "stars": 2127
           }
         }
       ],
@@ -7884,7 +8538,15 @@
         {
           "children": [],
           "description": "A module for script-based movie editing with many formats, including animated GIFs.",
-          "title": "moviepy"
+          "title": "moviepy",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-07T02:47:15Z",
+            "owner": "Zulko",
+            "repo": "moviepy",
+            "stars": 14444
+          }
         },
         {
           "children": [],
@@ -7909,7 +8571,7 @@
             "last_commit": "2025-12-25T14:14:56Z",
             "owner": "abhiTronix",
             "repo": "vidgear",
-            "stars": 3685
+            "stars": 3686
           }
         }
       ],
@@ -7960,7 +8622,15 @@
         {
           "children": [],
           "description": "Packages, optimizes, and serves static file dependencies as Python packages.",
-          "title": "fanstatic"
+          "title": "fanstatic",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-05T09:29:45Z",
+            "owner": "zopefoundation",
+            "repo": "fanstatic",
+            "stars": 13
+          }
         },
         {
           "children": [],
@@ -8043,7 +8713,7 @@
             "last_commit": "2025-12-06T00:29:47Z",
             "owner": "codelucas",
             "repo": "newspaper",
-            "stars": 15009
+            "stars": 15011
           }
         },
         {
@@ -8087,19 +8757,6 @@
         },
         {
           "children": [],
-          "description": "Extract text from any document, Word, PowerPoint, PDFs, etc.",
-          "title": "textract",
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-02-04T04:01:18Z",
-            "owner": "deanmalmgren",
-            "repo": "textract",
-            "stars": 4482
-          }
-        },
-        {
-          "children": [],
           "description": "Every web site provides APIs.",
           "title": "toapi",
           "repo_info": {
@@ -8108,7 +8765,7 @@
             "last_commit": "2022-07-05T22:11:04Z",
             "owner": "elliotgao2",
             "repo": "toapi",
-            "stars": 3555
+            "stars": 3554
           }
         }
       ],
@@ -8124,10 +8781,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T00:17:29Z",
+            "last_commit": "2026-03-19T01:08:01Z",
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 81134
+            "stars": 81242
           }
         },
         {
@@ -8137,10 +8794,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T03:35:35Z",
+            "last_commit": "2026-03-18T15:36:14Z",
             "owner": "unclecode",
             "repo": "crawl4ai",
-            "stars": 62140
+            "stars": 62198
           }
         },
         {
@@ -8153,7 +8810,7 @@
             "last_commit": "2026-03-02T22:45:04Z",
             "owner": "kurtmckee",
             "repo": "feedparser",
-            "stars": 2327
+            "stars": 2330
           }
         },
         {
@@ -8166,7 +8823,7 @@
             "last_commit": "2025-09-19T10:51:17Z",
             "owner": "lorien",
             "repo": "grab",
-            "stars": 2458
+            "stars": 2459
           }
         },
         {
@@ -8179,7 +8836,7 @@
             "last_commit": "2026-02-19T07:18:14Z",
             "owner": "MechanicalSoup",
             "repo": "MechanicalSoup",
-            "stars": 4850
+            "stars": 4851
           }
         },
         {
@@ -8192,7 +8849,7 @@
             "last_commit": "2026-03-13T09:30:25Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 60835
+            "stars": 60861
           }
         }
       ],
@@ -8215,7 +8872,7 @@
                     "last_commit": "2026-03-05T23:07:50Z",
                     "owner": "shahraizali",
                     "repo": "awesome-django",
-                    "stars": 1902
+                    "stars": 1903
                   }
                 }
               ],
@@ -8224,10 +8881,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-17T21:08:18Z",
+                "last_commit": "2026-03-18T12:23:32Z",
                 "owner": "django",
                 "repo": "django",
-                "stars": 87062
+                "stars": 87067
               }
             },
             {
@@ -8242,7 +8899,7 @@
                     "last_commit": "2024-08-18T10:42:06Z",
                     "owner": "humiaozuzu",
                     "repo": "awesome-flask",
-                    "stars": 12696
+                    "stars": 12697
                   }
                 }
               ],
@@ -8254,7 +8911,7 @@
                 "last_commit": "2026-03-08T23:24:17Z",
                 "owner": "pallets",
                 "repo": "flask",
-                "stars": 71345
+                "stars": 71346
               }
             },
             {
@@ -8277,11 +8934,11 @@
               "title": "pyramid",
               "repo_info": {
                 "archived": false,
-                "language": null,
-                "last_commit": "2021-07-08T12:28:10Z",
-                "owner": "uralbash",
-                "repo": "awesome-pyramid",
-                "stars": 570
+                "language": "Python",
+                "last_commit": "2026-03-11T17:57:15Z",
+                "owner": "Pylons",
+                "repo": "pyramid",
+                "stars": 4077
               }
             },
             {
@@ -8301,14 +8958,14 @@
                 }
               ],
               "description": "The fastest way to create an HTML app.",
-              "title": "fastHTML",
+              "title": "fasthtml",
               "repo_info": {
                 "archived": false,
                 "language": "Jupyter Notebook",
                 "last_commit": "2026-03-13T20:35:50Z",
                 "owner": "AnswerDotAI",
                 "repo": "fasthtml",
-                "stars": 6883
+                "stars": 6884
               }
             },
             {
@@ -8330,10 +8987,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-17T21:08:18Z",
+            "last_commit": "2026-03-18T12:23:32Z",
             "owner": "django",
             "repo": "django",
-            "stars": 87062
+            "stars": 87067
           }
         },
         {
@@ -8341,11 +8998,11 @@
             {
               "children": [],
               "description": "Production-ready, capable and extensible ASGI Web framework.",
-              "title": "Litestar",
+              "title": "litestar",
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-16T20:52:27Z",
+                "last_commit": "2026-03-18T14:49:19Z",
                 "owner": "litestar-org",
                 "repo": "litestar",
                 "stars": 8100
@@ -8361,7 +9018,7 @@
                 "last_commit": "2026-03-10T23:30:41Z",
                 "owner": "miguelgrinberg",
                 "repo": "microdot",
-                "stars": 2093
+                "stars": 2094
               }
             },
             {
@@ -8374,7 +9031,7 @@
                 "last_commit": "2026-03-18T02:23:17Z",
                 "owner": "reflex-dev",
                 "repo": "reflex",
-                "stars": 28234
+                "stars": 28241
               }
             },
             {
@@ -8384,7 +9041,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-03-17T19:24:12Z",
+                "last_commit": "2026-03-18T19:36:28Z",
                 "owner": "tornadoweb",
                 "repo": "tornado",
                 "stars": 22406
@@ -8396,7 +9053,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-16T20:52:27Z",
+            "last_commit": "2026-03-18T14:49:19Z",
             "owner": "litestar-org",
             "repo": "litestar",
             "stars": 8100
@@ -8444,7 +9101,7 @@
             "last_commit": "2026-03-08T08:14:04Z",
             "owner": "python-websockets",
             "repo": "websockets",
-            "stars": 5645
+            "stars": 5644
           }
         }
       ],
@@ -8463,13 +9120,21 @@
             "last_commit": "2026-03-13T09:25:39Z",
             "owner": "benoitc",
             "repo": "gunicorn",
-            "stars": 10482
+            "stars": 10484
           }
         },
         {
           "children": [],
           "description": "A project aims at developing a full stack for building hosting services, written in C.",
-          "title": "uwsgi"
+          "title": "uwsgi",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-11T19:16:25Z",
+            "owner": "unbit",
+            "repo": "uwsgi",
+            "stars": 3544
+          }
         },
         {
           "children": [],
@@ -8502,7 +9167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-18T04:16:49.584Z",
+    "last_updated": "2026-03-19T04:15:15.473Z",
     "original_repository": "vinta/awesome-python",
     "source_repository": "v1nvn/enhansome-python",
     "source_repository_description": null,

@@ -156,6 +156,19 @@
             "repo": "vlc-mcp-server",
             "stars": 11
           }
+        },
+        {
+          "children": [],
+          "description": "Automatically adds the previous and next track from the same directory to the VLC playlist as soon as a file starts playing.",
+          "title": "vlc-auto-dir-enqueue-prev-next",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-09-19T19:57:29Z",
+            "owner": "eltoro0815",
+            "repo": "vlc-auto-dir-enqueue-prev-next",
+            "stars": 2
+          }
         }
       ],
       "title": "VLC web & lua extensions"
@@ -214,7 +227,7 @@
             "last_commit": "2026-02-25T10:43:56Z",
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1750
+            "stars": 1749
           }
         },
         {
@@ -302,7 +315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-18T04:14:24.021Z",
+    "last_updated": "2026-03-19T04:13:19.648Z",
     "original_repository": "mfkl/awesome-vlc",
     "source_repository": "v1nvn/enhansome-vlc",
     "source_repository_description": null,
