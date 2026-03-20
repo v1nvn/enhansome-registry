@@ -10,6 +10,19 @@
       "items": [
         {
           "children": [],
+          "description": "Turn Gemini CLI into a multi-agent platform — 12 specialized subagents, parallel dispatch, 4-phase orchestration, and standalone dev tools for code review, debugging, security, and performance.",
+          "title": "Maestro",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-19T15:01:04Z",
+            "owner": "josstei",
+            "repo": "maestro-gemini",
+            "stars": 187
+          }
+        },
+        {
+          "children": [],
           "description": "Prevents agent loops via message tracking and plays auditory notifications for long tasks or out-of-focus prompts.",
           "title": "Task Monitor",
           "repo_info": {
@@ -28,7 +41,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-18T12:04:15Z",
+            "last_commit": "2026-03-19T21:50:10Z",
             "owner": "heurema",
             "repo": "signum",
             "stars": 10
@@ -49,7 +62,7 @@
             "last_commit": "2026-03-03T20:25:44Z",
             "owner": "atxp-dev",
             "repo": "atxp",
-            "stars": 8
+            "stars": 9
           }
         },
         {
@@ -59,10 +72,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T07:37:16Z",
+            "last_commit": "2026-03-20T04:08:18Z",
             "owner": "littlebearapps",
             "repo": "untether",
-            "stars": 9
+            "stars": 12
           }
         },
         {
@@ -72,7 +85,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-18T23:37:46Z",
+            "last_commit": "2026-03-19T23:06:18Z",
             "owner": "almogdepaz",
             "repo": "wolfpack",
             "stars": 19
@@ -85,10 +98,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-03-18T04:23:28Z",
+            "last_commit": "2026-03-19T20:38:36Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -114,7 +127,7 @@
             "last_commit": "2026-03-09T22:25:28Z",
             "owner": "connerlambden",
             "repo": "bgpt-mcp",
-            "stars": 6
+            "stars": 7
           }
         }
       ],
@@ -130,10 +143,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-19T04:23:09Z",
+            "last_commit": "2026-03-20T04:05:17Z",
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 98300
+            "stars": 98416
           }
         },
         {
@@ -146,7 +159,7 @@
             "last_commit": "2026-03-18T06:06:34Z",
             "owner": "google-gemini",
             "repo": "cookbook",
-            "stars": 16772
+            "stars": 16781
           }
         },
         {
@@ -156,10 +169,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-11T17:14:02Z",
+            "last_commit": "2026-03-19T21:23:15Z",
             "owner": "google-github-actions",
             "repo": "run-gemini-cli",
-            "stars": 1867
+            "stars": 1868
           }
         }
       ],
@@ -178,7 +191,7 @@
             "last_commit": "2026-03-08T15:18:16Z",
             "owner": "Piebald-AI",
             "repo": "gemini-cli-desktop",
-            "stars": 324
+            "stars": 330
           }
         },
         {
@@ -188,10 +201,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-19T04:12:58Z",
+            "last_commit": "2026-03-20T04:11:36Z",
             "owner": "iOfficeAI",
             "repo": "AionUi",
-            "stars": 19121
+            "stars": 19263
           }
         }
       ],
@@ -207,7 +220,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-19T01:58:33Z",
+            "last_commit": "2026-03-20T02:17:01Z",
             "owner": "vybestack",
             "repo": "llxprt-code",
             "stars": 649
@@ -220,10 +233,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-02T06:59:23Z",
+            "last_commit": "2026-03-20T03:00:54Z",
             "owner": "iflow-ai",
             "repo": "iflow-cli",
-            "stars": 5071
+            "stars": 5088
           }
         },
         {
@@ -233,10 +246,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-19T04:03:40Z",
+            "last_commit": "2026-03-20T03:52:44Z",
             "owner": "QwenLM",
             "repo": "qwen-code",
-            "stars": 20743
+            "stars": 20788
           }
         }
       ],
@@ -260,7 +273,7 @@
             "last_commit": "2026-03-15T06:54:58Z",
             "owner": "aannoo",
             "repo": "hcom",
-            "stars": 148
+            "stars": 153
           }
         },
         {
@@ -283,7 +296,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-18T23:37:46Z",
+            "last_commit": "2026-03-19T23:06:18Z",
             "owner": "almogdepaz",
             "repo": "wolfpack",
             "stars": 19
@@ -296,10 +309,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-18T07:37:16Z",
+            "last_commit": "2026-03-20T04:08:18Z",
             "owner": "littlebearapps",
             "repo": "untether",
-            "stars": 9
+            "stars": 12
           }
         }
       ],
@@ -331,7 +344,7 @@
             "last_commit": "2026-03-03T20:25:44Z",
             "owner": "atxp-dev",
             "repo": "atxp",
-            "stars": 8
+            "stars": 9
           }
         },
         {
@@ -344,7 +357,7 @@
             "last_commit": "2026-02-13T19:09:53Z",
             "owner": "thoreinstein",
             "repo": "gemini-notifier",
-            "stars": 17
+            "stars": 18
           }
         },
         {
@@ -383,7 +396,7 @@
             "last_commit": "2026-03-18T21:44:49Z",
             "owner": "gemini-cli-extensions",
             "repo": "conductor",
-            "stars": 3229
+            "stars": 3243
           }
         },
         {
@@ -550,7 +563,7 @@
             "last_commit": "2026-01-27T03:27:42Z",
             "owner": "nicepkg",
             "repo": "vsync",
-            "stars": 29
+            "stars": 30
           }
         },
         {
@@ -591,10 +604,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-19T04:05:30Z",
+            "last_commit": "2026-03-20T00:24:08Z",
             "owner": "dyoshikawa",
             "repo": "rulesync",
-            "stars": 907
+            "stars": 913
           }
         },
         {
@@ -604,10 +617,10 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-03-19T03:21:22Z",
+            "last_commit": "2026-03-20T04:02:25Z",
             "owner": "numtide",
             "repo": "llm-agents.nix",
-            "stars": 823
+            "stars": 830
           }
         },
         {
@@ -656,10 +669,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-19T04:16:03Z",
+            "last_commit": "2026-03-20T04:07:52Z",
             "owner": "kbwo",
             "repo": "ccmanager",
-            "stars": 946
+            "stars": 947
           }
         },
         {
@@ -682,7 +695,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-18T12:04:15Z",
+            "last_commit": "2026-03-19T21:50:10Z",
             "owner": "heurema",
             "repo": "signum",
             "stars": 10
@@ -736,7 +749,7 @@
             "last_commit": "2025-12-17T20:20:28Z",
             "owner": "gzzhongqi",
             "repo": "geminicli2api",
-            "stars": 552
+            "stars": 555
           }
         },
         {
@@ -775,7 +788,7 @@
             "last_commit": "2026-02-09T02:47:57Z",
             "owner": "GewoonJaap",
             "repo": "gemini-cli-openai",
-            "stars": 863
+            "stars": 865
           }
         },
         {
@@ -825,7 +838,7 @@
             "last_commit": "2026-03-09T22:25:28Z",
             "owner": "connerlambden",
             "repo": "bgpt-mcp",
-            "stars": 6
+            "stars": 7
           }
         },
         {
@@ -851,7 +864,7 @@
             "last_commit": "2025-11-25T11:48:56Z",
             "owner": "jamubc",
             "repo": "gemini-mcp-tool",
-            "stars": 2072
+            "stars": 2075
           }
         },
         {
@@ -913,10 +926,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-03-18T04:23:28Z",
+            "last_commit": "2026-03-19T20:38:36Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 19
+            "stars": 20
           }
         }
       ],
@@ -972,6 +985,19 @@
       "items": [
         {
           "children": [],
+          "description": "Turn Gemini CLI into a multi-agent platform — 12 specialized subagents, parallel dispatch, 4-phase orchestration, and standalone dev tools for code review, debugging, security, and performance.",
+          "title": "Maestro",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-19T15:01:04Z",
+            "owner": "josstei",
+            "repo": "maestro-gemini",
+            "stars": 187
+          }
+        },
+        {
+          "children": [],
           "description": "The world's first out-of-the-box computer use agent powered by Gemini CLI @openmule.",
           "title": "GACUA",
           "repo_info": {
@@ -980,7 +1006,7 @@
             "last_commit": "2025-09-12T03:28:38Z",
             "owner": "openmule",
             "repo": "gacua",
-            "stars": 126
+            "stars": 127
           }
         },
         {
@@ -1103,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-19T04:23:16.243Z",
+    "last_updated": "2026-03-20T04:13:52.316Z",
     "original_repository": "Piebald-AI/awesome-gemini-cli",
     "source_repository": "v1nvn/enhansome-gemini-cli",
     "source_repository_description": null,
