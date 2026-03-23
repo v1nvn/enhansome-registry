@@ -5,67 +5,25 @@
       "items": [
         {
           "children": [],
-          "description": "Supercharged End 2 End Testing Framework for Node.js.",
-          "title": "CodeceptJS",
+          "description": "Mobile tests for web or native apps on 's virtual devices using Playwright Test Runner.",
+          "title": "@appetize/Playwright"
+        },
+        {
+          "children": [],
+          "description": "Mobile tests using Appium with Playwright Test Runner.",
+          "title": "appwright"
+        },
+        {
+          "children": [],
+          "description": "Load testing with Playwright.",
+          "title": "artillery-engine-playwright",
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-18T14:27:30Z",
-            "owner": "codeceptjs",
-            "repo": "CodeceptJS",
-            "stars": 4222
-          }
-        },
-        {
-          "children": [],
-          "description": "Prebuilt Chromium binaries for Playwright on serverless platforms.",
-          "title": "Chromium for Serverless platforms",
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-02T10:14:40Z",
-            "owner": "Sparticuz",
-            "repo": "chromium",
-            "stars": 1564
-          }
-        },
-        {
-          "children": [],
-          "description": "Adds Playwright Test to your Angular project.",
-          "title": "Playwright Angular Schematic",
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-20T21:04:14Z",
-            "owner": "jfgreffier",
-            "repo": "playwright-ng-schematics",
-            "stars": 20
-          }
-        },
-        {
-          "children": [],
-          "description": "Playwright codegen as a chrome extension. Available in .",
-          "title": "Playwright CRX",
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-09-03T14:42:40Z",
-            "owner": "ruifigueira",
-            "repo": "playwright-crx",
-            "stars": 596
-          }
-        },
-        {
-          "children": [],
-          "description": "Official Pytest plugin for using Playwright pages with fixtures.",
-          "title": "playwright-pytest",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-03T20:51:42Z",
-            "owner": "microsoft",
-            "repo": "playwright-pytest",
-            "stars": 541
+            "last_commit": "2026-03-11T12:47:35Z",
+            "owner": "artilleryio",
+            "repo": "artillery",
+            "stars": 8925
           }
         },
         {
@@ -78,12 +36,12 @@
             "last_commit": "2026-03-20T16:35:59Z",
             "owner": "dequelabs",
             "repo": "axe-core-npm",
-            "stars": 697
+            "stars": 698
           }
         },
         {
           "children": [],
-          "description": "Inofficial integration of Axe with Playwright.",
+          "description": "Unofficial integration of Axe with Playwright.",
           "title": "axe-playwright",
           "repo_info": {
             "archived": false,
@@ -96,15 +54,28 @@
         },
         {
           "children": [],
-          "description": "Expect matchers to perform Axe accessibility tests in your Playwright tests.",
-          "title": "expect-axe-playwright",
+          "description": "Prebuilt Chromium binaries for Playwright on serverless platforms.",
+          "title": "Chromium for Serverless platforms",
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2024-08-16T16:35:20Z",
-            "owner": "Widen",
-            "repo": "expect-axe-playwright",
-            "stars": 24
+            "last_commit": "2026-03-02T10:14:40Z",
+            "owner": "Sparticuz",
+            "repo": "chromium",
+            "stars": 1563
+          }
+        },
+        {
+          "children": [],
+          "description": "Supercharged End 2 End Testing Framework for Node.js.",
+          "title": "CodeceptJS",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-18T14:27:30Z",
+            "owner": "codeceptjs",
+            "repo": "CodeceptJS",
+            "stars": 4222
           }
         },
         {
@@ -122,15 +93,33 @@
         },
         {
           "children": [],
-          "description": "Load testing with Playwright.",
-          "title": "artillery-engine-playwright",
+          "description": "VoiceOver and NVDA screen reader driver integration for Playwright.",
+          "title": "@guidepup/Playwright",
           "repo_info": {
             "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-11T12:47:35Z",
-            "owner": "artilleryio",
-            "repo": "artillery",
-            "stars": 8925
+            "language": "TypeScript",
+            "last_commit": "2026-01-25T21:34:17Z",
+            "owner": "guidepup",
+            "repo": "guidepup-playwright",
+            "stars": 75
+          }
+        },
+        {
+          "children": [],
+          "description": "Catch unexpected visual and accessibility changes and UI bugs.",
+          "title": "Happo"
+        },
+        {
+          "children": [],
+          "description": "Adds Playwright Test to your Angular project.",
+          "title": "Playwright Angular Schematic",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-20T21:04:14Z",
+            "owner": "jfgreffier",
+            "repo": "playwright-ng-schematics",
+            "stars": 20
           }
         },
         {
@@ -148,31 +137,16 @@
         },
         {
           "children": [],
-          "description": "Acceptance testing, reporting, and test integration framework for Playwright, implementing the .",
-          "title": "Serenity/JS"
-        },
-        {
-          "children": [],
-          "description": "VoiceOver and NVDA screen reader driver integration for Playwright.",
-          "title": "@guidepup/Playwright",
+          "description": "Playwright codegen as a chrome extension. Available in .",
+          "title": "Playwright CRX",
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-01-25T21:34:17Z",
-            "owner": "guidepup",
-            "repo": "guidepup-playwright",
-            "stars": 75
+            "last_commit": "2025-09-03T14:42:40Z",
+            "owner": "ruifigueira",
+            "repo": "playwright-crx",
+            "stars": 596
           }
-        },
-        {
-          "children": [],
-          "description": "Mobile tests for web or native apps on 's virtual devices using Playwright Test Runner.",
-          "title": "@appetize/Playwright"
-        },
-        {
-          "children": [],
-          "description": "Mobile tests using Appium with Playwright Test Runner.",
-          "title": "appwright"
         },
         {
           "children": [],
@@ -181,8 +155,21 @@
         },
         {
           "children": [],
-          "description": "Catch unexpected visual and accessibility changes and UI bugs.",
-          "title": "Happo"
+          "description": "Official Pytest plugin for using Playwright pages with fixtures.",
+          "title": "playwright-pytest",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T20:51:42Z",
+            "owner": "microsoft",
+            "repo": "playwright-pytest",
+            "stars": 541
+          }
+        },
+        {
+          "children": [],
+          "description": "Acceptance testing, reporting, and test integration framework for Playwright, implementing the .",
+          "title": "Serenity/JS"
         }
       ],
       "title": "Integrations"
@@ -197,20 +184,7 @@
         },
         {
           "children": [],
-          "description": "Official Playwright port to Python.",
-          "title": "playwright-python",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-19T18:18:29Z",
-            "owner": "microsoft",
-            "repo": "playwright-python",
-            "stars": 14415
-          }
-        },
-        {
-          "children": [],
-          "description": "Official Playwright port to DOTNET.",
+          "description": "Official Playwright port to .NET.",
           "title": "playwright-dotnet",
           "repo_info": {
             "archived": false,
@@ -231,7 +205,20 @@
             "last_commit": "2026-03-21T02:28:25Z",
             "owner": "microsoft",
             "repo": "playwright-java",
-            "stars": 1457
+            "stars": 1458
+          }
+        },
+        {
+          "children": [],
+          "description": "Official Playwright port to Python.",
+          "title": "playwright-python",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T18:18:29Z",
+            "owner": "microsoft",
+            "repo": "playwright-python",
+            "stars": 14416
           }
         },
         {
@@ -244,46 +231,7 @@
             "last_commit": "2026-02-24T00:38:51Z",
             "owner": "playwright-community",
             "repo": "playwright-go",
-            "stars": 3262
-          }
-        },
-        {
-          "children": [],
-          "description": "Playwright port for Ruby.",
-          "title": "playwright-ruby-client",
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-03-15T22:28:45Z",
-            "owner": "YusukeIwaki",
-            "repo": "playwright-ruby-client",
-            "stars": 474
-          }
-        },
-        {
-          "children": [],
-          "description": "Playwright port for Crystal.",
-          "title": "playwright-cr",
-          "repo_info": {
-            "archived": false,
-            "language": "Crystal",
-            "last_commit": "2021-03-24T05:45:54Z",
-            "owner": "naqvis",
-            "repo": "playwright-cr",
-            "stars": 23
-          }
-        },
-        {
-          "children": [],
-          "description": "Playwright port for Rust.",
-          "title": "playwright-rust",
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-21T13:03:47Z",
-            "owner": "padamson",
-            "repo": "playwright-rust",
-            "stars": 53
+            "stars": 3268
           }
         },
         {
@@ -298,6 +246,32 @@
             "repo": "playwright-perl",
             "stars": 23
           }
+        },
+        {
+          "children": [],
+          "description": "Playwright port for Ruby.",
+          "title": "playwright-ruby-client",
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-03-15T22:28:45Z",
+            "owner": "YusukeIwaki",
+            "repo": "playwright-ruby-client",
+            "stars": 475
+          }
+        },
+        {
+          "children": [],
+          "description": "Playwright port for Rust.",
+          "title": "playwright-rust",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-22T22:23:24Z",
+            "owner": "padamson",
+            "repo": "playwright-rust",
+            "stars": 53
+          }
         }
       ],
       "title": "Language Support"
@@ -307,12 +281,20 @@
       "items": [
         {
           "children": [],
-          "description": "Auto-generated, run & maintained with AI-assisted test case discovery.",
-          "title": "automated-Playwright-UI-tests"
+          "description": "Report coverage on Playwright tests using v8 coverage, without requiring any instrumentation.",
+          "title": "@bgotink/playwright-coverage",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-10T20:54:46Z",
+            "owner": "bgotink",
+            "repo": "playwright-coverage",
+            "stars": 50
+          }
         },
         {
           "children": [],
-          "description": "AI browser automation via accessibility snapshot and ref targeting. Built on Playwright. No vision model, no CSS selectors — snapshot the page, AI picks a ref, library hits the exact element.",
+          "description": "AI browser automation via accessibility snapshots and ref targeting, built on Playwright.",
           "title": "BrowserClaw",
           "repo_info": {
             "archived": false,
@@ -322,16 +304,6 @@
             "repo": "browserclaw",
             "stars": 18
           }
-        },
-        {
-          "children": [],
-          "description": "Interactive playground for running Playwright tests.",
-          "title": "Try Playwright"
-        },
-        {
-          "children": [],
-          "description": "Connect your Playwright tests with browsers in the Cloud.",
-          "title": "TestingBot"
         },
         {
           "children": [],
@@ -348,6 +320,32 @@
         },
         {
           "children": [],
+          "description": "A key-value cache for sharing data between parallel workers and test runs.",
+          "title": "@global-cache/Playwright",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-09T11:18:29Z",
+            "owner": "vitalets",
+            "repo": "global-cache",
+            "stars": 23
+          }
+        },
+        {
+          "children": [],
+          "description": "Documentation screenshot automation. Visual picker to define screenshots, one command to regenerate them all.",
+          "title": "Heroshot",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-12T09:20:03Z",
+            "owner": "omachala",
+            "repo": "heroshot",
+            "stars": 27
+          }
+        },
+        {
+          "children": [],
           "description": "Tools for executing Playwright tests in parallel in a Kubernetes cluster.",
           "title": "Moon",
           "repo_info": {
@@ -356,21 +354,13 @@
             "last_commit": "2026-03-03T11:55:41Z",
             "owner": "aerokube",
             "repo": "moon",
-            "stars": 268
+            "stars": 269
           }
         },
         {
           "children": [],
-          "description": "Report coverage on Playwright tests using v8 coverage, without requiring any instrumentation.",
-          "title": "@bgotink/playwright-coverage",
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-03-10T20:54:46Z",
-            "owner": "bgotink",
-            "repo": "playwright-coverage",
-            "stars": 50
-          }
+          "description": "Auto-generated, run & maintained with AI-assisted test case discovery.",
+          "title": "octomind.dev"
         },
         {
           "children": [],
@@ -382,31 +372,8 @@
             "last_commit": "2026-03-13T21:52:34Z",
             "owner": "currents-dev",
             "repo": "playwright-best-practices-skill",
-            "stars": 156
+            "stars": 157
           }
-        },
-        {
-          "children": [],
-          "description": "Plugin to collect code coverage from running Playwright tests.",
-          "title": "playwright-test-coverage",
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-19T20:07:33Z",
-            "owner": "anishkny",
-            "repo": "playwright-test-coverage",
-            "stars": 96
-          }
-        },
-        {
-          "children": [],
-          "description": "Official Playwright test extension for VS Code.",
-          "title": "Playwright Test for VSCode"
-        },
-        {
-          "children": [],
-          "description": "Playwright test extension for creatation of reusable components with ability to add child elements, methods and call them in chain. Reduce amount of your code in page object, or even use elements without page object.",
-          "title": "playwright-elements"
         },
         {
           "children": [],
@@ -415,60 +382,8 @@
         },
         {
           "children": [],
-          "description": "A plugin that helps you optimize the speed and efficiency of web applications by measuring and analyzing the performance of ANY tested flow using Playwright.",
-          "title": "Playwright-performance"
-        },
-        {
-          "children": [],
-          "description": "Language injection definitions for CSS/JS syntax highlighting when using  in PyCharm.",
-          "title": "playwright-python-language-injection",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-17T11:36:17Z",
-            "owner": "Mattwmaster58",
-            "repo": "playwright-python-language-injection",
-            "stars": 5
-          }
-        },
-        {
-          "children": [],
-          "description": "Custom selector engine for sapui5.",
-          "title": "playwright-ui5",
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-10-20T06:00:59Z",
-            "owner": "DetachHead",
-            "repo": "playwright-ui5",
-            "stars": 13
-          }
-        },
-        {
-          "children": [],
-          "description": "Custom selector engine for xpath 2 and 3.",
-          "title": "playwright-xpath",
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-07-16T04:37:09Z",
-            "owner": "DetachHead",
-            "repo": "playwright-xpath",
-            "stars": 8
-          }
-        },
-        {
-          "children": [],
-          "description": "TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.",
-          "title": "POMWright",
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-06T21:53:12Z",
-            "owner": "DyHex",
-            "repo": "POMWright",
-            "stars": 55
-          }
+          "description": "Playwright test extension for creation of reusable, chainable component elements to reduce page object boilerplate.",
+          "title": "playwright-elements"
         },
         {
           "children": [],
@@ -498,29 +413,101 @@
         },
         {
           "children": [],
-          "description": "A key-value cache for sharing data between parallel workers and test runs.",
-          "title": "@global-cache/Playwright",
+          "description": "Plugin for measuring and analyzing performance of tested flows using Playwright.",
+          "title": "Playwright-performance"
+        },
+        {
+          "children": [],
+          "description": "Language injection definitions for CSS/JS syntax highlighting when using  in PyCharm.",
+          "title": "playwright-python-language-injection",
           "repo_info": {
             "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-09T11:18:29Z",
-            "owner": "vitalets",
-            "repo": "global-cache",
-            "stars": 23
+            "language": "Python",
+            "last_commit": "2024-04-17T11:36:17Z",
+            "owner": "Mattwmaster58",
+            "repo": "playwright-python-language-injection",
+            "stars": 5
           }
         },
         {
           "children": [],
-          "description": "Documentation screenshot automation. Visual picker to define screenshots, one command to regenerate them all.",
-          "title": "Heroshot",
+          "description": "70+ production-tested Playwright skills for coding agents covering best practices, POM patterns, CI/CD, and migration paths.",
+          "title": "playwright-skill",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-17T09:34:19Z",
+            "owner": "testdino-hq",
+            "repo": "playwright-skill",
+            "stars": 152
+          }
+        },
+        {
+          "children": [],
+          "description": "Plugin to collect code coverage from running Playwright tests.",
+          "title": "playwright-test-coverage",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-19T20:07:33Z",
+            "owner": "anishkny",
+            "repo": "playwright-test-coverage",
+            "stars": 96
+          }
+        },
+        {
+          "children": [],
+          "description": "Official Playwright test extension for VS Code.",
+          "title": "Playwright Test for VSCode"
+        },
+        {
+          "children": [],
+          "description": "Custom selector engine for sapui5.",
+          "title": "playwright-ui5",
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-12T09:20:03Z",
-            "owner": "omachala",
-            "repo": "heroshot",
-            "stars": 27
+            "last_commit": "2025-10-20T06:00:59Z",
+            "owner": "DetachHead",
+            "repo": "playwright-ui5",
+            "stars": 13
           }
+        },
+        {
+          "children": [],
+          "description": "Custom selector engine for xpath 2 and 3.",
+          "title": "playwright-xpath",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-16T04:37:09Z",
+            "owner": "DetachHead",
+            "repo": "playwright-xpath",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "TypeScript-based Page Object Model framework with automatic nested/chained locator generation.",
+          "title": "POMWright",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-06T21:53:12Z",
+            "owner": "DyHex",
+            "repo": "POMWright",
+            "stars": 56
+          }
+        },
+        {
+          "children": [],
+          "description": "Connect your Playwright tests with browsers in the Cloud.",
+          "title": "TestingBot"
+        },
+        {
+          "children": [],
+          "description": "Interactive playground for running Playwright tests.",
+          "title": "Try Playwright"
         }
       ],
       "title": "Utils"
@@ -530,15 +517,38 @@
       "items": [
         {
           "children": [],
-          "description": "A library for uploading test results to Tesults from Playwright.",
-          "title": "playwright-tesults-reporter",
+          "description": "Allure integration with Playwright Test framework.",
+          "title": "allure-playwright",
           "repo_info": {
             "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-25T15:13:30Z",
-            "owner": "tesults",
-            "repo": "playwright-tesults-reporter",
-            "stars": 3
+            "language": "TypeScript",
+            "last_commit": "2026-03-18T13:57:18Z",
+            "owner": "allure-framework",
+            "repo": "allure-js",
+            "stars": 272
+          }
+        },
+        {
+          "children": [],
+          "description": "Uploads Playwright test results, screenshots, videos and traces to the Checkly platform for monitoring and debugging across global regions.",
+          "title": "Checkly"
+        },
+        {
+          "children": [],
+          "description": "A Cloud Dashboard to debug, troubleshoot and analyze parallel Playwright CI tests.",
+          "title": "currents-dev"
+        },
+        {
+          "children": [],
+          "description": "Makes tests observable by visualizing OpenTelemetry data in HTML.",
+          "title": "echoed",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-09T13:09:51Z",
+            "owner": "mrasu",
+            "repo": "echoed",
+            "stars": 36
           }
         },
         {
@@ -556,15 +566,46 @@
         },
         {
           "children": [],
-          "description": "Allure integration with Playwright Test framework.",
-          "title": "allure-playwright",
+          "description": "A Playwright JSON test results reporter that follows the CTRF schema.",
+          "title": "playwright-ctrf-json-reporter",
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-18T13:57:18Z",
-            "owner": "allure-framework",
-            "repo": "allure-js",
-            "stars": 272
+            "last_commit": "2026-03-21T23:00:26Z",
+            "owner": "ctrf-io",
+            "repo": "playwright-ctrf-json-reporter",
+            "stars": 100
+          }
+        },
+        {
+          "children": [],
+          "description": "Publish your Playwright test results to your favorite Slack channel(s).",
+          "title": "playwright-slack-report",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-23T01:24:05Z",
+            "owner": "ryanrosello-og",
+            "repo": "playwright-slack-report",
+            "stars": 140
+          }
+        },
+        {
+          "children": [],
+          "description": "A feature-rich HTML reporter with stability grades, trend analytics, retry analysis, performance tracking, and optional AI-powered failure analysis.",
+          "title": "playwright-smart-reporter"
+        },
+        {
+          "children": [],
+          "description": "A library for uploading test results to Tesults from Playwright.",
+          "title": "playwright-tesults-reporter",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-25T15:13:30Z",
+            "owner": "tesults",
+            "repo": "playwright-tesults-reporter",
+            "stars": 3
           }
         },
         {
@@ -582,24 +623,6 @@
         },
         {
           "children": [],
-          "description": "Runs and sends test executions to the TCMS testomatio, Jira / Linear / Azure DevOps task management.",
-          "title": "testomatio-reporter",
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-21T10:34:06Z",
-            "owner": "testomatio",
-            "repo": "reporter",
-            "stars": 145
-          }
-        },
-        {
-          "children": [],
-          "description": "A Cloud Dashboard to debug, troubleshoot and analyze parallel Playwright CI tests.",
-          "title": "currents-dev"
-        },
-        {
-          "children": [],
           "description": "Playwright Qase Reporter, send test executions to .",
           "title": "qase",
           "repo_info": {
@@ -613,65 +636,21 @@
         },
         {
           "children": [],
-          "description": "Makes tests observable by visualizing OpenTelemetry data in HTML.",
-          "title": "echoed",
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-03-09T13:09:51Z",
-            "owner": "mrasu",
-            "repo": "echoed",
-            "stars": 36
-          }
-        },
-        {
-          "children": [],
-          "description": "Publish your Playwright test results to your favorite Slack channel(s).",
-          "title": "playwright-slack-report",
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-17T02:14:41Z",
-            "owner": "ryanrosello-og",
-            "repo": "playwright-slack-report",
-            "stars": 139
-          }
-        },
-        {
-          "children": [],
-          "description": "Run Playwright scripts and populate results back into  test management tool.",
-          "title": "TestCollab",
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-09-14T05:47:26Z",
-            "owner": "TCSoftInc",
-            "repo": "playwright-integration",
-            "stars": 0
-          }
-        },
-        {
-          "children": [],
           "description": "An AI Cloud platform for Playwright test analytics with instant failure debugging, flaky test detection, and ML categorization.",
           "title": "TestDino"
         },
         {
           "children": [],
-          "description": "A Playwright JSON test results reporter that follows the CTRF schema.",
-          "title": "playwright-ctrf-json-reporter",
+          "description": "Runs and sends test executions to the TCMS testomatio, Jira / Linear / Azure DevOps task management.",
+          "title": "testomatio-reporter",
           "repo_info": {
             "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-21T23:00:26Z",
-            "owner": "ctrf-io",
-            "repo": "playwright-ctrf-json-reporter",
-            "stars": 100
+            "language": "JavaScript",
+            "last_commit": "2026-03-21T10:34:06Z",
+            "owner": "testomatio",
+            "repo": "reporter",
+            "stars": 145
           }
-        },
-        {
-          "children": [],
-          "description": "Uploads Playwright test results, screenshots, videos and traces to the Checkly platform for monitoring and debugging across global regions.",
-          "title": "Checkly"
         }
       ],
       "title": "Reporters"
@@ -679,45 +658,6 @@
     {
       "description": "",
       "items": [
-        {
-          "children": [],
-          "description": "Various testing scenarios with Playwright.",
-          "title": "playwright-examples",
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-10-20T18:19:28Z",
-            "owner": "microsoft",
-            "repo": "playwright-examples",
-            "stars": 112
-          }
-        },
-        {
-          "children": [],
-          "description": "Playwright is used to run cross-browser tests on their web builds.",
-          "title": "VS Code",
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-22T01:07:49Z",
-            "owner": "microsoft",
-            "repo": "vscode",
-            "stars": 182936
-          }
-        },
-        {
-          "children": [],
-          "description": "Playwright is used test TypeScript.js across browsers.",
-          "title": "TypeScript",
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-21T20:04:22Z",
-            "owner": "microsoft",
-            "repo": "TypeScript",
-            "stars": 108236
-          }
-        },
         {
           "children": [],
           "description": "Playwright is used to run benchmark tests across browsers.",
@@ -733,15 +673,41 @@
         },
         {
           "children": [],
-          "description": "Playwright is used to run cross-browser UI tests.",
-          "title": "Blockstack",
+          "description": "Various testing scenarios with Playwright.",
+          "title": "playwright-examples",
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-04T22:34:54Z",
-            "owner": "leather-io",
-            "repo": "extension",
-            "stars": 334
+            "last_commit": "2025-10-20T18:19:28Z",
+            "owner": "microsoft",
+            "repo": "playwright-examples",
+            "stars": 112
+          }
+        },
+        {
+          "children": [],
+          "description": "Playwright is used to test TypeScript.js across browsers.",
+          "title": "TypeScript",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-23T00:54:45Z",
+            "owner": "microsoft",
+            "repo": "TypeScript",
+            "stars": 108244
+          }
+        },
+        {
+          "children": [],
+          "description": "Playwright is used to run cross-browser tests on their web builds.",
+          "title": "VS Code",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-23T01:56:54Z",
+            "owner": "microsoft",
+            "repo": "vscode",
+            "stars": 182981
           }
         },
         {
@@ -754,7 +720,7 @@
             "last_commit": "2026-03-21T10:28:05Z",
             "owner": "xtermjs",
             "repo": "xterm.js",
-            "stars": 20156
+            "stars": 20165
           }
         }
       ],
@@ -767,7 +733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-22T04:13:21.113Z",
+    "last_updated": "2026-03-23T04:22:59.889Z",
     "original_repository": "mxschmitt/awesome-playwright",
     "source_repository": "v1nvn/enhansome-playwright",
     "source_repository_description": null,
