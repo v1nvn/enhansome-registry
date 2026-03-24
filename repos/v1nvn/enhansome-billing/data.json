@@ -70,10 +70,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-19T16:45:54Z",
+            "last_commit": "2026-03-23T12:53:03Z",
             "owner": "getlago",
             "repo": "lago",
-            "stars": 9450
+            "stars": 9454
           }
         },
         {
@@ -83,7 +83,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-20T14:54:59Z",
+            "last_commit": "2026-03-23T17:47:00Z",
             "owner": "cgrates",
             "repo": "cgrates",
             "stars": 493
@@ -157,10 +157,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-03-20T21:33:44Z",
+            "last_commit": "2026-03-23T19:52:33Z",
             "owner": "pimcore",
             "repo": "pimcore",
-            "stars": 3737
+            "stars": 3736
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-03-21T00:41:54Z",
             "owner": "sktime",
             "repo": "sktime",
-            "stars": 9653
+            "stars": 9654
           }
         },
         {
@@ -214,10 +214,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-22T14:23:53Z",
+            "last_commit": "2026-03-23T09:25:37Z",
             "owner": "unit8co",
             "repo": "darts",
-            "stars": 9272
+            "stars": 9278
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2026-03-22T11:57:43Z",
             "owner": "mlabouardy",
             "repo": "komiser",
-            "stars": 4113
+            "stars": 4112
           }
         },
         {
@@ -326,7 +326,7 @@
             "last_commit": "2026-03-20T14:12:32Z",
             "owner": "frappe",
             "repo": "books",
-            "stars": 4498
+            "stars": 4500
           }
         },
         {
@@ -391,7 +391,7 @@
             "last_commit": "2026-03-22T22:51:08Z",
             "owner": "akaunting",
             "repo": "akaunting",
-            "stars": 9659
+            "stars": 9664
           }
         }
       ],
@@ -417,10 +417,10 @@
           "repo_info": {
             "archived": false,
             "language": "Zig",
-            "last_commit": "2026-03-23T01:43:45Z",
+            "last_commit": "2026-03-24T02:44:11Z",
             "owner": "tigerbeetle",
             "repo": "tigerbeetle",
-            "stars": 15428
+            "stars": 15441
           }
         },
         {
@@ -472,10 +472,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-03-23T03:54:44Z",
+            "last_commit": "2026-03-23T05:19:40Z",
             "owner": "InvoicePlane",
             "repo": "InvoicePlane",
-            "stars": 3001
+            "stars": 3002
           }
         },
         {
@@ -514,7 +514,7 @@
             "last_commit": "2026-02-26T12:44:38Z",
             "owner": "Sajjon",
             "repo": "klirr",
-            "stars": 120
+            "stars": 121
           }
         }
       ],
@@ -524,63 +524,6 @@
       "description": "As stakeholder of the billing pipeline, you sat on all the critical data to measure and report on the health of the business.",
       "items": [],
       "title": "Business Intelligence"
-    },
-    {
-      "description": "How much value do you produce per customer? The Customer Lifetime Value (CLV, or LTV for Life-Time Value) quantify that. Understanding and acting on it is the most important part of your business's sales efforts.",
-      "items": [
-        {
-          "children": [],
-          "description": "On the surface, churn rate may seem like a natural proxy for changes in customer lifetimes. Let's dig into why that is not true.” Churn rate is not a meaningful metric to compute CLV: during the customer lifetime, the churn probability is not constant. Most of the time because of your free trial and vouchers. This article illustrate the influence of the distribution used to model the probability of a customer quitting.",
-          "title": "You're all calculating churn rates wrong"
-        },
-        {
-          "children": [],
-          "description": "A seminal paper, with a stronger approach compared to the one above: , which is better suited to discrete time intervals like monthly contracts, the former being more appropriate to continuous time process.",
-          "title": "How to project customer retention"
-        },
-        {
-          "children": [],
-          "description": "Illustrates how retention can be better modelled using a survival function like .",
-          "title": "Survival Analysis For Customer Retention"
-        },
-        {
-          "children": [],
-          "description": "A refined model of CLV, used to segment users based on Recency, Frequency and Monetary value.",
-          "title": "RFM (customer value)"
-        },
-        {
-          "children": [],
-          "description": "How to use Python in a simplistic way to fuel your company's growth by applying the predictive approach to all your actions.” Relies on XGBoost binary classification.",
-          "title": "Churn Prediction"
-        },
-        {
-          "children": [],
-          "description": "A full-featured Python package to analyze your users based on their \"alive\" and \"dead\" states.",
-          "title": "PyMC-Marketing",
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-23T03:34:46Z",
-            "owner": "pymc-labs",
-            "repo": "pymc-marketing",
-            "stars": 1096
-          }
-        },
-        {
-          "children": [],
-          "description": "Python package to show the projected retention rates for each cohort and calculate the LTV of a given customer in that cohort.",
-          "title": "",
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2017-03-11T23:25:03Z",
-            "owner": "chrisclark",
-            "repo": "retentionizer",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Customer Lifetime Value"
     },
     {
       "description": "Software to build visualizations, dashboards, SQL queries and drill down into data.",
@@ -600,7 +543,7 @@
             "last_commit": "2026-03-19T20:54:48Z",
             "owner": "getredash",
             "repo": "redash",
-            "stars": 28296
+            "stars": 28300
           }
         },
         {
@@ -610,10 +553,10 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-03-23T04:22:14Z",
+            "last_commit": "2026-03-24T03:55:08Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 46512
+            "stars": 46523
           }
         },
         {
@@ -623,10 +566,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-23T00:01:36Z",
+            "last_commit": "2026-03-23T23:57:58Z",
             "owner": "apache",
             "repo": "superset",
-            "stars": 71061
+            "stars": 71075
           }
         },
         {
@@ -639,7 +582,7 @@
             "last_commit": "2026-03-20T22:00:13Z",
             "owner": "meltano",
             "repo": "meltano",
-            "stars": 2392
+            "stars": 2393
           }
         }
       ],
@@ -657,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-23T04:23:52.667Z",
+    "last_updated": "2026-03-24T04:12:55.054Z",
     "original_repository": "kdeldycke/awesome-billing",
     "source_repository": "v1nvn/enhansome-billing",
     "source_repository_description": null,

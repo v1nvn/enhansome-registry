@@ -10,7 +10,7 @@
           "repo_info": {
             "archived": false,
             "language": "VBA",
-            "last_commit": "2026-03-23T00:48:12Z",
+            "last_commit": "2026-03-23T18:46:05Z",
             "owner": "sancarn",
             "repo": "stdVBA",
             "stars": 391
@@ -174,7 +174,7 @@
             "last_commit": "2023-04-17T02:57:07Z",
             "owner": "VBA-tools",
             "repo": "VBA-Dictionary",
-            "stars": 401
+            "stars": 402
           }
         },
         {
@@ -464,6 +464,19 @@
           "children": [],
           "description": "Won't work natively in VBA without a  compatible substitute, but an extremely performant graph control regardless.",
           "title": ""
+        },
+        {
+          "children": [],
+          "description": "A lightweight wrapper that exposes Microsoft Edge WebView2 on a UserForm, enabling HTML/JS UI, rendering, and two‑way communication with VBA. Effectively replaces the WebBrowser control.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "VBA",
+            "last_commit": "2026-03-23T21:59:59Z",
+            "owner": "tarboh",
+            "repo": "WebView2-For-Excel-VBA",
+            "stars": 9
+          }
         }
       ],
       "title": "Userform tools"
@@ -620,19 +633,6 @@
       "items": [
         {
           "children": [],
-          "description": "A lightweight wrapper that exposes Microsoft Edge WebView2 on a UserForm, enabling HTML/JS UI, rendering, and two‑way communication with VBA. Effectively replaces the WebBrowser control.",
-          "title": "",
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2026-03-22T16:21:28Z",
-            "owner": "tarboh",
-            "repo": "WebView2-For-Excel-VBA",
-            "stars": 6
-          }
-        },
-        {
-          "children": [],
           "description": "Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web.",
           "title": "",
           "repo_info": {
@@ -693,7 +693,7 @@
             "last_commit": "2023-01-18T17:25:35Z",
             "owner": "PerditionC",
             "repo": "VBAChromeDevProtocol",
-            "stars": 72
+            "stars": 73
           }
         },
         {
@@ -874,6 +874,19 @@
             "repo": "stdVBA-examples",
             "stars": 27
           }
+        },
+        {
+          "children": [],
+          "description": "A pure-VBA class that reads, inspects, and exports VBA source code directly from Office binary files",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "VBA",
+            "last_commit": "2026-03-23T09:16:04Z",
+            "owner": "KallunWillock",
+            "repo": "vbaXray",
+            "stars": 8
+          }
         }
       ],
       "title": "Developer tools"
@@ -939,6 +952,19 @@
             "repo": "ExcelCommodroid",
             "stars": 23
           }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "Visual Basic 6.0",
+            "last_commit": "2026-03-16T03:01:36Z",
+            "owner": "M2000Interpreter",
+            "repo": "Environment",
+            "stars": 12
+          }
         }
       ],
       "title": "Games / Fun projects"
@@ -956,7 +982,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3301
+            "stars": 3302
           }
         },
         {
@@ -971,7 +997,7 @@
           "repo_info": {
             "archived": false,
             "language": "VBA",
-            "last_commit": "2026-03-10T13:36:25Z",
+            "last_commit": "2026-03-23T08:46:28Z",
             "owner": "serkonda7",
             "repo": "vscode-vba",
             "stars": 56
@@ -1010,7 +1036,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-23T02:33:41Z",
+            "last_commit": "2026-03-24T02:28:21Z",
             "owner": "Beakerboy",
             "repo": "MS-OVBA",
             "stars": 24
@@ -1078,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-23T04:28:15.476Z",
+    "last_updated": "2026-03-24T04:19:19.209Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
