@@ -204,7 +204,7 @@
             "last_commit": "2025-11-21T21:48:14Z",
             "owner": "facebookresearch",
             "repo": "ImageBind",
-            "stars": 8998
+            "stars": 9003
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2024-05-29T04:48:27Z",
             "owner": "tonybeltramelli",
             "repo": "pix2code",
-            "stars": 12049
+            "stars": 12047
           }
         },
         {
@@ -977,7 +977,7 @@
             "last_commit": "2025-04-07T05:12:45Z",
             "owner": "jacobgil",
             "repo": "pytorch-grad-cam",
-            "stars": 12714
+            "stars": 12715
           }
         },
         {
@@ -1084,6 +1084,11 @@
             "repo": "LLM4ScientificDiscovery",
             "stars": 77
           }
+        },
+        {
+          "children": [],
+          "description": "2026. []. Rare diseases affect more than 300 million people worldwide, yet timely and accurate diagnosis remains an urgent challenge. Patients often endure a prolonged ‘diagnostic odyssey’ exceeding 5 years, marked by repeated referrals, misdiagnoses and unnecessary interventions, leading to delayed treatment and substantial emotional and economic burden. This work presents DeepRare---a multi-agent system for rare disease differential diagnosis decision support powered by large language models, integrating more than 40 specialized tools and up-to-date knowledge sources. DeepRare processes heterogeneous clinical inputs, including free-text descriptions, structured human phenotype ontology terms and genetic testing results to generate ranked diagnostic hypotheses with transparent reasoning linked to verifiable medical evidence. Evaluated across nine datasets from literature, case reports and clinical centres across Asia, North America and Europe spanning 14 medical specialties, DeepRare demonstrates exceptional performance on 2,919 diseases. In human-phenotype-ontology-based tasks, it achieves an average Recall@1 of 57.18%, outperforming the next best method by 23.79%; in multi-modal tests, it reaches 69.1% compared with Exomiser’s 55.9% on 168 cases. Expert review achieved 95.4% agreement on its reasoning chains, confirming their validity and traceability. This work not only advances rare disease diagnosis but also demonstrates how the latest powerful large-language-model-driven agentic systems can reshape current clinical workflows.",
+          "title": "An agentic system for rare disease diagnosis with traceable reasoning"
         },
         {
           "children": [],
@@ -1283,7 +1288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-25T04:25:31.838Z",
+    "last_updated": "2026-03-27T04:37:44.277Z",
     "original_repository": "YuzheSHI/awesome-agi-cocosci",
     "source_repository": "v1nvn/enhansome-agi-cocosci",
     "source_repository_description": null,
