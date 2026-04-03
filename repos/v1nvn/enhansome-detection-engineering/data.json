@@ -18,7 +18,7 @@
             "last_commit": "2025-09-08T18:00:25Z",
             "owner": "palantir",
             "repo": "alerting-detection-strategy-framework",
-            "stars": 855
+            "stars": 856
           }
         },
         {
@@ -127,10 +127,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-01T02:21:09Z",
+            "last_commit": "2026-04-01T11:57:31Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10261
+            "stars": 10274
           }
         },
         {
@@ -150,10 +150,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-31T17:51:34Z",
+            "last_commit": "2026-04-02T20:06:18Z",
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1597
+            "stars": 1599
           }
         },
         {
@@ -163,10 +163,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-01T02:24:44Z",
+            "last_commit": "2026-04-02T18:10:58Z",
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2536
+            "stars": 2537
           }
         },
         {
@@ -176,10 +176,10 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-03-30T10:07:41Z",
+            "last_commit": "2026-04-03T03:15:56Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1392
+            "stars": 1393
           }
         },
         {
@@ -189,10 +189,10 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-03-30T10:07:41Z",
+            "last_commit": "2026-04-03T03:15:56Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1392
+            "stars": 1393
           }
         },
         {
@@ -202,10 +202,10 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-03-30T10:07:41Z",
+            "last_commit": "2026-04-03T03:15:56Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1392
+            "stars": 1393
           }
         },
         {
@@ -218,7 +218,7 @@
             "last_commit": "2025-12-05T17:09:32Z",
             "owner": "chronicle",
             "repo": "detection-rules",
-            "stars": 481
+            "stars": 482
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-03-16T13:38:43Z",
             "owner": "ExabeamLabs",
             "repo": "Content-Library-CIM2",
-            "stars": 28
+            "stars": 29
           }
         },
         {
@@ -241,7 +241,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-31T21:07:04Z",
+            "last_commit": "2026-04-02T20:12:33Z",
             "owner": "panther-labs",
             "repo": "panther-analysis",
             "stars": 442
@@ -324,7 +324,7 @@
             "last_commit": "2026-03-23T19:43:21Z",
             "owner": "Bert-JanP",
             "repo": "Hunting-Queries-Detection-Rules",
-            "stars": 1674
+            "stars": 1676
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2025-11-27T15:05:27Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1790
+            "stars": 1791
           }
         },
         {
@@ -427,10 +427,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-03-31T05:43:28Z",
+            "last_commit": "2026-04-02T05:41:05Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2624
+            "stars": 2629
           }
         },
         {
@@ -443,7 +443,7 @@
             "last_commit": "2024-08-07T06:30:10Z",
             "owner": "YelpArchive",
             "repo": "elastalert",
-            "stars": 7999
+            "stars": 8001
           }
         },
         {
@@ -456,13 +456,26 @@
             "last_commit": "2025-01-08T04:14:13Z",
             "owner": "matanolabs",
             "repo": "matano",
-            "stars": 1664
+            "stars": 1665
           }
         },
         {
           "children": [],
           "description": "To help with multi-table queries, you can use the advanced hunting schema, which includes tables and columns with event information and details about devices, alerts, identities, and other entity types.",
           "title": "Microsoft XDR Advanced Hunting Schema"
+        },
+        {
+          "children": [],
+          "description": "Autonomous security agent for Linux with real-time threat detection and response via 38 eBPF hooks, 48 detectors, and 23 correlation rules.",
+          "title": "InnerWarden",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-02T23:42:07Z",
+            "owner": "InnerWarden",
+            "repo": "innerwarden",
+            "stars": 87
+          }
         }
       ],
       "title": "Logging, Monitoring & Data Sources"
@@ -500,7 +513,7 @@
             "last_commit": "2023-09-02T23:27:00Z",
             "owner": "jatrost",
             "repo": "awesome-kubernetes-threat-detection",
-            "stars": 406
+            "stars": 407
           }
         },
         {
@@ -559,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-01T04:44:38.181Z",
+    "last_updated": "2026-04-03T04:26:57.912Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "source_repository": "v1nvn/enhansome-detection-engineering",
     "source_repository_description": null,
