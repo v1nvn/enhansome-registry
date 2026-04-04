@@ -237,12 +237,38 @@
         },
         {
           "children": [],
+          "description": "A Homebridge plugin for integrating Blink cameras, doorbells, and sirens with Apple HomeKit, featuring live streaming, arm/disarm, and motion detection.",
+          "title": "homebridge-blink-security",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-03T08:13:34Z",
+            "owner": "BitWise-0x",
+            "repo": "homebridge-blink-security",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "A Homebridge plugin for integrating SmartRent locks, thermostats, leak sensors, and switches with Apple HomeKit via real-time WebSocket connection.",
+          "title": "homebridge-smartrent",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-02T07:23:00Z",
+            "owner": "BitWise-0x",
+            "repo": "homebridge-smartrent",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
           "description": "AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and computing, where connected Things interact and provide services, as if they act like thin distributed servers.",
           "title": "AREG SDK",
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-04-02T23:45:28Z",
+            "last_commit": "2026-04-04T01:56:54Z",
             "owner": "aregtech",
             "repo": "areg-sdk",
             "stars": 343
@@ -255,7 +281,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-04-02T16:33:43Z",
+            "last_commit": "2026-04-03T15:30:18Z",
             "owner": "astarte-platform",
             "repo": "astarte",
             "stars": 271
@@ -273,7 +299,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-04-02T15:47:08Z",
+            "last_commit": "2026-04-03T12:25:41Z",
             "owner": "Countly",
             "repo": "countly-server",
             "stars": 5843
@@ -336,10 +362,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-02T21:39:01Z",
+            "last_commit": "2026-04-04T03:53:15Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 85952
+            "stars": 85975
           }
         },
         {
@@ -357,7 +383,7 @@
             "last_commit": "2026-04-02T11:21:57Z",
             "owner": "thingsboard",
             "repo": "thingsboard-gateway",
-            "stars": 2105
+            "stars": 2107
           }
         },
         {
@@ -398,7 +424,7 @@
             "last_commit": "2024-12-26T02:51:04Z",
             "owner": "hstreamdb",
             "repo": "hstream",
-            "stars": 725
+            "stars": 724
           }
         },
         {
@@ -442,10 +468,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-04-03T01:43:55Z",
+            "last_commit": "2026-04-04T02:31:41Z",
             "owner": "huginn",
             "repo": "huginn",
-            "stars": 49027
+            "stars": 49040
           }
         },
         {
@@ -541,10 +567,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-04-02T09:37:09Z",
+            "last_commit": "2026-04-03T10:29:48Z",
             "owner": "nanomq",
             "repo": "nanomq",
-            "stars": 2464
+            "stars": 2462
           }
         },
         {
@@ -580,10 +606,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-03-21T06:53:14Z",
+            "last_commit": "2026-04-03T10:11:08Z",
             "owner": "IoTSharp",
             "repo": "IoTSharp",
-            "stars": 1270
+            "stars": 1271
           }
         },
         {
@@ -598,7 +624,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-02T16:47:34Z",
+            "last_commit": "2026-04-04T00:18:02Z",
             "owner": "aklivity",
             "repo": "zilla",
             "stars": 680
@@ -693,10 +719,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-04-02T14:34:44Z",
+            "last_commit": "2026-04-03T09:08:20Z",
             "owner": "united-manufacturing-hub",
             "repo": "united-manufacturing-hub",
-            "stars": 358
+            "stars": 357
           }
         },
         {
@@ -706,10 +732,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-03T04:11:32Z",
+            "last_commit": "2026-04-03T22:22:24Z",
             "owner": "questdb",
             "repo": "questdb",
-            "stars": 16817
+            "stars": 16823
           }
         },
         {
@@ -1028,7 +1054,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-03T04:28:16.800Z",
+    "last_updated": "2026-04-04T04:14:34.737Z",
     "original_repository": "HQarroum/awesome-iot",
     "source_repository": "v1nvn/enhansome-iot",
     "source_repository_description": null,
