@@ -15,7 +15,7 @@
                 "last_commit": "2026-03-29T17:16:19Z",
                 "owner": "rqlite",
                 "repo": "rqlite",
-                "stars": 17401
+                "stars": 17403
               }
             },
             {
@@ -27,10 +27,10 @@
                   "repo_info": {
                     "archived": false,
                     "language": "Go",
-                    "last_commit": "2026-04-04T10:57:57Z",
+                    "last_commit": "2026-04-05T09:19:38Z",
                     "owner": "pingcap",
                     "repo": "tidb",
-                    "stars": 39905
+                    "stars": 39906
                   }
                 },
                 {
@@ -57,10 +57,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-04-04T10:57:57Z",
+                "last_commit": "2026-04-05T09:19:38Z",
                 "owner": "pingcap",
                 "repo": "tidb",
-                "stars": 39905
+                "stars": 39906
               }
             },
             {
@@ -72,6 +72,11 @@
               "children": [],
               "description": "The world's most advanced open source database.",
               "title": "PostgreSQL"
+            },
+            {
+              "children": [],
+              "description": "Managed PostgreSQL with pgvector for AI workloads. HNSW indexing, sub-4ms latency, and built-in SQL editor with automatic embedding generation.",
+              "title": "Rivestack"
             },
             {
               "children": [],
@@ -92,7 +97,7 @@
             "last_commit": "2026-03-29T17:16:19Z",
             "owner": "rqlite",
             "repo": "rqlite",
-            "stars": 17401
+            "stars": 17403
           }
         },
         {
@@ -197,10 +202,10 @@
                   "repo_info": {
                     "archived": false,
                     "language": "C++",
-                    "last_commit": "2026-04-04T21:54:07Z",
+                    "last_commit": "2026-04-06T03:29:23Z",
                     "owner": "scylladb",
                     "repo": "scylladb",
-                    "stars": 15449
+                    "stars": 15450
                   }
                 }
               ],
@@ -330,6 +335,11 @@
           "children": [
             {
               "children": [],
+              "description": "Open-source multi-model database with native graph, document, key-value, and vector support. SQL, Cypher, and Gremlin query languages. Apache 2.0 license.",
+              "title": "ArcadeDB"
+            },
+            {
+              "children": [],
               "description": "The world's leading graph database.",
               "title": "Neo4j"
             },
@@ -368,7 +378,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Kotlin",
-                "last_commit": "2026-04-04T07:15:19Z",
+                "last_commit": "2026-04-06T04:44:13Z",
                 "owner": "kakao",
                 "repo": "actionbase",
                 "stars": 213
@@ -435,7 +445,7 @@
                 "last_commit": "2026-04-02T12:16:51Z",
                 "owner": "influxdata",
                 "repo": "influxdb",
-                "stars": 31370
+                "stars": 31371
               }
             },
             {
@@ -492,7 +502,7 @@
                 "last_commit": "2026-04-03T05:10:34Z",
                 "owner": "apache",
                 "repo": "druid",
-                "stars": 13969
+                "stars": 13970
               }
             },
             {
@@ -566,7 +576,7 @@
             "last_commit": "2026-04-02T12:16:51Z",
             "owner": "influxdata",
             "repo": "influxdb",
-            "stars": 31370
+            "stars": 31371
           }
         },
         {
@@ -581,7 +591,7 @@
                 "last_commit": "2026-04-03T14:59:51Z",
                 "owner": "tarantool",
                 "repo": "tarantool",
-                "stars": 3626
+                "stars": 3625
               }
             },
             {
@@ -634,7 +644,7 @@
             "last_commit": "2026-04-03T14:59:51Z",
             "owner": "tarantool",
             "repo": "tarantool",
-            "stars": 3626
+            "stars": 3625
           }
         }
       ],
@@ -775,10 +785,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C",
-                "last_commit": "2026-04-02T20:54:35Z",
+                "last_commit": "2026-04-06T04:24:35Z",
                 "owner": "confluentinc",
                 "repo": "librdkafka",
-                "stars": 946
+                "stars": 947
               }
             },
             {
@@ -804,7 +814,7 @@
                 "last_commit": "2023-08-02T19:26:23Z",
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11940
+                "stars": 11939
               }
             },
             {
@@ -853,10 +863,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-04-04T05:27:18Z",
+                "last_commit": "2026-04-05T20:41:50Z",
                 "owner": "kroxylicious",
                 "repo": "kroxylicious",
-                "stars": 268
+                "stars": 269
               }
             }
           ],
@@ -949,10 +959,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-04T08:03:05Z",
+            "last_commit": "2026-04-05T21:18:28Z",
             "owner": "aws",
             "repo": "aws-sdk-pandas",
-            "stars": 4108
+            "stars": 4109
           }
         },
         {
@@ -991,7 +1001,7 @@
             "last_commit": "2026-03-02T16:53:46Z",
             "owner": "fulldecent",
             "repo": "google-sheets-etl",
-            "stars": 22
+            "stars": 23
           }
         },
         {
@@ -1024,10 +1034,43 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-04T21:02:01Z",
+            "last_commit": "2026-04-05T19:05:02Z",
             "owner": "kreuzberg-dev",
             "repo": "kreuzberg",
-            "stars": 7286
+            "stars": 7378
+          }
+        },
+        {
+          "children": [],
+          "description": "Managed cloud object storage transfers for ingestion workflows.",
+          "title": "DataRaven"
+        },
+        {
+          "children": [],
+          "description": "Real-time X (Twitter) data extraction platform with REST API (76 endpoints), 20 bulk extraction tools, account monitoring, HMAC-signed webhooks, and MCP server for AI agent integration.",
+          "title": "Xquik"
+        },
+        {
+          "children": [],
+          "description": "High-speed CLI tools for database export, import, replication and migration with parallel streaming to CSV, Parquet, JSON and cloud storage, supporting PostgreSQL, MySQL, Oracle, SQL Server and 80+ sources.",
+          "title": "Arpe.io"
+        },
+        {
+          "children": [],
+          "description": "A real-time B2B data API for company and people intelligence, providing firmographics, headcount signals, job listings, web traffic, and funding events via REST API and webhooks for data enrichment pipelines.",
+          "title": "Crustdata"
+        },
+        {
+          "children": [],
+          "description": "Conflict-free merge for DataFrames, JSON, ML models & distributed agents — powered by CRDTs.",
+          "title": "crdt-merge",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-06T03:57:54Z",
+            "owner": "mgillr",
+            "repo": "crdt-merge",
+            "stars": 1
           }
         }
       ],
@@ -1110,7 +1153,7 @@
             "last_commit": "2026-04-04T12:06:56Z",
             "owner": "juicedata",
             "repo": "juicefs",
-            "stars": 13393
+            "stars": 13397
           }
         },
         {
@@ -1164,7 +1207,7 @@
             "last_commit": "2026-03-30T23:08:14Z",
             "owner": "s3ql",
             "repo": "s3ql",
-            "stars": 1233
+            "stars": 1234
           }
         },
         {
@@ -1195,7 +1238,7 @@
                 "last_commit": "2026-03-06T22:30:42Z",
                 "owner": "google",
                 "repo": "snappy",
-                "stars": 6551
+                "stars": 6552
               }
             },
             {
@@ -1212,7 +1255,7 @@
             "last_commit": "2026-03-06T22:30:42Z",
             "owner": "google",
             "repo": "snappy",
-            "stars": 6551
+            "stars": 6552
           }
         },
         {
@@ -1232,10 +1275,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-04-05T03:39:54Z",
+            "last_commit": "2026-04-06T04:47:09Z",
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71035
+            "stars": 71036
           }
         },
         {
@@ -1304,10 +1347,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-05T02:05:27Z",
+            "last_commit": "2026-04-06T04:24:34Z",
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 6728
+            "stars": 6746
           }
         },
         {
@@ -1387,7 +1430,7 @@
             "last_commit": "2026-04-04T00:18:02Z",
             "owner": "aklivity",
             "repo": "zilla",
-            "stars": 680
+            "stars": 681
           }
         },
         {
@@ -1402,10 +1445,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-04T05:19:21Z",
+            "last_commit": "2026-04-05T05:24:18Z",
             "owner": "pathwaycom",
             "repo": "pathway",
-            "stars": 63362
+            "stars": 63412
           }
         }
       ],
@@ -1513,6 +1556,19 @@
             "owner": "brexhq",
             "repo": "substation",
             "stars": 394
+          }
+        },
+        {
+          "children": [],
+          "description": "Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories (health risks, ancestry, pharmacogenomics, nutrition, psychology, etc.) and generating a terminal-style single-page HTML visualization.",
+          "title": "dna-claude-analysis",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-04T23:57:04Z",
+            "owner": "shmlkv",
+            "repo": "dna-claude-analysis",
+            "stars": 28
           }
         },
         {
@@ -1681,7 +1737,7 @@
             "last_commit": "2026-04-02T20:57:51Z",
             "owner": "plotly",
             "repo": "dash",
-            "stars": 24436
+            "stars": 24435
           }
         },
         {
@@ -1694,7 +1750,7 @@
             "last_commit": "2026-04-05T01:45:11Z",
             "owner": "apache",
             "repo": "superset",
-            "stars": 72211
+            "stars": 72231
           }
         },
         {
@@ -1709,10 +1765,10 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-04-04T20:08:04Z",
+            "last_commit": "2026-04-06T02:24:53Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 46742
+            "stars": 46751
           }
         },
         {
@@ -1746,6 +1802,11 @@
       "items": [
         {
           "children": [],
+          "description": "Agent-native semantic layer with governed metrics, React SDK, and multi-warehouse support. Connects AI agents and dashboards to a single source of truth.",
+          "title": "Bonnard"
+        },
+        {
+          "children": [],
           "description": "End-to-end data pipeline tool that combines ingestion, transformation (SQL + Python), and data quality in a single CLI. Connects to BigQuery, Snowflake, PostgreSQL, Redshift, and more. Includes VS Code extension with live previews.",
           "title": "Bruin",
           "repo_info": {
@@ -1754,7 +1815,7 @@
             "last_commit": "2026-04-03T14:40:56Z",
             "owner": "bruin-data",
             "repo": "bruin",
-            "stars": 1499
+            "stars": 1500
           }
         },
         {
@@ -1787,10 +1848,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-04T21:27:42Z",
+            "last_commit": "2026-04-06T01:18:14Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 44884
+            "stars": 44897
           }
         },
         {
@@ -1826,7 +1887,7 @@
             "last_commit": "2026-04-03T21:53:40Z",
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 15198
+            "stars": 15205
           }
         },
         {
@@ -1839,7 +1900,7 @@
             "last_commit": "2026-04-04T05:36:18Z",
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2443
+            "stars": 2444
           }
         },
         {
@@ -1872,7 +1933,7 @@
             "last_commit": "2026-04-04T20:44:06Z",
             "owner": "kestra-io",
             "repo": "kestra",
-            "stars": 26654
+            "stars": 26662
           }
         },
         {
@@ -1882,7 +1943,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-04-03T12:04:51Z",
+            "last_commit": "2026-04-05T18:10:09Z",
             "owner": "rudderlabs",
             "repo": "rudder-server",
             "stars": 4384
@@ -1947,7 +2008,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-04-04T16:27:07Z",
+            "last_commit": "2026-04-05T15:20:31Z",
             "owner": "treeverse",
             "repo": "lakeFS",
             "stars": 5227
@@ -1960,7 +2021,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-03T16:26:31Z",
+            "last_commit": "2026-04-06T04:47:23Z",
             "owner": "projectnessie",
             "repo": "nessie",
             "stars": 1444
@@ -1978,10 +2039,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-03T13:41:29Z",
+            "last_commit": "2026-04-05T16:52:20Z",
             "owner": "apache",
             "repo": "gravitino",
-            "stars": 2934
+            "stars": 2938
           }
         },
         {
@@ -2063,7 +2124,7 @@
             "last_commit": "2017-05-18T07:14:11Z",
             "owner": "ClusterHQ",
             "repo": "flocker",
-            "stars": 3387
+            "stars": 3386
           }
         },
         {
@@ -2112,7 +2173,7 @@
             "last_commit": "2026-03-19T02:06:17Z",
             "owner": "google",
             "repo": "cadvisor",
-            "stars": 19037
+            "stars": 19038
           }
         },
         {
@@ -2151,7 +2212,7 @@
             "last_commit": "2026-04-03T20:14:43Z",
             "owner": "hashicorp",
             "repo": "nomad",
-            "stars": 16390
+            "stars": 16393
           }
         },
         {
@@ -2185,7 +2246,7 @@
             "last_commit": "2026-04-03T12:11:07Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 63388
+            "stars": 63393
           }
         },
         {
@@ -2222,7 +2283,7 @@
             "last_commit": "2025-09-26T14:47:41Z",
             "owner": "capitalone",
             "repo": "DataProfiler",
-            "stars": 1551
+            "stars": 1550
           }
         },
         {
@@ -2240,7 +2301,7 @@
             "last_commit": "2026-04-04T21:21:06Z",
             "owner": "Desbordante",
             "repo": "desbordante-core",
-            "stars": 470
+            "stars": 469
           }
         }
       ],
@@ -2287,6 +2348,19 @@
         },
         {
           "children": [],
+          "description": "A vendor-neutral, declarative data quality engine. Define checks in YAML, run anywhere. Includes 16 built-in check types, SQL batch optimizer, anomaly detection, and data contracts.",
+          "title": "Provero",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-04T02:13:44Z",
+            "owner": "provero-org",
+            "repo": "provero",
+            "stars": 9
+          }
+        },
+        {
+          "children": [],
           "description": "Free online SQL playground for MySQL, PostgreSQL, and SQL Server. Create database structures, run queries, and share results instantly.",
           "title": "RunSQL"
         },
@@ -2302,7 +2376,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-04T08:56:06Z",
+            "last_commit": "2026-04-05T21:21:27Z",
             "owner": "vertti",
             "repo": "daffy",
             "stars": 57
@@ -2318,8 +2392,18 @@
             "last_commit": "2026-01-19T23:01:16Z",
             "owner": "nnnkkk7",
             "repo": "snowflake-emulator",
-            "stars": 30
+            "stars": 31
           }
+        },
+        {
+          "children": [],
+          "description": "Real-time data quality firewall for pipelines and APIs. Screens rows in milliseconds for schema drift, null spikes, type mismatches, and data anomalies with PASS / WARN / BLOCK decisions.",
+          "title": "DataScreenIQ"
+        },
+        {
+          "children": [],
+          "description": "Interview practice with SQL query execution, Python, and data modeling exercises.",
+          "title": "DataDriven"
         }
       ],
       "title": "Testing"
@@ -2331,7 +2415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-05T04:42:30.306Z",
+    "last_updated": "2026-04-06T04:50:00.859Z",
     "original_repository": "igorbarinov/awesome-data-engineering",
     "source_repository": "v1nvn/enhansome-data-engineering",
     "source_repository_description": null,
