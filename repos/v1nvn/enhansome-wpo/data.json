@@ -40,6 +40,11 @@
         },
         {
           "children": [],
+          "description": "Advanced page speed analysis and optimization tool for experienced users and technical SEO professionals.",
+          "title": "PageGym"
+        },
+        {
+          "children": [],
           "description": "Uses PhantomJS to headlessly analyze web pages and generate manifests.",
           "title": "Confess",
           "repo_info": {
@@ -68,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-04-05T12:05:53Z",
+            "last_commit": "2026-04-06T21:23:50Z",
             "owner": "GoogleChrome",
             "repo": "lighthouse",
-            "stars": 30005
+            "stars": 30007
           }
         },
         {
@@ -194,6 +199,19 @@
           "children": [],
           "description": "Webpage load time is extremely important for conversion and revenue. Visualize web performance against competitors.",
           "title": "Lightest App"
+        },
+        {
+          "children": [],
+          "description": "Analyze HTTP redirect chains, detect loops, and measure performance impact on page load times.",
+          "title": "Redirect Checker",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-17T23:58:00Z",
+            "owner": "brancogao",
+            "repo": "redirect-checker",
+            "stars": 0
+          }
         }
       ],
       "title": "Analyzers"
@@ -315,7 +333,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-06T02:12:14Z",
+            "last_commit": "2026-04-07T02:06:41Z",
             "owner": "relative-ci",
             "repo": "bundle-stats",
             "stars": 669
@@ -329,8 +347,8 @@
       "items": [
         {
           "children": [],
-          "description": "jsPerf aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks.",
-          "title": "JSPerf"
+          "description": "A modern browser-based JavaScript benchmarking tool for quickly creating and sharing performance tests.",
+          "title": "JSBench"
         },
         {
           "children": [],
@@ -413,6 +431,19 @@
             "owner": "paulirish",
             "repo": "memory-stats.js",
             "stars": 2097
+          }
+        },
+        {
+          "children": [],
+          "description": "jsPerf aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks.",
+          "title": "JSPerf",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-23T05:41:07Z",
+            "owner": "jsperf",
+            "repo": "jsperf.com",
+            "stars": 1305
           }
         }
       ],
@@ -518,7 +549,7 @@
             "last_commit": "2026-03-31T13:48:05Z",
             "owner": "GoogleChrome",
             "repo": "web-vitals",
-            "stars": 8455
+            "stars": 8456
           }
         },
         {
@@ -528,10 +559,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-04-05T12:05:53Z",
+            "last_commit": "2026-04-06T21:23:50Z",
             "owner": "GoogleChrome",
             "repo": "lighthouse",
-            "stars": 30005
+            "stars": 30007
           }
         },
         {
@@ -773,7 +804,7 @@
             "last_commit": "2026-04-04T21:47:58Z",
             "owner": "lovell",
             "repo": "sharp",
-            "stars": 32099
+            "stars": 32105
           }
         },
         {
@@ -799,7 +830,7 @@
             "last_commit": "2025-10-12T18:06:13Z",
             "owner": "h4cc",
             "repo": "awesome-elixir",
-            "stars": 13110
+            "stars": 13113
           }
         },
         {
@@ -892,7 +923,7 @@
             "last_commit": "2024-09-13T07:35:45Z",
             "owner": "JamieMason",
             "repo": "ImageOptim-CLI",
-            "stars": 3523
+            "stars": 3522
           }
         },
         {
@@ -951,7 +982,7 @@
             "last_commit": "2026-03-01T01:15:03Z",
             "owner": "tjko",
             "repo": "jpegoptim",
-            "stars": 1778
+            "stars": 1779
           }
         },
         {
@@ -1271,7 +1302,7 @@
             "last_commit": "2026-03-26T11:35:43Z",
             "owner": "kangax",
             "repo": "html-minifier",
-            "stars": 5106
+            "stars": 5105
           }
         },
         {
@@ -1412,7 +1443,7 @@
             "last_commit": "2024-11-22T08:11:38Z",
             "owner": "mishoo",
             "repo": "UglifyJS",
-            "stars": 13407
+            "stars": 13408
           }
         },
         {
@@ -1500,7 +1531,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-01-05T17:31:59Z",
+            "last_commit": "2026-04-06T17:39:17Z",
             "owner": "jazzband",
             "repo": "django-pipeline",
             "stars": 1543
@@ -1662,7 +1693,7 @@
             "last_commit": "2026-01-24T09:10:10Z",
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10175
+            "stars": 10177
           }
         },
         {
@@ -1688,7 +1719,7 @@
             "last_commit": "2024-04-03T08:17:04Z",
             "owner": "aFarkas",
             "repo": "lazysizes",
-            "stars": 17737
+            "stars": 17738
           }
         },
         {
@@ -1720,7 +1751,7 @@
             "last_commit": "2026-03-25T07:33:02Z",
             "owner": "svg",
             "repo": "svgo",
-            "stars": 22423
+            "stars": 22426
           }
         },
         {
@@ -1913,7 +1944,7 @@
             "last_commit": "2023-12-30T10:33:51Z",
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40175
+            "stars": 40178
           }
         },
         {
@@ -1939,7 +1970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-06T04:44:36.772Z",
+    "last_updated": "2026-04-07T04:33:52.826Z",
     "original_repository": "davidsonfellipe/awesome-wpo",
     "source_repository": "v1nvn/enhansome-wpo",
     "source_repository_description": null,
