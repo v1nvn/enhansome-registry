@@ -1,12 +1,12 @@
 {
   "items": [
     {
-      "description": "Kustomize works as a standalone binary; also, it's built into (since v1.14). It can be used with off-the-shelf applications like Helm charts. Also, it has a deep integration with different GitOps tools like ArgoCD, Flux, and many others.",
+      "description": "Kustomize works as a standalone binary and is also built into (since v1.14). It can be used with off-the-shelf applications, such as Helm charts. Also, it has deep integration with various GitOps tools, such as ArgoCD, Flux, and others.",
       "items": [],
       "title": "Overview"
     },
     {
-      "description": "Kustomize has 3 types of plugins , , and .",
+      "description": "Kustomize has 3 plugin types: , , and .",
       "items": [],
       "title": "Plugins"
     },
@@ -15,12 +15,12 @@
       "items": [
         {
           "children": [],
-          "description": "Generating Kubernetes Secret from various sources. It's like a swiss army knife, but for Kubernetes secrets (Exec).",
+          "description": "Generating Kubernetes Secret from various sources. It's like a Swiss Army knife, but for Kubernetes secrets (Containerized KRM, Exec KRM, Exec).",
           "title": "Secretize",
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2025-07-15T13:14:57Z",
+            "last_commit": "2026-04-07T17:05:26Z",
             "owner": "bbl",
             "repo": "secretize",
             "stars": 71
@@ -28,7 +28,7 @@
         },
         {
           "children": [],
-          "description": "Generating Secrets from sops-encrypted files (Exec, Exec KRM).",
+          "description": "Generating Secrets from sops-encrypted files (Exec KRM, Exec).",
           "title": "SopsSecretGenerator",
           "repo_info": {
             "archived": false,
@@ -46,10 +46,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-04-03T04:01:45Z",
+            "last_commit": "2026-04-08T04:19:40Z",
             "owner": "viaduct-ai",
             "repo": "kustomize-sops",
-            "stars": 818
+            "stars": 819
           }
         },
         {
@@ -85,7 +85,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-04-06T21:13:20Z",
+            "last_commit": "2026-04-08T01:43:15Z",
             "owner": "DevOpsHiveHQ",
             "repo": "kustomize-plugin-merger",
             "stars": 39
@@ -99,7 +99,7 @@
       "items": [
         {
           "children": [],
-          "description": "Transforming values in HelmRelease CustomResource. It helps to manage a lot of HelmRelease's value in single transformer file (Exec).",
+          "description": "Transforming values in HelmRelease CustomResource. It helps manage many HelmRelease values in a single transformer file (Exec).",
           "title": "HelmValuesTransformer",
           "repo_info": {
             "archived": false,
@@ -112,7 +112,7 @@
         },
         {
           "children": [],
-          "description": "Providing a set of KRM Functions to run builtin transformers in place (Containerized KRM, Exec KRM).",
+          "description": "Providing a set of KRM Functions to run built-in transformers in place (Containerized KRM, Exec KRM).",
           "title": "TemplateTransformer",
           "repo_info": {
             "archived": false,
@@ -127,7 +127,7 @@
       "title": "Transformers"
     },
     {
-      "description": "Kustomize guides based on their level or type like 📰 Article, 📺 Video, 🧪 Lab.",
+      "description": "Kustomize guides based on their level or type, like 📰 Article, 📺 Video, 🧪 Lab.",
       "items": [],
       "title": "Guides"
     },
@@ -144,7 +144,7 @@
             "last_commit": "2026-02-27T16:12:23Z",
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 15853
+            "stars": 15856
           }
         },
         {
@@ -178,7 +178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-07T04:37:31.124Z",
+    "last_updated": "2026-04-08T04:41:30.536Z",
     "original_repository": "DevOpsHiveHQ/awesome-kustomize",
     "source_repository": "v1nvn/enhansome-kustomize",
     "source_repository_description": null,

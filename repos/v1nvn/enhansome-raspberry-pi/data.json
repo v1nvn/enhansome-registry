@@ -74,7 +74,7 @@
             "last_commit": "2022-01-07T15:36:13Z",
             "owner": "DroneBridge",
             "repo": "DroneBridge",
-            "stars": 911
+            "stars": 912
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2024-01-31T14:53:54Z",
             "owner": "rodizio1",
             "repo": "EZ-WifiBroadcast",
-            "stars": 894
+            "stars": 895
           }
         },
         {
@@ -114,6 +114,19 @@
           "children": [],
           "description": "Gladys, a privacy-first, open-source home assistant.",
           "title": "Gladys Assistant"
+        },
+        {
+          "children": [],
+          "description": "Buildroot-based Linux distribution for paranormal research with EMF sensors, environmental monitoring, web dashboard and automated data logging.",
+          "title": "GlowBarn OS",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-11T04:23:16Z",
+            "owner": "bad-antics",
+            "repo": "glowbarn-os",
+            "stars": 1
+          }
         },
         {
           "children": [],
@@ -188,7 +201,7 @@
             "last_commit": "2025-02-14T15:47:26Z",
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8189
+            "stars": 8190
           }
         },
         {
@@ -536,7 +549,7 @@
             "last_commit": "2026-03-30T08:11:45Z",
             "owner": "jmcerrejon",
             "repo": "PiKISS",
-            "stars": 993
+            "stars": 994
           }
         },
         {
@@ -562,7 +575,7 @@
             "last_commit": "2026-03-16T09:22:13Z",
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 3975
+            "stars": 3977
           }
         },
         {
@@ -603,10 +616,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-04-07T00:52:47Z",
+            "last_commit": "2026-04-08T01:09:09Z",
             "owner": "Botspot",
             "repo": "pi-apps",
-            "stars": 2700
+            "stars": 2701
           }
         },
         {
@@ -624,7 +637,7 @@
             "last_commit": "2025-08-23T12:24:16Z",
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9018
+            "stars": 9019
           }
         },
         {
@@ -674,6 +687,19 @@
             "owner": "nekromoff",
             "repo": "rpi-monitor-dashboard",
             "stars": 39
+          }
+        },
+        {
+          "children": [],
+          "description": "The easiest way to track and control your Raspberry Pi or Ubuntu computer system health and performance in Home Assistant.",
+          "title": "Rpi MQTT Monitor",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-26T19:52:01Z",
+            "owner": "hjelev",
+            "repo": "rpi-mqtt-monitor",
+            "stars": 291
           }
         },
         {
@@ -764,10 +790,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-04-06T13:21:08Z",
+            "last_commit": "2026-04-08T03:38:04Z",
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 33416
+            "stars": 33433
           }
         },
         {
@@ -831,6 +857,19 @@
         },
         {
           "children": [],
+          "description": "A home-based irrigation system for efficient plant care using IoT.",
+          "title": "Cama-Camel Pack",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-02T13:18:32Z",
+            "owner": "Barqawiz",
+            "repo": "iot_watering_system",
+            "stars": 30
+          }
+        },
+        {
+          "children": [],
           "description": "Timed charging station for students using Chromebooks at school.",
           "title": "Chromebook Charger Kiosk"
         },
@@ -854,7 +893,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-04-06T12:51:25Z",
+            "last_commit": "2026-04-07T18:24:25Z",
             "owner": "rsta2",
             "repo": "circle",
             "stars": 2227
@@ -880,7 +919,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-06T20:03:35Z",
+            "last_commit": "2026-04-07T21:33:51Z",
             "owner": "cooklang",
             "repo": "cookcli",
             "stars": 1225
@@ -940,7 +979,7 @@
             "last_commit": "2026-03-15T09:21:40Z",
             "owner": "SimonWaldherr",
             "repo": "DIY-Arcade-Machine",
-            "stars": 18
+            "stars": 20
           }
         },
         {
@@ -1020,7 +1059,20 @@
             "last_commit": "2026-04-03T01:11:28Z",
             "owner": "havenweb",
             "repo": "haven",
-            "stars": 765
+            "stars": 766
+          }
+        },
+        {
+          "children": [],
+          "description": "AI-native intrusion detection system with eBPF/XDP packet filtering and ML threat classification. Processes 8.8M+ security events on a Pi 5.",
+          "title": "HookProbe",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-06T20:41:08Z",
+            "owner": "hookprobe",
+            "repo": "hookprobe",
+            "stars": 23
           }
         },
         {
@@ -1034,6 +1086,19 @@
             "owner": "m-r-s",
             "repo": "hearingaid-prototype",
             "stars": 128
+          }
+        },
+        {
+          "children": [],
+          "description": "Docker-based nginx reverse proxy that wakes sleeping servers via Wake-on-LAN, ideal for energy-saving Raspberry Pi homelabs.",
+          "title": "idle-less",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-12T22:10:46Z",
+            "owner": "tvup",
+            "repo": "idle-less",
+            "stars": 16
           }
         },
         {
@@ -1069,7 +1134,7 @@
             "last_commit": "2017-06-07T06:36:57Z",
             "owner": "luxas",
             "repo": "kubernetes-on-arm",
-            "stars": 601
+            "stars": 602
           }
         },
         {
@@ -1082,7 +1147,7 @@
             "last_commit": "2024-11-18T03:06:30Z",
             "owner": "lomorage",
             "repo": "homepage",
-            "stars": 237
+            "stars": 236
           }
         },
         {
@@ -1234,7 +1299,7 @@
             "last_commit": "2026-04-06T21:09:39Z",
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 9888
+            "stars": 9894
           }
         },
         {
@@ -1301,7 +1366,7 @@
             "last_commit": "2026-02-01T10:52:49Z",
             "owner": "ChristopheJacquet",
             "repo": "PiFmRds",
-            "stars": 1563
+            "stars": 1564
           }
         },
         {
@@ -1324,7 +1389,7 @@
             "last_commit": "2018-11-26T16:50:44Z",
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6450
+            "stars": 6451
           }
         },
         {
@@ -1371,6 +1436,19 @@
             "owner": "atao",
             "repo": "raspberrypi-setup",
             "stars": 48
+          }
+        },
+        {
+          "children": [],
+          "description": "Remotely control your Raspberry Pi using Telegram, with support for GPIO, system commands, custom modules, and real-time interaction.",
+          "title": "Raspberry Pi Telegram Bot",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-15T15:27:35Z",
+            "owner": "GraveEaterMadison",
+            "repo": "Raspberry_pi_telegram_bot",
+            "stars": 29
           }
         },
         {
@@ -1509,7 +1587,7 @@
             "last_commit": "2026-02-04T19:09:11Z",
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 11763
+            "stars": 11764
           }
         },
         {
@@ -1699,7 +1777,7 @@
             "last_commit": "2026-03-28T19:43:17Z",
             "owner": "moonlight-stream",
             "repo": "moonlight-embedded",
-            "stars": 1624
+            "stars": 1626
           }
         },
         {
@@ -1830,7 +1908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-07T04:27:39.832Z",
+    "last_updated": "2026-04-08T04:30:47.655Z",
     "original_repository": "thibmaek/awesome-raspberry-pi",
     "source_repository": "v1nvn/enhansome-raspberry-pi",
     "source_repository_description": null,
