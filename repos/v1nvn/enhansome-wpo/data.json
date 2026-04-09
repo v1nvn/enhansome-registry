@@ -32,6 +32,11 @@
     },
     {
       "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
       "items": [
         {
           "children": [],
@@ -58,7 +63,7 @@
         },
         {
           "children": [],
-          "description": "DebugBear is a site monitoring tool based on Lighthouse. See how your scores and metrics changed over time, with a focus on understanding what caused each change. DebugBear is a paid product with a free 30-day trial.",
+          "description": "Site monitoring based on Lighthouse. See how your scores and metrics changed over time, with a focus on understanding what caused each change. Paid product with a free 30-day trial.",
           "title": "DebugBear"
         },
         {
@@ -68,25 +73,12 @@
         },
         {
           "children": [],
-          "description": "Auditing and performance metrics tool for Progressive Web Applications.",
-          "title": "Lighthouse",
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-07T19:05:53Z",
-            "owner": "GoogleChrome",
-            "repo": "lighthouse",
-            "stars": 30015
-          }
-        },
-        {
-          "children": [],
-          "description": "AI-Based SEO Analysis & Monitoring Tool",
+          "description": "AI-Based SEO Analysis & Monitoring Tool.",
           "title": "Screpy"
         },
         {
           "children": [],
-          "description": "YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high-performance web pages.",
+          "description": "Analyzes web pages and suggests ways to improve their performance based on a set of rules for high-performance web pages.",
           "title": "YSlow",
           "repo_info": {
             "archived": false,
@@ -99,7 +91,7 @@
         },
         {
           "children": [],
-          "description": "YSlow for PhantomJS also introduces new output formats for automated test frameworks: TAP (Test Anything Protocol) and JUnit.",
+          "description": "PhantomJS build that adds new output formats for automated test frameworks: TAP (Test Anything Protocol) and JUnit.",
           "title": "YSlow for PhantomJS"
         },
         {
@@ -143,7 +135,7 @@
         },
         {
           "children": [],
-          "description": "Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications",
+          "description": "Libraries, tools, and visualizers for tracing and investigating complex web applications.",
           "title": "Web Tracing Framework",
           "repo_info": {
             "archived": true,
@@ -151,7 +143,7 @@
             "last_commit": "2019-12-10T20:36:52Z",
             "owner": "google",
             "repo": "tracing-framework",
-            "stars": 2635
+            "stars": 2634
           }
         },
         {
@@ -192,7 +184,7 @@
         },
         {
           "children": [],
-          "description": "Speedrank monitors the performance of your site in the background. It displays Lighthouse reports over time and delivers recommendations for improvement. Speedrank is a paid product with 14-day-trial.",
+          "description": "Monitors your site's performance in the background, displays Lighthouse reports over time, and delivers recommendations for improvement. Paid product with 14-day trial.",
           "title": "Speedrank"
         },
         {
@@ -242,7 +234,7 @@
             "last_commit": "2021-04-10T00:13:45Z",
             "owner": "GoogleChromeLabs",
             "repo": "psi",
-            "stars": 3107
+            "stars": 3106
           }
         }
       ],
@@ -284,7 +276,7 @@
         },
         {
           "children": [],
-          "description": "webpack plugin and CLI utility that represents bundle content as a convenient interactive zoomable treemap.",
+          "description": "Webpack plugin and CLI utility that represents bundle content as a convenient interactive zoomable treemap.",
           "title": "Webpack bundle analyzer",
           "repo_info": {
             "archived": false,
@@ -292,7 +284,7 @@
             "last_commit": "2026-03-25T14:02:17Z",
             "owner": "webpack",
             "repo": "webpack-bundle-analyzer",
-            "stars": 12684
+            "stars": 12685
           }
         },
         {
@@ -302,7 +294,7 @@
         },
         {
           "children": [],
-          "description": "analyze and Visualise project bundles created by Lasso.",
+          "description": "Analyze and visualise project bundles created by Lasso.",
           "title": "Lasso-analyzer",
           "repo_info": {
             "archived": false,
@@ -316,7 +308,7 @@
         {
           "children": [],
           "description": "Prepare compressed versions of assets to serve them with Content-Encoding.",
-          "title": "Compression webpack plugin",
+          "title": "Compression Webpack plugin",
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
@@ -328,12 +320,12 @@
         },
         {
           "children": [],
-          "description": "Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds",
+          "description": "Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds.",
           "title": "BundleStats",
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-08T02:12:24Z",
+            "last_commit": "2026-04-09T02:05:49Z",
             "owner": "relative-ci",
             "repo": "bundle-stats",
             "stars": 669
@@ -357,7 +349,7 @@
         },
         {
           "children": [],
-          "description": "JSLitmus is a lightweight tool for creating ad-hoc JavaScript benchmark tests.",
+          "description": "Lightweight tool for creating ad-hoc JavaScript benchmark tests.",
           "title": "JSlitmus",
           "repo_info": {
             "archived": true,
@@ -370,7 +362,7 @@
         },
         {
           "children": [],
-          "description": "Matcha allows you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.",
+          "description": "Lets you design experiments that measure the performance of your code. Each bench should focus on a specific point of impact in your application.",
           "title": "Matcha",
           "repo_info": {
             "archived": false,
@@ -383,7 +375,7 @@
         },
         {
           "children": [],
-          "description": "Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet, or bookmarklet.",
+          "description": "Small helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools snippet, or bookmarklet.",
           "title": "Timing.js",
           "repo_info": {
             "archived": false,
@@ -404,7 +396,7 @@
             "last_commit": "2024-10-11T03:59:02Z",
             "owner": "mrdoob",
             "repo": "stats.js",
-            "stars": 9108
+            "stars": 9109
           }
         },
         {
@@ -422,7 +414,7 @@
         },
         {
           "children": [],
-          "description": "minimal monitor for JS Heap Size via performance memory.",
+          "description": "Minimal monitor for JS Heap Size via performance memory.",
           "title": "Memory-stats.js",
           "repo_info": {
             "archived": false,
@@ -435,7 +427,7 @@
         },
         {
           "children": [],
-          "description": "jsPerf aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks.",
+          "description": "Create and share test cases comparing JavaScript snippet performance via benchmarks. .",
           "title": "JSPerf",
           "repo_info": {
             "archived": false,
@@ -454,7 +446,7 @@
       "items": [
         {
           "children": [],
-          "description": "PHPench creates a graphical output for a PHP benchmark. Plot the runtime of any function in realtime with GnuPlot and create an image out of the result.",
+          "description": "Graphical output for PHP benchmarks: plot any function's runtime in real time with GnuPlot and export an image of the result.",
           "title": "PHPench",
           "repo_info": {
             "archived": false,
@@ -517,7 +509,7 @@
         },
         {
           "children": [],
-          "description": "CSS Stress is a Testing and Performance Profiling.",
+          "description": "Stress testing and performance profiling for CSS.",
           "title": "CSS Stress"
         },
         {
@@ -546,10 +538,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-31T13:48:05Z",
+            "last_commit": "2026-04-08T20:15:48Z",
             "owner": "GoogleChrome",
             "repo": "web-vitals",
-            "stars": 8457
+            "stars": 8458
           }
         },
         {
@@ -559,10 +551,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-04-07T19:05:53Z",
+            "last_commit": "2026-04-08T23:08:16Z",
             "owner": "GoogleChrome",
             "repo": "lighthouse",
-            "stars": 30015
+            "stars": 30016
           }
         },
         {
@@ -575,7 +567,7 @@
             "last_commit": "2026-03-27T19:57:30Z",
             "owner": "GoogleChrome",
             "repo": "lighthouse-ci",
-            "stars": 6915
+            "stars": 6916
           }
         }
       ],
@@ -586,7 +578,7 @@
       "items": [
         {
           "children": [],
-          "description": "JavaScript code generation tool that lets you write JavaScript that outputs JavaScript. Good for unrolling loops and writing libraries that compile away the runtime",
+          "description": "JavaScript code generation tool that lets you write JavaScript that outputs JavaScript. Good for unrolling loops and writing libraries that compile away the runtime.",
           "title": "AtBuild",
           "repo_info": {
             "archived": false,
@@ -599,7 +591,7 @@
         },
         {
           "children": [],
-          "description": "Glue is a simple command-line tool to generate sprites:",
+          "description": "A simple command-line tool to generate CSS sprites.",
           "title": "Glue",
           "repo_info": {
             "archived": false,
@@ -648,7 +640,7 @@
         },
         {
           "children": [],
-          "description": "gulp task for creating an image sprite and the corresponding style sheets for Gulp.",
+          "description": "Gulp task for creating an image sprite and the corresponding style sheets for Gulp.",
           "title": "Gulp-sprite",
           "repo_info": {
             "archived": false,
@@ -661,7 +653,7 @@
         },
         {
           "children": [],
-          "description": "gulp task for creating SVG sprites.",
+          "description": "Gulp task for creating SVG sprites.",
           "title": "Gulp-svg-sprites",
           "repo_info": {
             "archived": false,
@@ -700,12 +692,12 @@
         },
         {
           "children": [],
-          "description": "Sprite Cow helps you get the background-position, width, and height of sprites within a spritesheet as a nice bit of copyable CSS.",
+          "description": "Get the background-position, width, and height of sprites within a spritesheet as copyable CSS.",
           "title": "Sprite Cow"
         },
         {
           "children": [],
-          "description": "ZeroSprites is a CSS sprites generator aimed at area minimization using algorithms used in the field of VLSI floorplanning.",
+          "description": "CSS sprite generator aimed at area minimization using algorithms from VLSI floorplanning.",
           "title": "ZeroSprites"
         },
         {
@@ -747,7 +739,7 @@
       "items": [
         {
           "children": [],
-          "description": "Compress Your Image by removing unnecessary bytes of the image and Convert it into WebP/AVIF",
+          "description": "Compress Your Image by removing unnecessary bytes of the image and Convert it into WebP/AVIF.",
           "title": "Shortpixel"
         },
         {
@@ -778,7 +770,7 @@
         },
         {
           "children": [],
-          "description": "Smush it uses optimization techniques specific to image format to remove unnecessary bytes from image files. It is a \"lossless\" tool, which means it optimizes the images without changing their look or visual quality.",
+          "description": "Uses format-specific optimization to remove unnecessary bytes from image files. Lossless: optimizes images without changing their look or visual quality.",
           "title": "Smush it"
         },
         {
@@ -804,7 +796,7 @@
             "last_commit": "2026-04-04T21:47:58Z",
             "owner": "lovell",
             "repo": "sharp",
-            "stars": 32113
+            "stars": 32116
           }
         },
         {
@@ -840,7 +832,7 @@
         },
         {
           "children": [],
-          "description": "OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information.",
+          "description": "PNG optimizer that recompresses image files to a smaller size without losing information.",
           "title": "OptiPNG"
         },
         {
@@ -853,7 +845,7 @@
             "last_commit": "2024-07-02T05:13:08Z",
             "owner": "gruntjs",
             "repo": "grunt-contrib-imagemin",
-            "stars": 1212
+            "stars": 1211
           }
         },
         {
@@ -866,7 +858,7 @@
             "last_commit": "2025-11-11T06:45:37Z",
             "owner": "sindresorhus",
             "repo": "gulp-imagemin",
-            "stars": 1905
+            "stars": 1903
           }
         },
         {
@@ -892,7 +884,7 @@
             "last_commit": "2025-09-10T09:34:38Z",
             "owner": "sindresorhus",
             "repo": "gulp-webp",
-            "stars": 220
+            "stars": 219
           }
         },
         {
@@ -956,7 +948,7 @@
         },
         {
           "children": [],
-          "description": "One-click optimization for images in your GitHub repos",
+          "description": "One-click optimization for images in your GitHub repos.",
           "title": "Shrinkray"
         },
         {
@@ -1046,7 +1038,7 @@
         },
         {
           "children": [],
-          "description": "Generate optimized images (WebP, AVIF) and LQIP placeholders using Vite or webpack plugins and render responsive image markup with an image component for multiple frameworks.",
+          "description": "Generate optimized images (WebP, AVIF) and LQIP placeholders using Vite or Webpack plugins and render responsive image markup with an image component for multiple frameworks.",
           "title": "ResponsiveImage"
         }
       ],
@@ -1057,7 +1049,7 @@
       "items": [
         {
           "children": [],
-          "description": "Lazyload images, iframes, widgets with a standalone JavaScript lazyloader ~1kb",
+          "description": "Defer images, iframes, and widgets with a standalone JavaScript lazyloader (~1kb).",
           "title": "lazyload",
           "repo_info": {
             "archived": false,
@@ -1070,7 +1062,7 @@
         },
         {
           "children": [],
-          "description": "Highly performant, light ~0.9kb, and configurable lazy loader in pure JS with no dependencies for responsive images, iframes, and more",
+          "description": "Highly performant, light ~0.9kb, and configurable lazy loader in pure JS with no dependencies for responsive images, iframes, and more.",
           "title": "lozad.js",
           "repo_info": {
             "archived": false,
@@ -1102,12 +1094,12 @@
         },
         {
           "children": [],
-          "description": "RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.js.",
+          "description": "JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.js.",
           "title": "RequireJS"
         },
         {
           "children": [],
-          "description": "is an open-source (MIT license) project supported by Getify Solutions. The core purpose of LABjs is to be an all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time.",
+          "description": "An open-source (MIT license) project supported by Getify Solutions. The core purpose of LABjs is to be an all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time.",
           "title": "Labjs",
           "repo_info": {
             "archived": true,
@@ -1133,7 +1125,7 @@
         },
         {
           "children": [],
-          "description": "InstantClick makes the following links in your site instant.",
+          "description": "Preloads pages on hover so in-site links feel instant.",
           "title": "InstantClick",
           "repo_info": {
             "archived": false,
@@ -1141,7 +1133,7 @@
             "last_commit": "2018-06-06T14:25:22Z",
             "owner": "dieulot",
             "repo": "instantclick",
-            "stars": 5503
+            "stars": 5502
           }
         },
         {
@@ -1154,7 +1146,7 @@
             "last_commit": "2018-05-11T08:04:20Z",
             "owner": "shootaroo",
             "repo": "jit-grunt",
-            "stars": 506
+            "stars": 505
           }
         }
       ],
@@ -1204,7 +1196,7 @@
         },
         {
           "children": [],
-          "description": "GTmetrix uses Google Page Speed and Yahoo! YSlow to grade your site's performance and provides actionable recommendations to fix these issues.",
+          "description": "Free tool to test and monitor your page's performance. Uses Lighthouse to score your pages and offers actionable recommendations on how to optimize them.",
           "title": "GTmetrix"
         },
         {
@@ -1219,7 +1211,7 @@
         },
         {
           "children": [],
-          "description": "analyze your website's speed in real browsers from 20 locations worldwide.",
+          "description": "Analyze your website's speed in real browsers from 20 locations worldwide.",
           "title": "Dotcom-tools"
         },
         {
@@ -1229,7 +1221,7 @@
         },
         {
           "children": [],
-          "description": "Sitespeed.io is an open-source tool that will check your site against web performance best practice rules and use the Navigation Timing API to collect metrics. It will create XML & HTML output of the result.",
+          "description": "Open-source tool that checks your site against web performance best practices and uses the Navigation Timing API to collect metrics. Outputs XML and HTML reports.",
           "title": "Sitespeed.io"
         },
         {
@@ -1276,12 +1268,12 @@
       "items": [
         {
           "children": [],
-          "description": "HtmlCompressor is a small, fast, and very easy to use Java library that minifies given HTML or XML source by removing extra whitespaces, comments, and other unneeded characters without breaking the content structure. As a result page become smaller in size and load faster. A command-line version of the compressor is also available.",
+          "description": "Small, fast Java library that minifies HTML or XML by removing extra whitespace, comments, and unneeded characters without breaking structure. Includes a command-line build.",
           "title": "HTMLCompressor"
         },
         {
           "children": [],
-          "description": "django-html in an HTML minifier for Python with full support for HTML 5. It supports Django, Flask and any other Python web framework. It also provides a command-line tool that can be used for static sites or deployment scripts.",
+          "description": "HTML minifier for Python with full support for HTML 5. Supports Django, Flask, and any other Python web framework, plus a command-line tool for static sites or deployment scripts.",
           "title": "Django-htmlmin",
           "repo_info": {
             "archived": false,
@@ -1294,7 +1286,7 @@
         },
         {
           "children": [],
-          "description": "HTMLMinifier is a highly configurable, well-tested, Javascript-based HTML minifier, with lint-like capabilities.",
+          "description": "Highly configurable, well-tested, JavaScript-based HTML minifier with lint-like capabilities.",
           "title": "HTMLMinifier",
           "repo_info": {
             "archived": false,
@@ -1390,7 +1382,7 @@
         },
         {
           "children": [],
-          "description": "Minimize is an HTML minifier based on the node-htmlparser,currently, HTML minifier is only usable server-side. Client-side minification will be added in a future release.",
+          "description": "HTML minifier based on node-htmlparser; currently server-side only. Client-side minification is planned.",
           "title": "Minimize",
           "repo_info": {
             "archived": false,
@@ -1403,7 +1395,7 @@
         },
         {
           "children": [],
-          "description": "A simple Windows command-line tool to minify your HTML, Razor views & Web Forms views",
+          "description": "A simple Windows command-line tool to minify your HTML, Razor views & Web Forms views.",
           "title": "Html-minifier",
           "repo_info": {
             "archived": false,
@@ -1456,12 +1448,12 @@
             "last_commit": "2024-06-21T16:11:18Z",
             "owner": "css",
             "repo": "csso",
-            "stars": 3798
+            "stars": 3797
           }
         },
         {
           "children": [],
-          "description": "cssmin.js is a JavaScript port of YUICompressor's CSS minifier.",
+          "description": "JavaScript port of YUICompressor's CSS minifier.",
           "title": "CSSmin.js",
           "repo_info": {
             "archived": false,
@@ -1521,7 +1513,7 @@
             "last_commit": "2026-03-23T07:03:00Z",
             "owner": "django-compressor",
             "repo": "django-compressor",
-            "stars": 2874
+            "stars": 2873
           }
         },
         {
@@ -1539,7 +1531,7 @@
         },
         {
           "children": [],
-          "description": "JShrink is a PHP class that minifies JavaScript so that it can be delivered to the client quicker.",
+          "description": "PHP class that minifies JavaScript for faster delivery to the client.",
           "title": "JShrink",
           "repo_info": {
             "archived": false,
@@ -1659,7 +1651,7 @@
         },
         {
           "children": [],
-          "description": "uCSS is made for crawling (large) sites to find unused CSS selectors, but not remove unused CSS.",
+          "description": "Crawls large sites to find unused CSS selectors (does not remove unused CSS).",
           "title": "uCSS",
           "repo_info": {
             "archived": false,
@@ -1693,7 +1685,7 @@
             "last_commit": "2026-01-24T09:10:10Z",
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10178
+            "stars": 10177
           }
         },
         {
@@ -1719,12 +1711,12 @@
             "last_commit": "2024-04-03T08:17:04Z",
             "owner": "aFarkas",
             "repo": "lazysizes",
-            "stars": 17738
+            "stars": 17737
           }
         },
         {
           "children": [],
-          "description": "TMI (Too Many Images) - discover your image weight on the web.",
+          "description": "Too Many Images: discover your image weight on the web.",
           "title": "TMI",
           "repo_info": {
             "archived": false,
@@ -1743,7 +1735,7 @@
       "items": [
         {
           "children": [],
-          "description": "SVGO is a Nodejs-based tool for optimizing SVG vector graphics files.",
+          "description": "Node.js-based optimizer for SVG vector graphics.",
           "title": "SVGO",
           "repo_info": {
             "archived": false,
@@ -1751,7 +1743,7 @@
             "last_commit": "2026-03-25T07:33:02Z",
             "owner": "svg",
             "repo": "svgo",
-            "stars": 22430
+            "stars": 22428
           }
         },
         {
@@ -1779,12 +1771,12 @@
         },
         {
           "children": [],
-          "description": "Scour is an open-source Python script that aggressively cleans SVG files, removing a lot of 'cruft' that certain tools or authors embed into their documents.",
+          "description": "Open-source Python script that aggressively cleans SVG files, stripping cruft that tools or authors embed in documents.",
           "title": "Scour"
         },
         {
           "children": [],
-          "description": "SVG Cleaner could help you to clean up your SVG files from unnecessary data. It has a lot of options for cleanup and optimization, works in batch mode, and provides threaded processing on multicore processors.",
+          "description": "Cleans SVG files of unnecessary data with batch mode, many cleanup options, and threaded processing on multicore CPUs.",
           "title": "SVG Cleaner",
           "repo_info": {
             "archived": true,
@@ -1835,7 +1827,7 @@
       "items": [
         {
           "children": [],
-          "description": "httperf is a tool for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance.",
+          "description": "Measures web server performance with flexible generation of HTTP workloads and server metrics.",
           "title": "HTTPerf",
           "repo_info": {
             "archived": false,
@@ -1858,7 +1850,7 @@
         },
         {
           "children": [],
-          "description": "Autoperf is a ruby driver for httperf, designed to help you automate load and performance testing of any web application - for a single endpoint, or through log replay.",
+          "description": "Ruby driver for httperf to automate load and performance testing for a single endpoint or via log replay.",
           "title": "Autoperf",
           "repo_info": {
             "archived": false,
@@ -1936,7 +1928,7 @@
         },
         {
           "children": [],
-          "description": "A HTTP benchmarking tool (with optional Lua scripting for request generation, response\nprocessing, and custom reporting)",
+          "description": "A HTTP benchmarking tool (with optional Lua scripting for request generation, response processing, and custom reporting).",
           "title": "wrk",
           "repo_info": {
             "archived": false,
@@ -1944,7 +1936,7 @@
             "last_commit": "2023-12-30T10:33:51Z",
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40180
+            "stars": 40185
           }
         },
         {
@@ -1957,7 +1949,7 @@
             "last_commit": "2024-03-28T21:15:07Z",
             "owner": "newsapps",
             "repo": "beeswithmachineguns",
-            "stars": 6620
+            "stars": 6619
           }
         },
         {
@@ -1967,10 +1959,47 @@
         }
       ],
       "title": "Web server Benchmarks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "A curated list of Webpack tools for web performance.",
+          "title": "iamakulov/awesome-webpack-perf",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-07-23T08:15:07Z",
+            "owner": "iamakulov",
+            "repo": "awesome-webpack-perf",
+            "stars": 963
+          }
+        },
+        {
+          "children": [],
+          "description": "Research in Web Performance.",
+          "title": "imteekay/web-performance-research",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-07T20:30:01Z",
+            "owner": "imteekay",
+            "repo": "web-performance-research",
+            "stars": 1040
+          }
+        }
+      ],
+      "title": "Other Awesome Lists"
+    },
+    {
+      "description": "For contributing, please check contributing.md, then open an issue and/or a pull request.",
+      "items": [],
+      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-08T04:36:57.164Z",
+    "last_updated": "2026-04-09T04:33:55.950Z",
     "original_repository": "davidsonfellipe/awesome-wpo",
     "source_repository": "v1nvn/enhansome-wpo",
     "source_repository_description": null,

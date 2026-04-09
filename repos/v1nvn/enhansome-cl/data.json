@@ -111,6 +111,19 @@
           }
         },
         {
+          "children": [],
+          "description": "Common Lisp SDK for MCP (2025-11-25) with full conformance (44/44 checks) and limited A2A support. Supports stdio and SSE transports, tools, resources, prompts, structured errors, and access logging. .",
+          "title": "mcp-lisp",
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-03-30T07:03:25Z",
+            "owner": "jsulmont",
+            "repo": "mcp-lisp",
+            "stars": 7
+          }
+        },
+        {
           "children": [
             {
               "children": [],
@@ -297,7 +310,7 @@
             "last_commit": "2024-10-15T03:26:54Z",
             "owner": "norvig",
             "repo": "paip-lisp",
-            "stars": 7438
+            "stars": 7439
           }
         },
         {
@@ -530,7 +543,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Common Lisp",
-                "last_commit": "2026-04-08T00:49:06Z",
+                "last_commit": "2026-04-08T15:46:08Z",
                 "owner": "screenshotbot",
                 "repo": "screenshotbot-oss",
                 "stars": 296
@@ -1509,7 +1522,7 @@
             "last_commit": "2026-03-24T11:45:27Z",
             "owner": "atgreen",
             "repo": "rewrite-cl",
-            "stars": 17
+            "stars": 18
           }
         }
       ],
@@ -1774,7 +1787,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-04-05T00:26:13Z",
+            "last_commit": "2026-04-08T10:10:16Z",
             "owner": "s-expressionists",
             "repo": "Khazern",
             "stars": 20
@@ -2097,7 +2110,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Common Lisp",
-                "last_commit": "2026-04-03T20:38:28Z",
+                "last_commit": "2026-04-08T14:28:34Z",
                 "owner": "Jason94",
                 "repo": "coalton-io",
                 "stars": 14
@@ -2118,7 +2131,7 @@
                 "last_commit": "2026-03-29T21:33:29Z",
                 "owner": "slime",
                 "repo": "slime",
-                "stars": 2043
+                "stars": 2044
               }
             },
             {
@@ -2137,10 +2150,10 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-04-08T04:21:43Z",
+            "last_commit": "2026-04-09T04:35:22Z",
             "owner": "coalton-lang",
             "repo": "coalton",
-            "stars": 1563
+            "stars": 1562
           }
         },
         {
@@ -2509,7 +2522,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-02-23T22:26:08Z",
+            "last_commit": "2026-04-08T10:30:28Z",
             "owner": "azzamsa",
             "repo": "awesome-cl-software",
             "stars": 381
@@ -2625,7 +2638,7 @@
             "last_commit": "2026-04-06T10:55:38Z",
             "owner": "fukamachi",
             "repo": "dexador",
-            "stars": 427
+            "stars": 428
           }
         },
         {
@@ -4875,7 +4888,7 @@
             "last_commit": "2026-03-29T21:33:29Z",
             "owner": "slime",
             "repo": "slime",
-            "stars": 2043
+            "stars": 2044
           }
         },
         {
@@ -5107,7 +5120,7 @@
             "last_commit": "2026-04-05T20:55:09Z",
             "owner": "atgreen",
             "repo": "icl",
-            "stars": 166
+            "stars": 167
           }
         },
         {
@@ -6415,7 +6428,7 @@
             "last_commit": "2026-03-24T06:53:46Z",
             "owner": "melisgl",
             "repo": "named-readtables",
-            "stars": 74
+            "stars": 75
           }
         },
         {
@@ -6454,7 +6467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-08T04:39:04.250Z",
+    "last_updated": "2026-04-09T04:36:25.240Z",
     "original_repository": "CodyReichert/awesome-cl",
     "source_repository": "v1nvn/enhansome-cl",
     "source_repository_description": null,
