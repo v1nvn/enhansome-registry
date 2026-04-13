@@ -15,7 +15,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-10T07:07:20Z",
+            "last_commit": "2026-04-12T20:38:20Z",
             "owner": "TNG",
             "repo": "ArchUnit",
             "stars": 3655
@@ -42,6 +42,19 @@
       "items": [
         {
           "children": [],
+          "description": "Agent runtime with a Java SDK for building AI agents, supporting graph-based workflow orchestration, multi-agent coordination, and MCP/A2A protocols.",
+          "title": "JamJet",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-08T19:53:55Z",
+            "owner": "jamjet-labs",
+            "repo": "jamjet",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
           "description": "Simplifies integration of LLMs with unified APIs and a comprehensive toolbox.",
           "title": "LangChain4j",
           "repo_info": {
@@ -50,7 +63,7 @@
             "last_commit": "2026-04-10T13:41:34Z",
             "owner": "langchain4j",
             "repo": "langchain4j",
-            "stars": 11557
+            "stars": 11569
           }
         },
         {
@@ -63,7 +76,7 @@
             "last_commit": "2026-04-10T09:32:22Z",
             "owner": "modelcontextprotocol",
             "repo": "java-sdk",
-            "stars": 3357
+            "stars": 3358
           }
         },
         {
@@ -123,10 +136,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-09T13:31:56Z",
+            "last_commit": "2026-04-12T11:20:14Z",
             "owner": "mapstruct",
             "repo": "mapstruct",
-            "stars": 7642
+            "stars": 7641
           }
         },
         {
@@ -207,7 +220,7 @@
             "last_commit": "2026-04-02T20:22:54Z",
             "owner": "Konloch",
             "repo": "bytecode-viewer",
-            "stars": 15478
+            "stars": 15479
           }
         },
         {
@@ -248,7 +261,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-03-30T01:35:47Z",
+            "last_commit": "2026-04-12T16:35:52Z",
             "owner": "cojen",
             "repo": "Maker",
             "stars": 67
@@ -326,7 +339,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-11T09:58:02Z",
+            "last_commit": "2026-04-12T18:39:06Z",
             "owner": "jline",
             "repo": "jline3",
             "stars": 1757
@@ -343,6 +356,19 @@
     {
       "description": "Libraries that provide TUI frameworks, or building blocks related functions.",
       "items": [
+        {
+          "children": [],
+          "description": "Declarative, React-style TUI library for building terminal UIs as component trees with diff-based rendering, focus management, and themes.",
+          "title": "AliveJTUI",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-03T04:28:16Z",
+            "owner": "yehorsyrin",
+            "repo": "alivejTUI",
+            "stars": 2
+          }
+        },
         {
           "children": [],
           "description": "ANSI escape codes to format console output.",
@@ -384,7 +410,7 @@
             "last_commit": "2026-03-15T09:29:20Z",
             "owner": "mabe02",
             "repo": "lanterna",
-            "stars": 2559
+            "stars": 2560
           }
         }
       ],
@@ -413,10 +439,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-12T01:39:39Z",
+            "last_commit": "2026-04-12T21:01:40Z",
             "owner": "googleapis",
             "repo": "google-cloud-java",
-            "stars": 2028
+            "stars": 2027
           }
         }
       ],
@@ -432,10 +458,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-12T04:45:48Z",
+            "last_commit": "2026-04-13T04:17:38Z",
             "owner": "checkstyle",
             "repo": "checkstyle",
-            "stars": 8910
+            "stars": 8911
           }
         },
         {
@@ -448,7 +474,7 @@
             "last_commit": "2026-04-10T15:47:45Z",
             "owner": "google",
             "repo": "error-prone",
-            "stars": 7154
+            "stars": 7155
           }
         },
         {
@@ -458,7 +484,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-12T01:08:12Z",
+            "last_commit": "2026-04-13T01:13:30Z",
             "owner": "PicnicSupermarket",
             "repo": "error-prone-support",
             "stars": 234
@@ -474,7 +500,7 @@
             "last_commit": "2026-04-10T16:27:14Z",
             "owner": "facebook",
             "repo": "infer",
-            "stars": 15576
+            "stars": 15577
           }
         },
         {
@@ -489,7 +515,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-12T02:50:38Z",
+            "last_commit": "2026-04-13T03:03:37Z",
             "owner": "uber",
             "repo": "NullAway",
             "stars": 4035
@@ -502,7 +528,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-08T03:53:28Z",
+            "last_commit": "2026-04-12T18:21:30Z",
             "owner": "pmd",
             "repo": "pmd",
             "stars": 5372
@@ -518,7 +544,7 @@
             "last_commit": "2024-08-06T08:22:02Z",
             "owner": "alibaba",
             "repo": "p3c",
-            "stars": 30826
+            "stars": 30823
           }
         },
         {
@@ -567,10 +593,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-12T01:54:32Z",
+            "last_commit": "2026-04-12T23:52:14Z",
             "owner": "spotbugs",
             "repo": "spotbugs",
-            "stars": 3858
+            "stars": 3859
           }
         },
         {
@@ -684,10 +710,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-12T00:39:33Z",
+            "last_commit": "2026-04-13T03:27:50Z",
             "owner": "jhipster",
             "repo": "generator-jhipster",
-            "stars": 22386
+            "stars": 22388
           }
         },
         {
@@ -733,6 +759,19 @@
         },
         {
           "children": [],
+          "description": "Maven plugin for generating Spring Boot CRUD applications from YAML/JSON specifications.",
+          "title": "Spring CRUD Generator",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-07T13:53:45Z",
+            "owner": "mzivkovicdev",
+            "repo": "spring-crud-generator",
+            "stars": 33
+          }
+        },
+        {
+          "children": [],
           "description": "Simple and light code generator available as an Eclipse Plugin and also as a CLI.",
           "title": "Telosys"
         }
@@ -762,6 +801,19 @@
         },
         {
           "children": [],
+          "description": "Type-safe, composable configuration library with a focus on runtime clarity.",
+          "title": "ClearConfig",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-01T04:16:15Z",
+            "owner": "japgolly",
+            "repo": "clear-config-java",
+            "stars": 7
+          }
+        },
+        {
+          "children": [],
           "description": "Configuration library supporting Java properties, JSON or its human optimized superset HOCON.",
           "title": "config",
           "repo_info": {
@@ -780,7 +832,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-08T10:09:11Z",
+            "last_commit": "2026-04-12T05:29:37Z",
             "owner": "SpongePowered",
             "repo": "Configurate",
             "stars": 462
@@ -801,7 +853,7 @@
             "last_commit": "2018-02-07T21:02:54Z",
             "owner": "shyiko",
             "repo": "dotenv",
-            "stars": 50
+            "stars": 51
           }
         },
         {
@@ -985,10 +1037,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-04-12T01:34:18Z",
+            "last_commit": "2026-04-12T15:43:21Z",
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71065
+            "stars": 71074
           }
         },
         {
@@ -1027,7 +1079,7 @@
             "last_commit": "2023-03-18T23:20:25Z",
             "owner": "square",
             "repo": "tape",
-            "stars": 2462
+            "stars": 2461
           }
         },
         {
@@ -1066,6 +1118,11 @@
         },
         {
           "children": [],
+          "description": "Multi-model database supporting graphs, documents, key-value, time series, and vector embeddings with SQL, Cypher, Gremlin, MongoDB, and Redis API compatibility.",
+          "title": "ArcadeDB"
+        },
+        {
+          "children": [],
           "description": "ArangoDB Java driver.",
           "title": "ArangoDB",
           "repo_info": {
@@ -1087,7 +1144,7 @@
             "last_commit": "2026-03-30T13:59:51Z",
             "owner": "OpenHFT",
             "repo": "Chronicle-Map",
-            "stars": 2949
+            "stars": 2950
           }
         },
         {
@@ -1107,7 +1164,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-11T12:28:10Z",
+            "last_commit": "2026-04-13T03:06:53Z",
             "owner": "eXist-db",
             "repo": "exist",
             "stars": 462
@@ -1123,7 +1180,7 @@
             "last_commit": "2026-02-25T18:40:07Z",
             "owner": "vladmihalcea",
             "repo": "flexy-pool",
-            "stars": 1174
+            "stars": 1175
           }
         },
         {
@@ -1146,7 +1203,7 @@
             "last_commit": "2025-11-04T07:50:44Z",
             "owner": "brettwooldridge",
             "repo": "HikariCP",
-            "stars": 21088
+            "stars": 21090
           }
         },
         {
@@ -1166,7 +1223,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-03T12:51:45Z",
+            "last_commit": "2026-04-13T00:02:33Z",
             "owner": "redis",
             "repo": "jedis",
             "stars": 12301
@@ -1272,6 +1329,19 @@
         },
         {
           "children": [],
+          "description": "Type 3 JDBC driver and Layer 7 proxy server for decoupling applications from relational database connection management.",
+          "title": "Open J Proxy",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-12T21:49:41Z",
+            "owner": "Open-J-Proxy",
+            "repo": "ojp",
+            "stars": 196
+          }
+        },
+        {
+          "children": [],
           "description": "LDAPv3 compliant directory service, developed for the Java platform, providing a high performance, highly available, and secure store for the identities.",
           "title": "OpenDJ",
           "repo_info": {
@@ -1308,10 +1378,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-12T02:57:14Z",
+            "last_commit": "2026-04-13T01:46:08Z",
             "owner": "questdb",
             "repo": "questdb",
-            "stars": 16849
+            "stars": 16852
           }
         },
         {
@@ -1337,7 +1407,7 @@
             "last_commit": "2026-04-11T05:42:37Z",
             "owner": "redisson",
             "repo": "redisson",
-            "stars": 24295
+            "stars": 24305
           }
         },
         {
@@ -1350,7 +1420,7 @@
             "last_commit": "2026-02-09T08:58:28Z",
             "owner": "requery",
             "repo": "requery",
-            "stars": 3121
+            "stars": 3122
           }
         },
         {
@@ -1422,7 +1492,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-12T01:46:38Z",
+            "last_commit": "2026-04-13T04:40:34Z",
             "owner": "Ahoo-Wang",
             "repo": "CosId",
             "stars": 622
@@ -1435,10 +1505,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-11T01:29:41Z",
+            "last_commit": "2026-04-13T01:56:16Z",
             "owner": "apache",
             "repo": "shardingsphere",
-            "stars": 20708
+            "stars": 20707
           }
         }
       ],
@@ -1454,7 +1524,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-03T00:33:15Z",
+            "last_commit": "2026-04-12T23:55:26Z",
             "owner": "ical4j",
             "repo": "ical4j",
             "stars": 830
@@ -1467,10 +1537,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2024-05-01T16:41:30Z",
-            "owner": "svendiedrichsen",
+            "last_commit": "2026-04-08T19:26:04Z",
+            "owner": "focus-shift",
             "repo": "jollyday",
-            "stars": 195
+            "stars": 117
           }
         },
         {
@@ -1519,6 +1589,19 @@
           "children": [],
           "description": "Compile-time injection framework without reflection.",
           "title": "Dagger"
+        },
+        {
+          "children": [],
+          "description": "JSR-330 runtime dependency injection using the JDK Class-File API.",
+          "title": "Dimension-DI",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-12T06:14:42Z",
+            "owner": "akardapolov",
+            "repo": "dimension-di",
+            "stars": 16
+          }
         },
         {
           "children": [],
@@ -1603,7 +1686,7 @@
             "last_commit": "2025-06-30T08:23:17Z",
             "owner": "zalando",
             "repo": "faux-pas",
-            "stars": 143
+            "stars": 144
           }
         },
         {
@@ -1655,7 +1738,7 @@
             "last_commit": "2026-03-08T13:16:15Z",
             "owner": "manifold-systems",
             "repo": "manifold",
-            "stars": 2732
+            "stars": 2731
           }
         },
         {
@@ -1745,10 +1828,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-10T07:45:07Z",
+            "last_commit": "2026-04-13T04:56:38Z",
             "owner": "hazelcast",
             "repo": "hazelcast",
-            "stars": 6578
+            "stars": 6579
           }
         },
         {
@@ -1771,7 +1854,7 @@
             "last_commit": "2026-04-11T10:09:05Z",
             "owner": "resilience4j",
             "repo": "resilience4j",
-            "stars": 10623
+            "stars": 10625
           }
         },
         {
@@ -1852,7 +1935,7 @@
             "last_commit": "2026-04-08T01:16:41Z",
             "owner": "apache",
             "repo": "incubator-seata",
-            "stars": 25967
+            "stars": 25965
           }
         }
       ],
@@ -1871,7 +1954,7 @@
             "last_commit": "2025-09-17T06:30:06Z",
             "owner": "artipie",
             "repo": "artipie",
-            "stars": 674
+            "stars": 675
           }
         },
         {
@@ -2018,6 +2101,19 @@
         },
         {
           "children": [],
+          "description": "Library for reading and writing Excel and CSV files with annotation-based mapping, streaming support, and built-in validation.",
+          "title": "Sheetz",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-30T23:39:50Z",
+            "owner": "chitralabs",
+            "repo": "sheetz",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
           "description": "Annotation-based API for reading data from Excel sheets into POJOs with focus on reduced overhead.",
           "title": "zerocell",
           "repo_info": {
@@ -2094,7 +2190,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-10T22:49:45Z",
+            "last_commit": "2026-04-12T07:53:42Z",
             "owner": "stripe",
             "repo": "stripe-java",
             "stars": 968
@@ -2110,7 +2206,7 @@
             "last_commit": "2026-04-10T23:48:13Z",
             "owner": "ta4j",
             "repo": "ta4j",
-            "stars": 2405
+            "stars": 2407
           }
         }
       ],
@@ -2232,10 +2328,23 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-03-22T14:19:31Z",
+            "last_commit": "2026-04-12T07:57:23Z",
             "owner": "jhspetersson",
             "repo": "packrat",
             "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Stream API Collectors for parallel processing with custom thread pools, designed for I/O-heavy workloads.",
+          "title": "Parallel Collectors",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-01T16:47:15Z",
+            "owner": "pivovarit",
+            "repo": "parallel-collectors",
+            "stars": 674
           }
         },
         {
@@ -2279,6 +2388,11 @@
           "children": [],
           "description": "JavaFX Game Development Framework.",
           "title": "FXGL"
+        },
+        {
+          "children": [],
+          "description": "Lightweight, cross-platform library for gamepad and joystick input handling.",
+          "title": "input4j"
         },
         {
           "children": [],
@@ -2380,7 +2494,7 @@
             "last_commit": "2026-04-10T14:24:35Z",
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6401
+            "stars": 6403
           }
         },
         {
@@ -2455,7 +2569,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-06T16:19:26Z",
+            "last_commit": "2026-04-12T12:11:42Z",
             "owner": "HTTP-RPC",
             "repo": "Sierra",
             "stars": 144
@@ -2482,7 +2596,7 @@
             "last_commit": "2026-04-07T12:39:13Z",
             "owner": "aeron-io",
             "repo": "agrona",
-            "stars": 3179
+            "stars": 3177
           }
         },
         {
@@ -2536,7 +2650,7 @@
             "last_commit": "2017-02-01T10:43:20Z",
             "owner": "leventov",
             "repo": "Koloboke",
-            "stars": 1022
+            "stars": 1021
           }
         }
       ],
@@ -2560,7 +2674,7 @@
             "last_commit": "2026-04-12T02:53:53Z",
             "owner": "AsyncHttpClient",
             "repo": "async-http-client",
-            "stars": 6407
+            "stars": 6406
           }
         },
         {
@@ -2578,7 +2692,7 @@
             "last_commit": "2026-04-10T05:18:37Z",
             "owner": "OpenFeign",
             "repo": "feign",
-            "stars": 9783
+            "stars": 9782
           }
         },
         {
@@ -2622,7 +2736,7 @@
             "last_commit": "2025-12-17T00:32:09Z",
             "owner": "Netflix",
             "repo": "ribbon",
-            "stars": 4616
+            "stars": 4617
           }
         },
         {
@@ -2632,10 +2746,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-03-27T04:03:07Z",
+            "last_commit": "2026-04-13T04:03:21Z",
             "owner": "zalando",
             "repo": "riptide",
-            "stars": 336
+            "stars": 337
           }
         },
         {
@@ -2738,7 +2852,7 @@
             "last_commit": "2023-10-21T09:52:16Z",
             "owner": "rkalla",
             "repo": "imgscalr",
-            "stars": 1243
+            "stars": 1242
           }
         },
         {
@@ -2751,7 +2865,7 @@
             "last_commit": "2026-01-17T02:29:54Z",
             "owner": "nguyenq",
             "repo": "tess4j",
-            "stars": 1739
+            "stars": 1741
           }
         },
         {
@@ -2764,7 +2878,7 @@
             "last_commit": "2026-02-17T17:48:42Z",
             "owner": "coobird",
             "repo": "thumbnailator",
-            "stars": 5400
+            "stars": 5401
           }
         },
         {
@@ -2777,7 +2891,7 @@
             "last_commit": "2026-04-06T12:25:34Z",
             "owner": "haraldk",
             "repo": "TwelveMonkeys",
-            "stars": 2110
+            "stars": 2109
           }
         },
         {
@@ -2790,7 +2904,7 @@
             "last_commit": "2026-04-08T03:42:18Z",
             "owner": "zxing",
             "repo": "zxing",
-            "stars": 33911
+            "stars": 33914
           }
         },
         {
@@ -2816,7 +2930,7 @@
             "last_commit": "2026-03-16T00:18:26Z",
             "owner": "lopcode",
             "repo": "vips-ffm",
-            "stars": 115
+            "stars": 116
           }
         },
         {
@@ -2840,7 +2954,7 @@
             "last_commit": "2025-10-10T10:05:26Z",
             "owner": "classgraph",
             "repo": "classgraph",
-            "stars": 2975
+            "stars": 2974
           }
         },
         {
@@ -2908,7 +3022,7 @@
             "last_commit": "2026-04-10T17:52:00Z",
             "owner": "jobrunr",
             "repo": "jobrunr",
-            "stars": 2951
+            "stars": 2953
           }
         },
         {
@@ -2921,7 +3035,7 @@
             "last_commit": "2026-03-20T01:43:34Z",
             "owner": "quartz-scheduler",
             "repo": "quartz",
-            "stars": 6712
+            "stars": 6711
           }
         },
         {
@@ -2983,10 +3097,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-10T15:34:42Z",
+            "last_commit": "2026-04-12T17:11:39Z",
             "owner": "lukas-krecan",
             "repo": "ShedLock",
-            "stars": 4135
+            "stars": 4134
           }
         }
       ],
@@ -3028,7 +3142,7 @@
             "last_commit": "2026-04-10T21:48:26Z",
             "owner": "google",
             "repo": "gson",
-            "stars": 24242
+            "stars": 24245
           }
         },
         {
@@ -3121,10 +3235,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-03-31T17:52:39Z",
+            "last_commit": "2026-04-12T16:34:45Z",
             "owner": "square",
             "repo": "moshi",
-            "stars": 10124
+            "stars": 10125
           }
         },
         {
@@ -3150,7 +3264,7 @@
             "last_commit": "2024-07-16T07:35:37Z",
             "owner": "alibaba",
             "repo": "fastjson",
-            "stars": 25686
+            "stars": 25684
           }
         },
         {
@@ -3176,7 +3290,7 @@
             "last_commit": "2026-02-22T18:39:33Z",
             "owner": "json-path",
             "repo": "JsonPath",
-            "stars": 9402
+            "stars": 9403
           }
         },
         {
@@ -3233,10 +3347,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-11T22:12:32Z",
+            "last_commit": "2026-04-12T20:00:33Z",
             "owner": "oracle",
             "repo": "graal",
-            "stars": 21543
+            "stars": 21546
           }
         },
         {
@@ -3251,7 +3365,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-10T22:59:37Z",
+            "last_commit": "2026-04-12T21:55:31Z",
             "owner": "eclipse-openj9",
             "repo": "openj9",
             "stars": 3509
@@ -3269,7 +3383,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-12T04:42:28Z",
+            "last_commit": "2026-04-13T04:57:31Z",
             "owner": "codenameone",
             "repo": "CodenameOne",
             "stars": 1828
@@ -3324,7 +3438,7 @@
             "last_commit": "2025-02-20T17:55:26Z",
             "owner": "tersesystems",
             "repo": "echopraxia",
-            "stars": 58
+            "stars": 59
           }
         },
         {
@@ -3352,7 +3466,7 @@
             "last_commit": "2026-04-02T11:40:03Z",
             "owner": "zalando",
             "repo": "logbook",
-            "stars": 2034
+            "stars": 2035
           }
         },
         {
@@ -3370,7 +3484,7 @@
             "last_commit": "2022-02-21T16:46:12Z",
             "owner": "p6spy",
             "repo": "p6spy",
-            "stars": 2221
+            "stars": 2223
           }
         },
         {
@@ -3527,7 +3641,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-11T23:06:11Z",
+            "last_commit": "2026-04-13T03:39:24Z",
             "owner": "haifengl",
             "repo": "smile",
             "stars": 6363
@@ -3556,10 +3670,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-11T11:55:49Z",
+            "last_commit": "2026-04-13T04:54:17Z",
             "owner": "aeron-io",
             "repo": "aeron",
-            "stars": 8578
+            "stars": 8581
           }
         },
         {
@@ -3599,10 +3713,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-11T20:03:30Z",
+            "last_commit": "2026-04-13T04:05:00Z",
             "owner": "AutoMQ",
             "repo": "automq",
-            "stars": 9685
+            "stars": 9689
           }
         },
         {
@@ -3628,7 +3742,7 @@
             "last_commit": "2024-02-21T18:18:34Z",
             "owner": "greenrobot",
             "repo": "EventBus",
-            "stars": 24738
+            "stars": 24739
           }
         },
         {
@@ -3669,7 +3783,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-03-31T05:55:18Z",
+            "last_commit": "2026-04-13T00:42:43Z",
             "owner": "rabbitmq",
             "repo": "rabbitmq-java-client",
             "stars": 1304
@@ -3719,10 +3833,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-10T05:08:35Z",
+            "last_commit": "2026-04-13T01:41:21Z",
             "owner": "line",
             "repo": "armeria",
-            "stars": 5100
+            "stars": 5101
           }
         },
         {
@@ -3735,7 +3849,7 @@
             "last_commit": "2023-05-05T18:54:26Z",
             "owner": "Ecwid",
             "repo": "consul-api",
-            "stars": 424
+            "stars": 423
           }
         },
         {
@@ -3748,7 +3862,7 @@
             "last_commit": "2026-03-23T21:24:45Z",
             "owner": "Netflix",
             "repo": "eureka",
-            "stars": 12700
+            "stars": 12701
           }
         },
         {
@@ -3766,7 +3880,7 @@
             "last_commit": "2026-04-10T19:16:27Z",
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4653
+            "stars": 4652
           }
         },
         {
@@ -3781,7 +3895,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-08T19:53:40Z",
+            "last_commit": "2026-04-13T03:51:00Z",
             "owner": "fabric8io",
             "repo": "kubernetes-client",
             "stars": 3642
@@ -3825,7 +3939,7 @@
             "last_commit": "2026-03-20T05:47:26Z",
             "owner": "alibaba",
             "repo": "Sentinel",
-            "stars": 23101
+            "stars": 23104
           }
         }
       ],
@@ -3857,7 +3971,7 @@
             "last_commit": "2026-03-20T21:23:33Z",
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 93861
+            "stars": 93869
           }
         },
         {
@@ -3883,7 +3997,7 @@
             "last_commit": "2024-07-15T08:04:08Z",
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23603
+            "stars": 23604
           }
         },
         {
@@ -3976,7 +4090,7 @@
             "last_commit": "2026-04-09T21:00:19Z",
             "owner": "google",
             "repo": "jimfs",
-            "stars": 2539
+            "stars": 2540
           }
         },
         {
@@ -4040,10 +4154,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-11T07:20:53Z",
+            "last_commit": "2026-04-12T15:57:16Z",
             "owner": "membrane",
             "repo": "api-gateway",
-            "stars": 586
+            "stars": 587
           }
         },
         {
@@ -4082,7 +4196,7 @@
             "last_commit": "2023-08-11T18:44:34Z",
             "owner": "winterbe",
             "repo": "java8-tutorial",
-            "stars": 16757
+            "stars": 16758
           }
         },
         {
@@ -4092,10 +4206,23 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-04T14:56:24Z",
+            "last_commit": "2026-04-13T02:48:09Z",
             "owner": "gaul",
             "repo": "modernizer-maven-plugin",
-            "stars": 387
+            "stars": 388
+          }
+        },
+        {
+          "children": [],
+          "description": "Reactive, type-safe framework for Telegram bots based on Spring Boot 3 and Java 21.",
+          "title": "Nyagram",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-11T14:37:15Z",
+            "owner": "Kaleert",
+            "repo": "nyagram",
+            "stars": 4
           }
         },
         {
@@ -4108,7 +4235,7 @@
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5350
+            "stars": 5352
           }
         },
         {
@@ -4126,7 +4253,7 @@
             "last_commit": "2026-03-29T03:01:21Z",
             "owner": "sizovs",
             "repo": "PipelinR",
-            "stars": 489
+            "stars": 488
           }
         },
         {
@@ -4141,6 +4268,11 @@
             "repo": "polyglot-maven",
             "stars": 921
           }
+        },
+        {
+          "children": [],
+          "description": "Cloud-managed feature flag platform with a Java SDK, supporting gradual rollouts, A/B testing, and real-time updates.",
+          "title": "Rollgate"
         },
         {
           "children": [],
@@ -4280,7 +4412,7 @@
             "last_commit": "2024-10-18T20:20:31Z",
             "owner": "stevensouza",
             "repo": "automon",
-            "stars": 572
+            "stars": 573
           }
         },
         {
@@ -4303,7 +4435,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-10T21:48:51Z",
+            "last_commit": "2026-04-12T05:42:26Z",
             "owner": "DataDog",
             "repo": "dd-trace-java",
             "stars": 704
@@ -4399,7 +4531,7 @@
             "last_commit": "2026-04-10T23:46:49Z",
             "owner": "javamelody",
             "repo": "javamelody",
-            "stars": 3038
+            "stars": 3036
           }
         },
         {
@@ -4430,7 +4562,7 @@
             "last_commit": "2026-04-11T10:09:19Z",
             "owner": "micrometer-metrics",
             "repo": "micrometer",
-            "stars": 4833
+            "stars": 4834
           }
         },
         {
@@ -4466,10 +4598,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-11T00:14:58Z",
+            "last_commit": "2026-04-13T04:35:49Z",
             "owner": "open-telemetry",
             "repo": "opentelemetry-java",
-            "stars": 2385
+            "stars": 2387
           }
         },
         {
@@ -4479,10 +4611,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-10T10:54:05Z",
+            "last_commit": "2026-04-13T02:27:31Z",
             "owner": "pinpoint-apm",
             "repo": "pinpoint",
-            "stars": 13820
+            "stars": 13821
           }
         },
         {
@@ -4492,7 +4624,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-12T04:32:01Z",
+            "last_commit": "2026-04-13T04:33:22Z",
             "owner": "prometheus",
             "repo": "client_java",
             "stars": 2268
@@ -4505,10 +4637,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-04-11T09:37:15Z",
+            "last_commit": "2026-04-13T04:39:14Z",
             "owner": "getsentry",
             "repo": "sentry-java",
-            "stars": 1313
+            "stars": 1314
           }
         },
         {
@@ -4597,7 +4729,7 @@
             "last_commit": "2026-01-01T19:02:37Z",
             "owner": "java-native-access",
             "repo": "jna",
-            "stars": 8910
+            "stars": 8909
           }
         },
         {
@@ -4712,10 +4844,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-10T23:56:34Z",
+            "last_commit": "2026-04-13T03:36:22Z",
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41587
+            "stars": 41592
           }
         },
         {
@@ -4733,7 +4865,7 @@
             "last_commit": "2026-04-10T06:32:49Z",
             "owner": "grpc",
             "repo": "grpc-java",
-            "stars": 11995
+            "stars": 11994
           }
         },
         {
@@ -4891,7 +5023,20 @@
             "last_commit": "2026-04-11T16:07:48Z",
             "owner": "mybatis",
             "repo": "mybatis-3",
-            "stars": 20414
+            "stars": 20415
+          }
+        },
+        {
+          "children": [],
+          "description": "Code-first dynamic ORM for MyBatis with runtime schema modification.",
+          "title": "mybatis-dynamic",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-10T03:25:16Z",
+            "owner": "myacelw",
+            "repo": "mybatis-dynamic",
+            "stars": 3
           }
         },
         {
@@ -4904,7 +5049,7 @@
             "last_commit": "2026-02-07T03:16:21Z",
             "owner": "baomidou",
             "repo": "mybatis-plus",
-            "stars": 17345
+            "stars": 17346
           }
         },
         {
@@ -4995,7 +5140,7 @@
             "last_commit": "2026-04-08T00:25:15Z",
             "owner": "flyingsaucerproject",
             "repo": "flyingsaucer",
-            "stars": 2215
+            "stars": 2216
           }
         },
         {
@@ -5031,7 +5176,7 @@
             "last_commit": "2026-04-08T06:02:51Z",
             "owner": "LibrePDF",
             "repo": "OpenPDF",
-            "stars": 4240
+            "stars": 4241
           }
         },
         {
@@ -5078,6 +5223,19 @@
         },
         {
           "children": [],
+          "description": "Memory leak diagnostics that orchestrates jcmd, jmap, jstat, JFR, Eclipse MAT, and async-profiler into a structured investigation workflow with confidence-based verdicts.",
+          "title": "Heap Seance",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-15T15:29:06Z",
+            "owner": "SegfaultSorcerer",
+            "repo": "heap-seance",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
           "description": "Logs and records platform JVM stalls.",
           "title": "jHiccup",
           "repo_info": {
@@ -5086,7 +5244,7 @@
             "last_commit": "2026-02-05T13:35:55Z",
             "owner": "giltene",
             "repo": "jHiccup",
-            "stars": 700
+            "stars": 701
           }
         },
         {
@@ -5099,7 +5257,7 @@
             "last_commit": "2025-12-28T13:31:13Z",
             "owner": "AdoptOpenJDK",
             "repo": "jitwatch",
-            "stars": 3278
+            "stars": 3279
           }
         },
         {
@@ -5118,6 +5276,19 @@
             "owner": "LatencyUtils",
             "repo": "LatencyUtils",
             "stars": 466
+          }
+        },
+        {
+          "children": [],
+          "description": "Java agent for line-level execution frequency analysis to identify algorithmic bottlenecks.",
+          "title": "JVM Hotpath",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-29T20:02:20Z",
+            "owner": "sfkamath",
+            "repo": "jvm-hotpath",
+            "stars": 8
           }
         }
       ],
@@ -5256,7 +5427,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-10T06:40:20Z",
+            "last_commit": "2026-04-12T15:53:00Z",
             "owner": "ReactiveX",
             "repo": "RxJava",
             "stars": 48337
@@ -5283,7 +5454,7 @@
             "last_commit": "2026-04-12T04:33:59Z",
             "owner": "dropwizard",
             "repo": "dropwizard",
-            "stars": 8589
+            "stars": 8590
           }
         },
         {
@@ -5375,7 +5546,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-11T23:48:43Z",
+            "last_commit": "2026-04-12T21:46:39Z",
             "owner": "springdoc",
             "repo": "springdoc-openapi",
             "stars": 3694
@@ -5396,7 +5567,7 @@
             "last_commit": "2026-04-12T04:07:30Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26084
+            "stars": 26093
           }
         }
       ],
@@ -5458,10 +5629,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-11T23:28:48Z",
+            "last_commit": "2026-04-12T23:10:17Z",
             "owner": "jgrapht",
             "repo": "jgrapht",
-            "stars": 2766
+            "stars": 2767
           }
         },
         {
@@ -5570,7 +5741,7 @@
             "last_commit": "2025-10-27T13:44:56Z",
             "owner": "knowm",
             "repo": "XChart",
-            "stars": 1583
+            "stars": 1582
           }
         }
       ],
@@ -5591,7 +5762,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-06T06:14:12Z",
+            "last_commit": "2026-04-13T04:03:40Z",
             "owner": "Hakky54",
             "repo": "ayza",
             "stars": 573
@@ -5601,6 +5772,19 @@
           "children": [],
           "description": "All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.",
           "title": "Bouncy Castle"
+        },
+        {
+          "children": [],
+          "description": "CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.",
+          "title": "Certificate Ripper",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-06T05:47:08Z",
+            "owner": "Hakky54",
+            "repo": "certificate-ripper",
+            "stars": 905
+          }
         },
         {
           "children": [],
@@ -5643,7 +5827,7 @@
             "last_commit": "2025-10-17T14:04:05Z",
             "owner": "jwtk",
             "repo": "jjwt",
-            "stars": 11052
+            "stars": 11048
           }
         },
         {
@@ -5731,7 +5915,7 @@
             "last_commit": "2026-04-11T08:11:23Z",
             "owner": "OpenIdentityPlatform",
             "repo": "OpenAM",
-            "stars": 871
+            "stars": 872
           }
         },
         {
@@ -5821,6 +6005,11 @@
           "children": [],
           "description": "Fine-grained authorization for applications with support for RBAC, ABAC, and ReBAC.",
           "title": "Topaz"
+        },
+        {
+          "children": [],
+          "description": "Cryptographic signing for AI agents using ML-DSA-44 post-quantum signatures, creating audit trails for attribution and compliance.",
+          "title": "MOSS"
         }
       ],
       "title": "Security"
@@ -5838,7 +6027,7 @@
             "last_commit": "2026-04-10T03:25:46Z",
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 25771
+            "stars": 25778
           }
         },
         {
@@ -5861,7 +6050,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-11T01:16:54Z",
+            "last_commit": "2026-04-12T12:31:43Z",
             "owner": "apache",
             "repo": "fory",
             "stars": 4290
@@ -5932,7 +6121,7 @@
             "last_commit": "2022-05-20T20:52:34Z",
             "owner": "neuland",
             "repo": "jade4j",
-            "stars": 706
+            "stars": 707
           }
         },
         {
@@ -5958,7 +6147,7 @@
             "last_commit": "2025-04-15T01:23:39Z",
             "owner": "jstachio",
             "repo": "jstachio",
-            "stars": 327
+            "stars": 328
           }
         },
         {
@@ -5971,7 +6160,7 @@
             "last_commit": "2026-04-10T20:46:11Z",
             "owner": "casid",
             "repo": "jte",
-            "stars": 1095
+            "stars": 1096
           }
         },
         {
@@ -6002,7 +6191,7 @@
             "last_commit": "2026-01-21T15:33:27Z",
             "owner": "fizzed",
             "repo": "rocker",
-            "stars": 780
+            "stars": 781
           }
         },
         {
@@ -6085,7 +6274,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-11T17:14:23Z",
+            "last_commit": "2026-04-13T04:29:59Z",
             "owner": "karatelabs",
             "repo": "karate",
             "stars": 8835
@@ -6174,6 +6363,19 @@
         },
         {
           "children": [],
+          "description": "Code-first BDD framework for Java and Kotlin that generates interactive HTML reports and sequence diagrams from test code.",
+          "title": "Kensa",
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-04-13T04:41:58Z",
+            "owner": "kensa-dev",
+            "repo": "kensa",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
           "description": "Aims to provide a fluent API to write tests in long and descriptive sentences that read like plain English.",
           "title": "Lamdba Behave",
           "repo_info": {
@@ -6240,7 +6442,7 @@
             "last_commit": "2026-04-09T21:18:47Z",
             "owner": "datafaker-net",
             "repo": "datafaker",
-            "stars": 1745
+            "stars": 1744
           }
         },
         {
@@ -6276,7 +6478,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-12T03:26:21Z",
+            "last_commit": "2026-04-13T04:57:04Z",
             "owner": "instancio",
             "repo": "instancio",
             "stars": 1129
@@ -6328,7 +6530,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-03-24T14:42:39Z",
+            "last_commit": "2026-04-12T06:20:13Z",
             "owner": "xcancloud",
             "repo": "JMock",
             "stars": 279
@@ -6431,10 +6633,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-12T00:27:29Z",
+            "last_commit": "2026-04-13T00:28:13Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34072
+            "stars": 34070
           }
         }
       ],
@@ -6465,7 +6667,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-08T02:02:29Z",
+            "last_commit": "2026-04-13T02:02:56Z",
             "owner": "lukas-krecan",
             "repo": "JsonUnit",
             "stars": 987
@@ -6536,7 +6738,7 @@
             "last_commit": "2026-04-05T09:12:14Z",
             "owner": "Hakky54",
             "repo": "log-captor",
-            "stars": 426
+            "stars": 427
           }
         },
         {
@@ -6598,6 +6800,19 @@
         },
         {
           "children": [],
+          "description": "Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.",
+          "title": "skipper-java",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-10T05:58:11Z",
+            "owner": "get-skipper",
+            "repo": "skipper-java",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
           "description": "Multi-approach framework for test steps managing.",
           "title": "Stebz",
           "repo_info": {
@@ -6616,11 +6831,16 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-11T22:53:24Z",
+            "last_commit": "2026-04-12T22:57:31Z",
             "owner": "testcontainers",
             "repo": "testcontainers-java",
-            "stars": 8625
+            "stars": 8629
           }
+        },
+        {
+          "children": [],
+          "description": "Side-by-side comparisons of legacy and modern Java patterns.",
+          "title": "Java Evolved"
         }
       ],
       "title": "Miscellaneous"
@@ -6711,7 +6931,7 @@
             "last_commit": "2026-04-10T05:04:39Z",
             "owner": "alibaba",
             "repo": "arthas",
-            "stars": 37239
+            "stars": 37237
           }
         },
         {
@@ -6721,7 +6941,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-06T08:34:25Z",
+            "last_commit": "2026-04-12T21:16:37Z",
             "owner": "bucket4j",
             "repo": "bucket4j",
             "stars": 2736
@@ -6768,7 +6988,7 @@
             "last_commit": "2019-02-12T02:26:22Z",
             "owner": "PatMartin",
             "repo": "Dex",
-            "stars": 1319
+            "stars": 1318
           }
         },
         {
@@ -6820,7 +7040,7 @@
             "last_commit": "2026-04-11T15:20:08Z",
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6441
+            "stars": 6445
           }
         },
         {
@@ -6833,7 +7053,7 @@
             "last_commit": "2026-04-10T17:44:54Z",
             "owner": "google",
             "repo": "guava",
-            "stars": 51508
+            "stars": 51509
           }
         },
         {
@@ -6861,6 +7081,19 @@
         },
         {
           "children": [],
+          "description": "Zero-dependency, high-performance utilities featuring Converter (universal type conversion), DeepEquals, CaseInsensitiveMap, TTLCache, CompactMap, MultiKeyMap, and object graph traversal.",
+          "title": "java-util",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-10T13:22:46Z",
+            "owner": "jdereg",
+            "repo": "java-util",
+            "stars": 437
+          }
+        },
+        {
+          "children": [],
           "description": "Library that helps with constructing difficult regular expressions.",
           "title": "JavaVerbalExpressions",
           "repo_info": {
@@ -6870,6 +7103,19 @@
             "owner": "VerbalExpressions",
             "repo": "JavaVerbalExpressions",
             "stars": 2626
+          }
+        },
+        {
+          "children": [],
+          "description": "Reads a Java project and generates a structured context file so AI tools can understand and help plan the codebase.",
+          "title": "Jctx",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-05T11:40:59Z",
+            "owner": "Shashwat-Gupta57",
+            "repo": "Jctx",
+            "stars": 5
           }
         },
         {
@@ -6888,6 +7134,19 @@
             "owner": "evpl",
             "repo": "jkscope",
             "stars": 21
+          }
+        },
+        {
+          "children": [],
+          "description": "Zero-dependency refinement types for Java 8+ with type-safe wrappers covering numerics, strings, and collections.",
+          "title": "java-refined",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-01T08:50:02Z",
+            "owner": "JunggiKim",
+            "repo": "java-refined",
+            "stars": 2
           }
         },
         {
@@ -6923,12 +7182,25 @@
         },
         {
           "children": [],
+          "description": "Type-safe, AST-based Regex Builder focused on readability and ReDoS prevention.",
+          "title": "Sift",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-10T08:12:43Z",
+            "owner": "Mirkoddd",
+            "repo": "Sift",
+            "stars": 79
+          }
+        },
+        {
+          "children": [],
           "description": "Port of Underscore.js functions.",
           "title": "Underscore-java",
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-07T07:26:04Z",
+            "last_commit": "2026-04-13T03:02:36Z",
             "owner": "javadev",
             "repo": "underscore-java",
             "stars": 550
@@ -6950,7 +7222,7 @@
             "last_commit": "2024-03-14T21:29:06Z",
             "owner": "shyiko",
             "repo": "jabba",
-            "stars": 3391
+            "stars": 3393
           }
         },
         {
@@ -6976,7 +7248,7 @@
             "last_commit": "2026-03-31T20:39:19Z",
             "owner": "sdkman",
             "repo": "sdkman-cli",
-            "stars": 6724
+            "stars": 6726
           }
         }
       ],
@@ -7023,7 +7295,7 @@
             "last_commit": "2025-12-20T14:01:57Z",
             "owner": "code4craft",
             "repo": "webmagic",
-            "stars": 11688
+            "stars": 11687
           }
         }
       ],
@@ -7057,7 +7329,7 @@
             "last_commit": "2025-12-15T23:30:46Z",
             "owner": "lets-blade",
             "repo": "blade",
-            "stars": 5883
+            "stars": 5884
           }
         },
         {
@@ -7112,10 +7384,23 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-11T04:47:58Z",
+            "last_commit": "2026-04-12T05:03:08Z",
             "owner": "yegor256",
             "repo": "takes",
             "stars": 873
+          }
+        },
+        {
+          "children": [],
+          "description": "Lightweight, pluggable framework for building Java applications with CLI, HTTP, and modular extension support.",
+          "title": "tinystruct",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-07T13:45:26Z",
+            "owner": "tinystruct",
+            "repo": "tinystruct",
+            "stars": 330
           }
         },
         {
@@ -7135,10 +7420,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-11T16:40:43Z",
+            "last_commit": "2026-04-12T13:15:29Z",
             "owner": "erupts",
             "repo": "erupt",
-            "stars": 2702
+            "stars": 2703
           }
         }
       ],
@@ -7284,7 +7569,7 @@
             "last_commit": "2025-08-29T12:15:20Z",
             "owner": "eminyagiz42",
             "repo": "awesome-sap-commerce",
-            "stars": 50
+            "stars": 51
           }
         },
         {
@@ -7354,7 +7639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-12T04:46:18.494Z",
+    "last_updated": "2026-04-13T04:57:50.502Z",
     "original_repository": "akullpp/awesome-java",
     "source_repository": "v1nvn/enhansome-java",
     "source_repository_description": null,
