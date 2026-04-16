@@ -201,7 +201,7 @@
             "last_commit": "2025-02-14T15:47:26Z",
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8189
+            "stars": 8188
           }
         },
         {
@@ -216,7 +216,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-04-14T12:33:09Z",
+            "last_commit": "2026-04-15T21:42:35Z",
             "owner": "nextcloud",
             "repo": "nextcloudpi",
             "stars": 2891
@@ -396,6 +396,11 @@
         },
         {
           "children": [],
+          "description": "An open-source imaging tool that makes installing Armbian OS effortless.",
+          "title": "Armbian Imager"
+        },
+        {
+          "children": [],
           "description": "Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.",
           "title": "Atlas toolkit",
           "repo_info": {
@@ -502,6 +507,11 @@
         },
         {
           "children": [],
+          "description": "GUI based utility to download and install OSMC on to a variety of platforms.",
+          "title": "OSMC Installer"
+        },
+        {
+          "children": [],
           "description": "a CPU and GPU temperature exporter for Prometheus consumption.",
           "title": "Pi Temperature Exporter",
           "repo_info": {
@@ -523,8 +533,13 @@
             "last_commit": "2026-03-17T18:45:42Z",
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3158
+            "stars": 3159
           }
+        },
+        {
+          "children": [],
+          "description": "Interactive tool to estimate when your SD card will fail based on P/E cycles and Write Amplification Factor (WAF).",
+          "title": "Raspberry Pi SD Card Lifespan Calculator"
         },
         {
           "children": [],
@@ -575,7 +590,7 @@
             "last_commit": "2026-03-16T09:22:13Z",
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 3983
+            "stars": 3984
           }
         },
         {
@@ -616,10 +631,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-04-15T01:08:43Z",
+            "last_commit": "2026-04-16T00:58:09Z",
             "owner": "Botspot",
             "repo": "pi-apps",
-            "stars": 2707
+            "stars": 2705
           }
         },
         {
@@ -637,7 +652,7 @@
             "last_commit": "2025-08-23T12:24:16Z",
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9028
+            "stars": 9031
           }
         },
         {
@@ -650,7 +665,7 @@
             "last_commit": "2025-12-26T21:15:24Z",
             "owner": "billz",
             "repo": "raspap-webgui",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -790,10 +805,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-04-15T02:33:39Z",
+            "last_commit": "2026-04-16T02:09:30Z",
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 33546
+            "stars": 33559
           }
         },
         {
@@ -826,7 +841,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-02T09:59:12Z",
+            "last_commit": "2026-04-15T19:04:34Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
             "stars": 45
@@ -922,7 +937,7 @@
             "last_commit": "2026-04-14T09:44:04Z",
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1245
+            "stars": 1246
           }
         },
         {
@@ -1069,10 +1084,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-14T21:12:46Z",
+            "last_commit": "2026-04-15T18:00:21Z",
             "owner": "hookprobe",
             "repo": "hookprobe",
-            "stars": 35
+            "stars": 37
           }
         },
         {
@@ -1147,7 +1162,7 @@
             "last_commit": "2024-11-18T03:06:30Z",
             "owner": "lomorage",
             "repo": "homepage",
-            "stars": 237
+            "stars": 236
           }
         },
         {
@@ -1299,7 +1314,7 @@
             "last_commit": "2026-04-06T21:09:39Z",
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 9927
+            "stars": 9932
           }
         },
         {
@@ -1373,6 +1388,32 @@
           "children": [],
           "description": "Makeshift Amazon Dash orders using a Raspberry PI + EAN scanner.",
           "title": "PiScan"
+        },
+        {
+          "children": [],
+          "description": "WiFi voucher display system with weather integration and PiJuice battery management.",
+          "title": "PiSpot-Show",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T23:29:15Z",
+            "owner": "GeiserX",
+            "repo": "PiSpot-Show",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Wrist-wearable Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand via button press.",
+          "title": "PiSpot Watch",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T23:29:17Z",
+            "owner": "GeiserX",
+            "repo": "PiSpot-Watch",
+            "stars": 1
+          }
         },
         {
           "children": [],
@@ -1654,6 +1695,19 @@
         },
         {
           "children": [],
+          "description": "Self-hosted recursive DNS server using Pi-hole, Unbound and Docker on Raspberry Pi 4.",
+          "title": "Ultimate DNS Shield",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-02T10:17:04Z",
+            "owner": "cherifon",
+            "repo": "Ultimate-DNS-Shield",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
           "description": "A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.",
           "title": "USB Proxy",
           "repo_info": {
@@ -1779,6 +1833,11 @@
             "repo": "moonlight-embedded",
             "stars": 1626
           }
+        },
+        {
+          "children": [],
+          "description": "Comprehensive guide on upgrading RPi 5 with NVMe SSDs, including benchmarks and hardware compatibility tests (2026 update).",
+          "title": "Raspberry Pi 5 SSD Boot Guide"
         },
         {
           "children": [],
@@ -1908,7 +1967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-15T04:40:08.981Z",
+    "last_updated": "2026-04-16T04:46:28.831Z",
     "original_repository": "thibmaek/awesome-raspberry-pi",
     "source_repository": "v1nvn/enhansome-raspberry-pi",
     "source_repository_description": null,
