@@ -5,18 +5,13 @@
       "items": [
         {
           "children": [],
-          "description": "Magento 2's default demo theme (extends Magento/blank). The name also refers to the whole Luma stack: XML layout + blocks/containers + PHTML templates, enriched with LESS-compiled CSS and RequireJS/KnockoutJS/jQuery.",
-          "title": "Magento Luma"
-        },
-        {
-          "children": [],
           "description": "Adobe's headless React frontend. GraphQL client; offers Venia theme, Peregrine hooks, Buildpack (Webpack) and UPWARD (SSR/image middleware).",
           "title": "Adobe PWA Studio"
         },
         {
           "children": [],
-          "description": "Luma replacement using TailwindCSS and AlpineJS. Commercial license. Active compatibility-module ecosystem.",
-          "title": "Hyvä"
+          "description": "Magento 2's default demo theme (extends Magento/blank). The name also refers to the whole Luma stack: XML layout + blocks/containers + PHTML templates, enriched with LESS-compiled CSS and RequireJS/KnockoutJS/jQuery.",
+          "title": "Magento Luma"
         },
         {
           "children": [],
@@ -28,7 +23,7 @@
             "last_commit": "2026-04-15T13:37:28Z",
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10927
+            "stars": 10926
           }
         },
         {
@@ -53,6 +48,11 @@
           "children": [],
           "description": "French PWA front-end solution for Magento.",
           "title": "Front-Commerce"
+        },
+        {
+          "children": [],
+          "description": "Luma replacement using TailwindCSS and AlpineJS. Commercial license. Active compatibility-module ecosystem.",
+          "title": "Hyvä"
         }
       ],
       "title": "Front-ends"
@@ -62,103 +62,41 @@
       "items": [
         {
           "children": [],
+          "description": "PHP quality checks with Magento 2 presets.",
+          "title": "PhpInsights",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-18T03:09:01Z",
+            "owner": "nunomaduro",
+            "repo": "phpinsights",
+            "stars": 5591
+          }
+        },
+        {
+          "children": [],
+          "description": "Open source tool for launching local web development environments in minutes. Supports PHP, Node.js and Python.",
+          "title": "DDEV",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-20T23:10:50Z",
+            "owner": "ddev",
+            "repo": "ddev",
+            "stars": 3569
+          }
+        },
+        {
+          "children": [],
           "description": "The CLI Swiss Army Knife for Magento 2.",
           "title": "n98-magerun2",
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-04-18T15:39:43Z",
+            "last_commit": "2026-04-20T07:32:49Z",
             "owner": "netz98",
             "repo": "n98-magerun2",
             "stars": 925
-          }
-        },
-        {
-          "children": [],
-          "description": "Magento 2 extension that brings possibility to retry RabbitMQ failed messages.",
-          "title": "RabbitMQ Retry Mechanism",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-10-15T09:06:26Z",
-            "owner": "run-as-root",
-            "repo": "magento2-message-queue-retry",
-            "stars": 64
-          }
-        },
-        {
-          "children": [],
-          "description": "Magento 2 CLI automatic theme builder (Hyvä ready).",
-          "title": "MageForge",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-04-18T07:21:24Z",
-            "owner": "OpenForgeProject",
-            "repo": "mageforge",
-            "stars": 18
-          }
-        },
-        {
-          "children": [],
-          "description": "Generate tablerates online.",
-          "title": "Tablerates Generator"
-        },
-        {
-          "children": [],
-          "description": "Online module creator.",
-          "title": "Mage2Gen"
-        },
-        {
-          "children": [],
-          "description": "Chrome extension for Magento 2 development by MageSpecialist.",
-          "title": "Mage Chrome Toolbar",
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-04-22T16:30:32Z",
-            "owner": "magespecialist",
-            "repo": "mage-chrome-toolbar",
-            "stars": 337
-          }
-        },
-        {
-          "children": [],
-          "description": "Developer toolbar for Magento 2.",
-          "title": "MageSpecialist DevTools for Magento 2",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-06-20T07:52:12Z",
-            "owner": "magespecialist",
-            "repo": "m2-MSP_DevTools",
-            "stars": 222
-          }
-        },
-        {
-          "children": [],
-          "description": "MariaDB, PHP, Redis, ElasticSearch in one Dockerfile for fast demo/development environments.",
-          "title": "magento2docker",
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-03-31T12:04:18Z",
-            "owner": "aliuosio",
-            "repo": "magento2docker",
-            "stars": 3
-          }
-        },
-        {
-          "children": [],
-          "description": "Mark Shust's Docker configuration for Magento.",
-          "title": "markshust/docker-magento",
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-03-25T12:29:03Z",
-            "owner": "markshust",
-            "repo": "docker-magento",
-            "stars": 2849
           }
         },
         {
@@ -171,33 +109,7 @@
             "last_commit": "2026-04-14T14:02:40Z",
             "owner": "wardenenv",
             "repo": "warden",
-            "stars": 462
-          }
-        },
-        {
-          "children": [],
-          "description": "Open source tool for launching local web development environments in minutes. Supports PHP, Node.js and Python.",
-          "title": "DDEV",
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-18T18:16:24Z",
-            "owner": "ddev",
-            "repo": "ddev",
-            "stars": 3567
-          }
-        },
-        {
-          "children": [],
-          "description": "Helper script to aid upgrading Magento 2 websites by detecting overrides.",
-          "title": "AmpersandHQ/ampersand-magento2-upgrade-patch-helper",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-11-11T08:33:25Z",
-            "owner": "idhlagency",
-            "repo": "ampersand-magento2-upgrade-patch-helper",
-            "stars": 333
+            "stars": 461
           }
         },
         {
@@ -215,15 +127,15 @@
         },
         {
           "children": [],
-          "description": "PHP quality checks with Magento 2 presets.",
-          "title": "PhpInsights",
+          "description": "Magento 2 module that finds potential URL-related problems in your catalog data.",
+          "title": "Magento 2 Url Data Integrity Checker",
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-04-18T03:09:01Z",
-            "owner": "nunomaduro",
-            "repo": "phpinsights",
-            "stars": 5591
+            "last_commit": "2026-04-14T16:28:58Z",
+            "owner": "baldwin-agency",
+            "repo": "magento2-module-url-data-integrity-checker",
+            "stars": 281
           }
         },
         {
@@ -241,24 +153,6 @@
         },
         {
           "children": [],
-          "description": "Chrome extension to create copy-pastable composer patch definitions for vaimo/composer-patches.",
-          "title": "Magento 2 Composer patches helper"
-        },
-        {
-          "children": [],
-          "description": "Migrate a Magento 2 Commerce database to Magento 2 Open Source.",
-          "title": "Migrate DB Magento 2 Commerce to Magento 2 Open-Source",
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-11-17T18:04:36Z",
-            "owner": "opengento",
-            "repo": "magento2-downgrade-ee-ce",
-            "stars": 89
-          }
-        },
-        {
-          "children": [],
           "description": "Database synchronizer for Magento 2 (and WordPress), based on Magerun2. Keeps development, staging and production in sync.",
           "title": "Magento 2 Database Synchronizer",
           "repo_info": {
@@ -268,32 +162,6 @@
             "owner": "jellesiderius",
             "repo": "mage-db-sync",
             "stars": 82
-          }
-        },
-        {
-          "children": [],
-          "description": "Magento 2 module that finds potential URL-related problems in your catalog data.",
-          "title": "Magento 2 Url Data Integrity Checker",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-04-14T16:28:58Z",
-            "owner": "baldwin-agency",
-            "repo": "magento2-module-url-data-integrity-checker",
-            "stars": 281
-          }
-        },
-        {
-          "children": [],
-          "description": "Local web UI to view and create modules, plugins, configs, observers, commands, crontabs directly in a Magento 2 codebase.",
-          "title": "Mage Wizard",
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-05-17T08:57:25Z",
-            "owner": "ClickAndMortar",
-            "repo": "mage-wizard",
-            "stars": 20
           }
         },
         {
@@ -311,8 +179,140 @@
         },
         {
           "children": [],
+          "description": "Magento 2 CLI automatic theme builder (Hyvä ready).",
+          "title": "MageForge",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-18T07:21:24Z",
+            "owner": "OpenForgeProject",
+            "repo": "mageforge",
+            "stars": 18
+          }
+        },
+        {
+          "children": [],
+          "description": "Mark Shust's Docker configuration for Magento.",
+          "title": "markshust/docker-magento",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-25T12:29:03Z",
+            "owner": "markshust",
+            "repo": "docker-magento",
+            "stars": 2850
+          }
+        },
+        {
+          "children": [],
+          "description": "Chrome extension for Magento 2 development by MageSpecialist.",
+          "title": "Mage Chrome Toolbar",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-22T16:30:32Z",
+            "owner": "magespecialist",
+            "repo": "mage-chrome-toolbar",
+            "stars": 337
+          }
+        },
+        {
+          "children": [],
+          "description": "Helper script to aid upgrading Magento 2 websites by detecting overrides.",
+          "title": "AmpersandHQ/ampersand-magento2-upgrade-patch-helper",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-11-11T08:33:25Z",
+            "owner": "idhlagency",
+            "repo": "ampersand-magento2-upgrade-patch-helper",
+            "stars": 333
+          }
+        },
+        {
+          "children": [],
+          "description": "Developer toolbar for Magento 2.",
+          "title": "MageSpecialist DevTools for Magento 2",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-06-20T07:52:12Z",
+            "owner": "magespecialist",
+            "repo": "m2-MSP_DevTools",
+            "stars": 222
+          }
+        },
+        {
+          "children": [],
+          "description": "Migrate a Magento 2 Commerce database to Magento 2 Open Source.",
+          "title": "Migrate DB Magento 2 Commerce to Magento 2 Open-Source",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-17T18:04:36Z",
+            "owner": "opengento",
+            "repo": "magento2-downgrade-ee-ce",
+            "stars": 89
+          }
+        },
+        {
+          "children": [],
+          "description": "Magento 2 extension that brings possibility to retry RabbitMQ failed messages.",
+          "title": "RabbitMQ Retry Mechanism",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-15T09:06:26Z",
+            "owner": "run-as-root",
+            "repo": "magento2-message-queue-retry",
+            "stars": 64
+          }
+        },
+        {
+          "children": [],
+          "description": "Local web UI to view and create modules, plugins, configs, observers, commands, crontabs directly in a Magento 2 codebase.",
+          "title": "Mage Wizard",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-17T08:57:25Z",
+            "owner": "ClickAndMortar",
+            "repo": "mage-wizard",
+            "stars": 20
+          }
+        },
+        {
+          "children": [],
+          "description": "MariaDB, PHP, Redis, ElasticSearch in one Dockerfile for fast demo/development environments.",
+          "title": "magento2docker",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-03-31T12:04:18Z",
+            "owner": "aliuosio",
+            "repo": "magento2docker",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "Online module creator.",
+          "title": "Mage2Gen"
+        },
+        {
+          "children": [],
+          "description": "Chrome extension to create copy-pastable composer patch definitions for vaimo/composer-patches.",
+          "title": "Magento 2 Composer patches helper"
+        },
+        {
+          "children": [],
           "description": "VS Code extension to view, watch and manage Magento log files and reports directly in your workspace.",
           "title": "Magento Log Viewer (VS Code extension)"
+        },
+        {
+          "children": [],
+          "description": "Generate tablerates online.",
+          "title": "Tablerates Generator"
         }
       ],
       "title": "Tools"
@@ -327,45 +327,6 @@
       "items": [
         {
           "children": [],
-          "description": "A community-driven Cypress testing suite for Magento 2.",
-          "title": "Cypress Testing Suite",
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-03-28T10:51:50Z",
-            "owner": "elgentos",
-            "repo": "magento2-cypress-testing-suite",
-            "stars": 172
-          }
-        },
-        {
-          "children": [],
-          "description": "CLI-based config management.",
-          "title": "Config ImportExport",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-08-28T23:02:13Z",
-            "owner": "semaio",
-            "repo": "Magento2-ConfigImportExport",
-            "stars": 164
-          }
-        },
-        {
-          "children": [],
-          "description": "PHP Exceptions for Cool Kids in Magento 2.",
-          "title": "Whoops Exceptions",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-01-28T05:54:09Z",
-            "owner": "yireo",
-            "repo": "Yireo_Whoops",
-            "stars": 102
-          }
-        },
-        {
-          "children": [],
           "description": "A faster drop-in replacement for bin/magento cache:clean with file watcher by Vinai Kopp.",
           "title": "Magento Cache Clean",
           "repo_info": {
@@ -375,6 +336,71 @@
             "owner": "mage2tv",
             "repo": "magento-cache-clean",
             "stars": 544
+          }
+        },
+        {
+          "children": [],
+          "description": "A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyvä Checkout.",
+          "title": "Magewire PHP",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-20T09:28:27Z",
+            "owner": "magewirephp",
+            "repo": "magewire",
+            "stars": 256
+          }
+        },
+        {
+          "children": [],
+          "description": "Enables configurable CORS headers on the Magento GraphQL API.",
+          "title": "graycoreio/magento2-cors",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-27T19:06:23Z",
+            "owner": "graycoreio",
+            "repo": "magento2-cors",
+            "stars": 100
+          }
+        },
+        {
+          "children": [],
+          "description": "Prometheus Exporter for common Magento data.",
+          "title": "Magento 2 Prometheus Exporter",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-20T13:43:45Z",
+            "owner": "run-as-root",
+            "repo": "magento2-prometheus-exporter",
+            "stars": 68
+          }
+        },
+        {
+          "children": [],
+          "description": "Technical Magento 2 module providing simple development pattern, configurations and optimizations to make REST API requests toward external services based on Guzzle Client.",
+          "title": "Rest Client",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-04T14:37:36Z",
+            "owner": "zepgram",
+            "repo": "module-rest",
+            "stars": 12
+          }
+        },
+        {
+          "children": [],
+          "description": "A library for building AJAX-driven form components with ease. Used by the Yireo Loki Checkout.",
+          "title": "Yireo LokiComponents",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-20T14:56:02Z",
+            "owner": "LokiExtensions",
+            "repo": "Loki_Components",
+            "stars": 9
           }
         },
         {
@@ -405,15 +431,15 @@
         },
         {
           "children": [],
-          "description": "Displays additional information in the Store Configuration by Andreas von Studnitz.",
-          "title": "Scope Hints",
+          "description": "Central repository for third-party Magento extensions with known security issues.",
+          "title": "MageVulnDB",
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2025-05-05T07:28:52Z",
-            "owner": "avstudnitz",
-            "repo": "AvS_ScopeHint2",
-            "stars": 167
+            "last_commit": "2026-01-23T15:07:15Z",
+            "owner": "sansecio",
+            "repo": "magevulndb",
+            "stars": 211
           }
         },
         {
@@ -431,54 +457,41 @@
         },
         {
           "children": [],
-          "description": "Magento 2 module to automatically flush the cache.",
-          "title": "Auto Cache Flush",
+          "description": "A community-driven Cypress testing suite for Magento 2.",
+          "title": "Cypress Testing Suite",
           "repo_info": {
             "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-09-27T10:29:25Z",
-            "owner": "yireo",
-            "repo": "Yireo_AutoFlushCache",
-            "stars": 28
+            "language": "JavaScript",
+            "last_commit": "2024-03-28T10:51:50Z",
+            "owner": "elgentos",
+            "repo": "magento2-cypress-testing-suite",
+            "stars": 172
           }
         },
         {
           "children": [],
-          "description": "Central repository for third-party Magento extensions with known security issues.",
-          "title": "MageVulnDB",
+          "description": "Displays additional information in the Store Configuration by Andreas von Studnitz.",
+          "title": "Scope Hints",
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-01-23T15:07:15Z",
-            "owner": "sansecio",
-            "repo": "magevulndb",
-            "stars": 211
+            "last_commit": "2025-05-05T07:28:52Z",
+            "owner": "avstudnitz",
+            "repo": "AvS_ScopeHint2",
+            "stars": 167
           }
         },
         {
           "children": [],
-          "description": "Prometheus Exporter for common Magento data.",
-          "title": "Magento 2 Prometheus Exporter",
+          "description": "CLI-based config management.",
+          "title": "Config ImportExport",
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-04-19T22:17:08Z",
-            "owner": "run-as-root",
-            "repo": "magento2-prometheus-exporter",
-            "stars": 68
-          }
-        },
-        {
-          "children": [],
-          "description": "Enables configurable CORS headers on the Magento GraphQL API.",
-          "title": "graycoreio/magento2-cors",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-02-27T19:06:23Z",
-            "owner": "graycoreio",
-            "repo": "magento2-cors",
-            "stars": 100
+            "last_commit": "2024-08-28T23:02:13Z",
+            "owner": "semaio",
+            "repo": "Magento2-ConfigImportExport",
+            "stars": 164
           }
         },
         {
@@ -496,6 +509,32 @@
         },
         {
           "children": [],
+          "description": "PHP Exceptions for Cool Kids in Magento 2.",
+          "title": "Whoops Exceptions",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-28T05:54:09Z",
+            "owner": "yireo",
+            "repo": "Yireo_Whoops",
+            "stars": 102
+          }
+        },
+        {
+          "children": [],
+          "description": "Magento 2 module to automatically flush the cache.",
+          "title": "Auto Cache Flush",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-09-27T10:29:25Z",
+            "owner": "yireo",
+            "repo": "Yireo_AutoFlushCache",
+            "stars": 28
+          }
+        },
+        {
+          "children": [],
           "description": "Magento 2 Environment Variable Component implementing Symfony Dotenv.",
           "title": "Dot Env",
           "repo_info": {
@@ -509,19 +548,6 @@
         },
         {
           "children": [],
-          "description": "Technical Magento 2 module providing simple development pattern, configurations and optimizations to make REST API requests toward external services based on Guzzle Client.",
-          "title": "Rest Client",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-03-04T14:37:36Z",
-            "owner": "zepgram",
-            "repo": "module-rest",
-            "stars": 12
-          }
-        },
-        {
-          "children": [],
           "description": "A more up-to-date version of a Magento 2 Model & CRUD Generator by Michiel Gerritsen.",
           "title": "Magento 2 Model Generator / CRUD Generator"
         },
@@ -529,32 +555,6 @@
           "children": [],
           "description": "A list with the most common errors you encounter during development.",
           "title": "Simon's Troubleshooting Guide"
-        },
-        {
-          "children": [],
-          "description": "A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyvä Checkout.",
-          "title": "Magewire PHP",
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-14T13:08:03Z",
-            "owner": "magewirephp",
-            "repo": "magewire",
-            "stars": 256
-          }
-        },
-        {
-          "children": [],
-          "description": "A library for building AJAX-driven form components with ease. Used by the Yireo Loki Checkout.",
-          "title": "Yireo LokiComponents",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-04-19T18:27:57Z",
-            "owner": "LokiExtensions",
-            "repo": "Loki_Components",
-            "stars": 9
-          }
         }
       ],
       "title": "Development Utilities"
@@ -572,7 +572,7 @@
             "last_commit": "2026-04-17T08:23:44Z",
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11023
+            "stars": 11024
           }
         },
         {
@@ -586,6 +586,19 @@
             "owner": "extdn",
             "repo": "github-actions-m2",
             "stars": 140
+          }
+        },
+        {
+          "children": [],
+          "description": "Static analysis CLI tool for Magento 2 codebases - detects anti-patterns, code quality issues, and architectural problems. SARIF output for CI/CD integration.",
+          "title": "easyaudit-cli",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-17T16:05:45Z",
+            "owner": "crealoz",
+            "repo": "easyaudit-cli",
+            "stars": 14
           }
         }
       ],
@@ -609,8 +622,16 @@
         },
         {
           "children": [],
-          "description": "Danish Language Package.",
-          "title": "da_DK"
+          "description": "Polish Language Package.",
+          "title": "pl_PL",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-10-15T14:06:22Z",
+            "owner": "SnowdogApps",
+            "repo": "magento2-pl_pl",
+            "stars": 17
+          }
         },
         {
           "children": [],
@@ -640,16 +661,8 @@
         },
         {
           "children": [],
-          "description": "Polish Language Package.",
-          "title": "pl_PL",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-10-15T14:06:22Z",
-            "owner": "SnowdogApps",
-            "repo": "magento2-pl_pl",
-            "stars": 17
-          }
+          "description": "Danish Language Package.",
+          "title": "da_DK"
         },
         {
           "children": [],
@@ -677,6 +690,19 @@
       "items": [
         {
           "children": [],
+          "description": "Elastic Suite Integration.",
+          "title": "Elastic Suite Integration",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-20T14:04:06Z",
+            "owner": "Smile-SA",
+            "repo": "elasticsuite",
+            "stars": 805
+          }
+        },
+        {
+          "children": [],
           "description": "Algolia Search (SaaS) Integration.",
           "title": "Algolia Search Integration",
           "repo_info": {
@@ -686,19 +712,6 @@
             "owner": "algolia",
             "repo": "algoliasearch-magento-2",
             "stars": 188
-          }
-        },
-        {
-          "children": [],
-          "description": "Elastic Suite Integration.",
-          "title": "Elastic Suite Integration",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-04-17T12:43:18Z",
-            "owner": "Smile-SA",
-            "repo": "elasticsuite",
-            "stars": 805
           }
         },
         {
@@ -735,19 +748,6 @@
       "items": [
         {
           "children": [],
-          "description": "Simple but well-working Blog Extension.",
-          "title": "Mageplaza Blog Extension",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-04-16T10:43:55Z",
-            "owner": "mageplaza",
-            "repo": "magento-2-blog",
-            "stars": 122
-          }
-        },
-        {
-          "children": [],
           "description": "Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support.",
           "title": "Magento 2 Blog Extension by Magefan",
           "repo_info": {
@@ -761,6 +761,19 @@
         },
         {
           "children": [],
+          "description": "Simple but well-working Blog Extension.",
+          "title": "Mageplaza Blog Extension",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-16T10:43:55Z",
+            "owner": "mageplaza",
+            "repo": "magento-2-blog",
+            "stars": 122
+          }
+        },
+        {
+          "children": [],
           "description": "Magento 2 GDPR module to help be GDPR compliant.",
           "title": "Opengento GDPR",
           "repo_info": {
@@ -770,6 +783,19 @@
             "owner": "opengento",
             "repo": "magento2-gdpr",
             "stars": 143
+          }
+        },
+        {
+          "children": [],
+          "description": "Native Magento Page Builder support for CMS Widgets",
+          "title": "module-page-builder-widget",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-19T20:46:05Z",
+            "owner": "mage-os",
+            "repo": "module-page-builder-widget",
+            "stars": 29
           }
         }
       ],
@@ -812,6 +838,71 @@
       "items": [
         {
           "children": [],
+          "description": "Provides a powerful menu editor to replace category-based menus in Magento 2.",
+          "title": "Menu Editor",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-14T15:53:37Z",
+            "owner": "SnowdogApps",
+            "repo": "magento2-menu",
+            "stars": 327
+          }
+        },
+        {
+          "children": [],
+          "description": "Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon SES, Microsoft Office 365 and other SMTP servers.",
+          "title": "Custom SMTP",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-12T19:35:14Z",
+            "owner": "magepal",
+            "repo": "magento2-gmail-smtp-app",
+            "stars": 327
+          }
+        },
+        {
+          "children": [],
+          "description": "Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.",
+          "title": "Disable Stock Reservation",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-21T08:11:55Z",
+            "owner": "idhlagency",
+            "repo": "magento2-disable-stock-reservation",
+            "stars": 231
+          }
+        },
+        {
+          "children": [],
+          "description": "Application monitoring and error tracking software for Magento 2.",
+          "title": "Sentry.io",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-17T10:48:30Z",
+            "owner": "justbetter",
+            "repo": "magento2-sentry",
+            "stars": 185
+          }
+        },
+        {
+          "children": [],
+          "description": "Quickly and easily convert existing guest checkout customers to registered customers.",
+          "title": "Guest to Customer",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-17T21:32:19Z",
+            "owner": "magepal",
+            "repo": "magento2-guest-to-customer",
+            "stars": 68
+          }
+        },
+        {
+          "children": [],
           "description": "Forces customers to log in before accessing certain pages.",
           "title": "Customer Force Login",
           "repo_info": {
@@ -825,28 +916,15 @@
         },
         {
           "children": [],
-          "description": "Extension to quickly test Checkout changes.",
-          "title": "Checkout Tester",
+          "description": "Merges 3rd-party extensions into a single menu.",
+          "title": "Clean Admin Menu",
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2024-10-24T12:04:51Z",
-            "owner": "yireo",
-            "repo": "Yireo_CheckoutTester2",
-            "stars": 93
-          }
-        },
-        {
-          "children": [],
-          "description": "Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.",
-          "title": "Preview Checkout Success Page",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-01-14T18:04:31Z",
-            "owner": "magepal",
-            "repo": "magento2-preview-checkout-success-page",
-            "stars": 76
+            "last_commit": "2025-04-16T16:51:08Z",
+            "owner": "redchamps",
+            "repo": "clean-admin-menu",
+            "stars": 164
           }
         },
         {
@@ -877,15 +955,28 @@
         },
         {
           "children": [],
-          "description": "Provides a powerful menu editor to replace category-based menus in Magento 2.",
-          "title": "Menu Editor",
+          "description": "Extension to quickly test Checkout changes.",
+          "title": "Checkout Tester",
           "repo_info": {
             "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-14T15:53:37Z",
-            "owner": "SnowdogApps",
-            "repo": "magento2-menu",
-            "stars": 327
+            "language": "PHP",
+            "last_commit": "2024-10-24T12:04:51Z",
+            "owner": "yireo",
+            "repo": "Yireo_CheckoutTester2",
+            "stars": 93
+          }
+        },
+        {
+          "children": [],
+          "description": "Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.",
+          "title": "Preview Checkout Success Page",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-14T18:04:31Z",
+            "owner": "magepal",
+            "repo": "magento2-preview-checkout-success-page",
+            "stars": 76
           }
         },
         {
@@ -903,45 +994,6 @@
         },
         {
           "children": [],
-          "description": "Application monitoring and error tracking software for Magento 2.",
-          "title": "Sentry.io",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-04-17T10:48:30Z",
-            "owner": "justbetter",
-            "repo": "magento2-sentry",
-            "stars": 185
-          }
-        },
-        {
-          "children": [],
-          "description": "Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon SES, Microsoft Office 365 and other SMTP servers.",
-          "title": "Custom SMTP",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-03-12T19:35:14Z",
-            "owner": "magepal",
-            "repo": "magento2-gmail-smtp-app",
-            "stars": 327
-          }
-        },
-        {
-          "children": [],
-          "description": "Quickly and easily convert existing guest checkout customers to registered customers.",
-          "title": "Guest to Customer",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-02-17T21:32:19Z",
-            "owner": "magepal",
-            "repo": "magento2-guest-to-customer",
-            "stars": 68
-          }
-        },
-        {
-          "children": [],
           "description": "Allows admin users to reset their own UI bookmarks such as filter state, column positions and applied sorting (e.g. Sales > Orders).",
           "title": "Reset UI Bookmarks",
           "repo_info": {
@@ -951,32 +1003,6 @@
             "owner": "magenizr",
             "repo": "Magenizr_ResetUiBookmarks",
             "stars": 38
-          }
-        },
-        {
-          "children": [],
-          "description": "Merges 3rd-party extensions into a single menu.",
-          "title": "Clean Admin Menu",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-04-16T16:51:08Z",
-            "owner": "redchamps",
-            "repo": "clean-admin-menu",
-            "stars": 164
-          }
-        },
-        {
-          "children": [],
-          "description": "Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.",
-          "title": "Disable Stock Reservation",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-01-21T08:11:55Z",
-            "owner": "idhlagency",
-            "repo": "magento2-disable-stock-reservation",
-            "stars": 231
           }
         },
         {
@@ -991,6 +1017,32 @@
             "repo": "ElNino_ProductLinksNavigator",
             "stars": 17
           }
+        },
+        {
+          "children": [],
+          "description": "This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.",
+          "title": "magento2-hyva-admin",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-03-17T16:08:29Z",
+            "owner": "hyva-themes",
+            "repo": "magento2-hyva-admin",
+            "stars": 175
+          }
+        },
+        {
+          "children": [],
+          "description": "M137 Admin Theme for Magento/Mage-OS",
+          "title": "theme-adminhtml-m137",
+          "repo_info": {
+            "archived": false,
+            "language": "Less",
+            "last_commit": "2026-02-25T16:15:21Z",
+            "owner": "mage-os",
+            "repo": "theme-adminhtml-m137",
+            "stars": 36
+          }
         }
       ],
       "title": "Adminhtml / Backend"
@@ -998,19 +1050,6 @@
     {
       "description": "",
       "items": [
-        {
-          "children": [],
-          "description": "Magento 2 Fastly integration.",
-          "title": "Fastly Extension",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-04-07T12:51:43Z",
-            "owner": "fastly",
-            "repo": "fastly-magento2",
-            "stars": 156
-          }
-        },
         {
           "children": [],
           "description": "Cron Job Manager for Magento 2.",
@@ -1026,15 +1065,28 @@
         },
         {
           "children": [],
-          "description": "Magento 2 Ngrok Integration.",
-          "title": "Magento 2 Ngrok",
+          "description": "Magento 2 Fastly integration.",
+          "title": "Fastly Extension",
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2023-05-29T15:05:00Z",
-            "owner": "shkoliar",
-            "repo": "magento-ngrok",
-            "stars": 48
+            "last_commit": "2026-04-07T12:51:43Z",
+            "owner": "fastly",
+            "repo": "fastly-magento2",
+            "stars": 156
+          }
+        },
+        {
+          "children": [],
+          "description": "New interceptors approach for Magento 2.",
+          "title": "Interceptor Optimization",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-15T06:22:09Z",
+            "owner": "creatuity",
+            "repo": "magento2-interceptors",
+            "stars": 136
           }
         },
         {
@@ -1052,19 +1104,103 @@
         },
         {
           "children": [],
-          "description": "New interceptors approach for Magento 2.",
-          "title": "Interceptor Optimization",
+          "description": "Magento 2 Ngrok Integration.",
+          "title": "Magento 2 Ngrok",
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2025-04-15T06:22:09Z",
-            "owner": "creatuity",
-            "repo": "magento2-interceptors",
-            "stars": 136
+            "last_commit": "2023-05-29T15:05:00Z",
+            "owner": "shkoliar",
+            "repo": "magento-ngrok",
+            "stars": 48
+          }
+        },
+        {
+          "children": [],
+          "description": "A faster drop in replacement for bin/magento cache:clean with file watcher",
+          "title": "magento-cache-clean",
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-10-28T14:40:36Z",
+            "owner": "mage-os",
+            "repo": "magento-cache-clean",
+            "stars": 48
+          }
+        },
+        {
+          "children": [],
+          "description": "bfcache, speculative loading, and view transitions for Magento",
+          "title": "module-theme-optimization",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-19T20:48:04Z",
+            "owner": "mage-os",
+            "repo": "module-theme-optimization",
+            "stars": 41
           }
         }
       ],
       "title": "Infrastructure"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Magento 2.3+ PWA theme based on React and Redux.",
+          "title": "ScandiPWA Theme",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-15T13:53:56Z",
+            "owner": "scandipwa",
+            "repo": "scandipwa",
+            "stars": 552
+          }
+        },
+        {
+          "children": [],
+          "description": "A Magento theme built with Tailwind",
+          "title": "magento2-default-theme",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-03-29T19:17:21Z",
+            "owner": "hyva-themes",
+            "repo": "magento2-default-theme",
+            "stars": 75
+          }
+        },
+        {
+          "children": [],
+          "description": "A strict CSP compatible Magento theme built with Tailwind and Alpine.js",
+          "title": "magento2-default-theme-csp",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-09T16:42:11Z",
+            "owner": "hyva-themes",
+            "repo": "magento2-default-theme-csp",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "Magento Tailwind Theme companion module",
+          "title": "magento2-theme-module",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-09T17:08:00Z",
+            "owner": "hyva-themes",
+            "repo": "magento2-theme-module",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Progressive Web Application"
     },
     {
       "description": "",
@@ -1076,21 +1212,6 @@
       "items": [
         {
           "children": [],
-          "description": "Magento's official website.",
-          "title": "Magento Official Website"
-        },
-        {
-          "children": [],
-          "description": "Official developer documentation.",
-          "title": "Magento Developer Documentation"
-        },
-        {
-          "children": [],
-          "description": "Community forum run by Magento.",
-          "title": "Magento Forum"
-        },
-        {
-          "children": [],
           "description": "Magento 2 GitHub repository.",
           "title": "Magento GitHub Repository",
           "repo_info": {
@@ -1100,24 +1221,6 @@
             "owner": "magento",
             "repo": "magento2",
             "stars": 12089
-          }
-        },
-        {
-          "children": [],
-          "description": "Developer blog run by Magento.",
-          "title": "Magento Developer Blog"
-        },
-        {
-          "children": [],
-          "description": "Official Magento 1 → Magento 2 migration tool.",
-          "title": "Magento 2 data migration tool",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-06-03T16:09:29Z",
-            "owner": "magento",
-            "repo": "data-migration-tool",
-            "stars": 339
           }
         },
         {
@@ -1135,6 +1238,19 @@
         },
         {
           "children": [],
+          "description": "Official Magento 1 → Magento 2 migration tool.",
+          "title": "Magento 2 data migration tool",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-06-03T16:09:29Z",
+            "owner": "magento",
+            "repo": "data-migration-tool",
+            "stars": 339
+          }
+        },
+        {
+          "children": [],
           "description": "Architectural discussions about Magento 2.",
           "title": "Magento 2 Architecture",
           "repo_info": {
@@ -1147,110 +1263,24 @@
           }
         },
         {
-          "children": [
-            {
-              "children": [],
-              "description": "CTO at",
-              "title": "Peter Jaap Blaakmeer"
-            },
-            {
-              "children": [],
-              "description": "Carmen Bremen - Freelancer at",
-              "title": "neoshops"
-            },
-            {
-              "children": [],
-              "description": "Tony Brown - Technical Director at",
-              "title": "space48"
-            },
-            {
-              "children": [],
-              "description": "Hirokazu Nishi",
-              "title": "Hirokazu Nishi"
-            },
-            {
-              "children": [],
-              "description": "Brent Peterson",
-              "title": "Brent Peterson"
-            },
-            {
-              "children": [],
-              "description": "Sonja Riesterer",
-              "title": "Sonja Riesterer"
-            },
-            {
-              "children": [],
-              "description": "Kristof Ringleff",
-              "title": "Kristof Ringleff"
-            },
-            {
-              "children": [],
-              "description": "Alessandro Ronchi",
-              "title": "Alessandro Ronchi"
-            },
-            {
-              "children": [],
-              "description": "Matthias Zeis",
-              "title": "Matthias Zeis"
-            },
-            {
-              "children": [],
-              "description": "Kuba Zwolinski",
-              "title": "Kuba Zwolinski"
-            },
-            {
-              "children": [],
-              "description": "Gabriel Guarino",
-              "title": "Gabriel Guarino"
-            },
-            {
-              "children": [],
-              "description": "Phillip Jackson",
-              "title": "Phillip Jackson"
-            },
-            {
-              "children": [],
-              "description": "Sander Mangel",
-              "title": "Sander Mangel"
-            },
-            {
-              "children": [],
-              "description": "Raphael Petrini",
-              "title": "Raphael Petrini"
-            },
-            {
-              "children": [],
-              "description": "Fabian Schmengler",
-              "title": "Fabian Schmengler"
-            },
-            {
-              "children": [],
-              "description": "Marius Strajeru",
-              "title": "Marius Strajeru"
-            },
-            {
-              "children": [],
-              "description": "Anna Völkl",
-              "title": "Anna Völkl"
-            },
-            {
-              "children": [],
-              "description": "Ivan Chepurnyi",
-              "title": "Ivan Chepurnyi"
-            },
-            {
-              "children": [],
-              "description": "Vinai Kopp",
-              "title": "Vinai Kopp"
-            },
-            {
-              "children": [],
-              "description": "Jisse Reitsma",
-              "title": "Jisse Reitsma"
-            }
-          ],
-          "description": "Magento Masters 2017",
-          "title": "Magento Masters 2017"
+          "children": [],
+          "description": "Developer blog run by Magento.",
+          "title": "Magento Developer Blog"
+        },
+        {
+          "children": [],
+          "description": "Official developer documentation.",
+          "title": "Magento Developer Documentation"
+        },
+        {
+          "children": [],
+          "description": "Community forum run by Magento.",
+          "title": "Magento Forum"
+        },
+        {
+          "children": [],
+          "description": "Magento's official website.",
+          "title": "Magento Official Website"
         }
       ],
       "title": "Official Resources"
@@ -1258,6 +1288,19 @@
     {
       "description": "",
       "items": [
+        {
+          "children": [],
+          "description": "A curated list of awesome PHP resources.",
+          "title": "Awesome PHP",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-06T18:47:47Z",
+            "owner": "ziadoz",
+            "repo": "awesome-php",
+            "stars": 32491
+          }
+        },
         {
           "children": [],
           "description": "Alessandro Ronchi's list of resources for Magento 1 and Magento 2.",
@@ -1270,19 +1313,6 @@
             "repo": "mageres",
             "stars": 1010
           }
-        },
-        {
-          "children": [],
-          "description": "A curated list of awesome PHP resources.",
-          "title": "Awesome PHP",
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-06T18:47:47Z",
-            "owner": "ziadoz",
-            "repo": "awesome-php",
-            "stars": 32493
-          }
         }
       ],
       "title": "Other Magento 2 related Awesome Lists"
@@ -1294,7 +1324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-20T04:54:40.481Z",
+    "last_updated": "2026-04-21T04:45:46.210Z",
     "original_repository": "DavidLambauer/awesome-magento2",
     "source_repository": "v1nvn/enhansome-magento2",
     "source_repository_description": null,
