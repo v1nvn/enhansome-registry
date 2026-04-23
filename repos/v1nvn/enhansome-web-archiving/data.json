@@ -1,6 +1,79 @@
 {
   "items": [
     {
+      "description": "This section provides a curated list of training materials, documentation, and educational resources for those interested in learning about web archiving practices, methodologies, and tools.",
+      "items": [],
+      "title": "Training/Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "IIPC and DPC Training materials: module for beginners (8 sessions)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "UNT Web Archiving Course",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-04T00:46:23Z",
+            "owner": "vphill",
+            "repo": "web-archiving-course",
+            "stars": 23
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Continuing Education to Advance Web Archiving (CEDWARC)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "A Whirlwind Tour of Common Crawl's Datasets using Python",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T11:06:37Z",
+            "owner": "commoncrawl",
+            "repo": "whirlwind-python",
+            "stars": 43
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "A Whirlwind Tour of Common Crawl's Datasets as a Python notebook",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-31T14:30:25Z",
+            "owner": "commoncrawl",
+            "repo": "whirlwind-python-notebook",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "A Whirlwind Tour of Common Crawl's Datasets using Java",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-20T16:23:18Z",
+            "owner": "commoncrawl",
+            "repo": "whirlwind-java",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Training Materials"
+    },
+    {
       "description": "This list of tools and software is intended to briefly describe some of the most important and widely-used tools related to web archiving. For more details, we recommend you refer to (and contribute to!) these excellent resources from other groups:",
       "items": [
         {
@@ -45,7 +118,7 @@
             "last_commit": "2026-04-21T18:54:02Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27267
+            "stars": 27270
           }
         },
         {
@@ -86,10 +159,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-20T23:09:09Z",
+            "last_commit": "2026-04-22T05:57:46Z",
             "owner": "webrecorder",
             "repo": "browsertrix-crawler",
-            "stars": 1020
+            "stars": 1022
           }
         },
         {
@@ -177,7 +250,7 @@
             "last_commit": "2026-03-28T09:10:02Z",
             "owner": "DO-SAY-GO",
             "repo": "dn",
-            "stars": 3896
+            "stars": 3897
           }
         },
         {
@@ -216,7 +289,7 @@
             "last_commit": "2025-05-23T09:57:06Z",
             "owner": "ArchiveTeam",
             "repo": "grab-site",
-            "stars": 1565
+            "stars": 1566
           }
         },
         {
@@ -284,10 +357,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-02-05T18:44:04Z",
+            "last_commit": "2026-04-23T00:55:13Z",
             "owner": "Y2Z",
             "repo": "monolith",
-            "stars": 15018
+            "stars": 15023
           }
         },
         {
@@ -326,7 +399,7 @@
             "last_commit": "2026-02-24T15:52:53Z",
             "owner": "gildas-lormeau",
             "repo": "SingleFile",
-            "stars": 20943
+            "stars": 20954
           }
         },
         {
@@ -815,7 +888,7 @@
           "repo_info": {
             "archived": false,
             "language": "Cython",
-            "last_commit": "2026-04-21T16:29:38Z",
+            "last_commit": "2026-04-22T15:40:11Z",
             "owner": "chatnoir-eu",
             "repo": "chatnoir-resiliparse",
             "stars": 136
@@ -974,7 +1047,7 @@
             "last_commit": "2025-08-18T22:15:47Z",
             "owner": "internetarchive",
             "repo": "warctools",
-            "stars": 172
+            "stars": 171
           }
         },
         {
@@ -1130,7 +1203,7 @@
             "last_commit": "2026-04-16T06:50:56Z",
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 29739
+            "stars": 29749
           }
         },
         {
@@ -1192,7 +1265,7 @@
             "last_commit": "2026-04-21T18:54:02Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 27267
+            "stars": 27270
           }
         },
         {
@@ -1228,7 +1301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-22T04:51:37.285Z",
+    "last_updated": "2026-04-23T04:55:42.377Z",
     "original_repository": "iipc/awesome-web-archiving",
     "source_repository": "v1nvn/enhansome-web-archiving",
     "source_repository_description": null,
