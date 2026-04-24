@@ -7,6 +7,77 @@
     },
     {
       "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Comprehensive quality review across all categories.",
+          "title": "web-quality-audit",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-13T05:09:00Z",
+            "owner": "addyosmani",
+            "repo": "web-quality-skills",
+            "stars": 1802
+          }
+        },
+        {
+          "children": [],
+          "description": "LCP, INP, and CLS specific optimizations.",
+          "title": "core-web-vitals",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-13T05:09:00Z",
+            "owner": "addyosmani",
+            "repo": "web-quality-skills",
+            "stars": 1802
+          }
+        },
+        {
+          "children": [],
+          "description": "WCAG compliance, screen reader support, and keyboard navigation.",
+          "title": "accessibility",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-13T05:09:00Z",
+            "owner": "addyosmani",
+            "repo": "web-quality-skills",
+            "stars": 1802
+          }
+        },
+        {
+          "children": [],
+          "description": "Loading speed, runtime efficiency, and resource optimization.",
+          "title": "performance",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-13T05:09:00Z",
+            "owner": "addyosmani",
+            "repo": "web-quality-skills",
+            "stars": 1802
+          }
+        },
+        {
+          "children": [],
+          "description": "Security, modern APIs, and code quality patterns.",
+          "title": "best-practices",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-13T05:09:00Z",
+            "owner": "addyosmani",
+            "repo": "web-quality-skills",
+            "stars": 1802
+          }
+        }
+      ],
+      "title": "Agent Skills"
+    },
+    {
+      "description": "",
       "items": [],
       "title": "Articles"
     },
@@ -45,21 +116,13 @@
         },
         {
           "children": [],
-          "description": "Advanced page speed analysis and optimization tool for experienced users and technical SEO professionals.",
-          "title": "PageGym"
+          "description": "Lab and field CWV diagnostics for any URL.",
+          "title": "PageSpeed Insights"
         },
         {
           "children": [],
-          "description": "Uses PhantomJS to headlessly analyze web pages and generate manifests.",
-          "title": "Confess",
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2016-08-03T19:10:24Z",
-            "owner": "jamesgpearce",
-            "repo": "confess",
-            "stars": 869
-          }
+          "description": "Advanced page speed analysis and optimization tool for experienced users and technical SEO professionals.",
+          "title": "PageGym"
         },
         {
           "children": [],
@@ -91,11 +154,6 @@
         },
         {
           "children": [],
-          "description": "PhantomJS build that adds new output formats for automated test frameworks: TAP (Test Anything Protocol) and JUnit.",
-          "title": "YSlow for PhantomJS"
-        },
-        {
-          "children": [],
           "description": "Grunt plugin for continuous measurement of WebPageTest. ()",
           "title": "Grunt-WebPageTest",
           "repo_info": {
@@ -105,19 +163,6 @@
             "owner": "sideroad",
             "repo": "grunt-wpt",
             "stars": 35
-          }
-        },
-        {
-          "children": [],
-          "description": "Grunt task for testing page performance using PhantomJS, a headless WebKit browser.",
-          "title": "Grunt-yslow",
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-04-17T02:19:37Z",
-            "owner": "andyshora",
-            "repo": "grunt-yslow",
-            "stars": 90
           }
         },
         {
@@ -199,41 +244,32 @@
             "repo": "redirect-checker",
             "stars": 0
           }
-        }
-      ],
-      "title": "Analyzers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "children": [],
-          "description": "YSlow.js on Node.js is a simple Node.js wrapper for programmatically running phantomjs yslow.js.",
-          "title": "Node-yslowjs",
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-02-20T01:15:42Z",
-            "owner": "jmervine",
-            "repo": "node-yslowjs",
-            "stars": 9
-          }
         },
         {
           "children": [],
-          "description": "PageSpeed Insights for Node.js - with reporting.",
-          "title": "PSI",
+          "description": "Analyze third-party request risk, render-blocking impact, and potential single points of failure from WebPageTest runs.",
+          "title": "Third Party Analysis Tool"
+        },
+        {
+          "children": [],
+          "description": "Inspect font loading timing, payload, and glyph usage using WebPageTest data.",
+          "title": "Web Font Analyzer"
+        },
+        {
+          "children": [],
+          "description": "Bookmarklet script to map loaded web fonts to visible DOM usage and help spot font optimization opportunities.",
+          "title": "Webfont Usage Analyzer",
           "repo_info": {
-            "archived": true,
+            "archived": false,
             "language": "JavaScript",
-            "last_commit": "2021-04-10T00:13:45Z",
-            "owner": "GoogleChromeLabs",
-            "repo": "psi",
-            "stars": 3105
+            "last_commit": "2020-06-21T02:12:18Z",
+            "owner": "paulcalvano",
+            "repo": "webfont-usage-analyzer",
+            "stars": 11
           }
         }
       ],
-      "title": "Analyzers - API"
+      "title": "Analyzers"
     },
     {
       "description": "",
@@ -279,7 +315,7 @@
             "last_commit": "2026-03-25T14:02:17Z",
             "owner": "webpack",
             "repo": "webpack-bundle-analyzer",
-            "stars": 12677
+            "stars": 12676
           }
         },
         {
@@ -391,7 +427,7 @@
             "last_commit": "2024-10-11T03:59:02Z",
             "owner": "mrdoob",
             "repo": "stats.js",
-            "stars": 9111
+            "stars": 9112
           }
         },
         {
@@ -533,10 +569,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-04-21T13:09:30Z",
+            "last_commit": "2026-04-23T04:57:37Z",
             "owner": "GoogleChrome",
             "repo": "web-vitals",
-            "stars": 8479
+            "stars": 8482
           }
         },
         {
@@ -546,10 +582,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-04-22T21:06:29Z",
+            "last_commit": "2026-04-23T17:01:44Z",
             "owner": "GoogleChrome",
             "repo": "lighthouse",
-            "stars": 30084
+            "stars": 30090
           }
         },
         {
@@ -562,7 +598,7 @@
             "last_commit": "2026-03-27T19:57:30Z",
             "owner": "GoogleChrome",
             "repo": "lighthouse-ci",
-            "stars": 6938
+            "stars": 6939
           }
         }
       ],
@@ -773,7 +809,7 @@
             "last_commit": "2025-03-07T09:39:56Z",
             "owner": "imagemin",
             "repo": "imagemin",
-            "stars": 5719
+            "stars": 5718
           }
         },
         {
@@ -783,10 +819,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-04-21T20:58:10Z",
+            "last_commit": "2026-04-23T21:06:56Z",
             "owner": "lovell",
             "repo": "sharp",
-            "stars": 32168
+            "stars": 32171
           }
         },
         {
@@ -871,6 +907,19 @@
         },
         {
           "children": [],
+          "description": "Automated image compression for efficiently distributing images on the web.",
+          "title": "Imager",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-04-18T23:14:33Z",
+            "owner": "imager-io",
+            "repo": "imager",
+            "stars": 723
+          }
+        },
+        {
+          "children": [],
           "description": "Make ImageOptim, ImageAlpha, and JPEGmini part of your automated build process.",
           "title": "Grunt-imageoptim",
           "repo_info": {
@@ -933,7 +982,7 @@
             "last_commit": "2025-06-23T17:05:27Z",
             "owner": "mozilla",
             "repo": "mozjpeg",
-            "stars": 5674
+            "stars": 5673
           }
         },
         {
@@ -947,19 +996,6 @@
             "owner": "tjko",
             "repo": "jpegoptim",
             "stars": 1782
-          }
-        },
-        {
-          "children": [],
-          "description": "A command-line program to optimize PNG images.",
-          "title": "ZopfliPNG",
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2024-08-10T16:45:24Z",
-            "owner": "google",
-            "repo": "zopfli",
-            "stars": 3578
           }
         },
         {
@@ -1044,6 +1080,19 @@
             "repo": "lozad.js",
             "stars": 7499
           }
+        },
+        {
+          "children": [],
+          "description": "Prefetch links in the viewport (via Intersection Observer) to make future navigations faster.",
+          "title": "quicklink",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-08T20:36:01Z",
+            "owner": "GoogleChromeLabs",
+            "repo": "quicklink",
+            "stars": 11233
+          }
         }
       ],
       "title": "Lazyloaders"
@@ -1110,6 +1159,19 @@
         },
         {
           "children": [],
+          "description": "Preloads pages and assets ahead of navigation for faster page transitions.",
+          "title": "prerender.js",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-01T09:02:23Z",
+            "owner": "genderev",
+            "repo": "prerender.js",
+            "stars": 414
+          }
+        },
+        {
+          "children": [],
           "description": "A JIT (Just In Time) plugin loader for Grunt. The load time of Grunt does not slow down even if there are many plugins.",
           "title": "JIT",
           "repo_info": {
@@ -1119,6 +1181,19 @@
             "owner": "shootaroo",
             "repo": "jit-grunt",
             "stars": 505
+          }
+        },
+        {
+          "children": [],
+          "description": "Predictive prefetching and performance optimization using analytics and machine learning.",
+          "title": "Guess.js",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-16T08:59:44Z",
+            "owner": "guess-js",
+            "repo": "guess",
+            "stars": 7121
           }
         }
       ],
@@ -1231,6 +1306,50 @@
           "children": [],
           "description": "Real Browser Monitoring. Offers complete reports about web performance and quality using YSlow, Page Speed and numerous custom tips.",
           "title": "DareBoost"
+        },
+        {
+          "children": [],
+          "description": "Tiny library to collect Core Web Vitals and other performance metrics from real users.",
+          "title": "Perfume.js",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-25T03:16:29Z",
+            "owner": "Zizzamia",
+            "repo": "perfume.js",
+            "stars": 3204
+          }
+        },
+        {
+          "children": [],
+          "description": "Collect web performance metrics in Puppeteer scripts.",
+          "title": "puppeteer-webperf",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-18T10:55:29Z",
+            "owner": "addyosmani",
+            "repo": "puppeteer-webperf",
+            "stars": 1855
+          }
+        },
+        {
+          "children": [],
+          "description": "WebPageTest API Wrapper is an npm package that wraps WebPageTest API for Node.js as a module and a command-line tool.",
+          "title": "WebPageTest API Wrapper for Node.js",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-03T09:00:06Z",
+            "owner": "catchpoint",
+            "repo": "WebPageTest.api-nodejs",
+            "stars": 1637
+          }
+        },
+        {
+          "children": [],
+          "description": "Web performance report every week in your inbox. Get a Personalized Report on the Status of the E-commerce or Website that you want to monitor in terms of Web performance and Web optimization, Core Web Vitals are included.",
+          "title": "WebPerformance Report"
         }
       ],
       "title": "Metrics Monitor"
@@ -1386,19 +1505,6 @@
       "items": [
         {
           "children": [],
-          "description": "JavaScript compressor which, in addition to removing comments and white-spaces, obfuscates local variables using the smallest possible variable name. This obfuscation is safe, even when using constructs such as 'eval' or 'with' (although the compression is not optimal is those cases) Compared to jsmin, the average savings is around 20%.",
-          "title": "YUI Compressor",
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2021-09-15T08:51:14Z",
-            "owner": "yui",
-            "repo": "yuicompressor",
-            "stars": 3004
-          }
-        },
-        {
-          "children": [],
           "description": "UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit, written in JavaScript.",
           "title": "UglifyJS2",
           "repo_info": {
@@ -1407,7 +1513,7 @@
             "last_commit": "2024-11-22T08:11:38Z",
             "owner": "mishoo",
             "repo": "UglifyJS",
-            "stars": 13397
+            "stars": 13399
           }
         },
         {
@@ -1421,19 +1527,6 @@
             "owner": "css",
             "repo": "csso",
             "stars": 3798
-          }
-        },
-        {
-          "children": [],
-          "description": "JavaScript port of YUICompressor's CSS minifier.",
-          "title": "CSSmin.js",
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2011-09-08T04:39:30Z",
-            "owner": "stoyan",
-            "repo": "yuicompressor",
-            "stars": 77
           }
         },
         {
@@ -1511,7 +1604,7 @@
             "last_commit": "2025-11-20T14:35:07Z",
             "owner": "tedious",
             "repo": "JShrink",
-            "stars": 761
+            "stars": 762
           }
         },
         {
@@ -1683,7 +1776,7 @@
             "last_commit": "2024-04-03T08:17:04Z",
             "owner": "aFarkas",
             "repo": "lazysizes",
-            "stars": 17733
+            "stars": 17732
           }
         },
         {
@@ -1715,7 +1808,7 @@
             "last_commit": "2026-04-17T14:56:09Z",
             "owner": "svg",
             "repo": "svgo",
-            "stars": 22439
+            "stars": 22440
           }
         },
         {
@@ -1908,7 +2001,7 @@
             "last_commit": "2023-12-30T10:33:51Z",
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40229
+            "stars": 40232
           }
         },
         {
@@ -1921,7 +2014,7 @@
             "last_commit": "2024-03-28T21:15:07Z",
             "owner": "newsapps",
             "repo": "beeswithmachineguns",
-            "stars": 6621
+            "stars": 6622
           }
         },
         {
@@ -1971,7 +2064,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-23T04:50:21.880Z",
+    "last_updated": "2026-04-24T04:54:54.513Z",
     "original_repository": "davidsonfellipe/awesome-wpo",
     "source_repository": "v1nvn/enhansome-wpo",
     "source_repository_description": null,
