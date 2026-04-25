@@ -90,7 +90,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-13T15:07:23Z",
+            "last_commit": "2026-04-24T15:31:39Z",
             "owner": "algorandfoundation",
             "repo": "algokit-client-generator-ts",
             "stars": 5
@@ -103,7 +103,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-24T04:36:21Z",
+            "last_commit": "2026-04-24T13:03:01Z",
             "owner": "algorandfoundation",
             "repo": "puya",
             "stars": 96
@@ -116,7 +116,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-23T22:49:23Z",
+            "last_commit": "2026-04-24T21:12:54Z",
             "owner": "algorandfoundation",
             "repo": "puya-ts",
             "stars": 17
@@ -799,7 +799,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-04-24T01:00:25Z",
+            "last_commit": "2026-04-25T01:00:22Z",
             "owner": "algorand",
             "repo": "go-algorand",
             "stars": 1425
@@ -812,7 +812,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-04-15T23:33:49Z",
+            "last_commit": "2026-04-24T23:33:45Z",
             "owner": "algorand",
             "repo": "go-algorand-sdk",
             "stars": 188
@@ -921,7 +921,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-15T23:34:18Z",
+            "last_commit": "2026-04-24T23:34:13Z",
             "owner": "algorand",
             "repo": "js-algorand-sdk",
             "stars": 297
@@ -1136,6 +1136,19 @@
         },
         {
           "children": [],
+          "description": "Modern Swift SDK for the Algorand Blockchain with async/await and Swift concurrency support.",
+          "title": "swift-algorand",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-03-07T19:54:00Z",
+            "owner": "CorvidLabs",
+            "repo": "swift-algorand",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
           "description": "A Swift SDK for interacting with the Algorand Blockchain.",
           "title": "swift-algorand-sdk",
           "repo_info": {
@@ -1145,6 +1158,58 @@
             "owner": "Jesulonimi21",
             "repo": "Swift-Algorand-Sdk",
             "stars": 24
+          }
+        },
+        {
+          "children": [],
+          "description": "AlgoKit utilities for Swift developers.",
+          "title": "swift-algokit",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-03-21T06:04:01Z",
+            "owner": "CorvidLabs",
+            "repo": "swift-algokit",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Swift library for working with Algorand ARC metadata standards for NFTs.",
+          "title": "swift-arc",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-03-21T06:04:14Z",
+            "owner": "CorvidLabs",
+            "repo": "swift-arc",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Swift library for minting NFTs on the Algorand Blockchain.",
+          "title": "swift-mint",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-03-21T06:04:28Z",
+            "owner": "CorvidLabs",
+            "repo": "swift-mint",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "End-to-end encrypted messaging on Algorand with hybrid ECDH and PSK ratcheting in Swift.",
+          "title": "swift-algochat",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-03-21T06:03:49Z",
+            "owner": "CorvidLabs",
+            "repo": "swift-algochat",
+            "stars": 1
           }
         }
       ],
@@ -1410,6 +1475,19 @@
             "owner": "Hipo",
             "repo": "tealinspector",
             "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "Swift testing framework for Algorand smart contracts with mock chain support.",
+          "title": "swift-algotest",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-01-21T00:20:05Z",
+            "owner": "CorvidLabs",
+            "repo": "swift-algotest",
+            "stars": 1
           }
         }
       ],
@@ -1787,28 +1865,28 @@
         },
         {
           "children": [],
-          "description": "Encrypted on-chain messaging protocol for Algorand, enabling AI agent-to-agent communication via transaction notes.",
-          "title": "AlgoChat",
+          "description": "An autonomous AI agent platform built on Algorand with encrypted on-chain messaging.",
+          "title": "corvid-agent",
           "repo_info": {
             "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-23T16:03:44Z",
-            "owner": "CorvidLabs",
-            "repo": "ts-algochat",
-            "stars": 1
+            "language": null,
+            "last_commit": "2026-03-21T15:16:59Z",
+            "owner": "corvid-agent",
+            "repo": "corvid-agent",
+            "stars": 0
           }
         },
         {
           "children": [],
-          "description": "AI agent orchestration platform with on-chain messaging, persistent memory, and autonomous scheduling via Algorand.",
-          "title": "CorvidAgent",
+          "description": "Encrypted peer-to-peer chat client using Algorand transactions and PSK ratcheting.",
+          "title": "AlgoChat",
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-24T00:19:51Z",
-            "owner": "CorvidLabs",
-            "repo": "corvid-agent",
-            "stars": 5
+            "last_commit": "2026-03-06T23:18:55Z",
+            "owner": "corvid-agent",
+            "repo": "corvid-agent-chat",
+            "stars": 3
           }
         },
         {
@@ -1900,6 +1978,11 @@
             "repo": "algorand-js-sdk",
             "stars": 41
           }
+        },
+        {
+          "children": [],
+          "description": "Cross-chain borrow/lend protocol on Algorand and Voi Network. Features overcollateralized lending, WAD stablecoin minting, and UNIT governance token.",
+          "title": "DorkFi"
         }
       ],
       "title": "DeFi Platforms"
@@ -1909,24 +1992,47 @@
       "items": [
         {
           "children": [],
-          "description": "Official voting tool by Algorand Foundation. The repository contains a voting tool that allows for creation and facilitation of immutable, tamperproof voting using the Algorand Blockchain.",
-          "title": "nft_voting_tool",
+          "description": "Algorand Standard Asset (ASA) explorer and marketplace developed by .",
+          "title": "Rand Gallery"
+        },
+        {
+          "children": [],
+          "description": "Algorand Standard Asset (ASA) markeplace and trading platform for NFT collectors.",
+          "title": "AlgoGems"
+        },
+        {
+          "children": [],
+          "description": "Opensource NFT marketplace whitelabel solution.",
+          "title": "AlgoMart",
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "TypeScript",
-            "last_commit": "2025-11-19T10:40:38Z",
-            "owner": "algorandfoundation",
-            "repo": "nft_voting_tool",
-            "stars": 6
+            "last_commit": "2025-12-04T17:19:57Z",
+            "owner": "dept",
+            "repo": "algomart",
+            "stars": 182
           }
         },
         {
           "children": [],
-          "description": "Decentralized message standard for on-chain voting on Algorand developed by @scholtz.",
-          "title": "vote-coin-demo"
+          "description": "NFT art and collectible marketplace.",
+          "title": "Flatter"
+        },
+        {
+          "children": [],
+          "description": "Algorand NFT gallery browser with ARC-standard support.",
+          "title": "NFT Gallery",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-23T18:57:44Z",
+            "owner": "corvid-agent",
+            "repo": "nft-gallery",
+            "stars": 0
+          }
         }
       ],
-      "title": "Decentralized voting"
+      "title": "NFT Marketplaces"
     },
     {
       "description": "",
@@ -1943,7 +2049,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-23T08:10:41Z",
+            "last_commit": "2026-04-24T17:19:34Z",
             "owner": "algorandfoundation",
             "repo": "ARCs",
             "stars": 138
@@ -1956,7 +2062,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-23T08:10:41Z",
+            "last_commit": "2026-04-24T17:19:34Z",
             "owner": "algorandfoundation",
             "repo": "ARCs",
             "stars": 138
@@ -1969,7 +2075,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-23T08:10:41Z",
+            "last_commit": "2026-04-24T17:19:34Z",
             "owner": "algorandfoundation",
             "repo": "ARCs",
             "stars": 138
@@ -1982,7 +2088,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-23T08:10:41Z",
+            "last_commit": "2026-04-24T17:19:34Z",
             "owner": "algorandfoundation",
             "repo": "ARCs",
             "stars": 138
@@ -1995,7 +2101,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-23T08:10:41Z",
+            "last_commit": "2026-04-24T17:19:34Z",
             "owner": "algorandfoundation",
             "repo": "ARCs",
             "stars": 138
@@ -2005,13 +2111,13 @@
       "title": "Algorand Request for Comments"
     },
     {
-      "description": "Contributions welcome! Read the contribution guidelines first.\nSpecial thanks to everyone who forked or starred the repository ❤️\n\n",
+      "description": "Contributions welcome! Read the contribution guidelines first.\nSpecial thanks to everyone who forked or starred the repository ❤️",
       "items": [],
       "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-24T04:54:43.372Z",
+    "last_updated": "2026-04-25T04:36:26.971Z",
     "original_repository": "aorumbayev/awesome-algorand",
     "source_repository": "v1nvn/enhansome-algorand",
     "source_repository_description": null,
