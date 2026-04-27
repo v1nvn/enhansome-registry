@@ -70,7 +70,7 @@
             "last_commit": "2026-04-18T03:09:01Z",
             "owner": "nunomaduro",
             "repo": "phpinsights",
-            "stars": 5593
+            "stars": 5594
           }
         },
         {
@@ -80,7 +80,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-04-24T19:27:35Z",
+            "last_commit": "2026-04-27T02:52:15Z",
             "owner": "ddev",
             "repo": "ddev",
             "stars": 3575
@@ -184,7 +184,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-04-24T18:52:37Z",
+            "last_commit": "2026-04-26T13:37:20Z",
             "owner": "OpenForgeProject",
             "repo": "mageforge",
             "stars": 18
@@ -200,7 +200,7 @@
             "last_commit": "2026-03-25T12:29:03Z",
             "owner": "markshust",
             "repo": "docker-magento",
-            "stars": 2850
+            "stars": 2851
           }
         },
         {
@@ -345,7 +345,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-04-25T21:31:08Z",
+            "last_commit": "2026-04-27T02:22:57Z",
             "owner": "magewirephp",
             "repo": "magewire",
             "stars": 257
@@ -358,7 +358,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-02-27T19:06:23Z",
+            "last_commit": "2026-04-26T21:42:27Z",
             "owner": "graycoreio",
             "repo": "magento2-cors",
             "stars": 100
@@ -569,23 +569,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-04-23T16:34:58Z",
+            "last_commit": "2026-04-26T21:32:56Z",
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11025
-          }
-        },
-        {
-          "children": [],
-          "description": "GitHub Actions for Magento 2 Extensions.",
-          "title": "Github Actions for Magento2",
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-04-23T05:29:16Z",
-            "owner": "extdn",
-            "repo": "github-actions-m2",
-            "stars": 140
+            "stars": 11026
           }
         },
         {
@@ -599,6 +586,19 @@
             "owner": "crealoz",
             "repo": "easyaudit-cli",
             "stars": 14
+          }
+        },
+        {
+          "children": [],
+          "description": "GitHub Actions for Magento 2 Extensions.",
+          "title": "Github Actions for Magento2",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-23T05:29:16Z",
+            "owner": "extdn",
+            "repo": "github-actions-m2",
+            "stars": 140
           }
         }
       ],
@@ -774,6 +774,19 @@
         },
         {
           "children": [],
+          "description": "Native Magento Page Builder support for CMS Widgets",
+          "title": "module-page-builder-widget",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-19T20:46:05Z",
+            "owner": "mage-os",
+            "repo": "module-page-builder-widget",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
           "description": "Magento 2 GDPR module to help be GDPR compliant.",
           "title": "Opengento GDPR",
           "repo_info": {
@@ -796,19 +809,6 @@
             "owner": "hyva-themes",
             "repo": "hyva-ai-tools",
             "stars": 63
-          }
-        },
-        {
-          "children": [],
-          "description": "Native Magento Page Builder support for CMS Widgets",
-          "title": "module-page-builder-widget",
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-04-19T20:46:05Z",
-            "owner": "mage-os",
-            "repo": "module-page-builder-widget",
-            "stars": 29
           }
         }
       ],
@@ -877,19 +877,6 @@
         },
         {
           "children": [],
-          "description": "Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.",
-          "title": "Disable Stock Reservation",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-01-21T08:11:55Z",
-            "owner": "idhlagency",
-            "repo": "magento2-disable-stock-reservation",
-            "stars": 231
-          }
-        },
-        {
-          "children": [],
           "description": "Application monitoring and error tracking software for Magento 2.",
           "title": "Sentry.io",
           "repo_info": {
@@ -903,6 +890,19 @@
         },
         {
           "children": [],
+          "description": "This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.",
+          "title": "magento2-hyva-admin",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-03-17T16:08:29Z",
+            "owner": "hyva-themes",
+            "repo": "magento2-hyva-admin",
+            "stars": 175
+          }
+        },
+        {
+          "children": [],
           "description": "Quickly and easily convert existing guest checkout customers to registered customers.",
           "title": "Guest to Customer",
           "repo_info": {
@@ -912,6 +912,32 @@
             "owner": "magepal",
             "repo": "magento2-guest-to-customer",
             "stars": 68
+          }
+        },
+        {
+          "children": [],
+          "description": "M137 Admin Theme for Magento/Mage-OS",
+          "title": "theme-adminhtml-m137",
+          "repo_info": {
+            "archived": false,
+            "language": "Less",
+            "last_commit": "2026-02-25T16:15:21Z",
+            "owner": "mage-os",
+            "repo": "theme-adminhtml-m137",
+            "stars": 36
+          }
+        },
+        {
+          "children": [],
+          "description": "Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.",
+          "title": "Disable Stock Reservation",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-21T08:11:55Z",
+            "owner": "idhlagency",
+            "repo": "magento2-disable-stock-reservation",
+            "stars": 231
           }
         },
         {
@@ -1030,32 +1056,6 @@
             "repo": "ElNino_ProductLinksNavigator",
             "stars": 17
           }
-        },
-        {
-          "children": [],
-          "description": "This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.",
-          "title": "magento2-hyva-admin",
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-03-17T16:08:29Z",
-            "owner": "hyva-themes",
-            "repo": "magento2-hyva-admin",
-            "stars": 175
-          }
-        },
-        {
-          "children": [],
-          "description": "M137 Admin Theme for Magento/Mage-OS",
-          "title": "theme-adminhtml-m137",
-          "repo_info": {
-            "archived": false,
-            "language": "Less",
-            "last_commit": "2026-02-25T16:15:21Z",
-            "owner": "mage-os",
-            "repo": "theme-adminhtml-m137",
-            "stars": 36
-          }
         }
       ],
       "title": "Adminhtml / Backend"
@@ -1078,12 +1078,25 @@
         },
         {
           "children": [],
+          "description": "bfcache, speculative loading, and view transitions for Magento",
+          "title": "module-theme-optimization",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-26T17:53:29Z",
+            "owner": "mage-os",
+            "repo": "module-theme-optimization",
+            "stars": 41
+          }
+        },
+        {
+          "children": [],
           "description": "Magento 2 Fastly integration.",
           "title": "Fastly Extension",
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-04-07T12:51:43Z",
+            "last_commit": "2026-04-27T00:31:00Z",
             "owner": "fastly",
             "repo": "fastly-magento2",
             "stars": 156
@@ -1140,19 +1153,6 @@
             "repo": "magento-cache-clean",
             "stars": 48
           }
-        },
-        {
-          "children": [],
-          "description": "bfcache, speculative loading, and view transitions for Magento",
-          "title": "module-theme-optimization",
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-04-19T20:48:04Z",
-            "owner": "mage-os",
-            "repo": "module-theme-optimization",
-            "stars": 41
-          }
         }
       ],
       "title": "Infrastructure"
@@ -1188,19 +1188,6 @@
         },
         {
           "children": [],
-          "description": "A strict CSP compatible Magento theme built with Tailwind and Alpine.js",
-          "title": "magento2-default-theme-csp",
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-04-09T16:42:11Z",
-            "owner": "hyva-themes",
-            "repo": "magento2-default-theme-csp",
-            "stars": 15
-          }
-        },
-        {
-          "children": [],
           "description": "Magento Tailwind Theme companion module",
           "title": "magento2-theme-module",
           "repo_info": {
@@ -1210,6 +1197,19 @@
             "owner": "hyva-themes",
             "repo": "magento2-theme-module",
             "stars": 22
+          }
+        },
+        {
+          "children": [],
+          "description": "A strict CSP compatible Magento theme built with Tailwind and Alpine.js",
+          "title": "magento2-default-theme-csp",
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-09T16:42:11Z",
+            "owner": "hyva-themes",
+            "repo": "magento2-default-theme-csp",
+            "stars": 15
           }
         }
       ],
@@ -1233,7 +1233,7 @@
             "last_commit": "2026-04-21T19:00:39Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12094
+            "stars": 12095
           }
         },
         {
@@ -1311,7 +1311,7 @@
             "last_commit": "2026-04-23T15:42:25Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32504
+            "stars": 32506
           }
         },
         {
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-26T04:55:49.227Z",
+    "last_updated": "2026-04-27T05:19:22.591Z",
     "original_repository": "DavidLambauer/awesome-magento2",
     "source_repository": "v1nvn/enhansome-magento2",
     "source_repository_description": null,
