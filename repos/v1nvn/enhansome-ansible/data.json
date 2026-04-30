@@ -66,7 +66,7 @@
             "last_commit": "2025-05-25T06:03:59Z",
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9728
+            "stars": 9731
           }
         }
       ],
@@ -77,12 +77,12 @@
       "items": [
         {
           "children": [],
-          "description": "Automation Controller (formerly Ansible Tower) by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.",
+          "description": "Formerly Ansible Tower, this Red Hat product helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.",
           "title": "Automation Controller"
         },
         {
           "children": [],
-          "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller, a commercial derivative of AWX.",
+          "description": "Web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller.",
           "title": "AWX",
           "repo_info": {
             "archived": false,
@@ -90,7 +90,7 @@
             "last_commit": "2026-04-28T20:07:15Z",
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15397
+            "stars": 15398
           }
         },
         {
@@ -100,10 +100,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-28T05:01:59Z",
+            "last_commit": "2026-04-29T23:30:03Z",
             "owner": "ansible",
             "repo": "ansible-lint",
-            "stars": 3856
+            "stars": 3857
           }
         },
         {
@@ -113,7 +113,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-29T05:20:12Z",
+            "last_commit": "2026-04-29T05:21:09Z",
             "owner": "thegeeklab",
             "repo": "ansible-doctor",
             "stars": 155
@@ -134,7 +134,7 @@
         },
         {
           "children": [],
-          "description": "ARA Records Ansible playbooks and makes them easier to understand and troubleshoot with a reporting API, UI and CLI.",
+          "description": "Records Ansible playbooks and makes them easier to understand and troubleshoot with a reporting API, UI and CLI.",
           "title": "ARA",
           "repo_info": {
             "archived": false,
@@ -165,7 +165,7 @@
         },
         {
           "children": [],
-          "description": "Molecule aids in the development and testing of Ansible roles.",
+          "description": "Framework for developing and testing Ansible roles.",
           "title": "Molecule"
         },
         {
@@ -201,12 +201,17 @@
         },
         {
           "children": [],
+          "description": "An interactive, zero-setup sandbox for architecting and debugging playbooks with real-time visual execution flow.",
+          "title": "Ansible101"
+        },
+        {
+          "children": [],
           "description": "A text-based user interface (TUI) for Ansible.",
           "title": "ansible-navigator",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-23T06:55:20Z",
+            "last_commit": "2026-04-30T03:46:41Z",
             "owner": "ansible",
             "repo": "ansible-navigator",
             "stars": 525
@@ -224,7 +229,7 @@
         },
         {
           "children": [],
-          "description": "A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.",
+          "description": "A tool and Python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.",
           "title": "ansible-runner",
           "repo_info": {
             "archived": false,
@@ -232,7 +237,7 @@
             "last_commit": "2026-04-23T17:51:03Z",
             "owner": "ansible",
             "repo": "ansible-runner",
-            "stars": 1066
+            "stars": 1065
           }
         },
         {
@@ -242,7 +247,7 @@
         },
         {
           "children": [],
-          "description": "SAST Tool that scans your ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.",
+          "description": "SAST Tool that scans your Ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.",
           "title": "kics",
           "repo_info": {
             "archived": false,
@@ -250,7 +255,7 @@
             "last_commit": "2026-04-22T14:47:48Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2626
+            "stars": 2627
           }
         },
         {
@@ -307,15 +312,15 @@
         },
         {
           "children": [],
-          "description": "Ansible Semaphore is a modern UI for Ansible.",
+          "description": "Modern UI for managing and running Ansible playbooks.",
           "title": "Ansible Semaphore",
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-04-29T04:27:07Z",
+            "last_commit": "2026-04-29T22:22:29Z",
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 13547
+            "stars": 13549
           }
         },
         {
@@ -340,7 +345,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-27T09:25:06Z",
+            "last_commit": "2026-04-29T07:16:20Z",
             "owner": "telekom-mms",
             "repo": "Automated-Ansible-Role-Documentation",
             "stars": 53
@@ -366,7 +371,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2023-10-21T23:54:35Z",
+            "last_commit": "2026-04-30T02:03:22Z",
             "owner": "nbentoumi",
             "repo": "ansibledb",
             "stars": 23
@@ -376,6 +381,11 @@
           "children": [],
           "description": "Online playground for running, testing and sharing Ansible templates.",
           "title": "Ansible Template Playground"
+        },
+        {
+          "children": [],
+          "description": "Online YAML validator and formatter with Ansible JSON Schema validation. The Chrome extension also adds YAML code folding on GitHub.",
+          "title": "YAML Validator"
         }
       ],
       "title": "Tools"
@@ -486,7 +496,7 @@
             "last_commit": "2025-02-06T08:50:52Z",
             "owner": "thomvaill",
             "repo": "tads-boilerplate",
-            "stars": 779
+            "stars": 780
           }
         },
         {
@@ -514,7 +524,7 @@
         },
         {
           "children": [],
-          "description": "An ansible role to provision physical and virtual hosts with the AWS SSM agent.",
+          "description": "An Ansible role to provision physical and virtual hosts with the AWS SSM agent.",
           "title": "ansible-ssm",
           "repo_info": {
             "archived": false,
@@ -527,7 +537,7 @@
         },
         {
           "children": [],
-          "description": "An ansible coherent roles collection to deploy clusters.",
+          "description": "An Ansible coherent roles collection to deploy clusters.",
           "title": "BlueBanquise",
           "repo_info": {
             "archived": false,
@@ -540,7 +550,7 @@
         },
         {
           "children": [],
-          "description": "Repositories with ansible topic of the Red Hat Communities of Practice project.",
+          "description": "Repositories with Ansible topic of the Red Hat Communities of Practice project.",
           "title": "redhat-cop"
         }
       ],
@@ -548,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-29T05:20:59.758Z",
+    "last_updated": "2026-04-30T05:24:42.527Z",
     "original_repository": "ansible-community/awesome-ansible",
     "source_repository": "v1nvn/enhansome-ansible",
     "source_repository_description": null,
