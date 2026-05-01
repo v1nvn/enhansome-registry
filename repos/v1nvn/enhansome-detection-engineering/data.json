@@ -18,7 +18,7 @@
             "last_commit": "2025-09-08T18:00:25Z",
             "owner": "palantir",
             "repo": "alerting-detection-strategy-framework",
-            "stars": 870
+            "stars": 871
           }
         },
         {
@@ -98,6 +98,19 @@
           "children": [],
           "description": "an all-in-one Detection Engineering Operations framework created and maintained by the European Commission to convert your CTI into an actionable detection coverage graph combining threat vectors with detection objectives, and manage your entire detection library from a central repository with a detection-as-code deployment system. The OpenTide format aims at measuring and expanding detection coverage, and its rule deployment engine is fully extensible and support multiple platforms in parallel (leveraging all the technology features and native query language). OpenTide works both within a single DE team as a main framework, and across SOC as a common format to facilitate data interexchange.",
           "title": "Open Threat Informed Detection Engineering aka OpenTide'"
+        },
+        {
+          "children": [],
+          "description": "Agentic memory system that treats Sigma and YARA rules as first-class memory entities, with an LLM rule explainer, STIX 2.1 knowledge graph of CTI entities, and offline-first RAG to connect rules to the actors and techniques they detect. Python, MIT.",
+          "title": "ZettelForge",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-30T20:27:46Z",
+            "owner": "rolandpg",
+            "repo": "zettelforge",
+            "stars": 33
+          }
         }
       ],
       "title": "Concepts & Frameworks"
@@ -127,10 +140,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-28T23:20:28Z",
+            "last_commit": "2026-05-01T02:22:24Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10375
+            "stars": 10381
           }
         },
         {
@@ -150,10 +163,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-29T18:41:12Z",
+            "last_commit": "2026-04-30T19:31:43Z",
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1619
+            "stars": 1620
           }
         },
         {
@@ -163,10 +176,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-30T02:16:39Z",
+            "last_commit": "2026-04-30T21:51:29Z",
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2563
+            "stars": 2564
           }
         },
         {
@@ -176,7 +189,7 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-04-30T04:59:12Z",
+            "last_commit": "2026-04-30T10:07:53Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
             "stars": 1421
@@ -189,7 +202,7 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-04-30T04:59:12Z",
+            "last_commit": "2026-04-30T10:07:53Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
             "stars": 1421
@@ -202,7 +215,7 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-04-30T04:59:12Z",
+            "last_commit": "2026-04-30T10:07:53Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
             "stars": 1421
@@ -241,7 +254,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-23T07:14:31Z",
+            "last_commit": "2026-04-30T20:38:19Z",
             "owner": "panther-labs",
             "repo": "panther-analysis",
             "stars": 447
@@ -337,7 +350,7 @@
             "last_commit": "2026-04-26T04:10:18Z",
             "owner": "Khadinxc",
             "repo": "Sigma2KQL",
-            "stars": 2
+            "stars": 3
           }
         },
         {
@@ -350,7 +363,7 @@
             "last_commit": "2026-04-26T05:07:04Z",
             "owner": "Khadinxc",
             "repo": "TerraSigma",
-            "stars": 2
+            "stars": 3
           }
         },
         {
@@ -427,10 +440,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-04-29T06:22:49Z",
+            "last_commit": "2026-04-30T06:26:35Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2678
+            "stars": 2679
           }
         },
         {
@@ -443,7 +456,7 @@
             "last_commit": "2024-08-07T06:30:10Z",
             "owner": "YelpArchive",
             "repo": "elastalert",
-            "stars": 7997
+            "stars": 7998
           }
         },
         {
@@ -471,7 +484,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-30T05:21:41Z",
+            "last_commit": "2026-05-01T04:46:48Z",
             "owner": "InnerWarden",
             "repo": "innerwarden",
             "stars": 109
@@ -572,7 +585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-30T05:26:54.342Z",
+    "last_updated": "2026-05-01T05:38:35.372Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "source_repository": "v1nvn/enhansome-detection-engineering",
     "source_repository_description": null,

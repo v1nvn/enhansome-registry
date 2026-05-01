@@ -1223,6 +1223,19 @@
         },
         {
           "children": [],
+          "description": "A Python library for converting GTFS data into graph representations for network analysis and Graph Neural Networks (GNNs). Supports loading GTFS feeds, constructing transit graphs, network centrality analysis, and isochrone-based accessibility analysis on multimodal (street + transit) networks.",
+          "title": "City2Graph",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-21T18:07:59Z",
+            "owner": "c2g-dev",
+            "repo": "city2graph",
+            "stars": 1120
+          }
+        },
+        {
+          "children": [],
           "description": "Tools for working with public transit data in ArcGIS",
           "title": "ESRI ArcGIS Public Transit Tools (GTFS)",
           "repo_info": {
@@ -1419,7 +1432,7 @@
             "last_commit": "2026-04-29T17:34:21Z",
             "owner": "MobilityData",
             "repo": "gtfs-validator",
-            "stars": 401
+            "stars": 402
           }
         },
         {
@@ -1487,7 +1500,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-04-22T19:37:17Z",
+            "last_commit": "2026-04-30T15:08:27Z",
             "owner": "google",
             "repo": "transit",
             "stars": 948
@@ -1500,7 +1513,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-04-22T19:37:17Z",
+            "last_commit": "2026-04-30T15:08:27Z",
             "owner": "google",
             "repo": "transit",
             "stars": 948
@@ -1903,7 +1916,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-04-22T21:15:45Z",
+            "last_commit": "2026-04-30T15:11:36Z",
             "owner": "mbta",
             "repo": "concentrate",
             "stars": 30
@@ -2202,7 +2215,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2025-12-17T08:01:11Z",
+            "last_commit": "2026-04-30T20:34:49Z",
             "owner": "enroute-mobi",
             "repo": "ara",
             "stars": 21
@@ -2512,7 +2525,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-12T14:32:44Z",
+            "last_commit": "2026-04-30T16:08:12Z",
             "owner": "TIDES-transit",
             "repo": "TIDES",
             "stars": 54
@@ -2587,7 +2600,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-29T15:12:54Z",
+            "last_commit": "2026-04-30T13:14:28Z",
             "owner": "graphhopper",
             "repo": "graphhopper",
             "stars": 6420
@@ -2631,16 +2644,8 @@
         },
         {
           "children": [],
-          "description": "Multi Objective Travel Information System, written in C++ and Java. Can consume schedule timetables in the GTFS or HAFAS format as well as real time information in the GTFS-RT (and RISML, a propriatary format at Deutsche Bahn) as input data. For pedestrian routing (handled by Per Pedes Routing) and car routing (handled by OSRM) OpenStreetMap data is used.",
-          "title": "MOTIS",
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-04-27T21:13:27Z",
-            "owner": "motis-project",
-            "repo": "motis",
-            "stars": 502
-          }
+          "description": "Developed to handle large-scale timetables and OpenStreetMap data, MOTIS integrates various modes of transport - such as walking, cycling, sharing mobility (e-scooters, bike sharing, car sharing), and public transport - to provide optimized routing solutions. MOTIS is optimized for high performance with low memory usage. This enables planet-sized deployments on affordable hardware. It supports GTFS, GTFS-RT, NeTEx, SIRI, GBFS, and OpenStreetMap data.",
+          "title": "MOTIS"
         },
         {
           "children": [],
@@ -2680,7 +2685,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-28T11:47:27Z",
+            "last_commit": "2026-04-30T19:34:11Z",
             "owner": "eskerda",
             "repo": "pybikes",
             "stars": 602
@@ -2763,7 +2768,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-28T11:47:27Z",
+            "last_commit": "2026-04-30T19:34:11Z",
             "owner": "eskerda",
             "repo": "pybikes",
             "stars": 602
@@ -2825,7 +2830,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-04-30T01:13:24Z",
+                "last_commit": "2026-05-01T02:21:30Z",
                 "owner": "interline-io",
                 "repo": "transitland-lib",
                 "stars": 51
@@ -2838,7 +2843,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-04-30T01:13:24Z",
+                "last_commit": "2026-05-01T02:21:30Z",
                 "owner": "interline-io",
                 "repo": "transitland-lib",
                 "stars": 51
@@ -2851,7 +2856,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-04-30T01:13:24Z",
+                "last_commit": "2026-05-01T02:21:30Z",
                 "owner": "interline-io",
                 "repo": "transitland-lib",
                 "stars": 51
@@ -2863,7 +2868,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-04-30T01:13:24Z",
+            "last_commit": "2026-05-01T02:21:30Z",
             "owner": "interline-io",
             "repo": "transitland-lib",
             "stars": 51
@@ -2879,7 +2884,7 @@
             "last_commit": "2026-04-14T16:03:10Z",
             "owner": "MobilityData",
             "repo": "gtfs-realtime-validator",
-            "stars": 57
+            "stars": 58
           }
         },
         {
@@ -2889,10 +2894,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-30T05:00:59Z",
+            "last_commit": "2026-04-30T13:55:43Z",
             "owner": "opentripplanner",
             "repo": "OpenTripPlanner",
-            "stars": 2621
+            "stars": 2622
           }
         }
       ],
@@ -2911,6 +2916,11 @@
     {
       "description": "",
       "items": [
+        {
+          "children": [],
+          "description": "Web UI for the MOTIS mobility platform (routing, geocoding, live transit map, etc.).",
+          "title": "MOTIS"
+        },
         {
           "children": [],
           "description": "Realtime and Schedule global public transport map and navigation software, written in Rust and Svelte.",
@@ -3115,7 +3125,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-04-30T02:39:31Z",
+            "last_commit": "2026-05-01T03:24:31Z",
             "owner": "KDE",
             "repo": "itinerary",
             "stars": 59
@@ -3232,7 +3242,7 @@
             "last_commit": "2026-03-24T07:15:45Z",
             "owner": "grote",
             "repo": "Transportr",
-            "stars": 1165
+            "stars": 1166
           }
         },
         {
@@ -3282,6 +3292,66 @@
         }
       ],
       "title": "Hardware"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "MOTIS API TypeScript client",
+          "title": "motis-client"
+        },
+        {
+          "children": [],
+          "description": "MOTIS API Java client",
+          "title": "motis-java-client",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-06T11:36:30Z",
+            "owner": "bileto",
+            "repo": "motis-java-client",
+            "stars": 3
+          }
+        },
+        {
+          "children": [],
+          "description": "A  client for  that is a drop-in replacement for  and/or .",
+          "title": "motis-fptf-client",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-23T14:39:57Z",
+            "owner": "public-transport",
+            "repo": "friendly-public-transport-format",
+            "stars": 138
+          }
+        },
+        {
+          "children": [],
+          "description": "TripKit is a Swift-library to get data from public transport providers.",
+          "title": "TripKit",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-04-26T13:06:17Z",
+            "owner": "alexander-albers",
+            "repo": "tripkit",
+            "stars": 109
+          }
+        },
+        {
+          "children": [],
+          "description": "A C++ library for accessing realtime public transport data and for performing public transport journey queries.",
+          "title": "KPublicTransport"
+        },
+        {
+          "children": [],
+          "description": "Open source SDKs for Android, iOS and React for accessing 's TripGo API, including trip planning UI components.",
+          "title": "SkedGo's TripKit SDKs"
+        }
+      ],
+      "title": "SDKs"
     },
     {
       "description": "",
@@ -3378,7 +3448,7 @@
         },
         {
           "children": [],
-          "description": "Intermodal Mobility Information System including",
+          "description": "Intermodal Mobility Information System, global server run by",
           "title": "MOTIS"
         },
         {
@@ -3488,7 +3558,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-28T03:55:28Z",
+            "last_commit": "2026-05-01T05:30:57Z",
             "owner": "gabrielAHN",
             "repo": "gtfs-viz",
             "stars": 43
@@ -3771,7 +3841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-30T05:29:40.509Z",
+    "last_updated": "2026-05-01T05:40:51.265Z",
     "original_repository": "CUTR-at-USF/awesome-transit",
     "source_repository": "v1nvn/enhansome-transit",
     "source_repository_description": null,
