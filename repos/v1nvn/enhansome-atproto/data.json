@@ -6,6 +6,38 @@
       "title": "AT Protocol"
     },
     {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Store and retrieve files on the ATmosphere.",
+          "title": "ATFile",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-10-30T17:42:39Z",
+            "owner": "ziodotsh",
+            "repo": "atfile",
+            "stars": 136
+          }
+        },
+        {
+          "children": [],
+          "description": "AT Protocol suite: reactive mention bot for real-time price lookups, a custom deals feed generator, and a daily deal poster.",
+          "title": "ShopSavvy for Bluesky",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-18T02:15:27Z",
+            "owner": "shopsavvy",
+            "repo": "bluesky-shopsavvy",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
       "description": "Lexicon is a schema definition language used to describe atproto records, HTTP endpoints (XRPC), and event stream messages.\nFind below each platform's lexicons:",
       "items": [
         {
@@ -44,7 +76,7 @@
             "last_commit": "2026-04-29T14:27:23Z",
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9372
+            "stars": 9374
           }
         },
         {
@@ -57,7 +89,7 @@
             "last_commit": "2026-04-27T19:35:27Z",
             "owner": "nperez0111",
             "repo": "bookhive",
-            "stars": 113
+            "stars": 114
           }
         },
         {
@@ -186,7 +218,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-01T01:31:34Z",
+            "last_commit": "2026-05-03T01:58:56Z",
             "owner": "dblock",
             "repo": "sparta-social",
             "stars": 6
@@ -215,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-02T04:54:41.567Z",
+    "last_updated": "2026-05-03T05:25:10.597Z",
     "original_repository": "atblueprints/awesome-atproto",
     "source_repository": "v1nvn/enhansome-atproto",
     "source_repository_description": null,

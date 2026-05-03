@@ -15,10 +15,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-13T05:09:00Z",
+            "last_commit": "2026-05-03T01:26:06Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 1844
+            "stars": 1843
           }
         },
         {
@@ -28,10 +28,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-13T05:09:00Z",
+            "last_commit": "2026-05-03T01:26:06Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 1844
+            "stars": 1843
           }
         },
         {
@@ -41,10 +41,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-13T05:09:00Z",
+            "last_commit": "2026-05-03T01:26:06Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 1844
+            "stars": 1843
           }
         },
         {
@@ -54,10 +54,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-13T05:09:00Z",
+            "last_commit": "2026-05-03T01:26:06Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 1844
+            "stars": 1843
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-13T05:09:00Z",
+            "last_commit": "2026-05-03T01:26:06Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 1844
+            "stars": 1843
           }
         }
       ],
@@ -366,7 +366,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-01T02:19:26Z",
+            "last_commit": "2026-05-02T21:23:58Z",
             "owner": "relative-ci",
             "repo": "bundle-stats",
             "stars": 668
@@ -378,6 +378,19 @@
     {
       "description": "",
       "items": [
+        {
+          "children": [],
+          "description": "Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.",
+          "title": "CSS-perf",
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2017-06-22T15:39:17Z",
+            "owner": "mdo",
+            "repo": "css-perf",
+            "stars": 568
+          }
+        },
         {
           "children": [],
           "description": "A modern browser-based JavaScript benchmarking tool for quickly creating and sharing performance tests.",
@@ -478,13 +491,7 @@
             "repo": "jsperf.com",
             "stars": 1303
           }
-        }
-      ],
-      "title": "Benchmark - JavaScript"
-    },
-    {
-      "description": "",
-      "items": [
+        },
         {
           "children": [],
           "description": "Graphical output for PHP benchmarks: plot any function's runtime in real time with GnuPlot and export an image of the result.",
@@ -512,7 +519,7 @@
           }
         }
       ],
-      "title": "Benchmark - PHP"
+      "title": "Benchmarks"
     },
     {
       "description": "",
@@ -574,6 +581,88 @@
       "items": [
         {
           "children": [],
+          "description": "A content delivery network that uses next-gen tech to deliver fast, reliable, CDN services.",
+          "title": "Cloudflare CDN"
+        },
+        {
+          "children": [],
+          "description": "A state-of-the-art opensource CDN with aggressive content optimization using brotli-11 compression, HTTP/2 server push, better HTTP/2 multiplexing, and more. Supports 100s of libraries and 2000+ WordPress themes already. Easy to use, easy to link, and very fast.",
+          "title": "PageCDN"
+        },
+        {
+          "children": [],
+          "description": "Similar to Google Hosted Libraries, jsDelivr is an open-source CDN that allows developers to host their own projects and anyone to link to our hosted files on their sites.",
+          "title": "jsDelivr",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-02T12:15:32Z",
+            "owner": "jsdelivr",
+            "repo": "jsdelivr",
+            "stars": 6235
+          }
+        },
+        {
+          "children": [],
+          "description": "Google-run CDN for the most popular open-source JavaScript libraries.",
+          "title": "Google Hosted Libraries"
+        },
+        {
+          "children": [],
+          "description": "An open-source CDN for JavaScript and CSS sponsored by Cloudflare that hosts everything from jQuery and Modernizr to Bootstrap.",
+          "title": "CDNjs"
+        },
+        {
+          "children": [],
+          "description": "A content delivery network by Amazon that integrates nicely with other Amazon services or can be used standalone.",
+          "title": "Amazon CloudFront"
+        },
+        {
+          "children": [],
+          "description": "Official CDN for the latest stable releases, powered by MaxCDN.",
+          "title": "jQuery"
+        },
+        {
+          "children": [],
+          "description": "cn:  - CDN provided by upyun.",
+          "title": "UpYun CDN"
+        },
+        {
+          "children": [],
+          "description": "cn:  - Bootstrap Chinese net open CDN service (only HTTP).",
+          "title": "Bootstrap 中文网开放 CDN 服务"
+        },
+        {
+          "children": [],
+          "description": "ru:  - Yandex Content Delivery Network hosts popular third-party JavaScript and CSS libraries (best for use in Russia).",
+          "title": "Yandex CDN"
+        },
+        {
+          "children": [],
+          "description": "Finds you fast and reliable JavaScript CDNs that make your sites snappy and happy.",
+          "title": "CDNperf"
+        },
+        {
+          "children": [],
+          "description": "Replaces script references with Google CDN ones.",
+          "title": "Gulp-google-cdn",
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-01-23T11:50:19Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-google-cdn",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "CDN"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
           "description": "Small library to accurately measure Core Web Vitals (LCP, FID, CLS, INP, TTFB) in the browser.",
           "title": "web-vitals",
           "repo_info": {
@@ -582,7 +671,7 @@
             "last_commit": "2026-04-28T07:43:26Z",
             "owner": "GoogleChrome",
             "repo": "web-vitals",
-            "stars": 8485
+            "stars": 8486
           }
         },
         {
@@ -595,7 +684,7 @@
             "last_commit": "2026-05-01T18:33:40Z",
             "owner": "GoogleChrome",
             "repo": "lighthouse",
-            "stars": 30120
+            "stars": 30125
           }
         },
         {
@@ -608,7 +697,7 @@
             "last_commit": "2026-03-27T19:57:30Z",
             "owner": "GoogleChrome",
             "repo": "lighthouse-ci",
-            "stars": 6949
+            "stars": 6951
           }
         }
       ],
@@ -725,7 +814,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-04-28T06:25:10Z",
+            "last_commit": "2026-05-02T16:55:41Z",
             "owner": "assetgraph",
             "repo": "assetgraph-sprite",
             "stars": 36
@@ -832,7 +921,7 @@
             "last_commit": "2026-04-26T18:26:45Z",
             "owner": "lovell",
             "repo": "sharp",
-            "stars": 32191
+            "stars": 32190
           }
         },
         {
@@ -881,7 +970,7 @@
             "last_commit": "2025-11-11T06:45:37Z",
             "owner": "sindresorhus",
             "repo": "gulp-imagemin",
-            "stars": 1904
+            "stars": 1905
           }
         },
         {
@@ -1048,7 +1137,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-04-25T08:26:24Z",
+            "last_commit": "2026-05-02T07:44:03Z",
             "owner": "343dev",
             "repo": "optimizt",
             "stars": 170
@@ -1101,7 +1190,7 @@
             "last_commit": "2026-05-02T01:16:41Z",
             "owner": "GoogleChromeLabs",
             "repo": "quicklink",
-            "stars": 11231
+            "stars": 11232
           }
         }
       ],
@@ -1203,7 +1292,7 @@
             "last_commit": "2026-04-29T13:07:09Z",
             "owner": "guess-js",
             "repo": "guess",
-            "stars": 7119
+            "stars": 7120
           }
         }
       ],
@@ -1517,7 +1606,7 @@
             "last_commit": "2024-11-22T08:11:38Z",
             "owner": "mishoo",
             "repo": "UglifyJS",
-            "stars": 13398
+            "stars": 13397
           }
         },
         {
@@ -1569,7 +1658,7 @@
             "last_commit": "2024-10-18T06:34:43Z",
             "owner": "clean-css",
             "repo": "clean-css",
-            "stars": 4198
+            "stars": 4199
           }
         },
         {
@@ -1720,10 +1809,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-01T19:31:56Z",
+            "last_commit": "2026-05-02T10:56:13Z",
             "owner": "unjs",
             "repo": "fontaine",
-            "stars": 1945
+            "stars": 1946
           }
         },
         {
@@ -1767,7 +1856,7 @@
             "last_commit": "2026-05-02T00:58:33Z",
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10181
+            "stars": 10180
           }
         },
         {
@@ -1825,7 +1914,7 @@
             "last_commit": "2026-04-17T14:56:09Z",
             "owner": "svg",
             "repo": "svgo",
-            "stars": 22458
+            "stars": 22462
           }
         },
         {
@@ -2081,7 +2170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-02T04:58:16.897Z",
+    "last_updated": "2026-05-03T05:30:15.598Z",
     "original_repository": "davidsonfellipe/awesome-wpo",
     "source_repository": "v1nvn/enhansome-wpo",
     "source_repository_description": null,
