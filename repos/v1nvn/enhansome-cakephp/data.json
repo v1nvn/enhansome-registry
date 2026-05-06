@@ -928,7 +928,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-03T07:58:24Z",
+            "last_commit": "2026-05-05T14:30:25Z",
             "owner": "dereuromark",
             "repo": "cakephp-shim",
             "stars": 40
@@ -1714,7 +1714,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-04T21:43:37Z",
+            "last_commit": "2026-05-06T03:16:20Z",
             "owner": "dereuromark",
             "repo": "cakephp-fixture-factories",
             "stars": 2
@@ -1856,11 +1856,6 @@
       "title": "Development Environment"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Web Applications"
-    },
-    {
       "description": "Web-based (demo) applications and tools.",
       "items": [
         {
@@ -1922,8 +1917,21 @@
         },
         {
           "children": [],
+          "description": "Full interactivate auth (TinyAuth incl. Authentication and Authorization core plugins) demo.",
+          "title": "TinyAuth demo",
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-26T12:06:30Z",
+            "owner": "dereuromark",
+            "repo": "cakephp-tinyauth-demo",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
           "description": "Advanced query building examples.",
-          "title": "Query Examples",
+          "title": "Query examples",
           "repo_info": {
             "archived": false,
             "language": "PHP",
@@ -1949,7 +1957,7 @@
         {
           "children": [],
           "description": "A CakePHP + Vue.js single page application skeleton.",
-          "title": "Vue.js Demo App",
+          "title": "Vue.js demo app",
           "repo_info": {
             "archived": false,
             "language": "PHP",
@@ -1984,7 +1992,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-05T04:53:45.641Z",
+    "last_updated": "2026-05-06T05:20:03.389Z",
     "original_repository": "friendsofcake/awesome-cakephp",
     "source_repository": "v1nvn/enhansome-cakephp",
     "source_repository_description": null,
