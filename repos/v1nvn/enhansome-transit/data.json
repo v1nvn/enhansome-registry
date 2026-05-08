@@ -598,7 +598,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-04T11:45:58Z",
+            "last_commit": "2026-05-07T11:11:30Z",
             "owner": "entur",
             "repo": "netex-gtfs-converter-java",
             "stars": 9
@@ -837,7 +837,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-06T16:39:49Z",
+            "last_commit": "2026-05-07T20:48:53Z",
             "owner": "ibi-group",
             "repo": "datatools-ui",
             "stars": 146
@@ -994,6 +994,19 @@
             "repo": "uttu",
             "stars": 7
           }
+        },
+        {
+          "children": [],
+          "description": "Web application to edit, validate and analyze GTFS feeds — including Fares v2 and GTFS-Flex — with an interactive schedule grid and map editor, an SQL console with AI-assisted natural-language queries, and strict canonical validation via .",
+          "title": "GTFS Express",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-05T20:56:56Z",
+            "owner": "MobilityData",
+            "repo": "gtfs-validator",
+            "stars": 402
+          }
         }
       ],
       "title": "GTFS Data Collection and Maintenance Tools"
@@ -1118,7 +1131,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-03-24T19:51:00Z",
+            "last_commit": "2026-05-07T19:42:51Z",
             "owner": "conveyal",
             "repo": "r5",
             "stars": 381
@@ -1186,7 +1199,7 @@
             "last_commit": "2026-05-03T22:50:54Z",
             "owner": "c2g-dev",
             "repo": "city2graph",
-            "stars": 1180
+            "stars": 1183
           }
         },
         {
@@ -1224,11 +1237,6 @@
           "children": [],
           "description": "Public Transit Nework Analysis is a open source system for finding and aggregating information about public transportation lines mapped in OSM.",
           "title": "PTNA"
-        },
-        {
-          "children": [],
-          "description": "Web application to upload, validate and visually explore GTFS feeds, featuring an interactive network map, route and stop inspection, schedule grids, and a network statistics dashboard.",
-          "title": "GTFS Explorer"
         }
       ],
       "title": "GTFS Analysis Tools"
@@ -1392,6 +1400,19 @@
         },
         {
           "children": [],
+          "description": "Validates GTFS Schedule datasets using MobilityData's GTFS-Validator and exposes the results as Prometheus/OpenTelemetry metrics.",
+          "title": "gtfs-validator-metrics-service",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-02T12:05:18Z",
+            "owner": "mobidata-bw",
+            "repo": "gtfs-validator-metrics-service",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
           "description": "Transit schedule and GTFS validation platform by  that includes a free, web-based GTFS validator based on .",
           "title": "Reflect GTFS Validator (hosted by Foursquare ITP)",
           "repo_info": {
@@ -1455,7 +1476,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-04-30T15:08:27Z",
+            "last_commit": "2026-05-07T14:43:05Z",
             "owner": "google",
             "repo": "transit",
             "stars": 954
@@ -1468,7 +1489,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-04-30T15:08:27Z",
+            "last_commit": "2026-05-07T14:43:05Z",
             "owner": "google",
             "repo": "transit",
             "stars": 954
@@ -2240,7 +2261,7 @@
             "last_commit": "2026-05-06T11:06:37Z",
             "owner": "TOMP-WG",
             "repo": "TOMP-API",
-            "stars": 109
+            "stars": 110
           }
         }
       ],
@@ -2337,7 +2358,7 @@
             "last_commit": "2026-05-04T11:38:32Z",
             "owner": "zephyr-data-specs",
             "repo": "GMNS",
-            "stars": 130
+            "stars": 131
           }
         },
         {
@@ -2422,7 +2443,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-04-29T14:43:02Z",
+            "last_commit": "2026-05-07T15:17:27Z",
             "owner": "UnionInternationalCheminsdeFer",
             "repo": "OSDM",
             "stars": 85
@@ -2533,10 +2554,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-06T14:49:18Z",
+            "last_commit": "2026-05-07T22:54:34Z",
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6430
+            "stars": 6432
           }
         },
         {
@@ -2587,7 +2608,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-06T08:33:48Z",
+            "last_commit": "2026-05-07T13:00:50Z",
             "owner": "hove-io",
             "repo": "navitia",
             "stars": 454
@@ -2683,7 +2704,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-06T08:33:48Z",
+            "last_commit": "2026-05-07T13:00:50Z",
             "owner": "hove-io",
             "repo": "navitia",
             "stars": 454
@@ -2738,94 +2759,15 @@
         },
         {
           "children": [],
-          "description": "Test data created for the original Google .",
-          "title": "transitfeed unit tests",
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-09-28T09:02:50Z",
-            "owner": "google",
-            "repo": "transitfeed",
-            "stars": 690
-          }
-        },
-        {
-          "children": [
-            {
-              "children": [],
-              "description": null,
-              "title": "GTFS - \"bad entities\" at the single row level",
-              "repo_info": {
-                "archived": false,
-                "language": "Go",
-                "last_commit": "2026-05-07T01:41:07Z",
-                "owner": "interline-io",
-                "repo": "transitland-lib",
-                "stars": 51
-              }
-            },
-            {
-              "children": [],
-              "description": null,
-              "title": "GTFS - validation errors that that involve entities in one or more files",
-              "repo_info": {
-                "archived": false,
-                "language": "Go",
-                "last_commit": "2026-05-07T01:41:07Z",
-                "owner": "interline-io",
-                "repo": "transitland-lib",
-                "stars": 51
-              }
-            },
-            {
-              "children": [],
-              "description": null,
-              "title": "GTFS - best practices",
-              "repo_info": {
-                "archived": false,
-                "language": "Go",
-                "last_commit": "2026-05-07T01:41:07Z",
-                "owner": "interline-io",
-                "repo": "transitland-lib",
-                "stars": 51
-              }
-            }
-          ],
           "description": "For testing the  library that handles GTFS and GTFS Realtime parsing and validation for Transitland:",
           "title": "Transitland GTFS and GTFS Realtime unit tests",
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-07T01:41:07Z",
+            "last_commit": "2026-05-07T22:22:02Z",
             "owner": "interline-io",
             "repo": "transitland-lib",
             "stars": 51
-          }
-        },
-        {
-          "children": [],
-          "description": "Some  are included and a large number of GTFS RT messages are defined  via the gtfs-realtime-bindings library.",
-          "title": "gtfs-realtime-validator unit tests",
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-04-14T16:03:10Z",
-            "owner": "MobilityData",
-            "repo": "gtfs-realtime-validator",
-            "stars": 58
-          }
-        },
-        {
-          "children": [],
-          "description": "Some  are defined for the unit tests ( and ).",
-          "title": "OpenTripPlanner unit tests",
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-05-06T21:04:17Z",
-            "owner": "opentripplanner",
-            "repo": "OpenTripPlanner",
-            "stars": 2626
           }
         }
       ],
@@ -2892,7 +2834,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-01T18:16:10Z",
+            "last_commit": "2026-05-07T16:14:28Z",
             "owner": "opentripplanner",
             "repo": "otp-ui",
             "stars": 70
@@ -3053,7 +2995,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-07T02:41:03Z",
+            "last_commit": "2026-05-07T10:41:54Z",
             "owner": "KDE",
             "repo": "itinerary",
             "stars": 59
@@ -3180,7 +3122,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-05-07T03:56:41Z",
+            "last_commit": "2026-05-07T14:19:52Z",
             "owner": "trufi-association",
             "repo": "trufi-app",
             "stars": 13
@@ -3489,7 +3431,7 @@
             "last_commit": "2026-05-04T13:56:06Z",
             "owner": "gabrielAHN",
             "repo": "gtfs-viz",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -3769,7 +3711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-07T05:31:12.682Z",
+    "last_updated": "2026-05-08T04:52:50.995Z",
     "original_repository": "CUTR-at-USF/awesome-transit",
     "source_repository": "v1nvn/enhansome-transit",
     "source_repository_description": null,
